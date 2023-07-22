@@ -2,15 +2,18 @@
 @import url(https://fonts.googleapis.com/css?family=Space+Grotesk:regular,italic,700,700italic);
 
 :root {
-	--vp-c-brand: #ff7340;
-	--vp-c-brand-light: #ff5719;
-	--vp-c-brand-lighter: #ff7340;
-	--vp-c-brand-lighter: rgba(255, 135, 23, 0.25);
-	--vp-c-brand-dark: #ff622d;
-	--vp-c-brand-darker: #e23c00;
+	--vp-c-brand: rgb(142, 104, 160);
+	--vp-c-brand-light: rgb(176, 128, 198);
+	--vp-c-brand-lighter: rgba(175, 127, 197, 0.674);
+	--vp-c-brand-dark: rgb(104, 73, 118);
+	--vp-c-brand-darker: rgb(64, 47, 72);
   
 	--vp-c-sponsor: #fd1d7c;
   
+	--vp-c-bg-alt: #f7f3eb;
+
+	--vp-c-text-dark-1: var(:root.--vp-c-bg-alt);
+
 	/* Typography */
 	--vp-font-family-base: "Raleway", "Inter var experimental", "Inter var",
 		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
@@ -18,4 +21,12 @@
   
 	/* Code Snippet font */
 	--vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
-  }
+}
+
+/* p {
+	font-size: 18px;
+} */
+
+.dark {
+	--vp-c-bg-alt: rgb(64, 47, 72);
+}
