@@ -6,8 +6,6 @@ export default {
 	titleTemplate: ':title - kosara.net',
 	description: "Robert Kosara's Papers",
 
-	base: '/kosaravite/',	// for github pages for now
-
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
