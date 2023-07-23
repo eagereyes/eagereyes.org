@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "kosara.net"
-  text: "Robert Kosara's Papers"
+  name: "eagereyes.org"
+  text: "Visualization and Visual Communication"
   tagline: My great project tagline
   actions:
     - theme: brand

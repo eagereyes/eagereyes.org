@@ -2,9 +2,11 @@
 
 // https://vitepress.dev/reference/site-config
 export default {
-	title: "kosara.net",
-	titleTemplate: ':title - kosara.net',
-	description: "Robert Kosara's Papers",
+	title: "eagereyes.org",
+	titleTemplate: ':title - eagereyes.org',
+	description: "Visualization and Visual Communication",
+
+	cleanUrls: true,
 
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
