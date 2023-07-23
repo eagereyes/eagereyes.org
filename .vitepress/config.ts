@@ -18,7 +18,10 @@ export default {
 				text: 'Publications',
 				items: [
 					{ text: 'Journal Papers', link: '/publications/' },
-					{ text: 'Conference Papers', link: '/publications/' }
+					{ text: 'Conference Papers', link: '/publications/' },
+					{ text: 'Blog 2008', link: '/blog/2008/charts-and-metaphors'},
+					{ text: 'Blog 2008b', link: '/blog/2008/ny-times-the-best-and-worst-of-data-visualization'},
+					{ text: 'Blog 2023', link: '/blog/2023/course-on-data-vis-fundamentals-and-best-practices'},
 				]
 			}
 		],

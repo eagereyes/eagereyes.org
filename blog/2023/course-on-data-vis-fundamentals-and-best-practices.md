@@ -1,0 +1,34 @@
+---
+title: "Course on Data Vis Fundamentals and Best Practices"
+description: "I'm teaching a short course on data visualization for Observable. It's free, and you should join! Starts March 7."
+date: 2023-02-23T16:02:34.000Z
+tags: 
+---
+
+# Course on Data Vis Fundamentals and Best Practices
+
+I'm teaching <a href="https://observablehq.com/@observablehq/datavizcourse?utm_medium=video&amp;utm_campaign=datavizcourse&amp;utm_source=videoembed" target="_blank" rel="noreferrer noopener">a short course on data visualization for Observable</a>. It's free, and you should join! Starts March 7.
+
+The course will cover the fundamentals of data visualization, like the key chart types, how they work, when and how to use them. We'll also talk about transformations of data, like binning and smoothing data, and of course interaction.
+
+We'll use <a href="https://observablehq.com/@observablehq/plot?collection=@observablehq/plot">Observable's Plot library</a> for the most part, plus a bit of D3. The focus will not be on the tools however, but on the data visualization. If you don't know JavaScript, you can brush up a bit by reading our <a href="https://observablehq.com/@observablehq/learn-javascript-introduction" target="_blank" rel="noreferrer noopener"><em>Just Enough JavaScript</em> intro</a> and following the quick guides on your Observable user home page. I'll introduce any JS and Plot features I'm using as needed in the course, too.
+
+Here's a bit more in my little teaser video:
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/fupMzCU1sOo
+</div></figure>
+
+The course starts March 7 and consists of five sessions (every Tuesday and Thursday, 9am PST/noon EST). <a href="https://observablehq.com/@observablehq/datavizcourse?utm_medium=video&amp;utm_campaign=datavizcourse&amp;utm_source=videoembed" target="_blank" rel="noreferrer noopener">Sign up here to join</a>!
+
+
+---
+## Comments
+
+<a href="http://igcetra.wordpress.com" rel="nofollow noopener">igcetra</a> says…
+>	Is this course recorded somewhere?
+
+<a href="http://eagereyes.org/about" rel="nofollow noopener">Robert Kosara</a> says…
+>	Yes! You can watch <a href="https://www.youtube.com/watch?v=WJ1c54Ab-o8&list=PLOHIJAFwtkEdEQ698jmgoEiC2FFtq-gys" rel="nofollow ugc">the videos here</a> and the <a href="https://observablehq.com/@observablehq/course-materials-and-pointers?collection=@observablehq/data-vis-course" rel="nofollow ugc">course materials are collected here</a>
+
+
