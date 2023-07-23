@@ -41,18 +41,25 @@ def extractExcerpt(postText):
 
 posts = json.load(open('posts.json', 'r'))
 
-EXTRACTPATH = 'blog/2023/'
-# EXTRACTPATH = 'blog/2008/'
+REPLACEPATHS = [{'from': 'blog/web/', 'to': 'blog/2014/'},
+				{'from': 'blog/zipscribble-maps/', 'to': 'blog/2016/'}
+				]
+
+EXTRACTPATH = 'blog/2016/'
 
 for post in posts:
-	if post['slug'].startswith(EXTRACTPATH):
-		print(post['slug'])
+	slug = post['slug']
+	for r in REPLACEPATHS:
+		slug = slug.replace(r['from'], r['to'])
+	
+	if slug.startswith(EXTRACTPATH):
+		print(slug)
 		content = deWordPress(post['content'])
 		excerpt = post['excerpt']
 		if len(post['excerpt']) == 0:
 			excerpt = extractExcerpt(content)
 
-		with open(post['slug'] + '.md', 'w') as outFile:
+		with open(slug + '.md', 'w') as outFile:
 			outFile.write('---\n')
 			outFile.write('title: "%s"\n' % quoteQuotes(post['title']))
 			outFile.write('description: "%s"\n' % quoteQuotes(deHTML(excerpt)))
