@@ -41,8 +41,8 @@ def extractExcerpt(postText):
 
 posts = json.load(open('posts.json', 'r'))
 
-# EXTRACTPATH = 'blog/2023/'
-EXTRACTPATH = 'blog/2008/'
+EXTRACTPATH = 'blog/2023/'
+# EXTRACTPATH = 'blog/2008/'
 
 for post in posts:
 	if post['slug'].startswith(EXTRACTPATH):
@@ -58,6 +58,8 @@ for post in posts:
 			outFile.write('description: "%s"\n' % quoteQuotes(deHTML(excerpt)))
 			outFile.write('date: %s\n' % post['date'])
 			outFile.write('tags: %s\n' % post['tags'])
+			if content.count('<h2>') == 0:
+				outFile.write('outline: false\n')
 			outFile.write('---\n\n')
 			outFile.write('# %s\n\n' % post['title'])
 			outFile.write(convertHTML(content))

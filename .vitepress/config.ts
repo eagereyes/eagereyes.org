@@ -23,6 +23,7 @@ export default {
 					{ text: 'Conference Papers', link: '/publications/' },
 					{ text: 'Blog 2008', link: '/blog/2008/charts-and-metaphors'},
 					{ text: 'Blog 2008b', link: '/blog/2008/ny-times-the-best-and-worst-of-data-visualization'},
+					{ text: 'Blog 2008c', link: '/blog/2008/sad-state-of-infovis-contest'},
 					{ text: 'Blog 2023', link: '/blog/2023/course-on-data-vis-fundamentals-and-best-practices'},
 				]
 			}
@@ -35,7 +36,9 @@ export default {
 
 		search: {
 			provider: 'local'
-		}
+		},
+
+		outlineTitle: 'Contents'
 	},
 
 	// set page title for publications
