@@ -14,14 +14,14 @@ In case you're wondering about the significance of this momentous achievement: <
 
 Just as before, I'll just let Ben explain this one. I can't top his puns, anyway.
 
-<blockquote>HI Robert,
-I finally got around to making my next pie... and this one is a treemap pie! Made with apples and pears.
-
-Which makes it a pear-ified tree-mapple pie! (Groan!)
-
-I'm not sure this is up to the level of quality for your blog, but maybe you'll find some clever way elevate the discourse.... maybe with a crusty pun, a slicing jibe, or an overbaked quip.
-
-I wish I could offer you a slice... Ben</blockquote>
+> HI Robert,
+> I finally got around to making my next pie... and this one is a treemap pie! Made with apples and pears.
+> 
+> Which makes it a pear-ified tree-mapple pie! (Groan!)
+> 
+> I'm not sure this is up to the level of quality for your blog, but maybe you'll find some clever way elevate the discourse.... maybe with a crusty pun, a slicing jibe, or an overbaked quip.
+> 
+> I wish I could offer you a slice... Ben
 
 <img class="aligncenter size-full wp-image-9711" src="https://eagereyes.org/wp-content/uploads/2016/10/treepie1.jpg" alt="treepie1" width="1440" height="1080" />
 

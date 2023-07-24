@@ -12,9 +12,9 @@ So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form 
 
 I'm <a href="http://andrewgelman.com">pulling a Gelman</a> here by just quoting Ben's email:
 
-<blockquote>I've started a new hobby-- baking peach pies.  I did a few this summer with the usual crisscross pattern but a friend thought these were too much like a traditional rectangular lattice.  So I've made him a parallel coords one (see photo) with peaches and strawberries. My next challenge is a treemap pie.
-
-I thought you might like this as an item for Eager Eyes...I'm sure you'll find something clever to say about these pies.  Maybe we can inspire a VIS PIE contest.</blockquote>
+> I've started a new hobby-- baking peach pies.  I did a few this summer with the usual crisscross pattern but a friend thought these were too much like a traditional rectangular lattice.  So I've made him a parallel coords one (see photo) with peaches and strawberries. My next challenge is a treemap pie.
+> 
+> I thought you might like this as an item for Eager Eyes...I'm sure you'll find something clever to say about these pies.  Maybe we can inspire a VIS PIE contest.
 
 Who would take issue with a VIS PIE contest? What could go wrong with promoting pies at VIS?
 
