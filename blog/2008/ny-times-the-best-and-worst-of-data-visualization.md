@@ -3,6 +3,7 @@ title: "NY Times: The Best and Worst of Data Visualization"
 description: "The New York Times uses some of the best information graphics and visualizations on its web site and in the printed paper. But there is also a strange undercurrent of bad graphics, many of which commissioned from other sources, and often published in the New York Times Magazine. It almost feels like between all the good graphs, they need an outlet for the crazy stuff.&nbsp;"
 date: 2008-09-24T07:04:01.000Z
 tags: 
+outline: false
 ---
 
 # NY Times: The Best and Worst of Data Visualization

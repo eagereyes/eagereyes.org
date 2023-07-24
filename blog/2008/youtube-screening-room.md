@@ -3,6 +3,7 @@ title: "The YouTube Screening Room"
 description: "I'm not generally a big YouTube fan. Sure, I've watched all the funny cat movies and seen people dump Mentos into bottles of Diet Coke. But little else has made me go there in some months. This has changed, though, with a new feature of the website: The YouTube Screen Room. Twice a month, four independent short films are added to the site, and the quality is amazing."
 date: 2008-07-15T06:31:32.000Z
 tags: 
+outline: false
 ---
 
 # The YouTube Screening Room
@@ -24,7 +25,7 @@ Here are my favorites so far. They're all really good though.
 ---
 ## Comments
 
-<a href="http://techengage.com" rel="nofollow noopener">Modern Technologies</a> says…
+<a href="http://techengage.com" rel="nofollow noopener" target="_blank">Modern Technologies</a> says…
 >	<p>I met the walrus is one of my favorites also.</p>
 
 

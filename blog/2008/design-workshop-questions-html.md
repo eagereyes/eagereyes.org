@@ -3,6 +3,7 @@ title: "Design Workshop Questions"
 description: "Jeff Heer asked me to talk more about the Design, Vision, and Visualization workshop at VisWeek, so here is a list of questions we came up with. While we were not able to discuss them at great length, I think they're very valid, and might lead to a better understanding about how to connect the design and visualization worlds."
 date: 2008-11-10T06:14:37.000Z
 tags: 
+outline: false
 ---
 
 # Design Workshop Questions
@@ -17,7 +18,7 @@ The list is based on my notes and what I remember from the discussion, but I als
 ---
 ## Comments
 
-<a href="http://charts.jorgecamoes.com" rel="nofollow noopener">Jorge Camoes</a> says…
+<a href="http://charts.jorgecamoes.com" rel="nofollow noopener" target="_blank">Jorge Camoes</a> says…
 >	<ul>
 >	<li>"What is the visual language of the users?"</li>
 >	</ul>

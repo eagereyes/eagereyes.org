@@ -1,0 +1,34 @@
+---
+title: "Bring Out Your Dreadful Charts!"
+description: "There are many terrible charts out there, whether visually ugly and cluttered, or pretty but empty or even misleading (like this beautiful pie chart example featured on Fox News recently). Andrew Vande Moere at infosthetics is hosting a competition to find the ugliest and most useless charts."
+date: 2009-11-25T07:10:25.000Z
+tags: 
+outline: false
+---
+
+# Bring Out Your Dreadful Charts!
+
+<a href="http://eagereyes.org/blog/2009/bring-out-your-dreadful-charts"><img src="http://eagereyes.org/media/2009/foxpie.jpg" border="0" alt="Pie Chart adding up to 193% on Fox News" width="548" height="411" /></a>
+
+There are many terrible charts out there, whether visually ugly and cluttered, or pretty but empty or even misleading (like this <a href="http://tweetphoto.com/b64lawq7">beautiful pie chart example featured on Fox News</a> recently). Andrew Vande Moere at infosthetics is hosting a <a href="http://infosthetics.com/archives/2009/11/competition_most_ugly_and_useless_visualization_online.html">competition to find the ugliest and most useless charts</a>.
+
+In his description, Andrew points to <a href="http://eagereyes.org/blog/2009/a-better-vis-web-community.html">my complaints about most visualizations on the web being pretty rather than useful</a>. His aim is to find visualizations that are both ugly <em>and</em> useless.
+
+<blockquote>
+While we keep discussing the necessity of theoretical frameworks, start dozens of vizblogs with endless "best-of" lists, and criticize the best practice of data visualizations, we seem to have lost the attention to a parallel universe, which no-one really recognizes the need to write a manifesto for. A field that is potentially more prevalent than all visualization "tools" and "artwork" put together. I mean those data visualizations that are neither "eye candy" nor "useful", neither "beautiful" nor "functional", neither "art" nor a "tool", neither "user-satisfactory" nor "effective", and neither stimulating the "heart" nor the "brain".
+
+</blockquote>
+Of course, ugliness is easy to detect. Just like beauty, it's only skin-deep. The more difficult problem is uselessness, which depends not just on the chart itself, but also on its audience and the task it is supposed to help accomplish.
+
+So the chart at the top of this posting does not qualify, even though it is obviously wrong: the percentages sum up to 193%, which makes no sense. The poll presumably asked people to name one or more candidates they would back, so there is an overlap between the opinions. The pie chart is clearly the wrong way of showing this information.
+
+It would be interesting to start teasing apart the usefulness and prettiness dimensions separately, but an ugly charts contest is a start.
+
+
+---
+## Comments
+
+<a href="http://peltiertech.com/WordPress/" rel="nofollow noopener" target="_blank">Jon Peltier</a> says…
+>	<p>Actually, the percentages listed in the chart are actually the approval ratings for these potential candidates among Republican voters. If you wanted a fourth wedge, so the numbers added to 251%, you could add Newt Gingrich and his 58% approval rating.</p>
+
+

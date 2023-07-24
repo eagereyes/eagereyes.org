@@ -3,6 +3,7 @@ title: "New video: Exploring the connections between companies with They Rule"
 description: "Josh On's They Rule is back, and I've made a video about it."
 date: 2023-02-09T15:41:22.000Z
 tags: YouTube Videos
+outline: false
 ---
 
 # New video: Exploring the connections between companies with They Rule

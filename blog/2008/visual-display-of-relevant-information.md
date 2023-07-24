@@ -3,6 +3,7 @@ title: "The Visual Display of Relevant Information"
 description: "When Al Gore talks about global warming, Hans Rosling shows the relationship between health and wealth, and the New York Times visualizes primary results and American consumer debt, they communicate visually. But they only use visual representation to get their point across, as a means to an end. When we want to show why visualization is effective, we have to care about the message, too &ndash; not just the method."
 date: 2008-07-22T03:43:20.000Z
 tags: 
+outline: false
 ---
 
 # The Visual Display of Relevant Information

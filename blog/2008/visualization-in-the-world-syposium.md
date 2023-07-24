@@ -3,6 +3,7 @@ title: "Visualization in the World"
 description: "On April 24 and 25, the Charlotte Visualization Center at UNC Charlotte will host its second symposium, titled Visualization in the World. We have an impressive line-up of speakers and are expecting fascinating discussions."
 date: 2008-04-11T22:59:01.000Z
 tags: 
+outline: false
 ---
 
 # Visualization in the World

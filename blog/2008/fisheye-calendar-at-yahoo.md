@@ -3,6 +3,7 @@ title: "A Fisheye Calendar at Yahoo!"
 description: "What a difference 22 years make! In 1986, George Furnas published his paper, Generalized Fisheye Views, which described what was to become one of the first (and most prominent) focus+context techniques. One of the examples he used was a calendar that showed the current day in most detail, with less space for the surrounding ones. Yahoo! just started an opt-in beta of their new calendar that uses the same idea."
 date: 2008-10-09T04:30:19.000Z
 tags: 
+outline: false
 ---
 
 # A Fisheye Calendar at Yahoo!
@@ -25,11 +26,11 @@ While I don't think that this will lead to a revolution in how quickly companies
 ---
 ## Comments
 
-<a href="http://calliopesounds.blogspot.com" rel="nofollow noopener">Andrew Gilmartin</a> says…
+<a href="http://calliopesounds.blogspot.com" rel="nofollow noopener" target="_blank">Andrew Gilmartin</a> says…
 >	Do you know of any work along the lines of "small multiples" for calendars. My own thoughts are at
 >	http://calliopesounds.blogspot.com/2012/03/need-multiple-view-calendar.html
 
-<a href="https://plus.google.com/+OllieFord" rel="nofollow noopener">Ollie Ford</a> says…
+<a href="https://plus.google.com/+OllieFord" rel="nofollow noopener" target="_blank">Ollie Ford</a> says…
 >	Furnas was not the first, Spence and Apperley proposed this design in 1982, from a basic illustration presented in 1980.
 >	
 >	http://www.ee.ic.ac.uk/r.spence/pubs/SA82.pdf

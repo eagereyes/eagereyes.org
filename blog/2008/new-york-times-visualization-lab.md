@@ -3,6 +3,7 @@ title: "The New York Times Visualization Lab"
 description: "The New York Times' new&nbsp;Visualization Lab uses IBM's Many Eyes technology. While it provides easy access to a wealth of visualization techniques and the possibility to comment, there is one major difference: only data provided by the NY Times can be used. The kind and quality of that data will determine the success of this new site."
 date: 2008-10-29T07:26:23.000Z
 tags: 
+outline: false
 ---
 
 # The New York Times Visualization Lab
@@ -23,10 +24,10 @@ The NY Times name will certainly drive traffic, but to make the site compelling 
 ---
 ## Comments
 
-<a href="http://www.pdxsmiles.com/dental-implants-portland/" rel="nofollow noopener">Dr. Roger Portland</a> says…
+<a href="http://www.pdxsmiles.com/dental-implants-portland/" rel="nofollow noopener" target="_blank">Dr. Roger Portland</a> says…
 >	<p>The Obama Acceptance Speech Wordle is pretty interesting. I wonder if this schematic is also used by psychologists.</p>
 
-<a href="http://mkredyty.net" rel="nofollow noopener">Pozyczki</a> says…
+<a href="http://mkredyty.net" rel="nofollow noopener" target="_blank">Pozyczki</a> says…
 >	<p>Very nice write up. Thank for yours work.</p>
 >	<p>&nbsp;</p>
 

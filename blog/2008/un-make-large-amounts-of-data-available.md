@@ -3,6 +3,7 @@ title: "UN Make Large Amounts of Data Available"
 description: "Data is being set free: the United Nations have started a new website called&nbsp;UN Data&nbsp;to share the data collected by a number of UN agencies. 55 million data records are waiting to be explored and visualized. The search interface is very nice and usable, but still lacks power."
 date: 2008-03-08T06:35:29.000Z
 tags: 
+outline: false
 ---
 
 # UN Make Large Amounts of Data Available
@@ -25,7 +26,7 @@ It's a great start, and good to see this happen. Hopefully, more data sources an
 ---
 ## Comments
 
-<a href="http://tshwi.blogspot.com" rel="nofollow noopener">Lynn Marentette</a> says…
+<a href="http://tshwi.blogspot.com" rel="nofollow noopener" target="_blank">Lynn Marentette</a> says…
 >	This is great news! 
 >	
 >	I'm looking forward to following what will happen next.
@@ -39,7 +40,7 @@ Chris says…
 Robert Kosara says…
 >	Sorry about the wrong link. It was supposed to go to worldbank.org/data/, but your link is the more general one.
 
-<a href="http://photoblog.la-famille-schwarzer.de" rel="nofollow noopener">Stef</a> says…
+<a href="http://photoblog.la-famille-schwarzer.de" rel="nofollow noopener" target="_blank">Stef</a> says…
 >	Interesting thoughts. We've developed the UNEP GEO Data Portal which gives access in various ways to UN and other (selected) data, and allows to draw maps and graphs on-the-fly, too. Have a look, and let me know what you think... Thoughts, news ideas are almost welcome. 
 >	
 >	And yes, would be great to use Gapminder for the stats. But unfortunately it has been bought by Google and is not freely available as a tool to integrate into ones data portal...

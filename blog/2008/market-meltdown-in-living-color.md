@@ -3,6 +3,7 @@ title: "The Market Meltdown in Living Color"
 description: "Images speak louder than words. A lot louder. It would be hard to find a more vivid and impressive visualization of what happened today on the New York Stock Exchange."
 date: 2008-09-30T01:12:50.000Z
 tags: 
+outline: false
 ---
 
 # The Market Meltdown in Living Color

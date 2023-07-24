@@ -3,6 +3,7 @@ title: "Sightings: A Vennerable Challenge"
 description: "Venn diagrams are a strange mix of structure and data visualization. In my latest Sightings column (PDF) for American Scientist, I use the example of a visualization challenge from last year to discuss different ways to show the same data about diagnosis techniques for autism in young children. This also sparked the launch of a new site feature: Ask Eagereyes."
 date: 2008-12-22T06:01:24.000Z
 tags: Sightings
+outline: false
 ---
 
 # Sightings: A Vennerable Challenge
@@ -21,7 +22,7 @@ But <em>Ask EagerEyes</em> is not limited to scientific data. If you have any ki
 ---
 ## Comments
 
-<a href="http://PeltierTech.com/WordPress/" rel="nofollow noopener">Jon Peltier</a> says…
+<a href="http://PeltierTech.com/WordPress/" rel="nofollow noopener" target="_blank">Jon Peltier</a> says…
 >	<p>The tree chart below the first bar chart has an unfortunate error. While this is an effective way to describe the bars in the chart, one of the [n] shapes is colored green instead of yellow, which threw off comprehension for a moment.</p>
 >	<p>Not a typo, but an issue with visualization effectiveness, is the use of the colored Venn diagram as a legend for the colored bar chart. This was much more difficult to comprehend than the version with the tree.</p>
 

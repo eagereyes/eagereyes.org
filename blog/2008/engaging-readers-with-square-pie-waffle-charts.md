@@ -3,6 +3,7 @@ title: "Engaging Readers with Square Pie/Waffle Charts"
 description: "Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The square pie chart (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar."
 date: 2008-09-08T05:12:03.000Z
 tags: 
+outline: false
 ---
 
 # Engaging Readers with Square Pie/Waffle Charts
@@ -34,7 +35,7 @@ There is no doubt that we need to be careful about the choice of visual represen
 ---
 ## Comments
 
-<a href="http://PeltierTech.com/WordPress/" rel="nofollow noopener">Jon Peltier</a> says…
+<a href="http://PeltierTech.com/WordPress/" rel="nofollow noopener" target="_blank">Jon Peltier</a> says…
 >	"The square pie chart strikes a good balance between being interesting and not distorting the data."
 >	
 >	I'll take the dissenting opinion. The square pies (and related charts) are certainly more interesting than boring old round pies, but I think they can be even more distorting. At least the points in a round pie are all wedge-shaped, so the distortion is due to misjudgment of the area or angle of the wedge. In a square pie, data points are added on starting at the next point in the raster, so the shapes are not all uniformly rectangular, or wedge shaped, or circular (as in a bubble chart), so misjudgments of area are compounded by irregularity of the shapes. If the chart designer gets at all creative and arranges the shapes in any artistic tiling pattern, the misjudgments multiply: a 2x8 rectangle may seem different than an 8x2 rectangle, and both are different than a 4x4 rectangle.

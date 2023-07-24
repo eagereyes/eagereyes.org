@@ -3,6 +3,7 @@ title: "Paper: Notebooks for Data Analysis and Visualization"
 description: "Computational notebooks offer an alternative to the common GUI-based tools used for data visualization and BI today. In this new paper, I talk about what they are, their pros and cons, and how research could fill in some important gaps."
 date: 2023-05-01T15:52:48.000Z
 tags: paper
+outline: false
 ---
 
 # Paper: Notebooks for Data Analysis and Visualization

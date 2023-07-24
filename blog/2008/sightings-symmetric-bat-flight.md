@@ -3,6 +3,7 @@ title: "Sightings: Symmetric Bat Flight"
 description: "How do bats fly? What are the aerodynamic conditions around their wings? And how do you visualize all that? I did a short interview with David Laidlaw (PDF), who has collaborated with physicists, biologists, fluid mechanics experts, and others, to create a poster that won last year's NSF Visualization Challenge. The interview was done for American Scientist's Sightings column, which I have been invited to write."
 date: 2008-08-07T04:58:19.000Z
 tags: Sightings
+outline: false
 ---
 
 # Sightings: Symmetric Bat Flight

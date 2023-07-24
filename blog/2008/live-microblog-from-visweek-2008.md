@@ -3,6 +3,7 @@ title: "Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008"
 description: "As promised earlier, I will be live-blogging VisWeek 2008, which will take place next week in Columbus, OH. I will mostly attend InfoVis and VAST, with the odd Vis session and workshop thrown in. The live-blog will appear in a box at the top of the frontpage, and there will be a separate RSS feed for these posts. Coverage should start Sunday (October 19) morning, and there will also be pictures."
 date: 2008-10-17T03:23:41.000Z
 tags: 
+outline: false
 ---
 
 # Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008
@@ -29,7 +30,7 @@ Teaser image from the always brilliant <a href="http://xkcd.com/148/">xkcd</a> 
 ---
 ## Comments
 
-<a href="http://carlosscheidegger.wordpress.com" rel="nofollow noopener">Carlos Scheidegger</a> says…
+<a href="http://carlosscheidegger.wordpress.com" rel="nofollow noopener" target="_blank">Carlos Scheidegger</a> says…
 >	I'll be trying to blog Vis from my end - good to know about the InfoVis coverage :)
 
 

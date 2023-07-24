@@ -3,6 +3,7 @@ title: "Presidential Demographics as Open-Source, More to Come"
 description: "The EagerEyes Labs' mission is to provide tools to gain insight into relevant data to everybody. As part of that, the plan has always been to release the source code. The first piece of code is now published, and more is coming."
 date: 2008-09-01T05:10:54.000Z
 tags: 
+outline: false
 ---
 
 # Presidential Demographics as Open-Source, More to Come
@@ -21,7 +22,7 @@ Nathan of Flowing Data recently wrote a <a href="http://flowingdata.com/2008/08/
 ---
 ## Comments
 
-<a href="http://had.co.nz" rel="nofollow noopener">Hadley Wickham</a> says…
+<a href="http://had.co.nz" rel="nofollow noopener" target="_blank">Hadley Wickham</a> says…
 >	A great first step!  I'll be looking forward to seeing your other code as it becomes available.
 
 

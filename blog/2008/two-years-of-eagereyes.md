@@ -3,6 +3,7 @@ title: "Two Years of EagerEyes"
 description: "This site turns two today. There have been frantic periods of posting and periods of silence. There have been times when I thought nobody would read this and times when I had more than 50,000 visitors in a day. Here is a bit of history, some thoughts on what the site has accomplished, and what I am planning for the future."
 date: 2008-10-01T07:02:57.000Z
 tags: Meta/Site News
+outline: false
 ---
 
 # Two Years of EagerEyes
@@ -63,13 +64,13 @@ That's a good start, but the next step is to get people to actually act on that,
 ---
 ## Comments
 
-<a href="http://flowingdata.com" rel="nofollow noopener">Nathan</a> says…
+<a href="http://flowingdata.com" rel="nofollow noopener" target="_blank">Nathan</a> says…
 >	EagerEyes does look a lot like a blog :P. You've got the entries on the left and recent posts and comments in the sidebar and everything sort of flows like a blog. Maybe a homepage that shows a greater separation between what belongs to "blog" and what belongs to something else might help with the mistake?
 
 Robert Kosara says…
 >	<p>You're right, and I'm actually working on a design for the front-page that will make it look less bloggy. But I do like the list format, so there will still be pages that list articles from particular categories or just the "feed." It takes a ton of tweaking to combine the best of both worlds and find a good balance for how much stuff to show &ndash;&nbsp;and not be overpowering or look bare.</p>
 
-<a href="http://chandoo.org/wp" rel="nofollow noopener">Chandoo</a> says…
+<a href="http://chandoo.org/wp" rel="nofollow noopener" target="_blank">Chandoo</a> says…
 >	Hi Robert, Congrats on crossing the 2 year milestone. It takes huge amounts of passion and commitment to keep on talking about topics you care about. Keep up the good work.
 >	
 >	On the comments front: you said <em>this site has been a bit of an echo chamber. </em>
@@ -85,7 +86,7 @@ Robert Kosara says…
 >	</div>
 >	</p>
 
-<a href="http://chandoo.org/wp" rel="nofollow noopener">Chandoo</a> says…
+<a href="http://chandoo.org/wp" rel="nofollow noopener" target="_blank">Chandoo</a> says…
 >	I guess inciting / inspiring users to sit up and take notice of things is a technique most famous blogs use. But I more interested in proving the general phenomena of "negativity is more than positivity in comments" by taking a look at a cross section of comments from social sites (like youtube, reddit, digg, flickr and popular blogs lifehacker, smashingmagazine, readwriteweb etc.) and going through a hundred or so posts to analyze the content (look at the comments of these sites, take the words and rate them based on plus words or minus words) and then see if we can conclude something.
 >	
 >	Do you know any good techniques / automation to do something like this?

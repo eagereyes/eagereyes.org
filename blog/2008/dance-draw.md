@@ -3,6 +3,7 @@ title: "Dance.Draw"
 description: "My colleague Celine Latulipe has made a nice website about her Dance.Draw project. In what she calls Exquisite Interaction, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful."
 date: 2008-05-16T06:51:37.000Z
 tags: 
+outline: false
 ---
 
 # Dance.Draw
@@ -23,10 +24,10 @@ Be sure to watch the video, though the visualization is a bit washed out. The  p
 ---
 ## Comments
 
-<a href="http://www.teacupsandtutus.com/stprtu.html" rel="nofollow noopener">Jill Smeetch</a> says…
+<a href="http://www.teacupsandtutus.com/stprtu.html" rel="nofollow noopener" target="_blank">Jill Smeetch</a> says…
 >	That's cool.  I agree that more data would not necessarily help.  It is beautiful as it is.
 
-<a href="http://www.pdxsmiles.com/cosmetic-dentist-portland/" rel="nofollow noopener">Dr. Roger Portland</a> says…
+<a href="http://www.pdxsmiles.com/cosmetic-dentist-portland/" rel="nofollow noopener" target="_blank">Dr. Roger Portland</a> says…
 >	<p>This is interesting. It's the first time I saw a merge of dancing and drawing as one art form. Truly, art is a boundless realm. I wonder if Wii actually got inspiration from this.</p>
 
 
