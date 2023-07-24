@@ -17,6 +17,14 @@ export default {
 		],
 
 		sidebar: [
+			generateSidebar({
+				// rootGroupText: 'Blog 2016',
+				// scanStartPath: 'blog/2016',
+				collapseDepth: 2,
+				capitalizeFirst: true,
+				useTitleFromFrontmatter: true,
+				excludeFolders: ['node_modules', 'publications']
+			})[0],
 			{
 				text: 'Manual Nav',
 				items: [
@@ -25,15 +33,7 @@ export default {
 					{ text: 'Video: They Rule', link: '/blog/2023/new-video-exploring-the-connections-between-companies-with-they-rule'},
 					{ text: 'Course on Data Vis Fundamentals', link: '/blog/2023/course-on-data-vis-fundamentals-and-best-practices'},
 				]
-			},
-			generateSidebar({
-				// rootGroupText: 'Blog 2016',
-				// scanStartPath: 'blog/2016',
-				collapseDepth: 2,
-				capitalizeFirst: true,
-				useTitleFromFrontmatter: true,
-				excludeFolders: ['node_modules', 'publications']
-			})[0]
+			}
 		],
 		
 		// sidebar: [
