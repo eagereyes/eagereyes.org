@@ -32,8 +32,7 @@ The authors of this paper represent both the old and new guard in perceptual and
 
 They end the paper with a call to improve rainbow colormaps instead of dismissing them as always wrong:
 
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<em>We understand well enough why rainbows can be bad; let us focus instead on finding out when and why they are good.</em>
+> We understand well enough why rainbows can be bad; let us focus instead on finding out when and why they are good.
 
 <hr class="wp-block-separator alignwide has-alpha-channel-opacity"/>
 
