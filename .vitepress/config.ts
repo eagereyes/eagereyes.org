@@ -17,12 +17,12 @@ export default {
 		],
 
 		sidebar: generateSidebar({
-			rootGroupText: 'Blog 2016',
-			scanStartPath: 'blog/2016',
+			// rootGroupText: 'Blog 2016',
+			// scanStartPath: 'blog/2016',
 			collapseDepth: 2,
 			capitalizeFirst: true,
 			useTitleFromFrontmatter: true,
-			excludeFolders: ['node_modules']
+			excludeFolders: ['node_modules', 'publications']
 		}),
 		
 		// sidebar: [
