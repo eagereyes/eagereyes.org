@@ -6,7 +6,7 @@ import re
 def deWordPress(text):
 	out = ''
 	for line in text.split('\n'):
-		if not line.startswith('<!-- wp:') and not line.startswith('<!-- /wp:'):
+		if (not line.startswith('<!-- wp:') and not line.startswith('<!-- /wp:')) or line.endswith('</blockquote>'):
 			out += line + '\n'
 	return out
 
@@ -22,11 +22,19 @@ def convertHTML(text):
 		else:
 			out += line + '\n'
 
-	return re.sub('\n\n+', '\n\n', out)
+	if '<blockquote>' in out:
+		parts = re.split(r'</?blockquote>', out)
+		newOut = parts[0]
+		midPart = re.sub(r'</?em>', '', parts[1])
+		newOut += '\n>\t'+'\n>\t'.join(midPart.split('\n'))+'\n\n'
+		newOut += parts[2]
+		out = newOut
+
+	return re.sub(r'\n\n+', '\n\n', out)
 
 
 def deHTML(text):
-	text = re.sub('</?[^>]+>', '', text)
+	text = re.sub(r'</?[^>]+>', '', text)
 
 	return text.strip()
 
@@ -45,7 +53,7 @@ REPLACEPATHS = [{'from': 'blog/web/', 'to': 'blog/2014/'},
 				{'from': 'blog/zipscribble-maps/', 'to': 'blog/2016/'}
 				]
 
-EXTRACTPATH = 'blog/2016/'
+EXTRACTPATH = 'blog/2023/'
 
 for post in posts:
 	slug = post['slug']

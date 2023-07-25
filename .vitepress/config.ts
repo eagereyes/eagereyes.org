@@ -17,25 +17,14 @@ export default {
 			{ text: 'Publications', link: '/publications/' }
 		],
 
-		sidebar: [
-			generateSidebar({
+		sidebar: generateSidebar({
 				// rootGroupText: 'Blog 2016',
 				// scanStartPath: 'blog/2016',
 				collapseDepth: 2,
 				capitalizeFirst: true,
 				useTitleFromFrontmatter: true,
 				excludeFolders: ['node_modules', 'publications']
-			})[0],
-			{
-				text: 'Manual Nav',
-				items: [
-					{ text: 'Paper: Rainbows', link: '/blog/2023/rainbow-colormaps-are-not-all-bad-paper'},
-					{ text: 'Paper: Notebooks', link: '/blog/2023/paper-notebooks-for-data-analysis-and-visualization'},
-					{ text: 'Video: They Rule', link: 'blog/2023/new-video-exploring-the-connections-between-companies-with-they-rule'},
-					{ text: 'Course on Data Vis Fundamentals', link: '/blog/2023/course-on-data-vis-fundamentals-and-best-practices'},
-				]
-			}
-		],
+			}),
 		
 		// sidebar: [
 		// 	{
