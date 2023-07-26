@@ -13,13 +13,17 @@ def deWordPress(text):
 	for line in text.split('\n'):
 		if (not line.startswith('<!-- wp:') and not line.startswith('<!-- /wp:')) or line.endswith('</blockquote>'):
 			out += line + '\n'
-	return out
+	return out.replace('<!--more-->', '')
 
 def convertHTML(text):
 	out = ''
 	for line in text.split('\n'):
-		if line.startswith('<h2>'):
-			out += '\n## ' + line[4:-5] + '\n\n'
+		if line.startswith('<h2'):
+			header = re.match(r'<h2[^>]*>([^<]+)</h2>', line)
+			if header:
+				out += '\n\n## %s\n\n' % header.group(1)
+			else:
+				out += '\n\n## ' + line[4:-5] + '\n\n' # <em> inside h2 or similar, not very common
 		elif line.startswith('<p>') and line.endswith('</p>'):
 			out += line[3:-4] + '\n\n'
 		elif line == '<!--more-->':
@@ -44,7 +48,7 @@ def deHTML(text):
 	return text.strip()
 
 def quoteQuotes(text):
-	return re.sub('"', '\\"', text)
+	return re.sub(r'"', '\\"', text)
 
 def extractExcerpt(postText):
 	if '<!--more-->' in postText:
@@ -100,7 +104,7 @@ for post in posts:
 					else:
 						outFile.write('%s says…\n' % comment['author'])
 					
-					outFile.write('>\t%s\n\n' % re.sub('\n', '\n>\t', comment['content']))
+					outFile.write('>\t%s\n\n' % re.sub(r'\n', '\n>\t', comment['content']))
 
 				outFile.write('</aside>\n')
 			outFile.write('\n')
