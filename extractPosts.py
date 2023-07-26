@@ -2,6 +2,11 @@
 
 import json
 import re
+from datetime import datetime, timedelta
+
+MEDIAPATH = 'https://f001.backblazeb2.com/file/eagereyes-media/'
+
+TIMEDELTA = timedelta(hours=8)
 
 def deWordPress(text):
 	out = ''
@@ -53,7 +58,7 @@ REPLACEPATHS = [{'from': 'blog/web/', 'to': 'blog/2014/'},
 				{'from': 'blog/zipscribble-maps/', 'to': 'blog/2016/'}
 				]
 
-EXTRACTPATH = 'blog/2023/'
+EXTRACTPATH = 'blog/2011/'
 
 for post in posts:
 	slug = post['slug']
@@ -67,17 +72,21 @@ for post in posts:
 		if len(post['excerpt']) == 0:
 			excerpt = extractExcerpt(content)
 
+		date = datetime.fromisoformat(post['date'][:-1])
+		date = date-TIMEDELTA
+
 		with open(slug + '.md', 'w') as outFile:
 			outFile.write('---\n')
 			outFile.write('title: "%s"\n' % quoteQuotes(post['title']))
 			outFile.write('description: "%s"\n' % quoteQuotes(deHTML(excerpt)))
-			outFile.write('date: %s\n' % post['date'])
+			outFile.write('date: %s\n' % date)
 			outFile.write('tags: %s\n' % post['tags'])
-			if content.count('<h2>') == 0:
+			if content.count('<h2') == 0:
 				outFile.write('outline: false\n')
 			outFile.write('---\n\n')
 			outFile.write('# %s\n\n' % post['title'])
 			outFile.write(convertHTML(content))
+			outFile.write('\n_Posted by <a href="/about">Robert Kosara</a> on ' + date.strftime('%B %d, %Y') + '_\n\n')
 			if len(post['comments']) > 0:
 				outFile.write('\n---\n')
 				outFile.write('## Comments\n\n')
