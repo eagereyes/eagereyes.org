@@ -58,7 +58,7 @@ REPLACEPATHS = [{'from': 'blog/web/', 'to': 'blog/2014/'},
 				{'from': 'blog/zipscribble-maps/', 'to': 'blog/2016/'}
 				]
 
-EXTRACTPATH = 'blog/2011/'
+EXTRACTPATH = 'blog/'
 
 for post in posts:
 	slug = post['slug']
@@ -88,7 +88,8 @@ for post in posts:
 			outFile.write(convertHTML(content))
 			outFile.write('\n_Posted by <a href="/about">Robert Kosara</a> on ' + date.strftime('%B %d, %Y') + '_\n\n')
 			if len(post['comments']) > 0:
-				outFile.write('\n---\n')
+				outFile.write('\n<aside class="comments">\n\n')
+				outFile.write('---\n')
 				outFile.write('## Comments\n\n')
 				for comment in post['comments']:
 					# outFile.write('<Comment author="%s" link="%s">\n' % (comment['author'], comment['author_url']))
@@ -100,5 +101,7 @@ for post in posts:
 						outFile.write('%s says…\n' % comment['author'])
 					
 					outFile.write('>\t%s\n\n' % re.sub('\n', '\n>\t', comment['content']))
+
+				outFile.write('</aside>\n')
 			outFile.write('\n')
 		
