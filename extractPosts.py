@@ -39,6 +39,8 @@ def convertHTML(text):
 		newOut += parts[2]
 		out = newOut
 
+	out = re.sub(r'<img src="(https?://eagereyes.org)?/([^"]+)"', r'<img src="%s\2"' % MEDIAPATH, out)
+
 	return re.sub(r'\n\n+', '\n\n', out)
 
 
