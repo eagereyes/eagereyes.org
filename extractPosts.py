@@ -4,7 +4,7 @@ import json
 import re
 from datetime import datetime, timedelta
 
-MEDIAPATH = 'https://f001.backblazeb2.com/file/eagereyes-media/'
+MEDIAPATH = 'https://media.eagereyes.org/'
 
 TIMEDELTA = timedelta(hours=8)
 
