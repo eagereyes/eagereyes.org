@@ -39,7 +39,11 @@ def convertHTML(text):
 		newOut += parts[2]
 		out = newOut
 
+	# Replace all image links
 	out = re.sub(r'<img src="(https?://eagereyes.org)?/([^"]+)"', r'<img src="%s\2"' % MEDIAPATH, out)
+
+	# Replace all links to the kosara.net site
+	out = re.sub(r'<a href="https?://kosara.net/', '<a href="https://eagereyes.org/', out)
 
 	return re.sub(r'\n\n+', '\n\n', out)
 
@@ -76,7 +80,7 @@ for post in posts:
 		content = deWordPress(post['content'])
 		excerpt = post['excerpt']
 		if len(post['excerpt']) == 0:
-			excerpt = extractExcerpt(content)
+			excerpt = extractExcerpt(post['content'])
 
 		date = datetime.fromisoformat(post['date'][:-1])
 		date = date-TIMEDELTA
