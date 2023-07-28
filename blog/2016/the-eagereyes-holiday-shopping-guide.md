@@ -1,13 +1,14 @@
 ---
 title: "The EagerEyes Holiday Shopping Guide"
 description: "Are you looking for the perfect gift for the data or visualization geek in your life? Did that crazy self-driving water bottle Kickstarter still not deliver, leaving you hunting for an overpriced Nintendo Classic? The EagerEyes Holiday Shopping Guide has all the geeky, uncool gifts you could possibly want."
-date: 2016-12-07T04:48:50.000Z
+date: 2016-12-06 20:48:50
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/stars.jpg
 ---
 
 # The EagerEyes Holiday Shopping Guide
 
-Are you looking for the perfect gift for the data or visualization geek in your life? Did that crazy self-driving water bottle Kickstarter still not deliver, leaving you hunting for an overpriced Nintendo Classic? <em>The EagerEyes Holiday Shopping Guide</em> has all the geeky, uncool gifts you could possibly want.<!--more-->
+Are you looking for the perfect gift for the data or visualization geek in your life? Did that crazy self-driving water bottle Kickstarter still not deliver, leaving you hunting for an overpriced Nintendo Classic? <em>The EagerEyes Holiday Shopping Guide</em> has all the geeky, uncool gifts you could possibly want.
 
 To be clear, none of the links below are affiliate links. That smug, righteous feeling is easily worth the twelve cents I might make from a few people purchasing stuff through my links.
 
@@ -48,5 +49,8 @@ And if all else fails, you can always just print out this entire website.
 <hr />
 
 <a href="https://www.flickr.com/photos/paperpariah/3115431483/">Teaser image by Adam Foster</a>
+
+
+_Posted by <a href="/about">Robert Kosara</a> on December 06, 2016_
 
 

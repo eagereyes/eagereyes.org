@@ -1,13 +1,14 @@
 ---
 title: "Tapestry 2017: St. Augustine, FL on March 1st"
 description: "We just announced next year's Tapestry Conference – the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos!"
-date: 2016-09-20T02:12:48.000Z
+date: 2016-09-19 18:12:48
 tags: tapestry
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/14061151590_547435d61f_o.jpg
 ---
 
 # Tapestry 2017: St. Augustine, FL on March 1st
 
-We just announced next year's <a href="http://www.tapestryconference.com">Tapestry Conference</a> – the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos!<!--more-->
+We just announced next year's <a href="http://www.tapestryconference.com">Tapestry Conference</a> – the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos!
 
 Tapestry is a conference about storytelling with data. The goal is to bring together people from different backgrounds and have them talk to each other: journalists, designers, folks working for NGOs or government, academics, etc.
 
@@ -48,5 +49,8 @@ There's more information on the <a href="http://www.tapestryconference.com">Tape
 <hr />
 
 <a href="https://www.flickr.com/photos/stevenm_61/14061151590/">Teaser image by Steven Martin</a>
+
+
+_Posted by <a href="/about">Robert Kosara</a> on September 19, 2016_
 
 

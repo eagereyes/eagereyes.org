@@ -1,14 +1,15 @@
 ---
 title: "All Those Misleading Election Maps"
 description: "Would you make a bar chart where the length of the bar doesn't actually scale with the number being shown? Would you draw a line chart with the lines all over the place, not where the values actually are? Of course not. Yet somehow, every single election map works like that."
-date: 2016-11-03T03:33:29.000Z
+date: 2016-11-02 19:33:29
 tags: Politics, maps
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/ElectoralCollege2012-filled.png
 outline: false
 ---
 
 # All Those Misleading Election Maps
 
-Would you make a bar chart where the length of the bar doesn't actually scale with the number being shown? Would you draw a line chart with the lines all over the place, not where the values actually are? Of course not. Yet somehow, every single election map works like that.<!--more-->
+Would you make a bar chart where the length of the bar doesn't actually scale with the number being shown? Would you draw a line chart with the lines all over the place, not where the values actually are? Of course not. Yet somehow, every single election map works like that.
 
 Look at this map from Wikipedia that shows electoral votes on the labels and who won each state. Tell me which candidate won the 2012 election. Don't go with what you know, use the map that is supposed to show you the data and tell me: who won?
 
@@ -38,6 +39,11 @@ This is not a useful map. This is just a map because people like to see maps. Bu
 
 Clearly, it's too late for this election. And I'm sure I will get yelled at again on Twitter for being stupid (just like I was today). But perhaps this can sink in over the next year or two and somebody can design a visualization for future elections that actually represents the data it's supposed to show.
 
+
+_Posted by <a href="/about">Robert Kosara</a> on November 02, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -71,4 +77,5 @@ Clément V. says…
 >	
 >	What do you think Robert ?
 
+</aside>
 

@@ -1,14 +1,15 @@
 ---
 title: "MTurk IDs Are Not Anonymous"
 description: "The worker IDs Amazon's Mechanical Turk gives you may look pretty random and anonymous, but they can reveal personally-identifiable information. They need to be removed from datasets, especially when they are shared or published."
-date: 2016-05-05T15:32:00.000Z
+date: 2016-05-05 07:32:00
 tags: mturk, mechanical turk
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png
 outline: false
 ---
 
 # MTurk IDs Are Not Anonymous
 
-The worker IDs Amazon's <a href="https://www.mturk.com/">Mechanical Turk</a> gives you may look pretty random and anonymous, but they can reveal personally-identifiable information. They need to be removed from datasets, especially when they are shared or published.<!--more-->
+The worker IDs Amazon's <a href="https://www.mturk.com/">Mechanical Turk</a> gives you may look pretty random and anonymous, but they can reveal personally-identifiable information. They need to be removed from datasets, especially when they are shared or published.
 
 Like many things, I learned this the hard way. Or I would have, had <a href="http://steveharoz.com/">Steve Haroz</a> not caught it in the data for an upcoming EuroVis paper.
 
@@ -20,6 +21,11 @@ Another pitfall is that once you've checked that data into git (and share on gi
 
 Why Amazon ties the worker IDs to people's accounts is a bit of a mystery to me. I guess they never expected people to start sharing those IDs, since doing studies isn't exactly their main use case. It's still odd, since Amazon otherwise tries to keep the workers anonymous as much as possible (you're not allowed to ask them certain questions, etc.).
 
+
+_Posted by <a href="/about">Robert Kosara</a> on May 05, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -45,4 +51,5 @@ Eytan Adar says…
 <a href="https://www.facebook.com/app_scoped_user_id/658228555/" rel="nofollow noopener" target="_blank">Chris Fuccione</a> says…
 >	Do a search for your worker/requester ID on Google.  It will be an eye opener.
 
+</aside>
 

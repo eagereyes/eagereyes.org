@@ -1,14 +1,15 @@
 ---
 title: "The Ten Years of EagerEyes Blogstravaganza"
 description: "October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!"
-date: 2016-09-26T00:16:02.000Z
+date: 2016-09-25 16:16:02
 tags: Meta/Site News, A Decade of EagerEyes
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg
 outline: false
 ---
 
 # The Ten Years of EagerEyes Blogstravaganza
 
-October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!<!--more-->
+October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!
 
 If you’re reading this in a feed reader, you might want to check out the website, because it looks a little different. Not only do I now have a professionally-designed theme, it’s also possible to find your way around and explore much more of the stuff that’s on the site than before. There’s also a new logo.
 
@@ -28,6 +29,11 @@ But back to the <em>blogstravaganza</em>! This week will see a posting every day
 Each of these will go live at 5:17am PDT (8:17am EDT, 2:17pm MET) if all goes well (scheduled postings are still a crapshoot with Wordpress, so I might have to revise this).
 
 
+_Posted by <a href="/about">Robert Kosara</a> on September 25, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -46,4 +52,5 @@ Bilal says…
 Ulrik says…
 >	Congrats Robert! I have learned a lot by following your blog, and look forward to learning more.
 
+</aside>
 

@@ -1,14 +1,15 @@
 ---
 title: "A Decade of EagerEyes"
 description: "So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one."
-date: 2016-10-01T12:17:46.000Z
+date: 2016-10-01 04:17:46
 tags: Meta/Site News, A Decade of EagerEyes
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png
 outline: false
 ---
 
 # A Decade of EagerEyes
 
-So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one.<!--more-->
+So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one.
 
 Now that I’ve shed the blog theme, I can see a number of things that need to be fixed. Broken images, embed codes that have stopped working, JavaScript that doesn’t load, etc. If you see me running around with my toolbox in the next few weeks, this will be why. Exposing all those postings on the <a href="https://eagereyes.org/blog-calendar">blog calendar</a> has made some of the maintenance issues I’ve been ignoring a bit more urgent.
 
@@ -31,10 +32,16 @@ There is a huge amount of work to be done here. There are many questions that n
 So let's get started.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on October 01, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
 <a href="http://theresamariehyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
 >	Best Wishes as you move forward.
 
+</aside>
 

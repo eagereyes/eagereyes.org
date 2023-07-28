@@ -1,13 +1,14 @@
 ---
 title: "3D Bar Charts Considered Not That Harmful"
 description: "We've turned the understanding of charts into formulas instead of encouraging people to think and ask questions. That doesn't produce better charts, it just gives people ways of feeling superior by parroting something about chart junk or 3D being bad. There is little to no research to back these things up."
-date: 2016-05-03T04:50:37.000Z
+date: 2016-05-02 20:50:37
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/Trivapro-graph.jpg
 ---
 
 # 3D Bar Charts Considered Not That Harmful
 
-We've turned the understanding of charts into formulas instead of encouraging people to think and ask questions. That doesn't produce better charts, it just gives people ways of feeling superior by parroting something about chart junk or 3D being bad. There is little to no research to back these things up.<!--more-->
+We've turned the understanding of charts into formulas instead of encouraging people to think and ask questions. That doesn't produce better charts, it just gives people ways of feeling superior by parroting something about chart junk or 3D being bad. There is little to no research to back these things up.
 
 ## The Trivapro 3D Bar Chart
 
@@ -51,6 +52,11 @@ We need to get away from the seeming easy fixes – that don't actually fix much
 
 It's also important to realize just how little of what is often taken as data visualization gospel is based on hearsay and opinion rather than research. There are huge gaps in our knowledge, even when it comes to seemingly obvious things. We need to acknowledge those and strive to close them.
 
+
+_Posted by <a href="/about">Robert Kosara</a> on May 02, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -106,4 +112,5 @@ Gene Zavertnik says…
 >	Cheers,
 >	Datavisualyst
 
+</aside>
 

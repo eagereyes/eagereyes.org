@@ -1,15 +1,16 @@
 ---
 title: "The Two-Paper Package"
 description: "Much of academic work is focused on writing papers. This doesn't just include the work that goes into&nbsp;the research and the writing, but also strategy –&nbsp;beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers."
-date: 2016-03-21T05:50:44.000Z
+date: 2016-03-20 21:50:44
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg
 ---
 
 # The Two-Paper Package
 
-Much of academic work is focused on writing papers. This doesn't just include the work that goes into&nbsp;the research and the writing, but also strategy –&nbsp;beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.<!--more-->
+Much of academic work is focused on writing papers. This doesn't just include the work that goes into&nbsp;the research and the writing, but also strategy –&nbsp;beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.
 
-It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of <a href="http://kosara.net/publications/Dasgupta-EuroVis-2015.html">a paper</a> we had&nbsp;first submitted to EuroVis 2012, which then went through several different journals and conferences,&nbsp;to finally end up at EuroVis 2015.&nbsp;That somebody would openly talk about that seemed to surprise people.
+It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of <a href="https://eagereyes.org/publications/Dasgupta-EuroVis-2015.html">a paper</a> we had&nbsp;first submitted to EuroVis 2012, which then went through several different journals and conferences,&nbsp;to finally end up at EuroVis 2015.&nbsp;That somebody would openly talk about that seemed to surprise people.
 
 So here's more of that. Two stories of pairs of papers, one that didn't work and one that did.
 
@@ -48,6 +49,11 @@ It's also good strategy to avoid the <em><a href="https://en.wikipedia.org/wiki/
 <a href="https://commons.wikimedia.org/wiki/File:Chess-king.JPG">Teaser image by&nbsp;David Lapetina</a>, used under Creative Commons
 
 
+_Posted by <a href="/about">Robert Kosara</a> on March 20, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -56,4 +62,5 @@ Alexander Rind says…
 >	
 >	A better strategy (for the community) would be to submit a regular journal paper, which usually allow for more space (e.g., 14 pages in TVCG).
 
+</aside>
 

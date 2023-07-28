@@ -1,13 +1,14 @@
 ---
 title: "The State of Information Visualization, 2016"
 description: "Oh hello, new year! I almost didn't see you there! Lots of interesting things happened last year: Dear Data, deceptive visualization, storytelling research, new tools and ideas, etc. And this year is already shaping up to be quite strong, too."
-date: 2016-02-08T22:05:20.000Z
+date: 2016-02-08 14:05:20
 tags: state-of-infovis
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/02/dear-data.jpg
 ---
 
 # The State of Information Visualization, 2016
 
-Oh hello, new year! I almost didn't see you there! Lots of interesting things happened last year: <em>Dear Data</em>, deceptive visualization, storytelling research, new tools and ideas, etc. And this year is already shaping up to be quite strong, too.<!--more-->
+Oh hello, new year! I almost didn't see you there! Lots of interesting things happened last year: <em>Dear Data</em>, deceptive visualization, storytelling research, new tools and ideas, etc. And this year is already shaping up to be quite strong, too.
 
 ## Dear Data
 
@@ -48,6 +49,11 @@ On the academic side, I expect to see a lot more work storytelling at the conf
 A big driver of data visualization in the news will be the elections in the U.S. in November. There will be polls, predictions, lots of data-centric news stories, and just generally a fever pitch of data presentation. Exciting times!
 
 
+_Posted by <a href="/about">Robert Kosara</a> on February 08, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -56,4 +62,5 @@ A big driver of data visualization in the news will be the elections in the U.S.
 >	
 >	Completely agree with the emphasis on Storytelling — it has been in the top 3 most talked about topics for the last 3 years and needs more core vis research focus. Exciting times indeed!
 
+</aside>
 

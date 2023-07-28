@@ -1,13 +1,14 @@
 ---
 title: "Eagereyes' Early History"
 description: "Just ahead of the first decade of this website's history clicking over, here's a look back at where things started. Some of those postings were terrible, some of them were quite prescient or are even still popular."
-date: 2016-09-26T12:17:27.000Z
+date: 2016-09-26 04:17:27
 tags: A Decade of EagerEyes
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg
 ---
 
 # Eagereyes' Early History
 
-Just ahead of the first decade of this website's history clicking over, here's a look back at where things started. Some of those postings were terrible, some of them were quite prescient or are even still popular.<!--more-->
+Just ahead of the first decade of this website's history clicking over, here's a look back at where things started. Some of those postings were terrible, some of them were quite prescient or are even still popular.
 
 This is partly why I created the <a href="https://eagereyes.org/blog-calendar">interactive posting calendar</a>. It makes it easy browse postings just by mousing over, especially those early ones (clicking opens them in a new tab).
 
@@ -15,7 +16,7 @@ This is partly why I created the <a href="https://eagereyes.org/blog-calendar">i
 
 <a href="https://eagereyes.org/blog/2006/taking-visualization-to-the-next-level">In my first posting ever</a>, I immediately started bitching about the lack of theoretical foundations:
 
-<blockquote>But in many ways, visualization is today mostly technical, empirical, and there is practically no theoretical foundation for what we are doing.</blockquote>
+>	But in many ways, visualization is today mostly technical, empirical, and there is practically no theoretical foundation for what we are doing.
 
 The writing in that posting is a bit tortured and it's no wonder nobody read it at the time. But I still believe all the things I talk about there, so that's not bad.
 
@@ -37,5 +38,8 @@ Things happened quickly in those early days! I didn't realize that within a few 
 Want to guess who left the first comment on eagereyes? Well, I'll tell you: it was Hadley Wickham! He argued with me in the comment section of <a href="https://eagereyes.org/techniques/square-pie-charts">this article about square pie charts</a> that they're really the same thing as treemaps. Some of the earlier postings have comments, but those actually came later.
 
 I have a posting for later this week that will look at the time before October 1, 2006 – those days before, um, recorded history.
+
+
+_Posted by <a href="/about">Robert Kosara</a> on September 26, 2016_
 
 

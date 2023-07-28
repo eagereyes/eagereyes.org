@@ -1,14 +1,15 @@
 ---
 title: "The Winding Path of Data Analysis"
 description: "Data analysis is not a straight-forward process: you try out lots of things, you go down a path that seems promising but then turns out to not work out, and suddenly you hit upon the thing you were looking for."
-date: 2016-10-04T03:17:55.000Z
+date: 2016-10-03 19:17:55
 tags: 
+featuredImage:
 outline: false
 ---
 
 # The Winding Path of Data Analysis
 
-Data analysis is not a straight-forward process: you try out lots of things, you go down a path that seems promising but then turns out to not work out, and suddenly you hit upon the thing you were looking for.<!--more-->
+Data analysis is not a straight-forward process: you try out lots of things, you go down a path that seems promising but then turns out to not work out, and suddenly you hit upon the thing you were looking for.
 
 <a href="http://abstrusegoose.com/230">This comic</a> is about mathematical proofs, but what hit me recently is how well it also applies to data analysis.
 
@@ -22,6 +23,11 @@ And while I get the idea of <a href="http://www.bitss.org/2014/06/13/preregistra
 
 &nbsp;
 
+
+_Posted by <a href="/about">Robert Kosara</a> on October 03, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -49,4 +55,5 @@ mjskay says…
 >	
 >	@Robert: Did you mean preregistration is rarely/never feasible? Or it can be feasible, but just shouldn't be a blanket requirement?
 
+</aside>
 

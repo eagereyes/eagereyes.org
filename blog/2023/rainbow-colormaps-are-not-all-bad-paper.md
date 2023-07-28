@@ -1,8 +1,9 @@
 ---
 title: "Rainbow Colormaps Are Not All Bad (Paper)"
 description: "Rainbow colormaps are among the most derided ideas in data visualization, second only to pie charts. And yet, people use them. Why? A recent paper looks at some of the reasons why they are so popular and points to research showing that they might not be so bad if used for the right tasks. There's even opportunity for interesting research in rainbow colormaps!"
-date: 2023-07-13T05:21:02.000Z
+date: 2023-07-12 21:21:02
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2023/07/rainbow-comparison.jpeg
 outline: false
 ---
 
@@ -12,7 +13,7 @@ Rainbow colormaps are among the most derided ideas in data visualization, second
 
 Finger-wagging about rainbow colormaps is a pretty common pastime in visualization, <a href="https://eagereyes.org/basics/rainbow-color-map" data-type="post" data-id="2426">I've done it too</a>! And it's not like there aren't good reasons. Look at this map of maximum temperatures in the US, <a href="https://digital.mdl.nws.noaa.gov">published by NOAA</a>, for example:
 
-<figure class="wp-block-image size-large"><img src="https://eagereyes.org/wp-content/uploads/2023/07/heat-map-1320x649.jpeg" alt="A map of maximum temperatures in the US, shown using a scale from 0 to 130 degrees and using a rainbow colormap" class="wp-image-104596"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2023/07/heat-map-1320x649.jpeg" alt="A map of maximum temperatures in the US, shown using a scale from 0 to 130 degrees and using a rainbow colormap" class="wp-image-104596"/></figure>
 
 The rainbow colormap used here has all the usual problems: it's not uniform in its luminance (brightness), different colors cover different ranges of the colormap (though it's usually green that is the worst, here it's purple and red), and of course the ordering is somewhat arbitrary.
 
@@ -22,7 +23,7 @@ The authors of this paper point to research showing that rainbows turn out to be
 
 This is not to say that rainbows don't have problems, they certainly do. Not all of them are all that critical for real uses, though. One commonly cited issue is that because luminance changes back and forth across the scale, it is impossible to read shape from a visualization that uses a rainbow colormap. The authors show that in this nice illustration:
 
-<figure class="wp-block-image size-full"><img src="https://eagereyes.org/wp-content/uploads/2023/07/rainbow-comparison.jpeg" alt="Three different colormaps applied to an apple, a portrait, and a picture of the earth" class="wp-image-104597"/></figure>
+<figure class="wp-block-image size-full"><img src="https://media.eagereyes.org/wp-content/uploads/2023/07/rainbow-comparison.jpeg" alt="Three different colormaps applied to an apple, a portrait, and a picture of the earth" class="wp-image-104597"/></figure>
 
 But that is often not the actual task! Who cares if you can't recognize the precise shape of that apple when you're looking at a 2D map? While it is an issue, it's easy to avoid by knowing where shape perception is likely going to be relevant. This is basically a strawman that's largely there to pile on the criticism, not a real practical concern.
 
@@ -32,10 +33,16 @@ The authors of this paper represent both the old and new guard in perceptual and
 
 They end the paper with a call to improve rainbow colormaps instead of dismissing them as always wrong:
 
-> We understand well enough why rainbows can be bad; let us focus instead on finding out when and why they are good.
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<em>We understand well enough why rainbows can be bad; let us focus instead on finding out when and why they are good.</em>
+
+<!-- /wp:paragraph --></blockquote>
 
 <hr class="wp-block-separator alignwide has-alpha-channel-opacity"/>
 
 Ware, Stone, Albers Szafir, <a href="https://www.computer.org/csdl/magazine/cg/2023/03/10128890/1NdJMHqISnS?fbclid=IwAR2Aq4iRqdmeIUCw5_Oy4vjJDGVek23wNWEGlEJMML82BWyYGplFXqK8uqU">Rainbow Colormaps Are Not All Bad</a>, <em>Computer Graphics &amp; Applications</em>, 2023.
+
+
+_Posted by <a href="/about">Robert Kosara</a> on July 12, 2023_
 
 

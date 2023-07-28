@@ -64,19 +64,29 @@ def extractExcerpt(postText):
 
 posts = json.load(open('posts.json', 'r'))
 
-REPLACEPATHS = [{'from': 'blog/web/', 'to': 'blog/2014/'},
-				{'from': 'blog/zipscribble-maps/', 'to': 'blog/2016/'}
+REPLACEPATHS = [{'from': 'blog/web', 'to': 'blog/2014'},
+				{'from': 'blog/zipscribble-maps', 'to': 'blog/2016'}
 				]
 
 EXTRACTPATH = 'blog/'
 
+postsBySlug = {}
+
 for post in posts:
 	slug = post['slug']
+	slugPrefix = post['slugPrefix']
 	for r in REPLACEPATHS:
 		slug = slug.replace(r['from'], r['to'])
+		slugPrefix = slugPrefix.replace(r['from'], r['to'])
 	
 	if slug.startswith(EXTRACTPATH):
 		print(slug)
+		
+		if slugPrefix in postsBySlug:
+			postsBySlug[slugPrefix].append(post)
+		else:
+			postsBySlug[slugPrefix] = [post]
+
 		content = deWordPress(post['content'])
 		excerpt = post['excerpt']
 		if len(post['excerpt']) == 0:
@@ -121,4 +131,15 @@ for post in posts:
 
 				outFile.write('</aside>\n')
 			outFile.write('\n')
+
+print()
+for folder in postsBySlug.keys():
+	posts = postsBySlug[folder]
+	posts = sorted(posts, key=lambda d: datetime.fromisoformat(d['date'][:-1])) #, reverse=True)
+
+	print(folder)
+	with open('%s/index.md' % folder, 'w') as outFile:
+		outFile.write('# %s\n\n- ' % folder)
 		
+		outFile.write('\n- '.join(map(lambda d: '[%s](/%s)' % (d['title'], d['slug']), posts)))
+		outFile.write('\n\n')

@@ -1,13 +1,14 @@
 ---
 title: "An Illustrated Tour of the Pie Chart Study Results"
 description: "In two papers, Drew Skau and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!"
-date: 2016-06-28T03:37:26.000Z
+date: 2016-06-27 19:37:26
 tags: study, pie charts
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/variations-error-relative.png
 ---
 
 # An Illustrated Tour of the Pie Chart Study Results
 
-In <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">two papers</a>, <a href="https://twitter.com/seeingstructure">Drew Skau</a> and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!<!--more-->
+In <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">two papers</a>, <a href="https://twitter.com/seeingstructure">Drew Skau</a> and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!
 
 For my talk at <a href="http://informationplusconference.com">Information+</a>, I redid the figures we had used in the <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">EuroVis pie chart papers</a>, both for the papers themselves and for the presentations. The result is much clearer, I think. I figured I'd share them here since they give a nice walk-through of the study results using the real data, but without too much detail. While the violin plots provide useful information during analysis, they're just too detailed for presentation – I feel like <a href="https://eagereyes.org/papers/presentation-oriented-visualization-techniques">I should have seen that coming</a>.
 
@@ -130,6 +131,11 @@ What is more, we questioned and debunked the prevailing idea about how pie char
 I have created <a href="https://github.com/eagereyes/pie-summaries">a github repo with the code and data</a> to recreate these images, as well as versions of them in three different formats: PDF, PNG, and SVG.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on June 27, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -239,4 +245,5 @@ Michael Niggel says…
 depictdatastudio says…
 >	Such valuable work. Thanks for all you do! I quote your studies in my dataviz trainings all the time. Keep it up.
 
+</aside>
 

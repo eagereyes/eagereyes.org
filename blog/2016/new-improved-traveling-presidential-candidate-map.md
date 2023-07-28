@@ -1,14 +1,15 @@
 ---
 title: "New, Improved Traveling Presidential Candidate Map"
 description: "Many years ago, when this website was still young, I created a map of all the ZIP codes in the U.S. in numeric order and then wondered about the shortest path through all of them. I dubbed that The Traveling Presidential Candidate Map. Here is an improved version that's interactive and much more efficient than the old one."
-date: 2016-07-05T04:49:45.000Z
+date: 2016-07-04 20:49:45
 tags: ZIPScribble Maps
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png
 outline: false
 ---
 
 # New, Improved Traveling Presidential Candidate Map
 
-Many years ago, when this website was still young, I created <a href="https://eagereyes.org/zipscribble-maps/united-states">a map of all the ZIP codes in the U.S. in numeric order</a> and then wondered about the shortest path through all of them. I dubbed that <a href="https://eagereyes.org/zipscribble-maps/travelling-presidential-candidate-map"><em>The Traveling Presidential Candidate Map</em></a>. Here is an improved version that's interactive and much more efficient than the old one.<!--more-->
+Many years ago, when this website was still young, I created <a href="https://eagereyes.org/zipscribble-maps/united-states">a map of all the ZIP codes in the U.S. in numeric order</a> and then wondered about the shortest path through all of them. I dubbed that <a href="https://eagereyes.org/zipscribble-maps/travelling-presidential-candidate-map"><em>The Traveling Presidential Candidate Map</em></a>. Here is an improved version that's interactive and much more efficient than the old one.
 
 Finding the shortest path through a set of points is called the <em><a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem">Traveling Salesman Problem</a></em> (hence the pun). There are many applications, like finding the fastest way of moving a robot arm between many different positions where it needs to do work, or laying out traces on a printed circuit board.
 
@@ -26,6 +27,11 @@ I have added the new TPC map to the <a href="https://eagereyes.org/zipscribble-m
 
 The code for the interactive map and the data files for the TPC map are <a href="https://github.com/eagereyes/zipscribble">available in a github repository</a>. In particular, <a href="https://github.com/eagereyes/zipscribble/blob/master/ZIPTPCMap/USTPCmap.csv">this file</a> contains the tour in easily-digested CSV format.
 
+
+_Posted by <a href="/about">Robert Kosara</a> on July 04, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -47,4 +53,5 @@ The code for the interactive map and the data files for the TPC map are <a href
 <a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Yes, they're available! The repository was linked from the interactive map page, but not from here. I've added a paragraph at the end above with the links.
 
+</aside>
 

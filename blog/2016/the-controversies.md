@@ -1,13 +1,14 @@
 ---
 title: "The Controversies"
 description: "I have opinions. I state those opinions. Not everybody likes my opinions. And sometimes it's not just a matter of opinion, but also of tone and approach. Criticism can be a useful tool or it can be an angry attack. Figuring out which is which isn't always easy while you're doing it."
-date: 2016-09-27T12:17:23.000Z
+date: 2016-09-27 04:17:23
 tags: Meta/Site News, A Decade of EagerEyes
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/controversies-teaser.jpg
 ---
 
 # The Controversies
 
-I have opinions. I state those opinions. Not everybody likes my opinions. And sometimes it's not just a matter of opinion, but also of tone and approach. Criticism can be a useful tool or it can be an angry attack. Figuring out which is which isn't always easy while you're doing it.<!--more-->
+I have opinions. I state those opinions. Not everybody likes my opinions. And sometimes it's not just a matter of opinion, but also of tone and approach. Criticism can be a useful tool or it can be an angry attack. Figuring out which is which isn't always easy while you're doing it.
 
 ## Why Be Controversial?
 
@@ -50,6 +51,11 @@ The visualization community has a reputation of being dogmatic and unfriendly,
 This is a matter of degree though, too. To finish the thought about academics not speaking their minds above: having a clear position and talking about things in public is important. Most people currently err on the side of caution. I've sometimes erred on the side of being too loud and to aggressive. The right approach is somewhere between those, not on either end.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on September 27, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -66,4 +72,5 @@ This is a matter of degree though, too. To finish the thought about academics no
 >	
 >	-Monika
 
+</aside>
 

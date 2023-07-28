@@ -1,13 +1,14 @@
 ---
 title: "VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations"
 description: "A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday."
-date: 2016-11-02T04:26:20.000Z
+date: 2016-11-01 20:26:20
 tags: conference, IEEEVIS
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4512.jpg
 ---
 
 # VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations
 
-A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday.<!--more-->
+A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday.
 
 ## <b>Empirical Methods Panel</b>
 
@@ -56,6 +57,11 @@ IEEE VIS 2017 will take place in Phoenix, AZ, October 1–6 (so a bit earlier th
 Benjamin Bach <a href="http://www.aviz.fr/~bbach/publicize_vis_2016/">has collected URLs from VIS papers</a>, including a SciVis paper or two, and a number of things I haven't discussed in my postings.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on November 01, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -72,4 +78,5 @@ Jo Wood says…
 >	
 >	Like the regular Vis Lies session and the capstone, much of the entertainment value derived from the presentation comes from contrasting good practice with others' work that is evidently flawed (logo 'n' bullet laden powerpoints; rainbow colour maps; count-based choropleths). Even if the result is to encourage the audience to avoid poor practice I think if Vis is really to progress as a discipline we need to be more ambitious in building on prior work.
 
+</aside>
 

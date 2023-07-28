@@ -1,0 +1,21 @@
+# blog/2007
+
+- [Improved US ZIPScribble Maps, more Countries to Come](/blog/2007/improved-zipscribble-maps-more-countries-to-come)
+- [More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE](/blog/2007/more-zipscribble-maps)
+- [Presidential Demographics](/blog/2007/presidential-demographics)
+- [An Uncanny Resemblance](/blog/2007/an-uncanny-resemblance)
+- [What Travelling Presidential Candidates Save](/blog/2007/what-travelling-presidential-candidates-save)
+- [InfoVis Contest 2007 Data](/blog/2007/infovis-contest-2007-data)
+- [Visualization Sets Information Free](/blog/2007/visualization-sets-information-free)
+- [Death and Taxes](/blog/2007/death-and-taxes)
+- [Critiquing in Class Revisited](/blog/2007/critiquing-in-class-revisited)
+- [Rethinking the User](/blog/2007/rethinking-the-user)
+- [The Summer Lull is Officially Over!](/blog/2007/summer-lull-is-officially-over)
+- [Caring about the Data](/blog/2007/caring-about-the-data)
+- [We Need a World Visualization Day!](/blog/2007/we-need-a-world-visualization-day)
+- [A Nobel Prize for Charts](/blog/2007/nobel-prize-for-charts)
+- [InfoVis Panel: The Impact of Social Data Visualization](/blog/2007/panel-social-data-visualization)
+- [Further Steps Towards World Visualization Day](/blog/2007/further-steps-world-visualization-day)
+- [InfoVis 2007: InfoVis for the Masses](/blog/2007/infovis-2007-infovis-for-the-masses)
+- [Expressive Visualization, Updated Presidents Chart](/blog/2007/expressive-visualization)
+

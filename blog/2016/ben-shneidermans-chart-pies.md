@@ -1,8 +1,9 @@
 ---
 title: "Ben Shneiderman's Chart Pies"
 description: "So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form of charts. Rather than, you know, the other way around. Feast your eyes on delicious-looking chart pies!"
-date: 2016-09-16T05:00:47.000Z
+date: 2016-09-15 21:00:47
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg
 outline: false
 ---
 
@@ -12,9 +13,9 @@ So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form 
 
 I'm <a href="http://andrewgelman.com">pulling a Gelman</a> here by just quoting Ben's email:
 
-> I've started a new hobby-- baking peach pies.  I did a few this summer with the usual crisscross pattern but a friend thought these were too much like a traditional rectangular lattice.  So I've made him a parallel coords one (see photo) with peaches and strawberries. My next challenge is a treemap pie.
-> 
-> I thought you might like this as an item for Eager Eyes...I'm sure you'll find something clever to say about these pies.  Maybe we can inspire a VIS PIE contest.
+>	I've started a new hobby-- baking peach pies.  I did a few this summer with the usual crisscross pattern but a friend thought these were too much like a traditional rectangular lattice.  So I've made him a parallel coords one (see photo) with peaches and strawberries. My next challenge is a treemap pie.
+>	
+>	I thought you might like this as an item for Eager Eyes...I'm sure you'll find something clever to say about these pies.  Maybe we can inspire a VIS PIE contest.
 
 Who would take issue with a VIS PIE contest? What could go wrong with promoting pies at VIS?
 
@@ -25,6 +26,11 @@ Food and vision clearly go together. In one of my more ludicrous postings, I onc
 I, for one, am looking forward to the treemap pie – delicious metaphor confusion and all.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on September 15, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -34,4 +40,5 @@ I, for one, am looking forward to the treemap pie – delicious metaphor confusi
 Katherine Peterson says…
 >	"I once wondered what other foods could inspire chart types."  Need I say, spaghetti and network maps?
 
+</aside>
 

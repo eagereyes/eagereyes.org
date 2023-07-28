@@ -1,13 +1,14 @@
 ---
 title: "VIS 2016 – Tuesday"
 description: "The official opening of the main conference was today, Tuesday. The conference is now in full swing until Friday."
-date: 2016-10-26T02:31:22.000Z
+date: 2016-10-25 18:31:22
 tags: conference, IEEEVIS
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/vis16-tuesday.jpg
 ---
 
 # VIS 2016 – Tuesday
 
-The official opening of the main conference was today, Tuesday. The conference is now in full swing until Friday.<!--more-->
+The official opening of the main conference was today, Tuesday. The conference is now in full swing until Friday.
 
 ## Opening
 
@@ -39,6 +40,11 @@ Vega is open source, and there is <a href="http://vega.github.io/vega-lite/">an 
 
 Since I'm a bit sick, I ended up only attending a handful of talks and had to skip VisLies and the Art Show opening. Hopefully this will get me back into shape for more extensive reporting tomorrow, though.
 
+
+_Posted by <a href="/about">Robert Kosara</a> on October 25, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -83,4 +89,5 @@ Since I'm a bit sick, I ended up only attending a handful of talks and had to sk
 >	
 >	We are currently working on expanding this idea to other visualization techniques (e.g., line charts), analytical tasks (e.g.,aggregating), and domains data visualization (e.g., interaction by demonstration).
 
+</aside>
 

@@ -1,14 +1,15 @@
 ---
 title: "When Rankings Are Just Data Porn"
 description: "Rankings are a common way of talking about data: who made the most money, who won the most medals, etc. But they hide issues in the underlying data. Is the difference between first and second meaningful or just noise? Here is a data video that nicely demonstrates the problem."
-date: 2016-12-19T05:07:29.000Z
+date: 2016-12-18 21:07:29
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg
 outline: false
 ---
 
 # When Rankings Are Just Data Porn
 
-Rankings are a common way of talking about data: who made the most money, who won the most medals, etc. But they hide issues in the underlying data. Is the difference between first and second meaningful or just noise? Here is a data video that nicely demonstrates the problem.<!--more-->
+Rankings are a common way of talking about data: who made the most money, who won the most medals, etc. But they hide issues in the underlying data. Is the difference between first and second meaningful or just noise? Here is a data video that nicely demonstrates the problem.
 
 Watch the first few minutes of this video about baby names in the U.S. over time. I find it fascinating, though not for the reason most people probably do.
 
@@ -35,6 +36,11 @@ To be fair, the person who made this video tried to take this into account a bit
 But really, the entire idea of a single most popular name per state is nonsense, especially in the last 20 years or so. It makes for a pretty animated map, sure. But in the end, it’s just data porn.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on December 18, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -48,4 +54,5 @@ Leonard says…
 >	
 >	That said, I think the video is intended to be entertainment/data porn rather than educational. It was dramatic when all the states apparently flipped to the same name in the same year (ignoring the fatal flaw that larger states have a much bigger visual impact than more populated states).
 
+</aside>
 

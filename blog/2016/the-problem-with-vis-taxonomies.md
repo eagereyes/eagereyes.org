@@ -1,13 +1,14 @@
 ---
 title: "The Problem with Vis Taxonomies"
 description: "Most taxonomies in visualization and HCI are useless. They carve up the space, but they don’t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones."
-date: 2016-11-28T04:32:42.000Z
+date: 2016-11-27 20:32:42
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg
 ---
 
 # The Problem with Vis Taxonomies
 
-Most taxonomies in visualization and HCI are useless. They carve up the space, but they don’t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones.<!--more-->
+Most taxonomies in visualization and HCI are useless. They carve up the space, but they don’t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones.
 
 ## A Taxonomy of Taxonomies
 
@@ -58,6 +59,11 @@ Just like novelty in research papers, the ability to make predictions or build n
 <a href="https://www.flickr.com/photos/limaoscarjuliet/2131512327/">Teaser image by Pawel Loj</a>
 
 
+_Posted by <a href="/about">Robert Kosara</a> on November 27, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -69,4 +75,5 @@ Bilal says…
 bertin says…
 >	Sure, vis/hci taxonomies should strive to be operational but giving vis grammars as examples of useful taxonomies is misleading.  I’m sure, e.g., Wilkinson would be the first to say that his grammar of graphics isn’t a taxonomy, pure or impure (you could actually walk down the hallway and ask him ;))
 
+</aside>
 

@@ -1,14 +1,15 @@
 ---
 title: "A Roundup of Year-End News Graphics Roundups"
 description: "The end of the year is always a good time to look back at the great work done in the world of news graphics – and this year in particular, to relive all the heartbreak and disillusionment. Here is a list of year-end news graphics round-ups for your enjoyment and edification."
-date: 2016-12-30T01:27:59.000Z
+date: 2016-12-29 17:27:59
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2017.jpg
 outline: false
 ---
 
 # A Roundup of Year-End News Graphics Roundups
 
-The end of the year is always a good time to look back at the great work done in the world of news graphics – and this year in particular, to relive all the heartbreak and disillusionment. Here is a list of year-end news graphics round-ups for your enjoyment and edification.<!--more-->
+The end of the year is always a good time to look back at the great work done in the world of news graphics – and this year in particular, to relive all the heartbreak and disillusionment. Here is a list of year-end news graphics round-ups for your enjoyment and edification.
 
 <ul>
     <li>The New York Times, <a href="http://www.nytimes.com/interactive/2016/12/28/us/year-in-interactive-graphics.html?_r=0"><em>2016: The Year in Visual Stories and Graphics</em></a></li>
@@ -24,5 +25,8 @@ The end of the year is always a good time to look back at the great work done in
 <hr />
 
 <a href="https://www.flickr.com/photos/23307937@N04/30857302623/">Teaser image by frankieleon</a>
+
+
+_Posted by <a href="/about">Robert Kosara</a> on December 29, 2016_
 
 

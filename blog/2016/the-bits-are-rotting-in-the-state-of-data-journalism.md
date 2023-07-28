@@ -1,14 +1,15 @@
 ---
 title: "The Bits Are Rotting in the State of Data Journalism"
 description: "News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today."
-date: 2016-07-14T04:43:48.000Z
+date: 2016-07-13 20:43:48
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png
 outline: false
 ---
 
 # The Bits Are Rotting in the State of Data Journalism
 
-News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today.<!--more-->
+News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today.
 
 The screenshot above is from <a href="http://www.washingtonpost.com/wp-srv/special/politics/state-vs-federal-exchanges/">this 2013 piece about the "Obamacare" healthcare exchanges</a>. This is what it should look like:
 
@@ -28,6 +29,11 @@ Perhaps the WaPo and NY Times can fix these things now. But when will they bre
 
 News are not just relevant in the moment, they become historical record. In the shorter term, they're also valuable because they represent highly interesting experiments in visualization. I don't care about the unemployment rate seven years ago, but I do think that <em>The Jobless Rate for People Like You</em> is a reference for how to present data and make people understand something about statistics. Losing these is very painful.
 
+
+_Posted by <a href="/about">Robert Kosara</a> on July 13, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -51,4 +57,5 @@ News are not just relevant in the moment, they become historical record. In the 
 <a href="http://www.rjionline.org/jdna" rel="nofollow noopener" target="_blank">Edward</a> says…
 >	Thanks, Robert, for bringing this critial issue up. It's something I've been working on for the past several years as digital curator of journalism here at the University of Missouri (we take journalism pretty seriously here). For those interested in making a difference please visit the Journalism Digital News Archive (JDNA) site at www.rjionline.org/jdna and sign up for our newsletter. We are also hosting a national forum on preserving online news at UCLA from October 13-14, 2016. Sign up here: https://www.rjionline.org/events/dodging-the-memory-hole-2016-saving-online-news.
 
+</aside>
 

@@ -1,13 +1,14 @@
 ---
 title: "Publicize, Don't Just Publish!"
 description: "What does it mean to publish a paper? Is it just to add a bullet point to your CV, or do you want the world to know about your research? What does it mean to publish today? Here are some thoughts and pointers on how to get the word out about the amazing work you do."
-date: 2016-06-22T04:07:44.000Z
+date: 2016-06-21 20:07:44
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png
 ---
 
 # Publicize, Don't Just Publish!
 
-What does it mean to publish a paper? Is it just to add a bullet point to your CV, or do you want the world to know about your research? What does it mean to publish today? Here are some thoughts and pointers on how to get the word out about the amazing work you do.<!--more-->
+What does it mean to publish a paper? Is it just to add a bullet point to your CV, or do you want the world to know about your research? What does it mean to publish today? Here are some thoughts and pointers on how to get the word out about the amazing work you do.
 
 Publishing your results is an integral part of doing science. Why work on figuring out something new if you're not going to tell anybody? Exchanging ideas, critiquing them, building on them, and then publishing new ones is the way science works.
 
@@ -42,6 +43,11 @@ There are always questions about putting the papers online. The major publisher
 It's so ridiculously easy with today's technology to reach a lot of people with your work. It's time academics figure out how to use that technology to tell the world about the cool stuff they do.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on June 21, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -58,4 +64,5 @@ It's so ridiculously easy with today's technology to reach a lot of people with 
 >	
 >	http://www.aviz.fr/~bbach/publicize_vis_2016/
 
+</aside>
 

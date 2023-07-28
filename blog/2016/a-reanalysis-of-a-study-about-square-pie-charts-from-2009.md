@@ -1,15 +1,16 @@
 ---
 title: "A Reanalysis of A Study About (Square) Pie Charts from 2009"
 description: "After my recent posting on the results of our pie charts studies, Jorge Camoes teased me on Twitter about square pie charts. So I dug up the data from a study we ran many years ago to look at how well they compare to bars, pies, and squares."
-date: 2016-07-11T03:20:14.000Z
+date: 2016-07-10 19:20:14
 tags: pie charts
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/07/simplevis-abserror-relative.png
 ---
 
 # A Reanalysis of A Study About (Square) Pie Charts from 2009
 
-After <a href="https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">my recent posting on the results of our pie charts studies</a>, Jorge Camoes <a href="https://twitter.com/camoesjo/status/748126581953036288">teased me on Twitter</a> about <a href="https://eagereyes.org/techniques/square-pie-charts">square pie charts</a>. So I dug up the data from a study we ran many years ago to look at how well they compare to bars, pies, and squares.<!--more-->
+After <a href="https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">my recent posting on the results of our pie charts studies</a>, Jorge Camoes <a href="https://twitter.com/camoesjo/status/748126581953036288">teased me on Twitter</a> about <a href="https://eagereyes.org/techniques/square-pie-charts">square pie charts</a>. So I dug up the data from a study we ran many years ago to look at how well they compare to bars, pies, and squares.
 
-In 2009, my then-Ph.D. student Caroline Ziemkiewicz and I ran a study to test the feasibility of Mechanical Turk for perceptual studies. We ended up <a href="https://eagereyes.org/papers/do-mechnical-turks-dream-of-square-pie-charts">sending a paper about it to BELIV 2010</a>, which was co-located with CHI that year. It was overshadowed by another paper at the main conference, unfortunately: Jeff Heer and Mike Bostock's <a href="http://vis.stanford.edu/papers/crowdsourcing-graphical-perception"><em>Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design</em></a>. While there was some overlap, theirs was a more thorough, detailed, and – frankly – better, paper. As far as title cleverness was concerned, we clearly had a leg up though: <em><a href="http://kosara.net/publications/Kosara_BELIV_2010.html">Do Mechanical Turks Dream of Square Pie Charts?</a></em>
+In 2009, my then-Ph.D. student Caroline Ziemkiewicz and I ran a study to test the feasibility of Mechanical Turk for perceptual studies. We ended up <a href="https://eagereyes.org/papers/do-mechnical-turks-dream-of-square-pie-charts">sending a paper about it to BELIV 2010</a>, which was co-located with CHI that year. It was overshadowed by another paper at the main conference, unfortunately: Jeff Heer and Mike Bostock's <a href="http://vis.stanford.edu/papers/crowdsourcing-graphical-perception"><em>Crowdsourcing Graphical Perception: Using Mechanical Turk to Assess Visualization Design</em></a>. While there was some overlap, theirs was a more thorough, detailed, and – frankly – better, paper. As far as title cleverness was concerned, we clearly had a leg up though: <em><a href="https://eagereyes.org/publications/Kosara_BELIV_2010.html">Do Mechanical Turks Dream of Square Pie Charts?</a></em>
 
 ## The Study
 
@@ -66,6 +67,11 @@ The numbers differ, but this study from 2009 shows some of the same effects as 
 I have added the dataset for the study as well as the RMarkdown code used to create these images to the <a href="https://github.com/eagereyes/pie-summaries/">github repository I created for the pie chart study comparison</a>.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on July 10, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -104,4 +110,5 @@ Chemystry says…
 <a href="https://gooddataproject.com/" rel="nofollow noopener" target="_blank">Nate Elliott</a> says…
 >	Just found this analysis and I love it. I referenced your post and added some other thoughts here: https://gooddataproject.com/blog/2021/10/the-beauty-of-square-pie-charts
 
+</aside>
 

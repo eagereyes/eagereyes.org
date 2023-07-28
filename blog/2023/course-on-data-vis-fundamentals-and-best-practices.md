@@ -1,8 +1,9 @@
 ---
 title: "Course on Data Vis Fundamentals and Best Practices"
 description: "I'm teaching a short course on data visualization for Observable. It's free, and you should join! Starts March 7."
-date: 2023-02-23T16:02:34.000Z
+date: 2023-02-23 08:02:34
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2023/02/vis-course-thumb.png
 outline: false
 ---
 
@@ -23,6 +24,11 @@ https://youtu.be/fupMzCU1sOo
 The course starts March 7 and consists of five sessions (every Tuesday and Thursday, 9am PST/noon EST). <a href="https://observablehq.com/@observablehq/datavizcourse?utm_medium=video&amp;utm_campaign=datavizcourse&amp;utm_source=videoembed" target="_blank" rel="noreferrer noopener">Sign up here to join</a>!
 
 
+_Posted by <a href="/about">Robert Kosara</a> on February 23, 2023_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -32,4 +38,5 @@ The course starts March 7 and consists of five sessions (every Tuesday and Thurs
 <a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Yes! You can watch <a href="https://www.youtube.com/watch?v=WJ1c54Ab-o8&list=PLOHIJAFwtkEdEQ698jmgoEiC2FFtq-gys" rel="nofollow ugc">the videos here</a> and the <a href="https://observablehq.com/@observablehq/course-materials-and-pointers?collection=@observablehq/data-vis-course" rel="nofollow ugc">course materials are collected here</a>
 
+</aside>
 

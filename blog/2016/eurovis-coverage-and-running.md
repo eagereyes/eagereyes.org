@@ -1,13 +1,14 @@
 ---
 title: "EuroVis Coverage and Running"
 description: "For people not attending EuroVis: I will be tweeting from there next week and write postings here, like I have in the previous years. For people who will be attending: let's meet up and run!"
-date: 2016-06-01T15:30:00.000Z
+date: 2016-06-01 07:30:00
 tags: eurovis
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/groningen-running.jpg
 ---
 
 # EuroVis Coverage and Running
 
-For people not attending <a href="http://www.cs.rug.nl/jbi/eurovis2016/">EuroVis</a>: I will be tweeting from there next week and write postings here, like I have <a href="https://eagereyes.org/tag/eurovis">in the previous years</a>. For people who will be attending: let's meet up and run!<!--more-->
+For people not attending <a href="http://www.cs.rug.nl/jbi/eurovis2016/">EuroVis</a>: I will be tweeting from there next week and write postings here, like I have <a href="https://eagereyes.org/tag/eurovis">in the previous years</a>. For people who will be attending: let's meet up and run!
 
 ## EuroVis Coverage
 
@@ -22,10 +23,16 @@ The EuroVis and VIS "running clubs" have been a bit hit-and-miss, but I'm not r
 The teaser image above is from Strava's running heat map for Groningen. Looks like a great place for a few little pre-conference morning runs!
 
 
+_Posted by <a href="/about">Robert Kosara</a> on June 01, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
 <a href="http://theresamariehyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
 >	Thank You for doing this.
 
+</aside>
 

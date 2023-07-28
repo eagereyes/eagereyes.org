@@ -1,13 +1,14 @@
 ---
 title: "The Personified User Interface Trap"
 description: "Personified user interfaces, like chat bots or agents, are the new thing once again. But despite advances in artificial intelligence, they still have many issues and drawbacks compared to direct-manipulation interfaces. There was a debate around these interfaces in the 1990s, and it seems to be bound to repeat itself."
-date: 2016-04-19T05:30:00.000Z
+date: 2016-04-18 21:30:00
 tags: history
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png
 ---
 
 # The Personified User Interface Trap
 
-Personified user interfaces, like chat bots or agents, are the new thing once again. But despite advances in artificial intelligence, they still have many issues and drawbacks compared to direct-manipulation interfaces. There was a debate around these interfaces in the 1990s, and it seems to be bound to repeat itself.<!--more-->
+Personified user interfaces, like chat bots or agents, are the new thing once again. But despite advances in artificial intelligence, they still have many issues and drawbacks compared to direct-manipulation interfaces. There was a debate around these interfaces in the 1990s, and it seems to be bound to repeat itself.
 
 In the last few weeks, Facebook unveiled a new push to use <a href="http://newsroom.fb.com/news/2016/04/messenger-platform-at-f8/">chat bots on Messenger</a>, and Microsoft has a <a href="http://arstechnica.com/information-technology/2016/03/microsofts-new-ai-tools-help-developers-build-smart-apps-and-bots/">new platform for building bots</a>. These bots are supposed to be the new way of doing everything, from delivering news (like <a href="http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/">Quartz' recent iPhone app</a>) to letting you order pizza, flowers, and everything else.
 
@@ -46,6 +47,11 @@ I can also see bots being useful for people with vision or other deficiencies, s
 
 Outside of these niches, I really don't understand the appeal of bots. The way they act and force me to interact, and the way they restrict my access to information, in no way make up for whatever advantages they might have. More than that, they strike me as disempowering the user and thus taking many steps back from modern graphical user interfaces that literally let you touch the actions and data you're dealing with.
 
+
+_Posted by <a href="/about">Robert Kosara</a> on April 18, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -91,4 +97,5 @@ Anthony says…
 <a href="http://www.appblit.com" rel="nofollow noopener" target="_blank">Laurent</a> says…
 >	http://appblit.com/b/78zVgtC1dd
 
+</aside>
 

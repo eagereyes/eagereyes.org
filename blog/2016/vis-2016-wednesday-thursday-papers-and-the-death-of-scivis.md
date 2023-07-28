@@ -1,13 +1,14 @@
 ---
 title: "VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis"
 description: "Two more postings about VIS 2016 last week! Wednesday got a lot of us talking, with the Death of SciVis panel. There were also more papers on a variety of topics."
-date: 2016-10-31T03:17:06.000Z
+date: 2016-10-30 19:17:06
 tags: conference, IEEEVIS
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4473.jpg
 ---
 
 # VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis
 
-Two more postings about VIS 2016 last week! Wednesday got a lot of us talking, with the Death of SciVis panel. There were also more papers on a variety of topics.<!--more-->
+Two more postings about VIS 2016 last week! Wednesday got a lot of us talking, with the Death of SciVis panel. There were also more papers on a variety of topics.
 
 ## InfoVis Applications
 
@@ -44,6 +45,11 @@ Finding good color scales remains a common problem.<em> <a href="http://vrl.cs.
 There was more on Thursday, but I'm splitting things here to keep this posting to a reasonable length.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on October 30, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -54,4 +60,5 @@ Evan says…
 <a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Yes, in the data journalism and infographics worlds, this is a very common workflow. There's <em>a lot</em> you can do much faster and more easily in Illustrator than in code. In principle most or all of that can be done in D3 directly, but it's way more effort and takes much longer.
 
+</aside>
 

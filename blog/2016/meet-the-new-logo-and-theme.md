@@ -1,13 +1,14 @@
 ---
 title: "Meet the New Logo and Theme!"
 description: "This site has gone through many different looks and designs. I haven't kept count, but I'd be surprised if it was fewer than ten. So far, they have all either been off-the-shelf generic designs or ones I had created myself. For its tenth birthday, I decided to splurge and get eagereyes a complete makeover: a new theme and a real, custom logo."
-date: 2016-09-28T12:17:25.000Z
+date: 2016-09-28 04:17:25
 tags: Meta/Site News, A Decade of EagerEyes
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/new-theme-teaser.jpg
 ---
 
 # Meet the New Logo and Theme!
 
-This site has gone through many different looks and designs. I haven't kept count, but I'd be surprised if it was fewer than ten. So far, they have all either been off-the-shelf generic designs or ones I had created myself. For its tenth birthday, I decided to splurge and get eagereyes a complete makeover: a new theme and a real, custom logo.<!--more-->
+This site has gone through many different looks and designs. I haven't kept count, but I'd be surprised if it was fewer than ten. So far, they have all either been off-the-shelf generic designs or ones I had created myself. For its tenth birthday, I decided to splurge and get eagereyes a complete makeover: a new theme and a real, custom logo.
 
 ## The Logo
 
@@ -52,10 +53,16 @@ So now there is an <a href="https://eagereyes.org/pie-charts">updated pie charts
 In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="https://eagereyes.org/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on September 28, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
 <a href="http://livingdata.us" rel="nofollow noopener" target="_blank">Leigh Fonseca</a> says…
 >	Love your new logo and theme! Nicely executed.
 
+</aside>
 

@@ -1,13 +1,14 @@
 ---
 title: "IEEE VIS Pointers and Running"
 description: "VIS is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup – plus a reminder to bring your running shoes!"
-date: 2016-10-18T14:17:36.000Z
+date: 2016-10-18 06:17:36
 tags: IEEEVIS
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/baltimore-teaser.jpg
 ---
 
 # IEEE VIS Pointers and Running
 
-<a href="http://ieeevis.org">VIS</a> is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup – plus a reminder to bring your running shoes!<!--more-->
+<a href="http://ieeevis.org">VIS</a> is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup – plus a reminder to bring your running shoes!
 
 In case this seems familiar: Vis was in Baltimore <a href="http://vis.computer.org/vis2006/">in 2006</a> – exactly ten years ago! I took the picture you see above back then.
 
@@ -27,7 +28,7 @@ But enough about others, back to me. Here's my plan for the week so far.
 
 <ul>
     <li>Saturday: Doctoral Colloquium</li>
-    <li>Sunday morning: <a href="http://c4pgv.swansea.ac.uk">C4PGV workshop</a> (which, obviously, stands for <em>Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization</em>) to present a paper with Aritra Dasgupta and Enrico Bertini, <a href="http://kosara.net/publications/Kosara-C4PGV-2016.html"><em>Reflecting on the Design Criteria for Explanatory Visualizations</em></a>.</li>
+    <li>Sunday morning: <a href="http://c4pgv.swansea.ac.uk">C4PGV workshop</a> (which, obviously, stands for <em>Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization</em>) to present a paper with Aritra Dasgupta and Enrico Bertini, <a href="https://eagereyes.org/publications/Kosara-C4PGV-2016.html"><em>Reflecting on the Design Criteria for Explanatory Visualizations</em></a>.</li>
     <li>Monday: BELIV to present my paper, <a href="https://eagereyes.org/papers/paper-an-empire-built-on-sand"><em>An Empire Built On Sand</em></a>.</li>
     <li>Also Monday: <a href="http://visinpractice.org"><em>Visualization in Practice</em> workshop</a>. Okay, I won't be there (I have to yell at people at BELIV), but my colleague Justin Talbot has done an amazing job organizing this workshop. Also, what do the initial letters of <em>Vis in Practice</em> spell? That's right: VIP!</li>
     <li>Wednesday: Blogging meetup, see below</li>
@@ -62,10 +63,16 @@ As <a href="https://eagereyes.org/tag/conference">in the past years</a>, <a href
 This will be my 16th Vis/VisWeek/VIS in a row. I'm looking forward to seeing everybody there!
 
 
+_Posted by <a href="/about">Robert Kosara</a> on October 18, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
 <a href="https://benbernardblog.com" rel="nofollow noopener" target="_blank">Benoit Bernard</a> says…
 >	Too bad that I live so far from Baltimore! I would have liked to attend your session about blogging. Do you intend to write up a summary or something about it? Since you've been blogging for several years, it would be an extremely interesting read!
 
+</aside>
 

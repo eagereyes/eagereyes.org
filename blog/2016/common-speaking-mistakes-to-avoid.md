@@ -1,8 +1,9 @@
 ---
 title: "Common Speaking Mistakes To Avoid"
 description: "Whenever I go to academic conferences, I have to sit through some terrible talks. It continues to amaze me that so many people make mistakes that are so easy to avoid. Here are a few I noticed just in the last two days."
-date: 2016-10-24T01:04:31.000Z
+date: 2016-10-23 17:04:31
 tags: speaking
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/speaker.jpg
 ---
 
 # Common Speaking Mistakes To Avoid
@@ -78,6 +79,11 @@ Of course you also need to watch the good people and pick up tricks from them. B
 That's it. I'm done with my posting.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on October 23, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -112,4 +118,5 @@ Helena says…
 Iain says…
 >	My bugbear is when each person in the Q&amp;A after the talk says something like "That was a great presentation" and THEN proceeds to ask the question.  Just ask your question.
 
+</aside>
 

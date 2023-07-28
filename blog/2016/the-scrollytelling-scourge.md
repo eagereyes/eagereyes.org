@@ -1,13 +1,14 @@
 ---
 title: "The Scrollytelling Scourge"
 description: "Scrollytelling is a common way of interacting with stories these days. Scroll down and the story unfolds! Except it's often awkward, brittle, and gets in the way."
-date: 2016-05-25T15:17:00.000Z
+date: 2016-05-25 07:17:00
 tags: 
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/scrollytelling-teaser.png
 ---
 
 # The Scrollytelling Scourge
 
-Scrollytelling is a common way of interacting with stories these days. Scroll down and the story unfolds! Except it's often awkward, brittle, and gets in the way.<!--more-->
+Scrollytelling is a common way of interacting with stories these days. Scroll down and the story unfolds! Except it's often awkward, brittle, and gets in the way.
 
 ## The Age of Scrollytelling
 
@@ -37,6 +38,11 @@ This one's from <em><a href="http://www.nytimes.com/interactive/2013/04/16/scien
 
 If you absolutely have to use scrolling, read – and heed – Mike Bostock's <em><a href="https://bost.ocks.org/mike/scroll/">How to Scroll</a></em>. But even better: don't.
 
+
+_Posted by <a href="/about">Robert Kosara</a> on May 25, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -134,4 +140,5 @@ Jamie Briggs says…
 >	
 >	As mentioned in other comments here, there is good design and bad design in any paradigm, and a badly designed scrolling interface is not an argument against scrolling interfaces.
 
+</aside>
 

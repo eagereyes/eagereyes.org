@@ -1,14 +1,15 @@
 ---
 title: "The Dumbest User Interface of 2016"
 description: "It is my great honor and pleasure to announce the winner of the Worst User Interface Award 2016: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved."
-date: 2016-12-27T01:26:57.000Z
+date: 2016-12-26 17:26:57
 tags: user interfaces
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg
 outline: false
 ---
 
 # The Dumbest User Interface of 2016
 
-It is my great honor and pleasure to announce the winner of the <em>Worst User Interface Award 2016</em>: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved.<!--more-->
+It is my great honor and pleasure to announce the winner of the <em>Worst User Interface Award 2016</em>: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved.
 
 It is not often that a new user interface is so obviously annoying and user-hostile as these new terminals. It is even more remarkable that such a poorly thought out design could be released for such widespread use. And in 2016, no less (well, actually 2015 or even earlier, but the machines weren't accepting chip cards until some time this year in most places).
 
@@ -32,6 +33,11 @@ The award is lovingly handmade from thousands of discarded “Please Swipe!” a
 
 <a href="https://www.flickr.com/photos/39160147@N03/15721764104/">Teaser image by JeepersMedia</a>
 
+
+_Posted by <a href="/about">Robert Kosara</a> on December 26, 2016_
+
+
+<aside class="comments">
 
 ---
 ## Comments
@@ -62,4 +68,5 @@ Ben B says…
 <a href="https://www.facebook.com/app_scoped_user_id/571092988/" rel="nofollow noopener" target="_blank">Gary Bisaga</a> says…
 >	I like how in one store, I CANNOT use the chip (must swipe) with my debit card, while at another store down the street, I MUST use the chip with that same card. It could be worse - it used to be that at the latter store, in some checkout lanes you had to use the chip while in other checkout lanes you had to swipe.
 
+</aside>
 

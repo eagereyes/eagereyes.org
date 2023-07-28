@@ -1,13 +1,14 @@
 ---
 title: "EuroVis 2016, Tuesday and Wednesday"
 description: "EuroVis 2016 is happening this week in Groningen, The Netherlands. This is the report from the first two-and-a-half days,  which saw some symposia, a keynote, and many paper presentations."
-date: 2016-06-08T21:22:30.000Z
+date: 2016-06-08 13:22:30
 tags: conference, eurovis
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg
 ---
 
 # EuroVis 2016, Tuesday and Wednesday
 
-<a href="http://eurovis.org">EuroVis 2016</a> is happening this week in Groningen, The Netherlands. This is the report from the first two-and-a-half days,  which saw some symposia, a keynote, and many paper presentations.<!--more-->
+<a href="http://eurovis.org">EuroVis 2016</a> is happening this week in Groningen, The Netherlands. This is the report from the first two-and-a-half days,  which saw some symposia, a keynote, and many paper presentations.
 
 The pre-conference program kicked off on Monday afternoon. In addition to a few small symposia, there was also a tutorial on machine learning and visualization. It was pretty basic, but <a href="http://mlvis2016.hiit.fi">the materials are available online</a> in case you want to take a look.
 
@@ -35,7 +36,7 @@ Update: you can now <a href="https://vimeo.com/groups/383543/videos/169967499">w
 
 The first real papers session took place Wednesday morning. Unfortunately, most talks did not have URLs, and I haven't been very successful in searching for papers posted online. That is especially problematic for EuroVis, since very few institutions outside of Europe have access to the Eurographics digital library, so these papers have nowhere near the reach they should have.
 
-<i>Enhancing Scatterplots with Multi-Dimensional Focal Blur</i> by Joachim Staib, Sebastian Grottel, and Stefan Gomhold built on the idea of blur for focus and context in visualization. This is of particular interest to me, since <a href="http://kosara.net/publications/Kosara_InfoVis_2001.html">I did work on this in my Ph.D. thesis</a>. They showed some interesting examples of how blur can separate clusters in scatterplots, but I was ultimately confused whether they were going for interaction or static images.
+<i>Enhancing Scatterplots with Multi-Dimensional Focal Blur</i> by Joachim Staib, Sebastian Grottel, and Stefan Gomhold built on the idea of blur for focus and context in visualization. This is of particular interest to me, since <a href="https://eagereyes.org/publications/Kosara_InfoVis_2001.html">I did work on this in my Ph.D. thesis</a>. They showed some interesting examples of how blur can separate clusters in scatterplots, but I was ultimately confused whether they were going for interaction or static images.
 
 <i>Exploring Items and Features with I<sup>F</sup> and F<sup>I</sup>-Tables</i> by Paul van der Corput and Jarke J. van Wijk presented the very simple idea of showing two tables next to each other, one with the items as rows and the features as columns (I<sup>F</sup>), and one the other way around (F<sup>I</sup>). This way, the user can pick candidate rows and then look at the items side-by-side. Some histograms and a bit of interaction made the whole thing look quite useful.
 
@@ -58,6 +59,11 @@ While the talks are all solid, I'm confused by the lack of online materials. Our
 There also isn't much going on on Twitter. My tweets <a href="https://twitter.com/eagereyes/timelines/733779814738317312">are collected here</a>, and there's some activity under the <a href="https://twitter.com/search?q=EuroVis%20OR%20EuroVis2016&amp;src=typd">EuroVis and EuroVis2016</a> hashtags (though I wish everybody would join forces under <em>#EuroVis</em>, which is shorter). But there's much less than I would have expected.
 
 
+_Posted by <a href="/about">Robert Kosara</a> on June 08, 2016_
+
+
+<aside class="comments">
+
 ---
 ## Comments
 
@@ -74,4 +80,5 @@ Alexander Rind says…
 >	
 >	I think one reason why few EuroVis pages are available online is that EuroGraphics publishing agreement allows copies on author's websites only AFTER official publication, whereas IEEE VIS has no such embargo period. Quite out-of-time as IMHO the openness will raise interest in the conference.
 
+</aside>
 
