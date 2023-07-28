@@ -91,6 +91,7 @@ for post in posts:
 			outFile.write('description: "%s"\n' % quoteQuotes(deHTML(excerpt)))
 			outFile.write('date: %s\n' % date)
 			outFile.write('tags: %s\n' % post['tags'])
+			outFile.write('featuredImage: %s\n' % (post['featuredImage'] if post['featuredImage'] != None else ''))
 			if content.count('<h2') == 0:
 				outFile.write('outline: false\n')
 			outFile.write('---\n\n')
