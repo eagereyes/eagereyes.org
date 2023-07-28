@@ -91,7 +91,13 @@ for post in posts:
 			outFile.write('description: "%s"\n' % quoteQuotes(deHTML(excerpt)))
 			outFile.write('date: %s\n' % date)
 			outFile.write('tags: %s\n' % post['tags'])
-			outFile.write('featuredImage: %s\n' % (post['featuredImage'] if post['featuredImage'] != None else ''))
+
+			if post['featuredImage'] == None:
+				outFile.write('featuredImage:\n')
+			else:
+				featuredImage = re.sub(r'(https?://eagereyes.org)?/([^"]+)$', r'%s\2' % MEDIAPATH, post['featuredImage'])
+				outFile.write('featuredImage: %s\n' % featuredImage)
+
 			if content.count('<h2') == 0:
 				outFile.write('outline: false\n')
 			outFile.write('---\n\n')
