@@ -3,6 +3,7 @@
 import json
 import re
 from datetime import datetime, timedelta
+from os import path
 
 MEDIAPATH = 'https://media.eagereyes.org/'
 
@@ -69,6 +70,7 @@ REPLACEPATHS = [{'from': 'blog/web', 'to': 'blog/2014'},
 				]
 
 EXTRACTPATH = 'blog/'
+OVERWRITE = False
 
 postsBySlug = {}
 
@@ -80,6 +82,11 @@ for post in posts:
 		slugPrefix = slugPrefix.replace(r['from'], r['to'])
 	
 	if slug.startswith(EXTRACTPATH):
+		# Skip file if it exists and OVERWRITE is not set
+		if path.exists(slug+'.md') and OVERWRITE == False:
+			# print('[%s]' % slug)
+			continue
+
 		print(slug)
 		
 		if slugPrefix in postsBySlug:
@@ -103,7 +110,7 @@ for post in posts:
 			outFile.write('tags: %s\n' % post['tags'])
 
 			if post['featuredImage'] == None:
-				outFile.write('featuredImage:\n')
+				outFile.write('featuredImage: \n')
 			else:
 				featuredImage = re.sub(r'(https?://eagereyes.org)?/([^"]+)$', r'%s\2' % MEDIAPATH, post['featuredImage'])
 				outFile.write('featuredImage: %s\n' % featuredImage)
