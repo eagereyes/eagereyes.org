@@ -82,6 +82,11 @@ for post in posts:
 		slugPrefix = slugPrefix.replace(r['from'], r['to'])
 	
 	if slug.startswith(EXTRACTPATH):
+		if slugPrefix in postsBySlug:
+			postsBySlug[slugPrefix].append(post)
+		else:
+			postsBySlug[slugPrefix] = [post]
+
 		# Skip file if it exists and OVERWRITE is not set
 		if path.exists(slug+'.md') and OVERWRITE == False:
 			# print('[%s]' % slug)
@@ -89,11 +94,6 @@ for post in posts:
 
 		print(slug)
 		
-		if slugPrefix in postsBySlug:
-			postsBySlug[slugPrefix].append(post)
-		else:
-			postsBySlug[slugPrefix] = [post]
-
 		content = deWordPress(post['content'])
 		excerpt = post['excerpt']
 		if len(post['excerpt']) == 0:
@@ -144,7 +144,7 @@ for folder in postsBySlug.keys():
 	posts = postsBySlug[folder]
 	posts = sorted(posts, key=lambda d: datetime.fromisoformat(d['date'][:-1])) #, reverse=True)
 
-	print(folder)
+	print('Index: ' + folder)
 	with open('%s/index.md' % folder, 'w') as outFile:
 		outFile.write('# %s\n\n- ' % folder)
 		
