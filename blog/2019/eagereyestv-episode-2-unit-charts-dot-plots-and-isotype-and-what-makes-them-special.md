@@ -13,9 +13,8 @@ Charts usually show values as visual properties, like the length in a bar chart,
 
 This is the second video on my YouTube channel, eagereyesTV. Watch it below or <a href="https://www.youtube.com/watch?v=xXOK-K2m6A0">click here to be taken to YouTube</a>.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=xXOK-K2m6A0
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xXOK-K2m6A0?si=_19YzS0myPtxUKo5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 Topics I cover in the video:
 

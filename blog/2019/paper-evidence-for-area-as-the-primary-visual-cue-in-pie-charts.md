@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VIS
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VISShort-2019.png" width="660" height="427" /></p>
+
 # Paper: Evidence for Area as the Primary Visual Cue in Pie Charts
 
 How we read pie charts is still an open question: is it angle? Is it area? Is it arc length? In a study I'm presenting as a short paper at the IEEE VIS conference in Vancouver next week, I tried to tease the visual cues apart – using modeling and 3D pie charts.

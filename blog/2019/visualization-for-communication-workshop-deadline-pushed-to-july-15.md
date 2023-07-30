@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg" width="660" height="454" /></p>
+
 # Visualization for Communication Workshop Deadline Pushed to July 15
 
 You may not be aware that we’re organizing the Visualization for Communication (VisComm) workshop at VIS again this year. That’s why we’ve decided to push back the deadline to July 15, so you can submit all your amazing research papers, position papers, posters, and visual case studies.

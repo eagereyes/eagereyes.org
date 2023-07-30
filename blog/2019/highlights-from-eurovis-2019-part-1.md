@@ -6,6 +6,8 @@ tags: conference
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg" width="1024" height="768" /></p>
+
 # Highlights from EuroVis 2019, Part 1
 
 The EuroVis 2019 conference took place in early June this year in Porto, Portugal. While I enjoyed the city and conference venue, I found the program a bit underwhelming this time around. I’ve kept pushing off writing this report because I found myself griping rather than talking about the content.
@@ -30,15 +32,8 @@ Since that also happened to be my favorite (which naturally means it didn’t wi
 
 One of my favorite presentations was <a href="https://uwdata.github.io/color-naming-in-different-languages/index.html"><em>Color Names Across Languages: Salient Colors and Term Translation in Multilingual Color Naming Models</em> by Younghoon Kim, Kyle Thayer, Gabriella Gorsky, and Jeffrey Heer</a> that looked at color names in different languages. We know that some languages <a href="https://eagereyes.org/blog/2011/you-only-see-colors-you-can-name">treat colors like blue differently from English</a>, and this study found some more of these effects in Korean, Farsi, and Chinese. Berlin and Kay’s classic seven hues exist across all languages, but also for example that Korean has more specific terms for blue, teal, and purple then English. Their data and some exploration and color translation tools are available on the website.
 
-I had two short papers on pie chart variations, <a href="https://eagereyes.org/blog/2019/two-short-papers-on-part-to-whole-charts-at-eurovis">which I’ve mentioned here before of course</a>. I was a bit nervous about the reception at the conference since they had been rejected multiple times before –&nbsp;but there was actually quite a bit of interest right after the talk and during the rest of the conference (and the occasional fun tweet).
+I had two short papers on pie chart variations, <a href="https://eagereyes.org/blog/2019/two-short-papers-on-part-to-whole-charts-at-eurovis">which I’ve mentioned here before of course</a>. I was a bit nervous about the reception at the conference since they had been rejected multiple times before – but there was actually quite a bit of interest right after the talk and during the rest of the conference (and the occasional [fun](https://twitter.com/jsndyks/status/1136190687047823360) [tweet](https://twitter.com/FrankElavsky/status/1135941169991393280)).
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-https://twitter.com/jsndyks/status/1136190687047823360
-</div></figure>
-
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
-https://twitter.com/FrankElavsky/status/1135941169991393280
-</div></figure>
 
 ## Analysis and Decision Making
 
