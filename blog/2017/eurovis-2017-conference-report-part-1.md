@@ -6,6 +6,8 @@ tags: conference, eurovis
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/dragon-gate.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/dragon-gate.jpg" width="720" height="500" /></p>
+
 # EuroVis 2017 Conference Report, Part 1
 
 <a href="http://eurovis2017.virvig.es">EuroVis</a> is currently taking place in Barcelona. In the interest of shorter postings, I’m breaking this report up into three parts. This first part covers the EuroRVVV workshop as well as the opening session and keynote.

@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg" width="750" height="500" /></p>
+
 # Visualization as a Field Is Still Invisible
 
 A new series by the New York Times is equally exciting and painful: it presents visualizations for discussion in class, but the outside help they are getting is coming from statistics rather than visualization. It’s another reminder of just how far we still have to go to even be noticed as a research field.
@@ -40,9 +42,7 @@ I love the questions Gonchar said they wanted students to answer: What do you no
 
 ## What Visualization Needs to Do
 
-<em>What’s Going On in This Chart</em> is a great idea, and it’s painful that the visualization community isn’t involved. I asked Gonchar if he was aware of the VIS conference or the research community in general, and he said no. This is unfortunately not surprising. Visualization as a field and a community is largely invisible.
-
-https://twitter.com/eagereyes/status/905795587487838208
+<em>What’s Going On in This Chart</em> is a great idea, and it’s painful that the visualization community isn’t involved. I asked Gonchar if he was aware of the VIS conference or the research community in general, and he said no. This is unfortunately not surprising. [Visualization as a field and a community is largely invisible](https://twitter.com/eagereyes/status/905795587487838208).
 
 It’s not even that there is no relevant research that would let us connect with middle and high schools. There isn’t much, but there is some – in particular on visualization literacy, and there was <a href="https://www.microsoft.com/en-us/research/project/cest-la-vis-visualization-literacy-elementary-school/">a paper at CHI</a> on teaching visualization in schools.
 

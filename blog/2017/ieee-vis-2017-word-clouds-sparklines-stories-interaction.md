@@ -6,11 +6,13 @@ tags: conference, IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg" width="700" height="377" /></p>
+
 # IEEE VIS 2017: Word Clouds, Stories, Interaction
 
 I usually stick to the InfoVis track at VIS, and that was also the case this time. The papers in this part of my report from VIS 2017 cover text, small visualizations like sparklines and glyphs, tools for showing story structure, and multi-device interaction with data.
 
-<h1>Word Clouds</h1>
+## Word Clouds
 
 Tag or word clouds are second only to pie charts in the kind of scorn you get for using them. And yet, they were a topic at InfoVis this year, with three papers dealing with their creation and readability.
 
@@ -36,7 +38,8 @@ While there is a lot of talk of multiple views and interaction, there is not eno
 
 <a href="https://imld.de/en/research/research-projects/vistiles/">VisTiles: Coordinating and Combining Co-located Mobile Devices for Visual Data Exploration</a> by Ricardo Langner, Tom Horak, and Raimund Dachselt shows a number of ideas for using multiple mobile devices (in particular tables) to expand the way interaction with data works. They have a large set of interesting demos, and their source code is also available for you to try it out yourself.
 
-https://youtu.be/8MxPAMKmkSM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8MxPAMKmkSM?si=ilkK2M3CGTKre9bh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 ## Stories and Interaction
 

@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/04/percent-teaser.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/04/percent-teaser.jpg" width="720" height="500" /></p>
+
 # Huge Percentages Are Meaningless
 
 Percentages are incredibly useful when talking about how something is a part of something larger: this many percent tax, that many percent of people are unemployed, etc. When percentages are much larger than 100, however, they lose their meaning and their usefulness. Unfortunately, they seem to be increasingly common.

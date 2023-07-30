@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/11/microphone
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg" width="720" height="480" /></p>
+
 # Speaking: How to Use A Microphone
 
 When you’re <a href="https://eagereyes.org/tag/speaking">speaking in front of an audience</a>, you’re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can’t do that if you don’t know how to use it or if you actively work against it.

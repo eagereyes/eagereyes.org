@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/02/hans-rosling-tc14.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/hans-rosling-tc14.jpg" width="720" height="500" /></p>
+
 # Hans Rosling: An Appreciation
 
 <a href="http://www.gapminder.org/news/sad-to-announce-hans-rosling-passed-away-this-morning/">Hans Rosling died earlier today (Tuesday, February 7</a>). He championed the idea of showing people what the world was really like – and how it was different from their preconceptions – using data and visualization. And he did it with enthusiasm and humor. This is a brief appreciation of his work and legacy.
@@ -30,7 +32,8 @@ One thing Rosling kept telling people is that things are much better than you mi
 
 Here is a fun exchange between Rosling and a reporter, where he schools him on the things that are good and improving in the world.
 
-https://www.youtube.com/watch?v=Oxxx03_JHlM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oxxx03_JHlM?si=hD-4fg-p-H2xMYqn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 ## Impact
 

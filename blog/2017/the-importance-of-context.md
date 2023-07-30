@@ -6,6 +6,8 @@ tags: running, activity tracking, context
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png" width="600" height="486" /></p>
+
 # The Importance of Context
 
 I use a <a href="http://misfit.com/">Misfit activity tracker</a> to count my steps. The Misfit app does a decent job of showing me step counts per day and every month, misfit also sends me a summary of the previous month’s activity. Unfortunately, the numbers in that summary are presented without any context, making that summary almost entirely useless.
@@ -40,7 +42,7 @@ There is a lot more potential to add context here. I still don’t know if any o
 
 Going further, what about setting a goal and showing me progress? Misfit doesn’t let me do that, but Strava does a decent job at this for both weekly and yearly goals.
 
-<img class="aligncenter wp-image-10144" src="https://eagereyes.org/wp-content/uploads/2017/07/strava-goals.png" alt="" width="356" height="275" />
+<p align="center"><img class="aligncenter wp-image-10144" src="https://media.eagereyes.org/wp-content/uploads/2017/07/strava-goals.png" alt="" width="356" height="275" /></p>
 
 Even this could be improved (and I’ll have more to say about data display in fitness tracking more generally in another posting), but it’s a good start.
 

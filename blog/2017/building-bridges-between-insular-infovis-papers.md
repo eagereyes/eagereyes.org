@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500" /></p>
+
 # Building Bridges Between Insular InfoVis Papers
 
 Can you describe what information visualization research does in a few words? What are the driving questions and problems right now? It’s harder than it might seem. I believe that the lack of cohesion in the field is due, at least in part, to how we publish research.
@@ -26,11 +28,11 @@ Journal papers are great because they count much more than conference papers (es
 
 For my talk at EuroRVVV last week, I tried to show my view of the field with this little sketch. The big red blobs are journal papers, the small circles are the minor workshop and short papers that drift around the periphery.
 
-<img class="aligncenter size-full wp-image-10124" src="https://eagereyes.org/wp-content/uploads/2017/06/papers-outside.jpg" alt="" width="1320" height="990" />
+<p align="center"><img class="aligncenter size-full wp-image-10124" src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-outside.jpg" alt="" width="660" height="495" /></p>
 
 This is what I think we should be doing, however: use the smaller pieces to fill in the gaps between the large ones. Make connections. Dig deeper. Iterate and increment. There is a lot of value in doing this if done right, but it’s not done much right now. But the picture would look much more like this.
 
-<img class="aligncenter size-full wp-image-10123" src="https://eagereyes.org/wp-content/uploads/2017/06/papers-inbetween.jpg" alt="" width="1320" height="990" />
+<p align="center"><img class="aligncenter size-full wp-image-10123" src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-inbetween.jpg" alt="" width="660" height="495" /></p>
 
 This is the cohesion I’m thinking about. Small papers that build bridges and that end up clustering the larger pieces together into themes. These themes would then inspire more work, on any level, on related topics. We would know what we’re doing.
 

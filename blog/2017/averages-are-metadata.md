@@ -6,6 +6,9 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg" width="624" height="305" /></p>
+
+
 # Averages Are Metadata
 
 When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake.

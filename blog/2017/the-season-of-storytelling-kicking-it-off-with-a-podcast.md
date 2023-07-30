@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/09/policyviz-
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/policyviz-storytelling.jpg" width="512" height="288" /></p>
+
 # The Season of Storytelling: Kicking It Off With A Podcast
 
 It's (almost) Fall – a good time for telling stories! Jon Schwabish invited me to be on his <a href="https://policyviz.com/podcast/episode-93-robert-kosara/">PolicyViz podcast</a> again to kick off its new season. And I have a long list of things to write about around that topic, too.

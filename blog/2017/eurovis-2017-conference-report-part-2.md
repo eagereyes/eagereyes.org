@@ -6,6 +6,8 @@ tags: conference, eurovis
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona.jpg" width="720" height="500" /></p>
+
 # EuroVis 2017 Conference Report, Part 2
 
 On the first full day of the main <a href="http://eurovis2017.virvig.es">EuroVis conference</a>, we learned that estimating correlation from scatterplots may not be as great as we thought, saw a number of new ways to show what is and is not in the data, and got some new tools for making browser-based visualization fast.
@@ -16,9 +18,7 @@ Before I dive into the papers, I want to make clear that this is a very biased s
 
 <em><a href="http://www.napier.ac.uk/research-and-innovation/research-search/outputs/constructing-and-evaluating-visualisation-task-classifications-process-and#downloads">Constructing and Evaluating Visualisation Task Classifications</a></em> by Natalie Kerracher and Jessie Kennedy tackles the interesting problem that taxonomies are created without much consideration for what they’re actually useful for (incidentally, this is also <a href="https://eagereyes.org/blog/2016/the-problem-with-vis-taxonomies">a pet peeve of mine</a>). As Jessie Kennedy said in her talk, “Everybody used to create systems and nobody was evaluating them, now we’re creating taxonomies and nobody is evaluating them!”
 
-They came up with an interesting approach, modeled after a paper by Tamara Munzner, that identified threats to the validity of these taxonomies. You might recognize the right part of this slide:
-
-https://twitter.com/eagereyes/status/874888760525279233
+They came up with an interesting approach, modeled after a paper by Tamara Munzner, that identified threats to the validity of these taxonomies. You might recognize [the right part of this slide](https://twitter.com/eagereyes/status/874888760525279233).
 
 <em><a href="http://people.csail.mit.edu/ilaria/papers/EuroVis2017.pdf">An Empirical Study on the Reliability of Perceiving Correlation Indices using Scatterplots</a></em> by Varshita Sher, Karen G. Bemis, Ilaria Liccardi, and Min Chen calls into question what we thought about our ability to judge correlation from scatterplots. This is considered to be quite precise, but they showed in a number of studies that there are large offsets in the value that correspond to the offset of the correlation coefficient from 0. They also found an effect of density, but only for very small numbers of points.
 
@@ -38,7 +38,8 @@ Interestingly, they cite <a href="https://eagereyes.org/criticism/anscombes-quar
 
 <a href="https://stardustjs.github.io">Stardust: Accessible and Transparent GPU Support for Information Visualization Rendering</a> by Donghao Ren, Bongshin Lee, and Tobias Höllerer is a framework for building information visualization applications in the browser that are rendered directly on the GPU. Their API mirrors D3 and they are working on interesting extensions to build pixel-space techniques as well. The link above leads to their very nice demo page (with source, etc.), and they also have a nice little demo reel:
 
-https://vimeo.com/218365921
+<iframe src="https://player.vimeo.com/video/218365921?h=b4092186dc" width="640" height="333" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p></p>
 
 ## Survey of Surveys
 

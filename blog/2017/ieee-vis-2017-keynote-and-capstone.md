@@ -6,6 +6,8 @@ tags: conference, IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/giorgia-lupi-talking.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/giorgia-lupi-talking.jpg" width="720" height="480" /></p>
+
 # IEEE VIS 2017: Keynote and Capstone
 
 Part 2 of my IEEE VIS 2017 report covers the keynote and capstone talks at the conference. They were not just at opposite ends of the conference, but also about as different as they can be in terms of content and delivery.
@@ -26,13 +28,14 @@ Among her latest projects are a show about fashion at MoMA, for which she create
 
 Perhaps the most stunning is her collaboration with musician <a href="http://www.kakiking.com">Kaki King</a>, however. Giorgia and Kaki collected data similar to Dear Data, which Kaki turned into a song, then Georgia <a href="http://giorgialupi.com/work#/a-dialogue-between-four-hands-my-ongoing-collaboration-with-kaki-king/">collected data about the score and how Kaki plays it</a> and visualized that. The result is this stunning video:
 
-https://youtu.be/ThzatN2W8Zk
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ThzatN2W8Zk?si=Qi7c2Q1sBmViYZ-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 What struck me during the talk, even though I should have figured this out a long time ago, is how much of Giorgia’s process is about the collection of the data, not just its representation. Each of her pieces is also very specific to the data and its context, which is almost the exact opposite of visualization techniques that tend to be general and independent of context. She talked about the value of designing visualizations that are specific to their topic, and I think there’s a lot of truth in that.
 
-Giorgia has written up many of the ideas she talked about in her piece on what she calls <a href="https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb">Data Humanism</a>. It was a great talk and I think it gave everybody in the audience a lot to think about.
+Giorgia has written up many of the ideas she talked about in her piece on what she calls <a href="https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb">Data Humanism</a>. It was a great talk and I think it [gave everybody in the audience a lot to think about](https://twitter.com/giCentre/status/916369329683234816).
 
-https://twitter.com/giCentre/status/916369329683234816
+
 
 <hr />
 

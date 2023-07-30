@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png" width="577" height="307" /></p>
+
 # Come To My Talk At UW On Tuesday, February 21
 
 I'm giving a public lecture next Tuesday, February 21, at the University of Washington (UW). This is at the invitation of Professor Karen Cheng at the School of Art + Art History + Design. I will talk about what we know and what we don't know about visualization, and how we can expand our knowledge.

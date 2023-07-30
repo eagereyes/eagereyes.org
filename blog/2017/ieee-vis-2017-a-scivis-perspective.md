@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/image001.j
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg" width="720" height="480" /></p>
+
 # IEEE VIS 2017: A SciVis Perspective
 
 <em>Since my (Robert)'s conference reports are almost entirely focused on InfoVis (and a bit of VAST), I have asked <a href="http://noeskasmit.com">Noeska Smit</a>, medical visualization professor and my collaborator in the </em><a href="https://eagereyes.org/section/vis-potpourri">Vis Potpourri</a><em><a href="https://eagereyes.org/section/vis-potpourri"> postings</a>, to write about VIS from the SciVis perspective. Everything below are Noeska's words.</em>
@@ -21,15 +23,14 @@ I mainly attended the SciVis paper sessions (though some of the sessions did not
 
 <em>Activity-Centered Domain Characterization for Problem-Driven Scientific Visualization</em> by G. Elisabeta Marai addresses the interesting problem of domain characterization for (scientific) visualization. Liz talked about shifting from human-centered design to activity-centered design. She presented a model for this which adds functional specs to the famous Nested Model proposed by Tamara Munzner.
 
-<img src="https://pbs.twimg.com/media/DLPiVxkXUAEiDnX.jpg:large" alt="" width="2048" height="1152" />The Activity-Centered Design Model
+<p align="center"><img src="https://pbs.twimg.com/media/DLPiVxkXUAEiDnX.jpg:large" alt="" width="1024" height="576" />The Activity-Centered Design Model</p>
 
-<em>The Good, the Bad, and the Ugly: A Theoretical Framework for the Assessment of Continuous Colormaps</em> by Roxana Bujack, Terece L. Turton, Francesca Samsel, Colin Ware, David H. Rogers, and James Ahrens deals with how to assess continuous colormaps. People often speak of perceptually linear, but exact definitions of this concept vary depending on who you ask. In this paper, an overview of literature on the topic so far is presented, along with guidelines for colormap design. As the icing on the cake, there is also an accompanying online tool: <a href="http://colormeasures.org/">colormeasures.org</a>, which lets you check if your colormaps are good, bad, or ugly ;).
-
-[embed]https://twitter.com/_Noeska_/status/915330652588740608[/embed]
+<em>The Good, the Bad, and the Ugly: A Theoretical Framework for the Assessment of Continuous Colormaps</em> by Roxana Bujack, Terece L. Turton, Francesca Samsel, Colin Ware, David H. Rogers, and James Ahrens deals with how to assess continuous colormaps. People often speak of perceptually linear, but exact definitions of this concept vary depending on who you ask. In this paper, an overview of literature on the topic so far is presented, along with guidelines for colormap design. As the icing on the cake, there is also an accompanying online tool: <a href="http://colormeasures.org/">colormeasures.org</a>, which [lets you check if your colormaps are good, bad, or ugly](https://twitter.com/_Noeska_/status/915330652588740608) ;).
 
 <em>Interactive Dynamic Volume Illumination with Refraction and Caustics</em> by Jens G. Magnus and Stefan Bruckner presents a volume rendering solution which allows for real-time refraction and caustics. This is the stuff that makes glass look like glass, and that was so far not possible to do dynamically with on the fly parameter adjustment for volumetric datasets. Jens presented the results of his master thesis on this topic (this trend of master students making awesome VIS papers needs to stop, they are making me look bad ;)). Since I love the sound of my own voice, here is a short video that shows the technique in action:
 
-[embed]https://vimeo.com/230835804[/embed]
+<iframe src="https://player.vimeo.com/video/230835804?h=404f66d50a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p></p>
 
 <em><a href="http://www.willusher.io/publications#vrnt">A Virtual Reality Visualization Tool for Neuron Tracing</a></em> by Will Usher, Pavol Klacansky, Frederick Federer, Peer-Timo Bremer, Aaron Knoll, Alessandra Angelucci, Valerio Pascucci proposes a VR tool for neuronal tracing in volumetric datasets. They argue that segmentation of neurons from volumetric datasets is currently often performed in 2D slices or on a 2D screen, while this task is inherently 3D. They compared their 3D VR approach with the currently used tool by the domain experts, and got good feedback. Their website has a video and more.
 
@@ -37,9 +38,8 @@ I mainly attended the SciVis paper sessions (though some of the sessions did not
 
 <em>The Topology ToolKit</em> by Julien Tierny, Guillaume Favelier, Joshua A. Levine, Charles Gueunet, and Michael Michaux presents, as the title may suggest, a powerful toolkit for topological data analysis in scientific visualization. The toolkit is <a href="https://topology-tool-kit.github.io/">available on Github</a>, and even comes with VTK bindings (for those of you that are not 'allergic to VTK' as Julien mentioned ;)).
 
-In the non-SciVis-track-department, I really enjoyed two talks especially. <em>Functional Decomposition for Bundled Simplification of Trail Sets</em> by Christophe Hurter, Stéphane Puechmorel, Florence Nicol, and Alexandru Telea dealing with graph edge bundling based on function with some very nice DTI brain examples (secretly a SciVis paper?).
-
-[embed]https://twitter.com/TofHurter/status/906807500560850944[/embed]
+In the non-SciVis-track-department, I really enjoyed two talks especially. <em>[Functional Decomposition for Bundled Simplification of Trail Sets](https://twitter.com/TofHurter/status/906807500560850944
+)</em> by Christophe Hurter, Stéphane Puechmorel, Florence Nicol, and Alexandru Telea dealing with graph edge bundling based on function with some very nice DTI brain examples (secretly a SciVis paper?).
 
 <em>DeepEyes: Progressive Visual Analytics for Designing Deep Neural Networks</em> by Nicola Pezzotti, Thomas Höllt, Jan van Gemert, Boudewijn P.F. Lelieveldt, Elmar Eisemann, and Anna Vilanova deals with involving user interaction and visual feedback in the design of Deep Neural Networks.
 
