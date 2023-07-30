@@ -3,13 +3,13 @@ title: "Parallel Sets Release Pushed Back A Bit (Updated)"
 description: "I'm very sorry, but we have to delay the release. We need to make sure that we have the right to release the program, and this is taking a bit longer than expected. The software was written in part by students paid from the SRVAC, which is funded by DHS and DOE. It is unlikely that there will be a problem, but we don't have the go-ahead yet, either. I am hoping that we can get the green light this week."
 date: 2009-05-12 20:03:37
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/parsets-delay.png
 outline: false
 ---
 
-# Parallel Sets Release Pushed Back A Bit (Updated)
+<p><img src="https://media.eagereyes.org/media/2009/parsets-delay.png" border="0" alt="ParSets Delay" width="560" height="158" /></p>
 
-<a href="http://eagereyes.org/blog/2009/parsets-delay.html"><img src="https://media.eagereyes.org/media/2009/parsets-delay.png" border="0" alt="ParSets Delay" width="560" height="158" /></a>
+# Parallel Sets Release Pushed Back A Bit (Updated)
 
 I'm very sorry, but we have to delay the release. We need to make sure that we have the right to release the program, and this is taking a bit longer than expected. The software was written in part by students paid from the SRVAC, which is funded by DHS and DOE. It is unlikely that there will be a problem, but we don't have the go-ahead yet, either. I am hoping that we can get the green light this week.
 
@@ -17,7 +17,7 @@ This is clearly my fault for not checking these things earlier. It had been my u
 
 I have no doubt that we will be able to release the software, it is just a matter of when.&nbsp;The program is also ready to go. We will keep working on it in the meantime, but will release it the moment we get the go-ahead.
 
-At least, this has given me another opportunity to play with the gorgeous Bauhaus font. As I wrote elsewhere, <a href="http://blog.kosara.net/post/100145359/typography-is-a-drug">typography is a drug</a>.
+At least, this has given me another opportunity to play with the gorgeous Bauhaus font. As I wrote elsewhere, typography is a drug.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 12, 2009_

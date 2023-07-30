@@ -3,12 +3,12 @@ title: "JavaScript: The Key to In-Browser Visualization"
 description: "Most data visualization on the web consists of static images. Typical interactive visualizations use Flash or Java, both of which have drawbacks and require plugins, don't work on mobile devices, etc. A number of recent visualization tools based on JavaScript promise to finally bring visualization to life on the web. The ways they work differ, but they all profit from recent advances in JavaScript performance across all modern browsers."
 date: 2010-02-11 00:05:25
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/protovis-code.png
 ---
 
-# JavaScript: The Key to In-Browser Visualization
+<p><img src="https://media.eagereyes.org/media/2010/protovis-code.png" width="560" height="144" alt="Some Protovis code" /></p>
 
-<a href="http://eagereyes.org/blog/2010/javascript-key-to-in-browser-visualization"><img src="https://media.eagereyes.org/media/2010/protovis-code.png" width="560" height="144" alt="Some Protovis code" /></a>
+# JavaScript: The Key to In-Browser Visualization
 
 Most data visualization on the web consists of static images. Typical interactive visualizations use Flash or Java, both of which have drawbacks and require plugins, don't work on mobile devices, etc. A number of recent visualization tools based on JavaScript promise to finally bring visualization to life on the web. The ways they work differ, but they all profit from recent advances in JavaScript performance across all modern browsers.
 

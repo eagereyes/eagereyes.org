@@ -3,17 +3,17 @@ title: "Beautiful Visualization"
 description: "Beautiful Visualization is a collection of essays on a wide range of topics in visualization. Don't let the title mislead you: while it has its share of artistic visualization, there is also quite a bit of technical information in there. One of the chapters was written by yours truly."
 date: 2010-06-15 22:51:39
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/beautifulvis.jpg
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/media/2010/beautifulvis.jpg" width="560" height="220" alt="Beautiful Visualization"></p>
+
 # Beautiful Visualization
 
-<a href="http://eagereyes.org/blog/2010/beautiful-visualization"><img src="https://media.eagereyes.org/media/2010/beautifulvis.jpg" width="560" height="220" alt="Beautiful Visualization"></a>
+<a href="http://oreilly.com/catalog/0636920000617"><em>Beautiful Visualization</em></a> is a collection of essays on a wide range of topics in visualization. Don't let the title mislead you: while it has its share of artistic visualization, there is also quite a bit of technical information in there. One of the chapters was written by yours truly.
 
-<p><a href="http://oreilly.com/catalog/0636920000617"><em>Beautiful Visualization</em></a> is a collection of essays on a wide range of topics in visualization. Don't let the title mislead you: while it has its share of artistic visualization, there is also quite a bit of technical information in there. One of the chapters was written by yours truly.
-
-The chapters cover topics like Wordle, the New York Times News API, the use of color, visualizing Wikipedia, etc. Among the authors are people like Martin Wattenberg and Fernanda Viégas, Moritz Stefaner, Danyel Fisher, etc. All chapters are in the 10-25 page range, which makes for nice bite-sized chunks that can be read one after the other or as you find the time for them.</p>
+The chapters cover topics like Wordle, the New York Times News API, the use of color, visualizing Wikipedia, etc. Among the authors are people like Martin Wattenberg and Fernanda Viégas, Moritz Stefaner, Danyel Fisher, etc. All chapters are in the 10-25 page range, which makes for nice bite-sized chunks that can be read one after the other or as you find the time for them.
 
 Julie Steele and Noah Iliinsky, the editors, have done a great job to make the chapters read well and be easy to digest. Even the more in-depth stuff is illustrated nicely with figures and described in ways that provide enough detail without getting too technical.
 

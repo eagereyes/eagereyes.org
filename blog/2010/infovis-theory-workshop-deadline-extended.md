@@ -3,13 +3,13 @@ title: "InfoVis Theory Workshop Deadline Extended"
 description: "We have received a few good submissions for the InfoVis Theory Workshop at VisWeek, but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance."
 date: 2010-08-24 22:24:32
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/maths.jpg
 outline: false
 ---
 
-# InfoVis Theory Workshop Deadline Extended
+<p><img src="https://media.eagereyes.org/media/2010/maths.jpg" alt="" width="560" height="401" /></p>
 
-<a href="http://eagereyes.org/blog/2010/infovis-theory-workshop-deadline-extended"><img src="https://media.eagereyes.org/media/2010/maths.jpg" alt="" width="560" height="401" /></a>
+# InfoVis Theory Workshop Deadline Extended
 
 We have received a few good submissions for the <a href="http://eagereyes.org/infovis-theory-workshop">InfoVis Theory Workshop</a> at <a href="http://vis.computer.org/VisWeek2010/">VisWeek</a>, but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance.
 

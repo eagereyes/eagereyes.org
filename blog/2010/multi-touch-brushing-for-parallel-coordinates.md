@@ -3,13 +3,13 @@ title: "Multi-touch Brushing for Parallel Coordinates"
 description: "Interaction in visualization is incredibly important, but often more tedious than it needs to be. I have developed a new way of brushing in parallel coordinates that uses the multi-touch trackpads on Apple's MacBook and MacBook Pro laptops for faster interaction. The video below demonstrates the technique, and the source code is available."
 date: 2010-07-20 20:49:55
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/multitouch-brushing.png
 outline: false
 ---
 
-# Multi-touch Brushing for Parallel Coordinates
+<p><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"></p>
 
-<a href="http://eagereyes.org/blog/2010/multi-touch-brushing-for-parallel-coordinates"><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"></a>
+# Multi-touch Brushing for Parallel Coordinates
 
 Interaction in visualization is incredibly important, but often more tedious than it needs to be. I have developed a new way of brushing in parallel coordinates that uses the multi-touch trackpads on Apple's MacBook and MacBook Pro laptops for faster interaction. The video below demonstrates the technique, and the source code is available.
 
@@ -25,9 +25,8 @@ The trackpad is not just a good fit because it's a lot more common than large to
 
 The video below demonstrates the technique. It's still quite a different thing to actually try it out yourself, though. It allows for very fast exploration of data, unlike any interaction technique I'm aware of. Using your fingers is not very precise, but that's not the goal here, anyway: it's about getting a feeling for a new dataset.
 
-[raw]
-<object width="600" height="338"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=13437693&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=13437693&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="600" height="338"></embed></object>
-[/raw]
+<iframe src="https://player.vimeo.com/video/13437693?h=6f9b63104a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/13437693">Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates</a> from <a href="https://vimeo.com/eagereyes">Robert Kosara</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 You can watch the <a href="http://vimeo.com/13437693">video in HD</a> on the vimeo site. The inset in the lower right is meant as a guide to show what the fingers are doing, not as a part of the actual user interface. People have suggested showing the location of the fingers as an overlay, but when you watch the video you will see why this would be a bad idea: the fingers don't have to line up with the axes, plus the floating dots would be distracting.
 

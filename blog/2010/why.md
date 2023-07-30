@@ -3,7 +3,7 @@ title: "Why Am I Doing This, Again?"
 description: "Today marks the fourth anniversary of this humble little website. I've spent countless hours writing, designing, arguing, and thinking about the things that I publish here. What others may consider a waste of time has helped me tremendously to make new connections, meet new people, refine my thinking, and broaden my horizons. If you're not running a website (or blog), you're really losing out."
 date: 2010-10-01 15:32:48
 tags: Meta/Site News
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

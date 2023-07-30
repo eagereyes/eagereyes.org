@@ -3,13 +3,13 @@ title: "Parallel Sets Release Date"
 description: "We promised the release of the Parallel Sets program for the end of April, but we have to push it to May 7. The reason is quite simply lack of time: the semester is ending here at UNC Charlotte, and things are rather busy as a result. There is also the nuts-and-bolts work of making this work as an application for end-users that works well on at least two platforms (Windows and Mac OS X), and that can provide useful information when it doesn't."
 date: 2009-04-29 20:25:47
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/parsets-announce.png
 outline: false
 ---
 
-# Parallel Sets Release Date
+<p><img src="https://media.eagereyes.org/media/2009/parsets-announce.png" border="0" alt="Parallel Sets Announcement" width="560" height="169" /></p>
 
-<a href="http://eagereyes.org/blog/2009/parallel-sets-release-date.html"><img src="https://media.eagereyes.org/media/2009/parsets-announce.png" border="0" alt="Parallel Sets Announcement" width="560" height="169" /></a>
+# Parallel Sets Release Date
 
 We <a href="http://eagereyes.org/blog/2009/a-spike-of-interest-in-parallel-sets.html">promised the release of the Parallel Sets program</a> for the end of April, but we have to push it to May 7. The reason is quite simply lack of time: the semester is ending here at UNC Charlotte, and things are rather busy as a result. There is also the nuts-and-bolts work of making this work as an application for end-users that works well on at least two platforms (Windows and Mac OS X), and that can provide useful information when it doesn't.
 

@@ -3,13 +3,13 @@ title: "Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008"
 description: "As promised earlier, I will be live-blogging VisWeek 2008, which will take place next week in Columbus, OH. I will mostly attend InfoVis and VAST, with the odd Vis session and workshop thrown in. The live-blog will appear in a box at the top of the frontpage, and there will be a separate RSS feed for these posts. Coverage should start Sunday (October 19) morning, and there will also be pictures."
 date: 2008-10-16 19:23:41
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/mispronouncing-cropped.png
 outline: false
 ---
 
-# Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008
+<p><img src="https://media.eagereyes.org/media/2008/mispronouncing-cropped.png" alt="Blag" width="241" height="136" border="0" /></p>
 
-<a href="http://eagereyes.org/blog/2008/live-microblog-from-visweek-2008.html"><img src="https://media.eagereyes.org/media/2008/mispronouncing-cropped.png" alt="Blag" width="241" height="136" border="0" /></a>
+# Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008
 
 As <a href="http://eagereyes.org/blog/2008/two-years-of-eagereyes.html">promised earlier</a>, I will be live-blogging <a href="http://vis.computer.org/VisWeek2008/Vis/index.html">VisWeek 2008</a>, which will take place next week in Columbus, OH. I will mostly attend InfoVis and VAST, with the odd Vis session and workshop thrown in. The live-blog will appear in a box at the top of the frontpage, and there will be a separate RSS feed for these posts. Coverage should start Sunday (October 19) morning, and there will also be <a href="http://www.flickr.com/photos/eagereyes/collections/72157603647232879/">pictures</a>.
 

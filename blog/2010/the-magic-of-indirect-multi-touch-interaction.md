@@ -3,12 +3,12 @@ title: "The Magic of Indirect Multi-Touch Interaction"
 description: "Direct multi-touch interaction is all the rage right now on mobile devices like iPhones and iPads. Apple is working on a lesser-known variation that is just as useful, but used in their less glamorous laptop computers. The latest development has been their Magic Trackpad, which brings that type of interaction (with some new twists) to the desktop."
 date: 2010-08-04 22:41:21
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/magic-trackpad.jpg
 ---
 
-# The Magic of Indirect Multi-Touch Interaction
+<p><img src="https://media.eagereyes.org/media/2010/magic-trackpad.jpg" alt="" width="560" height="202" /></p>
 
-<a href="http://eagereyes.org/blog/2010/the-magic-of-indirect-multi-touch-interaction"><img src="https://media.eagereyes.org/media/2010/magic-trackpad.jpg" alt="" width="560" height="202" /></a>
+# The Magic of Indirect Multi-Touch Interaction
 
 Direct multi-touch interaction is all the rage right now on mobile devices like iPhones and iPads. Apple is working on a lesser-known variation that is just as useful, but used in their less glamorous laptop computers. The latest development has been their <a href="http://www.apple.com/magictrackpad/">Magic Trackpad</a>, which brings that type of interaction (with some new twists) to the desktop.
 

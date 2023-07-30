@@ -3,12 +3,12 @@ title: "The Sad State of the InfoVis Contest"
 description: "In some fields, contests drive research and the entire field forward. Those contests are prestigious, and people list the fact that they won the contest in their CVs. In InfoVis, the contest is trying to appeal to researchers, but is getting little attention. What should the role of the contest be? And how can we make it more interesting?"
 date: 2008-09-01 10:09:16
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/gladiator.jpg
 ---
 
-# The Sad State of the InfoVis Contest
+<p><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" border="0" alt="Gladiators" /></p>
 
-<img src="https://media.eagereyes.org/media/2008/gladiator.jpg" border="0" alt="Gladiators" />
+# The Sad State of the InfoVis Contest
 
 In some fields, contests drive research and the entire field forward. Those contests are prestigious, and people list the fact that they won the contest in their CVs. In InfoVis, the contest is trying to appeal to researchers, but is getting little attention. What should the role of the contest be? And how can we make it more interesting?
 

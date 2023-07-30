@@ -3,12 +3,12 @@ title: "Open Positions at PNNL"
 description: "Pacific Northwest National Laboratory (PNNL) is looking to fill three positions related to visualization and visual analytics. If you are interested, see their jobs website for more information and to apply. All positions require the ability to obtain a future security clearance, which requires U.S. citizenship. They're all located in Richland, Washington."
 date: 2010-10-20 22:33:36
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/pnnl-jobs.jpg
 ---
 
-# Open Positions at PNNL
+<p><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127" /></p>
 
-<a href="http://eagereyes.org/blog/2010/open-positions-at-pnnl"><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127" /></a>
+# Open Positions at PNNL
 
 <a href="http://www.pnl.gov/">Pacific Northwest National Laboratory (PNNL)</a> is looking to fill three positions related to visualization and visual analytics. If you are interested, see <a href="http://jobs.pnl.gov/">their jobs website</a> for more information and to apply. All positions require the ability to obtain a future security clearance, which requires U.S. citizenship. They're all located in Richland, Washington.
 

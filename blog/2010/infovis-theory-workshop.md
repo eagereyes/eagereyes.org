@@ -3,12 +3,12 @@ title: "Workshop: The Role of Theory in Information Visualization"
 description: "Information visualization is a very applied field that prides itself on its practical applications and real-world scenarios. Ignoring the theoretical side is dangerous, however, because it limits our ability to distill useful information about the foundations of the field from the practical work being done, and limits our understanding of how and why our own creations work. The goal of this workshop at VisWeek 2010 is to bring together researchers interested in the theoretical aspects of visualization, define the field, discuss ideas and approaches, and get the word out about the importance of theoretical research in information visualization."
 date: 2010-07-14 22:51:21
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/infovistheory-teaser.png
 ---
 
-# Workshop: The Role of Theory in Information Visualization
+<p><img src="https://media.eagereyes.org/media/2010/infovistheory-teaser.png" width="560" height="311" alt="InfoVisTheory Teaser"></p>
 
-<img src="https://media.eagereyes.org/media/2010/infovistheory-teaser.png" width="560" height="311" alt="InfoVisTheory Teaser">
+# Workshop: The Role of Theory in Information Visualization
 
 Information visualization is a very applied field that prides itself on its practical applications and real-world scenarios. Ignoring the theoretical side is dangerous, however, because it limits our ability to distill useful information about the foundations of the field from the practical work being done, and limits our understanding of how and why our own creations work. The goal of this workshop at <a href="http://vis.computer.org/VisWeek2010/">VisWeek 2010</a> is to bring together researchers interested in the theoretical aspects of visualization, define the field, discuss ideas and approaches, and get the word out about the importance of theoretical research in information visualization.
 

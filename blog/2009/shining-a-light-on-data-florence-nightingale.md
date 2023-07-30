@@ -3,15 +3,15 @@ title: "Shining a Light on Data: Florence Nightingale"
 description: "Florence Nightingale&nbsp;invented modern nursing, and established its importance based on data she collected during the Crimean War in the 19th century. She was not only the first one to realize the role of hygiene and care for wounded soldiers to prevent the spread of disease and death, she also was the first to understand that sound decisions can only be made on data. Not only did she collect that data, she also devised ways to communicate it to decision makers who lacked knowledge of statistics or math."
 date: 2009-03-24 10:07:11
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg" alt="Nightingale's Coxcomb plot (from Wikipedia)" width="500" height="332" /></p>
+
 # Shining a Light on Data: Florence Nightingale
 
-<a href="http://eagereyes.org/blog/2009/shining-a-light-on-data-florence-nightingale.html"><img src="https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg" border="0" alt="Nightingale's Coxcomb plot (from Wikipedia)" width="500" height="332" /></a>
-
-<a href="http://en.wikipedia.org/wiki/Florence_Nightingale">Florence Nightingale</a>&nbsp;invented modern nursing, and established its importance based on data she collected during the Crimean War in the 19th century. She was not only the first one to realize the role of hygiene and care for wounded soldiers to prevent the spread of disease and death, she also was the first to understand that sound decisions can only be made on data. Not only did she collect that data, she also devised ways to communicate it to decision makers who lacked knowledge of statistics or math.
+<a href="http://en.wikipedia.org/wiki/Florence_Nightingale">Florence Nightingale</a> invented modern nursing, and established its importance based on data she collected during the Crimean War in the 19th century. She was not only the first one to realize the role of hygiene and care for wounded soldiers to prevent the spread of disease and death, she also was the first to understand that sound decisions can only be made on data. Not only did she collect that data, she also devised ways to communicate it to decision makers who lacked knowledge of statistics or math.
 
 Looking around the web, there is a lot of material on Nightingale's writing on nursing and related topics. But I would argue that her larger contribution was in making the care for the wounded (and, in extension, nursing in general) a priority. Without that, all her writing and collections of best practices would not have had nearly the same practical impact.
 

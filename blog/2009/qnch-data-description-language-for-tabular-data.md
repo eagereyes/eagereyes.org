@@ -3,12 +3,12 @@ title: "qnch - A Data Description Language for Tabular Data"
 description: "A lot of data is tabular in nature, and is efficiently encoded in text files. While such files are easy to produce and read, they bring with them several challenges when used in visualization tools and other programs that have to understand some of the data's properties. Examples include categorical data, special values in numerical columns (which are common in Census data), and information about the data like its producer. Here is a proposal for a simple data description format that provides that missing information. I call it qnch."
 date: 2009-08-11 08:55:10
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/qnch-logo-color.png
 ---
 
-# qnch - A Data Description Language for Tabular Data
+<p><img src="https://media.eagereyes.org/media/2009/qnch-logo-color.png" border="0" alt="qnch" width="558" height="240" /></p>
 
-<p class="img"><a href="http://eagereyes.org/blog/2009/qnch-data-description-language-for-tabular-data.html"><img src="https://media.eagereyes.org/media/2009/qnch-logo-color.png" border="0" alt="qnch" width="558" height="240" /></a></p>
+# qnch - A Data Description Language for Tabular Data
 
 A lot of data is tabular in nature, and is efficiently encoded in text files. While such files are easy to produce and read, they bring with them several challenges when used in visualization tools and other programs that have to understand some of the data's properties. Examples include categorical data, special values in numerical columns (which are common in Census data), and information about the data like its producer. Here is a proposal for a simple data description format that provides that missing information. I call it qnch.
 

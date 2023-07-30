@@ -3,7 +3,7 @@ title: "Various VisWeek Workshops"
 description: "I want to call your attention to three interesting workshops that will be held at VisWeek 2010 in October in Salt Lake City. One is on storytelling in visualization, another on visual analytics in healthcare, and a third one on theory in infovis. The deadlines for two of them are coming up soon."
 date: 2010-07-27 11:00:10
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # Various VisWeek Workshops

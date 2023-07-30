@@ -3,13 +3,13 @@ title: "The New York Times Visualization Lab"
 description: "The New York Times' new&nbsp;Visualization Lab uses IBM's Many Eyes technology. While it provides easy access to a wealth of visualization techniques and the possibility to comment, there is one major difference: only data provided by the NY Times can be used. The kind and quality of that data will determine the success of this new site."
 date: 2008-10-28 23:26:23
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/nytimes-vizlab.png
 outline: false
 ---
 
-# The New York Times Visualization Lab
+<p><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" border="0" alt="NYTimes VizLab" width="451" height="248" /></p>
 
-<a href="http://eagereyes.org/blog/2008/new-york-times-visualization-lab.html"><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" border="0" alt="NYTimes VizLab" width="451" height="248" /></a>
+# The New York Times Visualization Lab
 
 The New York Times' new <a href="http://vizlab.nytimes.com/">Visualization Lab</a> uses IBM's <a href="http://many-eyes.com/">Many Eyes</a> technology. While it provides easy access to a wealth of visualization techniques and the possibility to comment, there is one major difference: only data provided by the NY Times can be used. The kind and quality of that data will determine the success of this new site.
 

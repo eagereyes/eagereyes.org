@@ -3,13 +3,13 @@ title: "The Next YouTube for Charts: iCharts"
 description: "There's new competition for Swivel and Many Eyes: iCharts. A good name, to be sure, but will they live up to their promise of being \"YouTube for Charts\" (a claim Swivel also made in the beginning)? A first look at their website suggests that they likely will not."
 date: 2008-09-28 19:21:24
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/icharts.gif
 outline: false
 ---
 
-# The Next YouTube for Charts: iCharts
+<p><img src="https://media.eagereyes.org/media/2008/icharts.gif" alt="iCharts" /></p>
 
-<a href="http://eagereyes.org/blog/2008/the-next-youtube-for-charts-icharts.html"><img src="https://media.eagereyes.org/media/2008/icharts.gif" alt="iCharts" border="0" /></a>
+# The Next YouTube for Charts: iCharts
 
 There's new competition for Swivel and Many Eyes: <a href="http://www.icharts.net/">iCharts</a>. A good name, to be sure, but will they live up to their promise of being "YouTube for Charts" (a claim Swivel also made in the beginning)? A first look at their website suggests that they likely will not.
 

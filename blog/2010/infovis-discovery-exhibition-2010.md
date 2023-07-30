@@ -3,7 +3,7 @@ title: "InfoVis Discovery Exhibition 2010"
 description: "Showing the impact of visualization work is not something we as a community are particularly good at. The Discovery Exhibition at the Information Visualization conferences is a great venue for doing just that. If you have a tool that's used by real users for real work, submit a brief description by July 19."
 date: 2010-07-01 22:06:15
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

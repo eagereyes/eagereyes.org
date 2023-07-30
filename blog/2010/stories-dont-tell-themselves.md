@@ -3,18 +3,21 @@ title: "Stories Don't Tell Themselves"
 description: "Storytelling was a big topic at VisWeek this year: there was a workshop, a panel, and at least one paper about how to tell stories with visualization. One sentence I heard over and over was, \"this photo/visualization/illustration tells a great story.\" But pictures don't tell stories, people do. An image, a visualization, data, etc. can only be the material the story is made from. I think it's going to be important for visualization to understand this fundamental difference."
 date: 2010-11-07 20:27:03
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/polevaulting.jpg
 ---
+
+<p><img src="https://media.eagereyes.org/media/2010/polevaulting.jpg" alt="" width="560" height="279" /></p>
 
 # Stories Don't Tell Themselves
 
-<p class="img"><a href="http://eagereyes.org/blog/2010/stories-dont-tell-themselves"><img src="https://media.eagereyes.org/media/2010/polevaulting.jpg" alt="" width="560" height="279" /></a></p>
 Storytelling was a big topic at VisWeek this year: there was a workshop, a panel, and at least one paper about how to tell stories with visualization. One sentence I heard over and over was, "this photo/visualization/illustration tells a great story." But pictures don't tell stories, people do. An image, a visualization, data, etc. can only be the material the story is made from. I think it's going to be important for visualization to understand this fundamental difference.
 
 ## Time
 
 Stories, in general, require time. When there is no change, there's no story. A static scene can only be described, not told, no matter how much detail is given or how vivid the description may be. That is why the image at the top of this posting (from <a href="http://www.nytimes.com/interactive/2008/08/18/sports/olympics/18-pole-vault-graphic.html">a very clever New York Times animation</a>) tells a story, and the one below does not (click for a larger version).
+
 <p class="img"><a href="http://eagereyes.org/media/2010/minard-large.jpg" rel="lightbox"><img src="https://media.eagereyes.org/media/2010/minard-small.jpg" alt="" width="560" height="267" /></a></p>
+
 This is Minard's famous map of Napoleon's march to Moscow, which Edward Tufte considers the best visualization ever made. It is also often described as telling a great story of loss and suffering. But put yourself into the position of somebody who doesn't know what this is about. What does it really tell you? You first need to figure out what the image even represents. Once you know that the width of the line represents troop strength (from 400,000 at the beginning to a mere 10,000 at the end) and the chart at the bottom shows temperatures (all of which are below freezing), you can start to think about what stories might have played out.
 
 But this is where the visualization ends and your imagination begins. The image does not tell you any stories, all it shows you how many men Napoleon had at the beginning and at different stages during his campaign, and what the temperatures were. The story is not in the image.

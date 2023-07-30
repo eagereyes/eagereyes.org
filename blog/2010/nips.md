@@ -3,7 +3,7 @@ title: "My Journey to the Kingdom of NIPS"
 description: "Over the weekend, I had the opportunity to visit the strange land of NIPS (Neural Information Processing Systems), a kingdom in the far corners of the West, where the Machine Learners dwell. Some of the noblemen there had invited me so that the locals could get a close-up look at one of us Visualization People at one of their workshops."
 date: 2010-12-12 23:32:51
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

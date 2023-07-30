@@ -3,12 +3,12 @@ title: "Popular vs. Electoral Votes Using Stacked Bar Charts"
 description: "A few days ago, I looked at how the electoral college system amplifies the lead of the strongest candidate in a US presidential election. The way I made the chart (with the help of PhotoShop) created some interesting reactions, and finally led me to what I consider the best way to do it (using stacked bar charts). I also want to respond to a few comments about the kind of chart used and why I think it is the most effective way to show what it does."
 date: 2008-10-11 19:50:09
 tags: Politics
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png
 ---
 
-# Popular vs. Electoral Votes Using Stacked Bar Charts
+<p><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png" border="0" alt="Popular vs. Electoral Vote Teaser" width="266" height="88" /></p>
 
-<a href="http://eagereyes.org/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts.html"><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png" border="0" alt="Popular vs. Electoral Vote Teaser" width="266" height="88" /></a>
+# Popular vs. Electoral Votes Using Stacked Bar Charts
 
 A few days ago, I looked at <a href="http://eagereyes.org/blog/2008/electoral-college-and-second-terms.html">how the electoral college system amplifies the lead</a> of the strongest candidate in a US presidential election. The way I made the chart (with the help of PhotoShop) created some interesting reactions, and finally led me to what I consider the best way to do it (using stacked bar charts). I also want to respond to a few comments about the kind of chart used and why I think it is the most effective way to show what it does.
 
@@ -25,6 +25,7 @@ I'm using Mackinlay's idea to create the chart using stacked bar charts. Stacked
 Here is a version of my table that shows the raw data (name, (popular) winner %, and electoral %) as well as the three columns that are going to be used for the stacked bar chart.
 
 <p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/presidents-table.png" border="0" alt="Data Table" /></p>
+
 These three columns work like this: bar1 is green, and shows the electoral vote in case it is smaller than the popular vote (and it's zero otherwise); bar2 is blue, and shows the popular vote in both cases (meaning it's the same as the popular vote if bar1 is zero, or it's the difference between the popular and the electoral if it isn't); bar3 is green again, and shows the electoral vote in those cases where that is greater than the popular (i.e., the majority).
 
 The formulas for these three are as follows: bar1: =IF(C2&gt;B2,0,C2), bar2: =IF(D2&gt;0,B2-C2,B2), and bar3: =IF(D2&gt;0,0,C2-B2).
@@ -32,6 +33,7 @@ The formulas for these three are as follows: bar1: =IF(C2&gt;B2,0,C2), bar2: =IF
 The resulting chart looks like this (again done in Numbers, certainly doable just as well in Excel, Tableau, or Open Office):
 
 <p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-new.png" border="0" alt="Popular vs. Electoral Vote" width="400" height="850" /></p>
+
 The only thing I did in PhotoShop (besides stitching) was to remove the third element from the legend. I also took up Jon Peltier's suggestion to only show the 50% and 100% lines, rather than shade the area behind the lower 50%. That makes for a cleaner chart that is easier to read, and focuses on the things I really wanted to do with this.
 
 ## Making a Point with a Chart

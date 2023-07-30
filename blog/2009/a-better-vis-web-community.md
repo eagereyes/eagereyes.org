@@ -3,13 +3,13 @@ title: "A Better Vis Web Community"
 description: "When I look around my little corner of the Internet, I see a few other people doing related stuff, but I also see a lot of unrealized potential. Why are there so few people in the visualization community who run a website? Why are the most popular visualization-related sites almost entirely about pointing at colorful pictures done by others, rather than doing their own? And how can we get more original, quality visualization content on the web?"
 date: 2009-01-15 23:41:54
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/halfempty600.jpg
 outline: false
 ---
 
-# A Better Vis Web Community
+<p><img src="https://media.eagereyes.org/media/2009/halfempty600.jpg" alt="Half Empty" width="600" height="328" border="0" /></p>
 
-<p class="img"><a href="http://eagereyes.org/blog/2009/a-better-vis-web-community.html"><img src="https://media.eagereyes.org/media/2009/halfempty600.jpg" alt="Half Empty" width="600" height="328" border="0" /></a></p>
+# A Better Vis Web Community
 When I look around my little corner of the Internet, I see a few other people doing related stuff, but I also see a lot of unrealized potential. Why are there so few people in the visualization community who run a website? Why are the most popular visualization-related sites almost entirely about pointing at colorful pictures done by others, rather than doing their own? And how can we get more original, quality visualization content on the web?
 
 I recently came across two postings by Merlin Mann, the guy who runs the productivity website <a href="http://www.43folders.com/">43 Folders</a> (and about a dozen others). They both really hit home with me and made me think a lot about why I do what I do and how I can make things more valuable. I recommend you read both of these postings before continuing, they are outstanding: <em><a href="http://www.43folders.com/2008/12/03/real-advice-hurts">Real Advice Hurts</a></em> and <em><a href="http://www.kungfugrippe.com/post/48588149/better">Better</a></em>. Quoting short sections of these postings or paraphrasing them would be exactly the opposite of what they say. They're as long as they have to be, and they say what needs to be said.

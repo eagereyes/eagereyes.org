@@ -3,13 +3,13 @@ title: "Engaging Readers with Square Pie/Waffle Charts"
 description: "Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The square pie chart (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar."
 date: 2008-09-07 21:12:03
 tags: 
-featuredImage:
+featuredImage: http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg
 outline: false
 ---
 
-# Engaging Readers with Square Pie/Waffle Charts
+<p><img src="http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg" border="0" /></p>
 
-<a href="http://eagereyes.org/communication/Engaging-readers-with-square-pie-waffle-charts.html"><img src="http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg" border="0" /></a>
+# Engaging Readers with Square Pie/Waffle Charts
 
 Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The <a href="http://eagereyes.org/Techniques/SquarePieCharts.html">square pie chart</a> (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar.
 
@@ -22,6 +22,7 @@ The chart also makes a point: that the savings are a tiny fraction of the debt. 
 Kaiser at Junk Charts <a href="http://junkcharts.typepad.com/junk_charts/2008/06/the-right-scale.html">criticized the following chart</a>&nbsp;(New York Times magazine, April 27, 2008):
 
 <p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/nytimes-20080427-extracredit-squarepie.jpg" border="0" alt="NYTimes graph on time spent studying for different subjects" /></p>
+
 He offered a bar chart as an alternative, which worked in this case because the values are not that far apart. But it was also as dull as any other chart, with nowhere near the visual interest of the "brick chart."
 
 I actually think that this chart is quite clever. It uses a 10x10 grid as the base, so it is easy to read the numbers from looking at the number of layers. Despite the pseudo-3D and the fact that parts of the chars are occluded, the exact numbers can be read quickly. And the red brick metaphor even has a certain resemblance with school buildings.

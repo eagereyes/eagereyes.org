@@ -3,13 +3,13 @@ title: "Democracy, Public Data, and Data.gov"
 description: "It's not quite the National Data Agency I envisioned earlier this year, but Data.gov is now live. It's a laudable effort, and there is quite a bit of data there, but it's still very labor-intensive to get the data sets and convert them into usable formats. But it's becoming clear that data needs to be shared, and that access to government data will soon be regarded as much as an inherent part of a democracy as free elections."
 date: 2009-05-21 21:29:26
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg
 outline: false
 ---
 
-# Democracy, Public Data, and Data.gov
+<p><img src="https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg" border="0" alt="Dictators" width="560" height="264" /></p>
 
-<a href="http://eagereyes.org/blog/2009/data-gov.html"><img src="https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg" border="0" alt="Dictators" width="560" height="264" /></a>
+# Democracy, Public Data, and Data.gov
 
 It's not quite the <a href="http://eagereyes.org/blog/2009/a-national-data-agency.html">National Data Agency</a> I envisioned earlier this year, but <a href="http://www.data.gov/">Data.gov</a> is now live. It's a laudable effort, and there is quite a bit of data there, but it's still very labor-intensive to get the data sets and convert them into usable formats. But it's becoming clear that data needs to be shared, and that access to government data will soon be regarded as much as an inherent part of a democracy as free elections.
 

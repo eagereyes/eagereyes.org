@@ -3,13 +3,13 @@ title: "Death and Taxes"
 description: "With Tax Day (Observed) in the US tomorrow on Tuesday (even the IRS gets confused), I felt like a link to Death and Taxes: A Visual Guide to Where Your Federal Tax Dollars Go would be in order. This beautiful information graphic breaks spending down into all the 'small' things that tax money is spent on, from the FCC to the Army Corps of Engineers. A zoomable interface similar to Google Maps makes it possible to explore this huge graph. As Terry Yoo  likes to say, the government's a big place! - and this graph gives you an idea just how much there is."
 date: 2007-04-15 20:48:09
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg
 outline: false
 ---
 
-# Death and Taxes
+<p><img title="Death and Taxes - thebudgetgraph.com" src="https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg" alt="Death and Taxes - thebudgetgraph.com" width="400" height="267" /></p>
 
-<a href="blog/death-and-taxes.html"><img title="Death and Taxes - thebudgetgraph.com" src="http://eagereyes.org/media/attachments/DeathAndTaxes.jpg" alt="Death and Taxes - thebudgetgraph.com" width="400" height="267" /></a>
+# Death and Taxes
 
 With Tax Day (Observed) in the US <span style="text-decoration: line-through;">tomorrow</span> on Tuesday (<a href="http://www.irs.gov/newsroom/article/0,,id=167195,00.html">even the IRS gets confused</a>), I felt like a link to <em><a href="http://thebudgetgraph.com/view/">Death and Taxes: A Visual Guide to Where Your Federal Tax Dollars Go</a></em> would be in order. This beautiful information graphic breaks spending down into all the 'small' things that tax money is spent on, from the FCC to the Army Corps of Engineers. A zoomable interface similar to Google Maps makes it possible to explore this huge graph. As <a href="http://erie.nlm.nih.gov/~yoo/">Terry Yoo</a> likes to say, <em>the government's a big place!</em> - and this graph gives you an idea just how much there is.
 

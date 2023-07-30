@@ -3,12 +3,12 @@ title: "The Theory Guide to VisWeek 2010"
 description: "Theory is a big topic at VisWeek this year. You can get through almost the entire conference purely on theory papers. Whether that's a good idea is another question of course, but here's a guide how to do it."
 date: 2010-10-23 22:12:56
 tags: VisWeek
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/visweekwordle.png
 ---
 
-# The Theory Guide to VisWeek 2010
+<p><img src="https://media.eagereyes.org/media/2010/visweekwordle.png" alt="VisWeek Wordle" width="560" height="234" /></p>
 
-<a href="http://eagereyes.org/blog/2010/theory-guide-to-visweek"><img src="https://media.eagereyes.org/media/2010/visweekwordle.png" alt="VisWeek Wordle" width="560" height="234" /></a>
+# The Theory Guide to VisWeek 2010
 
 Theory is a big topic at <a href="http://vis.computer.org/VisWeek2010/" target="_blank">VisWeek this year</a>. You can get through almost the entire conference purely on theory papers. Whether that's a good idea is another question of course, but here's a guide how to do it.
 

@@ -3,16 +3,16 @@ title: "The End of Verifiable.com"
 description: "On August 1, 2010, the visualization website Verifiable.com will close. If you don't know Verifiable, I recommend checking them out despite this, it's an interesting site that has explored an important niche of the online visualization (visualization-as-a-service, if you will) world. Its demise can teach us a lot about how visualization for the masses works, and what we need to do to actually make it happen."
 date: 2010-06-20 21:26:22
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/verifiable.png
 ---
+
+<p><img src="https://media.eagereyes.org/media/2010/verifiable.png" width="560" height="247"></p>
 
 # The End of Verifiable.com
 
-<a href="http://eagereyes.org/blog/2010/end-of-verifiable-com"><img src="https://media.eagereyes.org/media/2010/verifiable.png" width="560" height="247"></a>
+On August 1, 2010, the visualization website Verifiable.com will close. If you don't know Verifiable, I recommend checking them out despite this, it's an interesting site that has explored an important niche of the online visualization (<em>visualization-as-a-service</em>, if you will) world. Its demise can teach us a lot about how visualization for the masses works, and what we need to do to actually make it happen.
 
-On August 1, 2010, the visualization website <a href="http://Verifiable.com/">Verifiable.com</a> will close. If you don't know Verifiable, I recommend checking them out despite this, it's an interesting site that has explored an important niche of the online visualization (<em>visualization-as-a-service</em>, if you will) world. Its demise can teach us a lot about how visualization for the masses works, and what we need to do to actually make it happen.
-
-Verifiable let you upload data and create visualizations. The interface was similar to <a href="http://www.tableausoftware.com/">Tableau</a>, though certainly not as powerful. But it provided a lot of ways of creating interesting visualizations, and was more analytical than <a href="http://manyeyes.alphaworks.ibm.com/manyeyes/">Many Eyes</a>.</p>
+Verifiable let you upload data and create visualizations. The interface was similar to <a href="http://www.tableausoftware.com/">Tableau</a>, though certainly not as powerful. But it provided a lot of ways of creating interesting visualizations, and was more analytical than <a href="http://manyeyes.alphaworks.ibm.com/manyeyes/">Many Eyes</a>.
 
 What I liked best about Verifiable, and what all other visualization websites I know are still missing, was that you did not have to pick the type of visualization first. Just like in Tableau, you could switch data dimensions and visual mappings around to figure out what would work best for your data.
 
@@ -90,19 +90,15 @@ _Posted by <a href="/about">Robert Kosara</a> on June 20, 2010_
 >	I don't know what strategies Verifiable.com tried, so I can't comment specifically on why they failed. But some common mistakes include:
 >	
 >	<ol>
->	<li><p><b>Being Too Focused on the Product</b><br>
->	Selling visualization software involves creating a complete solution. Things like getting started guides, video training and solution guides, as well as architecting the entire buying process from evaluation through to payment. Dharmesh Shah from OnStartups posted an excellent article on this topic called From Minimally Viable To Maximally Buyable Product (spam filter won't let me post the link).</p></li>
->	
->	<li><p><b>Not Understanding the Market</b><br>
->	Why will someone pay money for a visualization tool? Almost always the answer is to help them make money, by increasing revenue, reducing costs or avoiding risks. While allowing users to publish data and visualizations to participate in the social discourse is a noble goal, you need to identify the paying customer. For Verifiable.com, this could have been news organizations or private individuals. If they had a large amount of funding, they could have tried for the mass market approach and made money off of advertising or selling premium subscriptions to bloggers. But that's a big gamble. Right now private businesses are hungry for this type of functionality and willing to pay for it, so that's a good market to aim for.</p></li>
->	
->	<li><p><b>Using the Wrong Applications as Examples</b><br>
+>	<li><b>Being Too Focused on the Product</b><br>
+>	Selling visualization software involves creating a complete solution. Things like getting started guides, video training and solution guides, as well as architecting the entire buying process from evaluation through to payment. Dharmesh Shah from OnStartups posted an excellent article on this topic called From Minimally Viable To Maximally Buyable Product (spam filter won't let me post the link).</li>
+>	<li><b>Not Understanding the Market</b><br>
+>	Why will someone pay money for a visualization tool? Almost always the answer is to help them make money, by increasing revenue, reducing costs or avoiding risks. While allowing users to publish data and visualizations to participate in the social discourse is a noble goal, you need to identify the paying customer. For Verifiable.com, this could have been news organizations or private individuals. If they had a large amount of funding, they could have tried for the mass market approach and made money off of advertising or selling premium subscriptions to bloggers. But that's a big gamble. Right now private businesses are hungry for this type of functionality and willing to pay for it, so that's a good market to aim for.</li>
+>	<li><b>Using the Wrong Applications as Examples</b><br>
 >	Few people can abstract the value of a visualization with public data to their own data. We even run into issues showing one type of business data, such as network monitoring data, to someone needing to analyze a different type of data, such as sales management data. To be successful, you need targeted examples that get people comfortable with advanced visualization, in a domain language they already speak. 
->	
->	<p>For instance, the baseball data set used by University of Maryland to demonstrate the tree map application was useful because so many people understand baseball (though this is certainly not universal). Though even baseball wasn't ideal because the types of analyses you want to do with your own data set are often very different to those done for baseball. To solve this problem we've spent a lot of effort building out separate data sets and demos for different application areas. But this takes time and money, which you don't often anticipate when launching a visualization business.</p></li>
->	
->	<li><p><b>Focus on Usability for the Whole Solution</b><br>
->	Rather than avoiding user interfaces, focus on usability. Get a usability expert to help, or read a lot of Jakob Nielsen and other usability experts. Also understand that what defines usable is relative to your audience and your training. As you've pointed out above, Tableau is often noted for having a good usable interface, but many people find it too confusing.  I see similar experiences with our product: some people love it, some people get confused. The goal, though, is to keep improving the usability (reducing clicks, creating a consistent UI interaction model, setting good defaults), then supplement that with training. Ultimately, an easy-to-use interface is one you are familiar with. And as interaction metaphors for data visualization tools become more commonplace among the general population, these tools automatically become easier to use. 15 years ago most users didn't know how to use the scrollbar on their browser, which would seem silly to us today.</p></li>
+>	For instance, the baseball data set used by University of Maryland to demonstrate the tree map application was useful because so many people understand baseball (though this is certainly not universal). Though even baseball wasn't ideal because the types of analyses you want to do with your own data set are often very different to those done for baseball. To solve this problem we've spent a lot of effort building out separate data sets and demos for different application areas. But this takes time and money, which you don't often anticipate when launching a visualization business.</li>
+>	<li><b>Focus on Usability for the Whole Solution</b><br>
+>	Rather than avoiding user interfaces, focus on usability. Get a usability expert to help, or read a lot of Jakob Nielsen and other usability experts. Also understand that what defines usable is relative to your audience and your training. As you've pointed out above, Tableau is often noted for having a good usable interface, but many people find it too confusing.  I see similar experiences with our product: some people love it, some people get confused. The goal, though, is to keep improving the usability (reducing clicks, creating a consistent UI interaction model, setting good defaults), then supplement that with training. Ultimately, an easy-to-use interface is one you are familiar with. And as interaction metaphors for data visualization tools become more commonplace among the general population, these tools automatically become easier to use. 15 years ago most users didn't know how to use the scrollbar on their browser, which would seem silly to us today.</li>
 >	</ol>
 >	
 >	Ultimately, I think the reasons Verifiable.com failed were likely multiple and complex. One thing I am certain of, however, is that it wasn't because the market doesn't exist or that it's impossible to build good, usable interfaces for data visualization.

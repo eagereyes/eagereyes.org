@@ -3,7 +3,7 @@ title: "The Summer Lull is Officially Over!"
 description: "This summer has been a busy one for me and a rather inactive one for EagerEyes. But it is almost over now, and even though things are not getting quieter (quite the opposite with the semester starting), this site will see regular updates (at least once a week) again."
 date: 2007-08-26 18:06:16
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

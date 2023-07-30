@@ -3,7 +3,7 @@ title: "The Loneliness of the Visualization Critic"
 description: "At a panel discussion at Vis 2006, we were blasted for raising the question, Is there Science in Visualization? A senior visualization researcher said that he was embarrassed that this question was being discussed, and that we were trying to push our way of doing things on the community. The panel was still a success, but this proved just how far we still have to go."
 date: 2006-11-06 21:00:38
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

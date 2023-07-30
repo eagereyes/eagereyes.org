@@ -3,23 +3,23 @@ title: "Presidential Demographics"
 description: "With Hillary Clinton and Barack Obama being likely Democratic candidates for the 2008 presidential elections, it is time to look at the demographics of US Presidents over the years. The following diagrams compare their sex, race, and faith with the whole population in 2001."
 date: 2007-01-16 23:24:04
 tags: Politics
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/PresidentialDemographics.png
 outline: false
 ---
 
-# Presidential Demographics
+<p><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="Presidential Demographics" width="602" height="288" border="0" /></p>
 
-<a href="/Applications/PresidentialDemographics.html"><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="Presidential Demographics" width="602" height="288" border="0" /></a>
+# Presidential Demographics
 
 With Hillary Clinton and Barack Obama being likely Democratic candidates for the 2008 presidential elections, it is time to look at the demographics of US Presidents over the years. The following diagrams compare their sex, race, and <a href="http://en.wikipedia.org/wiki/List_of_U.S._Presidential_religious_affiliations">faith</a> with the <a href="http://en.wikipedia.org/wiki/Demographics_of_United_States">whole population in 2001</a>.
 
-<img title="Presidential Demographics, Sex" src="/media/attachments/PresidentialDemographics-Sex.png" alt="Presidential Demographics, Sex" width="600" height="323" border="0" />
+<p><img title="Presidential Demographics, Sex" src="https://media.eagereyes.org/media/attachments/PresidentialDemographics-Sex.png" alt="Presidential Demographics, Sex" width="600" height="323" border="0" /></p>
 
-<img title="Presidential Demographics, Race" src="/media/attachments/PresidentialDemographics-Race.png" alt="Presidential Demographics, Race" width="600" height="438" border="0" />
+<p><img title="Presidential Demographics, Race" src="https://media.eagereyes.org/media/attachments/PresidentialDemographics-Race.png" alt="Presidential Demographics, Race" width="600" height="438" border="0" /></p>
 
-<img title="Presidential Demographics, Faith" src="/media/attachments/PresidentialDemographics-Faith.png" alt="Presidential Demographics, Faith" width="600" height="369" border="0" />
+<p><img title="Presidential Demographics, Faith" src="https://media.eagereyes.org/media/attachments/PresidentialDemographics-Faith.png" alt="Presidential Demographics, Faith" width="600" height="369" border="0" /></p>
 
-<a href="/media/attachments/PresidentialDemographics.pdf" target="_blank">(Printable PDF)</a>
+<a href="https://media.eagereyes.org/media/attachments/PresidentialDemographics.pdf" target="_blank">(Printable PDF)</a>
 
 
 _Posted by <a href="/about">Robert Kosara</a> on January 16, 2007_

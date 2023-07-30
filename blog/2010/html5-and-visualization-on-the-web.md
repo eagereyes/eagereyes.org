@@ -3,17 +3,18 @@ title: "HTML5 and Visualization on the Web"
 description: "HTML5 is an upcoming new standard not just for web markup, but also new graphical features. It will make it possible to build interactive visualizations right in the web browser, written in JavaScript. And despite what you might think about JavaScript, they will be fast."
 date: 2010-12-21 20:53:59
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/canvas.png
 ---
+
+<p><img src="https://media.eagereyes.org/media/2010/canvas.png" alt="" width="560" height="168" /></p>
 
 # HTML5 and Visualization on the Web
 
-<p class="img"><a href="http://eagereyes.org/blog/2010/html5-and-visualization-on-the-web"><img src="https://media.eagereyes.org/media/2010/canvas.png" alt="" width="560" height="168" /></a></p>
 HTML5 is an upcoming new standard not just for web markup, but also new graphical features. It will make it possible to build interactive visualizations right in the web browser, written in JavaScript. And despite what you might think about JavaScript, they will be fast.
 
 ## Why not Java or Flash?
 
-The current way of building almost anything that's visual and interactive on a website is to use either Java or Flash. <a>Many Eyes</a> even uses both. And while both have great tool support and many developers that are familiar with them, there are also a lot of issues: startup takes a while, performance can be lacking, applications never look quite correct, keyboard shortcuts and accessibility features often don't work, etc.
+The current way of building almost anything that's visual and interactive on a website is to use either Java or Flash. _Many Eyes_ even uses both. And while both have great tool support and many developers that are familiar with them, there are also a lot of issues: startup takes a while, performance can be lacking, applications never look quite correct, keyboard shortcuts and accessibility features often don't work, etc.
 
 HTML5's new features promise a much more integrated approach that makes live visualizations as much part of websites as images or text. Other parts of the page can interact with them, there is no seam between the visualization and the content. And on top of all that, they are fast and available everywhere.
 

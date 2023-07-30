@@ -3,13 +3,13 @@ title: "New Sister Site: EagerEars.org"
 description: "Music and visualization are two things that fascinate me. I always felt that they had something in common, and I recently figured out what it was: structure. That may not be the correct musical term, but it should be clear what I mean nonetheless: the rhythmic structure of music, with its repeated patterns and variations, is what makes music. And that is also what makes abstract images interesting to look at, and what we look for in visualization. So I decided to start another website for my musings on music: EagerEars."
 date: 2009-04-01 07:14:18
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg
 outline: false
 ---
 
 # New Sister Site: EagerEars.org
 
-<p class="img"><a href="http://eagereyes.org/blog/2009/new-sister-site-eagerears.html"><img src="https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg" border="0" alt="EagerEars teaser" width="568" height="424" /></a></p>
+<p><img src="https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg" border="0" alt="EagerEars teaser" width="568" height="424" /></p>
 
 Music and visualization are two things that fascinate me. I always felt that they had something in common, and I recently figured out what it was: structure. That may not be the correct musical term, but it should be clear what I mean nonetheless: the rhythmic structure of music, with its repeated patterns and variations, is what makes music. And that is also what makes abstract images interesting to look at, and what we look for in visualization. So I decided to start another website for my musings on music: EagerEars.
 

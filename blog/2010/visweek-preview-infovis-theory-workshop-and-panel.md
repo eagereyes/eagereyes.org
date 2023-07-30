@@ -3,12 +3,12 @@ title: "VisWeek Preview: InfoVis Theory Workshop and Panel"
 description: "This year's VisWeek conference has a distinct theory scent. It starts with the workshop, The Role of Theory in Information Visualization on Monday, and ends with a panel on theory on Friday. There is also a related BOF and a paper session at Vis."
 date: 2010-10-19 22:10:31
 tags: VisWeek
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/math.jpg
 ---
 
-# VisWeek Preview: InfoVis Theory Workshop and Panel
+<p><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389" /></p>
 
-<a href="http://eagereyes.org/blog/2010/visweek-preview-infovis-theory-workshop-and-panel"><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389" /></a>
+# VisWeek Preview: InfoVis Theory Workshop and Panel
 
 This year's VisWeek conference has a distinct theory scent. It starts with the workshop, <a href="http://eagereyes.org/infovis-theory-workshop">The Role of Theory in Information Visualization</a> on Monday, and ends with a panel on theory on Friday. There is also a related BOF and a paper session at Vis.
 
@@ -29,6 +29,7 @@ To complete the theory bracket around VisWeek, there will be <a href="http://vis
 	<li>Ji Soo Yi</li>
 	<li>Robert Kosara</li>
 </ul>
+
 The panel is organized by my former student Caroline Ziemkiewicz (Brown University) and Peter Kinnaird (GeorgiaTech). The speakers will cover a broad range of topics in theory, and from our preliminary discussions, I can guarantee you that it will be interesting.
 
 ## Evaluation Birds-of-a-Feather

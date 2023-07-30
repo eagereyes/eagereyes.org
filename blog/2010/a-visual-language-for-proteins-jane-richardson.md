@@ -3,13 +3,13 @@ title: "A Visual Language for Proteins: Jane Richardson"
 description: "Proteins are among the most complex structures we know. They consist of thousands of atoms, and fold into complex shapes to perform a variety of functions. Understanding how they work is not possible from looking at single atoms, but rather at the overall, three-dimensional structure. The visual language for doing this was developed by Jane Richardson."
 date: 2010-03-24 14:39:18
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/richardson-protein.jpg
 outline: false
 ---
 
-# A Visual Language for Proteins: Jane Richardson
+<p><img src="https://media.eagereyes.org/media/2010/richardson-protein.jpg" width="560" height="275" alt="Proteins" /></p>
 
-<a href="http://eagereyes.org/blog/2010/a-visual-language-for-proteins-jane-richardson"><img src="https://media.eagereyes.org/media/2010/richardson-protein.jpg" width="560" height="275" alt="Proteins" /></a>
+# A Visual Language for Proteins: Jane Richardson
 
 Proteins are among the most complex structures we know. They consist of thousands of atoms, and fold into complex shapes to perform a variety of functions. Understanding how they work is not possible from looking at single atoms, but rather at the overall, three-dimensional structure. The visual language for doing this was developed by Jane Richardson.
 

@@ -3,17 +3,17 @@ title: "The Unrecorded Life is Not Worth Living"
 description: "It has never been easier to record your daily activities. The data is all well and good, but the real value comes from visualizing it. Why visualize your mundane, boring life? Because it helps you track what you are doing, and provides motivation to get your ass to the gym."
 date: 2009-11-30 22:50:11
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/nikeplus.png
 outline: false
 ---
 
-# The Unrecorded Life is Not Worth Living
+<p><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240" /></p>
 
-<p class="img"><a href="http://eagereyes.org/blog/2009/the-unrecorded-life-is-not-worth-living"><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240" /></a></p>
+# The Unrecorded Life is Not Worth Living
 
 It has never been easier to record your daily activities. The data is all well and good, but the real value comes from visualizing it. Why visualize your mundane, boring life? Because it helps you track what you are doing, and provides motivation to get your ass to the gym.
 
-<img style="float: right; margin-left: 5px;" src="http://eagereyes.org/media/2009/fitbit.jpg" alt="Fitbit" width="121" height="250" />For a little over a month now, I've been carrying a <a href="http://www.fitbit.com/">Fitbit</a> around with me. It records how much I move around during the day, and how often I wake up at night. It's unobtrusive and easy: I don't have to do anything, the data gets uploaded to the Fitbit servers wirelessly and automatically, so I can look at it at my leisure. The only thing I have to remember is to charge it once a week or so.
+<img style="float: right; margin-left: 5px;" src="https://media.eagereyes.org/media/2009/fitbit.jpg" alt="Fitbit" width="121" height="250" />For a little over a month now, I've been carrying a <a href="http://www.fitbit.com/">Fitbit</a> around with me. It records how much I move around during the day, and how often I wake up at night. It's unobtrusive and easy: I don't have to do anything, the data gets uploaded to the Fitbit servers wirelessly and automatically, so I can look at it at my leisure. The only thing I have to remember is to charge it once a week or so.
 
 The Fitbit is basically a step counter with an Internet connection. It records the number of steps taken every minute, and can store up to a week of detailed data (and up to a month of summary data). It's simple, small, and unobtrusive.
 

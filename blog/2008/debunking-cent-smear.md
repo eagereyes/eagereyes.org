@@ -3,21 +3,25 @@ title: "Debunking the Cent Smear"
 description: "A story is making the rounds recently that the Obama campaign has received many contributions with \"odd\" amounts (i.e., not whole dollars), which is supposedly proof that Obama was being funded by foreign money. Here is a quick look at the data, which shows some interesting patterns, but no evidence of foreign intervention."
 date: 2008-10-24 22:52:05
 tags: Politics
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/Obama-Cents-teaser.png
 ---
 
-# Debunking the Cent Smear
+<p><img src="https://media.eagereyes.org/media/2008/Obama-Cents-teaser.png" alt="Obama Cents Teaser" width="410" height="165" border="0" /></p>
 
-<a href="http://eagereyes.org/blog/2008/debunking-cent-smear.html"><img src="https://media.eagereyes.org/media/2008/Obama-Cents-teaser.png" alt="Obama Cents Teaser" width="410" height="165" border="0" /></a>
+
+# Debunking the Cent Smear
 
 A story is making the rounds recently that the Obama campaign has received many contributions with "odd" amounts (i.e., not whole dollars), which is supposedly proof that Obama was being funded by foreign money. Here is a quick look at the data, which shows some interesting patterns, but no evidence of foreign intervention.
 
 The whole story is of course non-sensical: if people were really charging their foreign credit cards, they would still send whole dollar amounts, since amounts are always specified in the target currency. But the much stronger evidence that the argument is nonsense is in the following image (multiples of 10 are colored blue, multiples of 5 (which are not multiples of 10) are green. Of the more than two million contributions, almost 94% were whole numbers, so the 0 cents case is not shown below.
-<p style="text-align: center;"><img style="border: 0px initial initial;" src="http://eagereyes.org/media/2008/Obama-Cents.png" alt="Fractional Amounts of Contributions" width="500" height="854" border="0" /></p>
+
+<p><img style="border: 0px initial initial;" src="http://eagereyes.org/media/2008/Obama-Cents.png" alt="Fractional Amounts of Contributions" width="500" height="854" /></p>
+
 As you can see, the distribution is very uneven (unlike what you would expect from the result of currency conversion). Multiples of five (and thus "round" cents) are much more common than values in between. The most common amount, though, is .95 – strange perhaps, but definitely done on purpose. The number .01 stands out (for the winner, presumably), and .08 quite obviously because of the year (I've read of people contributing $20.08 every month and the Obama Store also sells a lot of swag for that amount). "Odd" amounts in between are also explained by a list of <a href="http://www.swingstateproject.com/2006/03/zombie_myths_ne.html">cent "attributions" to a variety of blogs</a> – and by rounding (when you buy something and you round the amount up to some nice number, so the difference becomes a contribution).
 
 Interestingly, McCain's data looks quite different. Of the roughly 400,000 contributions, less than 0.2% have fractional parts. The only strong pattern is at .50, most of the others seem rather random.
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/McCain-Cents.png" alt="McCain Cents" width="500" height="863" border="0" /></p>
+
+<p><img src="https://media.eagereyes.org/media/2008/McCain-Cents.png" alt="McCain Cents" width="500" height="863" border="0" /></p>
 
 ## Getting the Data
 

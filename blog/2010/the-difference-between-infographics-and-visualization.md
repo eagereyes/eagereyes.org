@@ -3,13 +3,11 @@ title: "The Difference Between Infographics and Visualization"
 description: "What is the key difference between a visualization and a data-based infographic? The visualization is created by a program that can be applied to many datasets, the infographic is hand-crafted for a particular dataset. It's obvious, which is why it's so hard to figure out."
 date: 2010-08-10 21:50:12
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/healthcare.jpg
 outline: false
 ---
 
 # The Difference Between Infographics and Visualization
-
-<a href="http://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization"><img src="https://media.eagereyes.org/media/2010/healthcare.jpg" alt="" width="560" height="235" /></a>
 
 What is the key difference between a visualization and a data-based infographic? The visualization is created by a program that can be applied to many datasets, the infographic is hand-crafted for a particular dataset. It's obvious, which is why it's so hard to figure out.
 

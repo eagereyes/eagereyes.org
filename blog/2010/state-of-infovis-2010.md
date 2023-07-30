@@ -3,12 +3,12 @@ title: "The State of Information Visualization"
 description: "Information Visualization (InfoVis) is an exciting field to watch grow and expand into ever new areas. Last year brought some interesting developments that point towards changes in how we do and see visualization. What does 2010 hold in store? Here is a look back and some ideas where we're heading."
 date: 2010-01-06 08:25:53
 tags: state-of-infovis
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/minard.jpg
 ---
 
-# The State of Information Visualization
+<p><img alt="Minard's &quot;Napoleon's March to Moscow&quot;, Protovis demo" src="https://media.eagereyes.org/media/2010/minard.jpg" width="560" height="173" /></p>
 
-<a href="http://eagereyes.org/blog/2010/state-of-infovis-2010"><img alt="Minard's &quot;Napoleon's March to Moscow&quot;, Protovis demo" src="http://eagereyes.org/media/2010/minard.jpg" width="560" height="173" /></a>
+# The State of Information Visualization
 
 Information Visualization (InfoVis) is an exciting field to watch grow and expand into ever new areas. Last year brought some interesting developments that point towards changes in how we do and see visualization. What does 2010 hold in store? Here is a look back and some ideas where we're heading.
 

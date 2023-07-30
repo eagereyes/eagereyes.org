@@ -3,13 +3,13 @@ title: "The YouTube Screening Room"
 description: "I'm not generally a big YouTube fan. Sure, I've watched all the funny cat movies and seen people dump Mentos into bottles of Diet Coke. But little else has made me go there in some months. This has changed, though, with a new feature of the website: The YouTube Screen Room. Twice a month, four independent short films are added to the site, and the quality is amazing."
 date: 2008-07-14 22:31:32
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg
 outline: false
 ---
 
-# The YouTube Screening Room
+<p><img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" border="0" alt="YouTube Screening Room" /></p>
 
-<img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" border="0" alt="YouTube Screening Room" />
+# The YouTube Screening Room
 
 I'm not generally a big YouTube fan. Sure, I've watched all the funny cat movies and seen people dump Mentos into bottles of Diet Coke. But little else has made me go there in some months. This has changed, though, with a new feature of the website: <a href="http://youtube.com/ytscreeningroom">The YouTube Screen Room</a>. Twice a month, four independent short films are added to the site, and the quality is amazing.
 

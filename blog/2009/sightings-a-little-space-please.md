@@ -3,13 +3,13 @@ title: "Sightings: A Little Space, Please!"
 description: "\"InfoVis and SciVis face off\" is how the American Scientist homepage teases for my latest Sightings column. While the comparison between information visualization (InfoVis) and scientific visualization (SciVis) is part of the discussion, I am also describing work by my colleague Anthony Fodor (who works in bioinformatics) to demonstrate the usefulness of InfoVis in science."
 date: 2009-03-04 09:13:46
 tags: Sightings
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png
 outline: false
 ---
 
-# Sightings: A Little Space, Please!
+<p><img src="https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png" alt="Sightings: A Little Space, Please" width="452" height="300" /></p>
 
-<a href="http://eagereyes.org/blog/2009/sightings-a-little-space-please.html"><img src="https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png" border="0" alt="Sightings: A Little Space, Please" width="452" height="300" /></a>
+# Sightings: A Little Space, Please!
 
 "<a href="http://www.americanscientist.org/issues/pub/2009/3/a-little-space-please">InfoVis and SciVis face off</a>" is how the <em>American Scientist</em> homepage teases for my latest <em>Sightings</em> column. While the comparison between information visualization (InfoVis) and scientific visualization (SciVis) is part of the discussion, I am also describing work by my colleague Anthony Fodor (who works in bioinformatics) to demonstrate the usefulness of InfoVis in science.
 

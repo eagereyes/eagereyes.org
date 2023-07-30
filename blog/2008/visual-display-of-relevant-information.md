@@ -3,13 +3,13 @@ title: "The Visual Display of Relevant Information"
 description: "When Al Gore talks about global warming, Hans Rosling shows the relationship between health and wealth, and the New York Times visualizes primary results and American consumer debt, they communicate visually. But they only use visual representation to get their point across, as a means to an end. When we want to show why visualization is effective, we have to care about the message, too &ndash; not just the method."
 date: 2008-07-21 19:43:20
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/wallstats-energy.jpg
 outline: false
 ---
 
-# The Visual Display of Relevant Information
+<p><img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" border="0" alt="Budget" /></p>
 
-<img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" border="0" alt="Budget" />
+# The Visual Display of Relevant Information
 
 When Al Gore talks about <a href="http://www.climatecrisis.net/">global warming</a>, Hans Rosling shows the <a href="http://www.ted.com/index.php/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html">relationship between health and wealth</a>, and the New York Times visualizes <a href="http://www.nytimes.com/2008/06/04/us/politics/04margins_graphic.html">primary results</a> and <a href="http://www.nytimes.com/interactive/2008/07/20/business/20debt-trap.html">American consumer debt</a>, they communicate visually. But they only use visual representation to get their point across, as a means to an end. When we want to show why visualization is effective, we have to care about the message, too &ndash; not just the method.
 

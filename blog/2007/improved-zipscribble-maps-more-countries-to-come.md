@@ -3,7 +3,7 @@ title: "Improved US ZIPScribble Maps, more Countries to Come"
 description: "The ZIPScribble Maps of the US  obviously hit a nerve, with over 55,000 unique visitors in about two weeks, and more than 70 comments. There was also some criticism, especially regarding some slight problems with coloring the states, and that some of the dividing lines were not, in fact, state lines (and that it was not easy to compare them to state lines). For reasons of convenience, I had also left out Alaska and Hawaii, and there were requests for similar maps for more countries. The US maps have just been updated to solve almost all of the above problems (except for AK and HI, which are included in separate maps for now), and ZIPScribbles for several other countries will be published in the next few days. An interactive version is also in the works."
 date: 2007-01-03 23:21:35
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

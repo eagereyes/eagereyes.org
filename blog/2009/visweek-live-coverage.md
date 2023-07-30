@@ -3,12 +3,12 @@ title: "VisWeek Preview: Live Coverage"
 description: "Like last year, I will be live-blogging and tweeting from VisWeek. Here is some information on my plans and links to what others will be doing (that I know of). Feel free to add your links, Twitter handles, etc. in the comments."
 date: 2009-10-06 11:59:44
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/visweektweet.png
 ---
 
-# VisWeek Preview: Live Coverage
+<p><img src="https://media.eagereyes.org/media/2009/visweektweet.png" border="0" alt="VisWeek Tweet" width="560" height="126" /></p>
 
-<a href="http://eagereyes.org/blog/2009/visweek-live-coverage"><img src="https://media.eagereyes.org/media/2009/visweektweet.png" border="0" alt="VisWeek Tweet" width="560" height="126" /></a>
+# VisWeek Preview: Live Coverage
 
 Like <a href="http://eagereyes.org/events/VisWeek2008">last year</a>, I will be live-blogging and tweeting from <a href="http://vis.computer.org/VisWeek2009/">VisWeek</a>. Here is some information on my plans and links to what others will be doing (that I know of). Feel free to add your links, Twitter handles, etc. in the comments.
 

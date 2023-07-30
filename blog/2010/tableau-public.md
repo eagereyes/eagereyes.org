@@ -3,12 +3,12 @@ title: "Tableau Public"
 description: "With all the data that is now available, more powerful tools are needed to make more sense of it. Tableau Public provides some of the most powerful visualization tools available today, and it's free to use with public data."
 date: 2010-02-23 00:07:29
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/tableau-public.jpg
 ---
 
-# Tableau Public
+<p><img src="https://media.eagereyes.org/media/2010/tableau-public.jpg" width="560" height="200" alt="Tableau Public Teaser" /></p>
 
-<p class="img"><a href="http://eagereyes.org/blog/2010/tableau-public"><img src="https://media.eagereyes.org/media/2010/tableau-public.jpg" width="560" height="200" alt="Tableau Public Teaser" /></a></p>
+# Tableau Public
 
 With all the data that is now available, more powerful tools are needed to make more sense of it. <a href="http://www.tableausoftware.com/public/">Tableau Public</a> provides some of the most powerful visualization tools available today, and it's free to use with public data.
 <!--break-->
@@ -31,9 +31,8 @@ If you have a very specific idea what the view should look like, this can be fru
 
 In addition to bar and line charts, scatterplots, bullet graphs, and variations of those, Tableau can create small multiples plots and some of the best maps you will find anywhere (and, fortunately, no choropleth maps). Using sheet links, views can talk to each other, which is especially useful for dashboards (which collect views from several sheets). With the addition of highly configurable filters, it is possible to construct complex, interactive visualizations.
 
-<script type="text/javascript" src="http://public.tableausoftware.com/javascripts/api/viz_v1.js"></script><object class="tableauViz" width="556" height="789" style="display:none;"><param name="name" value="ClimateData70svs_00s/ClimateDashboard" /><param name="toolbar" value="yes" /></object><noscript>Climate Dashboard <br /><a href="#"><img alt="Climate Dashboard " src="http://public.tableausoftware.com/static/images/ClimateData70svs_00s-ClimateDashboard_rss.png" height="100%" /></a></noscript><div style="width:556px;height:22px;padding:0px 10px 0px 0px; margin-top: -6px; color:black;font:normal 8pt verdana,helvetica,arial,sans-serif;"><div style="padding-left: 440px;"><a href="http://www.tableausoftware.com/public?ref=http://public.tableausoftware.com/views/ClimateData70svs_00s/ClimateDashboard">Powered by Tableau</a></div></div>
 
-## Compared To &#8230;
+## Compared To …
 
 The great strength of Tableau Public when compared to Many Eyes and others is its ability to create visualizations consisting of multiple, linked views (which they call <em>dashboards</em>). This makes it possible to link different views (like maps, etc.) together and letting the user pick subsets of the data she is interested in. Tableau has very powerful tools for filtering and selecting data that provide quite a bit of flexibility in creating very effective views of the data.
 

@@ -3,12 +3,12 @@ title: "To Those We Lost This Year"
 description: "2010 has not been a kind year for visualization. Three key people who have made a large impact in the field have passed away this year (in decreasing order of age): Jacques Bertin, Jim Thomas, and Dirk Bartz. They will be sorely missed."
 date: 2010-10-17 22:09:01
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg
 ---
 
-# To Those We Lost This Year
+<p><img src="https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg" alt="Jim Thomas, Dirk Bartz, Jacques Bertin" width="560" height="300" /></p>
 
-<a href="http://eagereyes.org/blog/2010/to-those-we-lost-this-year"><img src="https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg" alt="Jim Thomas, Dirk Bartz, Jacques Bertin" width="560" height="300" /></a>
+# To Those We Lost This Year
 
 2010 has not been a kind year for visualization. Three key people who have made a large impact in the field have passed away this year (in decreasing order of age): Jacques Bertin, Jim Thomas, and Dirk Bartz. They will be sorely missed.
 

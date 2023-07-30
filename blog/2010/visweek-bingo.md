@@ -3,7 +3,7 @@ title: "VisWeek Bingo!"
 description: "With only just over a week left until VisWeek 2010, it's time for VisWeek Bingo!"
 date: 2010-10-14 23:02:08
 tags: VisWeek
-featuredImage:
+featuredImage: 
 ---
 
 # VisWeek Bingo!
@@ -16,7 +16,7 @@ Just like any other bingo! You attend VisWeek and mark those squares that descri
 
 Click the image below for a printable (and readable) PDF version.
 
-<a href="http://eagereyes.org/media/2010/VisWeek-Bingo.pdf"><img src="https://media.eagereyes.org/media/2010/VisWeek-Bingo.png" alt="" width="560" height="751" /></a>
+<a href="https://media.eagereyes.org/media/2010/VisWeek-Bingo.pdf"><img src="https://media.eagereyes.org/media/2010/VisWeek-Bingo.png" alt="" width="560" height="751" /></a>
 
 Feel free to add suggestions for more Bingo squares below!
 

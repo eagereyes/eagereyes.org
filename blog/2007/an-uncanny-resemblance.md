@@ -3,7 +3,7 @@ title: "An Uncanny Resemblance"
 description: "A user in a thread on MetaFilter  that linked to the US ZIPScribble Map pointed to a drawing that has an uncanny resemblance to the map: Saul Steinberg&#39;s Hen. The bloggy thing of course would have been to just take the image from somewhere and put it next to the map to show it. Instead, I asked for permission. You can probably guess how well that worked."
 date: 2007-01-21 18:56:10
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

@@ -3,7 +3,7 @@ title: "Taking Visualization to the Next Level"
 description: "Visualization is the visual communication of information - at least the way the term is understood in computer science. But in many ways, visualization is today mostly technical, empirical, and there is practically no theoretical foundation for what we are doing. There are also obvious connections with psychology, design, art, aesthetics, etc. This website tries to pull them all together and start making connections to push visualization to the next level."
 date: 2006-10-01 21:44:58
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

@@ -3,13 +3,13 @@ title: "UN Make Large Amounts of Data Available"
 description: "Data is being set free: the United Nations have started a new website called&nbsp;UN Data&nbsp;to share the data collected by a number of UN agencies. 55 million data records are waiting to be explored and visualized. The search interface is very nice and usable, but still lacks power."
 date: 2008-03-07 22:35:29
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/undata-flowers.png
 outline: false
 ---
 
-# UN Make Large Amounts of Data Available
+<p><img src="https://media.eagereyes.org/media/2008/undata-flowers.png" border="0" width="497" height="346" /></p>
 
-<img src="https://media.eagereyes.org/media/2008/undata-flowers.png" border="0" width="497" height="346" />
+# UN Make Large Amounts of Data Available
 
 Data is being set free: the United Nations have started a new website called&nbsp;<a href="http://data.un.org/">UN Data</a>&nbsp;to share the data collected by a number of UN agencies. 55 million data records are waiting to be explored and visualized. The search interface is very nice and usable, but still lacks power.
 

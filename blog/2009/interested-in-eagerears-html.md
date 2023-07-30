@@ -3,13 +3,13 @@ title: "Anybody interested in eagerears.org/.com?"
 description: "I got the domains EagerEars.org and EagerEars.com for my April Fool's joke. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site."
 date: 2009-05-02 21:29:32
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/imallears.png
 outline: false
 ---
 
-# Anybody interested in eagerears.org/.com?
+<p><img src="https://media.eagereyes.org/media/2009/imallears.png" border="0" alt="I'm all Ears" width="560" height="250" /></p>
 
-<a href="http://eagereyes.org/blog/2009/interested-in-eagerears.html"><img src="https://media.eagereyes.org/media/2009/imallears.png" border="0" alt="I'm all Ears" width="560" height="250" /></a>
+# Anybody interested in eagerears.org/.com?
 
 I got the domains EagerEars.org and EagerEars.com for my <a href="http://eagereyes.org/blog/2009/new-sister-site-eagerears.html">April Fool's joke</a>. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.
 

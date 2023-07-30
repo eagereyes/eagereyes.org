@@ -3,7 +3,7 @@ title: "Further Steps Towards World Visualization Day"
 description: "Since my first posting about the need for a World Visualization Day, I have started a basic website, opened a Facebook group, and taken a first shot at designing a logo. I have refined my ideas on the next steps as well as the support needed. Please support this idea by joining the facebook group, commenting here and on the WVD website, and most of all, by attending the BOF meeting at Vis."
 date: 2007-10-21 23:31:46
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

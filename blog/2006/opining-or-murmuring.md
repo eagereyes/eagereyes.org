@@ -3,7 +3,7 @@ title: "Opining or Murmuring: Infographics vs. Visualization"
 description: "Commenting on a diagram  showing the flow of electricity from its production to its use (and waste), the author of the Junk Charts blog writes: As it stands, this chart murmurs but does not opine. Which is exactly what it should do."
 date: 2006-10-10 15:55:15
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

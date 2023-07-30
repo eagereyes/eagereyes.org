@@ -3,22 +3,19 @@ title: "A National Data Agency"
 description: "President Obama promises a more responsible and accountable government that openly shares information with its people. This includes publishing executive orders and laws before they are signed, so everybody can comment. But it also needs to include the data decisions are based on. An information society needs its data to be available and accessible to make informed decisions &ndash; just like its leaders."
 date: 2009-01-22 20:13:42
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/nda.png
 outline: false
 ---
 
-# A National Data Agency
+<p><img src="https://media.eagereyes.org/media/2009/nda.png" border="0" alt="National Data Agency" width="326" height="326" /></p>
 
-<a href="http://eagereyes.org/blog/2009/a-national-data-agency.html"><img src="https://media.eagereyes.org/media/2009/nda.png" border="0" alt="National Data Agency" width="326" height="326" /></a>
+# A National Data Agency
 
 President Obama promises a more responsible and accountable government that openly shares information with its people. This includes publishing executive orders and laws before they are signed, so everybody can comment. But it also needs to include the data decisions are based on. An information society needs its data to be available and accessible to make informed decisions &ndash; just like its leaders.
 
 What impressed me most about <a href="http://www.nytimes.com/2009/01/20/us/politics/20text-obama.html?pagewanted=all">President Obama's inauguration speech</a> was this passage (emphasis mine):
 
->	
 >	And those of us who manage the public's dollars will be held to account, to spend wisely, reform bad habits, and do our business in the light of day, because only then can we restore the vital trust between a people and their government.
->	
->	
 
 There is no reason to doubt his words: already, the new White House web site has <a href="http://www.whitehouse.gov/blog/">a blog</a> and new sections for all kinds of reports. They will also <a href="http://www.whitehouse.gov/blog/change_has_come_to_whitehouse-gov/">post executive orders and legislation for review</a> by everybody who cares to look. There is also a <a href="http://www.whitehouse.gov/the_press_office/ExecutiveOrderPresidentialRecords/">very interesting executive order</a> that Obama issued on his first day that reverses Bush's sweeping use of executive privilege to withhold information and allows much more access to Presidential records (including those of past Presidents).
 

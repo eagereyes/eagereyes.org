@@ -3,20 +3,21 @@ title: "Swing States"
 description: "I always wondered how much those swing states actually swing. So I looked at the results of presidential elections over the last 100 years, and it's not easy to determine which states actually are swing states from just looking at their history. Rather, there seems to be a pattern of relative stability for a few election cycles, and then big, sweeping wins for one side."
 date: 2008-10-29 23:00:44
 tags: Politics
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/StateSwing-teaser.png
 outline: false
 ---
 
 # Swing States
 
-<a href="http://eagereyes.org/blog/2008/swing-states.html"><img src="https://media.eagereyes.org/media/2008/StateSwing-teaser.png" alt="Swing State Teaser" width="404" height="154" border="0" /></a>
+<p><img src="https://media.eagereyes.org/media/2008/StateSwing-teaser.png" alt="Swing State Teaser" width="404" height="154" border="0" /></p>
 
 I always wondered how much those <a href="http://en.wikipedia.org/wiki/Swing_state">swing states</a> actually swing. So I looked at the results of presidential elections over the last 100 years, and it's not easy to determine which states actually are swing states from just looking at their history. Rather, there seems to be a pattern of relative stability for a few election cycles, and then big, sweeping wins for one side.
 
 The data for this chart was collected from the <a href="http://www.archives.gov/federal-register/electoral-college/votes/index.html">U.S. National Archives and Records Administration</a>, which unfortunately does not provide this in a very usable format. The format also switches at some point, making things more work than necessary. I had originally collected the data in a year-by-state matrix, which turned out to be a poor choice. I used <a href="http://had.co.nz/reshape/">Hadley Wickham's reshape package for R</a> to "melt" the data into a more useful format. That data was then fed to <a href="http://www.tableausoftware.com/">Tableau</a> to produce this chart.
 
 I chose a red that is quite a bit brighter than the blue to make the two colors easier to differentiate. Blue, of course, represents democrats, and red Republicans. There is also the <a href="http://en.wikipedia.org/wiki/Progressive_Party_(United_States,_1912)">Progressive Party of 1912</a> (not to be confused with the <a href="http://en.wikipedia.org/wiki/Progressive_Party_(United_States,_1924)">Progressive Party of 1924</a>, but I still gave them the same color), as well as the "<a href="http://en.wikipedia.org/wiki/Dixiecrat">Dixiecrats</a>" who only ran in 1948. They were all so short-lived that I didn't pay a lot of attention to them, but you can find them in the chart if you look closely.
-<p style="text-align: center;"><a href="http://eagereyes.org/media/2008/StateSwing.png"><img src="https://media.eagereyes.org/media/2008/StateSwing-thumb.png" alt="Election Results by State" width="500" height="299" border="0" /></a></p>
+
+<p style="text-align:center;"><a href="http://eagereyes.org/media/2008/StateSwing.png"><img src="https://media.eagereyes.org/media/2008/StateSwing-thumb.png" alt="Election Results by State" width="500" height="299" border="0" /></a></p>
 You can see big, sweeping wins where one party takes over from the other, like in 1932, 1964, and 1968, etc. Bear in mind though that each dot represents a state, not a fixed fraction of either the popular or the electoral vote (<a href="http://eagereyes.org/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts.html">which can differ quite a bit</a>, too). I have ideas for how to show these things, but haven't been able to do them in Tableau or Excel, and just don't have the time right now to write a program for this.
 
 What is also interesting to see is how recently some states (like Alaska and Hawaii) became proper parts of the US, and that even "contiguous 48" states like Arizona and New Mexico were not represented 100 years ago. The District of Columbia is the only "state" to never change color, but there are a few that have fairly consistent records, like Vermont and Massachusetts.
@@ -101,7 +102,7 @@ Merle says…
 
 <a href="http://www.tableausoftware.com" rel="nofollow noopener" target="_blank">Robert Morton</a> says…
 >	Jon, I like your suggestions.  I've implemented a quick approximation that clusters states by the percent total votes that they gave to each candidate. Perhaps a more complete implementation would be a minimum-edit-distance approach.  Here's a thumbnail (or <a href="http://www.tableausoftware.com/blog/state-electoral-vote-sorting">go here for my full post</a>):
->	<img src="http://www.tableausoftware.com/files/state-electoral-votes-final.png"/>
+>	<img src="http://www.tableausoftware.com/files/state-electoral-votes-final.png" />
 >	
 
 Jon says…
@@ -114,11 +115,12 @@ Jon says…
 >	
 >	Larger version <a href="http://flickr.com/photos/24259997@N08/2988192069/sizes/l/">here</a>.
 >	
->	The more meaningful ordering allows more patterns to emerge. I think the key one is that in the past, almost the entire country swung from one side to the other, whereas since 1992 the country has been more evenly split, and some traditionally consistent states have switched sides.
+>	The more meaningful ordering allows more patterns to emerge.
+> I think the key one is that in the past, almost the entire country swung from one side to the other, whereas since 1992 the country has been more evenly split, and some traditionally consistent states have switched sides.
 
 <a href="http://i-ocean.blogspot.com/" rel="nofollow noopener" target="_blank">derek</a> says…
 >	As Jorge says, Bertin's reorderable matrix concept is intended for manual tuning, but I'm lazy and won't spend the time necessary to get familiar with the subject data. So I sorted in order of "centre-of-gravity", according to whether the state had started Republican and trended Democrat, or vice versa, and in what years. The result was this table (I hope this works and doesn't break anyone's browser, apologies if it does):
->	<a href="http://www.branta.demon.co.uk/politics/chart/swing states.png"><img src="http://www.branta.demon.co.uk/politics/chart/swing states.png" width=500><br>click for larger image</a>
+>	<a href="http://www.branta.demon.co.uk/politics/chart/swing states.png"><img src="http://www.branta.demon.co.uk/politics/chart/swing states.png" width=500>click for larger image</a>
 >	
 >	This seems to show a switch-round of states around 1964 or 1968, blue states going red and red blue. I've heard of this switch before, which is said to date from Johnson's win in 1964, when he took most states, but the Republican, Goldwater, took a few formerly blue states that remain red to the present day. It's apparently quite striking on <a href="http://www.270towin.com/">historical maps</a> at 270towin.com. 
 >	
@@ -131,9 +133,7 @@ Jon says…
 >	
 >	In the meantime I have designed a little java application to visualize the data. Here is a screenshot.
 >	
->	<a href="http://diuf.unifr.ch/people/bertinie/visuale/imgs/swing-states.png">
->	<img src="http://diuf.unifr.ch/people/bertinie/visuale/imgs/swing-states_s.png"></img>
->	</a>
+>	<a href="http://diuf.unifr.ch/people/bertinie/visuale/imgs/swing-states.png"><img src="http://diuf.unifr.ch/people/bertinie/visuale/imgs/swing-states_s.png"/></a>
 >	<a href="http://diuf.unifr.ch/people/bertinie/visuale/imgs/swing-states.png">click for larger image</a>
 >	
 >	I have presented, as suggested by someone above, only the swings from one party to another. I have also used the x-axis for time and the y-axis for states. 
@@ -149,7 +149,7 @@ Merle says…
 >	
 >	I thought, "what difference does it make what order the years are in either, for that matter."  Would it tell a better picture if they were totaled both by state and by year and then sorted from Democrats in the upper left corner to Republicans in the lower right?  From the image, then, you could see where the anomalies were and then reference the year and state.
 >	
->	<a href="http://mghall.freeshell.org/public/Reverse-ordered_totals.png"><img  src="http://mghall.freeshell.org/public/Reverse-ordered_totals.png"  width="500" /></a>
+>   <a href="http://mghall.freeshell.org/public/Reverse-ordered_totals.png"><img src="http://mghall.freeshell.org/public/Reverse-ordered_totals.png"  width="500" /></a>
 >	
 >	(Apologies for the horizontal lines, which should not be there.  Had some trouble figuring out how to get an image out of an OpenOffice spreadsheet.)
 >	

@@ -3,13 +3,13 @@ title: "VisWeek Preview: Changing the World with Visualization (Panel)"
 description: "What good is visualization if it can't save the world? Or maybe at least change it. Make it a little better. Make a difference. I am organizing a panel at InfoVis next week to discuss what visualization already does, and what else we can do to free visualization from the confines of the ivory tower and have an impact in the real world. Three remarkable people will present their views and discuss with the audience."
 date: 2009-10-07 21:16:23
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/changeWorldPanel.jpg
 outline: false
 ---
 
-# VisWeek Preview: Changing the World with Visualization (Panel)
+<p><img src="https://media.eagereyes.org/media/2009/changeWorldPanel.jpg" border="0" alt="Visualization saves the world" width="560" height="527" /></p>
 
-<a href="http://eagereyes.org/blog/2009/visweek-changing-the-world-with-visualization-panel"><img style="border: 0px initial initial;" src="http://eagereyes.org/media/2009/changeWorldPanel.jpg" border="0" alt="Visualization saves the world" width="560" height="527" /></a>
+# VisWeek Preview: Changing the World with Visualization (Panel)
 
 What good is visualization if it can't save the world? Or maybe at least change it. Make it a little better. Make a difference. I am organizing a panel at InfoVis next week to discuss what visualization already does, and what else we can do to free visualization from the confines of the ivory tower and have an impact in the real world. Three remarkable people will present their views and discuss with the audience.
 <!--break-->

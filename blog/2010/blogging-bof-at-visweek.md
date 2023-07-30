@@ -3,7 +3,7 @@ title: "Blogging BOF at VisWeek"
 description: "Enrico Bertini and I will host a Birds-of-a-Feather meeting Thursday night on Blogging in Visualization. We will talk about our experiences, answer questions, and hopefully dispel some myths about blogging in science. Whether you're going or not, I recommend reading the article You Aren’t Blogging Yet?!? in The Scientist."
 date: 2010-10-25 18:19:58
 tags: VisWeek
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

@@ -3,12 +3,12 @@ title: "InfoVis 2007: InfoVis for the Masses"
 description: "The InfoVis conference this year had a theme that was not planned, but that made it even more impressive. That theme was InfoVis for the Masses, or Visualization for the People, and it was present throughout the keynote, many paper presentations, the panel, the World Visualization Day BOF, and the capstone. This is the beginning of a new era in visualization, and it is exciting to watch it happen."
 date: 2007-11-24 22:35:39
 tags: conference
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg
 ---
 
-# InfoVis 2007: InfoVis for the Masses
+<p><img src="https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg" border="0" alt="Visualization for the People - Fernanda Viegas" width="258" height="338" /></p>
 
-<a href="/blog/infovis-2007-infovis-for-the-masses.html"><img src="https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg" border="0" alt="Visualization for the People - Fernanda Viegas" width="258" height="338" /></a>
+# InfoVis 2007: InfoVis for the Masses
 
 The <a href="http://conferences.computer.org/infovis/infovis2007/">InfoVis conference </a>this year had a theme that was not planned, but that made it even more impressive. That theme was <em>InfoVis for the Masses</em>, or <em>Visualization for the People</em>, and it was present throughout the <a href="http://conferences.computer.org/infovis/infovis2007/keynote.html">keynote</a>, many paper presentations, the <a href="/blog/panel-social-data-visualization.html">panel</a>, the <a href="/blog/we-need-a-world-visualization-day.html">World Visualization Day</a> BOF, and the <a href="http://conferences.computer.org/infovis/infovis2007/capstone.html">capstone</a>. This is the beginning of a new era in visualization, and it is exciting to watch it happen.
 

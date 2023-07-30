@@ -3,7 +3,7 @@ title: "Visualization Day at City College of New York"
 description: "The City College of New York will be hosting a visualization day on April 30, with a very interesting line-up of speakers: Ben Shneiderman (who is also listed as a sponsor), Matthew Ericson (NY Times), Catherine Plaisant (University of Maryland), Martin Wattenberg (IBM/Many Eyes), and others."
 date: 2008-04-21 22:06:24
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

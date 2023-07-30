@@ -3,13 +3,13 @@ title: "Dance.Draw"
 description: "My colleague Celine Latulipe has made a nice website about her Dance.Draw project. In what she calls Exquisite Interaction, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful."
 date: 2008-05-15 22:51:37
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg
 outline: false
 ---
 
-# Dance.Draw
+<p><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw" /></p>
 
-<img style="border: 0px initial initial;" src="/media/2008/ExquisiteInteraction.jpg" border="0" alt="Dance.Draw" />
+# Dance.Draw
 
 My colleague Celine Latulipe has made a nice website about her <a href="http://www.sis.uncc.edu/~clatulip/DanceDraw/Dance.Draw.html">Dance.Draw project</a>. In what she calls <em>Exquisite Interaction</em>, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful.
 

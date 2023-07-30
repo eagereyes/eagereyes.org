@@ -3,7 +3,7 @@ title: "Trivialization for the Masses"
 description: "There are thousands of visualizations on Many Eyes, but there is little in terms of further analysis and deeper discussion. There are dozens of visualization websites now that let you upload your data, but they all provide the same few visualization techniques and practically no analysis tools. While visualization for the masses may be here, we're not actually seeing much analysis from those same masses."
 date: 2010-09-07 22:08:07
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

@@ -3,7 +3,7 @@ title: "Critiquing in Class Revisited"
 description: "Another semester is ending, and another class being taught using criticism as a main component is winding down. This time, I had a good mix of computer science, design, architecture, and liberal studies students. All the comments I received regarding the critiques were very positive, and the students' progress in their visualization designs reinforces those."
 date: 2007-05-02 22:47:20
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

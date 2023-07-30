@@ -3,7 +3,7 @@ title: "Rethinking the User"
 description: "A discussion at a seminar in Dagstuhl  (Germany) on Information Visualization has led to an interesting insight: what if we completely misunderstood who the users are for visualization? Especially in light of the current developments for broadly usable visualization, we need to rethink the types and levels of expertise that we can expect."
 date: 2007-05-31 13:30:47
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

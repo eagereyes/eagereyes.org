@@ -3,7 +3,7 @@ title: "I Want to BELIV"
 description: "Evaluation of visualization systems and techniques is a vital part of visualization research, but is often neglected. While there are established methods for basic perception studies, many other kinds of questions are much more difficult to answer in a controlled study. The CHI workshop BELIV (BEyond time and errors: novel evaLuation methods for Information Visualization) is the place to discuss new ideas about evaluating visualization."
 date: 2009-11-09 22:39:52
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

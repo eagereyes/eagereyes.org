@@ -3,7 +3,7 @@ title: "InfoVis Contest 2007 Data"
 description: "Like in the last few years, the InfoVis Conference 2007  is holding a data visualization contest. While the data is available late this year, we hope that by providing it in a very accessible format (XML), and also supplying program code to get  you started (at least if you&#39;re using Java), we will attract more submissions. The focus is also more on the design than the data analysis this year, and the questions are much more open-ended (in fact, you can make up your own!)."
 date: 2007-03-07 16:24:40
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # InfoVis Contest 2007 Data

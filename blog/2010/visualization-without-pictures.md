@@ -3,12 +3,12 @@ title: "Visualization Without Pictures"
 description: "A question that I have been asked a few times recently is: what about visualization for the blind? Would it make sense to provide a textual representation? What about a representation that you can feel and touch, isn't that a visualization? And is there perhaps more to visualization than just the pictures?"
 date: 2010-10-10 22:52:06
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/empty-frame.jpg
 ---
 
-# Visualization Without Pictures
+<p><img src="https://media.eagereyes.org/media/2010/empty-frame.jpg" alt="" width="560" height="374" /></p>
 
-<a href="http://eagereyes.org/blog/2010/visualization-without-pictures"><img src="https://media.eagereyes.org/media/2010/empty-frame.jpg" alt="" width="560" height="374" /></a>
+# Visualization Without Pictures
 
 A question that I have been asked a few times recently is: what about visualization for the blind? Would it make sense to provide a textual representation? What about a representation that you can feel and touch, isn't that a visualization? And is there perhaps more to visualization than just the pictures?
 

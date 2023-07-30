@@ -3,13 +3,13 @@ title: "Expressive Visualization, Updated Presidents Chart"
 description: "I used the Presidential Demographics chart in my talk at the Impact of Social Data Visualization panel at InfoVis 2007, and got some interesting responses to that. There is some interest in printing this out, so I have made a new version of the chart that is now also available as a PDF. Stephen Few used Joseph Berk's term \"interocular traumatic impact\" &ndash; a visualization that hits you between the eyes &ndash; to describe it. And this is exactly what visualization can do extremely effectively: visual communication, and not just of data."
 date: 2007-11-30 00:29:17
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/PresidentialDemographics.png
 outline: false
 ---
 
-# Expressive Visualization, Updated Presidents Chart
+<p><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="" width="602" height="288" border="0" /></p>
 
-<a href="/blog/expressive-visualization.html"><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="" width="602" height="288" border="0" /></a>
+# Expressive Visualization, Updated Presidents Chart
 
 I used the <a href="/Applications/PresidentialDemographics.html">Presidential Demographics</a> chart in my talk at the <a href="/blog/panel-social-data-visualization.html">Impact of Social Data Visualization</a> panel at <a href="/blog/infovis-2007-infovis-for-the-masses.html">InfoVis 2007</a>, and got some interesting responses to that. There is some interest in printing this out, so I have made a new version of the chart that is now also <a href="/blog/infovis-2007-infovis-for-the-masses.html">available as a PDF</a>. Stephen Few used Joseph Berk's term "interocular traumatic impact" – a visualization that hits you between the eyes – to describe it. And this is exactly what visualization can do extremely effectively: visual communication, and not just of data.
 

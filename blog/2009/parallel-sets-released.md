@@ -3,13 +3,13 @@ title: "Parallel Sets Released!"
 description: "After an initial commitment, an announcement, and a delay, we are proud to announce that the Parallel Sets application has been released! Mac OS X and Windows versions are ready to be downloaded, and the source code is available for your enlightenment and/or entertainment."
 date: 2009-06-01 17:45:10
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/parsets-release.png
 outline: false
 ---
 
-# Parallel Sets Released!
+<p><img src="https://media.eagereyes.org/media/2009/parsets-release.png" border="0" alt="Parallel Sets Release Party" width="574" height="301" /></p>
 
-<a href="http://eagereyes.org/blog/2009/parallel-sets-released.html"><img src="https://media.eagereyes.org/media/2009/parsets-release.png" border="0" alt="Parallel Sets Release Party" width="574" height="301" /></a>
+# Parallel Sets Released!
 
 After <a href="http://eagereyes.org/blog/2009/a-spike-of-interest-in-parallel-sets.html">an initial commitment</a>, <a href="http://eagereyes.org/blog/2009/parallel-sets-release-date.html">an announcement</a>, and <a href="http://eagereyes.org/blog/2009/parsets-delay.html">a delay</a>, we are proud to announce that the <a href="http://eagereyes.org/parallel-sets">Parallel Sets</a> application has been released! Mac OS X and Windows versions are ready to be downloaded, and the source code is available for your enlightenment and/or entertainment.
 

@@ -3,12 +3,12 @@ title: "The Year of InfoVis Theory"
 description: "2010 is The Year of Information Visualization Theory. Here's why."
 date: 2010-03-10 00:25:41
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/mappings.png
 ---
 
-# The Year of InfoVis Theory
+<p><img src="https://media.eagereyes.org/media/2010/mappings.png" width="537" height="178" alt="Mappings" /></p>
 
-<a href="http://eagereyes.org/blog/2010/the-year-of-infovis-theory"><img src="https://media.eagereyes.org/media/2010/mappings.png" width="537" height="178" alt="Mappings" /></a>
+# The Year of InfoVis Theory
 
 2010 is <em>The Year of Information Visualization Theory</em>. Here's why.
 

@@ -3,12 +3,12 @@ title: "Visualization is not Periodic, Period!"
 description: "Of all the sins committed against visualization on the Internet, the Periodic Table of Visualization Methods stands out as the most egregious. Its collection of actual visualization methods, structural diagrams, and feel-good business bullshit does not fit a structure that was devised to understand the world &ndash; and that is actually a very effective visualization in itself."
 date: 2009-05-19 17:19:30
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/periodictable.jpg
 ---
 
-# Visualization is not Periodic, Period!
+<p><img alt="Periodic Table of Visualization Methods" src="https://media.eagereyes.org/media/2009/periodictable.jpg" width="560" height="307" border="0" /></p>
 
-<a href="http://eagereyes.org/blog/2009/visualization-is-not-periodic.html"><img alt="Periodic Table of Visualization Methods" src="http://eagereyes.org/media/2009/periodictable.jpg" width="560" height="307" border="0" /></a>
+# Visualization is not Periodic, Period!
 
 Of all the sins committed against visualization on the Internet, the <a href="http://www.visual-literacy.org/periodic_table/periodic_table.html" rel="nofollow">Periodic Table of Visualization Methods</a> stands out as the most egregious. Its collection of actual visualization methods, structural diagrams, and feel-good business bullshit does not fit a structure that was devised to understand the world – and that is actually a very effective visualization in itself.
 
@@ -24,7 +24,7 @@ Most of these are under the <em>Information Visualization</em> category, while t
 
 ## Feel-Good Business Bullshit
 
-<img alt="Argument Slide, Force Field Diagram" src="http://eagereyes.org/media/2009/argumentslide.png" width="560" height="247" border="0" />
+<img alt="Argument Slide, Force Field Diagram" src="https://media.eagereyes.org/media/2009/argumentslide.png" width="560" height="247" border="0" />
 
 You need to fill the time at those seminars with something. When you're not teaching your clients to juggle, ride a unicycle, or fire-walk, you talk about the <em>Argument Slide </em>or the <em>Force Field Diagram</em>. It helps pass the time, and everybody enjoys sharing information in such an informal setting. And it's exactly the kind of stuff that keeps the Dilbert guy in business drawing his terrible cartoons. This is not visualization.
 

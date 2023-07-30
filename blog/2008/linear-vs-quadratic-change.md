@@ -3,19 +3,19 @@ title: "Linear vs. Quadratic Change"
 description: "One of the most common mistakes in chart design is to scale an area by two sides at the same time, producing a quadratic effect for a linear change. That overstates the larger numbers and produces a badly skewed chart. A little care and some basic high-school math can help avoid the problem."
 date: 2008-09-19 11:12:16
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png
 outline: false
 ---
 
-# Linear vs. Quadratic Change
+<p><img src="https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png" border="0" alt="Linear vs. Quadratic" /></p>
 
-<p class="img><a href="http://eagereyes.org/basics/Linear-vs-Quadratic-Change.html"><img src="https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png" border="0" alt="Linear vs. Quadratic" /></a></p>
+# Linear vs. Quadratic Change
 
 One of the most common mistakes in chart design is to scale an area by two sides at the same time, producing a quadratic effect for a linear change. That overstates the larger numbers and produces a badly skewed chart. A little care and some basic high-school math can help avoid the problem.
 
 The following detail from a information graphic produced by Princeton's <a href="http://www.princeton.edu/~ina/infographics/index.html">International Networks Archive</a> illustrates the problem (the numbers are presumably from 2002):
 
-<p class="img" style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/FastFood.jpg" border="0" alt="Fast Food Chains" /></p>
+<p><img src="https://media.eagereyes.org/media/2008/FastFood.jpg" border="0" alt="Fast Food Chains" /></p>
 
 Comparing Starbucks ($4.1bn) and KFC ($8.2bn), the problem becomes clear: the difference is a factor of two, but the KFC logo has four times the area of the Starbucks logo (even more because one is square and the other round). This can be seen in a number of the graphics on that website, though they also have some where they scale correctly.
 

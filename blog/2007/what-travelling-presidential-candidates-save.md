@@ -3,13 +3,13 @@ title: "What Travelling Presidential Candidates Save"
 description: "An anonymous commenter asked  what the savings were of the Travelling Presidential Candidate Map (ZIPTPCMap)  vs. the ZIPScribbleMap. That was not something I had even thought about, and so the result was quite surprising."
 date: 2007-02-08 00:50:15
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png
 outline: false
 ---
 
-# What Travelling Presidential Candidates Save
+<p><img title="ZIPScribbleMap vs. TPCMap" src="https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png" alt="ZIPScribbleMap vs. TPCMap" width="523" height="198" /></p>
 
-<a href="http://eagereyes.org/blog/what-travelling-presidential-candidates-save.html"><img title="ZIPScribbleMap vs. TPCMap" src="http://eagereyes.org/media/attachments/ZIPScribblevsTPC.png" alt="ZIPScribbleMap vs. TPCMap" width="523" height="198" /></a>
+# What Travelling Presidential Candidates Save
 
 An anonymous commenter <a href="http://eagereyes.org/Applications/ZIPTPCMap.html#comment-203">asked</a> what the savings were of the Travelling Presidential Candidate Map (<a href="http://eagereyes.org/Applications/ZIPTPCMap.html">ZIPTPCMap</a>) vs. the <a href="http://eagereyes.org/Applications/ZIPScribbleMap.html">ZIPScribbleMap</a>. That was not something I had even thought about, and so the result was quite surprising.
 

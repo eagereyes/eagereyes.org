@@ -3,13 +3,13 @@ title: "VisWeek Preview: Visualization on the Web Workshop"
 description: "The workshop Putting Visualization on the Web will be held on Sunday, October 11, from 2pm to 5:30pm at VisWeek 2009. If you are there on Sunday, please join us for discussions on everything related to visualization, blogging, web-based visualization, and a whole lot more. You do not have to register for the workshop separately, and you are welcome whether you submitted a position paper or not."
 date: 2009-10-05 20:34:24
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/redpin.jpg
 outline: false
 ---
 
-# VisWeek Preview: Visualization on the Web Workshop
+<p><img src="https://media.eagereyes.org/media/2009/redpin.jpg" border="0" alt="Grayscale map with red pin" width="560" height="326" /></p>
 
-<a href="http://eagereyes.org/blog/2009/visweek-visualization-on-the-web-workshop"><img src="https://media.eagereyes.org/media/2009/redpin.jpg" border="0" alt="Grayscale map with red pin" width="560" height="326" /></a>
+# VisWeek Preview: Visualization on the Web Workshop
 
 The workshop <em><a href="http://eagereyes.org/viswebworkshop.html">Putting Visualization on the Web</a></em> will be held on Sunday, October 11, from 2pm to 5:30pm at <a href="http://vis.computer.org/VisWeek2009/">VisWeek 2009</a>. If you are there on Sunday, please join us for discussions on everything related to visualization, blogging, web-based visualization, and a whole lot more. You do not have to register for the workshop separately, and you are welcome whether you submitted a position paper or not.
 <!--break-->

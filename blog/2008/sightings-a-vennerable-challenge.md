@@ -3,13 +3,13 @@ title: "Sightings: A Vennerable Challenge"
 description: "Venn diagrams are a strange mix of structure and data visualization. In my latest Sightings column (PDF) for American Scientist, I use the example of a visualization challenge from last year to discuss different ways to show the same data about diagnosis techniques for autism in young children. This also sparked the launch of a new site feature: Ask Eagereyes."
 date: 2008-12-21 22:01:24
 tags: Sightings
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg
 outline: false
 ---
 
-# Sightings: A Vennerable Challenge
+<p><img src="https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg" alt="Sightings: A Vennerable Challenge" width="452" height="300" border="0" /></p>
 
-<a href="http://eagereyes.org/blog/2008/sightings-a-vennerable-challenge.html"><img src="https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg" alt="Sightings: A Vennerable Challenge" width="452" height="300" border="0" /></a>
+# Sightings: A Vennerable Challenge
 
 Venn diagrams are a strange mix of structure and data visualization. In my latest <a href="http://www.americanscientist.org/issues/pub/2009/1/a-vennerable-challenge"><em>Sightings</em> column</a> (<a href="http://amsciadmin.eresources.com/libraries/documents/200812151345447084-2009-01Kosara-Sightings.pdf">PDF</a>) for <em><a href="http://www.americanscientist.org/">American Scientist</a></em>, I use the example of a visualization challenge from last year to discuss different ways to show the same data about diagnosis techniques for autism in young children. This also sparked the launch of a new site feature: <a href="http://eagereyes.org/ask"><em>Ask Eagereyes</em></a>.
 

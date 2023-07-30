@@ -3,7 +3,7 @@ title: "The Ethics of Business Presentations"
 description: "I saw a presentation about business dashboard software by a guy from MicroStrategy yesterday, and started to wonder about the ethics of attribution in the business world. He showed a demo of a \"bubble chart\" that happened to be about fertility rate and life expectancy in different parts of the world over the last 20 years &ndash; in other words, Hans Rosling's example and visualization. There was no attribution, he made it sound like he had come up with that himself."
 date: 2008-11-21 08:29:43
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

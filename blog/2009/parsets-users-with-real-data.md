@@ -3,7 +3,7 @@ title: "Looking for Parallel Sets Users with Real Data"
 description: "We are looking for people who use Parallel Sets with real-world data and who would be interested in taking part in writing up a case study for the InfoVis Discovery Exhibition. You don't have to share your data, and the images can be anonymized, but it has to be real data (and you have to be able to describe what it is and what you learned in a way that is not too general)."
 date: 2009-07-07 07:00:09
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

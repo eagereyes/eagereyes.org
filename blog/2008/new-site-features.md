@@ -3,7 +3,7 @@ title: "New CMS, Users, More Coming"
 description: "This website just got a facelift and a few new features. I transitioned it to Drupal 6, and in the process redid the theme from scratch. While the changes are not huge, it does look a bit more modern. There are also a few new features to facilitate commenting and discussion."
 date: 2008-07-14 15:21:21
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # New CMS, Users, More Coming

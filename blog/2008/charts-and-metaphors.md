@@ -3,13 +3,13 @@ title: "Charts and Metaphors"
 description: "What do pies, waffles, and donuts have in common? They're charts, or rather metaphors for popular charts. Why do we need to name charts after food? And what can we learn from this for getting the idea of visualization across more effectively?"
 date: 2008-12-08 23:21:46
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2008/chocolatepiechart.jpg
 outline: false
 ---
 
-# Charts and Metaphors
+<p><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart (by Mary &amp; Matt)" width="490" height="320" border="0" /></p>
 
-<a href="http://eagereyes.org/blog/2008/charts-and-metaphors.html"><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart (by Mary &amp; Matt)" width="490" height="320" border="0" /></a>
+# Charts and Metaphors
 
 What do pies, waffles, and donuts have in common? They're charts, or rather metaphors for popular charts. Why do we need to name charts after food? And what can we learn from this for getting the idea of visualization across more effectively?
 

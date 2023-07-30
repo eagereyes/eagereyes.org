@@ -3,13 +3,13 @@ title: "A Spike of Interest in Parallel Sets"
 description: "A few days ago, Michael Blastland published a very interesting little article on the BBC Magazine website, in which he showed an image of Parallel Sets. He also mentioned my name and even though there was no link or email address, I have seen a spike in traffic on this website and my university page, and have gotten a barrage of emails from people who want to try it out. Here is some information on the technique and a plan for getting the tool out into the world."
 date: 2009-03-15 22:21:40
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/parsets-teaser.png
 outline: false
 ---
 
-# A Spike of Interest in Parallel Sets
+<p><img src="https://media.eagereyes.org/media/2009/parsets-teaser.png" border="0" alt="Parallel Sets Teaser" width="574" height="301" /></p>
 
-<a href="http://eagereyes.org/blog/2009/a-spike-of-interest-in-parallel-sets.html"><img src="https://media.eagereyes.org/media/2009/parsets-teaser.png" border="0" alt="Parallel Sets Teaser" width="574" height="301" /></a>
+# A Spike of Interest in Parallel Sets
 
 A few days ago, Michael Blastland published a <a href="http://news.bbc.co.uk/2/hi/uk_news/magazine/7937382.stm">very interesting little article</a> on the BBC Magazine website, in which he showed an image of <em>Parallel Sets</em>. He also mentioned my name and even though there was no link or email address, I have seen a spike in traffic on this website and my university page, and have gotten a barrage of emails from people who want to try it out. Here is some information on the technique and a plan for getting the tool out into the world.
 

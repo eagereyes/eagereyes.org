@@ -3,13 +3,13 @@ title: "Visualization Sets Information Free"
 description: "Enormous amounts of information are technically freely available, but are hard to access in practice. A lot of that data comes from data collection funded by taxpayers, or from data that needs to be reported for legal reasons. While much of that data has been lying around on the Internet for some time, only recently have people started building tools that make it easy (and often even fun) to play with it. Even though the types of data are very different, all these tools have one thing in common: they are primarily visual."
 date: 2007-04-04 21:43:42
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/flowerpoint6.gif
 outline: false
 ---
 
-# Visualization Sets Information Free
+<p><img title="FlowerPoint - gapminder.org" src="https://media.eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376" border="0" /></p>
 
-<a href="/blog/visualization-sets-information-free.html"><img title="FlowerPoint - gapminder.org" src="http://eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376" border="0" /></a>
+# Visualization Sets Information Free
 
 Enormous amounts of information are technically freely available, but are hard to access in practice. A lot of that data comes from data collection funded by taxpayers, or from data that needs to be reported for legal reasons. While much of that data has been lying around on the Internet for some time, only recently have people started building tools that make it easy (and often even fun) to play with it. Even though the types of data are very different, all these tools have one thing in common: they are primarily visual.
 
@@ -21,9 +21,7 @@ What is also interesting is that the primary focus of these websites is not even
 
 The much more general social data analysis/visualization websites <a href="http://www.swivel.com/">Swivel</a> and <a href="http://many-eyes.com/">Many Eyes</a> are built around very similar ideas: use some visual tools to explore your own data, or data that is available from various sources on the web. Being able to use these tools, users are stimulated to dig deeper, to ask new questions, and to demand more data. This is quite subversive, actually, even if it may start as a cute little toy. Over time, people will realize how much more accessible information is, and be aware of a lot more information than they would otherwise be.
 
-In his article <em><a href="http://hybrid.ucsc.edu/SocialComputingLab/Publications/wsack-infoaesthetics-illustrated.doc">Aesthetics of Information Visualization</a></em>, Warren Sack argues that we need to look at the types of governance a visualization supports. Making information available (because an agency or company is required by law, for example) is one thing; making that data simple and fun to use and explore is quite anot
-<script type="text/javascript" src="http://eagereyes.org/sites/all/modules/tinytinymce/tinymce/jscripts/tiny_mce/themes/advanced/langs/en.js?X"></script>
-her. The amount of scrutiny that is possible now makes a huge difference, and undoubtedly will make some people quite nervous.
+In his article <em><a href="http://hybrid.ucsc.edu/SocialComputingLab/Publications/wsack-infoaesthetics-illustrated.doc">Aesthetics of Information Visualization</a></em>, Warren Sack argues that we need to look at the types of governance a visualization supports. Making information available (because an agency or company is required by law, for example) is one thing; making that data simple and fun to use and explore is quite another. The amount of scrutiny that is possible now makes a huge difference, and undoubtedly will make some people quite nervous.
 
 <a href="http://en.wikipedia.org/wiki/Information_wants_to_be_free">Information wants to be free</a>, and while the cages have been unlocked on some data for some time, visualization provides the wings for information to really enjoy its freedom.
 

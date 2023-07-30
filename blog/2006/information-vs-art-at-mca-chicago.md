@@ -3,7 +3,7 @@ title: "Information vs. Art at MCA Chicago"
 description: "The Museum of Contemporary Art  (MCA) in Chicago currently has an exhibit titled Massive Change: The Future of Global Design  (Sep 16 to Dec 31, 2006), which talks about the use of resources, and shows efficient designs for cars, buildings that produce more energy than they consume, etc. The problem: it&#39;s not art. While the exhibit is certainly informative and important, it does not fit into an art museum."
 date: 2006-12-26 23:18:19
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

@@ -3,13 +3,13 @@ title: "Follow Me on Twitter!"
 description: "If you enjoy reading my website, why not follow me on Twitter, too? So click the birdie above to get to my Twitter page!"
 date: 2010-08-02 20:44:26
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2010/bird.png
 outline: false
 ---
 
-# Follow Me on Twitter!
+<p><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384" /></p>
 
-<a href="http://twitter.com/EagerEyes" target="_blank"><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384" /></a>
+# Follow Me on Twitter!
 
 If you enjoy reading my website, why not <a href="http://twitter.com/eagereyes">follow me on Twitter</a>, too? So click the birdie above to get to my Twitter page!
 

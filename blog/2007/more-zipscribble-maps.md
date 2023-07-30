@@ -3,13 +3,13 @@ title: "More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE"
 description: "The family of ZIPScribble Maps is growing. This update adds maps for a dozen countries, most of them European."
 date: 2007-01-07 21:42:57
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg
 outline: false
 ---
 
-# More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE
+<p><img title="More ZIPScribble Maps" src="https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg" alt="More ZIPScribble Maps" width="600" height="260" /></p>
 
-<a href="http://eagereyes.org/Applications/MoreZIPScribbleMaps.html"><img title="More ZIPScribble Maps" src="http://eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg" alt="More ZIPScribble Maps" width="600" height="260" border="0" /></a>
+# More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE
 
 The family of <a href="http://eagereyes.org/topics/ZIPScribbleMaps">ZIPScribble Maps</a> is growing. This update adds maps for a dozen countries, most of them European.
 

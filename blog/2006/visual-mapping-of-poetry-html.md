@@ -3,7 +3,7 @@ title: "The Visual Mapping of Poetry"
 description: "Visualization people often talk about mapping. Mapping is the process that translates data into a visual representation, and the main challenge in the visualization of abstract data. A good mapping is one that leads to insights into the data, while a bad mapping does not. It is important, however, to keep in mind what the purpose of the depiction is, or one runs the risk of applying the wrong standards."
 date: 2006-12-02 12:11:18
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 
@@ -47,7 +47,7 @@ _Posted by <a href="/about">Robert Kosara</a> on December 02, 2006_
 ## Comments
 
 Enrico Bertini says…
->	Hi Robert, I found your response interesting. I agree with you, to some extent. I've posted a <a href="http://diuf.unifr.ch/people/bertinie/visuale/2006/12/visual_poetry_part_2_must_visu.html">response to your response in Visuale.
+>	Hi Robert, I found your response interesting. I agree with you, to some extent. I've posted a <a href="http://diuf.unifr.ch/people/bertinie/visuale/2006/12/visual_poetry_part_2_must_visu.html">response to your response in Visuale</a>.
 
 Robert Kosara says…
 >	Great reply! And some good points to think about ...

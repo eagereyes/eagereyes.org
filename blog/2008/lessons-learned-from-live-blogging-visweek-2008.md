@@ -3,7 +3,7 @@ title: "Lessons Learned from Live-Blogging VisWeek 2008"
 description: "VisWeek 2008 was an interesting set of conferences again. The live-blog is now archived, and here are a few thoughts on blogging a conference. I had a long summary written up, but it was mostly redundant with the live-blog, so it makes more sense to go there. I will write up further things at greater length over the next few weeks."
 date: 2008-10-27 23:10:43
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

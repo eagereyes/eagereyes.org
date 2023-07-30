@@ -3,13 +3,13 @@ title: "Putting Visualization on the Web – at VisWeek 2009"
 description: "A while ago, I complained about the state of visualization on the web. To improve things, I am co-organizing a workshop at VisWeek in October to discuss the status quo, potential problems, and to find new ways to get visualization people to make their mark online. Whether you have a blog or website, don't have a blog or website, plan on starting one, are afraid of starting one, or think this whole web thing is just a fad &ndash; we want to hear from you!"
 date: 2009-06-26 06:25:59
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2009/VisWebTeaser.jpg
 outline: false
 ---
 
-# Putting Visualization on the Web – at VisWeek 2009
+<p><img src="https://media.eagereyes.org/media/2009/VisWebTeaser.jpg" border="0" alt="Putting Visualization on the Web" width="560" height="374" /></p>
 
-<a href="http://eagereyes.org/blog/2009/putting-visualization-on-the-web-visweek"><img src="https://media.eagereyes.org/media/2009/VisWebTeaser.jpg" border="0" alt="Putting Visualization on the Web" width="560" height="374" /></a>
+# Putting Visualization on the Web – at VisWeek 2009
 
 A while ago, I <a href="http://eagereyes.org/blog/2009/a-better-vis-web-community.html">complained about the state of visualization on the web</a>. To improve things, I am co-organizing a workshop at <a href="http://vis.computer.org/VisWeek2009/">VisWeek</a> in October to discuss the status quo, potential problems, and to find new ways to get visualization people to make their mark online. Whether you have a blog or website, don't have a blog or website, plan on starting one, are afraid of starting one, or think this whole web thing is just a fad &ndash; we want to hear from you!
 

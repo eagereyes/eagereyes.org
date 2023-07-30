@@ -3,7 +3,7 @@ title: "Presidential Demographics as Open-Source, More to Come"
 description: "The EagerEyes Labs' mission is to provide tools to gain insight into relevant data to everybody. As part of that, the plan has always been to release the source code. The first piece of code is now published, and more is coming."
 date: 2008-08-31 21:10:54
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

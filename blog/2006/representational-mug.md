@@ -3,13 +3,13 @@ title: "Representational Mug"
 description: ""
 date: 2006-11-08 09:50:47
 tags: 
-featuredImage:
+featuredImage: http://eagereyes.org/media/attachments/Guggenheim_Mug.jpg
 outline: false
 ---
 
-# Representational Mug
+<p><img title="Representational Mug" src="http://eagereyes.org/media/attachments/Guggenheim_Mug.jpg" alt="Representational Mug" width="500" height="429" /></p>
 
-<a href="/blog/representational-mug.html"><img title="Representational Mug" src="http://eagereyes.org/media/attachments/Guggenheim_Mug.jpg" alt="Representational Mug" width="500" height="429" /></a>
+# Representational Mug
 
 This was bought in the store of the <a href="http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum">Guggenheim Museum in New York</a>.
 

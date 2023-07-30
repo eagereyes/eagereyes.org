@@ -3,13 +3,13 @@ title: "Two Years of EagerEyes"
 description: "This site turns two today. There have been frantic periods of posting and periods of silence. There have been times when I thought nobody would read this and times when I had more than 50,000 visitors in a day. Here is a bit of history, some thoughts on what the site has accomplished, and what I am planning for the future."
 date: 2008-09-30 23:02:57
 tags: Meta/Site News
-featuredImage:
+featuredImage: http://eagereyes.org/media/2008/MrEagerEyes.jpg
 outline: false
 ---
 
-# Two Years of EagerEyes
+<p><img class="aligncenter" alt="Mr. EagerEyes" src="http://eagereyes.org/media/2008/MrEagerEyes.jpg" border="0" /></p>
 
-<a href="http://eagereyes.org/blog/2008/two-years-of-eagereyes.html"><img class="aligncenter" alt="Mr. EagerEyes" src="http://eagereyes.org/media/2008/MrEagerEyes.jpg" border="0" /></a>
+# Two Years of EagerEyes
 
 This site turns two today. There have been frantic periods of posting and periods of silence. There have been times when I thought nobody would read this and times when I had more than 50,000 visitors in a day. Here is a bit of history, some thoughts on what the site has accomplished, and what I am planning for the future.
 

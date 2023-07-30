@@ -3,12 +3,12 @@ title: "The Unbearable Subjectivity of Visualization"
 description: "While reading Jarke van Wijk's Views on Visualization(ref), I could not help but notice the negative references he makes to the subjectivity of visualization. A visualization science on par with statistics would certainly require the elimination of any and all subjectivity. I do not think that visualization is such a science, or that it being that is even all that desirable."
 date: 2008-01-17 20:48:13
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/attachments/vis-is-communication.png
 ---
 
-# The Unbearable Subjectivity of Visualization
+<p><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230" /></p>
 
-<a href="/Theory/SubjectivityOfVisualization.html"><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230" /></a>
+# The Unbearable Subjectivity of Visualization
 
 While reading Jarke van Wijk's <em>Views on Visualization</em>, I could not help but notice the negative references he makes to the subjectivity of visualization. A visualization science on par with statistics would certainly require the elimination of any and all subjectivity. I do not think that visualization is such a science, or that it being that is even all that desirable.
 
