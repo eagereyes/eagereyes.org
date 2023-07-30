@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg" width="521" height="648" /></p>
+
 # New Edition of Designing the User Interface
 
 The 6th edition of <em><a href="https://www.pearsonhighered.com/program/Shneiderman-Designing-the-User-Interface-Strategies-for-Effective-Human-Computer-Interaction-6th-Edition/PGM327860.html">Designing the User Interface</a></em> just came out. This is one of the central books in HCI. This edition is also notable because it adds a lot of fresh blood to the list of authors.

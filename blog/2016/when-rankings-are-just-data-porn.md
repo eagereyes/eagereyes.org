@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg" width="950" height="475" /></p>
+
 # When Rankings Are Just Data Porn
 
 Rankings are a common way of talking about data: who made the most money, who won the most medals, etc. But they hide issues in the underlying data. Is the difference between first and second meaningful or just noise? Here is a data video that nicely demonstrates the problem.

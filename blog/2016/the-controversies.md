@@ -6,6 +6,8 @@ tags: Meta/Site News, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/controversies-teaser.jpg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/controversies-teaser.jpg" width="720" height="500" /></p>
+
 # The Controversies
 
 I have opinions. I state those opinions. Not everybody likes my opinions. And sometimes it's not just a matter of opinion, but also of tone and approach. Criticism can be a useful tool or it can be an angry attack. Figuring out which is which isn't always easy while you're doing it.

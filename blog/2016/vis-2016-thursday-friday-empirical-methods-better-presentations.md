@@ -6,6 +6,8 @@ tags: conference, IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4512.jpg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4512.jpg" width="720" height="540" /></p>
+
 # VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations
 
 A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday.
@@ -14,9 +16,7 @@ A panel on empirical methods, papers on time series, and perhaps the best capsto
 
 Somewhat less controversial than the death of SciVis was the topic of this panel, <em>How can we improve empirical research on understanding visual information?</em> The panelists mostly talked about two broad topics: statistics and vision science.
 
-Steve Haroz started by talking about study design and made the point that it's okay during a pilot to p-hack to find out what conditions to use for the actual study. This led to some discussion on Twitter.
-
-https://twitter.com/AmeliaMN/status/791653444704735232
+Steve Haroz started by talking about study design and made the point that it's okay during a pilot to p-hack to find out what conditions to use for the actual study. This led to [some discussion on Twitter](https://twitter.com/AmeliaMN/status/791653444704735232).
 
 Ron Rensink showed some of his recent work, which demonstrates that two-dimensional encodings (like x and y on a scatterplot) can also be done with just one space dimension and the other being color or size. That is quite surprising, and I'm curious to read his papers to learn more.
 

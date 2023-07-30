@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-the-Parks-by-RJ-Andrews_10.jpeg" width="700" height="394" /></p>
+
 # RJ Andrews' Profiling the Parks
 
 <a href="http://www.infowetrust.com/">RJ Andrews</a> has created <a href="https://www.youtube.com/watch?v=q3zt7BXEMPQ">a great little video about the National Parks in the U.S.</a> Have you ever thought about how the different parks compare? Which one is wider, which one is deeper, which one's at higher or lower elevation?

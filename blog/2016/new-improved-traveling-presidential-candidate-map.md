@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png" width="825" height="510" /></p>
+
 # New, Improved Traveling Presidential Candidate Map
 
 Many years ago, when this website was still young, I created <a href="https://eagereyes.org/zipscribble-maps/united-states">a map of all the ZIP codes in the U.S. in numeric order</a> and then wondered about the shortest path through all of them. I dubbed that <a href="https://eagereyes.org/zipscribble-maps/travelling-presidential-candidate-map"><em>The Traveling Presidential Candidate Map</em></a>. Here is an improved version that's interactive and much more efficient than the old one.

@@ -24,7 +24,7 @@ Just as before, I'll just let Ben explain this one. I can't top his puns, anyway
 >	
 >	I wish I could offer you a slice... Ben
 
-<img class="aligncenter size-full wp-image-9711" src="https://eagereyes.org/wp-content/uploads/2016/10/treepie1.jpg" alt="treepie1" width="1440" height="1080" />
+<img class="aligncenter size-full wp-image-9711" src="https://media.eagereyes.org/wp-content/uploads/2016/10/treepie1.jpg" alt="treepie1" width="1440" height="1080" />
 
 There's actually quite a bit of pie-engineering that goes into this sort of pie to keep it from drying out.  Since the pie is round and a treemap square (or at least rectangular), I had suggested he try a Voronoi treemap – maybe a project for the future?
 

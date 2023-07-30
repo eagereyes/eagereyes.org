@@ -13,17 +13,17 @@ Would you make a bar chart where the length of the bar doesn't actually scale wi
 
 Look at this map from Wikipedia that shows electoral votes on the labels and who won each state. Tell me which candidate won the 2012 election. Don't go with what you know, use the map that is supposed to show you the data and tell me: who won?
 
-<img class="aligncenter size-full wp-image-9774" src="https://eagereyes.org/wp-content/uploads/2016/11/ElectoralCollege2012-filled.png" alt="electoralcollege2012-filled" width="1280" height="744" />
+<img class="aligncenter size-full wp-image-9774" src="https://media.eagereyes.org/wp-content/uploads/2016/11/ElectoralCollege2012-filled.png" alt="electoralcollege2012-filled" width="1280" height="744" />
 
 &nbsp;
 
 Let's try something different. Here's a bar chart of the number of electoral votes for each state. Like with the map, the <em>label</em> shows electoral votes, the bar's <em>length</em> is the state's area. Can you tell me which state has the most electoral votes? How many more does Texas have than Montana?
 
-<img class="aligncenter size-full wp-image-9772" src="https://eagereyes.org/wp-content/uploads/2016/11/states-alpha.png" alt="states-alpha" width="1788" height="1088" />
+<img class="aligncenter size-full wp-image-9772" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-alpha.png" alt="states-alpha" width="1788" height="1088" />
 
 Not helpful? Of course, they were sorted alphabetically. Silly me! Let's sort by area instead. Now, which one has the most votes?
 
-<img class="aligncenter size-full wp-image-9773" src="https://eagereyes.org/wp-content/uploads/2016/11/states-sorted.png" alt="states-sorted" width="1788" height="1088" />
+<img class="aligncenter size-full wp-image-9773" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-sorted.png" alt="states-sorted" width="1788" height="1088" />
 
 That is exactly what happens with a map. The map shows you area: rocks, farmlands, pastures, prairie, etc. It does not show you people. It does not show you the immense difference in population density even between states – and it's much more severe between smaller areas, like ZIP codes or counties. You can put all the labels on it that you want, a <a href="https://en.wikipedia.org/wiki/Choropleth_map">choropleth map</a> will always show you area.
 

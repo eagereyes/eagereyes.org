@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/scrollytelling-teaser.png
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/scrollytelling-teaser.png" width="825" height="510" /></p>
+
 # The Scrollytelling Scourge
 
 Scrollytelling is a common way of interacting with stories these days. Scroll down and the story unfolds! Except it's often awkward, brittle, and gets in the way.
@@ -32,7 +34,7 @@ Except it doesn't work. Let me count the ways it goes wrong.
 
 What's the alternative? Why, a stepper of course!
 
-<img class="aligncenter size-full wp-image-9285" src="https://eagereyes.org/wp-content/uploads/2016/05/stepper.png" alt="stepper" width="1320" height="200" />
+<img class="aligncenter size-full wp-image-9285" src="https://media.eagereyes.org/wp-content/uploads/2016/05/stepper.png" alt="stepper" width="1320" height="200" />
 
 This one's from <em><a href="http://www.nytimes.com/interactive/2013/04/16/science/disease-overlap-in-elderly.html">For the Elderly, Diseases That Overlap</a></em>. It's nice and straight-forward: you know many steps there are and where you are in the sequence. Just click the <em>Next</em> button to go to the next one, or any of the numbers to jump around. Animation happens just the same, no scrollyanything needed. But the navigation doesn't get in the way and doesn't distract.
 

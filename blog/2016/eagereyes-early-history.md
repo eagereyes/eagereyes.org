@@ -6,6 +6,8 @@ tags: A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg" width="720" height="500" /></p>
+
 # Eagereyes' Early History
 
 Just ahead of the first decade of this website's history clicking over, here's a look back at where things started. Some of those postings were terrible, some of them were quite prescient or are even still popular.

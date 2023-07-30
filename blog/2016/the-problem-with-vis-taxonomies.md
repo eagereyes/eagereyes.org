@@ -6,6 +6,9 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg" width="720" height="500" /></p>
+
+
 # The Problem with Vis Taxonomies
 
 Most taxonomies in visualization and HCI are useless. They carve up the space, but they don’t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones.

@@ -7,19 +7,21 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-tea
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png" width="825" height="510" /></p>
+
 # The Bits Are Rotting in the State of Data Journalism
 
 News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today.
 
 The screenshot above is from <a href="http://www.washingtonpost.com/wp-srv/special/politics/state-vs-federal-exchanges/">this 2013 piece about the "Obamacare" healthcare exchanges</a>. This is what it should look like:
 
-<img class="aligncenter size-full wp-image-9437" src="https://eagereyes.org/wp-content/uploads/2016/07/healthcare-exchanges.png" alt="healthcare-exchanges" width="992" height="680" />
+<img class="aligncenter size-full wp-image-9437" src="https://media.eagereyes.org/wp-content/uploads/2016/07/healthcare-exchanges.png" alt="healthcare-exchanges" width="992" height="680" />
 
 The same has happened to a number of other pieces at the Washington Post, like <a href="http://www.washingtonpost.com/wp-srv/special/nation/medical-helicopters/fatal-crashes.html">this piece about helicopter crashes</a> (CSS broken, Flash app can't load its data), <a href="http://apps.washingtonpost.com/investigative/homicides/"><em>Homicides in the District</em></a> (CSS broken, but still functional if hard to use), and <a href="http://www.washingtonpost.com/wp-srv/special/health/healthy-life-expectancy/"><em>How long will we live, and how well</em></a> (broken CSS makes tooltip unusable, country selection no longer works).
 
 And it's not just the Washington Post. It seems that the <a href="https://en.wikipedia.org/wiki/Software_rot">bit rot</a> has befallen many of the New York Times' Flash pieces as well. Where once there was the fantastic <a href="http://www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html"><em>Jobless Rate for People Like You</em></a>, you're now just staring at a big hole.
 
-<img class="aligncenter size-full wp-image-9438" src="https://eagereyes.org/wp-content/uploads/2016/07/jobless-rate-broken.png" alt="jobless-rate-broken" width="1940" height="1406" />
+<img class="aligncenter size-full wp-image-9438" src="https://media.eagereyes.org/wp-content/uploads/2016/07/jobless-rate-broken.png" alt="jobless-rate-broken" width="1940" height="1406" />
 
 The same is true for another one of my favorites, Amanda Cox's amazing <em><a href="http://www.nytimes.com/interactive/2009/07/02/business/economy/20090705-cycles-graphic.html">Turning A Corner?</a></em> I did not check more because I could not deal with the sadness of seeing all these beautiful pieces disappearing from the web.
 

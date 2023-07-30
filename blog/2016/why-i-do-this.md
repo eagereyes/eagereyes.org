@@ -6,6 +6,8 @@ tags: Meta/Site News, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/why-teaser.jpg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/why-teaser.jpg" width="720" height="540" /></p>
+
 # Why I Do This
 
 Why spend countless hours writing a blog like this? What do I get out of it? What do I hope to accomplish? What is the purpose?

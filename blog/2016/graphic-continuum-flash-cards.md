@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-cards.jpg" width="720" height="540" /></p>
+
 # Graphic Continuum Flash Cards
 
 <a href="http://policyviz.com/">Jon Schwabish</a> and<a href="http://www.datavizcatalogue.com"> Severino Ribecca</a> have turned their <a href="http://policyviz.com/graphic-continuum/">Graphic Continuum poster</a> into a set of cards. They're a good way to expand your visual vocabulary and find new ideas for how to represent your data.

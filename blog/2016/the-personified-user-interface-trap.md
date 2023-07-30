@@ -6,6 +6,8 @@ tags: history
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png" width="825" height="510" /></p>
+
 # The Personified User Interface Trap
 
 Personified user interfaces, like chat bots or agents, are the new thing once again. But despite advances in artificial intelligence, they still have many issues and drawbacks compared to direct-manipulation interfaces. There was a debate around these interfaces in the 1990s, and it seems to be bound to repeat itself.

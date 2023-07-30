@@ -3,7 +3,7 @@ title: "The Winding Path of Data Analysis"
 description: "Data analysis is not a straight-forward process: you try out lots of things, you go down a path that seems promising but then turns out to not work out, and suddenly you hit upon the thing you were looking for."
 date: 2016-10-03 19:17:55
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/it_is_obvious.png
 outline: false
 ---
 
@@ -13,7 +13,7 @@ Data analysis is not a straight-forward process: you try out lots of things, you
 
 <a href="http://abstrusegoose.com/230">This comic</a> is about mathematical proofs, but what hit me recently is how well it also applies to data analysis.
 
-<img class="aligncenter size-full wp-image-9683" src="https://eagereyes.org/wp-content/uploads/2016/10/it_is_obvious.png" alt="it_is_obvious" width="744" height="616" />
+<img class="aligncenter size-full wp-image-9683" src="https://media.eagereyes.org/wp-content/uploads/2016/10/it_is_obvious.png" alt="it_is_obvious" width="744" height="616" />
 
 It's not just the many false starts, it also nicely shows the difference between analysis and presentation: analysis is where you make all the mistakes, but nobody cares about those. When you present your results or your insights, you show the logical, straight path. You want to present a sequence of steps that make sense, no matter whether you actually followed them during your analysis or not.
 

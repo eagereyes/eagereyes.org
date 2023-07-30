@@ -46,7 +46,7 @@ Understanding the impact of publications is important for large research institu
 
 <em>Classic Techniques in New Domains: An Alternative Recipe</em> by Megan Monroe dealt with unusual data: recipes. By creating a sort of flow chart for a recipe, they show prep times to help less-organized cooks not lose their minds.
 
-<em>Clarifying hypotheses by sketching data</em> by Mariana Marabou,  Alan Blackwell, Advait Sardar,  and Martin Spott presented a simple tool for sketching data and showing it in an "uncertain" way to think through an analysis before having the actual data available.
+<em>Clarifying hypotheses by sketching data</em> by Mariana Marabou, Alan Blackwell,Advait Sardar, and Martin Spott presented a simple tool for sketching data and showing it in an "uncertain" way to think through an analysis before having the actual data available.
 
 <em>CompaRing: Reducing Costs of Visual Comparison</em> by Christian Tominski is a neat idea for comparing elements of a visualization, in particular a map. It lays out the different objects around the one you're comparing with, and shows where they go. You can <a href="http://www.informatik.uni-rostock.de/~ct/software/CompaRing/">play with it online yourself</a>.
 

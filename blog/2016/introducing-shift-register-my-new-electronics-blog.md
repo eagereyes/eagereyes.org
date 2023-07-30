@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jp
 outline: false
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg" width="1024" height="695" /></p>
+
 # Introducing Shift Register, My New Electronics Blog
 
 I have started a new blog, which I call <a href="https://shift-register.org/">shift register</a>. It's about electronics projects I'm doing, mostly building circuits on breadboards and playing with Arduinos.

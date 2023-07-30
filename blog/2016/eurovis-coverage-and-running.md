@@ -6,6 +6,9 @@ tags: eurovis
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/groningen-running.jpg
 ---
 
+<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/groningen-running.jpg" width="825" height="510" /></p>
+
+
 # EuroVis Coverage and Running
 
 For people not attending <a href="http://www.cs.rug.nl/jbi/eurovis2016/">EuroVis</a>: I will be tweeting from there next week and write postings here, like I have <a href="https://eagereyes.org/tag/eurovis">in the previous years</a>. For people who will be attending: let's meet up and run!
