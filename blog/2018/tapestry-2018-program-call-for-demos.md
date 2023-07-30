@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_0
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png" width="1283" height="710" /></p>
+
 # Tapestry 2018 Program, Call for Demos
 
 The Tapestry 2018 program is complete, including the three keynotes and eight newly-added short stories. We are now looking for proposals for demos and will send out a call for PechaKucha-style talks to attendees soon, too.

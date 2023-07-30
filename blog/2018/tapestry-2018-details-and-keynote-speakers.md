@@ -18,6 +18,7 @@ We're also changing the registration model, from an invite-only (or -first) to o
 
 ## Keynotes
 
+<p></p>
 <figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/09/tapestry18-speakers.jpg" alt="" class="wp-image-10837"/><figcaption>Tapestry 2018 Speakers: Mona, Matt, Elijah</figcaption></figure>
 
 What has not changed is that we'll have three keynote speakers: Mona Chalabi (journalist and lover of numbers), Matthew Kay (professor and communicator of uncertainty), and Elijah Meeks (visualization engineer and surveyor of the community). We have some <a href="https://medium.com/tapestry-blog/tapestry-2018-keynote-speakers-92bdff0eab6f">more information about them</a> on our <a href="https://medium.com/tapestry-blog/">new Tapestry blog</a> (which we just moved to Medium).

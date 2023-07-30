@@ -25,6 +25,7 @@ The other workshop I went to on Sunday was <a href="https://beliv-workshop.githu
 BELIV’s topic for the keynote (which I missed) and papers this year was replication in visualization. The afternoon sessions were organized as breakouts, which makes a lot of sense for workshops, but is actually fairly unusual (most are run as mini-conferences). I think it worked well though, and we discussed a wide range of topics, like how data exploration and statistically sound reasoning can co-exist, replication for quantitative studies, etc.
 
 <figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0271.jpg" alt="" class="wp-image-10894"/><figcaption>Maarten Lambrechts talking about xenographics and associated phenomena</figcaption></figure>
+<p></p>
 
 ## VisInPractice
 
@@ -39,6 +40,7 @@ Another session looked at data visualization tools. Lisa Charlotte Rost gave a g
 Michael Behrisch presented a very in-depth state-of-the-art survey of commercial visual analytics systems he had conducted with Siemens. They’ve released their findings on <a href="https://commercialtools.dbvis.de/">a browsable website</a> for you to explore.
 
 <figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0295.jpg" alt="" class="wp-image-10896"/><figcaption>How many episodes have you listened to?</figcaption></figure>
+<p></p>
 
 ## Data Stories Meetup
 

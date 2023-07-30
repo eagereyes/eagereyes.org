@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg" width="700" height="679" /></p>
+
 # Visualization: Three Alternate Histories
 
 The academic visualization community largely comes from computer science: most of the professors teach in computer science (or similar) departments, most of the students doing research are computer science students of some flavor or other. It's interesting to consider how the field might be different if visualization had emerged from a different discipline.
@@ -36,7 +38,7 @@ Would we have Web Mercator if cartography had gotten into the data visualization
 
 Helping people understand the world has always involved showing and explaining things. This has almost always meant pictures, often showing mechanisms and explaining how the different parts of something work together. I have a thing for kid’s books from the 1950 and ‘60s that explain technology, often in remarkably clear and surprisingly deep ways. This image and the one at the top are from <em>Television Works Like This</em>, by Jeanne and Robert Bendick (McGraw-Hill, 1965).
 
-<img class="aligncenter size-full wp-image-10653" src="https://eagereyes.org/wp-content/uploads/2018/05/tv-tube.jpg" alt="" width="1400" height="698" />
+<p align="center"><img class="aligncenter size-full wp-image-10653" src="https://media.eagereyes.org/wp-content/uploads/2018/05/tv-tube.jpg" alt="" width="1400" height="698" /></p>
 
 The step from finding a visual way of explaining a mechanism to using data to talk about the world doesn’t seem that big. In fact, the E in <a href="https://eagereyes.org/techniques/isotype">ISOTYPE</a> stands for <em>Education</em>. Otto Neurath’s goal was to educate the population about the world, and to do so using numbers. After his death, Marie Neurath published a series of children’s books that often incorporated elements of data and ISOTYPE-style images (though they never purely showed data, as far as I know).
 
@@ -56,9 +58,7 @@ Information design is already overlapping visualization quite a bit, and it only
 
 The reason for computer science playing the role it does in visualization is pretty simple: supercomputers. Visualization as a field, and the Visualization conference, emerged out of early computer graphics that were done to make it possible to understand simulation results of new airplanes, car engines, etc.
 
-Computer science has its own ideas about doing things, of course, which strongly bias what is considered good and valid research. One of them is the idea of algorithms and general solutions: what you do should work for any data, or at least across a large range of data and situations. That's quite contrary to ideas in art, information graphics, even journalism, where making something bespoke and unique is an important consideration.
-
-https://twitter.com/giorgialupi/status/994278364323221504
+Computer science has its own ideas about doing things, of course, which strongly bias what is considered good and valid research. One of them is the idea of algorithms and general solutions: what you do should work for any data, or at least across a large range of data and situations. That's [quite contrary to ideas in art](https://twitter.com/giorgialupi/status/994278364323221504), information graphics, even journalism, where making something bespoke and unique is an important consideration.
 
 Computing does bring a lot to the table too, though. Tools like Tableau, libraries like D3, the ability to store and process virtually any amount of data, etc. – those don't just come out of nowhere. If visualization had emerged from another field, we probably wouldn't have any of those things. That isn't to say that this is the best possible reality, but it's the one we're in. Considering the alternatives is helpful to understand our biases that come out of that, and hopefully start to address those. This is happening slowly with researchers embracing (or at least recognizing the value of) sketching, using data journalism pieces to understand how data can communicate, and even making the occasional piece of data art.
 

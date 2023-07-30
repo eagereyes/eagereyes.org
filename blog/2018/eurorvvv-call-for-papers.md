@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-t
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png" width="560" height="198" /></p>
+
 # EuroRVVV Call For Papers!
 
 I'm delighted to be one of the co-chairs of the workshop on reproducibility, verification, and validation in visualization (<a href="http://www.eurorvvv.org/">EuroRVVV</a> – quite possibly the worst-acronymed workshop in visualization) at <a href="http://eurovis.org">EuroVis</a>. The topic this year is uncertainty, and we're looking for all kinds of contributions to this important topic.

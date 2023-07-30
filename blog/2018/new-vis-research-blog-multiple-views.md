@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-v
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png" width="700" height="500" /></p>
+
 # New Vis Research Blog: Multiple Views
 
 While activity on this site has been a bit slow this year, I’ve helped start a new group blog focused on visualization research, called <em><a href="https://medium.com/multiple-views-visualization-research-explained">Multiple Views</a></em>. 
