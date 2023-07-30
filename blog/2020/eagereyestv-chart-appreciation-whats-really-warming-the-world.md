@@ -13,9 +13,8 @@ Line charts – they're not the most glamorous. And yet, they can be used to te
 
 That piece was a key inspiration for a short paper I wrote for EuroVis a few years ago on <a href="https://eagereyes.org/papers/paper-an-argument-structure-for-data-stories" data-type="post" data-id="10093">argument structure for data stories</a>. Watch the video here or <a href="https://youtu.be/Bjrb_ErvvPs">head over to YouTube</a>. The latter would be appreciated especially so you can hit the like button, which will help the video get seen by more people.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/Bjrb_ErvvPs
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bjrb_ErvvPs?si=dlEHscB9Qe4V8hsC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 And as I say in the video, let me know what you think! Post comments here or on YouTube. Do you have other favorite pieces of data journalism?
 

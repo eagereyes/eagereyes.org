@@ -6,6 +6,9 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/11/lines-teaser.png
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/lines-teaser.png" width="960" height="540" /></p>
+
+
 # All (Line) Charts are Wrong, But Some Are Useful
 
 Line charts are one of the most common and useful charts out there. But why draw straight lines between the data points? They almost never represent what the data is actually doing, no matter if the data is single observations or aggregated over time. How do line charts actually work, and what do they imply about the data?

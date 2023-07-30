@@ -6,6 +6,8 @@ tags: IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020-why.png
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020-why.png" width="527" height="396" /></p>
+
 # An Outsider’s Guide to the IEEE VIS Conference 2020
 
 Want to watch a keynote by a Nobel laureate, catch the presentations of the best papers, or attend a workshop on visualization for communication? The <a href="http://ieeevis.org/">IEEE VIS conference</a> is taking place online in two weeks, October 25 to 30, and is free to attend this year. Here are a few starting points if you’ve never been to VIS and don't know why you should attend or what to watch.

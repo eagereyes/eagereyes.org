@@ -13,9 +13,8 @@ I covered the more commonly known value index charts in my  <a href="https://you
 
 I'm again embedding the video below, but please <a href="https://youtu.be/0Yy90fvusEw">head over to YouTube</a> if you want to comment or maybe even give the video a thumbs-up.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/0Yy90fvusEw
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Yy90fvusEw?si=b6PsP4MqqS6Z--Hu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 I'm trying to grow this channel and would really appreciate your help. Hitting the like button, commenting, and <a href="https://www.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ">subscribing to the channel on YouTube</a> all help improve the chances my videos getting recommended to people by the almighty algorithm.
 

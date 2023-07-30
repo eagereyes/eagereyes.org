@@ -13,7 +13,7 @@ Can you put ranked data into a pie chart that also represents time? This chart t
 
 This chart was <a href="https://twitter.com/CAL_FIRE/status/1436410274408386560">posted by Cal Fire</a> a few days ago on Twitter. It shows the acres burned by the 20 largest wildfires in California.
 
-<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-pie-660x660.jpeg" alt="" class="wp-image-97586" width="330" height="330"/></figure></div>
+<figure class="aligncenter size-medium is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-pie-660x660.jpeg" alt="" class="wp-image-97586" width="330" height="330"/></figure>
 
 Yes it's a pie chart. We're looking at ranked data here, even though the chart isn't sorted by size of the fire. It's sorted by time, when the fire started. The color scheme is chosen to group fires before 2000, from 2000-2019, and then 2020 and 2021.
 

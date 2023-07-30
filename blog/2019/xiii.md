@@ -11,7 +11,7 @@ outline: false
 
 # XIII
 
-This website is nw thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things.
+This website is now thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things.
 
 I can barely even look at <a href="https://eagereyes.org/blog-calendar">the calendar</a> these days, it looks so empty recently. This year has been the slowest, with this post not even being the 13th so far this year. And yet, it’s doing better than many other blogs at this age. Thirteen is a lot in blog years. 
 
