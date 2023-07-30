@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-ta
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png" width="897" height="673" /></p>
+
 # Watch My Outlier Talk: This Should Have Been A Bar Chart!
 
 I gave a talk at the Outlier conference earlier this year, with the somewhat elaborate title, <em>The Joys – and Dangers – of Bespoke and Unusual Chart Types</em>. Though I eventually decided to go with the much shorter, <em><a href="https://www.youtube.com/watch?v=GeRgED7LWr8">This Should Have Been A Bar Chart!</a></em> You can watch it on YouTube now.
@@ -21,9 +23,8 @@ I end the talk with a bit of a taxonomy of more elaborate charts along two axes,
 
 You can watch the talk below or <a href="https://www.youtube.com/watch?v=GeRgED7LWr8">over on YouTube</a>. Like in my other videos, this one also has numbered references throughout, which are collected on <a href="https://eagereyes.org/outlier22" data-type="page" data-id="98215">this references page</a>.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=GeRgED7LWr8
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GeRgED7LWr8?si=7P3aH_AklDpb2FAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 
 _Posted by <a href="/about">Robert Kosara</a> on April 26, 2022_

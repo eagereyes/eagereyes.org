@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png" width="800" height="600" /></p>
+
 # Paper: More Than Meets the Eye: A Closer Look at Encodings in Visualization
 
 Encodings play a central role in visualization, but I believe our thinking about them is too simplistic. In a new paper, I argue that we need to distinguish between the encodings that specify how a visualization is drawn and the ones that are readable or actually read by an observer. While they largely or entirely overlap in some charts (like bar charts or scatterplots) they don't in others (pie charts, line charts, etc.). And what exactly do you even specify in more complex visualizations like treemaps?

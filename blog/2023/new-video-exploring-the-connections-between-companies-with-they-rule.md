@@ -17,9 +17,8 @@ By web standards, <em>They Rule</em> is quite ancient. It has been around since 
 
 <a href="https://youtu.be/wZUgbgdx6Sc">Head over to YouTube to watch the video there</a>, or right here!
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/wZUgbgdx6Sc
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZUgbgdx6Sc?si=g0PUacZVKQm8ez3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 This is my first video with a continuous music bed. Let me know what you think! And as always, I'd appreciate it if you could like the video and <a href="https://www.youtube.com/@eagereyes">subscribe to the channel</a> over on YouTube.
 

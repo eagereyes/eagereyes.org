@@ -17,9 +17,8 @@ Circular bar charts are kind of related, and not just because they're also round
 
 All of this is in my new video, which you can watch below or <a href="https://youtu.be/ePpSYA9deKA">over on YouTube</a>. As usual, I'm very curious about your thoughts! And if you like the video, please head over to YouTube to click the like button and maybe leave a comment – and subscribe to the channel, if you haven't already!
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/ePpSYA9deKA
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePpSYA9deKA?si=_4qjdDmIe6AJ5TMf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 17, 2022_

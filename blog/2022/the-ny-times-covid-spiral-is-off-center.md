@@ -13,7 +13,7 @@ An opinion piece in the New York Times last week got a lot of attention in visua
 
 The piece in question is titled <em><a href="https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html">Here’s When We Expect Omicron to Peak</a></em>. The opener image, which attracted a lot of attention on Twitter, shows the number of new COVID cases in the U.S. since the beginning of 2020.
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2022/01/nytimes-spiral.png" alt="" class="wp-image-98090" width="405" height="503"/></figure></div>
+<figure class="aligncenter size-full is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2022/01/nytimes-spiral.png" alt="" class="wp-image-98090" width="405" height="503"/></figure>
 
 The initial response was largely negative, which then led to a wave of people defending it. I don't want to get into any arguments about whether liking it or not means you're narrow-minded, etc. – but I do want to point out what bothered me from the beginning, even though it took me a while to put my finger on it.
 

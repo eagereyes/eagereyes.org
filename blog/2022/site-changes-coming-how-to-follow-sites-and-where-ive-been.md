@@ -6,6 +6,8 @@ tags: Meta/Site News
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg" width="832" height="624" /></p>
+
 # Site Changes Coming, How to Follow Sites, and Where I've Been
 
 This site has been around for over 16 years now, and a lot has changed in the world during that time. I'm currently working on an overhaul and wanted to give everybody an idea of what I'm thinking about and why there has been little activity. In light of recent developments, here are also some good ways to follow good old-fashioned blogs and an alternative to Twitter.

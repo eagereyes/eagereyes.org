@@ -7,6 +7,8 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA
 outline: false
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png" width="600" height="547" /></p>
+
 # Paper: Notebooks for Data Analysis and Visualization
 
 Computational notebooks offer an alternative to the common GUI-based tools used for data visualization and BI today. In this new paper, I talk about what they are, their pros and cons, and how research could fill in some important gaps.
