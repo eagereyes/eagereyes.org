@@ -17,9 +17,8 @@ People also like to tell stories about certain points on the map, some of which 
 
 You can watch the video <a href="https://youtu.be/hlb1uM_SOcE">over on YouTube</a> or right here.
 
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/hlb1uM_SOcE
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlb1uM_SOcE?si=7YwdwM7Ugrqh3Blj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 I've written about <a href="https://eagereyes.org/journalism/storytelling-minard-vs-nightingale" data-type="post">the need to reduce the amount of data shown to tell a story</a> before (using Minard's chart even). An important source has also been <a href="https://eagereyes.org/blog/2014/review-kraak-mapping-time" data-type="post" data-id="8241">Menno-Jan Kraak's book, <em>Mapping Time</em></a>, as well as <a href="https://sandrarendgen.wordpress.com/2018/06/20/new-book-the-minard-system-fall-2018/">Sandra Rendgen's <em>The Minard System</em></a> (which makes an appearance in the video).
 

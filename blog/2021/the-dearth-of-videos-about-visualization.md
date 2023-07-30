@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/04/tv.jpeg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/04/tv.jpeg" width="800" height="600" /></p>
+
 # The Dearth of Videos about Visualization
 
 To appropriate the famous Martin Mull quote, writing about visualization is like dancing about architecture. Why are we using written words, like this blog post, to talk about visualization instead of moving images, like in a video?

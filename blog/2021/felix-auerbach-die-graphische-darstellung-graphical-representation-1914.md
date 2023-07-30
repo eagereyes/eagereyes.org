@@ -73,6 +73,7 @@ It’s a notably different treatment than Brinton, who very clearly dislikes pie
 The final example I’m going to show here is a more diagrammatic one, what we’d call a Venn diagram today. Auerbach doesn’t mention the name though, and generally doesn’t reference sources. Brinton doesn’t have a list of references either, but does cite the sources of his illustrations and mentions people’s names in the text.
 
 <figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0020-1320x397.jpg" alt="" class="wp-image-95309"/></figure>
+<p></p>
 
 ## <em>Anschauungsbedürfnis</em>
 

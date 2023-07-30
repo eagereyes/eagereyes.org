@@ -13,9 +13,8 @@ The common explanation for how pie charts work is that we read them by angle. Th
 
 If you've been following this blog, you've seen me talk about <a href="https://eagereyes.org/tag/pie-charts">my pie chart papers</a>. This video summarizes them in a way that I hope is interesting, informative, and entertaining. You can watch it below or <a href="https://youtu.be/NxmHDNNTFyk">over on YouTube</a> (the latter is preferred so you can leave a comment, subscribe, etc.).
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/NxmHDNNTFyk
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NxmHDNNTFyk?si=iU52-QJfeXvVBtx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 The video covers four different studies, which I've written about here before. In particular, I wrote <a href="https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results" data-type="post" data-id="9363">a walk-through of the pie charts studies</a> from the first couple of papers in 2016. I'm also covering <a href="https://eagereyes.org/blog/2019/paper-evidence-for-area-as-the-primary-visual-cue-in-pie-charts" data-type="post" data-id="12410">the study I did using 3D pie charts</a> as a way to distinguish between arc length and area in 2019. And if you think people hating pie charts is new, feast your eyes on <a href="https://eagereyes.org/blog/2015/ye-olde-pie-chart-debate" data-type="post" data-id="8746">the drama that unfolded after Eells' paper was published in 1926</a>.
 

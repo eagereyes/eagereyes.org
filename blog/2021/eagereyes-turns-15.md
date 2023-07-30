@@ -6,6 +6,8 @@ tags: Meta/Site News
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-xv.jpeg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-xv.jpeg" width="800" height="600" /></p>
+
 # EagerEyes Turns 15
 
 EagerEyes is 15 years old today! Rather than look back at 15 years of visualization and blogging (though I will do a little of that too), I want to reflect a bit on what blogging means today and where things are going.

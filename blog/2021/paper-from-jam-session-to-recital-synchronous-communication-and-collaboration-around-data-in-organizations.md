@@ -6,6 +6,8 @@ tags: paper
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/10/pexels-photo-3184292.jpeg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/10/pexels-photo-3184292.jpeg" width="940" height="529" /></p>
+
 # Paper: From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations
 
 Who are the people who use data and visualization as part of their work every day? In particular, how do people use data as part of meetings, to present to others, to discuss their findings and recommendations, etc.? My colleague Matt Brehmer and I ran a pair of studies to find out.

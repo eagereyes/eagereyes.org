@@ -17,9 +17,8 @@ Part of the reason for making these videos has always been that I wanted to show
 
 I’m embedding the entire video (about 7.5 minutes) here. I don’t think my strategy of embedding the teaser worked, too many people seem to have just watched the teaser but not the full video. If you want to comment, <a href="https://youtu.be/zHfExUZKLwA">please do that over on YouTube</a>, though!
 
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/zHfExUZKLwA
-</div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zHfExUZKLwA?si=QiLUjIoOTP5Di0b3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p></p>
 
 Also, if you like the video please give it a thumbs-up over there. That really helps tell YouTube that people think this video is worthwhile.
 
