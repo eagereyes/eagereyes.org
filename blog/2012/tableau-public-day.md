@@ -3,7 +3,7 @@ title: "Tableau Public Viz of the Day"
 description: "There is no shortage of sites and twitter accounts that point to a new visualization every day, some even more often than that. So why start another one? Tableau's Viz of the Day is unique in that it draws from the wealth of Tableau Public, and all its picks are interactive visualizations with multiple, linked views."
 date: 2012-05-14 20:30:00
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

@@ -6,9 +6,9 @@ tags: Meta/Site News
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2011/12/features.png
 ---
 
-# Why I Switched From Drupal to WordPress
+<p><img class="alignnone size-full wp-image-1551" title="New Features" src="https://media.eagereyes.org/wp-content/uploads/2011/12/features.png" alt="" width="600" height="142" /></p>
 
-<img class="alignnone size-full wp-image-1551" title="New Features" src="https://eagereyes.org/wp-content/uploads/2011/12/features.png" alt="" width="600" height="142" />
+# Why I Switched From Drupal to WordPress
 
 After <a title="Five Years of EagerEyes" href="http://eagereyes.org/blog/2011/five-years-of-eagereyes">more than five years</a>, switching the content management system (CMS) on <a href="http://eagereyes.org/">eagereyes</a> was not an easy decision. I've been thinking about doing that for a while though, and I want to explain my reasons and what I expect WordPress to do better than Drupal below. This should also be useful for anybody who is on the fence about starting a blog (or has a blog that hasn't been updated in a while).
 

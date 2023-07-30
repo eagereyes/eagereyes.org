@@ -3,7 +3,7 @@ title: "A Storytelling Experiment"
 description: "I need two minutes of your time. By clicking on the following link, you will be taken to one of several slightly different versions of a visual story about the development of the gross domestic product (GDP) in different countries. Watch it, play with it, and if you like it: share it. You will help us understand which types of storytelling work and which don't. There is no annoying survey, just a little story."
 date: 2012-03-07 23:20:38
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

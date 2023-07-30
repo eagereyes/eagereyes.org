@@ -6,11 +6,12 @@ tags: conference
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png
 ---
 
+<p><img class="aligncenter size-full wp-image-2116" title="Tapestry Conference" alt="" src="https://eagereyes.org/wp-content/uploads/2012/12/tapestry.png" width="600" height="180" /></p>
+
 # Tapestry, The Conference About Storytelling With Data
 
 <a href="http://www.tapestryconference.com">Tapestry</a> is a new conference on storytelling with data. While it focuses on visual ways of telling stories in journalism, there will be a broad range of topics, and a line-up of amazing speakers.
 
-<a href="http://www.tapestryconference.com/"><img class="aligncenter size-full wp-image-2116" title="Tapestry Conference" alt="" src="https://eagereyes.org/wp-content/uploads/2012/12/tapestry.png" width="600" height="180" /></a>
 
 ## Keynotes
 

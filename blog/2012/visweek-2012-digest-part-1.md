@@ -3,7 +3,7 @@ title: "VisWeek 2012 Digest, Part 1"
 description: "I gorged myself on talks, panels, and tutorials last week. And parties, oh the parties. Time to digest all of it and, um, extract the most important bits. Since there is so much to talk about, I have split this up into three parts. Parts 1 and 2 will discuss individual papers and events, part 3 will add some more general observations."
 date: 2012-10-25 22:37:45
 tags: VisWeek, conference
-featuredImage:
+featuredImage: 
 ---
 
 # VisWeek 2012 Digest, Part 1
@@ -18,7 +18,7 @@ The <a href="http://ldav.org">Symposium on Large-Scale Data Analysis and Visuali
 
 Rainbow colormaps are a constant source of scorn from people who care not only about putting data onto the screen, but actually being able to read the information without unnecessary distortion. The best paper at LDAV, <em>Gaussian Mixture Model Based Volume Visualization</em> by Shusen Liu, Joshua Levine, Peer-Timo Bremer, and Valerio Pascucci, used not just a single rainbow, but multiple ones in its color map. The effect is breathtaking.
 
-<a href="https://eagereyes.org/wp-content/uploads/2012/10/rainbows.jpg"><img class="aligncenter size-full wp-image-2054" title="Rainbows" src="https://eagereyes.org/wp-content/uploads/2012/10/rainbows.jpg" alt="" width="600" height="257" /></a>
+<a href="https://eagereyes.org/wp-content/uploads/2012/10/rainbows.jpg"><img class="aligncenter size-full wp-image-2054" title="Rainbows" src="https://media.eagereyes.org/wp-content/uploads/2012/10/rainbows.jpg" alt="" width="600" height="257" /></a>
 
 The color choice is never explained in the (very short) paper, and Shusen was quite apologetic during his presentation about the choice of color. Then why do it? I don’t get it. Whatever redeeming qualities this paper may have, it destroys information by assigning the same color to multiple values. How can this even be considered the best paper?
 

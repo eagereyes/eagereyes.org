@@ -3,7 +3,7 @@ title: "The State of Information Visualization, 2012"
 description: "Another year has come and gone, and many exciting things have happened in information visualization. Here is a look back at some interesting events from last year, as well as what I expect for 2012 and the next few years."
 date: 2012-01-22 21:30:00
 tags: state-of-infovis
-featuredImage:
+featuredImage: 
 ---
 
 # The State of Information Visualization, 2012

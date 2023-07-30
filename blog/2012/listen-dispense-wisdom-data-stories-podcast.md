@@ -25,7 +25,7 @@ A bit of context to some of the things we talk about in the episode:
     <li>And, of course, xkcd.</li>
 </ul>
 
-<a href="http://xkcd.com/386/"><img class="aligncenter size-full wp-image-2107" title="xkcd: Duty Calls" alt="" src="https://eagereyes.org/wp-content/uploads/2012/12/duty_calls.png" width="300" height="330" /></a>
+<a href="http://xkcd.com/386/"><img class="aligncenter size-full wp-image-2107" title="xkcd: Duty Calls" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png" width="300" height="330" /></a>
 
 But don't forget to <a href="http://datastori.es/episode-15-with-robert-kosara/">listen to the actual podcast</a>!
 

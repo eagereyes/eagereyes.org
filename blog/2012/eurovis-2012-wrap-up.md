@@ -3,7 +3,7 @@ title: "EuroVis 2012, Last Day and Wrap-Up"
 description: "The last day of EuroVis brought back the sunshine we had seen yesterday, but had missed for the first half of the conference. This was a short day, with only one paper session and the keynote. The latter proved to be quite controversial and interesting."
 date: 2012-06-08 07:40:26
 tags: conference, eurovis
-featuredImage:
+featuredImage: 
 ---
 
 # EuroVis 2012, Last Day and Wrap-Up

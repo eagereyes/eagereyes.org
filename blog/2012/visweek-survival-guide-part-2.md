@@ -3,7 +3,7 @@ title: "A VisWeek Survival Guide, Part 2"
 description: "Less than two weeks to go until VisWeek 2012, so it’s time for the crucial second part of the survival guide. There are tons of things to see and do in Seattle, it’s easy to get distracted."
 date: 2012-10-03 08:26:41
 tags: VisWeek, conference
-featuredImage:
+featuredImage: 
 ---
 
 # A VisWeek Survival Guide, Part 2

@@ -3,7 +3,7 @@ title: "A VisWeek Survival Guide, Part 1"
 description: "VisWeek 2012 will be held October 14 to 19 in Seattle, WA. The conference keeps growing, and this year is adding a new industry track. If you consider going, you should register by Friday to get the early registration discount."
 date: 2012-09-03 20:42:17
 tags: VisWeek, conference
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

@@ -3,7 +3,7 @@ title: "April is Visualization Challenge Time!"
 description: "While there has been some criticism of a particular type of visualization challenge recently, there are many other challenges that are organized well and provide good opportunities for people to work on their skills. Two challenges in particular have caught my attention, and are presented here with the official EagerEyes Quality Seal and Stamp of Approval."
 date: 2012-04-04 21:14:24
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # April is Visualization Challenge Time!

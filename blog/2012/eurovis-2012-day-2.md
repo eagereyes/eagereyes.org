@@ -3,7 +3,7 @@ title: "EuroVis 2012, Day 2"
 description: "Day 2 of EuroVis was a long series of paper presentations, occasionally interrupted with copious amounts of food. Here are some of the highlights."
 date: 2012-06-06 23:25:44
 tags: conference, eurovis
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

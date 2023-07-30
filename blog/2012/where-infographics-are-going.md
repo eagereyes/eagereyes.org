@@ -3,7 +3,7 @@ title: "Where Infographics Are Going"
 description: "At their best, information graphics can be informative, exciting, and attractive. At their worst, they can be misleading, overdesigned, and empty. Infographics are still in their infancy, with a lot of untapped potential. Ideas from visualization can help figure out a future that is much more exciting."
 date: 2012-01-26 22:30:00
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # Where Infographics Are Going

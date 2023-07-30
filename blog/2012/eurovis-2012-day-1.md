@@ -3,7 +3,7 @@ title: "EuroVis 2012, Day 1"
 description: "EuroVis 2012 has officially begun, so here is a brief recap of some of the things I found interesting. Today, that included the EuroRVVV workshop and two papers."
 date: 2012-06-05 12:09:48
 tags: conference, eurovis
-featuredImage:
+featuredImage: 
 ---
 
 # EuroVis 2012, Day 1

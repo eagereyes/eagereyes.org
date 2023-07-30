@@ -3,7 +3,7 @@ title: "VisWeek 2012 Digest, Part 3"
 description: "This final installment of the digest sums up a few more thoughts on this year's VisWeek. Inside: SciVis, BioVis, and parties!"
 date: 2012-11-18 21:30:11
 tags: VisWeek, conference
-featuredImage:
+featuredImage: 
 ---
 
 # VisWeek 2012 Digest, Part 3

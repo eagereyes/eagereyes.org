@@ -16,15 +16,15 @@ Fadeyev uses some illustrations from the catalog of the <a href="http://en.wikip
 
 Fadeyev uses this stove to illustrate the obsession with ornament. Besides the intricacy of the decoration and amount of effort that must have gone into it, it also strikes me as incredibly impractical. I guess part of showing your status was not just the ornaments on the stove, but the matching set of servants that would keep all the little leaves and figurines clean und dust-free.
 
-<img class="aligncenter size-full wp-image-1782" title="Victorian Stove" src="https://eagereyes.org/wp-content/uploads/2012/03/victorian-stove.png" alt="" width="600" height="454" />
+<p align="center"><img class="aligncenter size-full wp-image-1782" title="Victorian Stove" src="https://media.eagereyes.org/wp-content/uploads/2012/03/victorian-stove.png" alt="" width="600" height="454" /></p>
 
 What caught my eye in particular, though, was this gas lamp. All I could think was, why? Why a guy with a helmet on a lamp? What's the point? At least in this case, I don't see the decoration interfering with the function of the lamp. Still, I don't get it.
 
-<img class="aligncenter size-full wp-image-1783" title="Victorian Gas Lamp" src="https://eagereyes.org/wp-content/uploads/2012/03/victorian-gaslamp.png" alt="" width="258" height="562" />
+<p align="center"><img class="aligncenter size-full wp-image-1783" title="Victorian Gas Lamp" src="https://media.eagereyes.org/wp-content/uploads/2012/03/victorian-gaslamp.png" alt="" width="258" height="562" /></p>
 
 The catalog has a few more gems, but what inspired this posting is this set of a "silver fish-carver and fork."
 
-<img class="aligncenter size-full wp-image-1780" title="Victorian Cutlery" src="https://eagereyes.org/wp-content/uploads/2012/03/victorian-cutlery.png" alt="" width="238" height="503" />
+<p align="center"><img class="aligncenter size-full wp-image-1780" title="Victorian Cutlery" src="https://media.eagereyes.org/wp-content/uploads/2012/03/victorian-cutlery.png" alt="" width="238" height="503" /></p>
 
 Fadeyev points out the way the decorations are not just added on here, but are woven into the functional parts of the object. But more than that, the decoration actually interferes with that function. Look at the fork's tines and the way they point outward: this doesn't look like it actually works very well. Also, things will easily get stuck in the little hooks at the bases of the tines. The knife has a similar problem, though it may not matter so much depending on how much the design on its blade sticks out.
 

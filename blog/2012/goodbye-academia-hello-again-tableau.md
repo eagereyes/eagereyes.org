@@ -3,7 +3,7 @@ title: "Goodbye, Academia; Hello (Again), Tableau!"
 description: "I have decided to quit my job as Associate Professor at UNC Charlotte and join Tableau Software. Monday (September 17) is my first day of work as a full Tableau employee. Why give up the job security of a tenured university professor for the treacherous prospects of a startup? There are many reasons, but here are the main ones."
 date: 2012-09-16 20:30:00
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # Goodbye, Academia; Hello (Again), Tableau!

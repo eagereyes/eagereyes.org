@@ -3,7 +3,7 @@ title: "EuroVis 2012, Day 3"
 description: "I missed a few of the papers I wanted to see today, but there were again some interesting ones. The big event of the day was of course the social event at a Heuriger."
 date: 2012-06-07 23:02:56
 tags: conference, eurovis
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

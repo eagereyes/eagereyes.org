@@ -3,7 +3,7 @@ title: "VisWeek 2012, Day One"
 description: "VisWeek 2012 started today, and it started with quite a bang. Here are some observations and highlights from the first day."
 date: 2012-10-14 22:48:53
 tags: VisWeek, conference
-featuredImage:
+featuredImage: 
 ---
 
 # VisWeek 2012, Day One

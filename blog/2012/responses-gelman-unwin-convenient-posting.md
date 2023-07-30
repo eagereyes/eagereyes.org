@@ -3,7 +3,7 @@ title: "All Responses to Gelman and Unwin in One Convenient Posting"
 description: "After posting my response to Gelman and Unwin's article on visualization and statistical graphics recently, I have now collected links to all the three other responses as well: Stephen Few, Paul Murrell, and Hadley Wickham."
 date: 2012-12-05 20:19:32
 tags: self-promotion, paper
-featuredImage:
+featuredImage: 
 outline: false
 ---
 

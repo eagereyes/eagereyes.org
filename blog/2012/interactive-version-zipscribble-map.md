@@ -6,9 +6,9 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png
 ---
 
-# An Interactive Version of the ZIPScribble Map
+<p><img class="alignnone size-full wp-image-1624" title="ZIPScribble Map, interactive version" src="https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390" /></p>
 
-<a href="http://eagereyes.org/zipscribble-maps/interactive-zipscribble-map"><img class="alignnone size-full wp-image-1624" title="ZIPScribble Map, interactive version" src="https://eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390" /></a>
+# An Interactive Version of the ZIPScribble Map
 
 For more than five years, the <a href="http://eagereyes.org/zipscribble-maps">ZIPScribble Map</a> and its related pages have been the most popular feature on my website. To freshen things up a bit, I am adding <a href="http://eagereyes.org/zipscribble-maps/interactive-zipscribble-map">an interactive version that runs in your browser</a>. I have also added a few more countries, for a new total of 38.
 

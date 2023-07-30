@@ -3,7 +3,7 @@ title: "A Few VisWeek Pointers"
 description: "What good is a blog if it doesn’t serve the noble goal of self-promotion? Here are a few pointers to papers I’m involved in at VisWeek, as well a job posting that’s kind of my fault."
 date: 2012-10-10 20:41:11
 tags: VisWeek
-featuredImage:
+featuredImage: 
 ---
 
 # A Few VisWeek Pointers

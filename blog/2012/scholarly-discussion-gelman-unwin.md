@@ -3,7 +3,7 @@ title: "A Scholarly Discussion with Andrew Gelman and Anthony Unwin"
 description: "This is how scholarly exchanges used to work: Scientist A publishes a result, Scientist B then writes an angry letter saying that Scientist A is full of it, to which A responds with more insults, etc., and all that published in a fine scholarly journal. I was recently asked to respond to a piece Andrew Gelman and Anthony Unwin had written about visualization for the Journal of Computational and Graphical Statistics, which had some issues."
 date: 2012-11-29 21:40:07
 tags: 
-featuredImage:
+featuredImage: 
 outline: false
 ---
 
