@@ -3,7 +3,7 @@ title: "Review: Wainer, Picturing the Uncertain World"
 description: "Picturing the Uncertain World by Howard Wainer is a book about statistics and statistical thinking, aided by visual depictions of data. Each article in the collection starts by stating a question or phenomenon, which is then investigated further using some clever statistics."
 date: 2014-12-22 22:01:53
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # Review: Wainer, Picturing the Uncertain World

@@ -14,7 +14,7 @@ There is a tendency to just reflexively make fun of certain types of charts, in 
 
 About two weeks ago, I <a href="https://twitter.com/eagereyes/status/508322016181485569">posted this chart on Twitter</a> after seeing it in the Wired iPad app (September 2014 issue).
 
-<img class="aligncenter size-medium wp-image-8332" src="https://eagereyes.org/wp-content/uploads/2014/09/wired-hard-work-730x662.jpg" alt="Hard Work, Wired September 2014" width="730" height="662" />
+<img class="aligncenter size-medium wp-image-8332" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wired-hard-work-730x662.jpg" alt="Hard Work, Wired September 2014" width="730" height="662" />
 
 Yes, it is a 3D area chart. The vertical axis is the average salary paid in a number of sectors over time. The one horizontal axis on the left is the time axis, showing 30 years from 1983 to 2013. The other horizontal axis divides the chart up into four elements for four sectors: technology, white-collar, manufacturing, and sales. That axis has a second encoding in the width of the “mountains,” which represent the fraction of the workforce in each of those sectors.
 

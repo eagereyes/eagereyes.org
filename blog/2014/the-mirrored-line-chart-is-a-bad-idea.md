@@ -13,7 +13,7 @@ The mirrored line chart is a pet peeve of mine. It's very common close to electi
 
 In her coverage of President Obama's State of the Union address, The Guardian finance and economics editor Heidi N. Moore <a href="https://twitter.com/moorehn/status/428382861016576000/">tweeted the following chart</a>, which came from <a href="http://www.nirsonline.org/index.php?option=com_content&amp;task=view&amp;id=768&amp;Itemid=48">a report by the National Institute on Retirement Security</a> (which, despite its official-sounding name, is a think tank):
 
-<img class="aligncenter size-medium wp-image-3097" alt="Worker Benefits" src="https://eagereyes.org/wp-content/uploads/2014/01/benefits-mirror2-730x575.png" width="730" height="575" />
+<p><img class="aligncenter size-medium wp-image-3097" alt="Worker Benefits" src="https://media.eagereyes.org/wp-content/uploads/2014/01/benefits-mirror2-730x575.png" width="730" height="575" /></p>
 
 What do the two lines here show? Or rather, what does the second line add? Nothing, that's what. Each of the labeled pairs of values sum up to 100.0%. The two lines mirror each other exactly.
 

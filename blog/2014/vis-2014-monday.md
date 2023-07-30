@@ -16,7 +16,7 @@ The day started at 6:30am, when five fearless runners braved the cold and dark, 
 
 I've <a href="http://www.strava.com/activities/217617977">posted the route on Strava</a> for all to enjoy. We even took a dorky, sweaty, blurry group selfie at the end.
 
-<img class="aligncenter size-medium wp-image-8511" src="https://eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run-730x547.jpg" alt="VIS Social Run" width="730" height="547" />
+<p><img class="aligncenter size-medium wp-image-8511" src="https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run-730x547.jpg" alt="VIS Social Run" width="730" height="547" /></p>
 
 We're also running Wednesday morning and Friday morning, and potentially also Thursday. Stephen Kobourov might also do a longer run on Friday afternoon. Let me know if you want to join us, or just come to the Marriott at 6:30am.
 
