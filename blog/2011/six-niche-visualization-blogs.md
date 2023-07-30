@@ -3,7 +3,7 @@ title: "Six Niche Visualization Blogs"
 description: "I don't have to link to infosthetics or flowingdata, you know those. But there are many others that are not as well known, but often contain really interesting work. They offer thoughtful criticism, discussions of the cognitive aspects of visualization, or designers' perspectives on visualization. Here is a list of six of them."
 date: 2011-05-12 20:42:34
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # Six Niche Visualization Blogs

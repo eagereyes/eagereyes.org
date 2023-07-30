@@ -3,12 +3,13 @@ title: "The State of Information Visualization, 2011"
 description: "Theory in visualization! Swivel disappears! Reappears! Disappears again! Stories told using visualization! A lot happened in visualization last year, and 2011 shows no signs of things slowing down. The direction will be somewhat different, though."
 date: 2011-01-17 22:02:18
 tags: state-of-infovis
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/theory.png
 ---
+
+<p><img alt="" src="https://media.eagereyes.org/media/2011/theory.png" width="600" height="200" /></p>
 
 # The State of Information Visualization, 2011
 
-<p class="img"><a href="http://eagereyes.org/blog/2011/state-of-infovis-2011"><img alt="" src="http://eagereyes.org/media/2011/theory.png" width="600" height="200" /></a></p>
 Theory in visualization! Swivel disappears! Reappears! Disappears again! Stories told using visualization! A lot happened in <a href="http://eagereyes.org/blog/2010/state-of-infovis-2010">visualization last year</a>, and 2011 shows no signs of things slowing down. The direction will be somewhat different, though.
 
 ## 2010: What Was

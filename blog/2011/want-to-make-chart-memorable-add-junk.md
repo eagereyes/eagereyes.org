@@ -3,12 +3,13 @@ title: "Want to Make A Chart Memorable? Add Junk"
 description: "A common criticism of charts is that they are filled with chart junk, and that removing the extraneous elements would make the chart better and stronger. That argument works for analytical charts, but not for charts that are used for presentation. The way memory works suggests that chart junk is actually very useful to not only get a point across, but make sure the reader remembers it."
 date: 2011-07-05 21:35:06
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/memory-monster.jpg
 ---
+
+<p><img src="https://media.eagereyes.org/media/2011/memory-monster.jpg" alt="" width="600" height="235" /></p>
 
 # Want to Make A Chart Memorable? Add Junk
 
-<p class="img"><a href="http://eagereyes.org/blog/2011/want-to-make-chart-memorable-add-junk"><img src="https://media.eagereyes.org/media/2011/memory-monster.jpg" alt="" width="600" height="235" /></a></p>
 A common criticism of charts is that they are filled with <em>chart junk,</em> and that removing the extraneous elements would make the chart better and stronger. That argument works for analytical charts, but not for charts that are used for presentation. The way memory works suggests that chart junk is actually very useful to not only get a point across, but make sure the reader remembers it.
 
 ## Recap: The Chartjunk Paper
@@ -97,7 +98,7 @@ Robert Kosara says…
 <a href="http://hci.usask.ca/people/view.php?id=14" rel="nofollow noopener" target="_blank">Aaron Genest</a> says…
 >	Thanks, Robert, for your insightful revisitation of our paper. You have gotten to the crux of the matter in a way that many of the critiques have not: There is a place for non-data-ink in charts.  We were not careful enough in the paper (although we do mention it) to differentiate between charts made for analysis and charts made for information presentation.  The exemplar that inspired us was the USA Today graph, done much better by Holmes -- something designed very much to tell a story.  We admitted to ourselves that our charts in academic publications were trying to do exactly the same thing: convince our audience that our position, as described in the paper, was correct. So why were we relying on graphs and charts that would never, ever be used in publications that have this art down to a fine science?
 >	
->	The key, then, was to determine whether properly designed charts that include chartjunk would interfere with comprehension -- a significant barrier to using them in academic or otherwise informative publications. The answer was, more or less, 'no'. Adding chartjunk does not really interfere with comprehension. It may interfere with analysis, but that's not the <i>purpose<i> of these charts. 
+>	The key, then, was to determine whether properly designed charts that include chartjunk would interfere with comprehension -- a significant barrier to using them in academic or otherwise informative publications. The answer was, more or less, 'no'. Adding chartjunk does not really interfere with comprehension. It may interfere with analysis, but that's not the <i>purpose</i> of these charts. 
 >	
 >	The benefit, of course, is clear -- we remember things with stories attached.  If we create graphics with clear stories, emphasized with embellishments, people remember them.  
 >	
@@ -106,10 +107,6 @@ Robert Kosara says…
 >	Incidentally... we never did see a difference in interpretability or comprehension, although we did time trials and error tracking on a variety of different comprehension and interpretation tests on a wide variety of charts intended to present information (not to support analysis).  Of course, those are negative results and not easily publishable, but they're of interest for chart designers, I would think.
 >	
 >	Thanks again!
->	
-
-dydo says…
->	We shouldn't waste so much paper.  It's not a problem if we do some trash, because every week <a rel="follow" href="http://www.1800gotjunk.com/ca_en/locations/BritishColumbia/junk-removal-north-vancouver/">junk removal north Vancouver</a> come and take our garbage, but it's not ecological to waste our resources, in this case the paper. 
 >	
 
 <a href="http://www.visualquest.in" rel="nofollow noopener" target="_blank">Paresh Shah</a> says…

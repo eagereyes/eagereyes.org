@@ -3,7 +3,7 @@ title: "Visualization is Growing Up"
 description: "Several topics at this year's VisWeek conference have come up because visualization is playing a bigger role in important decisions. When the consequences can be severe, it is important to know whether a visualization actually works, whether we can trust it, and what biases it might present."
 date: 2011-11-06 22:54:06
 tags: VisWeek
-featuredImage:
+featuredImage: 
 ---
 
 # Visualization is Growing Up

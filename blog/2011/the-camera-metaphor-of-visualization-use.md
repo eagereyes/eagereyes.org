@@ -3,7 +3,7 @@ title: "The Camera Metaphor of Visualization Use"
 description: "A metaphor I've seen used to describe visualization a few times now is a camera: like a camera, visualization can be used to do good and bad things; like a camera, it requires skill to use well; like a camera, it allows you to discover new ways of seeing the world. It's actually quite a useful metaphor, and one that merits some exploration."
 date: 2011-06-12 21:37:52
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # The Camera Metaphor of Visualization Use

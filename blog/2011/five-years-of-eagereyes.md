@@ -3,12 +3,13 @@ title: "Five Years of EagerEyes"
 description: "In dog years, this website is now (almost) as old as I am. Over the years, it has changed both its direction and design several times; there have been times when I was overwhelmed with my readers' reactions and times when nobody seemed to read the stuff I wrote. While I generally hate “best of” postings and indulging in nostalgia, I want to look back at a few of the things that I believe have shaped this site and how I think about what I'm doing, and revisit a few of the more interesting and/or successful things I've managed to do and write over the years."
 date: 2011-09-30 22:18:36
 tags: Meta/Site News
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/manyyearsago.png
 ---
+
+<p><img src="https://media.eagereyes.org/media/2011/manyyearsago.png" alt="" width="600" height="168" /></p>
 
 # Five Years of EagerEyes
 
-<p class="img"><a href="http://eagereyes.org/blog/2011/five-years-of-eagereyes"><img src="https://media.eagereyes.org/media/2011/manyyearsago.png" alt="" width="600" height="168" /></a></p>
 In dog years, this website is now (almost) as old as I am. Over the years, it has changed both its direction and design several times; there have been times when I was overwhelmed with my readers' reactions and times when nobody seemed to read the stuff I wrote. While I generally hate “best of” postings and indulging in nostalgia, I want to look back at a few of the things that I believe have shaped this site and how I think about what I'm doing, and revisit a few of the more interesting and/or successful things I've managed to do and write over the years.
 
 ## Criticism

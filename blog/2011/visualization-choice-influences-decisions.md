@@ -3,18 +3,21 @@ title: "Visualization Choice Influences Decisions"
 description: "Can different ways of showing the same data lead to different decisions? And can those decisions be about something important, like continuing a clinical trial? A study published in 1999 shows that they can, and the way the data is represented does make a difference."
 date: 2011-05-17 21:28:40
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/elting-teaser.png
 ---
+
+<p><img src="https://media.eagereyes.org/media/2011/elting-teaser.png" alt="" width="600" height="220" /></p>
 
 # Visualization Choice Influences Decisions
 
-<p class="img"><a href="http://eagereyes.org/blog/2011/visualization-choice-influences-decisions"><img src="https://media.eagereyes.org/media/2011/elting-teaser.png" alt="" width="600" height="220" /></a></p>
 Can different ways of showing the same data lead to different decisions? And can those decisions be about something important, like continuing a clinical trial? A study published in 1999 shows that they can, and the way the data is represented does make a difference.
 
 ## The Study
 
 The study is very simple: a number of physicians at a medical research institute were shown data from a fictitious clinical trial and had to make a recommendation whether to continue or abort the trial. This is an important decision with real implications: if it becomes clear in a trial that the new treatment is ineffective, it is unethical (and damaging to the participants) to continue. The data was shown in one of four ways: a table, a bar chart, a pie chart, or an icon display. The table could either show the response rate (positive framing) or the failure rate (negative framing).
-<p class="img"><a href="http://eagereyes.org/media/2011/elting-large.png" rel="lightbox"><img src="https://media.eagereyes.org/media/2011/elting-600.png" alt="" width="600" height="476" /></a></p>
+
+<p class="img"><img src="https://media.eagereyes.org/media/2011/elting-600.png" alt="" width="600" height="476" /></p>
+
 The results are surprising: the icon display (lower right in the image) resulted in significantly more correct responses than either of the other graphical displays. The negatively framed table also lead to significantly more abort decisions than the positive one. Pie charts and bar charts performed very similarly. The study also looked into other reasons for differences, like the academic rank of the participant (all were Assistant Professor or higher), but found no effect.
 
 ## Criticism
@@ -57,7 +60,7 @@ Robert Kosara says…
 Wilte says…
 >	From the paper (http://www.bmj.com/content/318/7197/1527.full.pdf):
 >	
->	<cite>An assumption basic to this study was that in each
+>	An assumption basic to this study was that in each
 >	case there was a correct decision. (...) From a clinical perspective, one of the
 >	treatments was clearly superior to the other in
 >	response rate (88% v 62%). The superiority of the
@@ -66,10 +69,10 @@ Wilte says…
 >	nosis (88% v 55%). (...) and the difference in response rate was
 >	significant (P = 0.002), although P values were not
 >	included in the displays. 
->	
+>   
 >	<strong>Because of the large difference
 >	in efficacy, it would be clinically appropriate in each
->	case to stop the trial for an unplanned analysis.</strong></cite>
+>	case to stop the trial for an unplanned analysis.</strong>
 >	
 >	
 >	So also when the new treatment is obviously better, the study should be aborted (and everyone should I guess be treated with the new treatment).

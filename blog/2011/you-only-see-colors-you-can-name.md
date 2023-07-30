@@ -3,12 +3,12 @@ title: "You Only See Colors You Can Name"
 description: "While color is a purely visual phenomenon, the way we see color is not only a matter of our visual systems. It is well known that we are faster in telling colors apart that have different names, but do the names determine the colors or the colors the names? Recent work shows that language has a stronger influence than previously thought."
 date: 2011-11-20 18:31:02
 tags: Perception, Language
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/color-names-teaser.png
 ---
 
-# You Only See Colors You Can Name
+<p><img src="https://media.eagereyes.org/media/2011/color-names-teaser.png" width="600" height="200"></p>
 
-<a href="http://eagereyes.org/blog/2011/you-only-see-colors-you-can-name"><img src="https://media.eagereyes.org/media/2011/color-names-teaser.png" width="600" height="200"></a>
+# You Only See Colors You Can Name
 
 While color is a purely visual phenomenon, the way we see color is not only a matter of our visual systems. It is well known that we are faster in telling colors apart that have different names, but do the names determine the colors or the colors the names? Recent work shows that language has a stronger influence than previously thought.
 
@@ -34,9 +34,7 @@ It was clearly the language system interfering with a task that was presumably p
 
 ## The Himba Tribe
 
-A tribe in northern Namibia, named the <a href="http://en.wikipedia.org/wiki/Himba_people">Himba</a>, have seemingly unusual names for colors. What the video embedded below (<a href="http://www.youtube.com/watch?v=4b71rT9fU-I">linked here for people reading this in their newsreaders</a>) shows is that those names make it easier for them to see some color differences that most other people would find very difficult, whereas they have trouble telling colors apart that look quite different to most of us.
-
-<iframe width="600" height="335" src="http://www.youtube.com/embed/4b71rT9fU-I" frameborder="0" allowfullscreen></iframe>
+A tribe in northern Namibia, named the <a href="http://en.wikipedia.org/wiki/Himba_people">Himba</a>, have seemingly unusual names for colors. What the video embedded below (_edit: no longer available, unfortunately_) shows is that those names make it easier for them to see some color differences that most other people would find very difficult, whereas they have trouble telling colors apart that look quite different to most of us.
 
 What the video unfortunately does not discuss is why they have these names for colors. There is a slight hint when one of the tribesmen describes several things that are "white," like milk and water. It seems to me that their color names do not only (or primarily) describe hue, but also function of the things whose color they name. This is a very pragmatic way of using language, and is not unlike some languages whose grammatical genders are based not on sex, but on classes of things and animals that are more specific, like large vs. small animals, plants, dead things, etc.
 

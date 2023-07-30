@@ -3,12 +3,13 @@ title: "VisWeek Bingo, Interactive Edition 2011"
 description: "Last year's VisWeek Bingo was a big success, but it was also conceived of and created in such a rush that I'm embarrassed to even link to it now. For this year, I have created an interactive version of it for your perusal and amusement. It uses code Steve Streza developed for his Apple Keynote Bingo."
 date: 2011-10-10 21:28:38
 tags: VisWeek
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png
 ---
+
+<p><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170" /></p>
 
 # VisWeek Bingo, Interactive Edition 2011
 
-<p class="img"><a href="http://eagereyes.org/blog/2011/visweek-bingo-interactive-edition"><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170" /></a></p>
 Last year's VisWeek Bingo was a big success, but it was also conceived of and created in such a rush that I'm embarrassed to even link to it now. For this year, I have created an interactive version of it for your perusal and amusement. It uses code <a href="http://stevestreza.com/">Steve Streza</a> developed for his <a href="http://applebingo.me/">Apple Keynote Bingo</a>.
 
 ## Design
@@ -26,7 +27,7 @@ I already received a few good suggestions from Wolfgang Freiler, Jérôme Cukier
 ## Where to Find It
 
 Just click on the image below:
-<p class="img"><a href="http://visweek.me/" target="_blank"><img src="https://media.eagereyes.org/media/2011/visweek-bingo.png" alt="" width="”600”" height="”420”&lt;/a" /></a></p>
+<p class="img"><img src="https://media.eagereyes.org/media/2011/visweek-bingo.png" alt="" width="600" height="400" /></p>
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 10, 2011_

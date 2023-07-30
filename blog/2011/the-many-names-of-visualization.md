@@ -3,12 +3,13 @@ title: "The Many Names of Visualization"
 description: "Nathan Yau recently wrote a posting about the different words used for visualization and infographics. His definitions are interesting because they reveal quite a bit about his background and main focus, and his blind spots give some insights into the community he's working in."
 date: 2011-10-02 18:22:03
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/nametag.jpg
 ---
+
+<p><img src="https://media.eagereyes.org/media/2011/nametag.jpg" alt="" width="600" height="120" /></p>
 
 # The Many Names of Visualization
 
-<p class="img"><a href="http://eagereyes.org/blog/2011/the-many-names-of-visualization"><img src="https://media.eagereyes.org/media/2011/nametag.jpg" alt="" width="600" height="120" /></a></p>
 Nathan Yau recently wrote a <a href="http://flowingdata.com/2011/09/29/the-many-words-for-visualization/">posting about the different words used for visualization and infographics</a>. His definitions are interesting because they reveal quite a bit about his background and main focus, and his blind spots give some insights into the community he's working in.
 
 ## Definitions

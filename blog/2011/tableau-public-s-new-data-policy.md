@@ -3,7 +3,7 @@ title: "Tableau Public's New Data Policy"
 description: "Tableau made a huge mistake when they pulled a visualization of WikiLeaks statistics from their Tableau Public website a few months ago. But they've used the opportunity to develop a new policy for content posted there that is very clear and based on the idea of free speech. This removes a big obstacle for journalists who want to use the service: they no longer have to fear that their hard work might be destroyed because somebody does not like it."
 date: 2011-02-22 22:55:18
 tags: 
-featuredImage:
+featuredImage: 
 ---
 
 # Tableau Public's New Data Policy

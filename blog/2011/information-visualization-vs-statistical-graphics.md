@@ -3,12 +3,13 @@ title: "Information Visualization vs. Statistical Graphics"
 description: "Information Visualization shares part of its history and some techniques with statistical graphics. The two fields differ in their approaches though, and in the expectations people have of what they will gain from a visual representation. In two articles, Andrew Gelman and I have written about what we think visualization is, and our points of view could hardly be more different."
 date: 2011-08-02 21:14:30
 tags: 
-featuredImage:
+featuredImage: https://media.eagereyes.org/media/2011/scgn.jpg
 ---
+
+<p><img src="https://media.eagereyes.org/media/2011/scgn.jpg" alt="" width="600" height="194" /></p>
 
 # Information Visualization vs. Statistical Graphics
 
-<p class="img"><a href="http://eagereyes.org/blog/2011/information-visualization-vs-statistical-graphics"><img src="https://media.eagereyes.org/media/2011/scgn.jpg" alt="" width="600" height="194" /></a></p>
 Information Visualization shares part of its history and some techniques with statistical graphics. The two fields differ in their approaches though, and in the expectations people have of what they will gain from a visual representation. In two articles, Andrew Gelman and I have written about what we think visualization is, and our points of view could hardly be more different.
 
 ## The Article
@@ -34,7 +35,9 @@ That is clearly not what information visualization is about. The problem is not 
 I think it's clear that both Gelman and Fung see things from a statistics-centric point of view. That view is based on the things and the tools they are used to: static images, lots of number crunching and statistical testing, and R. When you're used to a tool like Tableau, interaction and being able to change things easily and quickly are perceived as advantages. But with a tool like R that produces static images and requires considerable effort to change things, this is different.
 
 Also, the image is not the end goal in visualization. Gelman talks about the circular sick leave data visualization that I'm using as an example in the article, saying that it doesn't give him any new insights because he would have expected a weekly pattern anyway. The image here shows the view where there are 28 days (or four weeks) on each period of the spiral, showing that pattern.
-<p class="img"><img src="https://media.eagereyes.org/media/2011/sickleave-aligned.jpg" alt="Spiral showing sick-leave data" width="600" height="600" /></p>
+
+<p class="img" align="center"><img src="https://media.eagereyes.org/media/2011/sickleave-aligned.jpg" alt="Spiral showing sick-leave data" width="300" height="300" /></p>
+
 Yes, there is that weekly pattern that we all expected. But there is also a lot more: there are seasonal patterns, there is an almost complete drop-off for the last quarter of the data, there are some atypical weeks where people suddenly get sick on Thursday, etc. Statistics may care mostly about that one effect that can be written down as a hypothesis and then tested, but infovis is about discovery. What else does this tell me? What more can I find out about the data? Is there other data that may explain some of these effects?
 
 If the goals and means in statistical graphics and infovis were the same, there would be no point in having both. But to get value out of them, we need to understand and respect the differences. There are <a href="http://had.co.nz/">some statisticians who get it</a>, but most seem to be stuck in the Tukey-Tufte school of thinking; unfortunately, most of them would even take that as a compliment. They need to stop looking at colorful pictures and start using an actual visualization tool: something that responds to mouse input and reacts in real-time; something that actually supports discovery in a visual way, rather than just plotting graphs.
