@@ -139,14 +139,14 @@ for post in posts:
 				outFile.write('</aside>\n')
 			outFile.write('\n')
 
-print()
-for folder in postsBySlug.keys():
-	posts = postsBySlug[folder]
-	posts = sorted(posts, key=lambda d: datetime.fromisoformat(d['date'][:-1])) #, reverse=True)
+# print()
+# for folder in postsBySlug.keys():
+# 	posts = postsBySlug[folder]
+# 	posts = sorted(posts, key=lambda d: datetime.fromisoformat(d['date'][:-1])) #, reverse=True)
 
-	print('Index: ' + folder)
-	with open('%s/index.md' % folder, 'w') as outFile:
-		outFile.write('# %s\n\n- ' % folder)
+# 	print('Index: ' + folder)
+# 	with open('%s/index.md' % folder, 'w') as outFile:
+# 		outFile.write('# %s\n\n- ' % folder)
 		
-		outFile.write('\n- '.join(map(lambda d: '[%s](/%s)' % (d['title'], d['slug']), posts)))
-		outFile.write('\n\n')
+# 		outFile.write('\n- '.join(map(lambda d: '[%s](/%s)' % (d['title'], d['slug']), posts)))
+# 		outFile.write('\n\n')
