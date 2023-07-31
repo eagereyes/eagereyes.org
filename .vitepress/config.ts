@@ -64,6 +64,10 @@ export default {
 			provider: 'local'
 		},
 
+		sitemap: {
+			hostname: 'https://eagereyes.org'
+		},
+
 		outlineTitle: 'Contents'
 	},
 
