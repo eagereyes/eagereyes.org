@@ -1,6 +1,13 @@
 // import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar';
 
+// console.dir(generateSidebar({collapseDepth: 2,
+// 	capitalizeFirst: true,
+// 	useTitleFromFrontmatter: true,
+// 	includeFolderIndexFile: true,				
+// 	useFolderLinkAsIndexPage: true,
+// 	excludeFolders: ['node_modules', 'publications']}), { depth: null })
+
 // https://vitepress.dev/reference/site-config
 export default {
 	title: "eagereyes.org",
@@ -18,13 +25,11 @@ export default {
 		],
 
 		sidebar: generateSidebar({
-				// rootGroupText: 'Blog 2016',
-				// scanStartPath: 'blog/2016',
 				collapseDepth: 2,
 				capitalizeFirst: true,
 				useTitleFromFrontmatter: true,
-				includeFolderIndexFile: true,				
-				useFolderLinkAsIndexPage: true,
+				// includeFolderIndexFile: true,				
+				// useFolderLinkAsIndexPage: true,
 				excludeFolders: ['node_modules', 'publications']
 			}),
 		
