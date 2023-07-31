@@ -1,6 +1,7 @@
 # blog/2016
 
 - [The State of Information Visualization, 2016](/blog/zipscribble-maps/the-state-of-information-visualization-2016)
+- [Ye Olde Pie Chart Debate](/blog/2016/ye-olde-pie-chart-debate)
 - [The Two-Paper Package](/blog/zipscribble-maps/the-two-paper-package)
 - [The Personified User Interface Trap](/blog/zipscribble-maps/the-personified-user-interface-trap)
 - [Introducing Shift Register, My New Electronics Blog](/blog/zipscribble-maps/introducing-shift-register-my-new-electronics-blog)

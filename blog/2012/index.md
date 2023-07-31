@@ -3,6 +3,7 @@
 - [Why I Switched From Drupal to WordPress](/blog/2012/why-i-switched-drupal-wordpress)
 - [New Posting Frequency for 2012](/blog/2012/posting-frequency-2012)
 - [Embracing Uncertainty in Two-Line Charts](/blog/2012/embracing-uncertainty-two-line-charts)
+- [The Interactive ZIPScribble Map](/blog/2012/interactive-zipscribble-map)
 - [An Interactive Version of the ZIPScribble Map](/blog/2012/interactive-version-zipscribble-map)
 - [Hello from Tableau (and Seattle)!](/blog/2012/hello-tableau-and-seattle)
 - [The State of Information Visualization, 2012](/blog/2012/state-information-visualization-2012)
