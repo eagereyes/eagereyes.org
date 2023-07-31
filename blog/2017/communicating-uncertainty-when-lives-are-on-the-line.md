@@ -18,7 +18,7 @@ There are many small things that could be improved here, but the key is the <em>
 
 One big problem with this map is that it looks like the storm is growing, which is not what is actually being shown here – but it's hard not to see it that way. This is such a common misunderstanding that it warrants this notice at the top of the map:
 
-<p align="center"><img class="aligncenter size-full wp-image-10165" src="media.https://eagereyes.org/wp-content/uploads/2017/09/irma-noaa-notice.png" alt="" width="653" height="40" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-10165" src="https://media.eagereyes.org/wp-content/uploads/2017/09/irma-noaa-notice.png" alt="" width="653" height="40" /></p>
 
 The sharp boundary also creates the impression that any area not covered is definitely in the clear. That is not the case, it's just outside the area that is above a certain likelihood. Depending how far out the prediction goes and how much the different models disagree, areas close to but outside the boundary could easily be affected (and likely are either way, because they will receive lots of rain and wind, even if not hurricane levels).
 
