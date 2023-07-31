@@ -64,11 +64,27 @@ export default {
 			provider: 'local'
 		},
 
-		sitemap: {
-			hostname: 'https://eagereyes.org'
-		},
+		outlineTitle: 'Contents',
+	},
 
-		outlineTitle: 'Contents'
+	head: [
+		[
+			'script',
+			{async: true, src: "https://www.googletagmanager.com/gtag/js?id=G-PDJZL25VMX"}
+		],
+		[
+			'script',
+			{},
+			`window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			
+			gtag('config', 'G-PDJZL25VMX');`
+		]
+	],
+
+	sitemap: {
+		hostname: 'https://eagereyes.org'
 	},
 
 	// // set page title for publications
