@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA
 outline: false
 ---
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png" width="800" height="600" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png" width="800" height="383" /></p>
 
 # Paper: More Than Meets the Eye: A Closer Look at Encodings in Visualization
 
