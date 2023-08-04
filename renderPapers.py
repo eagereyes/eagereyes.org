@@ -16,12 +16,26 @@ def authorList(authField):
     else:
         return ', '.join(authors[:-1]) + ', and ' + authors[len(authors)-1]
 
-def makeReference(paper):
-    s = '%s, ' % authorList(paper['author'])
-    if '_pdf' not in paper: # meaning, no 'paper: no' entry
-        s += '<a href="/papers/%s/%s.pdf" target="_blank">%s</a>' % (year, slug, paper['title'])
+def getYear(paper):
+    return paper['_key'].split(':')[-1][:4]
+
+def makeReference(paper, pdfLink):
+    slug = key2URL(paper['_key'])
+    year = getYear(paper)
+
+    s = ''
+
+    if not pdfLink:
+        s += '- '
+
+    s += '%s, ' % authorList(paper['author'])
+    if pdfLink:
+        if '_pdf' not in paper: # meaning, no 'paper: no' entry
+            s += '<a href="https://media.eagereyes.org/papers/%s/%s.pdf" target="_blank">%s</a>' % (year, slug, paper['title'])
+        else:
+            s += paper['title']
     else:
-        s += paper['title']
+        s += '<a href="%s">%s</a>' % (slug, paper['title'])
 
     if paper['_type'] == 'inbook':
         s += ', in %s, _%s_' % (paper['editor'], paper['venue'])
@@ -40,7 +54,7 @@ def makeReference(paper):
 
     s += ', %s.' % year
 
-    if 'doi' in paper:
+    if 'doi' in paper and pdfLink:
         s += ' <a href="https://dx.doi.org/%s" target="_new">DOI: %s</a>' % (paper['doi'], paper['doi'])
 
     return s
@@ -50,7 +64,6 @@ for paper in papers:
     print(paper['_key'])
 
     slug = key2URL(paper['_key'])
-    year = slug.split('-')[-1][:4]
 
     with open('publications/%s.md' % slug, 'w') as outFile:
         outFile.write('---\n')
@@ -64,7 +77,7 @@ for paper in papers:
         if 'abstract' in paper:
             outFile.write('> _%s_\n\n' % paper['abstract'])
 
-        outFile.write('%s\n\n' % makeReference(paper))
+        outFile.write('%s\n\n' % makeReference(paper, True))
 
         if 'data' in paper:
             outFile.write('- <a href="%s">Data</a>\n' % paper['data'])
@@ -81,3 +94,22 @@ for paper in papers:
 
 
         outFile.write('\n')
+
+with open('publications/index.md', 'w') as outFile:
+    outFile.write('---\n')
+    outFile.write('title: Robert Kosara\'s Publications\n')
+    outFile.write('---\n\n')
+    outFile.write('# Robert Kosara\'s Publications\n\n')
+
+    lastYear = getYear(papers[0])
+    outFile.write('## %s\n\n' % lastYear)
+    for paper in papers:
+        year = getYear(paper)
+        if year != lastYear:
+            outFile.write('\n## %s\n\n' % year)
+            lastYear = year
+
+        outFile.write('%s\n' % makeReference(paper, False))
+
+    outFile.write('\n')
+
