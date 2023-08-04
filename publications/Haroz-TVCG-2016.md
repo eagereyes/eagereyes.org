@@ -14,6 +14,7 @@ Steve Haroz, Robert Kosara, and Steven L. Franconeri, <a href="https://media.eag
 
 ```bibtex
 @article{Haroz:TVCG:2016,
+	year = 2016,
 	title = {The Connected Scatterplot for Presenting Paired Time Series},
 	author = {Steve Haroz and Robert Kosara and Steven L. Franconeri},
 	venue = {Transactions on Visualization and Computer Graphics (TVCG)},

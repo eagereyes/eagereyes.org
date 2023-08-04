@@ -11,6 +11,7 @@ Peter Votruba, Silvia Miksch, and Robert Kosara, <a href="https://media.eagereye
 
 ```bibtex
 @inproceedings{Votruba:AIME:2003,
+	year = 2003,
 	title = {Linking Clinical Guidelines with Formal Representations},
 	author = {Peter Votruba and Silvia Miksch and Robert Kosara},
 	venue = {Artificial Intelligence in Medicine (AIME)},

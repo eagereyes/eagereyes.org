@@ -11,6 +11,7 @@ Aritra Dasgupta and Robert Kosara, <a href="https://media.eagereyes.org/papers/2
 
 ```bibtex
 @article{Dasgupta:InfoVis:2011,
+	year = 2011,
 	title = {Adaptive Privacy-Preserving Visualization Using Parallel Coordinates},
 	author = {Aritra Dasgupta and Robert Kosara},
 	venue = {Transactions on Visualization and Computer Graphics (Proceedings InfoVis)},

@@ -14,6 +14,7 @@ Robert Kosara and Jock D. Mackinlay, <a href="https://media.eagereyes.org/papers
 
 ```bibtex
 @article{Kosara:Computer:2013,
+	year = 2013,
 	title = {Storytelling: The Next Step for Visualization},
 	author = {Robert Kosara and Jock D. Mackinlay},
 	venue = {IEEE Computer (Special Issue on Cutting-Edge Research in Visualization)},

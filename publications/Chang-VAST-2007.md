@@ -11,6 +11,7 @@ Remco Chang, Mohammad Ghoniem, Robert Kosara, William Ribarsky, Jing Yang, Evan 
 
 ```bibtex
 @inproceedings{Chang:VAST:2007,
+	year = 2007,
 	title = {WireVis: Visualization of Categorical, Time-Varying Financial Transaction Data},
 	author = {Remco Chang and Mohammad Ghoniem and Robert Kosara and William Ribarsky and Jing Yang and Evan Suma and Caroline Ziemkiewicz and Daniel Kern and Agus Sudjianto},
 	venue = {IEEE Symposium on Visual Analytics Science and Technology (VAST)},

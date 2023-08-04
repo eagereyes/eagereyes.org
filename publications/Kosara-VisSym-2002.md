@@ -11,6 +11,7 @@ Robert Kosara, Silvia Miksch, Helwig Hauser, Johann Schrammel, Verena Giller, an
 
 ```bibtex
 @inproceedings{Kosara:VisSym:2002,
+	year = 2002,
 	title = {Useful Properties of Semantic Depth of Field for Better F+C Visualization},
 	author = {Robert Kosara and Silvia Miksch and Helwig Hauser and Johann Schrammel and Verena Giller and Manfred Tscheligi},
 	venue = {Proceedings of the Joint Eurographics – IEEE TCVG Symposium on Visualization (VisSym)},

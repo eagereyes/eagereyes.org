@@ -13,6 +13,7 @@ Drew Skau and Robert Kosara, <a href="https://media.eagereyes.org/papers/2017/Sk
 
 ```bibtex
 @inproceedings{Skau:EuroVis:2017,
+	year = 2017,
 	title = {Readability and Precision in Pictorial Bar Charts},
 	author = {Drew Skau and Robert Kosara},
 	venue = {Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)},

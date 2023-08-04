@@ -11,6 +11,7 @@ Robert Kosara, Helwig Hauser, and Donna L. Gresh, <a href="https://media.eagerey
 
 ```bibtex
 @inproceedings{Kosara:STAR:2003,
+	year = 2003,
 	title = {An Interaction View on Information Visualizatio},
 	author = {Robert Kosara and Helwig Hauser and Donna L. Gresh},
 	venue = {State-of-the-Art Proceedings of EUROGRAPHICS},

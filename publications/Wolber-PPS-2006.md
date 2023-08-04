@@ -9,6 +9,7 @@ Gerhard Wolber and Robert Kosara, Pharmacophores from Macromolecular Complexes w
 
 ```bibtex
 @inbook{Wolber:PPS:2006,
+	year = 2006,
 	title = {Pharmacophores from Macromolecular Complexes with LigandScout},
 	author = {Gerhard Wolber and Robert Kosara},
 	editor = {Langer, Hoffmann},

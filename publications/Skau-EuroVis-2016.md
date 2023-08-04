@@ -15,6 +15,7 @@ Drew Skau and Robert Kosara, <a href="https://media.eagereyes.org/papers/2016/Sk
 
 ```bibtex
 @article{Skau:EuroVis:2016,
+	year = 2016,
 	title = {Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts},
 	author = {Drew Skau and Robert Kosara},
 	venue = {Computer Graphics Forum (Proceedings EuroVis)},

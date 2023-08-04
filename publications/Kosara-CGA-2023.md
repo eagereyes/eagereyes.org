@@ -13,6 +13,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2023/Kosara-CGA-2023.
 
 ```bibtex
 @article{Kosara:CGA:2023,
+	year = 2023,
 	title = {Notebooks for Data Analysis and Visualization: Moving Beyond the Data},
 	author = {Robert Kosara},
 	venue = {Computer Graphics and Applications (CG&A)},

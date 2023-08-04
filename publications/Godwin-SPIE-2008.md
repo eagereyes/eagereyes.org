@@ -11,6 +11,7 @@ Alex Godwin, Remco Chang, Robert Kosara, and William Ribarsky, <a href="https://
 
 ```bibtex
 @inproceedings{Godwin:SPIE:2008,
+	year = 2008,
 	title = {Visual Analysis of Entity Relationships in Global Terrorism Database},
 	author = {Alex Godwin and Remco Chang and Robert Kosara and William Ribarsky},
 	venue = {SPIE Defense and Security},

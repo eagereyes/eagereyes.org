@@ -11,6 +11,7 @@ Remco Chang, Robert Kosara, Alex Godwin, and William Ribarsky, <a href="https://
 
 ```bibtex
 @inproceedings{Chang:AAAI:2009,
+	year = 2009,
 	title = {Towards A Role of Visualization in Social Modeling},
 	author = {Remco Chang and Robert Kosara and Alex Godwin and William Ribarsky},
 	venue = {AAAI 2009 Spring Symposium on Technosocial Predictive Analytics},

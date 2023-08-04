@@ -14,6 +14,7 @@ Robert Kosara and Drew Skau, <a href="https://media.eagereyes.org/papers/2016/Ko
 
 ```bibtex
 @inproceedings{Kosara:EuroVis:2016,
+	year = 2016,
 	title = {Judgment Error in Pie Chart Variations},
 	author = {Robert Kosara and Drew Skau},
 	venue = {Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)},

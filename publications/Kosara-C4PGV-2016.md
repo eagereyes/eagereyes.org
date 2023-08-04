@@ -11,6 +11,7 @@ Robert Kosara, Aritra Dasgupta, and Enrico Bertini, <a href="https://media.eager
 
 ```bibtex
 @inproceedings{Kosara:C4PGV:2016,
+	year = 2016,
 	title = {Reflecting on the Design Criteria for Explanatory Visualizations},
 	author = {Robert Kosara and Aritra Dasgupta and Enrico Bertini},
 	venue = {Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV)},

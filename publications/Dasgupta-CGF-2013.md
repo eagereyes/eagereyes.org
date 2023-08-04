@@ -11,6 +11,7 @@ Aritra Dasgupta, Min Chen, and Robert Kosara, <a href="https://media.eagereyes.o
 
 ```bibtex
 @article{Dasgupta:CGF:2013,
+	year = 2013,
 	title = {Measuring Privacy and Utility in Privacy-Preserving Visualization},
 	author = {Aritra Dasgupta and Min Chen and Robert Kosara},
 	venue = {Computer Graphics Forum},

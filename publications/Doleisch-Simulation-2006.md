@@ -11,6 +11,7 @@ Helmut Doleisch, Helwig Hauser, Martin Gasser, and Robert Kosara, Interactive Fo
 
 ```bibtex
 @article{Doleisch:Simulation:2006,
+	year = 2006,
 	title = {Interactive Focus+Context Analysis of Large, Time-Dependent Flow Simulation Data},
 	author = {Helmut Doleisch and Helwig Hauser and Martin Gasser and Robert Kosara},
 	venue = {Simulation},

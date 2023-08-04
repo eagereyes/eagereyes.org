@@ -11,6 +11,7 @@ Matthew Brehmer, Robert Kosara, and Carmen Hull, <a href="https://media.eagereye
 
 ```bibtex
 @article{Brehmer:VIS:2021b,
+	year = 2021,
 	title = {Generative Design Inspiration for Glyphs with Diatoms},
 	author = {Matthew Brehmer and Robert Kosara and Carmen Hull},
 	venue = {Transactions on Visualization and Computer Graphics (Proceedings VIS)},

@@ -77,8 +77,10 @@ for paper in papers:
         if 'abstract' in paper:
             outFile.write('> _%s_\n\n' % paper['abstract'])
 
+        # main reference
         outFile.write('%s\n\n' % makeReference(paper, True))
 
+        # additional links
         if 'data' in paper:
             outFile.write('- <a href="%s">Data</a>\n' % paper['data'])
         if 'website' in paper:
@@ -86,8 +88,10 @@ for paper in papers:
         if 'talk' in paper:
             outFile.write('- <a href="%s">Talk</a>\n' % paper['talk'])
         
+        # BibTeX
         outFile.write('\n```bibtex\n')
         outFile.write('@%s{%s,\n' % (paper['_type'], paper['_key']))
+        outFile.write('\tyear = %s,\n' % getYear(paper))
         for key in paper:
             if not key[0] == '_':
                 outFile.write('\t%s = {%s},\n' % (key, paper[key]))

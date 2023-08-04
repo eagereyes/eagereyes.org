@@ -11,6 +11,7 @@ Robert Kosara and Silvia Miksch, <a href="https://media.eagereyes.org/papers/199
 
 ```bibtex
 @inproceedings{Kosara:AIMDM:1999,
+	year = 1999,
 	title = {Visualization Techniques for Time-Oriented, Skeletal Plans in Medical Therapy Planning},
 	author = {Robert Kosara and Silvia Miksch},
 	venue = {Proceedings of the Joint European Conference on Artificial Intelligence in Medicine and Medical Decision Making (AIMDM)},

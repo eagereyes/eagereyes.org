@@ -13,6 +13,7 @@ Caroline Ziemkiewicz and Robert Kosara, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @article{Ziemkiewicz:InfoVis:2008,
+	year = 2008,
 	title = {The Shaping of Information by Visual Metaphors},
 	author = {Caroline Ziemkiewicz and Robert Kosara},
 	venue = {Transactions on Visualization and Computer Graphics (Proceedings InfoVis)},

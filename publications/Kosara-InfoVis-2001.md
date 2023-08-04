@@ -11,6 +11,7 @@ Robert Kosara, Silvia Miksch, and Helwig Hauser, <a href="https://media.eagereye
 
 ```bibtex
 @inproceedings{Kosara:InfoVis:2001,
+	year = 2001,
 	title = {Semantic Depth of Field},
 	author = {Robert Kosara and Silvia Miksch and Helwig Hauser},
 	venue = {Proceedings Information Visualization (InfoVis)},

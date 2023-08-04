@@ -11,6 +11,7 @@ Robert Kosara, Christopher G. Healey, Victoria Interrante, David H. Laidlaw, and
 
 ```bibtex
 @article{Kosara:CGA:2003,
+	year = 2003,
 	title = {Thoughts on User Studies: Why, How, and When},
 	author = {Robert Kosara and Christopher G. Healey and Victoria Interrante and David H. Laidlaw and Colin Ware},
 	venue = {Computer Graphics and Applications (CG&A), Visualization Viewpoints},

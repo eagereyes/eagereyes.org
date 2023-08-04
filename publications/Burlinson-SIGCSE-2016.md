@@ -11,6 +11,7 @@ David Burlinson, Mihai Mehedint, Chris Grafer, Kalpathi Subramanian, Jamie Payto
 
 ```bibtex
 @article{Burlinson:SIGCSE:2016,
+	year = 2016,
 	title = {BRIDGES: A System to Enable Creation of Engaging Data Structures Assignments with Real-World Data and Visualizations},
 	author = {David Burlinson and Mihai Mehedint and Chris Grafer and Kalpathi Subramanian and Jamie Payton and Paula Goolkasian and Michael Youngblood and Robert Kosara},
 	venue = {Proceedings of the 47th ACM Technical Symposium on Computing Science Education (SIGCSE)},

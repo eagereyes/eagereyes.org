@@ -11,6 +11,7 @@ Peter Votruba, Silvia Miksch, and Robert Kosara, <a href="https://media.eagereye
 
 ```bibtex
 @inproceedings{Votruba:MedInfo:2004,
+	year = 2004,
 	title = {Facilitating Knowledge Maintenance of Clinical Guidelines and Protocols},
 	author = {Peter Votruba and Silvia Miksch and Robert Kosara},
 	venue = {11th World Congress on Medical Informatics (MedInfo)},

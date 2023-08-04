@@ -11,6 +11,7 @@ Robert Kosara, Silvia Miksch, Yuval Shahar, and Peter Johnson, <a href="https://
 
 ```bibtex
 @inproceedings{Kosara:TwD:1998,
+	year = 1998,
 	title = {AsbruView: Capturing Complex, Time-oriented Plans – Beyond Flow-Charts},
 	author = {Robert Kosara and Silvia Miksch and Yuval Shahar and Peter Johnson},
 	venue = {The Second Workshop on Thinking with Diagrams 1998 (TwD)},

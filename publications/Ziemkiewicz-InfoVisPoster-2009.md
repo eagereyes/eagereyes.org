@@ -11,6 +11,7 @@ Caroline Ziemkiewicz and Robert Kosara, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @inproceedings{Ziemkiewicz:InfoVisPoster:2009,
+	year = 2009,
 	title = {Design Elements and the Perception of Information Structure},
 	author = {Caroline Ziemkiewicz and Robert Kosara},
 	venue = {IEEE Information Visualization Posters},

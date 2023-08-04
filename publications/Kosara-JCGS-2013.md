@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2013/Kosara-JCGS-2013
 
 ```bibtex
 @article{Kosara:JCGS:2013,
+	year = 2013,
 	title = {InfoVis Is So Much More: A Comment on Gelman and Unwin and an Invitation to Consider the Opportunities},
 	author = {Robert Kosara},
 	venue = {Journal of Computational and Graphical Statistics},

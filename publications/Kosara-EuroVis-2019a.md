@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2019/Kosara-EuroVis-2
 
 ```bibtex
 @inproceedings{Kosara:EuroVis:2019a,
+	year = 2019,
 	title = {Circular Part-to-Whole Charts Using the Area Visual Cue},
 	author = {Robert Kosara},
 	venue = {Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)},

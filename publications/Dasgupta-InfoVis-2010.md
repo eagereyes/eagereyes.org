@@ -13,6 +13,7 @@ Aritra Dasgupta and Robert Kosara, <a href="https://media.eagereyes.org/papers/2
 
 ```bibtex
 @article{Dasgupta:InfoVis:2010,
+	year = 2010,
 	title = {Pargnostics: Screen-Space Metrics for Parallel Coordinates},
 	author = {Aritra Dasgupta and Robert Kosara},
 	venue = {Transactions on Visualization and Computer Graphics (Proceedings InfoVis)},

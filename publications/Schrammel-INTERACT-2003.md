@@ -11,6 +11,7 @@ Johann Schrammel, Verena Giller, Manfred Tscheligi, Robert Kosara, Silvia Miksch
 
 ```bibtex
 @inproceedings{Schrammel:INTERACT:2003,
+	year = 2003,
 	title = {Experimental Evaluation of Semantic Depth of Field, a Preattentive Method for Focus+Context Visualization},
 	author = {Johann Schrammel and Verena Giller and Manfred Tscheligi and Robert Kosara and Silvia Miksch and Helwig Hauser},
 	venue = {Proceedings of the Ninth IFIP TC13 International Conference on Human-Computer Interaction (INTERACT)},

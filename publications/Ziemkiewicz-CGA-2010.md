@@ -13,6 +13,7 @@ Caroline Ziemkiewicz and Robert Kosara, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @article{Ziemkiewicz:CGA:2010,
+	year = 2010,
 	title = {Beyond Bertin: Seeing the Forest despite the Trees},
 	author = {Caroline Ziemkiewicz and Robert Kosara},
 	venue = {Computer Graphics and Applications (CG&A), Visualization Viewpoints},

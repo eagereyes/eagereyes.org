@@ -13,6 +13,7 @@ Robert Kosara, Fritz Drury, Lars Erik Holmquist, and David H. Laidlaw, <a href="
 
 ```bibtex
 @article{Kosara:CGA:2008,
+	year = 2008,
 	title = {Visualization Criticism},
 	author = {Robert Kosara and Fritz Drury and Lars Erik Holmquist and David H. Laidlaw},
 	venue = {Computer Graphics and Applications (CG&A), Visualization Viewpoints},

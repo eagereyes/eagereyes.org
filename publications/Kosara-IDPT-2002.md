@@ -11,6 +11,7 @@ Robert Kosara, Silvia Miksch, Andreas Seyfang, and Peter Votruba, <a href="https
 
 ```bibtex
 @inproceedings{Kosara:IDPT:2002,
+	year = 2002,
 	title = {Tools for Acquiring Clinical Guidelines in Asbru},
 	author = {Robert Kosara and Silvia Miksch and Andreas Seyfang and Peter Votruba},
 	venue = {Proceedings of the Sixth World Conference on Integrated Design and Process Technology (IDPT)},

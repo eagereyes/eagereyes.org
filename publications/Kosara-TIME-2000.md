@@ -11,6 +11,7 @@ Robert Kosara and Silvia Miksch, <a href="https://media.eagereyes.org/papers/200
 
 ```bibtex
 @inproceedings{Kosara:TIME:2000,
+	year = 2000,
 	title = {A Visualization of Medical Therapy Plans compared to Gantt and PERT Charts},
 	author = {Robert Kosara and Silvia Miksch},
 	venue = {Proceedings of the Seventh International Workshop on Temporal Representation and Reasoning (TIME)},

@@ -11,6 +11,7 @@ Robert Kosara, Silvia Miksch, and Helwig Hauser, <a href="https://media.eagereye
 
 ```bibtex
 @article{Kosara:CGA:2002,
+	year = 2002,
 	title = {Focus+Context Taken Literally},
 	author = {Robert Kosara and Silvia Miksch and Helwig Hauser},
 	venue = {IEEE Computer Graphics & Applications (CG&A)},

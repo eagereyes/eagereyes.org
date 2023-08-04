@@ -11,6 +11,7 @@ Caroline Ziemkiewicz and Robert Kosara, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @inbook{Ziemkiewicz:IIS:2010,
+	year = 2010,
 	title = {Embedding Information Visualization Within Visual Representation},
 	author = {Caroline Ziemkiewicz and Robert Kosara},
 	venue = {Advances in Information and Intelligent Systems},

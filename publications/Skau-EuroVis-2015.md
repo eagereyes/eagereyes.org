@@ -13,6 +13,7 @@ Drew Skau, Lane Harrison, and Robert Kosara, <a href="https://media.eagereyes.or
 
 ```bibtex
 @article{Skau:EuroVis:2015,
+	year = 2015,
 	title = {An Evaluation of the Impact of Visual Embellishments in Bar Charts},
 	author = {Drew Skau and Lane Harrison and Robert Kosara},
 	venue = {Computer Graphics Forum (Proceedings EuroVis)},

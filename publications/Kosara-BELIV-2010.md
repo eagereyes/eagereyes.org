@@ -13,6 +13,7 @@ Robert Kosara and Caroline Ziemkiewicz, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @inproceedings{Kosara:BELIV:2010,
+	year = 2010,
 	title = {Do Mechanical Turks Dream of Square Pie Charts?},
 	author = {Robert Kosara and Caroline Ziemkiewicz},
 	venue = {Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)},

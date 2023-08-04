@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2019/Kosara-EuroVis-2
 
 ```bibtex
 @inproceedings{Kosara:EuroVis:2019b,
+	year = 2019,
 	title = {The Impact of Distribution and Chart Type on Part-to-Whole Comparisons},
 	author = {Robert Kosara},
 	venue = {Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)},

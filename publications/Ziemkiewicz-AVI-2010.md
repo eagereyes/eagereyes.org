@@ -13,6 +13,7 @@ Caroline Ziemkiewicz and Robert Kosara, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @inproceedings{Ziemkiewicz:AVI:2010,
+	year = 2010,
 	title = {Implied Dynamics in Information Visualization},
 	author = {Caroline Ziemkiewicz and Robert Kosara},
 	venue = {Proceedings Advanced Visual Interfaces (AVI)},

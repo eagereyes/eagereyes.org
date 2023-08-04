@@ -14,6 +14,7 @@ Steve Haroz, Robert Kosara, and Steven L. Franconeri, <a href="https://media.eag
 
 ```bibtex
 @inproceedings{Haroz:CHI:2015,
+	year = 2015,
 	title = {ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs},
 	author = {Steve Haroz and Robert Kosara and Steven L. Franconeri},
 	venue = {Proceedings CHI},

@@ -11,6 +11,7 @@ Khaldoon (Kal) Dhou, Robert Kosara, Mirsad Hadzikadic, and Mark Faust, <a href="
 
 ```bibtex
 @inproceedings{Dhou:InfoVisPoster:2013,
+	year = 2013,
 	title = {Size Judgment and Comparison in Tag Clouds},
 	author = {Khaldoon (Kal) Dhou and Robert Kosara and Mirsad Hadzikadic and Mark Faust},
 	venue = {IEEE Information Visualization Posters},

@@ -11,6 +11,7 @@ Robert Kosara, Silvia Miksch, Yuval Shahar, and Peter Johnson, AsbruView: Captur
 
 ```bibtex
 @inbook{Kosara:DRR:2002,
+	year = 2002,
 	title = {AsbruView: Capturing Complex, Time-oriented Plans – Beyond Flow-Charts},
 	author = {Robert Kosara and Silvia Miksch and Yuval Shahar and Peter Johnson},
 	venue = {Diagrammatic Representation and Reasoning},

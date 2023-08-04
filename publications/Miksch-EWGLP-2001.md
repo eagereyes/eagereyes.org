@@ -9,6 +9,7 @@ Silvia Miksch, Robert Kosara, and Andreas Seyfang, Is Workflow Management Approp
 
 ```bibtex
 @inproceedings{Miksch:EWGLP:2001,
+	year = 2001,
 	title = {Is Workflow Management Appropriate for Therapy Planning?},
 	author = {Silvia Miksch and Robert Kosara and Andreas Seyfang},
 	venue = {Proceedings of the First European Workshop on Computer-based Support for Clinical Guidelines and Protocols (EWGLP 2000)},

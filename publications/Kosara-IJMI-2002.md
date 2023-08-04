@@ -11,6 +11,7 @@ Robert Kosara and Silvia Miksch, <a href="https://media.eagereyes.org/papers/200
 
 ```bibtex
 @article{Kosara:IJMI:2002,
+	year = 2002,
 	title = {Visualization Methods for Data Analysis and Planning in Medical Applications},
 	author = {Robert Kosara and Silvia Miksch},
 	venue = {International Journal of Medical Informatics},

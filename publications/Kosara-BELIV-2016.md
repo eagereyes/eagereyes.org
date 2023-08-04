@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2016/Kosara-BELIV-201
 
 ```bibtex
 @inproceedings{Kosara:BELIV:2016,
+	year = 2016,
 	title = {An Empire Built On Sand: Reexamining What We Think We Know About Visualization},
 	author = {Robert Kosara},
 	venue = {Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)},

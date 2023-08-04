@@ -11,6 +11,7 @@ Caroline Ziemkiewicz and Robert Kosara, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @article{Ziemkiewicz:EuroVis:2009,
+	year = 2009,
 	title = {Preconceptions and Individual Differences in Understanding Visual Metaphors},
 	author = {Caroline Ziemkiewicz and Robert Kosara},
 	venue = {Computer Graphics Forum (Proceedings EuroVis)},

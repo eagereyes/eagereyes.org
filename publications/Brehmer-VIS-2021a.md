@@ -11,6 +11,7 @@ Matthew Brehmer and Robert Kosara, <a href="https://media.eagereyes.org/papers/2
 
 ```bibtex
 @article{Brehmer:VIS:2021a,
+	year = 2021,
 	title = {From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations},
 	author = {Matthew Brehmer and Robert Kosara},
 	venue = {Transactions on Visualization and Computer Graphics (Proceedings VIS)},

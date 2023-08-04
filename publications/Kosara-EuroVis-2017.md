@@ -13,6 +13,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2017/Kosara-EuroVis-2
 
 ```bibtex
 @inproceedings{Kosara:EuroVis:2017,
+	year = 2017,
 	title = {An Argument Structure for Data Stories},
 	author = {Robert Kosara},
 	venue = {Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)},

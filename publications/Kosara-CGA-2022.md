@@ -13,6 +13,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2022/Kosara-CGA-2022.
 
 ```bibtex
 @article{Kosara:CGA:2022,
+	year = 2022,
 	title = {More Than Meets the Eye: A Closer Look at Encodings in Visualization},
 	author = {Robert Kosara},
 	venue = {Computer Graphics and Applications (CG&A)},

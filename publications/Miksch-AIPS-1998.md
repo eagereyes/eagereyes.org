@@ -11,6 +11,7 @@ Silvia Miksch, Robert Kosara, Yuval Shahar, and Peter Johnson, <a href="https://
 
 ```bibtex
 @inproceedings{Miksch:AIPS:1998,
+	year = 1998,
 	title = {AsbruView: Visualization of Time-Oriented, Skeletal Plans},
 	author = {Silvia Miksch and Robert Kosara and Yuval Shahar and Peter Johnson},
 	venue = {The Fourth International Conference on Artificial Intelligence Planning Systems (AIPS)},

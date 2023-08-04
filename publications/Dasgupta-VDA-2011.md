@@ -13,6 +13,7 @@ Aritra Dasgupta and Robert Kosara, <a href="https://media.eagereyes.org/papers/2
 
 ```bibtex
 @inproceedings{Dasgupta:VDA:2011,
+	year = 2011,
 	title = {Privacy-Preserving Data Visualization using Parallel Coordinates},
 	author = {Aritra Dasgupta and Robert Kosara},
 	venue = {Visualization and Data Analysis (VDA)},

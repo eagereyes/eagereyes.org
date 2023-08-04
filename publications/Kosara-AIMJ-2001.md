@@ -11,6 +11,7 @@ Robert Kosara and Silvia Miksch, <a href="https://media.eagereyes.org/papers/200
 
 ```bibtex
 @article{Kosara:AIMJ:2001,
+	year = 2001,
 	title = {Metaphors of Movement: A Visualization and User Interface for Time-Oriented, Skeletal Plans},
 	author = {Robert Kosara and Silvia Miksch},
 	venue = {Artificial Intelligence in Medicine},

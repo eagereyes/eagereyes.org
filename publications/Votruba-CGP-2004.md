@@ -11,6 +11,7 @@ Peter Votruba, Silvia Miksch, Andreas Seyfang, and Robert Kosara, <a href="https
 
 ```bibtex
 @inproceedings{Votruba:CGP:2004,
+	year = 2004,
 	title = {Tracing the Formalization Steps of Textual Guidelines},
 	author = {Peter Votruba and Silvia Miksch and Andreas Seyfang and Robert Kosara},
 	venue = {Symposium on Computerized Guidelines and Protocols (CGP)},

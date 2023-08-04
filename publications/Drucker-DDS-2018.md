@@ -11,6 +11,7 @@ Steven Drucker, Samuel Huron, Robert Kosara, Jonathan Schwabish, and Nicholas Di
 
 ```bibtex
 @inbook{Drucker:DDS:2018,
+	year = 2018,
 	title = {Communicating Data to an Audience},
 	author = {Steven Drucker and Samuel Huron and Robert Kosara and Jonathan Schwabish and Nicholas Diakopoulos},
 	venue = {Data-Driven Storytelling},

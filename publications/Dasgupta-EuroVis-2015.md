@@ -11,6 +11,7 @@ Aritra Dasgupta, Robert Kosara, and Luke Gosink, <a href="https://media.eagereye
 
 ```bibtex
 @article{Dasgupta:EuroVis:2015,
+	year = 2015,
 	title = {VIMTEX: A Visualization Interface for Multivariate, Time-Varying, Geological Data Exploration},
 	author = {Aritra Dasgupta and Robert Kosara and Luke Gosink},
 	venue = {Computer Graphics Forum (Proceedings EuroVis)},

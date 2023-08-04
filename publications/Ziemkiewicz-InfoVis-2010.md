@@ -13,6 +13,7 @@ Caroline Ziemkiewicz and Robert Kosara, <a href="https://media.eagereyes.org/pap
 
 ```bibtex
 @article{Ziemkiewicz:InfoVis:2010,
+	year = 2010,
 	title = {Laws of Attraction: From Perceived Forces to Conceptual Similarity},
 	author = {Caroline Ziemkiewicz and Robert Kosara},
 	venue = {Transactions on Visualization and Computer Graphics (Proceedings InfoVis)},

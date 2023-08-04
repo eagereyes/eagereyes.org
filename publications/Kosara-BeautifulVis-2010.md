@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2010/Kosara-Beautiful
 
 ```bibtex
 @inbook{Kosara:BeautifulVis:2010,
+	year = 2010,
 	title = {Turning a Table into a Tree: Growing Parallel Sets into a Purposeful Project},
 	author = {Robert Kosara},
 	editor = {Steele, Illiinsky},

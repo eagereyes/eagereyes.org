@@ -9,6 +9,7 @@ Robert Kosara, Silvia Miksch, and Christian Popow, A User Interface for Manipula
 
 ```bibtex
 @inproceedings{Kosara:CareVue:1999,
+	year = 1999,
 	title = {A User Interface for Manipulating Complex, Time-Oriented Treatment Plans},
 	author = {Robert Kosara and Silvia Miksch and Christian Popow},
 	venue = {HP Carevue User's Conference},

@@ -11,6 +11,7 @@ Adam Price, Cynthia Gibas, and Robert Kosara, <a href="https://media.eagereyes.o
 
 ```bibtex
 @inproceedings{Price:BioVis:2012,
+	year = 2012,
 	title = {Gene-RiViT: A Visualization Tool for Comparative Analysis of Gene Neighborhoods in Prokaryotes},
 	author = {Adam Price and Cynthia Gibas and Robert Kosara},
 	venue = {Symposium on Biological Data Visualization (BioVis)},

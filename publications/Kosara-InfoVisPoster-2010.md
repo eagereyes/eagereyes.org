@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2010/Kosara-InfoVisPo
 
 ```bibtex
 @inproceedings{Kosara:InfoVisPoster:2010,
+	year = 2010,
 	title = {Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates},
 	author = {Robert Kosara},
 	venue = {IEEE Information Visualization Posters},

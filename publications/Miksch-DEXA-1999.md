@@ -11,6 +11,7 @@ Silvia Miksch and Robert Kosara, <a href="https://media.eagereyes.org/papers/199
 
 ```bibtex
 @inproceedings{Miksch:DEXA:1999,
+	year = 1999,
 	title = {Communicating Time-Oriented, Skeletal Plans to Domain Experts Lucidly},
 	author = {Silvia Miksch and Robert Kosara},
 	venue = {Proceedings of the 10th International Conference on Database and Expert Systems Applications (DEXA)},

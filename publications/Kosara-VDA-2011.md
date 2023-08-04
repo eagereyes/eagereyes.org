@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2011/Kosara-VDA-2011.
 
 ```bibtex
 @inproceedings{Kosara:VDA:2011,
+	year = 2011,
 	title = {Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates},
 	author = {Robert Kosara},
 	venue = {Visualization and Data Analysis (VDA)},

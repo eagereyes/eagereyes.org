@@ -11,6 +11,7 @@ Robert Kosara, Fabian Bendix, and Helwig Hauser, <a href="https://media.eagereye
 
 ```bibtex
 @inproceedings{Kosara:VisSym:2004,
+	year = 2004,
 	title = {TimeHistograms for Large, Time-Dependent Data},
 	author = {Robert Kosara and Fabian Bendix and Helwig Hauser},
 	venue = {Joint Eurographics - IEEE TCVG Symposium on Visualization (VisSym)},

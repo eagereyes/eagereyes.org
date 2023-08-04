@@ -11,6 +11,7 @@ Robert Kosara, Fabian Bendix, and Helwig Hauser, <a href="https://media.eagereye
 
 ```bibtex
 @article{Kosara:TVCG:2006,
+	year = 2006,
 	title = {Parallel Sets: Interactive Exploration and Visual Analysis of Categorical Data},
 	author = {Robert Kosara and Fabian Bendix and Helwig Hauser},
 	venue = {Transactions on Visualization and Computer Graphics (TVCG)},

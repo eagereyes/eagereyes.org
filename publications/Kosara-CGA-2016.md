@@ -13,6 +13,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2016/Kosara-CGA-2016.
 
 ```bibtex
 @article{Kosara:CGA:2016,
+	year = 2016,
 	title = {Presentation-Oriented Visualization Techniques},
 	author = {Robert Kosara},
 	venue = {Computer Graphics and Applications (CG&A)},

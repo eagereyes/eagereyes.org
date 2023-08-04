@@ -11,6 +11,7 @@ Aritra Dasgupta and Robert Kosara, <a href="https://media.eagereyes.org/papers/2
 
 ```bibtex
 @inproceedings{Dasgupta:BELIV:2012,
+	year = 2012,
 	title = {The Importance of Tracing Data Through the Visualization Pipeline},
 	author = {Aritra Dasgupta and Robert Kosara},
 	venue = {Beyond Time and Errors – Novel Evaluation Methods for Visualization (BELIV)},

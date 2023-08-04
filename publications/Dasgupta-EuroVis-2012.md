@@ -11,6 +11,7 @@ Aritra Dasgupta, Min Chen, and Robert Kosara, <a href="https://media.eagereyes.o
 
 ```bibtex
 @article{Dasgupta:EuroVis:2012,
+	year = 2012,
 	title = {Conceptualizing Visual Uncertainty in Parallel Coordinates},
 	author = {Aritra Dasgupta and Min Chen and Robert Kosara},
 	venue = {Computer Graphics Forum (Proceedings EuroVis)},

@@ -14,6 +14,7 @@ Jessica Hullman, Robert Kosara, and Heidi Lam, <a href="https://media.eagereyes.
 
 ```bibtex
 @article{Hullman:EuroVis:2017,
+	year = 2017,
 	title = {Finding a Clear Path: Structuring Strategies for Visualization Sequences},
 	author = {Jessica Hullman and Robert Kosara and Heidi Lam},
 	venue = {Computer Graphics Forum (Proceedings EuroVis)},

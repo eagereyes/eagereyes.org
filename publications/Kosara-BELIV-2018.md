@@ -14,6 +14,7 @@ Robert Kosara and Steve Haroz, <a href="https://media.eagereyes.org/papers/2018/
 
 ```bibtex
 @inproceedings{Kosara:BELIV:2018,
+	year = 2018,
 	title = {Skipping the Replication Crisis in Visualization: Threats to Study Validity and How to Address Them},
 	author = {Robert Kosara and Steve Haroz},
 	venue = {Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)},

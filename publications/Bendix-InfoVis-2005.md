@@ -11,6 +11,7 @@ Fabian Bendix, Robert Kosara, and Helwig Hauser, <a href="https://media.eagereye
 
 ```bibtex
 @inproceedings{Bendix:InfoVis:2005,
+	year = 2005,
 	title = {Parallel Sets: Visual Analysis of Categorical Data},
 	author = {Fabian Bendix and Robert Kosara and Helwig Hauser},
 	venue = {IEEE Symposium on Information Visualization (InfoVis)},

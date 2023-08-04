@@ -14,6 +14,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2019/Kosara-VISShort-
 
 ```bibtex
 @inproceedings{Kosara:VISShort:2019,
+	year = 2019,
 	title = {Evidence for Area as the Primary Visual Cue in Pie Charts},
 	author = {Robert Kosara},
 	venue = {IEEE VIS Short Paper Proceedings},

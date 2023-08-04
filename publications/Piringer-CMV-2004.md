@@ -11,6 +11,7 @@ Harald Piringer, Robert Kosara, and Helwig Hauser, <a href="https://media.eagere
 
 ```bibtex
 @inproceedings{Piringer:CMV:2004,
+	year = 2004,
 	title = {Interactive Focus+Context Visualization with Linked 2D/3D Scatterplots},
 	author = {Harald Piringer and Robert Kosara and Helwig Hauser},
 	venue = {2nd International Conference on Coordinated and Multiple Views in Exploratory Visualization (CMV)},

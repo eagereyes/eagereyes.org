@@ -11,6 +11,7 @@ Robert Kosara and Silvia Miksch, <a href="https://media.eagereyes.org/papers/200
 
 ```bibtex
 @inproceedings{Kosara:MedInfo:2001,
+	year = 2001,
 	title = {Visualizing Complex Notions of Time},
 	author = {Robert Kosara and Silvia Miksch},
 	venue = {Proceedings of the Conference on Medical Informatics (MedInfo)},

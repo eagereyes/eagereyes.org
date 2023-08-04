@@ -11,6 +11,7 @@ Robert Kosara, Gerald N. Sahling, and Helwig Hauser, <a href="https://media.eage
 
 ```bibtex
 @inproceedings{Kosara:WSCG:2004,
+	year = 2004,
 	title = {Linking Scientific and Information Visualization with Interactive 3D Scatterplots},
 	author = {Robert Kosara and Gerald N. Sahling and Helwig Hauser},
 	venue = {Short Communication Papers Proceedings of the 12th International Conference in Central Europe on Computer Graphics, Visualization, and Computer Vision (WSCG)},

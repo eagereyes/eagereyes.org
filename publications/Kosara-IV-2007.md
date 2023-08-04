@@ -11,6 +11,7 @@ Robert Kosara, <a href="https://media.eagereyes.org/papers/2007/Kosara-IV-2007.p
 
 ```bibtex
 @inproceedings{Kosara:IV:2007,
+	year = 2007,
 	title = {Visualization Criticism – The Missing Link Between Information Visualization and Art},
 	author = {Robert Kosara},
 	venue = {Proceedings of the 11th International Conference on Information Visualisation (IV)},

@@ -9,6 +9,7 @@ Silvia Miksch, Andreas Seyfang, and Robert Kosara, Plan Management: Supporting A
 
 ```bibtex
 @inproceedings{Miksch:EUNITE:2001,
+	year = 2001,
 	title = {Plan Management: Supporting All Steps of Protocol Development and Deployment},
 	author = {Silvia Miksch and Andreas Seyfang and Robert Kosara},
 	venue = {Proceedings of the EUNITE-Workshop on Intelligent Systems in Patient Care},
