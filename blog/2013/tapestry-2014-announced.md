@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-t
 outline: false
 ---
 
-<p align="center"><img class="aligncenter size-medium wp-image-2720" alt="Tapestry Triptych" src="https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych-730x323.jpeg" width="730" height="323" /></p>
+<p align="center"><img alt="Tapestry Triptych" src="https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych-730x323.jpeg" width="730" height="323" /></p>
 
 # Tapestry 2014 Announced
 

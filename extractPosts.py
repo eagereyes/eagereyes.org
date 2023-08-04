@@ -69,8 +69,8 @@ REPLACEPATHS = [{'from': 'blog/web', 'to': 'blog/2014'},
 				{'from': 'blog/zipscribble-maps', 'to': 'blog/2016'}
 				]
 
-EXTRACTPATH = 'blog/'
-OVERWRITE = False
+EXTRACTPATH = 'criticism'
+OVERWRITE = True
 
 postsBySlug = {}
 
@@ -92,8 +92,19 @@ for post in posts:
 			# print('[%s]' % slug)
 			continue
 
-		print(slug)
-		
+		newSlug = 'blog/%s%s' % (post['date'][:4], slug[len(slugPrefix):])
+		print('%s => %s' % (slug, newSlug))
+
+		with open(slug + '.md', 'w') as outFile:
+			outFile.write('---\n')
+			outFile.write('head:\n')
+			outFile.write('  - - meta\n')
+			outFile.write('    - http-equiv: Refresh\n')
+			outFile.write('      content: "0; URL=%s"\n' % ('/'+newSlug))
+			outFile.write('---\n\n')
+
+			outFile.write('Redirecting to <a href="/%s">/%s</a>…' % (newSlug, newSlug))
+
 		content = deWordPress(post['content'])
 		excerpt = post['excerpt']
 		if len(post['excerpt']) == 0:
@@ -102,12 +113,17 @@ for post in posts:
 		date = datetime.fromisoformat(post['date'][:-1])
 		date = date-TIMEDELTA
 
-		with open(slug + '.md', 'w') as outFile:
+		with open(newSlug + '.md', 'w') as outFile:
 			outFile.write('---\n')
 			outFile.write('title: "%s"\n' % quoteQuotes(post['title']))
 			outFile.write('description: "%s"\n' % quoteQuotes(deHTML(excerpt)))
 			outFile.write('date: %s\n' % date)
-			outFile.write('tags: %s\n' % post['tags'])
+			tags = post['tags']
+			if len(tags) == 0:
+				tags = slugPrefix
+			else:
+				tags += ', '+slugPrefix
+			outFile.write('tags: %s\n' % tags)
 
 			if post['featuredImage'] == None:
 				outFile.write('featuredImage: \n')
