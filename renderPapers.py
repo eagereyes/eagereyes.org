@@ -81,9 +81,10 @@ for paper in papers:
 
         if 'data' in paper:
             outFile.write('- <a href="%s">Data</a>\n' % paper['data'])
-
         if 'website' in paper:
             outFile.write('- <a href="%s">Website</a>\n' % paper['website'])
+        if 'talk' in paper:
+            outFile.write('- <a href="%s">Talk</a>\n' % paper['talk'])
         
         outFile.write('\n```bibtex\n')
         outFile.write('@%s{%s,\n' % (paper['_type'], paper['_key']))
