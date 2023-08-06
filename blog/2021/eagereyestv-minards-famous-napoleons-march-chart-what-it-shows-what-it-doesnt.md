@@ -2,7 +2,7 @@
 title: "eagereyesTV: Minard's Famous \"Napoleon's March\" Chart – What It Shows, What It Doesn't"
 description: "This chart is a staple in every visualization course and many visualization talks. But what does it show, and what does it leave out? There's a lot more to Napoleon's Russian Campaign and to Charles Minard's work than this one chart. My new video looks beyond the surface of what is perhaps the most famous chart out there."
 date: 2021-03-14 18:43:25
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/03/Minard-Thumbnail-3.jpg
 outline: false
 ---
@@ -25,7 +25,7 @@ I've written about <a href="https://eagereyes.org/journalism/storytelling-minard
 I have changed the format of my videos slightly and picked new music for the intro and outro (there's also a little Easter egg at the very end). Let me know what you think! I think I'm also going to stop bugging people to like and subscribe in the video, but I would of course highly appreciate it if you did so!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 14, 2021_
+_Posted by <a href="/about">Robert Kosara</a> on March 14, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 
 <aside class="comments">

@@ -2,7 +2,7 @@
 title: "New video: Chart Appreciation, Black vs. White Boys and The Punishing Reach of Racism"
 description: "Dots fly across the screen, some of them moving up, some down. They represent black and white boys, and how their income differs from that of their parents and from each other. It's a great way to show this data in an engaging way and without having to explain percentiles. This is a chart appreciation."
 date: 2021-04-20 06:06:49
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/04/Black-and-White-Boys-Thumb.jpeg
 outline: false
 ---
@@ -23,6 +23,6 @@ As always, I would appreciate feedback. This was not an easy video to make, but 
 I have a few <a href="https://www.youtube.com/playlist?list=PLbzq0eVw_4Dkqd5kuwY3uMANPvVBQ292V">more chart appreciations on my channel</a>, and of course more videos to come – so please subscribe on YouTube and hit the like button if you think the video was worth your time!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 20, 2021_
+_Posted by <a href="/about">Robert Kosara</a> on April 20, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 

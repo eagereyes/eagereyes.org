@@ -2,7 +2,7 @@
 title: "eagereyesTV: What Is Data? Part 2, Are Images Data?"
 description: "Visualization turns data into images, but are images themselves data? There are often claims that they are, but then you mostly see the images themselves without much additional data. In this video, I look at image browsers, a project classifying selfies along a number of criteria, and the additional information stored in HEIC that makes things like portrait mode and relighting possible."
 date: 2019-12-16 05:01:25
-tags: YouTube Videos, eagereyestv
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/12/4CC1DFDA-BF8A-4D11-9D4B-D2EEBAFFD15E.jpeg
 outline: false
 ---
@@ -26,6 +26,6 @@ These are the apps and websites I use and discuss in the video:
 As always, let me know what you think! And if you enjoy these videos, subscribe to the channel and maybe give the video a like!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 16, 2019_
+_Posted by <a href="/about">Robert Kosara</a> on December 16, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 

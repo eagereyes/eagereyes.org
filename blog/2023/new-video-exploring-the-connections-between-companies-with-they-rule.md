@@ -23,6 +23,6 @@ By web standards, <em>They Rule</em> is quite ancient. It has been around since 
 This is my first video with a continuous music bed. Let me know what you think! And as always, I'd appreciate it if you could like the video and <a href="https://www.youtube.com/@eagereyes">subscribe to the channel</a> over on YouTube.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 09, 2023_
+_Posted by <a href="/about">Robert Kosara</a> on February 09, 2023. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 

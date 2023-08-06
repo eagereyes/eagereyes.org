@@ -2,7 +2,7 @@
 title: "New video: Florence Nightingale's Famous Rose Chart (aka \"Coxcomb\")"
 description: "It's Florence Nightingale's 201st birthday tomorrow! Since I missed her 200th, I figured I'd make a video about her famous chart. What made it tick? What was it about? Who was Nightingale, anyway?"
 date: 2021-05-11 07:41:20
-tags: YouTube Videos, eagereyestv
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/05/Nightingale-Thumbnail.jpeg
 outline: false
 ---
@@ -26,6 +26,6 @@ Some further links to interesting ressoures:
 And as always, let me know what you think! Best to comment on <a href="https://youtu.be/JZh8tUy_bnM">the video directly on YouTube</a>, but I'm also happy to chat in the comments here.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 11, 2021_
+_Posted by <a href="/about">Robert Kosara</a> on May 11, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 

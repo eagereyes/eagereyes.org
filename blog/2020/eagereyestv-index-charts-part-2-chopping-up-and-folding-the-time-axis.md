@@ -2,7 +2,7 @@
 title: "eagereyesTV: Index Charts, Part 2: Chopping Up and Folding the Time Axis"
 description: "I covered the more commonly known value index charts in my  my last video on index charts, this one is about indexing on the horizontal, or time, axis. It's kind of fascinating how you can fold the time axis to get a better view of your data. I show how it works and walk through a number of examples, using housing prices, camera sales, global warming, and even data about my running!"
 date: 2020-11-09 18:24:25
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/11/index-Charts-2-Thumbnail.jpeg
 outline: false
 ---
@@ -21,7 +21,7 @@ I'm trying to grow this channel and would really appreciate your help. Hitting t
 And as usual, let me know what you think!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 09, 2020_
+_Posted by <a href="/about">Robert Kosara</a> on November 09, 2020. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 
 <aside class="comments">

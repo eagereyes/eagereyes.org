@@ -2,7 +2,7 @@
 title: "New Video: Linear vs. Quadratic Change"
 description: "Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE."
 date: 2021-06-15 07:29:42
-tags: YouTube Videos, eagereyestv
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/06/LvQ-Thumbnail.jpeg
 outline: false
 ---
@@ -24,7 +24,7 @@ Below is the teaser, <a href="https://youtu.be/BW3YNLsmn8U">watch the full video
 As always, let me know what you think! This is a different approach than my other videos, does it work?
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 15, 2021_
+_Posted by <a href="/about">Robert Kosara</a> on June 15, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 
 <aside class="comments">

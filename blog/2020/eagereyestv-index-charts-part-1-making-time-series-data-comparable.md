@@ -2,7 +2,7 @@
 title: "eagereyesTV: Index Charts, Part 1: Making Time Series Data Comparable"
 description: "To show change over time, you typically use a line chart. But when you’re comparing time series whose values are very different, the differences between the lines can obscure the changes within them. Index charts can help with that. They align values to a reference, or fold the time axis on itself, or even do both."
 date: 2020-10-29 21:17:35
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/10/Index-Charts-1-Thumbnail.jpeg
 outline: false
 ---
@@ -19,7 +19,7 @@ In this video, I'm talking about indexing on the vertical, or value, axis. I'm s
 As usual, let me know what you think! And if you find this interesting at all, please subscribe to the channel and maybe give the video a thumbs-up!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 29, 2020_
+_Posted by <a href="/about">Robert Kosara</a> on October 29, 2020. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 
 <aside class="comments">

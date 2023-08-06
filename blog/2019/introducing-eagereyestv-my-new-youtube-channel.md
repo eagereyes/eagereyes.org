@@ -2,7 +2,7 @@
 title: "Introducing eagereyesTV, My New YouTube Channel"
 description: "After writing about visualization for over a decade, it’s time to mix things up a bit and try a new medium: video. I just uploaded the first video to my new YouTube channel, which I’m calling eagereyesTV. Take a look and tell me what you think!"
 date: 2019-09-16 22:21:36
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg
 outline: false
 ---
@@ -28,7 +28,7 @@ This is an experiment. I’m really curious what people think. Does it work? Is 
 <a href="https://youtu.be/RbHCeANCbW0">Watch it here</a> and see <a href="https://eagereyes.org/eagereyestv/eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt">this post</a> for the show notes (those are also on YouTube)
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 16, 2019_
+_Posted by <a href="/about">Robert Kosara</a> on September 16, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 
 <aside class="comments">

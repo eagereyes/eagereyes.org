@@ -2,7 +2,7 @@
 title: "eagereyesTV Episode 2: Unit Charts, Dot Plots, ISOTYPE, and What Makes Them Special"
 description: "Charts usually show values as visual properties, like the length in a bar chart, the location in a scatterplot, the area in a bubble chart, etc. Unit charts show values as multiples instead. One famous example of these charts is called ISOTYPE, and you may have seen them in information graphics as well. They’re an interesting family of charts and they seem to have some unusual properties that most other charts don’t have."
 date: 2019-10-08 23:17:21
-tags: YouTube Videos
+tags: eagereyestv, isotype
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/10/DB09B0B1-D06E-4182-8BA4-AE9DA9FC9810.jpeg
 outline: false
 ---
@@ -23,6 +23,6 @@ Topics I cover in the video:
 Please don’t hesitate to ask questions, post suggestions, etc.!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 08, 2019_
+_Posted by <a href="/about">Robert Kosara</a> on October 08, 2019. Filed under [eagereyesTV](/tag/eagereyestv), [ISOTYPE](/tag/isotype)._
 
 

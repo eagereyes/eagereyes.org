@@ -2,7 +2,7 @@
 title: "New video: Chart Appreciation, Iraq's Bloody Toll by Simon Scarr"
 description: "How do you make people not just see numbers when looking at a chart, but feel something? This chart of the number of deaths during the Iraq war has always given me a visceral response like no other, and it’s still as powerful as when it was made almost ten years ago. So I made a chart appreciation video to explain what I think is so great about it."
 date: 2021-07-22 07:25:13
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/07/Iraq-Thumbnail-Blog.jpg
 outline: false
 ---
@@ -25,6 +25,6 @@ Also, if you like the video please give it a thumbs-up over there. That really h
 As in my <a href="https://www.youtube.com/watch?v=BW3YNLsmn8U&amp;t=2s" data-type="post">previous video</a>, there are numbered references in the video with the corresponding links in the notes below it. If you want to see more chart appreciations, I now have four that you can conveniently watch <a href="https://www.youtube.com/playlist?list=PLbzq0eVw_4Dkqd5kuwY3uMANPvVBQ292V">in this playlist</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 22, 2021_
+_Posted by <a href="/about">Robert Kosara</a> on July 22, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 

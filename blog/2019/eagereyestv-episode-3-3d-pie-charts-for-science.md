@@ -2,7 +2,7 @@
 title: "eagereyesTV Episode 3: 3D Pie Charts For Science!"
 description: "How do we read pie charts? This seems like a straightforward question to answer, but it turns out that most of what you’ve probably heard is wrong. We don’t actually know whether we use angle, area, or arc length. In a short paper at the VIS conference this week I’m presenting a study I ran to answer this question – a study using 3D pie charts!"
 date: 2019-10-20 22:00:03
-tags: pie charts, YouTube Videos
+tags: pie charts, eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/10/1D2A409C-A98E-4D91-84BF-3FBF9B0DC4BA.jpeg
 outline: false
 ---
@@ -21,7 +21,7 @@ Things I cover in the video:
 <ul><li><a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">The 2016 pie chart studies with Drew Skau</a></li><li><a href="https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">An explainer of what we found in those studies</a> in an easier-to-digest format</li><li><a href="https://eagereyes.org/blog/2019/paper-evidence-for-area-as-the-primary-visual-cue-in-pie-charts">Write-up of the VIS 2019 short paper</a>, the study I discuss in the video</li><li><a href="https://osf.io/7y842/">All papers and materials</a> from that paper</li><li><a href="https://eagereyes.org/tag/pie-charts">All the other pie charts articles</a> here on my blog<br></li></ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 20, 2019_
+_Posted by <a href="/about">Robert Kosara</a> on October 20, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 
 <aside class="comments">

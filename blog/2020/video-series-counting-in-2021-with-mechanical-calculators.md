@@ -2,7 +2,7 @@
 title: "Video Series: Counting In 2021 with Mechanical Calculators"
 description: "Mechanical calculators are fascinating. I may have gone down a few rabbit holes on this topic earlier this year, and acquired a few. As a little celebration of the end of this year, and to start the new one, I'm creating a small series of videos about them and releasing one each week."
 date: 2020-12-17 00:22:29
-tags: YouTube Videos
+tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/12/10-Counting-In-Teaser-Thumb-blog.jpg
 outline: false
 ---
