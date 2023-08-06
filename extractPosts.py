@@ -69,7 +69,7 @@ REPLACEPATHS = [{'from': 'blog/web', 'to': 'blog/2014'},
 				{'from': 'blog/zipscribble-maps', 'to': 'blog/2016'}
 				]
 
-EXTRACTPATH = 'tutorials'
+EXTRACTPATH = 'vis-potpourri'
 OVERWRITE = True
 
 postsBySlug = {}
