@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg" border="0" alt="Dictators" width="560" height="264" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg" border="0" alt="Dictators" width="560" height="264" /></p>
 
 # Democracy, Public Data, and Data.gov
 

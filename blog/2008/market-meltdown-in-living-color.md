@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/MarketMeltdown-20080929-th
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/MarketMeltdown-20080929-thumb.png" alt="Map of the Market, 2008-09-29" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/MarketMeltdown-20080929-thumb.png" alt="Map of the Market, 2008-09-29" border="0" /></p>
 
 # The Market Meltdown in Living Color
 

@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz.jpg
 outline: false
 ---
 
-<p><img class="aligncenter size-medium wp-image-2973" alt="WTFViz" src="https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz-730x280.jpg" width="730" height="280" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-2973" alt="WTFViz" src="https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz-730x280.jpg" width="730" height="280" /></p>
 
 # WTFViz, ThumbsUpViz, and HelpMeViz
 

@@ -6,7 +6,7 @@ tags: conference, eurovis
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg" width="825" height="510" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg" width="825" height="510" /></p>
 
 # EuroVis 2016, Tuesday and Wednesday
 

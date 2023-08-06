@@ -73,7 +73,7 @@ Robert Kosara says…
 >	<p>Let's combine your climate data and web scrapping posts.</p>
 >	<p>Here's an example where I scrapped climate science data for a visualization of the IR absorption properties of 5 greenhouse gases.</p>
 >	<p>&nbsp;</p>
->	<p><img src="http://chartsgraphs.files.wordpress.com/2009/12/nist_5_ghg_spectra1.png" alt="" width="539" height="538" /></p>
+>	<p align="center"><img src="http://chartsgraphs.files.wordpress.com/2009/12/nist_5_ghg_spectra1.png" alt="" width="539" height="538" /></p>
 >	<p>I wanted to scrap the spectrum data from 5 NIST Chemistry Webbook data web pages and generate this chart automatically.</p>
 >	<p>Jon Peltier is right about Excel's external data capabilities, however, Jon would need a VBA procedure to retreive the data and reproduce my 5 panel chart.</p>
 >	<p>Bill Dedman's suggestion about using Excel's cut and paste approach would be quite time consuming and Bill would have a challenge generating the 5 panel chart.</p>

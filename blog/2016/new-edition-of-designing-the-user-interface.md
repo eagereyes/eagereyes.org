@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg" width="521" height="648" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg" width="521" height="648" /></p>
 
 # New Edition of Designing the User Interface
 

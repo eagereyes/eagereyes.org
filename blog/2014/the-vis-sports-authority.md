@@ -6,7 +6,7 @@ tags: IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/10/le-tour-de-vis.png
 ---
 
-<p><img class="aligncenter size-medium wp-image-8407" src="https://media.eagereyes.org/wp-content/uploads/2014/10/le-tour-de-vis-730x131.png" alt="Le Tour de VIS" width="730" height="131" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8407" src="https://media.eagereyes.org/wp-content/uploads/2014/10/le-tour-de-vis-730x131.png" alt="Le Tour de VIS" width="730" height="131" /></p>
 
 # The VIS Sports Authority
 When you think of a conference, does sitting around a lot come to mind? Lots of food? Bad coffee? No time to work out? For the first time in VIS history, there will be a way to exercise your body, not just your mind. The <em>VIS Sports Authority</em>, which is totally an official thing that I didn’t just make up, will kick your ass at <a title="IEEE VIS 2014" href="http://ieeevis.org/">VIS 2014</a>.

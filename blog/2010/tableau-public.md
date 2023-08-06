@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/tableau-public.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/tableau-public.jpg" width="560" height="200" alt="Tableau Public Teaser" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/tableau-public.jpg" width="560" height="200" alt="Tableau Public Teaser" /></p>
 
 # Tableau Public
 

@@ -16,7 +16,7 @@ In the U.S., CEOs on average make 354 times as much as workers, according to <a 
 
 Roberto A. Ferdman at Wonkblog shows the numbers as a bar chart.
 
-<p><img class="aligncenter size-medium wp-image-8364" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wonkblog-CEOs-730x577.png" alt="Wonkblog: It pays to be CEO in the U.S." width="730" height="577" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8364" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wonkblog-CEOs-730x577.png" alt="Wonkblog: It pays to be CEO in the U.S." width="730" height="577" /></p>
 
 The bars compare between countries, but I was interested in the comparison between the worker and the CEO. Just how much more is 354 times more? This chart doesn't tell me that.
 
@@ -24,7 +24,7 @@ The bars compare between countries, but I was interested in the comparison betwe
 
 An article on Quartz from late last year looks at similar data, and translates it into <a href="http://qz.com/156522/how-many-months-it-takes-an-average-worker-to-earn-what-the-ceo-makes-in-an-hour/">how many months workers at different companies would have to work to make the same as the CEO does in <em>one hour</em></a>. The disparities in these examples are even more staggering, since while the Wonkblog chart above looked at averages, Quartz used specific – extreme – examples. For example, McDonald’s CEO makes 1120 times what a McDonald’s worker makes. This is shown as a sort of calendar that has months marked for how long the worker needs to work to make that much.
 
-<p><img class="aligncenter size-medium wp-image-8363" src="https://media.eagereyes.org/wp-content/uploads/2014/09/qz-CEOs-730x1574.png" alt="Quartz: comparison of worker to CEO" width="730" height="1574" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8363" src="https://media.eagereyes.org/wp-content/uploads/2014/09/qz-CEOs-730x1574.png" alt="Quartz: comparison of worker to CEO" width="730" height="1574" /></p>
 
 While that illustrates the time, it kind of misses the point. Showing days when the comparison is hours understates the true magnitude by a factor of eight (assuming an eight-hour work day). Why not show the same units?
 

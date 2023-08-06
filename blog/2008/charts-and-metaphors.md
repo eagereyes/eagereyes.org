@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/chocolatepiechart.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart (by Mary &amp; Matt)" width="490" height="320" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart (by Mary &amp; Matt)" width="490" height="320" border="0" /></p>
 
 # Charts and Metaphors
 

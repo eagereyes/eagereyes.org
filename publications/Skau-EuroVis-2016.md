@@ -4,7 +4,7 @@ title: "Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Chart
 
 # Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Skau-EuroVis-2016-pages-2.png" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Skau-EuroVis-2016-pages-2.png" /></p>
 
 > _Pie and donut charts have been a hotly debated topic in the visualization community for some time now. Even though pie charts have been around for over 200 years, our understanding of the perceptual factors used to read data in them is still limited. Data is encoded in pie and donut charts in three ways: arc length, center angle, and segment area. For our first study, we designed variations of pie charts to test the importance of individual encodings for reading accuracy. In our second study, we varied the inner radius of a donut chart from a filled pie to a thin outline to test the impact of removing the central angle. Both studies point to angle being the least important visual cue for both charts, and the donut chart being as accurate as the traditional pie chart._
 

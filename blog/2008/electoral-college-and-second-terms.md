@@ -6,7 +6,7 @@ tags: Politics
 featuredImage: https://media.eagereyes.org/media/2008/Popular-Electoral-teaser.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser.png" border="0" alt="Popular vs. Electoral Vote Teaser" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser.png" border="0" alt="Popular vs. Electoral Vote Teaser" /></p>
 
 # The Electoral College and Second Terms
 

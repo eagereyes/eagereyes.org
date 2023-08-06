@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/polevaulting.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/polevaulting.jpg" alt="" width="560" height="279" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/polevaulting.jpg" alt="" width="560" height="279" /></p>
 
 # Stories Don't Tell Themselves
 

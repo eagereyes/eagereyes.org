@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png
 ---
 
-<p><img class="alignnone size-full wp-image-1624" title="ZIPScribble Map, interactive version" src="https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390" /></p>
+<p align="center"><img class="alignnone size-full wp-image-1624" title="ZIPScribble Map, interactive version" src="https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390" /></p>
 
 # An Interactive Version of the ZIPScribble Map
 

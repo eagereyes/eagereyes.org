@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/discoveryexhibition.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/discoveryexhibition.png" border="0" alt="Discovery Exhibition" width="560" height="107" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/discoveryexhibition.png" border="0" alt="Discovery Exhibition" width="560" height="107" /></p>
 
 # InfoVis 2009 Discovery Exhibition
 

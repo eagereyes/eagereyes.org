@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/PresidentialDemogra
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="" width="602" height="288" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="" width="602" height="288" border="0" /></p>
 
 # Expressive Visualization, Updated Presidents Chart
 

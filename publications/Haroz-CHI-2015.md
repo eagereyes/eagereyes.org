@@ -4,7 +4,7 @@ title: "ISOTYPE Visualization – Working Memory, Performance, and Engagement wi
 
 # ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser-825x510.jpg" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser-825x510.jpg" /></p>
 
 > _Although the infographic and design communities have used simple pictographic representations for decades, it is still unclear whether they can make visualizations more effective. Using simple charts, we tested how pictographic representations impact (1) memory for information just viewed, as well as under the load of additional information, (2) speed of finding information, and (3) engagement and preference in seeking out these visualizations. We find that superfluous images can distract. But we find no user costs – and some intriguing benefits – when pictographs are used to represent the data._
 

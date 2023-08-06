@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2009/qnch-logo-color.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/qnch-logo-color.png" border="0" alt="qnch" width="558" height="240" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/qnch-logo-color.png" border="0" alt="qnch" width="558" height="240" /></p>
 
 # qnch - A Data Description Language for Tabular Data
 

@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/halfempty600.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/halfempty600.jpg" alt="Half Empty" width="600" height="328" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/halfempty600.jpg" alt="Half Empty" width="600" height="328" border="0" /></p>
 
 # A Better Vis Web Community
 When I look around my little corner of the Internet, I see a few other people doing related stuff, but I also see a lot of unrealized potential. Why are there so few people in the visualization community who run a website? Why are the most popular visualization-related sites almost entirely about pointing at colorful pictures done by others, rather than doing their own? And how can we get more original, quality visualization content on the web?

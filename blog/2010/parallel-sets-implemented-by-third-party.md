@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2010/ResultBlocks.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/ResultBlocks.jpg" alt="" width="381" height="339" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/ResultBlocks.jpg" alt="" width="381" height="339" /></p>
 
 # Parallel Sets Implemented By Third Party
 

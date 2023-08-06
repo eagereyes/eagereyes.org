@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/icharts.gif
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/icharts.gif" alt="iCharts" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/icharts.gif" alt="iCharts" /></p>
 
 # The Next YouTube for Charts: iCharts
 

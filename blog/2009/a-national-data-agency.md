@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/nda.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/nda.png" border="0" alt="National Data Agency" width="326" height="326" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/nda.png" border="0" alt="National Data Agency" width="326" height="326" /></p>
 
 # A National Data Agency
 

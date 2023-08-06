@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/redpin.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/redpin.jpg" border="0" alt="Grayscale map with red pin" width="560" height="326" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/redpin.jpg" border="0" alt="Grayscale map with red pin" width="560" height="326" /></p>
 
 # VisWeek Preview: Visualization on the Web Workshop
 

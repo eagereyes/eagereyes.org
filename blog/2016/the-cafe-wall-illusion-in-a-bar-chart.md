@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png" width="575" height="373" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png" width="575" height="373" /></p>
 
 # The Café Wall Illusion in a Bar Chart
 

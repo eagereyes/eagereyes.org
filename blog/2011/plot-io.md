@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2011/12/plot-io.pn
 outline: false
 ---
 
-<p><img class="alignnone size-full wp-image-1507" title="plot.io" src="https://media.eagereyes.org/wp-content/uploads/2011/12/plot-io.png" alt="" width="600" height="280" /></p>
+<p align="center"><img class="alignnone size-full wp-image-1507" title="plot.io" src="https://media.eagereyes.org/wp-content/uploads/2011/12/plot-io.png" alt="" width="600" height="280" /></p>
 
 # Plot.io
 

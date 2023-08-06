@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jp
 outline: false
 ---
 
-<p><img title="Tableau Software" src="https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg" alt="" width="600" height="287" /></p>
+<p align="center"><img title="Tableau Software" src="https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg" alt="" width="600" height="287" /></p>
 
 # Hello from Tableau (and Seattle)!
 

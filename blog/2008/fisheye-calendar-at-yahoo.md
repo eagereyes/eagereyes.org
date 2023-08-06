@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg" border="0" alt="Fisheye Calendar then and now" width="480" height="326" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg" border="0" alt="Fisheye Calendar then and now" width="480" height="326" /></p>
 
 # A Fisheye Calendar at Yahoo!
 

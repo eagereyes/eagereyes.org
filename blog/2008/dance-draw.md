@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw" /></p>
 
 # Dance.Draw
 

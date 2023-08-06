@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png" width="637" height="388" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png" width="637" height="388" /></p>
 
 # Publicize, Don't Just Publish!
 

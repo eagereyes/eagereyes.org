@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/parsets-2.1-teaser.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/parsets-2.1-teaser.png" border="0" alt="Parallel Sets 2.1" width="560" height="243" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-2.1-teaser.png" border="0" alt="Parallel Sets 2.1" width="560" height="243" /></p>
 
 # Parallel Sets 2.1 Released
 
@@ -51,7 +51,7 @@ _Posted by <a href="/about">Robert Kosara</a> on August 03, 2009_
 >	<p>first of all, thanks a lot for your work on Parallel Sets which I believe will prove to be a very useful tool!</p>
 >	<p>But I have troubles visualizing the <a href="http://data.un.org/Data.aspx?q=refugees&amp;d=UNHCR&amp;f=indID:Type-Ref&amp;c=0,1,2,3,4,5,6&amp;s=yr:desc,asyEngName:asc,oriEngName:asc&amp;v=1">UN refugees data</a> with it. When I try to import <a href="http://dl.getdropbox.com/u/872077/parsets/refugees_2006-2008.csv">this file</a> with ParallelSets 2.1, it crashes. With the version 2.0 the file import works, but the data is not visualized in the way I expect it to. Each record in the dataset is a refugee flow from one contry to another. With Parallel Sets I'd like to be able to quickly compare the numbers of refugees moving from country to country. But when I import <a href="http://dl.getdropbox.com/u/872077/parsets/only_refugees_2008.csv">this simplified dataset</a> <a href="http://dl.getdropbox.com/u/872077/parsets/csv_import.png">marking the refugees column as "numerical"</a> it seems that the values in the "Refugees" column are just ignored in the vizualization and only the numbers of records with the corresponding values in the "Country of origin..." and "Country of asylum..." fields are counted instead.</p>
 >	<p>For example, I'd like to compare the numbers of refugees coming from different countries to Austria and Switzerland. Here is what I get. All of the flows have the same width which is not very useful:</p>
->	<p><img src="http://dl.getdropbox.com/u/872077/parsets/at_vs_schw.png" alt="" /></p>
+>	<p align="center"><img src="http://dl.getdropbox.com/u/872077/parsets/at_vs_schw.png" alt="" /></p>
 >	<p>How can I make the widths of the flows correspond to the numbers of refugees?</p>
 
 Robert Kosara says…

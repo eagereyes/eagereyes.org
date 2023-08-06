@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/nikeplus.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240" /></p>
 
 # The Unrecorded Life is Not Worth Living
 

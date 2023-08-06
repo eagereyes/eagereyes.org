@@ -4,7 +4,7 @@ title: "Skipping the Replication Crisis in Visualization: Threats to Study Valid
 
 # Skipping the Replication Crisis in Visualization: Threats to Study Validity and How to Address Them
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg" /></p>
 
 > _Replications are rare in visualization research, but if they were more common, it is not unreasonable to believe that they would show a similar rate of unreproducible results as in the psychological and social sciences. While a replication crisis in visualization research would be a helpful wake-up call, examining and correcting the underlying problems in many studies is ultimately more productive.  In this paper, we survey the state of replication in visualization research. We examine six threats to the validity of studies in visu- alization and suggest ways to address them. Finally, we describe possible models for publishing replications that satisfy the novelty criterion that can keep replications from being accepted._
 

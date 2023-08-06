@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2009/periodictable.jpg
 ---
 
-<p><img alt="Periodic Table of Visualization Methods" src="https://media.eagereyes.org/media/2009/periodictable.jpg" width="560" height="307" border="0" /></p>
+<p align="center"><img alt="Periodic Table of Visualization Methods" src="https://media.eagereyes.org/media/2009/periodictable.jpg" width="560" height="307" border="0" /></p>
 
 # Visualization is not Periodic, Period!
 

@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/protovis-code.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/protovis-code.png" width="560" height="144" alt="Some Protovis code" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-code.png" width="560" height="144" alt="Some Protovis code" /></p>
 
 # JavaScript: The Key to In-Browser Visualization
 

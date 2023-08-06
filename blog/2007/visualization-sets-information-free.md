@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/flowerpoint6.gif
 outline: false
 ---
 
-<p><img title="FlowerPoint - gapminder.org" src="https://media.eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376" border="0" /></p>
+<p align="center"><img title="FlowerPoint - gapminder.org" src="https://media.eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376" border="0" /></p>
 
 # Visualization Sets Information Free
 

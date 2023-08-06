@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png" width="825" height="510" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png" width="825" height="510" /></p>
 
 # New, Improved Traveling Presidential Candidate Map
 

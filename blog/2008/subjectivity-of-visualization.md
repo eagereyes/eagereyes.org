@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/attachments/vis-is-communication.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230" /></p>
 
 # The Unbearable Subjectivity of Visualization
 

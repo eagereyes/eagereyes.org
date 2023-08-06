@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/parsets-announce.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/parsets-announce.png" border="0" alt="Parallel Sets Announcement" width="560" height="169" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-announce.png" border="0" alt="Parallel Sets Announcement" width="560" height="169" /></p>
 
 # Parallel Sets Release Date
 

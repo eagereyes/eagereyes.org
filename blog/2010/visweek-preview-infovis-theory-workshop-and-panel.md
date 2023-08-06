@@ -6,7 +6,7 @@ tags: VisWeek
 featuredImage: https://media.eagereyes.org/media/2010/math.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389" /></p>
 
 # VisWeek Preview: InfoVis Theory Workshop and Panel
 

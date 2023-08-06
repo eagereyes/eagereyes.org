@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/pnnl-jobs.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127" /></p>
 
 # Open Positions at PNNL
 

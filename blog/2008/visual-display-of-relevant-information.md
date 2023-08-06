@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/wallstats-energy.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" border="0" alt="Budget" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" border="0" alt="Budget" /></p>
 
 # The Visual Display of Relevant Information
 

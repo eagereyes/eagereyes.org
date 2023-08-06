@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-the-Parks-by-RJ-Andrews_10.jpeg" width="700" height="394" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-the-Parks-by-RJ-Andrews_10.jpeg" width="700" height="394" /></p>
 
 # RJ Andrews' Profiling the Parks
 

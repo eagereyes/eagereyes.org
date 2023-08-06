@@ -6,7 +6,7 @@ tags: state-of-infovis
 featuredImage: https://media.eagereyes.org/media/2010/minard.jpg
 ---
 
-<p><img alt="Minard's &quot;Napoleon's March to Moscow&quot;, Protovis demo" src="https://media.eagereyes.org/media/2010/minard.jpg" width="560" height="173" /></p>
+<p align="center"><img alt="Minard's &quot;Napoleon's March to Moscow&quot;, Protovis demo" src="https://media.eagereyes.org/media/2010/minard.jpg" width="560" height="173" /></p>
 
 # The State of Information Visualization
 

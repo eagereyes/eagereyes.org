@@ -4,7 +4,7 @@ title: "Storytelling: The Next Step for Visualization"
 
 # Storytelling: The Next Step for Visualization
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg" /></p>
 
 > _Presentation and communication of data have so far played a minor role in visualization research, with most work focused on exploration and analysis. We propose that presentation, in particular using elements from storytelling, is the next logical step and should be a research focus of at least equal importance as each of the other two. Stories package information into a structure that is easily remembered, which is important in many collaborative scenarios when an analyst is not the same person as the one who makes decisions, or simply needs to share information with peers. Data visualization lends itself well to being a communication medium for storytelling, in particular when the story also contains a lot of data. We review the literature on storytelling and presentation and outline the research area._
 

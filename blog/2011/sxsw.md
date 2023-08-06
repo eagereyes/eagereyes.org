@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2011/sxsw.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2011/sxsw.png" alt="" width="600" height="148" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2011/sxsw.png" alt="" width="600" height="148" /></p>
 
 # Vote for our SxSW Panel on Visualization!
 

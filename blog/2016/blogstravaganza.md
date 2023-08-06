@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/blogstrava
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg" width="720" height="500" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg" width="720" height="500" /></p>
 
 # The Ten Years of EagerEyes Blogstravaganza
 

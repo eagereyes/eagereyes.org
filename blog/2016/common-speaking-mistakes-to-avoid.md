@@ -6,7 +6,7 @@ tags: speaking
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/speaker.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/speaker.jpg" width="720" height="540" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/speaker.jpg" width="720" height="540" /></p>
 
 # Common Speaking Mistakes To Avoid
 

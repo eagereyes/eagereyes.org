@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/06/science.jp
 outline: false
 ---
 
-<p><img class="aligncenter size-full wp-image-1971" title="science" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg" width="600" height="325" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-1971" title="science" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg" width="600" height="325" /></p>
 
 # Science: It's a Curiosity Thing!
 

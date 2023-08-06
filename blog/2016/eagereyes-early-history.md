@@ -6,7 +6,7 @@ tags: A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg" width="720" height="500" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg" width="720" height="500" /></p>
 
 # Eagereyes' Early History
 

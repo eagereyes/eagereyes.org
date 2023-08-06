@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/mispronouncing-cropped.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/mispronouncing-cropped.png" alt="Blag" width="241" height="136" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/mispronouncing-cropped.png" alt="Blag" width="241" height="136" border="0" /></p>
 
 # Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008
 

@@ -6,7 +6,7 @@ tags: history
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png" width="825" height="510" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png" width="825" height="510" /></p>
 
 # The Personified User Interface Trap
 

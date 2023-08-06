@@ -11,7 +11,7 @@ outline: false
 
 A while ago, <a href="http://junkcharts.typepad.com/junk_charts/2012/12/four-numbers-say-little-even-on-a-busy-chart.html">Kaiser Fung criticized a chart</a> for its uselessness because it only showed four numbers. The chart appeared on the smart web comic <a href="http://abstrusegoose.com/">Abstruse Goose</a> (which, as of this writing, is down for a site reorganization).
 
-<p><img class="aligncenter size-full wp-image-2176" alt="Perception, from Abstruse Goose" src="https://media.eagereyes.org/wp-content/uploads/2012/12/perception-abstrusegoose.png" width="744" height="623" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-2176" alt="Perception, from Abstruse Goose" src="https://media.eagereyes.org/wp-content/uploads/2012/12/perception-abstrusegoose.png" width="744" height="623" /></p>
 
 First, I think Mr. Fung was trolled by his reader, and fell for it hook, line, and sinker. The point of this chart is not to communicate a lot of data or to inform, but merely to entertain and perhaps to make people pause and think for a moment.
 

@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2011/memory-monster.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2011/memory-monster.jpg" alt="" width="600" height="235" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2011/memory-monster.jpg" alt="" width="600" height="235" /></p>
 
 # Want to Make A Chart Memorable? Add Junk
 

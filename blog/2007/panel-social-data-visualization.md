@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png" height="247" width="615" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png" height="247" width="615" /></p>
 
 # InfoVis Panel: The Impact of Social Data Visualization
 

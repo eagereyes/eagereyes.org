@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/credit-car
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg" width="720" height="500" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg" width="720" height="500" /></p>
 
 # The Dumbest User Interface of 2016
 

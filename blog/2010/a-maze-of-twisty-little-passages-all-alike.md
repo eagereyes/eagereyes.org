@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2010/proof-teaser.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/proof-teaser.png" alt="" width="560" height="139" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/proof-teaser.png" alt="" width="560" height="139" /></p>
 
 # A Maze of Twisty Little Passages, All Alike
 

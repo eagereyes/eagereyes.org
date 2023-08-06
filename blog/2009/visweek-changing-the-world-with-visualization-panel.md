@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/changeWorldPanel.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/changeWorldPanel.jpg" border="0" alt="Visualization saves the world" width="560" height="527" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/changeWorldPanel.jpg" border="0" alt="Visualization saves the world" width="560" height="527" /></p>
 
 # VisWeek Preview: Changing the World with Visualization (Panel)
 

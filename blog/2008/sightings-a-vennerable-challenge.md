@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/Sigthings-VennerableChalle
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg" alt="Sightings: A Vennerable Challenge" width="452" height="300" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg" alt="Sightings: A Vennerable Challenge" width="452" height="300" border="0" /></p>
 
 # Sightings: A Vennerable Challenge
 

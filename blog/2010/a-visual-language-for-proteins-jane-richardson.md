@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2010/richardson-protein.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/richardson-protein.jpg" width="560" height="275" alt="Proteins" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/richardson-protein.jpg" width="560" height="275" alt="Proteins" /></p>
 
 # A Visual Language for Proteins: Jane Richardson
 

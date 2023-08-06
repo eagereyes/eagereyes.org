@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/an-inconvenient-tru
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg" border="0" width="423" height="243" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg" border="0" width="423" height="243" /></p>
 
 # A Nobel Prize for Charts
 

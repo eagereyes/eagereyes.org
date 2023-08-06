@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/parsets-delay.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/parsets-delay.png" border="0" alt="ParSets Delay" width="560" height="158" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-delay.png" border="0" alt="ParSets Delay" width="560" height="158" /></p>
 
 # Parallel Sets Release Pushed Back A Bit (Updated)
 

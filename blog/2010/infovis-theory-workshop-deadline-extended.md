@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2010/maths.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/maths.jpg" alt="" width="560" height="401" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/maths.jpg" alt="" width="560" height="401" /></p>
 
 # InfoVis Theory Workshop Deadline Extended
 

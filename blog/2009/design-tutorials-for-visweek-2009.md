@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/VisWeekTutorials.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/VisWeekTutorials.png" alt="VisWeek Tutorials" width="568" height="309" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/VisWeekTutorials.png" alt="VisWeek Tutorials" width="568" height="309" /></p>
 
 # Design Tutorials for VisWeek 2009
 

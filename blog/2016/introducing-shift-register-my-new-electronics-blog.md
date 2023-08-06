@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jp
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg" width="1024" height="695" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg" width="1024" height="695" /></p>
 
 # Introducing Shift Register, My New Electronics Blog
 

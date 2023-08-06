@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/imallears.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/imallears.png" border="0" alt="I'm all Ears" width="560" height="250" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/imallears.png" border="0" alt="I'm all Ears" width="560" height="250" /></p>
 
 # Anybody interested in eagerears.org/.com?
 

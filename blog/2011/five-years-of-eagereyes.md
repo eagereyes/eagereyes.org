@@ -6,7 +6,7 @@ tags: Meta/Site News
 featuredImage: https://media.eagereyes.org/media/2011/manyyearsago.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2011/manyyearsago.png" alt="" width="600" height="168" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2011/manyyearsago.png" alt="" width="600" height="168" /></p>
 
 # Five Years of EagerEyes
 

@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500" /></p>
 
 # Building Bridges Between Insular InfoVis Papers
 

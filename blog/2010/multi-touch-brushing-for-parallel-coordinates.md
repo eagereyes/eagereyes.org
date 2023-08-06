@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2010/multitouch-brushing.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"></p>
 
 # Multi-touch Brushing for Parallel Coordinates
 

@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/magic-trackpad.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/magic-trackpad.jpg" alt="" width="560" height="202" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/magic-trackpad.jpg" alt="" width="560" height="202" /></p>
 
 # The Magic of Indirect Multi-Touch Interaction
 

@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2008/gladiator.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" border="0" alt="Gladiators" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" border="0" alt="Gladiators" /></p>
 
 # The Sad State of the InfoVis Contest
 

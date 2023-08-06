@@ -14,7 +14,7 @@ We've turned the understanding of charts into formulas instead of encouraging pe
 
 <a href="http://www.knowmoregrowmore.com/9875/think-again-before-skipping-fungicides-in-row-crops/">This 3D bar chart</a> recently got some attention on Twitter.
 
-<p><img class="aligncenter size-full wp-image-9238" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Trivapro-graph.jpg" alt="Trivapro-graph" width="1074" height="821" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-9238" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Trivapro-graph.jpg" alt="Trivapro-graph" width="1074" height="821" /></p>
 
 At first glance, it's one of <a href="http://viz.wtf">those bad charts</a>. It's 3D, and at a fairly extreme angle. The perspective projection clearly distorts the values, making the red bar look longer in comparison to its real value difference. The bars are also cut off at the base, at least unless you consider the parts with the labels to be the bottoms of the bars (and even then, they're not the full length to start at 0).
 
@@ -42,7 +42,7 @@ First of all, when they introduced a delay after showing people the bars, there 
 
 The other effect is much more troubling, though: neighboring bars had a significant effect on people's perception. This makes sense, as we're quite susceptible to relative size illusions like <a href="https://en.wikipedia.org/wiki/Ebbinghaus_illusion">the Ebinghaus Effect</a> (in case you haven't seen it, the orange circles below are the same size).
 
-<p><img class="aligncenter size-full wp-image-9239" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Mond-vergleich.png" alt="Ebbinghaus Effect" width="1500" height="918" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-9239" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Mond-vergleich.png" alt="Ebbinghaus Effect" width="1500" height="918" /></p>
 
 What that means is that <em>the data itself</em> causes us to misjudge the sizes of the bars! An unsorted bar chart in particular makes comparisons difficult and error-prone. That effect, by the way, was quite strong and did not disappear when a delay was added before asking people.
 

@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/nytimes_graphs.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/nytimes_graphs.png" border="0" alt="Recent NYTimes graphs" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes_graphs.png" border="0" alt="Recent NYTimes graphs" /></p>
 
 # NY Times: The Best and Worst of Data Visualization
 

@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png" alt="Sightings: A Little Space, Please" width="452" height="300" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png" alt="Sightings: A Little Space, Please" width="452" height="300" /></p>
 
 # Sightings: A Little Space, Please!
 

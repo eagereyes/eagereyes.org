@@ -7,7 +7,7 @@ featuredImage: http://eagereyes.org/media/2008/MrEagerEyes.jpg
 outline: false
 ---
 
-<p><img class="aligncenter" alt="Mr. EagerEyes" src="https://media.eagereyes.org/media/2008/MrEagerEyes.jpg" border="0" /></p>
+<p align="center"><img class="aligncenter" alt="Mr. EagerEyes" src="https://media.eagereyes.org/media/2008/MrEagerEyes.jpg" border="0" /></p>
 
 # Two Years of EagerEyes
 

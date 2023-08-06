@@ -7,7 +7,7 @@ featuredImage: http://graphics8.nytimes.com/images/2008/07/20/business/20debtgra
 outline: false
 ---
 
-<p><img src="http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg" border="0" /></p>
+<p align="center"><img src="http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg" border="0" /></p>
 
 # Engaging Readers with Square Pie/Waffle Charts
 

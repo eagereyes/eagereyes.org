@@ -6,7 +6,7 @@ tags: state-of-infovis
 featuredImage: https://media.eagereyes.org/media/2011/theory.png
 ---
 
-<p><img alt="" src="https://media.eagereyes.org/media/2011/theory.png" width="600" height="200" /></p>
+<p align="center"><img alt="" src="https://media.eagereyes.org/media/2011/theory.png" width="600" height="200" /></p>
 
 # The State of Information Visualization, 2011
 

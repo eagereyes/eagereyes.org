@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/undata-flowers.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/undata-flowers.png" border="0" width="497" height="346" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/undata-flowers.png" border="0" width="497" height="346" /></p>
 
 # UN Make Large Amounts of Data Available
 

@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png" width="400" height="257" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png" width="400" height="257" /></p>
 
 # MTurk IDs Are Not Anonymous
 

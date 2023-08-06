@@ -6,7 +6,7 @@ tags: Politics
 featuredImage: https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png" border="0" alt="Popular vs. Electoral Vote Teaser" width="266" height="88" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png" border="0" alt="Popular vs. Electoral Vote Teaser" width="266" height="88" /></p>
 
 # Popular vs. Electoral Votes Using Stacked Bar Charts
 

@@ -9,7 +9,7 @@ outline: false
 
 # Conference Acceptance Rates
 
-<p><img src="https://media.eagereyes.org/media/2010/acceptance-rates.png" width="560" height="260" alt="acceptance rates over time" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/acceptance-rates.png" width="560" height="260" alt="acceptance rates over time" /></p>
 
 Acceptance rates are one of the key ways of measuring the quality of conferences. I think it's time we collect that data for conferences relevant to visualization. I have put together <a href="http://eagereyes.org/service/acceptance-rates">a page for this</a>, and have found some of that data. But I need your help to fill in the gaps and suggest other conferences that would be of interest.
 

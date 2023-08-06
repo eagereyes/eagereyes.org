@@ -18,7 +18,7 @@ All of these are a few years old. Like a fine wine analogy that I could insert h
 
 My favorite scatterplot, and perhaps my favorite chart ever, is <em><a href="http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html">Why Is Her Paycheck Smaller?</a></em> by Hannah Fairfield and Graham Roberts. It shows men's versus women's weekly earnings, with men on the horizontal axis and women on the vertical. A heavy black diagonal line shows equal wages, three additional lines show where women make 10%, 20%, and 30% less. Any point to the bottom right of the line means that women make less money than men.
 
-<p><img class="aligncenter size-medium wp-image-8317" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap-730x424.png" alt="Why Is Her Paycheck Smaller?" width="730" height="424" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8317" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap-730x424.png" alt="Why Is Her Paycheck Smaller?" width="730" height="424" /></p>
 
 The diagonal lines are a stroke of genius (pun fully intended). When you see a line in a scatterplot, it's usually a regression line that models the data; i.e., a line that follows the points. But such a line only helps reinforce the difficulty of judging the differences between the two axes, which is something we're not good at, and which is not typically something you do in a scatterplot anyway.
 
@@ -34,7 +34,7 @@ But the key element is the inclusion of the reference lines that help people mak
 
 My favorite line chart is <a href="http://www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html"><em>The Jobless Rate for People Like You</em></a> by Shan Carter, Amanda Cox, and Kevin Quealy. This chart is somewhat ancient, having been created in Flash and showing unemployment data from January 2007 to September 2009. But its brilliant design and interaction make it timeless.
 
-<p><img class="aligncenter size-medium wp-image-8318" src="https://media.eagereyes.org/wp-content/uploads/2014/09/jobless-rate-730x395.png" alt="The Jobless Rate for People Like You" width="730" height="395" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8318" src="https://media.eagereyes.org/wp-content/uploads/2014/09/jobless-rate-730x395.png" alt="The Jobless Rate for People Like You" width="730" height="395" /></p>
 
 It's a line chart, but with a twist. The first thing you see is the heavy blue line, showing the overall unemployment rate. But there are more lines in the background, what are those? So you mouse over and they respond: they light up and there's a tooltip telling you what they represent. Each is the unemployment rate for a subset of the population, defined as the combination of race, gender, age group, and education. How are hispanic men over 45 with only a high school diploma doing compared to the overall rate? What about black women 15–24? Or white college grads of any age and gender?
 
@@ -52,7 +52,7 @@ The chart shows interesting data, explains a somewhat advanced concept, and invi
 
 I have already written about the <a href="http://eagereyes.org/blog/2012/bikini-chart"><em>Bikini Chart</em></a>, and it remains my favorite bar chart. It's an incredibly effective piece of communication, and it's all just based on a simple time series. The fact that <a href="http://eagereyes.org/journalism/when-bars-point-down">the bars point down</a> clearly communicates how it is supposed to be read: down is bad, less down is better than more down.
 
-<p><img class="aligncenter size-medium wp-image-8319" src="https://media.eagereyes.org/wp-content/uploads/2014/09/obama-job-loss-chart-730x407.png" alt="obama job loss chart" width="730" height="407" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8319" src="https://media.eagereyes.org/wp-content/uploads/2014/09/obama-job-loss-chart-730x407.png" alt="obama job loss chart" width="730" height="407" /></p>
 
 Bar charts are not exactly a common medium for artistic expression, but the designers of this chart managed to subtly but clearly get a message across.
 
@@ -60,7 +60,7 @@ Bar charts are not exactly a common medium for artistic expression, but the desi
 
 Animated scatterplots may not have been invented by Hans Rosling and <a href="http://www.gapminder.org">gapminder</a>, but they certainly were not a common thing until his <a href="http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en">TED talk in 2007</a>. And while it may seem a bit facetious to point to the only reasonably well-known example of a particular chart type as my favorite one, this is clearly one of my favorite charts, no matter what type.
 
-<p><img class="aligncenter size-medium wp-image-8320" src="https://media.eagereyes.org/wp-content/uploads/2014/09/gapminder-730x547.png" alt="gapminder" width="730" height="547" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8320" src="https://media.eagereyes.org/wp-content/uploads/2014/09/gapminder-730x547.png" alt="gapminder" width="730" height="547" /></p>
 
 The animation may seem like a bit of a gimmick – and it has been <a href="http://research.microsoft.com/apps/pubs/default.aspx?id=64262">criticized as not being terribly effective</a> –, but it works to communicate a number of important pieces of information.
 

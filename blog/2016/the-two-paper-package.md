@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg" width="825" height="510" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg" width="825" height="510" /></p>
 
 # The Two-Paper Package
 

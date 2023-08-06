@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/titanicvisualizatio
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/attachments/titanicvisualizations.png" alt="Titanic visualizations" width="610" height="220" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/attachments/titanicvisualizations.png" alt="Titanic visualizations" width="610" height="220" /></p>
 
 # Caring about the Data
 

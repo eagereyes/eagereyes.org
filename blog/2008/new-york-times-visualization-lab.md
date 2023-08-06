@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/nytimes-vizlab.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" border="0" alt="NYTimes VizLab" width="451" height="248" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" border="0" alt="NYTimes VizLab" width="451" height="248" /></p>
 
 # The New York Times Visualization Lab
 

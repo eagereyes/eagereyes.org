@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2010/bird.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384" /></p>
 
 # Follow Me on Twitter!
 

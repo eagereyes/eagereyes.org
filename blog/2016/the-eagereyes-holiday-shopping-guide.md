@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/stars.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/stars.jpg" width="720" height="500" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/stars.jpg" width="720" height="500" /></p>
 
 # The EagerEyes Holiday Shopping Guide
 

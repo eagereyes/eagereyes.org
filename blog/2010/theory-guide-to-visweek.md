@@ -6,7 +6,7 @@ tags: VisWeek
 featuredImage: https://media.eagereyes.org/media/2010/visweekwordle.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/visweekwordle.png" alt="VisWeek Wordle" width="560" height="234" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/visweekwordle.png" alt="VisWeek Wordle" width="560" height="234" /></p>
 
 # The Theory Guide to VisWeek 2010
 

@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2010/beautifulvis.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/beautifulvis.jpg" width="560" height="220" alt="Beautiful Visualization"></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/beautifulvis.jpg" width="560" height="220" alt="Beautiful Visualization"></p>
 
 # Beautiful Visualization
 

@@ -4,7 +4,7 @@ title: "Judgment Error in Pie Chart Variations"
 
 # Judgment Error in Pie Chart Variations
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Kosara-EuroVis-2016-pages.png" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Kosara-EuroVis-2016-pages.png" /></p>
 
 > _Pie charts and their variants are prevalent in business settings and many other uses, even if they are not popular with the academic community. In a recent study, we found that contrary to general belief, there is no clear evidence that these charts are read based on the central angle. Instead, area and arc length appear to be at least equally important. In this paper, we build on that study to test several pie chart variations that are popular in information graphics: exploded pie chart, pie with larger slice, elliptical pie, and square pie (in addition to a regular pie chart used as the baseline). We find that even variants that do not distort central angle cause greater error than regular pie charts. Charts that distort the shape show the highest error. Many of our predictions based on the previous study’s results are borne out by this study’s findings._
 

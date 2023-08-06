@@ -72,7 +72,7 @@ for paper in papers:
         outFile.write('# %s\n\n' % paper['title'])
 
         if '_thumb' in paper:
-            outFile.write('<p><img src="https://media.eagereyes.org%s" /></p>\n\n' % paper['_thumb'])
+            outFile.write('<p align="center"><img src="https://media.eagereyes.org%s" /></p>\n\n' % paper['_thumb'])
 
         if 'abstract' in paper:
             outFile.write('> _%s_\n\n' % paper['abstract'])

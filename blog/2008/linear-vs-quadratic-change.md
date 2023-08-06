@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png" border="0" alt="Linear vs. Quadratic" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png" border="0" alt="Linear vs. Quadratic" /></p>
 
 # Linear vs. Quadratic Change
 
@@ -15,7 +15,7 @@ One of the most common mistakes in chart design is to scale an area by two sides
 
 The following detail from a information graphic produced by Princeton's <a href="http://www.princeton.edu/~ina/infographics/index.html">International Networks Archive</a> illustrates the problem (the numbers are presumably from 2002):
 
-<p><img src="https://media.eagereyes.org/media/2008/FastFood.jpg" border="0" alt="Fast Food Chains" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/FastFood.jpg" border="0" alt="Fast Food Chains" /></p>
 
 Comparing Starbucks ($4.1bn) and KFC ($8.2bn), the problem becomes clear: the difference is a factor of two, but the KFC logo has four times the area of the Starbucks logo (even more because one is square and the other round). This can be seen in a number of the graphics on that website, though they also have some where they scale correctly.
 

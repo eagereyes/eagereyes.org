@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/infovistheory-teaser.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/infovistheory-teaser.png" width="560" height="311" alt="InfoVisTheory Teaser"></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/infovistheory-teaser.png" width="560" height="311" alt="InfoVisTheory Teaser"></p>
 
 # Workshop: The Role of Theory in Information Visualization
 

@@ -6,7 +6,7 @@ tags: VisWeek
 featuredImage: https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170" /></p>
 
 # VisWeek Bingo, Interactive Edition 2011
 

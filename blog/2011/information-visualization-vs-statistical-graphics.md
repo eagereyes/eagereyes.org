@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2011/scgn.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/media/2011/scgn.jpg" alt="" width="600" height="194" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2011/scgn.jpg" alt="" width="600" height="194" /></p>
 
 # Information Visualization vs. Statistical Graphics
 

@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg" width="624" height="305" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg" width="624" height="305" /></p>
 
 
 # Averages Are Metadata

@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2009/visweektweet.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/visweektweet.png" border="0" alt="VisWeek Tweet" width="560" height="126" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/visweektweet.png" border="0" alt="VisWeek Tweet" width="560" height="126" /></p>
 
 # VisWeek Preview: Live Coverage
 

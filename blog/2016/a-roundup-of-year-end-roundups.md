@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2017.jpg" width="720" height="500" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2017.jpg" width="720" height="500" /></p>
 
 # A Roundup of Year-End News Graphics Roundups
 

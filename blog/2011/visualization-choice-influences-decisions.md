@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2011/elting-teaser.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2011/elting-teaser.png" alt="" width="600" height="220" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2011/elting-teaser.png" alt="" width="600" height="220" /></p>
 
 # Visualization Choice Influences Decisions
 

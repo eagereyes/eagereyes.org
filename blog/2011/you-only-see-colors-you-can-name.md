@@ -6,7 +6,7 @@ tags: Perception, Language
 featuredImage: https://media.eagereyes.org/media/2011/color-names-teaser.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2011/color-names-teaser.png" width="600" height="200"></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2011/color-names-teaser.png" width="600" height="200"></p>
 
 # You Only See Colors You Can Name
 

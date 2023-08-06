@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2009/VisWebTeaser.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2009/VisWebTeaser.jpg" border="0" alt="Putting Visualization on the Web" width="560" height="374" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/VisWebTeaser.jpg" border="0" alt="Putting Visualization on the Web" width="560" height="374" /></p>
 
 # Putting Visualization on the Web – at VisWeek 2009
 

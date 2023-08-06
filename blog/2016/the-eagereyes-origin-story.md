@@ -6,7 +6,7 @@ tags: Meta/Site News, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/origin-story.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/origin-story.jpg" width="720" height="327" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/origin-story.jpg" width="720" height="327" /></p>
 
 # The EagerEyes Origin Story
 

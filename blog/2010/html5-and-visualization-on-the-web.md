@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/canvas.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/canvas.png" alt="" width="560" height="168" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/canvas.png" alt="" width="560" height="168" /></p>
 
 # HTML5 and Visualization on the Web
 

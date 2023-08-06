@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/media/2010/mappings.png
 ---
 
-<p><img src="https://media.eagereyes.org/media/2010/mappings.png" width="537" height="178" alt="Mappings" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2010/mappings.png" width="537" height="178" alt="Mappings" /></p>
 
 # The Year of InfoVis Theory
 

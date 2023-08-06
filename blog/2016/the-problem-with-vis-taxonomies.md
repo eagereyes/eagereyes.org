@@ -6,7 +6,7 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg" width="720" height="500" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg" width="720" height="500" /></p>
 
 
 # The Problem with Vis Taxonomies

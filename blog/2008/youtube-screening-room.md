@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" border="0" alt="YouTube Screening Room" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" border="0" alt="YouTube Screening Room" /></p>
 
 # The YouTube Screening Room
 

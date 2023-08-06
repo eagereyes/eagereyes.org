@@ -9,7 +9,7 @@ outline: false
 
 # Swing States
 
-<p><img src="https://media.eagereyes.org/media/2008/StateSwing-teaser.png" alt="Swing State Teaser" width="404" height="154" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/StateSwing-teaser.png" alt="Swing State Teaser" width="404" height="154" border="0" /></p>
 
 I always wondered how much those <a href="http://en.wikipedia.org/wiki/Swing_state">swing states</a> actually swing. So I looked at the results of presidential elections over the last 100 years, and it's not easy to determine which states actually are swing states from just looking at their history. Rather, there seems to be a pattern of relative stability for a few election cycles, and then big, sweeping wins for one side.
 
@@ -161,7 +161,7 @@ Merle says…
 >	Interesting result on the right hand side there for *that* 1964 election. Everybody talks about Goldwater flipping the "solid South", but not so many people mention the 11 states that went for Johnson and have never gone for the Democrat since. I wonder if any of those will change this week? 
 
 <a href="http://whatype.wordpress.com" rel="nofollow noopener" target="_blank">Pedro Monteiro</a> says…
->	<p><img src="http://whatype.files.wordpress.com/2008/11/elections_f.jpg?w=442&amp;h=625" border="0" width="442" height="625" /></p>
+>	<p align="center"><img src="http://whatype.files.wordpress.com/2008/11/elections_f.jpg?w=442&amp;h=625" border="0" width="442" height="625" /></p>
 >	<p>One of the first things I though was that there is no better 'code' than words and I wanted to use the states names to do this visualization. Since there are same small names and some very large ones I choose to use the letters used in the abbreviations of the states names. I think that since I'm not American I needed to still have the states full name.</p>
 >	<p>By having the states named with two letters the data can be read by 'cutting' the 100 years in half and I enjoyed that and some of the data really works like that in some states (there are some really impressive changes from the tendencies of the first half of the century and the second half).</p>
 >	<p>On the other hand, one can look to both letters and have a quick feeling on the color that the state 'is'. Another set of data that could be of interest is the percentage of the times that each state got the president they had chosen. Maybe I will look at this when I have a little more time.</p>

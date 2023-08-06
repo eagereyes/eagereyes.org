@@ -6,7 +6,7 @@ tags: Meta/Site News
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2011/12/features.png
 ---
 
-<p><img class="alignnone size-full wp-image-1551" title="New Features" src="https://media.eagereyes.org/wp-content/uploads/2011/12/features.png" alt="" width="600" height="142" /></p>
+<p align="center"><img class="alignnone size-full wp-image-1551" title="New Features" src="https://media.eagereyes.org/wp-content/uploads/2011/12/features.png" alt="" width="600" height="142" /></p>
 
 # Why I Switched From Drupal to WordPress
 

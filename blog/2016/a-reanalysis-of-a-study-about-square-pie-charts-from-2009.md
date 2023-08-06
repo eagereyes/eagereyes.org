@@ -16,7 +16,7 @@ In 2009, my then-Ph.D. student Caroline Ziemkiewicz and I ran a study to test th
 
 Here are the chart types we tested: a square pie, a stacked bar chart, a pie chart, and a donut chart. Note that the square pie did not have a grid, like <a href="https://eagereyes.org/techniques/square-pie-charts">I've used in a few other places</a>. We didn't want to make this too easy. Also, the bar looks a bit thin in comparison here, but it was longer than any of the other charts were wide – I had to rescale it here to fit it in.
 
-<p><img class="aligncenter size-full wp-image-9422" src="https://media.eagereyes.org/wp-content/uploads/2016/07/simplevis-charts.jpg" alt="simplevis-charts" width="1320" height="350" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-9422" src="https://media.eagereyes.org/wp-content/uploads/2016/07/simplevis-charts.jpg" alt="simplevis-charts" width="1320" height="350" /></p>
 
 The structure of the study was quite similar to the one Drew Skau and I used in <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">our EuroVis papers</a>. The stimuli look quite similar too, which I had not realized until I looked at them again.
 

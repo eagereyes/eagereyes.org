@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png" alt="NY Times, Can a President Tame the Business Cycle?" width="407" height="170" border="0" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png" alt="NY Times, Can a President Tame the Business Cycle?" width="407" height="170" border="0" /></p>
 
 # NY Times looks at Presidents and the Economy
 

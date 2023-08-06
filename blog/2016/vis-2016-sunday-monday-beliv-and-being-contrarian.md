@@ -6,7 +6,7 @@ tags: conference, IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg" width="720" height="540" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg" width="720" height="540" /></p>
 
 # VIS 2016 – Sunday, Monday: BELIV and Being Contrarian
 

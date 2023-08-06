@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderma
 outline: false
 ---
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg" width="816" height="612" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg" width="816" height="612" /></p>
 
 # Ben Shneiderman's Chart Pies
 

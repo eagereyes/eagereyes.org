@@ -4,7 +4,7 @@ title: "Notebooks for Data Analysis and Visualization: Moving Beyond the Data"
 
 # Notebooks for Data Analysis and Visualization: Moving Beyond the Data
 
-<p><img src="https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png" /></p>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png" /></p>
 
 > _Notebooks are a relatively new way of analyzing data and creating visualizations. They differ from the common graphical user interfaces used for visualization tools in many ways, and have their own strengths and weaknesses. In particular, they allow easy sharing, experimentation, and collaboration, and provide context about the data for different kinds of users. They also integrate modeling, forecasting, and complex analyses directly with the visualization. We believe that notebooks provide a unique and fundamentally new way of working with and understanding data. By laying out their unique properties, we hope to inspire both researchers and practitioners to investigate their many uses, explore their pros and cons, and share their findings._
 
