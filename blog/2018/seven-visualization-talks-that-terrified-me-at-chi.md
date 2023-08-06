@@ -72,7 +72,7 @@ The workers on Amazon’s Mechanical Turk have been the unsung heroes of empiric
 
  It should feel icky that so much of our scientific work is based off an underpaid and exploited population. Projects like <a href="https://turkopticon.info/">Turkopticon</a> have tried to make these labor practices more visible (and make it easier for Turkers to filter out bad requesters), but all of the time sinks of looking for and then validating work add up to hourly rates that are much much lower than minimum wage (a median of just $2/hr). The past few years I’ve been reporting my target hourly rates for Turkers (and indicating whether or not we hit those targets) in my papers. I suggest that everybody else do the same, or at the very least establish just and reasonable norms for Turker compensation for research studies.
 
-<p align="center"><img class="wp-image-10611 aligncenter" src="https://eagereyes.org/wp-content/uploads/2018/05/slides.png" alt="A slide from Sue Gardner's keynote reading &quot;The best minds of my generation are thinking about how to make people click on ads. I think that sucks&quot; - Jeff Hammerbacher, early Facebook employee" width="493" height="270" /></p>
+<p align="center"><img class="wp-image-10611 aligncenter" src="https://media.eagereyes.org/wp-content/uploads/2018/05/slides.png" alt="A slide from Sue Gardner's keynote reading &quot;The best minds of my generation are thinking about how to make people click on ads. I think that sucks&quot; - Jeff Hammerbacher, early Facebook employee" width="493" height="270" /></p>
 
 ## 7. How the Internet has broken democracy, and what we can do now
 

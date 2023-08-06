@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: France
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-France-color-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap France" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-France-color-borders-thumb.jpg" alt="ZIPScribbleMap France" width="600" height="597" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-France-color-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap France" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-France-color-borders-thumb.jpg" alt="ZIPScribbleMap France" width="600" height="597" border="0" /></a>
 
 The <a href="http://en.wikipedia.org/wiki/France">French</a> are known for their beaurocracy, and the map seems to be an expression of that. Inside each <em>région</em>, there are several clusters for the <em>départements</em>, neatly separated. Smaller departments are often thrown together with larger ones, though, and inside each cluster is a nice bit of scribble chaos to make things more interesting. To the south-east, you can see the Mediterranean island <a href="http://en.wikipedia.org/wiki/Corsica">Corsica</a>.
 

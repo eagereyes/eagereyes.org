@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Canada
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Canada" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Canada-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Canada" width="481" height="600" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Canada" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Canada-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Canada" width="481" height="600" border="0" /></a>
 
 <a href="http://en.wikipedia.org/wiki/Canada">Canada</a> is the second-largest country in the world in terms of area, and is also extremely sparsely populated. The map shows the concentration of cities along the border with the contiguous US, and the vast areas that seem to be effectively empty.
 

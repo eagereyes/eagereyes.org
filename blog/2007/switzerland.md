@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Switzerland
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Switzerland-color-names-borders.png" rel="slb_off" target="_blank"><img class="aligncenter" title="ZIPScribbleMap Switzerland" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Switzerland-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Switzerland" width="600" height="404" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Switzerland-color-names-borders.png" rel="slb_off" target="_blank"><img class="aligncenter" title="ZIPScribbleMap Switzerland" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Switzerland-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Switzerland" width="600" height="404" border="0" /></a>
 <table width="80%" border="0" align="center">
 
 <a href="http://en.wikipedia.org/wiki/Switzerland">Switzerland</a> is known for its mountains, and you can see that quite well on this map, especially in the middle to southern areas. Especially impressive is the canton of Uri (UR), which is one long valley; this is very nicely visible on this map.

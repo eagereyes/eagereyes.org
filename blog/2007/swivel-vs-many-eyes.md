@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/SwivelvsManyEyes.pn
 
 # Review: Swivel vs. Many Eyes
 
-<p align="center"><img style="border: 0px initial initial;" title="Swivel vs. Many Eyes" src="https://media.eagereyes.org/media/attachments/SwivelvsManyEyes.png" alt="Swivel vs. Many Eyes" width="560" height="211" border="0" /></p>
+<p align="center"><img title="Swivel vs. Many Eyes" src="https://media.eagereyes.org/media/attachments/SwivelvsManyEyes.png" alt="Swivel vs. Many Eyes" width="560" height="211" border="0" /></p>
 
 Social websites are all the rage right now, and are not just hyped by the media (MySpace and YouTube in particular), but there are also large amounts of money involved (again, MySpace and YouTube). But does the social model make sense for data analysis and visualization? And will users play and interact with data the way they do with other media? Two websites were launched recently to find out: Swivel.com (defunct as of late 2010) and <a href="http://many-eyes.com/">Many Eyes</a>. Here is a first review, looking at the two sites in terms of their founders, approach, social aspects, technology, capabilities, broad appeal, and ethics.
 

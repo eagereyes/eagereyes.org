@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: The Netherlands
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Netherlands" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Netherlands-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Netherlands" width="525" height="600" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Netherlands" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Netherlands-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Netherlands" width="525" height="600" border="0" /></a>
 
 Though one of the most densely populated countries, <a href="http://en.wikipedia.org/wiki/Netherlands">the Netherlands</a> do not appear overcrowded in terms of postal codes.
 

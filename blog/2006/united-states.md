@@ -9,30 +9,30 @@ outline: false
 
 # The US ZIPScribble Map
 
-<img title="ZIPScribble Map" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders-thumb.jpg" alt="ZIPScribble Map" width="600" height="350" border="0" />
+<img title="ZIPScribble Map" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders-thumb.jpg" alt="ZIPScribble Map" width="600" height="350" border="0" />
 
 What would happen if you were to connect all the ZIP codes in the US in ascending order? Is there a system behind the assignment of ZIP codes? Are they organized in a grid? The result is surprising and much more interesting than expected.
 
 The idea for the ZIPScribble came from playing with Ben Fry's excellent <a href="http://benfry.com/zipdecode/">zipdecode</a>. That little applet allows you to explore the ZIP codes interactively, and reveals some very interesting patterns. What it does not give you, however, is an idea of the overall structure of the ZIP space. Jeffrey Heer has <a href="http://prefuse.org/gallery/zipdecode/">reimplemented zipdecode</a> using his <a href="http://prefuse.org/">prefuse</a> toolkit, and provides a file containing ZIP codes and coordinates. So off I went on a little programming exercise to see what simply connecting the dots would do.
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map b/w" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-thumb.jpg" alt="ZIPScribble Map b/w" width="600" height="350" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map b/w" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-thumb.jpg" alt="ZIPScribble Map b/w" width="600" height="350" border="0" /></a>
 <p align="center">(<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap.pdf" target="_blank">ZIPScribble Map PDF</a>)</p>
 The patterns and density distribution are readily apparent, and can in fact be seen much better than when only the dots are drawn. The scribbling quality of the lines (looks like somebody was bored while talking on the phone) lead to the clever name for the map. So let's enhance the map, and see if those apparent borders are in fact state lines or just artifacts.
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map color" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-thumb.jpg" alt="ZIPScribble Map color" width="600" height="350" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map color" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-thumb.jpg" alt="ZIPScribble Map color" width="600" height="350" border="0" /></a>
 <p align="center">(<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color.pdf" target="_blank">ZIPScribble Map Color PDF</a>)</p>
 Not surprisingly, some of the white lines really separate states, others don't. For the non-US folks (like yours truly), it makes sense to add state names for better readability, and also to disambiguate some problems with the rather simplistic coloring algorithm.
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map color, names" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names-thumb.jpg" alt="ZIPScribble Map color, names" width="600" height="350" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map color, names" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names-thumb.jpg" alt="ZIPScribble Map color, names" width="600" height="350" border="0" /></a>
 <p align="center">(<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names.pdf" target="_blank">ZIPScribble Map Color with Names PDF</a>)</p>
 Adding the colors clearly adds information, but it also removes some of the mystery. The scribble quality is much more apparent from the monochrome version (nobody has lots of differently colored pens lying around). The colored version looks more interesting, but also looks much more like any other map than the monochrome version.
 
 Since the lines between the denser areas could still be artifacts, let's add a backdrop to see if they really are state lines.
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map Color Names Borders" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders-thumb.jpg" alt="ZIPScribble Map Color Names Borders" width="600" height="350" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map Color Names Borders" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders-thumb.jpg" alt="ZIPScribble Map Color Names Borders" width="600" height="350" border="0" /></a>
 <p align="center">(<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-borders.pdf" target="_blank">ZIPScribble Map B/W with Borders</a>) (<a href="http://eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders.pdf" target="_blank">ZIPScribble Map Color with Borders PDF</a>)</p>
 <p align="left">As some of the comments below have mentioned, Alaska and Hawaii are missing from this map. Here are these two states, they will eventually be included in the map above, and also a PDF of them will be available.</p>
-<a href="http://eagereyes.org/media/attachments/ZIPScribble-AKHI.png" target="_blank" rel="slb_off"><img title="ZIPScribble of Alaska and Hawaii" src="http://eagereyes.org/media/attachments/ZIPScribble-AKHI-thumb.jpg" alt="ZIPScribble of Alaska and Hawaii" width="600" height="272" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribble-AKHI.png" target="_blank" rel="slb_off"><img title="ZIPScribble of Alaska and Hawaii" src="https://media.eagereyes.org/media/attachments/ZIPScribble-AKHI-thumb.jpg" alt="ZIPScribble of Alaska and Hawaii" width="600" height="272" border="0" /></a>
 
 Is this visualization? Sure, because it shows data. The pictures are not interactive (though there is <a href="http://eagereyes.org/zipscribble-maps/interactive-zipscribble-map#US">an interactive version as well</a>), but they do allow some insight into the patterns created by the numbers. Is it useful? Probably not. But it sure is surprising and interesting, rather like a fractal image.
 

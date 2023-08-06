@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Germany
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Germany-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Germany" src="http://eagereyes.org/media/attachments/cribbleMap-Germany-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Germany" width="434" height="564" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Germany-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Germany" src="https://media.eagereyes.org/media/attachments/cribbleMap-Germany-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Germany" width="434" height="564" border="0" /></a>
 
 Of course, Stefan Zeiger already <a href="http://szeiger.de/zipmap/">beat me to the punch</a> on this one. However, only EagerEyes.org offers you a printable version, a country outline, and the original ZIPScribble flavor. The structure within Berlin (BE) is interesting particularly.
 

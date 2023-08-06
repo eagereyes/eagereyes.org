@@ -20,7 +20,7 @@ I converted and reshaped the data into a <a href="http://eagereyes.org/media/200
 
 While the overall data is nice and large, it also has a number of problems. The image below is from <a href="http://eagereyes.org/data/interactively-explore-climate-data">my first attempt at visualizing it using Protovis</a>. The overall difference in temperature is suspiciously high, and there are some jumps that don't appear likely.
 
-<p align="center"><img style="border: 0px initial initial;" src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" border="0" alt="Climate data 1740-2008" width="560" height="246" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" border="0" alt="Climate data 1740-2008" width="560" height="246" /></p>
 
 In particular, 1950-51 shows a jump over more than 2&ordm;, which is obviously impossible (the same difference takes over 100 years before that). A look at when stations came online gives a hint at the source of the problem
 
@@ -62,7 +62,7 @@ What interested me more than the long-term differences was how the seasons chang
 
 The following image shows the temperatures over the course of the year, with one line per decade (values are averaged), per continent. The color scale goes from blue (1900s) to orange (2000s), following Clint's suggestion in the comments. The reason for going by decade here is that there are considerable yearly fluctuations that make this chart nearly unreadable if done at that level.
 
-<p align="center"><img style="border: 0px initial initial;" src="http://eagereyes.org/media/2009/climate/month-lines2.png" border="0" alt="Temperature averages over the year, per decade and continent" width="560" height="577" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/month-lines2.png" border="0" alt="Temperature averages over the year, per decade and continent" width="560" height="577" /></p>
 
 Some interesting patterns emerge here. While it's not possible to see exactly which lines are which decade (the colors are too similar, and there is too much overplotting), this is really more about trends, which are quite apparent.
 

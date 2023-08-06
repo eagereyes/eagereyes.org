@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Australia
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Australia-color-names-borders.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map Australia" src="http://eagereyes.org/media/attachments/ibbleMap-Australia-color-names-borders-thumb.jpg" alt="ZIPScribble Map Australia" width="600" height="521" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Australia-color-names-borders.png" target="_blank" rel="slb_off"><img title="ZIPScribble Map Australia" src="https://media.eagereyes.org/media/attachments/ibbleMap-Australia-color-names-borders-thumb.jpg" alt="ZIPScribble Map Australia" width="600" height="521" border="0" /></a>
 
 The data for <a href="http://en.wikipedia.org/wiki/Australia">Australia</a> is apparently incomplete, though I don't think we're missing much. Even if you are not very familiar with Australia, you will perhaps realize that the map is missing <a href="http://en.wikipedia.org/wiki/Alice_Springs%2C_Australia">Alice Springs</a>, which is smack in the middle of the continent. A few other cities are missing, too. But overall, the structure is very believable.
 

@@ -17,7 +17,7 @@ Now that I think about it, <a href="http://eagereyes.org/techniques/treemaps">tr
 
 Here is an example of a cushion treemap:
 
-<img class="aligncenter size-medium wp-image-2908" alt="Cushion Treemap" src="https://eagereyes.org/wp-content/uploads/2013/12/treemap-cushion-730x559.jpg" width="730" height="559" />
+<img class="aligncenter size-medium wp-image-2908" alt="Cushion Treemap" src="https://media.eagereyes.org/wp-content/uploads/2013/12/treemap-cushion-730x559.jpg" width="730" height="559" />
 
 Treemap Art doesn’t just use the idea of treemaps, the pieces are generated from actual data using a treemap tool. Of course, the layout method, colors, and other parameters such as stroke width, are chosen on purpose to create a particular effect. It is a testament to treemaps’ maturity and versatility that it is possible to create a large variety of different images from a single tool.
 

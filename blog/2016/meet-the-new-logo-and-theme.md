@@ -16,13 +16,13 @@ This site has gone through many different looks and designs. I haven't kept coun
 
 I’ve tried my hand on a logo a few times in the past. I never got much feedback, but I know that they were all terrible. Here are a few samples; the white-on-orange text was part of the theme for a while many years ago (shortly before I <a href="https://eagereyes.org/blog/2012/why-i-switched-drupal-wordpress">switched to WordPress</a>, I believe). The light bulb on the right was the feed avatar until a few days ago.
 
-<img class="aligncenter size-full wp-image-9626" src="https://eagereyes.org/wp-content/uploads/2016/09/logos.png" alt="logos" width="900" height="610" />
+<img class="aligncenter size-full wp-image-9626" src="https://media.eagereyes.org/wp-content/uploads/2016/09/logos.png" alt="logos" width="900" height="610" />
 
 My wish list for the logo included that it be clever, whimsical, or both. After I showed logo designer <a href="http://paigekwon.com">Paige Kwon</a> some of the logos of the competition, he observed that those tended to be quite angular (in particular <a href="http://flowingdata.com">Nathan Yau</a>'s and <a href="http://visualisingdata.com">Andy Kirk</a>’s), so it would make sense to go with rounder shapes. I liked that not just because of the contrast, but also because rounder shapes would seem friendlier and more fun.
 
 So without further ado, meet <em>Edgar the Eager Eye</em>! Yeah, that’s totally what I’m calling him (after the computer in <a href="https://en.wikipedia.org/wiki/Electric_Dreams_(film)"><em>Electric Dreams</em></a>, a tragically under-appreciated 1980s movie). I think the winky eye adds enough whimsy without being too in-your-face funnay. And Paige clearly succeeded on the rounded shapes front. Also, see that clever little thing in the pupil? See it? See it?
 
-<img class="aligncenter size-full wp-image-9562" src="https://eagereyes.org/wp-content/uploads/2016/09/winky-e-logo.png" alt="winky-e-logo" width="600" height="140" />
+<img class="aligncenter size-full wp-image-9562" src="https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-logo.png" alt="winky-e-logo" width="600" height="140" />
 
 While perhaps obvious in hindsight, the path to this wasn’t nearly as direct as you might think. For most of the process, I held on to a different design that was based on one of my ideas, and I only really let go when we just had to make a decision. Of course, I only did that to teach Paige that you have to kill your clients’ own ideas immediately, or they’ll never consider your much better ones…
 

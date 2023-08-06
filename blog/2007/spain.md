@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Spain
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Spain-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Spain" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Spain-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Spain" width="600" height="487" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Spain-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Spain" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Spain-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Spain" width="600" height="487" border="0" /></a>
 
 <a href="http://en.wikipedia.org/wiki/Spain">Spain</a> has an interesting internal structure in terms of postal codes. Rather than a lot of chaotic scribble, many of the lines do not cross over, a bit like on the <a href="http://eagereyes.org/Applications/ZIPTPCMap.html">Travelling Presidential Candidate Map</a>. The only excaption is Galicia (GA), with its very dense scribble structure.
 

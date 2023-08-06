@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/04/DSCF1448.j
 
 Trees. They’re everywhere. And not just in the physical world, but in data visualization and knowledge representation as well. This is not a new phenomenon, it goes back thousands of years. Manuel Lima’s new book, <em>The Book of Trees</em>, gives an overview.
 
-<p align="center"><img class="aligncenter size-medium wp-image-3593" alt="The Book of Trees, in a tree" src="https://eagereyes.org/wp-content/uploads/2014/04/DSCF1448.jpg" width="730" height="486" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-3593" alt="The Book of Trees, in a tree" src="https://media.eagereyes.org/wp-content/uploads/2014/04/DSCF1448.jpg" width="730" height="486" /></p>
 
 ## Setting Expectations
 

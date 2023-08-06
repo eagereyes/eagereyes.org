@@ -7,7 +7,7 @@ featuredImage: http://eagereyes.org/media/2009/climate/climate-teaser-cropped.pn
 outline: false
 ---
 
-<p align="center"><img style="border: 0px initial initial;" src="http://eagereyes.org/media/2009/climate/climate-teaser-cropped.png" alt="Climate data 1740-2008" width="560" height="246" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" alt="Climate data 1740-2008" width="560" height="246" /></p>
 
 # Interactively Explore Climate Data
 

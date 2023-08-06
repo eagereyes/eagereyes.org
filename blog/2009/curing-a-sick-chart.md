@@ -38,7 +38,7 @@ We see that the most common disease is hypertension (dark purple), and that oste
 
 My original idea for a redesign of the visualization was to use small multiples. This is very easy to do in Tableau, and much more useful to see actual patterns (without different categories distorting each other). Ignoring the less common diseases, we get a very clear, concise chart.
 
-<p align="center"><img style="border: 0px initial initial;" src="http://eagereyes.org/media/2009/sickchart/patients-age-disease-percent.png" border="0" alt="Patients by age and disease small multiples" width="560" height="327" /></p>
+<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/patients-age-disease-percent.png" border="0" alt="Patients by age and disease small multiples" width="560" height="327" /></p>
 
 This visualization shows percent of the total number of patients at each age, so patterns do not depend on the considerable differences in the number of people in the data set over the ages (a chart showing patient numbers is at the very top of this page). It answers the original question I had when I saw the applet, but was not able to answer using it: what is the distribution of diseases over time?
 

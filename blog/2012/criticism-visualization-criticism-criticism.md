@@ -20,7 +20,7 @@ Andy uses the example of a bicycle to argue that different people have different
 
 But let's play with that bicycle metaphor a bit and consider a new bike design by a newcomer to the field. Our designer has looked at existing bikes and found that they all are too similar and not nearly as exciting as they could be. So here is a new design! It's pretty, it's intricate, and it uses ideas from other fields. I hope you like it.
 
-<p align="center"><a href="http://www.saatchionline.com/StephenWilliams"><img class="aligncenter size-full wp-image-1985" title="gate bicycle by Stephen Williams" src="https://eagereyes.org/wp-content/uploads/2012/07/gate-bicycle.jpg" alt="" width="600" height="398" /></a></p>
+<p align="center"><a href="http://www.saatchionline.com/StephenWilliams"><img class="aligncenter size-full wp-image-1985" title="gate bicycle by Stephen Williams" src="https://media.eagereyes.org/wp-content/uploads/2012/07/gate-bicycle.jpg" alt="" width="600" height="398" /></a></p>
 
 This is what a lot of visualization experiments look like, and that's fine. But it has to be possible to criticize them. This is not a useful bicycle. It has other virtues, perhaps, but if my goal is to get from point A to point B, this is not going to do it. The fact that <a href="http://www.saatchionline.com/StephenWilliams">you can actually ride it and it works</a> makes not difference here, it's not a practical bike. As a decorative piece, it's clearly superior to a lot of more useful bikes, though. But is bicycle design, as a field, about decorative pieces with no practical value, or perhaps more about efficient modes of transportation? What should be the typical assumptions and goals of bicycles, and which goals might be somewhat less important?
 

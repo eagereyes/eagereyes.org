@@ -12,7 +12,7 @@ As we're heading towards elections again, there is a chart type that is as unavo
 
 The following image shows slightly different data, but the idea is the same. The data is from a <a href="http://www.gallup.com/poll/113980/Gallup-Daily-Obama-Job-Approval.aspx">long-running Gallup poll</a> about job approval ratings of President Obama, from early 2009 to the end of 2011. Each data point is actually a three-day average. Blue shows approval, green disapproval.
 
-<img class="alignnone size-full wp-image-1608" title="Obama Approval Ratings as Line Chart" src="https://eagereyes.org/wp-content/uploads/2012/01/obama-lines.png" alt="" width="600" height="340" />
+<img class="alignnone size-full wp-image-1608" title="Obama Approval Ratings as Line Chart" src="https://media.eagereyes.org/wp-content/uploads/2012/01/obama-lines.png" alt="" width="600" height="340" />
 
 There is a clear trend here that shows approval dropping from very high in early 2009 to just below 50% in mid-2010. From there, things get murkier. The blue and green lines cross, then continue for a while, then cross again. There's clearly a lot of noise, but every inversion looks like a big event.
 
@@ -24,7 +24,7 @@ How else could the data be shown? In particular, what else is there to show abou
 
 Here is my alternative. It is a stacked area chart that contains the approval at the bottom, the undecided percentage in the middle, and the disapproval on top. The colors were chosen deliberately to be easy to interpret (red is bad, blue is like above and it's also the color of the Democratic Party), and the undecided layer is actually transparent.
 
-<img class="alignnone size-full wp-image-1607" title="Obama Approval Ratings as Area Chart" src="https://eagereyes.org/wp-content/uploads/2012/01/obama-area.png" alt="" width="600" height="340" />
+<img class="alignnone size-full wp-image-1607" title="Obama Approval Ratings as Area Chart" src="https://media.eagereyes.org/wp-content/uploads/2012/01/obama-area.png" alt="" width="600" height="340" />
 
 How is this better? For one, it shows the approval trend in a much clearer way than the first chart. If we assume that the number of undecideds is constant, we don't actually need to see the disapproval numbers, and so can initially ignore anything above the blue area.
 

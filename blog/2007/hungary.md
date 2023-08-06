@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Hungary
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Hungary-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Hungary" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Hungary-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Hungary" width="600" height="389" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Hungary-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Hungary" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Hungary-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Hungary" width="600" height="389" border="0" /></a>
 
 Budapest, <a href="http://en.wikipedia.org/wiki/Hungary">Hungary</a>'s capital, is missing from the map, and the data does not appear to be complete. The structures are quite tidy, and look like a cleaner (and smaller) version of <a href="http://eagereyes.org/zipscribble-maps/spain">Spain</a>.
 

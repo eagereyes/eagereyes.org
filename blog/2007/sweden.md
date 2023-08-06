@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Sweden
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Sweden-color-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Sweden" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Sweden-color-borders-thumb.jpg" alt="ZIPScribbleMap Sweden" width="264" height="565" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Sweden-color-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Sweden" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Sweden-color-borders-thumb.jpg" alt="ZIPScribbleMap Sweden" width="264" height="565" border="0" /></a>
 
 When my girlfriend saw this image, she immediately commented how <a href="http://en.wikipedia.org/wiki/Italy">Sweden</a> looked like a <a href="http://en.wikipedia.org/wiki/Stiletto_heel">stiletto boot</a>, more elegant than even <a href="http://eagereyes.org/Applications/MoreZIPScribbleMaps.html#Italy">Italy</a>. Wow, big controversy potential there, but I think I'd rather stay out of this one.
 

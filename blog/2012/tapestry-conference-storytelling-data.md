@@ -6,7 +6,7 @@ tags: conference
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png
 ---
 
-<p><img class="aligncenter size-full wp-image-2116" title="Tapestry Conference" alt="" src="https://eagereyes.org/wp-content/uploads/2012/12/tapestry.png" width="600" height="180" /></p>
+<p><img class="aligncenter size-full wp-image-2116" title="Tapestry Conference" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png" width="600" height="180" /></p>
 
 # Tapestry, The Conference About Storytelling With Data
 

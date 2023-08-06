@@ -44,19 +44,19 @@ VIS being in Paris this week is the perfect reason to have an exhibit about <a h
 
 The exhibit shows several design iterations Bertin went through to build it so it would be easy to rearrange, lock, and unlock. Things were more difficult to prototype and animate before computers.
 
-<img class="aligncenter size-medium wp-image-8520" src="https://eagereyes.org/wp-content/uploads/2014/11/bertin-reorderable-matrix-730x547.jpg" alt="Bertin's Reorderable Matrix" width="730" height="547" />
+<img class="aligncenter size-medium wp-image-8520" src="https://media.eagereyes.org/wp-content/uploads/2014/11/bertin-reorderable-matrix-730x547.jpg" alt="Bertin's Reorderable Matrix" width="730" height="547" />
 
 The organizers also built a wooden version of the matrix for people to play with. The basis for this was the Bertifier program presented in the morning session. While they say that it is a simplified version of Bertin’s, they also made some improvements. One is that they can swap the top parts of the elements by attaching them with magnets. That way, different metrics can be expressed quite easily, without having to take everything apart. I guess it also lets you cheat on the reordering if you only swap two rows.
 
-<img class="aligncenter size-medium wp-image-8519" src="https://eagereyes.org/wp-content/uploads/2014/11/bertin-reorderable-matrix-2-730x547.jpg" alt="Replica of Bertin's Reorderable Matrix" width="730" height="547" />
+<img class="aligncenter size-medium wp-image-8519" src="https://media.eagereyes.org/wp-content/uploads/2014/11/bertin-reorderable-matrix-2-730x547.jpg" alt="Replica of Bertin's Reorderable Matrix" width="730" height="547" />
 
 They also have some very nice hand-drawn charts from the 1960s, though not done by Bertin. They are interesting simply because they show how much effort it was to draw charts before computers.
 
-<img class="aligncenter size-medium wp-image-8522" src="https://eagereyes.org/wp-content/uploads/2014/11/bertin-wine-chart-730x547.jpg" alt="Wine Chart" width="730" height="547" />
+<img class="aligncenter size-medium wp-image-8522" src="https://media.eagereyes.org/wp-content/uploads/2014/11/bertin-wine-chart-730x547.jpg" alt="Wine Chart" width="730" height="547" />
 
 Note the amount of white-out used above to remove extraneous grid lines, and below to correct mistakes on the scatterplot.
 
-<img class="aligncenter size-medium wp-image-8521" src="https://eagereyes.org/wp-content/uploads/2014/11/bertin-scatterplot-730x547.jpg" alt="1960's Scatterplot" width="730" height="547" />
+<img class="aligncenter size-medium wp-image-8521" src="https://media.eagereyes.org/wp-content/uploads/2014/11/bertin-scatterplot-730x547.jpg" alt="1960's Scatterplot" width="730" height="547" />
 
 I was also reminded of this in the <em>Financial Visualization</em> panel, where one of the speakers showed photos of the huge paper charts they have at Fidelity Investments for deep historical data (going back hundreds of years). Paper still has its uses.
 

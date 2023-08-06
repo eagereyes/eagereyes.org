@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Norway
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Norway-color-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Norway" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Norway-color-borders-thumb.jpg" alt="ZIPScribbleMap Norway" width="528" height="600" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Norway-color-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Norway" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Norway-color-borders-thumb.jpg" alt="ZIPScribbleMap Norway" width="528" height="600" border="0" /></a>
 
 The climate in <a href="http://en.wikipedia.org/wiki/Norway">Norway</a> makes the coastal areas and the more southern parts more appealing to live. That data also looks much better than the middle to nortern parts.
 

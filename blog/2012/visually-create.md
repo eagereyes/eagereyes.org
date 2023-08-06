@@ -22,7 +22,7 @@ The idea behind <em>Visual.ly Create</em> is quite simple: separate the tasks of
 
 The two components are then merged through some custom magic by <em>the templar</em>. The result of that process is a first information graphic. But unlike a traditional infographic, its components can still be changed: the data can be updated or replaced, and the design can be swapped for a different one. Stew Langille, Visual.ly's CEO, compares the latter to themes for blogging engines like Wordpress.
 
-<img class="aligncenter size-full wp-image-1844" title="Visual.ly Templar" src="https://eagereyes.org/wp-content/uploads/2012/04/visually-templar.png" alt="" width="600" height="600" />
+<img class="aligncenter size-full wp-image-1844" title="Visual.ly Templar" src="https://media.eagereyes.org/wp-content/uploads/2012/04/visually-templar.png" alt="" width="600" height="600" />
 
 An important practical issue with information graphics are their cost. Creating one is a lot of work, and so the cost to the client is significant. Given an existing structure, a designer can create a new theme, and thus create graphics at a much lower cost. This also allows different people with different focus to work together and do what each does best.
 

@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Austria
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Austria-color-names-borders.png" target="_blank" rel="slb_off"><img title="ZIPScribbleMap Austria" src="http://eagereyes.org/media/attachments/cribbleMap-Austria-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Austria" width="600" height="326" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Austria-color-names-borders.png" target="_blank" rel="slb_off"><img title="ZIPScribbleMap Austria" src="https://media.eagereyes.org/media/attachments/cribbleMap-Austria-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Austria" width="600" height="326" border="0" /></a>
 
 Though the data for <a href="http://en.wikipedia.org/wiki/Austria">Austria</a> still seems to have a few small problems, the overall structure looks like many of the other maps. The pattern in the far north of <em>Niederösterreich</em> (Lower Austria, N) is remarkable though, because it looks different than the rest. Also, Vienna (W) is lacking some data, but would look like a spiral connecting its districts otherwise. What is quite visible, though, are the mountains that define the borders between some of the provinces, and which appear as regions without any postal codes.
 

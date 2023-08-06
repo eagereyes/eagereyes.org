@@ -27,7 +27,7 @@ When the data is sorted, including the average makes some sense to see which air
 
 But then, it's not like you can't see that when you draw a simple line. After <a href="https://twitter.com/eagereyes/status/854424631213568000">I tweeted that I found the above confusing</a>, RJ Andrews did <a href="https://twitter.com/infowetrust/status/854503656288264192">a quick redesign</a> of what I would consider to be the obvious way of showing the average (and also fixed the odd title on the other one):
 
-<img class="alignnone size-full wp-image-10055" src="https://eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-50-PM.jpeg" width="1172" height="458" />
+<img class="alignnone size-full wp-image-10055" src="https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-50-PM.jpeg" width="1172" height="458" />
 
 Why not do this? Dressing up the average required some graphics work beyond a simple chart in the original, wouldn't it have been easier to just draw a line instead?
 

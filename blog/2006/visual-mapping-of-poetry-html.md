@@ -13,7 +13,7 @@ Visualization people often talk about <em>mapping</em>. Mapping is the process t
 
 Enrico Bertini <a href="http://diuf.unifr.ch/people/bertinie/visuale/2006/11/visual_poetry_mimicking_textar_1.html">criticized the following image</a> for being a bad visualization on his <a href="http://diuf.unifr.ch/people/bertinie/visuale/">Visuale Blog</a>:
 
-<a href="http://www.esono.com/boris/projects/poetry06/"><img title="poetry on the road 06" src="http://eagereyes.org/media/attachments/poetry06_plakat-detail.png" alt="poetry on the road 06" width="539" height="382" /></a>
+<a href="http://www.esono.com/boris/projects/poetry06/"><img title="poetry on the road 06" src="https://media.eagereyes.org/media/attachments/poetry06_plakat-detail.png" alt="poetry on the road 06" width="539" height="382" /></a>
 
 The image was made for a <a href="http://www.esono.com/boris/projects/poetry06/">poster and book about a poetry festival</a>. The following describes how they did it:
 

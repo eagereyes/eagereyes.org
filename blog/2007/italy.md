@@ -9,7 +9,7 @@ outline: false
 
 # ZIPScribble Map: Italy
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Italy-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Italy" src="http://eagereyes.org/media/attachments/ZIPScribbleMap-Italy-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Italy" width="527" height="600" border="0" /></a>
+<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Italy-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Italy" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Italy-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Italy" width="527" height="600" border="0" /></a>
 
 The original boot with Sicily as its football, <a href="http://en.wikipedia.org/wiki/Italy">Italy</a> certainly has one of the most distinct shapes. Its scribble structure is somewhat more organized than some countries, but not as regular as <a href="http://eagereyes.org/zipscribble-maps/spain">Spain</a> or <a href="http://eagereyes.org/zipscribble-maps/hungary">Hungary</a>.
 
