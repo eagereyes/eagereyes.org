@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/media/2011/privacy-teaser.png
 
 # Paper: Privacy-Preserving Visualization
 
-The point of visualization is usually to reveal as much of the structure of a dataset as possible. But what if the data is sensitive or proprietary, and the person doing the analysis is not supposed to be able to know everything about it? In a paper to be presented <a href="http://visweek.org/visweek/2011/paper-session/all/infovis">next week at InfoVis</a>, my Ph.D. student Aritra Dasgupta and I describe the issues involved in privacy-preserving visualization, and propose a variation of <a href="http://eagereyes.org/techniques/parallel-coordinates">parallel coordinates</a> that controls the amount of information shown to the user.
+The point of visualization is usually to reveal as much of the structure of a dataset as possible. But what if the data is sensitive or proprietary, and the person doing the analysis is not supposed to be able to know everything about it? In a paper to be presented <a href="http://visweek.org/visweek/2011/paper-session/all/infovis">next week at InfoVis</a>, my Ph.D. student Aritra Dasgupta and I describe the issues involved in privacy-preserving visualization, and propose a variation of <a href="/techniques/parallel-coordinates">parallel coordinates</a> that controls the amount of information shown to the user.
 
 ## Naive Approaches
 

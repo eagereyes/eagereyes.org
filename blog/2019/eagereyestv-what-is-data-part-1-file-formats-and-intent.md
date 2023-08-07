@@ -16,7 +16,7 @@ The latest episode of eagereyesTV looks at what data is and what can set one kin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdVTaBGSddg?si=W8cnFYl872ppfJsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
 
-For more on intent and the primary representation of data, check out <a href="https://eagereyes.org/blog/2019/data-intent-and-primary-interpretation">my recent blog post on the topic</a>.
+For more on intent and the primary representation of data, check out <a href="/blog/2019/data-intent-and-primary-interpretation">my recent blog post on the topic</a>.
 
 This is going to be a series, so be sure to subscribe to <a href="https://www.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ?view_as=subscriber">the channel on YouTube</a>!
 

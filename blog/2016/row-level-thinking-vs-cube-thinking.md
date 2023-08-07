@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/rubik_cube
 
 # Row-Level Thinking vs. Cube Thinking
 
-Our mental model of a dataset changes the way we ask questions. One aspect of that is <a href="https://eagereyes.org/basics/spreadsheet-thinking-vs-database-thinking">the shape of the data (long or wide)</a>; an equally important issue is whether we think of the data as a collection of rows of numbers that we can aggregate bottom-up, or as a complete dataset that we can slice top-down to ask questions.
+Our mental model of a dataset changes the way we ask questions. One aspect of that is <a href="/basics/spreadsheet-thinking-vs-database-thinking">the shape of the data (long or wide)</a>; an equally important issue is whether we think of the data as a collection of rows of numbers that we can aggregate bottom-up, or as a complete dataset that we can slice top-down to ask questions.
 
 ## Where It All Starts: Rows
 
@@ -40,7 +40,7 @@ Spreadsheets are based on rows. That's what you see. Any calculation you do is b
 
 Databases can show you the rows, but they have the tools to slice the data built in. SQL's <em>group by</em> statement creates slices through the data, and the aggregations you specify in a query (avg, min, max, etc.) are applied to all the rows that fall into the groups you specify.
 
-Sure, you <em>could</em> look at the rows in a database just like in a spreadsheet. But that's not what databases are good at. Just like in <a href="https://eagereyes.org/basics/spreadsheet-thinking-vs-database-thinking">my previous piece on spreadsheets vs. databases</a>, I'm glossing over a lot nuances and special cases here. But the big-picture ways of thinking are the point here, and understanding them and their differences can help clear up many common misconceptions and frustrations.
+Sure, you <em>could</em> look at the rows in a database just like in a spreadsheet. But that's not what databases are good at. Just like in <a href="/basics/spreadsheet-thinking-vs-database-thinking">my previous piece on spreadsheets vs. databases</a>, I'm glossing over a lot nuances and special cases here. But the big-picture ways of thinking are the point here, and understanding them and their differences can help clear up many common misconceptions and frustrations.
 
 <hr />
 

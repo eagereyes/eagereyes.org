@@ -22,7 +22,7 @@ One number that was presented but that I don’t believe is that there were supp
 
 The keynote this year was by <a href="http://thefunctionalart.com">Alberto Cairo</a>, who gave a great talk about the value of knowledge and communicating data. Perhaps my favorite quote was that <em>good answers lead to more good questions</em>.
 
-There is a lot more to say, and I want to really do his talk justice. So I’m going to not go into more detail here, but rather <a title="The Island of Knowledge and the Shoreline of Wonder" href="https://eagereyes.org/blog/2015/the-island-of-knowledge-and-the-shoreline-of-wonder">write it up in a separate posting</a> in the next week or two.
+There is a lot more to say, and I want to really do his talk justice. So I’m going to not go into more detail here, but rather <a title="The Island of Knowledge and the Shoreline of Wonder" href="/blog/2015/the-island-of-knowledge-and-the-shoreline-of-wonder">write it up in a separate posting</a> in the next week or two.
 
 ## InfoVis: The Joy of Sets
 

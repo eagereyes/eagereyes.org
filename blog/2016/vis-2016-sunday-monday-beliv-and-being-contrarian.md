@@ -50,7 +50,7 @@ Perhaps BELIV can play a role in this, though not the way it is set up right now
 
 ## On Being a Contrarian
 
-During the Q&amp;A after <a href="https://eagereyes.org/papers/an-empire-built-on-sand">my talk at BELIV</a>, Marti Hearst said something about playing the contrarian. I don’t remember her exact point or question, but I think she was a bit unsure about it.
+During the Q&amp;A after <a href="/papers/an-empire-built-on-sand">my talk at BELIV</a>, Marti Hearst said something about playing the contrarian. I don’t remember her exact point or question, but I think she was a bit unsure about it.
 
 The funny thing is that I find being contrarian incredibly easy and rewarding in the visualization community. It’s much more fun to argue than to agree, and it leads to lots of hugely interesting discussions and new ideas. And I always find that many people agree with my positions (<em>finally somebody says something!</em>). I’ve also never seen an argument in person turn nasty.
 

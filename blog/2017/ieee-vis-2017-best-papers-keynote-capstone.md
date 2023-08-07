@@ -46,7 +46,7 @@ It’s also interesting to note here that the best paper award and the honorable
 
 <em><a href="https://alexanderbock.github.io/papers/vis17-bladin-globe_browsing.pdf">Globe Browsing: Contextualized Spatio-Temporal Planetary Surface Visualization</a></em> by Karl Bladin, Emil Axelsson, Erik Broberg, Carter Emmart, Patric Ljung, Alexander Bock, and Anders Ynnerman was the best paper in SciVis. They described their work on <a href="http://openspaceproject.com">Open Space</a>, a system to explore and show data about the solar system, from low-altitude fly-overs of Earth and Mars, to views of the entire system. They integrate real-time data from a variety of sources, like satellite data for weather patterns on Earth, high-resolution imagery of Mars, etc.
 
-Unfortunately, the talk didn’t make it very clear what was new here – especially after <a href="https://eagereyes.org/blog/2016/eurovis-2016-tuesday-and-wednesday">Anders Ynnerman’s impressive keynote at EuroVis last year</a>. So I asked how what they were doing was different from Google Earth. I’m sure that led to some eye rolling, but it helped me understand why this was chosen as the best paper (and several people told me later that they had had the same thought, so it wasn’t just my ignorance). In short, their system deals with a lot more data, has access to a much larger range of different kinds of data, and is used by scientists as well as educators in planetariums.
+Unfortunately, the talk didn’t make it very clear what was new here – especially after <a href="/blog/2016/eurovis-2016-tuesday-and-wednesday">Anders Ynnerman’s impressive keynote at EuroVis last year</a>. So I asked how what they were doing was different from Google Earth. I’m sure that led to some eye rolling, but it helped me understand why this was chosen as the best paper (and several people told me later that they had had the same thought, so it wasn’t just my ignorance). In short, their system deals with a lot more data, has access to a much larger range of different kinds of data, and is used by scientists as well as educators in planetariums.
 
 This is a good lesson for future Best Paper presenters at VIS, though: when you’re speaking in front of an audience that includes many people outside your field, you have to make sure you say some seemingly obvious things explicitly and point out what is new and different about your work.
 
@@ -69,10 +69,10 @@ What concerns me a little is the statement in the opening session about there be
 See also:
 
 <ul>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
 
 

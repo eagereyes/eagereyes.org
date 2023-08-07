@@ -25,7 +25,7 @@ But it gets better. Watch the video again and keep an eye on the scale of the ba
 
 What I find interesting about this is how it shows how names are becoming more diverse. There are many more names now, and parents no longer feel bound to give only common or well-established names.
 
-The data behind this is not easy to find. The Social Security Administration <a href="https://www.ssa.gov/OACT/babynames/state/top5_2014.html">lists the top five girls’ and boys’ names by state</a> for the years 1980 to 2015. Though bafflingly, they report the number of kids rather than a percentage of births. The differences in population between states (and thus, presumably, between the number of births) <a href="https://eagereyes.org/blog/2016/all-those-misleading-election-maps">are not trivial</a>, however.
+The data behind this is not easy to find. The Social Security Administration <a href="https://www.ssa.gov/OACT/babynames/state/top5_2014.html">lists the top five girls’ and boys’ names by state</a> for the years 1980 to 2015. Though bafflingly, they report the number of kids rather than a percentage of births. The differences in population between states (and thus, presumably, between the number of births) <a href="/blog/2016/all-those-misleading-election-maps">are not trivial</a>, however.
 
 But the absolute numbers do show how small the margins are. In 2014, Vermont had the same number of Emmas as Olivias (40 each), in South Dakota, 60 Harpers outnumbered 59 Avas. A single decision here would have flipped the ranking. In many states, the difference between the top names is a handful of births or a few dozen. These are not sweeping favorites, they’re flukes.
 

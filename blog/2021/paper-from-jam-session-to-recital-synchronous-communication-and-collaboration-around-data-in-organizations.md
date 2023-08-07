@@ -38,11 +38,11 @@ What also struck me as we were writing the paper was just how poorly presentatio
 
 We believe that there is a lot of opportunity here, both for research and for tool development. Visualization research has mostly ignored business users and the presentation use case so far, and even publishing work about them is challenging –&nbsp;I know of work that we actually used as inspiration for our studies that is still in revision limbo. Given how many people this kind of work might affect, it seems like an enormous missed opportunity.
 
-There’s a lot more in <a href="https://eagereyes.org/publications/Brehmer-VIS-2021b.html">the paper</a>, including about our mock-ups, as well as many more quotes and other insights into this very common use of data.
+There’s a lot more in <a href="/publications/Brehmer-VIS-2021b.html">the paper</a>, including about our mock-ups, as well as many more quotes and other insights into this very common use of data.
 
 <hr class="wp-block-separator"/>
 
-Matthew Brehmer and Robert Kosara, <a href="https://eagereyes.org/publications/Brehmer-VIS-2021b.html">From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations</a>. <em>Transactions on Visualization and Computer Graphics (Proceedings Vis)</em>, 2021.
+Matthew Brehmer and Robert Kosara, <a href="/publications/Brehmer-VIS-2021b.html">From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations</a>. <em>Transactions on Visualization and Computer Graphics (Proceedings Vis)</em>, 2021.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 26, 2021_

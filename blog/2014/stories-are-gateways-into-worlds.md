@@ -34,7 +34,7 @@ Again, watch it. You won’t find many better uses for 18 minutes of your time.
 
 ## Stories That Lead Into Worlds
 
-It is often important to lead people into a world. Rosling does that so people question their preconceived ideas and pay attention. Journalists do that when they try to tell you about something they want you to know and care about, but which you may never have heard about. And <a href="http://eagereyes.org/blog/2013/revolution-visualized">activists and non-profits do that</a> when they want you to pay attention to the cause they are pursuing.
+It is often important to lead people into a world. Rosling does that so people question their preconceived ideas and pay attention. Journalists do that when they try to tell you about something they want you to know and care about, but which you may never have heard about. And <a href="/blog/2013/revolution-visualized">activists and non-profits do that</a> when they want you to pay attention to the cause they are pursuing.
 
 Right now, we mostly get one or the other: a great story with very little exploration at the end, or an exploratory tool with little or now introduction. That makes it a bit more difficult to see where things are headed, but I am sure that we’ll soon see good examples that are strong on both ends.
 

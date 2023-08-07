@@ -11,7 +11,7 @@ outline: false
 
 # IEEE VIS 2017: A SciVis Perspective
 
-<em>Since my (Robert)'s conference reports are almost entirely focused on InfoVis (and a bit of VAST), I have asked <a href="http://noeskasmit.com">Noeska Smit</a>, medical visualization professor and my collaborator in the </em><a href="https://eagereyes.org/section/vis-potpourri">Vis Potpourri</a><em><a href="https://eagereyes.org/section/vis-potpourri"> postings</a>, to write about VIS from the SciVis perspective. Everything below are Noeska's words.</em>
+<em>Since my (Robert)'s conference reports are almost entirely focused on InfoVis (and a bit of VAST), I have asked <a href="http://noeskasmit.com">Noeska Smit</a>, medical visualization professor and my collaborator in the </em><a href="/section/vis-potpourri">Vis Potpourri</a><em><a href="/section/vis-potpourri"> postings</a>, to write about VIS from the SciVis perspective. Everything below are Noeska's words.</em>
 
 It's been a while since I wrote a conference report. I used to write them for <a href="http://www.medvis.org">medvis.org</a> regularly in the past. However, given the low amount of medical visualization papers at some of the conferences I attended, some would have ended up as very short reports indeed ;). From now on, I'll still write conference reports, even if they may not only contain 100% medvis content, starting with this IEEE VIS 2017 report.
 
@@ -50,11 +50,11 @@ I notice from my summary that there not all that many 'traditional SciVis medica
 See also:
 
 <ul>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
 
 

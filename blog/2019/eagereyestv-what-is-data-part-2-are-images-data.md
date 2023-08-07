@@ -11,7 +11,7 @@ outline: false
 
 Visualization turns data into images, but are images themselves data? There are often claims that they are, but then you mostly see the images themselves without much additional data. In this video, I look at image browsers, a project classifying selfies along a number of criteria, and the additional information stored in HEIC that makes things like portrait mode and relighting possible.
 
-This is the second video in my <em>What is Data?</em> series, and the question that initially got me <a href="https://eagereyes.org/blog/2019/eagereyestv-what-is-data-part-1-file-formats-and-intent">thinking about file formats, etc.</a>
+This is the second video in my <em>What is Data?</em> series, and the question that initially got me <a href="/blog/2019/eagereyestv-what-is-data-part-1-file-formats-and-intent">thinking about file formats, etc.</a>
 
 Watch the video below or <a href="https://youtu.be/xKfpBmuZkWU">head over to YouTube</a> (and while you’re there, subscribe to the channel!).
 

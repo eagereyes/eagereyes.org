@@ -11,7 +11,7 @@ outline: false
 
 # The Shaping of Information by Visual Metaphors
 
-In January, my Ph.D. student <a href="http://www.cs.brown.edu/people/cziemki/">Caroline Ziemkiewicz</a> told me about an interesting observation she had made: in different papers comparing tree visualizations, <a href="http://eagereyes.org/Techniques/Treemaps.html">treemaps</a> came out as best, worst, or somewhere in the middle. One difference she noticed was how the questions were worded: when a levels metaphor was used, treemaps did badly; a containment metaphor, on the other hand, seemed to favor treemaps. So we decided to investigate – the result will be presented at <a href="http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#design">InfoVis</a> on Monday, October 20.
+In January, my Ph.D. student <a href="http://www.cs.brown.edu/people/cziemki/">Caroline Ziemkiewicz</a> told me about an interesting observation she had made: in different papers comparing tree visualizations, <a href="/Techniques/Treemaps.html">treemaps</a> came out as best, worst, or somewhere in the middle. One difference she noticed was how the questions were worded: when a levels metaphor was used, treemaps did badly; a containment metaphor, on the other hand, seemed to favor treemaps. So we decided to investigate – the result will be presented at <a href="http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#design">InfoVis</a> on Monday, October 20.
 
 Containment questions use a metaphor of nesting, e.g., <em>Find the directory that </em><em>contains </em><em>the most .png type files</em>. Levels questions, on the other hand, use the more common node-link idea of a tree, e.g., <em>Participants counted the number of </em><em>levels </em><em>in the tree</em>.
 

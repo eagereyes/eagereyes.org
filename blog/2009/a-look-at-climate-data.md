@@ -16,9 +16,9 @@ Wether you believe that global warming is real or not, a bit of validation of th
 
 The data contains monthly temperature averages for a total of 1718 weather stations across the globe. The first reports are from 1701, with the latest data from October 2009. The data is provided as a large number of files, one for each weather station. They contain information such as geographic location, country, height, etc. Missing or otherwise unavailable data is indicated by a temperature of -99. Out of about 1.6 million data points over 309 years, about 1.4 million are valid. All temperatures are in degrees Celsius (aka Centigrade).
 
-I converted and reshaped the data into a <a href="http://eagereyes.org/media/2009/climate/climatedata.csv.zip">CSV file</a> that is much larger (because it contains a lot of redundancies), but that is much easier to work with in Tableau and other programs. This file also contains the continent classification and the first year of data recorded per station. You can also download <a href="http://eagereyes.org/media/2009/climate/Climate-Data.twbx.zip">my packaged Tableau workbook</a> if you have Tableau or want to look at it in <a href="http://www.tableausoftware.com/products/reader">Tableau Reader</a>.
+I converted and reshaped the data into a <a href="/media/2009/climate/climatedata.csv.zip">CSV file</a> that is much larger (because it contains a lot of redundancies), but that is much easier to work with in Tableau and other programs. This file also contains the continent classification and the first year of data recorded per station. You can also download <a href="/media/2009/climate/Climate-Data.twbx.zip">my packaged Tableau workbook</a> if you have Tableau or want to look at it in <a href="http://www.tableausoftware.com/products/reader">Tableau Reader</a>.
 
-While the overall data is nice and large, it also has a number of problems. The image below is from <a href="http://eagereyes.org/data/interactively-explore-climate-data">my first attempt at visualizing it using Protovis</a>. The overall difference in temperature is suspiciously high, and there are some jumps that don't appear likely.
+While the overall data is nice and large, it also has a number of problems. The image below is from <a href="/data/interactively-explore-climate-data">my first attempt at visualizing it using Protovis</a>. The overall difference in temperature is suspiciously high, and there are some jumps that don't appear likely.
 
 <p align="center"><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" border="0" alt="Climate data 1740-2008" width="560" height="246" /></p>
 
@@ -58,7 +58,7 @@ The grid lines are mainly there as reference for the direction of the trend line
 
 So far, there are really no surprises. That is a good thing, replicating results is what science is all about, after all. And it shows that my sample was well chosen, given that the actual scientists work with a variety of data sources, and obviously know a lot more about the actual phenomena.
 
-What interested me more than the long-term differences was how the seasons change due to global warming. That was also the idea behind my <a href="http://eagereyes.org/data/interactively-explore-climate-data">flawed interactive visualization</a> (which I will update with the data subset soon).
+What interested me more than the long-term differences was how the seasons change due to global warming. That was also the idea behind my <a href="/data/interactively-explore-climate-data">flawed interactive visualization</a> (which I will update with the data subset soon).
 
 The following image shows the temperatures over the course of the year, with one line per decade (values are averaged), per continent. The color scale goes from blue (1900s) to orange (2000s), following Clint's suggestion in the comments. The reason for going by decade here is that there are considerable yearly fluctuations that make this chart nearly unreadable if done at that level.
 

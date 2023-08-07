@@ -45,10 +45,10 @@ Two things I want to point to in particular are a review paper, <a href="http://
 See also:
 
 <ul>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
 
 

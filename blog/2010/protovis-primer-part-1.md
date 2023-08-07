@@ -8,7 +8,7 @@ featuredImage:
 
 # A Protovis Primer, Part 1
 
-<a href="http://vis.stanford.edu/protovis/docs/">Protovis</a> is a very powerful visualization toolkit. Part of what makes it special is that it is written in JavaScript and runs in the browser without the need for any plugins. Its clever use of JavaScript's language features makes it very elegant, but it can also be confusing to people who are not familiar with functional programming concepts and the finer points of JavaScript. This multi-part tutorial shows how to create a visualization (my <a href="http://eagereyes.org/applications/PresidentialDemographicsII.html">interactive Presidents Chart</a>) in Protovis, and explains the concepts that are involved along the way.
+<a href="http://vis.stanford.edu/protovis/docs/">Protovis</a> is a very powerful visualization toolkit. Part of what makes it special is that it is written in JavaScript and runs in the browser without the need for any plugins. Its clever use of JavaScript's language features makes it very elegant, but it can also be confusing to people who are not familiar with functional programming concepts and the finer points of JavaScript. This multi-part tutorial shows how to create a visualization (my <a href="/applications/PresidentialDemographicsII.html">interactive Presidents Chart</a>) in Protovis, and explains the concepts that are involved along the way.
 <!--break-->
 This introduction is based on my experiences with using Protovis in my <em>Visualization and Visual Communication</em> class earlier this spring. While the concepts involved are really not that difficult, they are rather foreign to students who have not been exposed to functional programming. And since that is also the case for a lot of hobbyists and people wanting to do visualization who do not have a computer science background, I imagine they run into the same problems.
 
@@ -188,7 +188,7 @@ This concludes the first part of this tutorial. The next parts will cover more c
 
 ## Start Playing!
 
-If you want to play with Protovis, I am providing <a href="http://eagereyes.org/media/2010/protovis-primer/protovis-primer-part1.zip">a ZIP file with two simple HTML files</a>: one is the basic bar chart, the other one uses variables for the data and the widths.
+If you want to play with Protovis, I am providing <a href="/media/2010/protovis-primer/protovis-primer-part1.zip">a ZIP file with two simple HTML files</a>: one is the basic bar chart, the other one uses variables for the data and the widths.
 
 I have also started <a href="http://github.com/eagereyes/Protovis-Primer">a repository on github</a> for people familiar with git.
 

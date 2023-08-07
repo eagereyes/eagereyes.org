@@ -14,11 +14,11 @@ VisWeek has been growing quite steadily over the last years, but this year hit a
 
 ## Large-Scale Data Analysis and Visualization
 
-The <a href="http://ldav.org">Symposium on Large-Scale Data Analysis and Visualization (LDAV)</a> was a mixed bag. While I enjoyed <a href="http://eagereyes.org/blog/2012/visweek-2012-day-one">Pat Hanrahan’s keynote</a>, I was shocked when I saw the best paper. There were some redeeming papers, but the quality overall was quite low.
+The <a href="http://ldav.org">Symposium on Large-Scale Data Analysis and Visualization (LDAV)</a> was a mixed bag. While I enjoyed <a href="/blog/2012/visweek-2012-day-one">Pat Hanrahan’s keynote</a>, I was shocked when I saw the best paper. There were some redeeming papers, but the quality overall was quite low.
 
 Rainbow colormaps are a constant source of scorn from people who care not only about putting data onto the screen, but actually being able to read the information without unnecessary distortion. The best paper at LDAV, <em>Gaussian Mixture Model Based Volume Visualization</em> by Shusen Liu, Joshua Levine, Peer-Timo Bremer, and Valerio Pascucci, used not just a single rainbow, but multiple ones in its color map. The effect is breathtaking.
 
-<a href="https://eagereyes.org/wp-content/uploads/2012/10/rainbows.jpg"><img class="aligncenter size-full wp-image-2054" title="Rainbows" src="https://media.eagereyes.org/wp-content/uploads/2012/10/rainbows.jpg" alt="" width="600" height="257" /></a>
+<a href="/wp-content/uploads/2012/10/rainbows.jpg"><img class="aligncenter size-full wp-image-2054" title="Rainbows" src="https://media.eagereyes.org/wp-content/uploads/2012/10/rainbows.jpg" alt="" width="600" height="257" /></a>
 
 The color choice is never explained in the (very short) paper, and Shusen was quite apologetic during his presentation about the choice of color. Then why do it? I don’t get it. Whatever redeeming qualities this paper may have, it destroys information by assigning the same color to multiple values. How can this even be considered the best paper?
 

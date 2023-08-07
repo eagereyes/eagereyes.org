@@ -14,7 +14,7 @@ Can gravity have an influence on how the data in a chart is perceived? How do di
 
 ## Gravity
 
-The motivation for this study came from <a href="http://eagereyes.org/blog/2010/paper-implied-dynamics-in-information-visualization">an earlier paper</a>, were we had found that people interpreted charts that had an unequal distribution of "weight" (darker vs. lighter colors) as unstable. In fact, some of them even reported that they thought that an unbalanced donut chart might roll away. This can only be explained if there is a notion of gravity that can turn such an imbalance into movement.
+The motivation for this study came from <a href="/blog/2010/paper-implied-dynamics-in-information-visualization">an earlier paper</a>, were we had found that people interpreted charts that had an unequal distribution of "weight" (darker vs. lighter colors) as unstable. In fact, some of them even reported that they thought that an unbalanced donut chart might roll away. This can only be explained if there is a notion of gravity that can turn such an imbalance into movement.
 
 So the goal of our first study was to look for other effects that were caused by gravity. One of them was a downward shift of the remembered location of bubbles in a scatterplot, the other was how structures in the data (like clusters) would attract a bubble.
 

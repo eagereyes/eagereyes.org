@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/media/2009/visweektweet.png
 
 # VisWeek Preview: Live Coverage
 
-Like <a href="http://eagereyes.org/events/VisWeek2008">last year</a>, I will be live-blogging and tweeting from <a href="http://vis.computer.org/VisWeek2009/">VisWeek</a>. Here is some information on my plans and links to what others will be doing (that I know of). Feel free to add your links, Twitter handles, etc. in the comments.
+Like <a href="/events/VisWeek2008">last year</a>, I will be live-blogging and tweeting from <a href="http://vis.computer.org/VisWeek2009/">VisWeek</a>. Here is some information on my plans and links to what others will be doing (that I know of). Feel free to add your links, Twitter handles, etc. in the comments.
 
 I will write short postings (which I call <em>glimpses</em>) on this site. Starting Sunday, there will be a box with the latest glimpses on the front page. There will also be a separate RSS feed for these, so they won't appear in the main site feed. Links for that will be posted once this is up.
 
@@ -50,7 +50,7 @@ _Posted by <a href="/about">Robert Kosara</a> on October 06, 2009_
 >	<p>Cant' wait to read blogs and tweets!</p>
 
 Robert Kosara says…
->	<p>... are not what we are using ;) It's just a few folks with laptops and enough spare time on their hands. It might not be all that real-time (see <a href="http://eagereyes.org/blog/2008/lessons-learned-from-live-blogging-visweek-2008.html">last year</a>), and we're not going to post pictures of new products the second they are revealed. But we'll do our best to provide pointers to people who are not there, comment on what's going on, and give you some idea what you're missing.</p>
+>	<p>... are not what we are using ;) It's just a few folks with laptops and enough spare time on their hands. It might not be all that real-time (see <a href="/blog/2008/lessons-learned-from-live-blogging-visweek-2008.html">last year</a>), and we're not going to post pictures of new products the second they are revealed. But we'll do our best to provide pointers to people who are not there, comment on what's going on, and give you some idea what you're missing.</p>
 
 <a href="http://cpbotha.net/" rel="nofollow noopener" target="_blank">Charl Botha</a> says…
 >	<p>Great effort summarising all live-blogging and twitter efforts in this post Robert! &nbsp;I sure am looking forward to linking up with all of you next week, that is to say if I can find time between all that staring at my little netbook screen typing away. :P</p>

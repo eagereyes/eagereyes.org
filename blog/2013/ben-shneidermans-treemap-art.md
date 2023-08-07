@@ -13,7 +13,7 @@ Art imitates life, and sometimes art is inspired by research. Ben Shneiderman’
 
 <p align="center"><img alt="Ben Shneiderman, The Singing Mondrian" src="https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian-730x557.png" width="730" height="557" /></p>
 
-Now that I think about it, <a href="http://eagereyes.org/techniques/treemaps">treemaps</a> have a history of aesthetic improvements. The original treemap layout, now called slice-and-dice, tended to produce rather ugly rectangles that ended up being very long and thin. The squarified treemap improved things, ostensibly for easier comparability of rectangles – but it also made them nicer to look at. Cushion treemaps removed the lines between rectangles and instead used a gradient to create the impression of a bumpy surface; an improvement both in terms of ease of perception as well as aesthetics.
+Now that I think about it, <a href="/techniques/treemaps">treemaps</a> have a history of aesthetic improvements. The original treemap layout, now called slice-and-dice, tended to produce rather ugly rectangles that ended up being very long and thin. The squarified treemap improved things, ostensibly for easier comparability of rectangles – but it also made them nicer to look at. Cushion treemaps removed the lines between rectangles and instead used a gradient to create the impression of a bumpy surface; an improvement both in terms of ease of perception as well as aesthetics.
 
 Here is an example of a cushion treemap:
 

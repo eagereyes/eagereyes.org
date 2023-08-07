@@ -11,7 +11,7 @@ outline: false
 
 # WTFViz, ThumbsUpViz, and HelpMeViz
 
-I have <a title="A Better Vis Web Community" href="http://eagereyes.org/blog/2009/a-better-vis-web-community">complained</a>, <a title="A Lack of Communication and Visibility" href="http://eagereyes.org/blog/2013/a-lack-of-communication-and-visibility">repeatedly</a>, about the lack of good online resources for visualization; in particular, when it comes to discussion and critical reflection. Also, where can you go to get help with a visualization project? A few recent websites are tackling these issues in different ways.
+I have <a title="A Better Vis Web Community" href="/blog/2009/a-better-vis-web-community">complained</a>, <a title="A Lack of Communication and Visibility" href="/blog/2013/a-lack-of-communication-and-visibility">repeatedly</a>, about the lack of good online resources for visualization; in particular, when it comes to discussion and critical reflection. Also, where can you go to get help with a visualization project? A few recent websites are tackling these issues in different ways.
 
 
 First, <a href="https://twitter.com/SeeingStructure">Drew Skau</a> started <a href="http://wtfviz.net">WTFViz</a>, which quickly became hugely popular. It collects small snippets from infographics that are bad in some way: they misrepresent data, they obscure the message, they dress up numbers as if there were more of them, etc. Posting bad examples to laugh about is entertaining and useful, if obviously not always appreciated by the people who created them. But it can be quite educational for people to look through and see if they find things that are similar to their own work there.

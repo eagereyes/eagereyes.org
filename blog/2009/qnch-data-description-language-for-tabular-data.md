@@ -147,7 +147,7 @@ If none of these conventions turn up a qnch file, the program should ask the use
 
 ## Status
 
-I will incorporate a qnch parser into the next version of <a href="http://eagereyes.org/parallel-sets">Parallel Sets</a>. Eventually, I will separate the parser and the Data Wizard out of the ParSets program and make it a separate project. qnch files for all datasets available for download through Parallel Sets will also be made available. I hope that based on my implementation and the description here, others will contribute qnch files, parsers, and producers.
+I will incorporate a qnch parser into the next version of <a href="/parallel-sets">Parallel Sets</a>. Eventually, I will separate the parser and the Data Wizard out of the ParSets program and make it a separate project. qnch files for all datasets available for download through Parallel Sets will also be made available. I hope that based on my implementation and the description here, others will contribute qnch files, parsers, and producers.
 
 So now it's your turn! Let me know what you think, what's missing, etc.!
 

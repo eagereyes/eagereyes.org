@@ -54,7 +54,7 @@ The two shapes look different and they're useful in different contexts. But they
 
 The term for turning the long-skinny database format into the wide spreadsheet format is usually <i>to pivot</i> the data. This operation is pretty easy because the machine knows where to find the data, and just needs to be told which dimensions to use to make columns and which measures to include.
 
-The other operation, the <i>unpivot,</i> is much more difficult and error-prone. When the data is already in proper table format (with all the stuff around the pure data removed), it works well though. Tools like <a href="https://eagereyes.org/blog/2015/trifacta-wrangler-for-cleaning-and-reshaping-data">Trifacta Wrangler</a> and Tableau can perform unpivots (though Tableau calls it pivot, just to be different).
+The other operation, the <i>unpivot,</i> is much more difficult and error-prone. When the data is already in proper table format (with all the stuff around the pure data removed), it works well though. Tools like <a href="/blog/2015/trifacta-wrangler-for-cleaning-and-reshaping-data">Trifacta Wrangler</a> and Tableau can perform unpivots (though Tableau calls it pivot, just to be different).
 
 ## No Right Shape
 

@@ -14,7 +14,7 @@ We just announced next year's <a href="http://www.tapestryconference.com">Tapest
 
 Tapestry is a conference about storytelling with data. The goal is to bring together people from different backgrounds and have them talk to each other: journalists, designers, folks working for NGOs or government, academics, etc.
 
-If you want to see who spoke at the last few conferences, check out <a href="https://www.youtube.com/user/TapestryConference">the YouTube channel and watch the videos</a>! We've had people like Alberto Cairo, Hannah Fairfield, Kim Rees, Nick Sousanis, Martin Wattenberg and Fernanda Viégas (aka <i>Marnanda</i>), Giorgia Lupi, and many other amazing speakers in the past. I also wrote <a href="https://eagereyes.org/link/cga-article-on-tapestry">a little article about the conference</a> last year.
+If you want to see who spoke at the last few conferences, check out <a href="https://www.youtube.com/user/TapestryConference">the YouTube channel and watch the videos</a>! We've had people like Alberto Cairo, Hannah Fairfield, Kim Rees, Nick Sousanis, Martin Wattenberg and Fernanda Viégas (aka <i>Marnanda</i>), Giorgia Lupi, and many other amazing speakers in the past. I also wrote <a href="/link/cga-article-on-tapestry">a little article about the conference</a> last year.
 
 ## Keynotes
 

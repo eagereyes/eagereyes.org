@@ -14,7 +14,7 @@ This site has gone through many different looks and designs. I haven't kept coun
 
 ## The Logo
 
-I’ve tried my hand on a logo a few times in the past. I never got much feedback, but I know that they were all terrible. Here are a few samples; the white-on-orange text was part of the theme for a while many years ago (shortly before I <a href="https://eagereyes.org/blog/2012/why-i-switched-drupal-wordpress">switched to WordPress</a>, I believe). The light bulb on the right was the feed avatar until a few days ago.
+I’ve tried my hand on a logo a few times in the past. I never got much feedback, but I know that they were all terrible. Here are a few samples; the white-on-orange text was part of the theme for a while many years ago (shortly before I <a href="/blog/2012/why-i-switched-drupal-wordpress">switched to WordPress</a>, I believe). The light bulb on the right was the feed avatar until a few days ago.
 
 <img class="aligncenter size-full wp-image-9626" src="https://media.eagereyes.org/wp-content/uploads/2016/09/logos.png" alt="logos" width="900" height="610" />
 
@@ -50,9 +50,9 @@ The site is also much more distinctive and doesn't look like I just woke up and 
 
 I'm slowly replacing a number of postings that get a lot of traffic with more structured and updated pages. One of the most popular destinations here is my posting about pie charts from 2010. Not only is it missing links to the more recent stuff posted here, it also bases some of its advice on the idea that pie charts are read by angle – clearly not something I want to keep perpetuating.
 
-So now there is an <a href="https://eagereyes.org/pie-charts">updated pie charts page</a> that I will start pointing people to and that I hope will become the destination when people search. I don't want to remove the old posting, because it's interesting to me to see how things evolve. It's also important to keep things fresh and up to date, though, and not give people outdated information.
+So now there is an <a href="/pie-charts">updated pie charts page</a> that I will start pointing people to and that I hope will become the destination when people search. I don't want to remove the old posting, because it's interesting to me to see how things evolve. It's also important to keep things fresh and up to date, though, and not give people outdated information.
 
-In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="https://eagereyes.org/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.
+In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 28, 2016_

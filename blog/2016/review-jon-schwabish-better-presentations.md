@@ -15,7 +15,7 @@ Presentations can be dreadful. Badly thought-out slides, boring structure, poor
 
 Instead of suffering through more bad presentations, <a href="https://policyviz.com">Jon Schwabish</a> decided to teach people how to make them better with his book, <a href="https://policyviz.com/better-presentations/"><em>Better Presentations</em></a>. And it’s badly needed.
 
-Jon covers both constructing the presentation (structure and slides) and delivering it. The latter is often neglected. Many people spend lots of time on their slides, but <a href="https://eagereyes.org/blog/2016/common-speaking-mistakes-to-avoid">never bother to rehearse their talk or think of good openings and endings</a>.
+Jon covers both constructing the presentation (structure and slides) and delivering it. The latter is often neglected. Many people spend lots of time on their slides, but <a href="/blog/2016/common-speaking-mistakes-to-avoid">never bother to rehearse their talk or think of good openings and endings</a>.
 
 Along the way, you learn many useful tricks for preparing figures for slides (including many interesting points about the difference between figures to use in a paper versus a presentation), using text and images, etc. There are also some good points about combining text and images. I generally avoid text as much as I possibly can, often using single images on my slides. But now I’m thinking I might need to include a bit more text as well (I realize that this is the opposite problem of most people, though).
 

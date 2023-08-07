@@ -30,9 +30,9 @@ Since that also happened to be my favorite (which naturally means it didn’t wi
 
 ## Evaluation
 
-One of my favorite presentations was <a href="https://uwdata.github.io/color-naming-in-different-languages/index.html"><em>Color Names Across Languages: Salient Colors and Term Translation in Multilingual Color Naming Models</em> by Younghoon Kim, Kyle Thayer, Gabriella Gorsky, and Jeffrey Heer</a> that looked at color names in different languages. We know that some languages <a href="https://eagereyes.org/blog/2011/you-only-see-colors-you-can-name">treat colors like blue differently from English</a>, and this study found some more of these effects in Korean, Farsi, and Chinese. Berlin and Kay’s classic seven hues exist across all languages, but also for example that Korean has more specific terms for blue, teal, and purple then English. Their data and some exploration and color translation tools are available on the website.
+One of my favorite presentations was <a href="https://uwdata.github.io/color-naming-in-different-languages/index.html"><em>Color Names Across Languages: Salient Colors and Term Translation in Multilingual Color Naming Models</em> by Younghoon Kim, Kyle Thayer, Gabriella Gorsky, and Jeffrey Heer</a> that looked at color names in different languages. We know that some languages <a href="/blog/2011/you-only-see-colors-you-can-name">treat colors like blue differently from English</a>, and this study found some more of these effects in Korean, Farsi, and Chinese. Berlin and Kay’s classic seven hues exist across all languages, but also for example that Korean has more specific terms for blue, teal, and purple then English. Their data and some exploration and color translation tools are available on the website.
 
-I had two short papers on pie chart variations, <a href="https://eagereyes.org/blog/2019/two-short-papers-on-part-to-whole-charts-at-eurovis">which I’ve mentioned here before of course</a>. I was a bit nervous about the reception at the conference since they had been rejected multiple times before – but there was actually quite a bit of interest right after the talk and during the rest of the conference (and the occasional [fun](https://twitter.com/jsndyks/status/1136190687047823360) [tweet](https://twitter.com/FrankElavsky/status/1135941169991393280)).
+I had two short papers on pie chart variations, <a href="/blog/2019/two-short-papers-on-part-to-whole-charts-at-eurovis">which I’ve mentioned here before of course</a>. I was a bit nervous about the reception at the conference since they had been rejected multiple times before – but there was actually quite a bit of interest right after the talk and during the rest of the conference (and the occasional [fun](https://twitter.com/jsndyks/status/1136190687047823360) [tweet](https://twitter.com/FrankElavsky/status/1135941169991393280)).
 
 
 ## Analysis and Decision Making
@@ -41,7 +41,7 @@ I had two short papers on pie chart variations, <a href="https://eagereyes.org/b
 
 It’s kind of an odd paper because it seems like an obvious thing to define, but they apparently got a lot of push-back from reviewers. I complained on Twitter that exploration is overly emphasized in the academic literature <a href="https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a4705">and in visualization courses</a>, which led to <a href="https://twitter.com/eagereyes/status/1136225646722650114">an interesting little exchange with Jeff Heer</a>.
 
-This concludes the first part, the rest will be covered in <a href="https://eagereyes.org/blog/2019/highlights-from-eurovis-2019-part-2">Part 2</a>.
+This concludes the first part, the rest will be covered in <a href="/blog/2019/highlights-from-eurovis-2019-part-2">Part 2</a>.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on August 26, 2019_

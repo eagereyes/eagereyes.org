@@ -26,7 +26,7 @@ In order to foster discussions, not just talks, we had generous breaks, a long l
 
 <p align="center"><img class="aligncenter size-full wp-image-2447" alt="tapestry Jonathan Corum" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-jonathan-corum.jpg" width="600" height="401" /></p>
 
-I’ve been a fan of Jonathan Corum’s work at <em>The New York Times</em> for a while, in particular since <a href="https://eagereyes.org/journalism/malofiej-20">he won the <em>Best of Show</em> award at Malofiej last year</a> for his Guantanamo Bay graphic. I was delighted that we were able to convince him to give the first keynote at a time when many of the details of the conference were still a bit undetermined.
+I’ve been a fan of Jonathan Corum’s work at <em>The New York Times</em> for a while, in particular since <a href="/journalism/malofiej-20">he won the <em>Best of Show</em> award at Malofiej last year</a> for his Guantanamo Bay graphic. I was delighted that we were able to convince him to give the first keynote at a time when many of the details of the conference were still a bit undetermined.
 
 Jonathan is actually a science graphics editor (which few papers besides the Times have), and he talked about some of his science graphics. There were many great insights and pieces of advice about audience, the reading of graphics, how labeling should work, etc. It was fascinating to see his thought process and how he turned mediocre figures from scientific papers into very clear, well focused graphics.
 
@@ -40,7 +40,7 @@ The five <em>short stories</em> (admittedly a bit of mixed metaphor) were 20 mi
 
 ### Pat Hanrahan, <em>Showing Is Not Explaining </em>
 
-Continuing one of the topics of Jonathan Corum’s talk, <a href="http://eagereyes.org/influences/pat-hanrahan">Pat Hanrahan</a> talked about how showing something is not the same as explaining it. Pat is a professor of Computer Science at Stanford University, and one of Tableau’s founders. He showed <a href="https://en.wikipedia.org/wiki/Euclidean_algorithm">Euclid’s algorithm</a> for finding the greatest common divisor of two numbers, both as a Python program and a visualization of it running. It was an impressive visual proof, but perhaps a bit much for people not used to thinking in terms of proofs or code that way.
+Continuing one of the topics of Jonathan Corum’s talk, <a href="/influences/pat-hanrahan">Pat Hanrahan</a> talked about how showing something is not the same as explaining it. Pat is a professor of Computer Science at Stanford University, and one of Tableau’s founders. He showed <a href="https://en.wikipedia.org/wiki/Euclidean_algorithm">Euclid’s algorithm</a> for finding the greatest common divisor of two numbers, both as a Python program and a visualization of it running. It was an impressive visual proof, but perhaps a bit much for people not used to thinking in terms of proofs or code that way.
 
 Watch <a href="http://youtu.be/x88x-WUJMPQ">the video of his talk</a> if you didn’t quite follow.
 
@@ -54,7 +54,7 @@ Cheryl’s <a href="http://youtu.be/EWeXoqELzqY">talk video</a> and <a href="htt
 
 <p align="center"><img class="aligncenter size-full wp-image-2448" alt="tapestry Nigel Holmes" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-nigel-holmes.jpg" width="600" height="401" /></p>
 
-The grandmaster of explanation graphics, <a href="http://eagereyes.org/influences/nigel-holmes">Nigel Holmes</a>, gave perhaps the most entertaining and impressive short talk. His focus was on providing context and making the reader understand the magnitude of a number. He gave a fantastic demonstration of <a href="http://en.wikipedia.org/wiki/Bob_Beamon">Bob Beamon’s</a> long jump world record in 1968, of over 29ft (about 8.9m), which he held for 22 years. The number doesn’t make people understand the magnitude of that feat, however, so Nigel demonstrated just how far that is. It was a fun and impressive demonstration.
+The grandmaster of explanation graphics, <a href="/influences/nigel-holmes">Nigel Holmes</a>, gave perhaps the most entertaining and impressive short talk. His focus was on providing context and making the reader understand the magnitude of a number. He gave a fantastic demonstration of <a href="http://en.wikipedia.org/wiki/Bob_Beamon">Bob Beamon’s</a> long jump world record in 1968, of over 29ft (about 8.9m), which he held for 22 years. The number doesn’t make people understand the magnitude of that feat, however, so Nigel demonstrated just how far that is. It was a fun and impressive demonstration.
 
 The <a href="http://youtu.be/azuA0Yz-Shc">video of Nigel’s talk</a> and <a href="http://blog.tapestryconference.com/post/46028267000/why-29-is-such-a-stunning-number-by-nigel-holmes">his slides</a> are available for your perusal.
 

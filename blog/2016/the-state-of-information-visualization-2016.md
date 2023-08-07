@@ -24,11 +24,11 @@ Academic visualization research can be trapped inside a bubble and not deal with
 
 The point was not so much that the results were surprising (for the most part, they weren't), but that these things were actually tested rather than just stated as fact. It still amazes me how many things we simply take for granted in visualization without questioning them – and when we finally do, we find that they're not based on actual research.
 
-Along similar lines, Drew Skau and I <a href="https://eagereyes.org/papers/evaluation-of-the-impact-of-visual-embellishments-in-bar-charts">looked at bar chart embellishments</a> common in infographics and found that some of them aren't that problematic – though some clearly are. Again, the point here being actual science rather than just assumptions.
+Along similar lines, Drew Skau and I <a href="/papers/evaluation-of-the-impact-of-visual-embellishments-in-bar-charts">looked at bar chart embellishments</a> common in infographics and found that some of them aren't that problematic – though some clearly are. Again, the point here being actual science rather than just assumptions.
 
 ## The Birth and Death of Tools
 
-One of the big issues in data visualization is cleaning data and wrangling it into a shape that can then be used in a visualization tool. <a href="https://eagereyes.org/blog/2015/trifacta-wrangler-for-cleaning-and-reshaping-data">Trifacta Wrangler</a> is a great tool for that, and it's free to use (with some size limitations, though they're quite generous).
+One of the big issues in data visualization is cleaning data and wrangling it into a shape that can then be used in a visualization tool. <a href="/blog/2015/trifacta-wrangler-for-cleaning-and-reshaping-data">Trifacta Wrangler</a> is a great tool for that, and it's free to use (with some size limitations, though they're quite generous).
 
 I recently heard somebody describe his work as "Living in the Hadleyverse" – a reference to Hadley Wickham and his untiring efforts to create better tools for both data analysis and visualization in R. Between <a href="http://ggplot2.org">ggplot</a>, <a href="http://blog.rstudio.org/2014/01/17/introducing-dplyr/">dplyr</a>, and the up-and-coming <a href="http://ggvis.rstudio.com">ggvis</a>, R is getting very powerful support to deal with large datasets, talk directly to databases, and create interactive visualizations for the web.
 
@@ -38,11 +38,11 @@ In the process, they did release <em><a href="http://brunelvis.org">Brunel</a></
 
 ## Storytelling Research
 
-I'm actually writing this while attending a seminar on <em>Data-Driven Storytelling</em> at <a href="https://eagereyes.org/blog/2013/schloss-dagstuhl">Schloss Dagstuhl</a>. There are 40 people here, with a good number of journalists and designers mixed into the usual group of academics. That such a seminar can happen is a sign that storytelling in visualization is here to stay.
+I'm actually writing this while attending a seminar on <em>Data-Driven Storytelling</em> at <a href="/blog/2013/schloss-dagstuhl">Schloss Dagstuhl</a>. There are 40 people here, with a good number of journalists and designers mixed into the usual group of academics. That such a seminar can happen is a sign that storytelling in visualization is here to stay.
 
-This isn't quite reflected in the papers at <a href="https://eagereyes.org/tag/ieeevis">IEEE VIS</a> or <a href="https://eagereyes.org/blog/2015/report-eurovis-2015">EuroVis</a> yet, but I expect that to change this year. Oddly, <a href="https://eagereyes.org/blog/2015/conference-report-chi-2015">the conference that had an entire session on storytelling</a> last year was CHI – even though that is not a core visualization conference. The entire visualization track there was pretty strong.
+This isn't quite reflected in the papers at <a href="/tag/ieeevis">IEEE VIS</a> or <a href="/blog/2015/report-eurovis-2015">EuroVis</a> yet, but I expect that to change this year. Oddly, <a href="/blog/2015/conference-report-chi-2015">the conference that had an entire session on storytelling</a> last year was CHI – even though that is not a core visualization conference. The entire visualization track there was pretty strong.
 
-I was one of the authors of <a href="https://eagereyes.org/papers/isotype-visualization">the paper on ISOTYPE at CHI</a>, and also the <a href="https://eagereyes.org/papers/the-connected-scatterplot-for-presenting-paired-time-series">almost-published one on the connected scatterplot</a>. I also wrote about <a href="https://eagereyes.org/papers/presentation-oriented-visualization-techniques">presentation-oriented visualization techniques</a>.
+I was one of the authors of <a href="/papers/isotype-visualization">the paper on ISOTYPE at CHI</a>, and also the <a href="/papers/the-connected-scatterplot-for-presenting-paired-time-series">almost-published one on the connected scatterplot</a>. I also wrote about <a href="/papers/presentation-oriented-visualization-techniques">presentation-oriented visualization techniques</a>.
 
 ## The Year Ahead
 

@@ -13,7 +13,7 @@ outline: false
 
 The Tapestry 2018 program is complete, including the three keynotes and eight newly-added short stories. We are now looking for proposals for demos and will send out a call for PechaKucha-style talks to attendees soon, too.
 
-You can find the full program on the <a href="http://www.tapestryconference.com">Tapestry website</a>. I've <a href="https://eagereyes.org/blog/2018/tapestry-2018-details-and-keynote-speakers">mentioned the keynotes before</a> (Mona Chalabi of the Guardian, Matthew Kay of the University of Wisconsin, and Elijah Meeks of Netflix).
+You can find the full program on the <a href="http://www.tapestryconference.com">Tapestry website</a>. I've <a href="/blog/2018/tapestry-2018-details-and-keynote-speakers">mentioned the keynotes before</a> (Mona Chalabi of the Guardian, Matthew Kay of the University of Wisconsin, and Elijah Meeks of Netflix).
 
 We're excited to also have a great selection of awesome speakers and topics:
 

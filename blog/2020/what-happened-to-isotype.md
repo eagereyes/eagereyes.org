@@ -14,7 +14,7 @@ Jan Willem Tulp <a href="https://twitter.com/JanWillemTulp/status/13095782378325
 
 ## The Heyday of ISOTYPE
 
-To set some context, <a href="https://eagereyes.org/techniques/isotype" data-type="post" data-id="2233">ISOTYPE</a> wasn’t just a neat idea. I’m aware of at least 70 books that use ISOTYPE charts from the 1930s through the 1950s, and I actually own copies of close to 50 of them. Yes, you read that right. <a href="https://eagereyes.org/section/isotope-books">I’ve posted a handful in this series</a>, and I intend to scan and post a lot more of them in the near future.
+To set some context, <a href="/techniques/isotype" data-type="post" data-id="2233">ISOTYPE</a> wasn’t just a neat idea. I’m aware of at least 70 books that use ISOTYPE charts from the 1930s through the 1950s, and I actually own copies of close to 50 of them. Yes, you read that right. <a href="/section/isotope-books">I’ve posted a handful in this series</a>, and I intend to scan and post a lot more of them in the near future.
 
 The ISOTYPE institute was around for several decades and produced a graphics for dozens of books and other media using their technique. A few others picked it up and produced more, most notably Rudolf Modley <a href="https://medium.com/nightingale/the-telefacts-of-life-rudolf-modleys-isotypes-in-american-newspapers-1938-1945-d5478faa5647">who designed around 1,000 <em>Telefact</em>s that ran from 1938 to the mid 1940s in American newspapers</a>. 
 

@@ -13,7 +13,7 @@ outline: false
 
 I'm giving a public lecture next Tuesday, February 21, at the University of Washington (UW). This is at the invitation of Professor Karen Cheng at the School of Art + Art History + Design. I will talk about what we know and what we don't know about visualization, and how we can expand our knowledge.
 
-The talk I'm preparing is an extended version of my <em><a href="https://eagereyes.org/papers/an-empire-built-on-sand">Empire Built On Sand</a></em> paper and talk from BELIV last year. Here's the abstract:
+The talk I'm preparing is an extended version of my <em><a href="/papers/an-empire-built-on-sand">Empire Built On Sand</a></em> paper and talk from BELIV last year. Here's the abstract:
 
 <strong>How Do We Know That?</strong>
 

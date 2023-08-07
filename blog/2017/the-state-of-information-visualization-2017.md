@@ -14,7 +14,7 @@ Between <em>Surprise Maps</em>, <em>Dear Data</em>, and election graphics, 2016 
 
 ## Visualizing Uncertainty
 
-Elections always bring large numbers of visualizations with them, and last year’s U.S. Presidential election was no exception. There is a lot to be said about the various visualizations that were used (<a href="https://eagereyes.org/blog/2016/all-those-misleading-election-maps">I’m no fan of choropleths</a>). But one in particular stood out: <a href="http://www.nytimes.com/elections/forecast/president">the New York Times’ jittery gauges</a>.
+Elections always bring large numbers of visualizations with them, and last year’s U.S. Presidential election was no exception. There is a lot to be said about the various visualizations that were used (<a href="/blog/2016/all-those-misleading-election-maps">I’m no fan of choropleths</a>). But one in particular stood out: <a href="http://www.nytimes.com/elections/forecast/president">the New York Times’ jittery gauges</a>.
 
 A lot of scorn and ridicule has been heaped on this design, but the situation is more complicated than it is often depicted. The idea of motion to show distributions and uncertainty has been studied in <a href="http://idl.cs.washington.edu/papers/hops/">a paper by Jessica Hullman and others</a> (<a href="https://medium.com/hci-design-at-uw/hypothetical-outcomes-plots-experiencing-the-uncertain-b9ea60d7c740">this blog post nicely summarizes the ideas</a>) and found to work well. <a href="http://vis4.net/blog/posts/jittery-gauges-election-forecast/">The design was certainly well considered</a>, but it’s always easy to criticize these things after the fact.
 
@@ -30,7 +30,7 @@ Interestingly, this is a topic that has been recognized by both the data journal
 
 ## Sketching and Personal Data
 
-I mentioned <em><a href="http://www.dear-data.com">Dear Data</a></em> in <a href="https://eagereyes.org/blog/2016/the-state-of-information-visualization-2016">last year's <em>State of InfoVis</em></a>, because I thought it was a great project – but I didn’t think it would explode into the huge success that it has become (including <a href="https://eagereyes.org/blog/2016/review-lupi-posavec-dear-data">a very nice book</a>, the <a href="https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db">postcards being acquired by MoMA</a>, etc.). It has also inspired a number of other projects, like the knock-off <em><a href="http://www.dear-data-two.com">Dear Data 2</a></em>, the somewhat more thoughtful <em><a title="Data Sketches" href="http://www.datasketch.es/">Data Sketches</a></em>, and I’m sure it inspired <a href="https://eagereyes.org/blog/2016/rj-andrews-profiling-the-parks">RJ Andrews’ <em>Profiling the Parks</em></a>. Sketching has also <a href="http://research.jagoda.ca/selected-work/data-sketches">been explored in visualization research</a> a little bit in the past.
+I mentioned <em><a href="http://www.dear-data.com">Dear Data</a></em> in <a href="/blog/2016/the-state-of-information-visualization-2016">last year's <em>State of InfoVis</em></a>, because I thought it was a great project – but I didn’t think it would explode into the huge success that it has become (including <a href="/blog/2016/review-lupi-posavec-dear-data">a very nice book</a>, the <a href="https://medium.com/@giorgialupi/dear-data-has-been-acquired-by-moma-but-this-isnt-what-we-are-most-excited-about-bdaa3376d9db">postcards being acquired by MoMA</a>, etc.). It has also inspired a number of other projects, like the knock-off <em><a href="http://www.dear-data-two.com">Dear Data 2</a></em>, the somewhat more thoughtful <em><a title="Data Sketches" href="http://www.datasketch.es/">Data Sketches</a></em>, and I’m sure it inspired <a href="/blog/2016/rj-andrews-profiling-the-parks">RJ Andrews’ <em>Profiling the Parks</em></a>. Sketching has also <a href="http://research.jagoda.ca/selected-work/data-sketches">been explored in visualization research</a> a little bit in the past.
 
 Drawing data with colored pencils or crayons is a good gateway drug to getting people interested in visualization. And it’s a good exercise to get your brain juices flowing, even – or maybe especially –  if you’ve been doing visualization for a while. Give people a few numbers and 20 minutes of uninterrupted time, and it’s amazing how many different things they come up with.
 
@@ -68,17 +68,17 @@ I can’t talk about specifics here, but things are about to get a lot more int
 
 ## Pies and eagereyes
 
-I spent a surprisingly large part of last year thinking about <a href="https://eagereyes.org/tag/pie-charts">pie charts</a>. I’m glad I did. There’s a lot more to them than most people think, and they’re a good model for how <a href="https://eagereyes.org/papers/an-empire-built-on-sand">we need to ask more questions about our basic assumptions</a> in visualization.
+I spent a surprisingly large part of last year thinking about <a href="/tag/pie-charts">pie charts</a>. I’m glad I did. There’s a lot more to them than most people think, and they’re a good model for how <a href="/papers/an-empire-built-on-sand">we need to ask more questions about our basic assumptions</a> in visualization.
 
-Drew Skau and I <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">presented two papers at EuroVis</a>, I did a bit more work for <a href="https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">a better presentation of our results</a>, dug up <a href="https://eagereyes.org/blog/2015/ye-olde-pie-chart-debate">some old papers on the topic</a>, and turned the whole mess into <a href="https://eagereyes.org/talk/pie-charts-unloved-unstudied-and-misunderstood">a pretty decent talk for Information+</a> (there were also <a href="https://eagereyes.org/blog/2016/ten-great-talks-at-information-2016">some other great talks at Information+</a>, BTW). And this isn't even the end of it, there's more stuff coming at some point.
+Drew Skau and I <a href="/papers/a-pair-of-pie-chart-papers">presented two papers at EuroVis</a>, I did a bit more work for <a href="/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">a better presentation of our results</a>, dug up <a href="/blog/2015/ye-olde-pie-chart-debate">some old papers on the topic</a>, and turned the whole mess into <a href="/talk/pie-charts-unloved-unstudied-and-misunderstood">a pretty decent talk for Information+</a> (there were also <a href="/blog/2016/ten-great-talks-at-information-2016">some other great talks at Information+</a>, BTW). And this isn't even the end of it, there's more stuff coming at some point.
 
-This site also <a href="https://eagereyes.org/blog/2016/blogstravaganza">turned 10 last year</a>, which I took as a cue for some reflection and to finally get <a href="https://eagereyes.org/blog/2016/meet-the-new-logo-and-theme">a decent theme and logo</a>.
+This site also <a href="/blog/2016/blogstravaganza">turned 10 last year</a>, which I took as a cue for some reflection and to finally get <a href="/blog/2016/meet-the-new-logo-and-theme">a decent theme and logo</a>.
 
 Despite my initial hesitance when I sat down to write this posting, 2016 was quite the year for visualization. Exciting things are happening, and I look forward to where this field is going in 2017 and beyond.
 
 <hr />
 
-You can read <a href="https://eagereyes.org/tag/state-of-infovis">all previous <em>State of InfoVis</em> postings here</a>.
+You can read <a href="/tag/state-of-infovis">all previous <em>State of InfoVis</em> postings here</a>.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on January 22, 2017_

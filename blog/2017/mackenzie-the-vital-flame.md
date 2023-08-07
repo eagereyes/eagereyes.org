@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-
 
 # ISOTYPE Book: Mackenzie, The Vital Flame
 
-The first book in the <a href="https://eagereyes.org/isotope-books/intro">new series on ISOTYPE books</a> is <em>The Vital Flame</em> by Compton Mackenzie, published by The British Gas Council in 1947. It contains 42 color photographs and five ISOTYPE charts, with a nice variety of different topics and styles.
+The first book in the <a href="/isotope-books/intro">new series on ISOTYPE books</a> is <em>The Vital Flame</em> by Compton Mackenzie, published by The British Gas Council in 1947. It contains 42 color photographs and five ISOTYPE charts, with a nice variety of different topics and styles.
 
 ## A Bit of Context
 
@@ -80,7 +80,7 @@ _Posted by <a href="/about">Robert Kosara</a> on January 17, 2017. Filed under [
 Jason Forrest says…
 >	Marie Neurath did a great job with this one! It might be good to add her name to the post maybe?
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I don’t think she’s credited anywhere in the book, though. I have another ISOTYPE post coming pretty soon of a book from around the same time, I’ll mention her there.
 
 </aside>

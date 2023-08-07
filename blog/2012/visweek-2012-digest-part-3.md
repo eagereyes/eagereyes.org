@@ -40,7 +40,7 @@ All the SciVis blogs I’m aware of have been dead for years or have switched ov
 
 ## VIS 2013
 
-After I wrote <a href="http://eagereyes.org/blog/2012/visweek-2012-digest-part-2">last week</a> that I didn’t believe in the name change from VisWeek to VIS, <a href="http://visweek.org">the website</a> was updated and it now announces VIS 2013. It’s still under the visweek.org domain, though, and in my heart, it will live forever as <em>VisWeek</em> (or for another few months or so, anyway).
+After I wrote <a href="/blog/2012/visweek-2012-digest-part-2">last week</a> that I didn’t believe in the name change from VisWeek to VIS, <a href="http://visweek.org">the website</a> was updated and it now announces VIS 2013. It’s still under the visweek.org domain, though, and in my heart, it will live forever as <em>VisWeek</em> (or for another few months or so, anyway).
 
 
 _Posted by <a href="/about">Robert Kosara</a> on November 18, 2012_

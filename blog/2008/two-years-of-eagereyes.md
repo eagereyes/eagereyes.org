@@ -27,15 +27,15 @@ What is the mission of this site? I guess to put it in as few words as possible,
 
 <em>The troublemakers.</em>
 
-This is not a blog. When people call this site my blog, I usually argue with them. The goal is to organically build a website over time that will have some more or less well-organized information about visualization methods, basics, applications, etc. Part of it is a blog, yes, but that part is filed under the <a href="http://eagereyes.org/topics/blog">blog category</a>. The other articles do appear in the feed when they are published, but they are meant to have a much longer lifetime than the usual blog entry. They are also longer, better researched, and take a lot more work to put together.
+This is not a blog. When people call this site my blog, I usually argue with them. The goal is to organically build a website over time that will have some more or less well-organized information about visualization methods, basics, applications, etc. Part of it is a blog, yes, but that part is filed under the <a href="/topics/blog">blog category</a>. The other articles do appear in the feed when they are published, but they are meant to have a much longer lifetime than the usual blog entry. They are also longer, better researched, and take a lot more work to put together.
 
 <em>The round pegs in the square holes.</em>
 
-This site is also about original thought and projects, rather than rehashing or pointing at what other people do. Because, let's face it, that is exactly what most blogs do, including a few visualization blogs. I have no interest in that. Of course, this means that I can't update this site every day. Projects like the <a href="http://eagereyes.org/Applications/ZIPScribbleMap.html">ZIPScribble</a> <a href="http://eagereyes.org/Applications/MoreZIPScribbleMaps.html">Map</a>, the <a href="http://eagereyes.org/vis/iTMS.html">iTunes Store Visualization</a>, the <a href="http://eagereyes.org/Techniques/SquarePieCharts.html">square pie chart</a> redesign, <a href="http://eagereyes.org/applications/PresidentialDemographicsII.html">Presidential Demographics</a>, etc. take time. Plus, I also have a <a href="http://cs.uncc.edu/~rkosara/">day job</a>.
+This site is also about original thought and projects, rather than rehashing or pointing at what other people do. Because, let's face it, that is exactly what most blogs do, including a few visualization blogs. I have no interest in that. Of course, this means that I can't update this site every day. Projects like the <a href="/Applications/ZIPScribbleMap.html">ZIPScribble</a> <a href="/Applications/MoreZIPScribbleMaps.html">Map</a>, the <a href="/vis/iTMS.html">iTunes Store Visualization</a>, the <a href="/Techniques/SquarePieCharts.html">square pie chart</a> redesign, <a href="/applications/PresidentialDemographicsII.html">Presidential Demographics</a>, etc. take time. Plus, I also have a <a href="http://cs.uncc.edu/~rkosara/">day job</a>.
 
 <em>The ones who see things differently.</em>
 
-This site is about passion. I <a href="http://eagereyes.org/topics/VisCrit">criticize</a> what others do, and I can be very frank in my criticism. But I scare because I care. I want to get my readers' attention, and I want to point out things that I think are wrong. Some of my statements may be harsh, a bit more sweeping than is called for, and sometimes maybe wrong. But among reasonable adults, I think a frank and open discussion must be possible. And just as I am ready to dole out criticism, I am very receptive of what others have to say about my points of view.
+This site is about passion. I <a href="/topics/VisCrit">criticize</a> what others do, and I can be very frank in my criticism. But I scare because I care. I want to get my readers' attention, and I want to point out things that I think are wrong. Some of my statements may be harsh, a bit more sweeping than is called for, and sometimes maybe wrong. But among reasonable adults, I think a frank and open discussion must be possible. And just as I am ready to dole out criticism, I am very receptive of what others have to say about my points of view.
 
 <em>They're not fond of rules.</em>
 
@@ -55,7 +55,7 @@ This is a non-commercial website. I make it a point not to have advertising, not
 
 <em>About the only thing you can't do is ignore them.</em>
 
-What has the site achieved? It has certainly helped me get recognized. As egotistical as it may seem, it is a great feeling to email an influential, senior InfoVis person to ask for a <a href="http://eagereyes.org/topics/ListsOfInfluences">list of influences</a> and then be told that he or she knows the site and is happy to oblige. I have also been greeted by strangers as "Mr. EagerEyes" at conferences and been told by others that the site has changed their view of visualization.
+What has the site achieved? It has certainly helped me get recognized. As egotistical as it may seem, it is a great feeling to email an influential, senior InfoVis person to ask for a <a href="/topics/ListsOfInfluences">list of influences</a> and then be told that he or she knows the site and is happy to oblige. I have also been greeted by strangers as "Mr. EagerEyes" at conferences and been told by others that the site has changed their view of visualization.
 
 <em>Because they change things.</em>
 

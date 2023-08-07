@@ -30,11 +30,11 @@ But enough about others, back to me. Here's my plan for the week so far.
 
 <ul>
     <li>Saturday: Doctoral Colloquium</li>
-    <li>Sunday morning: <a href="http://c4pgv.swansea.ac.uk">C4PGV workshop</a> (which, obviously, stands for <em>Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization</em>) to present a paper with Aritra Dasgupta and Enrico Bertini, <a href="https://eagereyes.org/publications/Kosara-C4PGV-2016.html"><em>Reflecting on the Design Criteria for Explanatory Visualizations</em></a>.</li>
-    <li>Monday: BELIV to present my paper, <a href="https://eagereyes.org/papers/paper-an-empire-built-on-sand"><em>An Empire Built On Sand</em></a>.</li>
+    <li>Sunday morning: <a href="http://c4pgv.swansea.ac.uk">C4PGV workshop</a> (which, obviously, stands for <em>Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization</em>) to present a paper with Aritra Dasgupta and Enrico Bertini, <a href="/publications/Kosara-C4PGV-2016.html"><em>Reflecting on the Design Criteria for Explanatory Visualizations</em></a>.</li>
+    <li>Monday: BELIV to present my paper, <a href="/papers/paper-an-empire-built-on-sand"><em>An Empire Built On Sand</em></a>.</li>
     <li>Also Monday: <a href="http://visinpractice.org"><em>Visualization in Practice</em> workshop</a>. Okay, I won't be there (I have to yell at people at BELIV), but my colleague Justin Talbot has done an amazing job organizing this workshop. Also, what do the initial letters of <em>Vis in Practice</em> spell? That's right: VIP!</li>
     <li>Wednesday: Blogging meetup, see below</li>
-    <li>Thursday: don't miss the Time Series session in the afternoon for my presentation of the TVCG paper, <em><a href="https://eagereyes.org/papers/the-connected-scatterplot-for-presenting-paired-time-series">The Connected Scatterplot for Presenting Paired Time Series</a>,</em> with Steve Haroz and Steven L. Franconeri.</li>
+    <li>Thursday: don't miss the Time Series session in the afternoon for my presentation of the TVCG paper, <em><a href="/papers/the-connected-scatterplot-for-presenting-paired-time-series">The Connected Scatterplot for Presenting Paired Time Series</a>,</em> with Steve Haroz and Steven L. Franconeri.</li>
     <li>Every morning, starting on Monday: running! See below.</li>
 </ul>
 
@@ -46,7 +46,7 @@ Just like in the last few years, I will organize a little run in the morning. Th
 
 We'll meet at 7am in the lobby of the conference hotel and take off from there. We'll be back in time for you to take a shower and grab some breakfast before the first session. Rain and other minor weather incidents are no excuse to not run. Baltimore should be warmer and much less windy than Chicago was last year. Bring some layers if you need to, but we'll be running unless there's a hurricane, volcano eruption, the apocalypse, or similar.
 
-I'm having minor surgery just before VIS (topical given the name of my website), and I assume that I'll be able to run by Monday (I'm not supposed to exercise for a few days). So if you want to make sure, <a href="https://eagereyes.org/contact">drop me an email</a> so I know you're interested and can let you know in case I can't make it. The plan is to run Monday through Thursday, and potentially also Friday (though I might skip that one since I'm leaving soon after the closing session Friday afternoon).
+I'm having minor surgery just before VIS (topical given the name of my website), and I assume that I'll be able to run by Monday (I'm not supposed to exercise for a few days). So if you want to make sure, <a href="/contact">drop me an email</a> so I know you're interested and can let you know in case I can't make it. The plan is to run Monday through Thursday, and potentially also Friday (though I might skip that one since I'm leaving soon after the closing session Friday afternoon).
 
 Other than that: Come for the exercise, stay for the sweaty, awkward selfies at the end!
 
@@ -56,11 +56,11 @@ Interested in blogging? Want to start your own blog? Need some motivation to rev
 
 Jessica Hullman, Enrico Bertini, and I are organizing a blogging and podcasting meetup on Wednesday (October 26) at 1pm in room Peale C. Grab some food after the morning session and then come to the meetup well-fed but still hungry for information! We'll chat about our experiences and answer your questions. You might even get a live performance of Enrico doing his <a href="http://datastori.es"><em>Data Stories</em></a> opening!
 
-Speaking of which, my new website has a <a href="https://eagereyes.org/blogroll">blogroll</a>! You should check it out. Also, if you're using feedly, you can add all those feeds to your feedly by just clicking a button somewhere on the <a href="http://feedly.com/eagereyes/Blogroll">feedly collection page</a> I've made just for you!
+Speaking of which, my new website has a <a href="/blogroll">blogroll</a>! You should check it out. Also, if you're using feedly, you can add all those feeds to your feedly by just clicking a button somewhere on the <a href="http://feedly.com/eagereyes/Blogroll">feedly collection page</a> I've made just for you!
 
 ## 
 
-As <a href="https://eagereyes.org/tag/conference">in the past years</a>, <a href="https://twitter.com/eagereyes">I will be tweeting</a> about papers being presented and write a few blog posts during the week or right after. I don't have a clear idea yet how many postings and when they will go live, it's going to depend on how many things there are that I feel are worth writing about.
+As <a href="/tag/conference">in the past years</a>, <a href="https://twitter.com/eagereyes">I will be tweeting</a> about papers being presented and write a few blog posts during the week or right after. I don't have a clear idea yet how many postings and when they will go live, it's going to depend on how many things there are that I feel are worth writing about.
 
 This will be my 16th Vis/VisWeek/VIS in a row. I'm looking forward to seeing everybody there!
 

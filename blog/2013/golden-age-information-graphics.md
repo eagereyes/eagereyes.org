@@ -13,7 +13,7 @@ Infographics today are mostly pointless decorations around a few simple facts th
 
 The Lawrence Livermoore National Lab recently posted this <em><a href="http://www.flickr.com/photos/llnl/9403051123/">Chart of Electromagnetic Radiations</a>,</em> which was originally published in 1944, on their flickr stream. It's a beautiful example of the kind of poster or magazine fold-out that was fairly common during the golden age of information graphics, from the 1940s (if not earlier) to the early 1990s. As a kid, I'd spend hours poring over books and magazines with detailed illustrations and explanations of all sorts of technology, from power plants to the Space Shuttle.
 
-The poster compiles a huge range of different information about electromagnetic waves, from their origin to their different uses, from radio and (then-new) television to photography. This is not just an information graphic in the true sense, but, to use <a title="List of Influences: Nigel Holmes" href="http://eagereyes.org/influences/nigel-holmes">Nigel Holmes</a>' term, an explanation graphic.
+The poster compiles a huge range of different information about electromagnetic waves, from their origin to their different uses, from radio and (then-new) television to photography. This is not just an information graphic in the true sense, but, to use <a title="List of Influences: Nigel Holmes" href="/influences/nigel-holmes">Nigel Holmes</a>' term, an explanation graphic.
 
 <p align="center"><img class="aligncenter size-medium wp-image-2568" alt="Electromagnetic Waves" src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-waves.jpg" width="600" height="369" /></p>
 

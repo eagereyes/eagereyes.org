@@ -19,7 +19,7 @@ Newburger argues that people don’t bother trying to read tables, whereas visua
 
 >	We were producing analysts who knew how to make tables. Really really good tables. But what we're doing is making tables.
 
-There are three short talks in this recorded webinar, which also go into some detail on the visualization efforts inside the Census, their <a href="http://eagereyes.org/criticism/visual-math-wrong">visualization gallery</a>, etc. It's an interesting insight into the way the Census Bureau works and how a small group of people is trying to change the way the Census communicates information to the public.
+There are three short talks in this recorded webinar, which also go into some detail on the visualization efforts inside the Census, their <a href="/criticism/visual-math-wrong">visualization gallery</a>, etc. It's an interesting insight into the way the Census Bureau works and how a small group of people is trying to change the way the Census communicates information to the public.
 
 [Edit: video no longer available]
 

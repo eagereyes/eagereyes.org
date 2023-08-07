@@ -30,7 +30,7 @@ While this doesn't seem to be widely known, it's not new. In their seminal paper
 
 The little dots indicate what to compare. Types 4 and 5 are the stacked bar charts. Type 4 is similar to my example above, where you're looking at bars that sit on top of other bars. In Type 5, you're comparing lengths that are stacked rather than next to each other. The results show that these are the most difficult, producing the highest error.
 
-Here are confidence intervals (same thing I've used in the <a href="https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">recent pie charts postings</a>) for error. Check out types 4 and 5!
+Here are confidence intervals (same thing I've used in the <a href="/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">recent pie charts postings</a>) for error. Check out types 4 and 5!
 
 <p align="center"><img class="aligncenter size-medium wp-image-9480" src="https://media.eagereyes.org/wp-content/uploads/2016/08/results-bars-only.png" alt="results-bars-only" width="660" height="240" /></p>
 
@@ -40,9 +40,9 @@ But Cleveland and McGill also tested pie charts. Let's see how pie charts do in
 
 <p align="center"><img class="aligncenter size-full wp-image-9479" src="https://media.eagereyes.org/wp-content/uploads/2016/08/results-all.png" alt="results-all" width="660" height="439" /></p>
 
-Stacked bar charts have higher error than pie charts (angle condition, even though we now know <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">that it's not angle</a>)! The basic bar charts are clearly better than pie charts, but stack them and they're worse! Both stacked configurations are worse than pie charts, but especially the one where you're comparing bars that sit on top of each other.
+Stacked bar charts have higher error than pie charts (angle condition, even though we now know <a href="/papers/a-pair-of-pie-chart-papers">that it's not angle</a>)! The basic bar charts are clearly better than pie charts, but stack them and they're worse! Both stacked configurations are worse than pie charts, but especially the one where you're comparing bars that sit on top of each other.
 
-There are also other studies that have found the same or similar results. One example is <a href="https://eagereyes.org/blog/2016/a-reanalysis-of-a-study-about-square-pie-charts-from-2009">the Mechanical Turk study on square pies I wrote about recently</a>.
+There are also other studies that have found the same or similar results. One example is <a href="/blog/2016/a-reanalysis-of-a-study-about-square-pie-charts-from-2009">the Mechanical Turk study on square pies I wrote about recently</a>.
 
 ## It's Not That Simple
 
@@ -118,7 +118,7 @@ Rina Petersen says…
 >	
 >	I'd be interested to see how well supported that is experimentally, as well as how other factors (degree of variance, use of guidelines, etc.) influence people's ability to comprehend them.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Okay, let's talk about the title: it's not meant to be a precise statement, but "the worst" as in "You're always criticizing my postings! You're THE WORST!" Also, stacked bars are the worst bars, and the data actually supports that (at least some of the data).
 >	
 >	As I pointed out above, we found that stacked bars did the worst when compared to square pies, pies, and donuts. It seems like this could be a good topic for some meta-analysis.

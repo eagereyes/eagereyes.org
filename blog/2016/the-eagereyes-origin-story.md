@@ -46,7 +46,7 @@ I already mentioned writing my own CMS. I worked on that for a while, then look
 
 At the time, Wordpress was absolutely terrible. It was slow, buggy, and gave you zero control over URLs. The latter was a real requirement for me, even though today nobody cares about URL structure anymore and browsers have long stopped showing you a page's path at all, displaying only the hostname.
 
-After a long, winding journey I finally settled on Drupal. That was the right decision at the time, but I also ended up tinkering way too much with it and spending time and energy trying to do lots of things that ended up not being worth it. I <a href="https://eagereyes.org/blog/2012/why-i-switched-drupal-wordpress">eventually switched to Wordpress</a> at the end of 2011. At this point, the site has spent almost half of its life on Wordpress, but I have written way over half the articles in that time. Less tinkering means more writing!
+After a long, winding journey I finally settled on Drupal. That was the right decision at the time, but I also ended up tinkering way too much with it and spending time and energy trying to do lots of things that ended up not being worth it. I <a href="/blog/2012/why-i-switched-drupal-wordpress">eventually switched to Wordpress</a> at the end of 2011. At this point, the site has spent almost half of its life on Wordpress, but I have written way over half the articles in that time. Less tinkering means more writing!
 
 While I still run my own installation of Wordpress on my own virtual private server (VPS), I do not recommend doing that. It takes way more time and energy than makes any sense for a blog, and you're on the hook for keeping the thing from turning into a spam or DDOS robot. My server was compromised earlier this year, which meant I had to move everything to a new instance so I could nuke the old one from orbit (the only way to be sure). Not a good use of my time.
 
@@ -56,7 +56,7 @@ The same is true for finding the perfect CMS. Just pick either Wordpress or Medi
 
 ## Early Promotion
 
-To get the word out about my amazing new website, I did two things: write comments on other people's blogs, and print business cards! Of course, I also <a href="https://eagereyes.org/blog/2016/eagereyes-early-history">wrote amazing content right away</a>.
+To get the word out about my amazing new website, I did two things: write comments on other people's blogs, and print business cards! Of course, I also <a href="/blog/2016/eagereyes-early-history">wrote amazing content right away</a>.
 
 Leaving comments worked really well back in 2006 and 2007. People still read those back then and clicked on the links. It also helped with search engines. This was before all those links were marked as nofollow to discourage spam.
 

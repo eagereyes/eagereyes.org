@@ -34,7 +34,7 @@ NOAA has <a href="http://www.nhc.noaa.gov/refresh/graphics_at1+shtml/030119.shtm
 
 <p align="center"><img class="aligncenter size-full wp-image-10162" src="https://media.eagereyes.org/wp-content/uploads/2017/09/irma-noaa-uncertainty.png" alt="" width="897" height="738" /></p>
 
-This says in no uncertain terms that Hurricane Irma will hit Florida. The purple 90% area is clearly pointing straight at Miami. There are scenarios that avoid landfall, but they're much less likely. Yes, <a href="https://eagereyes.org/basics/rainbow-color-map">the rainbow colormap</a> is perhaps not the best choice, but it doesn't actually get in the way here.
+This says in no uncertain terms that Hurricane Irma will hit Florida. The purple 90% area is clearly pointing straight at Miami. There are scenarios that avoid landfall, but they're much less likely. Yes, <a href="/basics/rainbow-color-map">the rainbow colormap</a> is perhaps not the best choice, but it doesn't actually get in the way here.
 
 Could this be shown in a more aesthetically pleasing way? Yes, the folks at Axios have made <a href="https://www.axios.com/hurricane-irmas-path-over-the-next-5-days-2482266130.html">a much more design-y map</a>.
 
@@ -50,7 +50,7 @@ There are probably other designs out there, but these are the common ones you se
 
 For one, it would need to communicate both the possible scenarios and the cumulative effect of the different simulation runs. Essentially a combination of the tracks and the uncertainty areas. It also would need to have fuzzy boundaries to not create a false sense of security for people living just outside the sharp line drawn on traditional maps. And ideally, it would show the data the NOAA map above is showing: hurricane strength, at least along affected coastlines, and predicted winds. More data would be nice to see as well, such as predicted amounts of rainfall, etc.
 
-Perhaps the answer is not even just a static image, but something animated that cycles through scenarios – not unlike the infamous <a href="https://eagereyes.org/blog/2017/the-state-of-information-visualization-2017">New York Times election gauges</a>. The animation might be more informative and less stressful to watch when there are more than two possible outcomes.
+Perhaps the answer is not even just a static image, but something animated that cycles through scenarios – not unlike the infamous <a href="/blog/2017/the-state-of-information-visualization-2017">New York Times election gauges</a>. The animation might be more informative and less stressful to watch when there are more than two possible outcomes.
 
 Given the importance of communicating this information, it is astounding that there aren't better solutions. The ones that we have, while undoubtedly imperfect, do work. Better ones are possible, but a redesign has to be more than just a new coat of paint. It needs to create a better understanding of uncertainty. And that is not an easy nut to crack.
 

@@ -16,7 +16,7 @@ The first uses of graphics to represent data, interestingly, were very bare and 
 
 <p align="center"><img class="aligncenter size-medium wp-image-2084" title="William Playfair: Exports and Imports to and from Denmark &amp; Norway" src="https://media.eagereyes.org/wp-content/uploads/2012/11/playfair-denmark-exports.png" alt="" width="600" height="443" /></p>
 
-Those charts were drawn to communicate, not to analyze. <a title="Review: Steven Johnson, The Ghost Map" href="http://eagereyes.org/criticism/review-steven-johnson-the-ghost-map">Snow’s cholera map</a> often wrongly serves as an example of visual analysis, when it was drawn to convince. Similarly, <a title="Shining a Light on Data: Florence Nightingale" href="/blog/2009/shining-a-light-on-data-florence-nightingale">Florence Nightingale’s chart of deaths in the Crimean War</a> was used to illustrate her argument that improvements in hygiene would save many lives, and William Playfair illustrated the trade balance between England and its trade partners.
+Those charts were drawn to communicate, not to analyze. <a title="Review: Steven Johnson, The Ghost Map" href="/criticism/review-steven-johnson-the-ghost-map">Snow’s cholera map</a> often wrongly serves as an example of visual analysis, when it was drawn to convince. Similarly, <a title="Shining a Light on Data: Florence Nightingale" href="/blog/2009/shining-a-light-on-data-florence-nightingale">Florence Nightingale’s chart of deaths in the Crimean War</a> was used to illustrate her argument that improvements in hygiene would save many lives, and William Playfair illustrated the trade balance between England and its trade partners.
 
 ## 1920–30s: Neurath
 
@@ -36,7 +36,7 @@ Tukey invented <a href="http://www.statgraphics.com/eda.htm">a number of differe
 
 ## 1970–80s: Holmes
 
-The late 1970s and early 1980s saw a new development: the elaborate information graphic, which had existed for a while, was starting to be used to communicate numbers. <a title="List of Influences: Nigel Holmes" href="http://eagereyes.org/influences/nigel-holmes">Nigel Holmes</a> is perhaps the most prominent designer of this kind of visualization.
+The late 1970s and early 1980s saw a new development: the elaborate information graphic, which had existed for a while, was starting to be used to communicate numbers. <a title="List of Influences: Nigel Holmes" href="/influences/nigel-holmes">Nigel Holmes</a> is perhaps the most prominent designer of this kind of visualization.
 
 Holmes actually uses the term <em>explanation graphic</em>, which is not only less misused, it also more clearly describes the goal: to explain the data and its context. In addition, Holmes also clearly wanted to draw the reader’s attention and entertain. The result were information graphics that were very elaborate and unique, but always based on actual, real data.
 

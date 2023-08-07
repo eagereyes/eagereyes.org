@@ -29,7 +29,7 @@ Do you have more bars than necessary? Get rid of them! Are you missing context t
 
 Do you see the difference? Instead of minimization at all cost, we are now asking questions about the purpose of this thing you are creating. We are no longer pretending that visualization design is a mathematical optimization, and instead thinking about what we want to achieve.
 
-Chart junk is still chart junk. Don’t add meaningless nonsense to your charts! Don’t clutter them up! Reduce the impact of grid lines, etc. But also think about how you can clarify the message, how you want people to read your data, and what you want them to take away. Perhaps adding things will actually help. What was considered chart junk before <a title="The Three Types of Chart Junk" href="http://eagereyes.org/blog/2012/three-types-chart-junk">might turn out to be useful</a>.
+Chart junk is still chart junk. Don’t add meaningless nonsense to your charts! Don’t clutter them up! Reduce the impact of grid lines, etc. But also think about how you can clarify the message, how you want people to read your data, and what you want them to take away. Perhaps adding things will actually help. What was considered chart junk before <a title="The Three Types of Chart Junk" href="/blog/2012/three-types-chart-junk">might turn out to be useful</a>.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on March 17, 2013_
@@ -45,7 +45,7 @@ _Posted by <a href="/about">Robert Kosara</a> on March 17, 2013_
 >	
 >	Not only have you mis-represented Tufte as anti-aesthetic (he's a patron of the arts for heaven's sake, and has his own gallery in New York!), you have mis-understood the idea of chart junk. You say "Instead of minimization at all cost, we are now asking questions about the purpose of this thing you are creating." But removing chart junk is done AFTER his first rule "Above all, show the data." If the visual device you have chosen does not show the data, together with necessary context or highlighting then the data/ink ratio is irrelevant, and this post is similarly irrelevant to it.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	The example is very similar to one Tufte drew himself, and it shows the data just fine.
 >	
 >	The point here is that there is a double standard: we supposedly follow "maximize data ink," when we're really making arbitrary decisions. What I want to do is find a principle that works the way it's actually written.
@@ -76,7 +76,7 @@ carlosscheidegger says…
 >	
 >	Incidentally, there's no good definition of statistical graphic, either! "plots 'x, y, z, and w' are statistical graphics" doesn't count (yes, I have read Bertin, Wilkinson, Wickham, Stolte, MacKinlay, etc. It's not there, at least not in any way that fundamentally forbids a numeric table from being interpreted as a graphic.)
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I did not say that the data/ink ratio was arbitrary, but that people claim to be maximizing it when they're really doing something else (i.e., following some arbitrary rule or making ad-hoc decisions). There is nothing wrong with doing that, but I hate the pretense that we're following a principle here, and that the principle, when followed, leads to good charts.
 >	
 >	Carlos gets it: my point is that we need to figure out a principle or rule that we can actually follow and that, when followed, leads us to a meaningful goal. I think that the one I've stated above does that, while Tufte's definition of chart junk and data-ink does not.

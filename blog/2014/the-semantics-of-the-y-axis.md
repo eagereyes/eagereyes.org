@@ -30,7 +30,7 @@ The archetype of these visualizations, the New York Times' <a href="http://www.n
 
 ## Which Quadrant
 
-This chart of men's vs. women's earnings that <a href="https://eagereyes.org/blog/2014/my-favorite-charts">I wrote about recently </a> also uses the vertical axis in a simple, yet smart way. It has men's earnings on the horizontal axis, and women's on the vertical. That is the only way this makes sense, even if technically the other way around would be just as correct.
+This chart of men's vs. women's earnings that <a href="/blog/2014/my-favorite-charts">I wrote about recently </a> also uses the vertical axis in a simple, yet smart way. It has men's earnings on the horizontal axis, and women's on the vertical. That is the only way this makes sense, even if technically the other way around would be just as correct.
 
 <p align="center"><img class="aligncenter size-medium wp-image-8317" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap-730x424.png" alt="Why Is Her Paycheck Smaller?" width="730" height="424" /></p>
 
@@ -38,7 +38,7 @@ The difference is the message the majority of the points send. If women's earnin
 
 ## Bar Charts
 
-I already wrote about <a href="https://eagereyes.org/journalism/when-bars-point-down">this topic in the specific case of bar charts</a>, but it bears repeating. Bars pointing down are unusual, and they grab the viewer's attention. They can help get a point across and help people read the chart more easily.
+I already wrote about <a href="/journalism/when-bars-point-down">this topic in the specific case of bar charts</a>, but it bears repeating. Bars pointing down are unusual, and they grab the viewer's attention. They can help get a point across and help people read the chart more easily.
 
 <p align="center"><img class="aligncenter size-medium wp-image-8319" src="https://media.eagereyes.org/wp-content/uploads/2014/09/obama-job-loss-chart-730x407.png" alt="obama job loss chart" width="730" height="407" /></p>
 
@@ -59,7 +59,7 @@ gilgongo says…
 Stefano says…
 >	Speaking of up making good, the a few exceptions (as is usually the case with the English language). "Breaking down" is bad but so is "breaking up". And how can "downhill" and "uphill" both be negative? "It's all downhill from here" vs an "uphill struggle". What about "messed up" and "hold up"? Any more? What about positive "down" terms?
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Well, it's not that simple. Not every use of "up" has that sort of meaning, "breaking up" and "messed up" are clearly examples of that. Your "uphill battle" example is wrong, though: what's negative about it is that it's hard to fight when you're also moving up a hill (think carrying heavy weapons up a hill), while the enemy can throw and roll things down at you. This isn't purely metaphorical, this comes from actual use in the past. There is some context here beyond just the direction.
 
 </aside>

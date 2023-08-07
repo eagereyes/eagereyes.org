@@ -53,7 +53,7 @@ Croxton apparently kept working in this area. In 1932, he published a paper wit
 
 ## The Pie Chart is Dead! Long Live the Pie Chart!
 
-What also hasn't changed is the intense debate. Many studies have been run in the meantime, and they generally have found pie charts to be less accurate than bars. There are <a href="https://eagereyes.org/criticism/in-defense-of-pie-charts">some valid use cases though</a>, and they continue to be popular despite all the warnings.
+What also hasn't changed is the intense debate. Many studies have been run in the meantime, and they generally have found pie charts to be less accurate than bars. There are <a href="/criticism/in-defense-of-pie-charts">some valid use cases though</a>, and they continue to be popular despite all the warnings.
 
 When Cole Nussbaumer declares <em><a href="http://www.storytellingwithdata.com/2015/03/the-great-pie-debate.html">Death to Pie Charts</a>,</em> or Kaiser Fung criticizes a pie chart in <a href="http://junkcharts.typepad.com/junk_charts/2016/03/which-way-to-die-the-bard-asked-onelesspie.html">his Pi Day posting</a>, they are following an old tradition. Despite all that, though, pie charts do not appear to be going away anytime soon.
 

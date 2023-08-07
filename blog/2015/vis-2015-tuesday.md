@@ -42,7 +42,7 @@ This year, InfoVis received 178 submissions, of which 38 were accepted, for an a
 
 The panel <em>Color Mapping in VIS: Perspectives on Optimal Solutions</em> with David Borland, Kenneth Moreland, Bernice Rogowitz, Francesca Samsel, Maureen Stone, and Cynthia Brewer (organized by Thersa-Marie Rhyne, who unfortunately couldn’t make it) discussed various issues around the use of color in visualization.
 
-Many of the topics weren’t exactly new (<a href="https://eagereyes.org/basics/rainbow-color-map">rainbow color maps are bad</a>, etc.), but the room was packed and they covered a lot of ground. It was also interesting to finally see Cynthia Brewer, of <a href="http://colorbrewer2.org/">ColorBrewer</a> fame, speak at VIS; I don’t think I’d ever seen her before.
+Many of the topics weren’t exactly new (<a href="/basics/rainbow-color-map">rainbow color maps are bad</a>, etc.), but the room was packed and they covered a lot of ground. It was also interesting to finally see Cynthia Brewer, of <a href="http://colorbrewer2.org/">ColorBrewer</a> fame, speak at VIS; I don’t think I’d ever seen her before.
 
 One thing I felt they kind of danced around without really addressing it was <em>why</em> people in business and science like to use more color than is considered a good idea, including the rainbow color map and repeating color maps. I’ll have some more to say on this in another posting soon.
 

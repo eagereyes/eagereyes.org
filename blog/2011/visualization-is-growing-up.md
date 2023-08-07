@@ -24,7 +24,7 @@ All of these things are clearly important, though, if we expect people to trust 
 
 Michelle Borkin presented <a href="http://gvi.seas.harvard.edu/paper/evaluation-artery-visualizations-heart-disease-diagnosis">fascinating work on the use of colormaps</a> in the diagnosis of coronary heart disease. Their 2D representations using perceptually uniform colormaps led to significantly fewer errors than the usual 3D representations and/or the dreaded rainbow colormap.
 
-When the choice of visualization type and parameters makes such a big difference, we need a much better understanding of the potential consequences before we can recommend the use of visualization for important decisions. Similar results have been reported <a href="http://eagereyes.org/blog/2011/visualization-choice-influences-decisions">when making decisions about continuing or aborting clinical studies</a>, and Caroline Ziemkiewicz's work has also shown <a href="http://eagereyes.org/blog/2010/paper-implied-dynamics-in-information-visualization">the impact of surface features on people's perception of data</a>.
+When the choice of visualization type and parameters makes such a big difference, we need a much better understanding of the potential consequences before we can recommend the use of visualization for important decisions. Similar results have been reported <a href="/blog/2011/visualization-choice-influences-decisions">when making decisions about continuing or aborting clinical studies</a>, and Caroline Ziemkiewicz's work has also shown <a href="/blog/2010/paper-implied-dynamics-in-information-visualization">the impact of surface features on people's perception of data</a>.
 
 ## Visualization and Policy-Making
 

@@ -26,7 +26,7 @@ The deadline is <strong>August 27</strong>, you can submit a paper with up to <s
 
 ## The Role of Theory in Information Visualization
 
-Last, but certainly not least, is the important topic of theory in information visualization. The workshop I am organizing together with T.J. Jankun-Kelly and Chris Weaver is titled <a href="http://eagereyes.org/infovis-theory-workshop"><em>The Role of Theory in Information Visualization</em></a>. We want to hear your thoughts on what constitutes theory in infovis, what questions we need to address, and how to do that.
+Last, but certainly not least, is the important topic of theory in information visualization. The workshop I am organizing together with T.J. Jankun-Kelly and Chris Weaver is titled <a href="/infovis-theory-workshop"><em>The Role of Theory in Information Visualization</em></a>. We want to hear your thoughts on what constitutes theory in infovis, what questions we need to address, and how to do that.
 
 We also stole the idea of setting up <a href="http://www.facebook.com/pages/VisWeek-2010-Workshop-The-Role-of-Theory-in-Information-Visualization/120203618025408">a facebook page</a> from the storytelling workshop. Thanks for the idea, guys!
 

@@ -14,7 +14,7 @@ I've ignored the major new topic this year so far: machine learning. Another new
 
 ## Machine Learning
 
-Machine learning made a big showing this year, though I managed to miss most of the relevant talks and events. In addition to <a href="https://eagereyes.org/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">the best paper at VAST</a>, there were also two workshops and a tutorial on the topic. The <a href="http://www.visualdatascience.org/2017/index.html"><em>Visualization in Data Science</em> workshop</a> had an interesting panel discussing the question of when humans need to be in the loop (Hadley Wickham deftly summed it up at the end as “machines are good at some things, humans are good at other things”).
+Machine learning made a big showing this year, though I managed to miss most of the relevant talks and events. In addition to <a href="/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">the best paper at VAST</a>, there were also two workshops and a tutorial on the topic. The <a href="http://www.visualdatascience.org/2017/index.html"><em>Visualization in Data Science</em> workshop</a> had an interesting panel discussing the question of when humans need to be in the loop (Hadley Wickham deftly summed it up at the end as “machines are good at some things, humans are good at other things”).
 
 A relevant paper that I couldn’t fit anywhere else was <em><a href="http://lstm.seas.harvard.edu">LSTMVis: A Tool for Visual Analysis of Hidden State Dynamics in Recurrent Neural Networks</a></em> by Hendrik Strobelt, Sebastian Gehrmann, Hanspeter Pfister, and Alexander Rush. They developed a tool for exploring a class of neural networks that are good at learning sequences. It runs in the browser and they have a variety of example inputs to try it out with.
 
@@ -22,7 +22,7 @@ Despite my lack of coverage of the machine learning papers and events, this topi
 
 ## Diversity Panel
 
-At last year’s <a href="https://eagereyes.org/blog/2016/vis-2016-wednesday-thursday-papers-and-the-death-of-scivis">Death of SciVis panel</a>, the issue of diversity (or rather its lack) in the visualization field came up in the discussion. This year, the <em>Diversity in Visualization</em> panel with Robert S. Laramee (Organizer), Rita Borgo, Vetria Byrd, Aviva Frank, Kelly Gaither, Ronald Metoyer, and Erica Yang set out to highlight and address the issue.
+At last year’s <a href="/blog/2016/vis-2016-wednesday-thursday-papers-and-the-death-of-scivis">Death of SciVis panel</a>, the issue of diversity (or rather its lack) in the visualization field came up in the discussion. This year, the <em>Diversity in Visualization</em> panel with Robert S. Laramee (Organizer), Rita Borgo, Vetria Byrd, Aviva Frank, Kelly Gaither, Ronald Metoyer, and Erica Yang set out to highlight and address the issue.
 
 The presentations covered a variety of topics, from statistics about gender diversity (or rather, its lack) to power, and a few ways to improve things. Kelly Gaither talked about how the U.S. will soon be majority minority (meaning no particular race will have a majority), but minorities still only make up 7% of STEM graduates. Jobs, however, are in STEM. That’s clearly a problem that need to be addressed. Rita Borgo also looked at numbers, [comparing gender diversity in the VIS and CHI organizing committees](https://twitter.com/eagereyes/status/916049016613330945).
 
@@ -52,10 +52,10 @@ This concludes the report from IEEE VIS 2017. It was a good conference, with man
 See also:
 
 <ul>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-keynote-and-capstone">Keynote and Capstone</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
 </ul>
 
 
@@ -70,7 +70,7 @@ _Posted by <a href="/about">Robert Kosara</a> on October 12, 2017_
 <a href="https://www.facebook.com/app_scoped_user_id/510781175923605/" rel="nofollow noopener" target="_blank">Yao Ming</a> says…
 >	There was another panel related to the VIS+ML: How do Recent Machine Learning Advances Impact the Data Visualization Research Agenda? Not sure if you have attended it. The panelists also output some interesting thoughts on the topic of VIS+ML. I've took some notes on their opinions in my blog (http://blog.myaooo.com/vis2017) if you are interested.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Ah, right! Thanks! I did an amazing job missing all of these this year…
 
 </aside>

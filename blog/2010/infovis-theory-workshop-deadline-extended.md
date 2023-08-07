@@ -11,7 +11,7 @@ outline: false
 
 # InfoVis Theory Workshop Deadline Extended
 
-We have received a few good submissions for the <a href="http://eagereyes.org/infovis-theory-workshop">InfoVis Theory Workshop</a> at <a href="http://vis.computer.org/VisWeek2010/">VisWeek</a>, but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance.
+We have received a few good submissions for the <a href="/infovis-theory-workshop">InfoVis Theory Workshop</a> at <a href="http://vis.computer.org/VisWeek2010/">VisWeek</a>, but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance.
 
 We now also have a time and day for the workshop: <a href="http://www.facebook.com/event.php?eid=113280158726509">Monday (October 25), from 2pm to 6pm</a>.
 
@@ -19,7 +19,7 @@ Theory in InfoVis is not just a random idea, it really is picking up a lot of mo
 
 Another piece of evidence comes from the field of statistical graphics: in the latest <a href="http://stat-computing.org/newsletter/issues/scgn-21-1.pdf">Statistical Computing &amp; Graphics Newsletter (PDF, p. 5)</a>, Anthony Unwin starts talking about "hot" topics in visualization, and then says that what we really need is a deeper understanding of what's behind those graphics. <em>Exactly</em>.
 
-People all over the visualization (and in adjacent fields) are waking up and starting to feel the need for better foundations. So put your thinking cap on and help us push the field forward. <a href="http://eagereyes.org/infovis-theory-workshop">Submit your position statement!</a>
+People all over the visualization (and in adjacent fields) are waking up and starting to feel the need for better foundations. So put your thinking cap on and help us push the field forward. <a href="/infovis-theory-workshop">Submit your position statement!</a>
 
 <hr />
 

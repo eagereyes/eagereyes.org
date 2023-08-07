@@ -38,7 +38,7 @@ By choosing 50% as the maximum on the axis, he points out what is missing. At th
 
 I also like Gagnon’s layout much better than the original (though I have some issues with his axis labeling). This is a much clearer graphic, because it leads you through the data, rather than hitting you over the head with the giant red area chart.
 
-The only thing that is still bugging me is the pretense that the percentage actually means anything. 4% of 500 CEOs is 20 women. Why not show them as little stacked <a title="Women in IT – Squaring the Pie?" href="http://eagereyes.org/techniques/square-pie-charts">squares</a> or <a title="The ISOTYPE" href="http://eagereyes.org/techniques/isotype">figures</a> or similar, so you can actually count the number? Given how small that is, and how much of a difference each new female CEO makes, I think that would create a clearer image of what is actually going on. The Reuters story the original graphic appeared in was triggered by a single new female CEO, after all: Mary Barra of General Motors.
+The only thing that is still bugging me is the pretense that the percentage actually means anything. 4% of 500 CEOs is 20 women. Why not show them as little stacked <a title="Women in IT – Squaring the Pie?" href="/techniques/square-pie-charts">squares</a> or <a title="The ISOTYPE" href="/techniques/isotype">figures</a> or similar, so you can actually count the number? Given how small that is, and how much of a difference each new female CEO makes, I think that would create a clearer image of what is actually going on. The Reuters story the original graphic appeared in was triggered by a single new female CEO, after all: Mary Barra of General Motors.
 
 ## Analysis vs. Presentation
 

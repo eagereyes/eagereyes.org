@@ -13,7 +13,7 @@ Programming languages use words and symbols to represent structures like blocks 
 
 The structure of programs is sometimes shown using flow charts: decisions create branches, repetitions can be seen by arrows that point back, etc. Flow charts are an adequate representation of assembly language programs, but they're a poor fit for the structured, high-level programming languages almost everybody has been using for many decades now.
 
-In <a href="http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/1973.pdf">a paper published in 1973</a>, Isaac Nassi and <a href="https://eagereyes.org/influences/ben-shneiderman">Ben Shneiderman</a> described the idea for a more structured visual approach. Their diagrams are sometimes called <em>structured flowcharts</em>, but are much more commonly known as <em>Nassi-Shneiderman diagrams.</em>
+In <a href="http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/1973.pdf">a paper published in 1973</a>, Isaac Nassi and <a href="/influences/ben-shneiderman">Ben Shneiderman</a> described the idea for a more structured visual approach. Their diagrams are sometimes called <em>structured flowcharts</em>, but are much more commonly known as <em>Nassi-Shneiderman diagrams.</em>
 
 For some reason, they caught on much more in the German-speaking world than in the U.S. or elsewhere. I remember being taught the diagrams, and how they were much better suited for structured programming than flowcharts, in high school. As a teenager, I drew a good number of these diagrams of sorting algorithms (in particular the confusing <em>QuickSort</em>) to figure out how they worked.
 

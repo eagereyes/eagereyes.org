@@ -170,7 +170,7 @@ _Posted by <a href="/about">Robert Kosara</a> on October 27, 2013_
 >	3418 Balfour East
 >	Durham, North Carolina 27713
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Theresa-Marie,
 >	
 >	I was not talking about Greg Nielson or the vis pioneers when I was talking about people retiring. I just threw those things together because they both show the immense change in the field. I've seen fields where the same people have been running the main conference for 40 years, and believe me, you don't want that. I'm well aware of Greg Nielson's and many others' contributions to the field (I know my way around SciVis!), and Greg's role in starting the conference in the first place!
@@ -188,7 +188,7 @@ _Posted by <a href="/about">Robert Kosara</a> on October 27, 2013_
 >	
 >	Smiles.... Theresa-Marie
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Okay, I've changed it to use his name instead. I wasn't sure who had asked, so I kept it vague.
 
 <a href="http://theresamarierhyne.com/Theresa-Marie_Rhynes_Viewpoint/Welcome.html" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…

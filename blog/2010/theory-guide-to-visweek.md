@@ -22,7 +22,7 @@ There will also be some theory topics in the doctoral colloquium, but since that
 
 ## Monday
 
-Things get serious on Monday morning with the workshop <em><a href="http://eagereyes.org/infovis-theory-workshop">The Role of Theory in Information Visualization</a></em>. If you care about theory at all, you can't miss that one.
+Things get serious on Monday morning with the workshop <em><a href="/infovis-theory-workshop">The Role of Theory in Information Visualization</a></em>. If you care about theory at all, you can't miss that one.
 
 Monday afternoon is a bit of a theory desert, but Chris Weaver's paper in the <em><a href="http://vis.computer.org/VisWeek2010/vast/sessions_papers.html#Space,%20Time,%20and%20Multivariate%20Analytics" target="_blank">first afternoon session of VAST</a></em> promises to be interesting — as do some of the other papers, so I'd suggest to stick with VAST on Monday afternoon.
 
@@ -44,7 +44,7 @@ To get a bit of variety into this day, you might want to then switch to the vis 
 
 ## Thursday
 
-Okay, I might be biased here. But the two sessions you absolutely have to attend in the morning are <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Perception%20and%20Cognition" target="_blank">Perception and Cognition</a></em> (featuring our <a href="http://eagereyes.org/papers/2010/laws-of-attraction">paper on the laws of attraction</a>) and then <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Multi-dimensional%20Visualization" target="_blank">Multi-dimensional Visualizaton</a></em> (to learn <a href="http://eagereyes.org/papers/2010/pargnostics">everything about Pargnostics</a>).
+Okay, I might be biased here. But the two sessions you absolutely have to attend in the morning are <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Perception%20and%20Cognition" target="_blank">Perception and Cognition</a></em> (featuring our <a href="/papers/2010/laws-of-attraction">paper on the laws of attraction</a>) and then <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Multi-dimensional%20Visualization" target="_blank">Multi-dimensional Visualizaton</a></em> (to learn <a href="/papers/2010/pargnostics">everything about Pargnostics</a>).
 
 The first afternoon session on <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Graph%20Visualization" target="_blank">Graph Visualization</a></em> should be theoretical enough for most tastes.
 

@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-t
 
 # Seminal InfoVis Paper: Treisman, Preattentive Processing
 
-A paper on a specific cognitive mechanism may seems like an odd choice as the first paper <a href="https://eagereyes.org/section/seminal-papers">in this series</a>, but it is the one that sparked the idea for it. It is also the one that has its 30th birthday this year, having been published in August 1985. And it is an important paper, and could play an even bigger role in visualization if properly understood and used.
+A paper on a specific cognitive mechanism may seems like an odd choice as the first paper <a href="/section/seminal-papers">in this series</a>, but it is the one that sparked the idea for it. It is also the one that has its 30th birthday this year, having been published in August 1985. And it is an important paper, and could play an even bigger role in visualization if properly understood and used.
 
 ## Preattentive Processing in Vision
 

@@ -12,7 +12,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king
 
 Much of academic work is focused on writing papers. This doesn't just include the work that goes into&nbsp;the research and the writing, but also strategy –&nbsp;beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.
 
-It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of <a href="https://eagereyes.org/publications/Dasgupta-EuroVis-2015.html">a paper</a> we had&nbsp;first submitted to EuroVis 2012, which then went through several different journals and conferences,&nbsp;to finally end up at EuroVis 2015.&nbsp;That somebody would openly talk about that seemed to surprise people.
+It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of <a href="/publications/Dasgupta-EuroVis-2015.html">a paper</a> we had&nbsp;first submitted to EuroVis 2012, which then went through several different journals and conferences,&nbsp;to finally end up at EuroVis 2015.&nbsp;That somebody would openly talk about that seemed to surprise people.
 
 So here's more of that. Two stories of pairs of papers, one that didn't work and one that did.
 
@@ -20,7 +20,7 @@ So here's more of that. Two stories of pairs of papers, one that didn't work and
 
 In December 2014, we sent to papers to EuroVis 2015. They were both about the connected scatterplot, and since we (well, mostly I) felt that we had more than would fit into one paper, we played a little game: submit two papers that reference each other, and include the respective other paper as supplemental material for each. This mostly backfired, as some reviewers then ended up liking the other paper better than the one they were supposed to review.&nbsp;One of the two also ended up being a bit thin. We did have more than could fit one paper, but not quite enough for two.
 
-We then turned that back into one paper for InfoVis. This worked out well, because the InfoVis template is a bit more space-efficient, so you can fit in a bit more material.&nbsp;We had to drop a few things of course, but those were the weaker parts. That paper got rejected, but it ended up <a href="https://eagereyes.org/papers/the-connected-scatterplot-for-presenting-paired-time-series">getting accepted soon after for TVCG</a>.
+We then turned that back into one paper for InfoVis. This worked out well, because the InfoVis template is a bit more space-efficient, so you can fit in a bit more material.&nbsp;We had to drop a few things of course, but those were the weaker parts. That paper got rejected, but it ended up <a href="/papers/the-connected-scatterplot-for-presenting-paired-time-series">getting accepted soon after for TVCG</a>.
 
 The lesson from this is that the two-paper strategy is dangerous.&nbsp;We told the papers chairs about the linked papers, which all but ensured that if one paper got rejected, both would be. This could perhaps have been played better, but I'd rather be upfront about these sorts of things. They would have figured it&nbsp;out anyway.
 

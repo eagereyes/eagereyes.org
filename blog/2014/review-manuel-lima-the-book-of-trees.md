@@ -16,7 +16,7 @@ Trees. They’re everywhere. And not just in the physical world, but in data vis
 
 This review is an example of priming. The first time I learned of the book was when Ben Shneiderman mentioned it to me as we talked at IEEE VIS in Atlanta last year. In our conversation, he referred to it as “a coffee-table book.” I don’t think he did this on purpose, but that did set my expectations.
 
-There are many similarities between <em>The Book of Trees</em> and Lima’s previous book, <em>Visual Complexity</em>, which <a href="http://eagereyes.org/criticism/review-visualize-visual-complexity-science-magazine">I reviewed for <em>Science</em> two years ago</a> . The major difference is that Lima doesn’t attempt the same taxonomy he did in <em>Visual Complexity</em>, and which ended up being mostly disappointing. There are also no over-the-top endorsements on the back of the book that promise way too much. The result is a book that feels more coherent and complete.
+There are many similarities between <em>The Book of Trees</em> and Lima’s previous book, <em>Visual Complexity</em>, which <a href="/criticism/review-visualize-visual-complexity-science-magazine">I reviewed for <em>Science</em> two years ago</a> . The major difference is that Lima doesn’t attempt the same taxonomy he did in <em>Visual Complexity</em>, and which ended up being mostly disappointing. There are also no over-the-top endorsements on the back of the book that promise way too much. The result is a book that feels more coherent and complete.
 
 ## Beyond The Coffee Table
 
@@ -44,7 +44,7 @@ In addition to the introduction, there are eleven chapters talking about differe
     <li><strong>Icicle Trees</strong>. Icicle trees are clearly more useful than sunbursts, since they are easier to label and navigate than the circular sunbursts. The latter are also arguably just icicles laid out in a circle. It's kind of difficult to compete with the treemap, so these last two chapters feel a bit forlorn.</li>
 </ul>
 
-Each chapter has a little diagram showing how the type of visualization is constructed for a tree with one, two, and three levels. This is surprisingly effective, and similar to some of the illustrations in <a href="http://eagereyes.org/criticism/review-isabel-meirelles-design-information">Isabel Meirelles’ book</a>.
+Each chapter has a little diagram showing how the type of visualization is constructed for a tree with one, two, and three levels. This is surprisingly effective, and similar to some of the illustrations in <a href="/criticism/review-isabel-meirelles-design-information">Isabel Meirelles’ book</a>.
 
 ## What’s Missing
 

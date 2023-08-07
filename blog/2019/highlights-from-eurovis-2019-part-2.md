@@ -24,7 +24,7 @@ Tools that help people build visualizations typically just show the chart and ma
 
 To make aggregations like average, median, etc., easier to understand, <a href="https://idl.cs.washington.edu/papers/animated-aggregate-operations"><em>Designing Animated Transitions to Convey Aggregate Operations</em> by Younghoon Kim, Michael Correll, and Jeffrey Heer</a> developed a set of animations to both explain the aggregations and make it easier to tell them apart (i.e., did you pick the one you wanted). Some of these are easier to create and more obvious (e.g., max) than others (median). The more obvious ones were preferred by their study participants, but there was a wide range of people’s preferences when it came to whether they liked basic or elaborate animations.
 
-For <a href="http://idl.cs.washington.edu/papers/idyll-analytics/"><em>Capture and Analysis of Active Reading Behaviors for Interactive Articles on the Web</em>, Matthew Conlen, Alex Kale, and Jeffrey Heer</a> developed a plugin to instrument online articles to see how people actually read interactive and <a href="https://eagereyes.org/blog/2016/the-scrollytelling-scourge">scrollytelling</a> stories. Among the interesting behaviors they found was that people often scroll through a piece quickly to decide whether to actually go through it in detail or bounce (which makes a lot of sense to me, I do that too).
+For <a href="http://idl.cs.washington.edu/papers/idyll-analytics/"><em>Capture and Analysis of Active Reading Behaviors for Interactive Articles on the Web</em>, Matthew Conlen, Alex Kale, and Jeffrey Heer</a> developed a plugin to instrument online articles to see how people actually read interactive and <a href="/blog/2016/the-scrollytelling-scourge">scrollytelling</a> stories. Among the interesting behaviors they found was that people often scroll through a piece quickly to decide whether to actually go through it in detail or bounce (which makes a lot of sense to me, I do that too).
 
 ## Closing, Capstone, Next Year
 
@@ -42,7 +42,7 @@ Next year’s conference will take place May 25–29 in Norrköping, Sweden. The
 
 While I appreciate Anders Ynnerman’s enthusiasm for the concept, I’m not sure there really is all that much overlap between the graphics and visualization communities, at least in information visualization. The scientific visualization folks might find they have more in common. But then, this could be a good way to inspire some interesting and unexpected new work if they can get the attendees of the two conferences to mix.
 
-While I griped at some length in <a href="https://eagereyes.org/blog/2019/highlights-from-eurovis-2019-part-1">the first part</a> about the conference program this year feeling a bit thin, I clearly did find enough to write about to fill two posts.
+While I griped at some length in <a href="/blog/2019/highlights-from-eurovis-2019-part-1">the first part</a> about the conference program this year feeling a bit thin, I clearly did find enough to write about to fill two posts.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 02, 2019_

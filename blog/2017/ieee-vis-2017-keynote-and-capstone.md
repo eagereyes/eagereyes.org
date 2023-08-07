@@ -22,7 +22,7 @@ Science keynotes can be hit or miss, and this one was more of the latter, unfort
 
 ## Capstone: Giorgia Lupi, Data Humanism – The Revolution will be Visualized
 
-The capstone talk on Friday was the opposite of the keynote in many respects. <a href="http://giorgialupi.com">Giorgia Lupi</a>’s talk was fun and engaging, and got her a lot of applause not just at the end, but also a few times during the talk. She covered many of her projects, including <a href="http://friendsinspace.org">Friends in Space</a>, <a href="http://www.worldpotus.com">World POTUS</a>, and of course <a href="http://www.dear-data.com">Dear Data</a> (also previously covered <a href="https://eagereyes.org/blog/2016/review-lupi-posavec-dear-data">in this fine publication</a>).
+The capstone talk on Friday was the opposite of the keynote in many respects. <a href="http://giorgialupi.com">Giorgia Lupi</a>’s talk was fun and engaging, and got her a lot of applause not just at the end, but also a few times during the talk. She covered many of her projects, including <a href="http://friendsinspace.org">Friends in Space</a>, <a href="http://www.worldpotus.com">World POTUS</a>, and of course <a href="http://www.dear-data.com">Dear Data</a> (also previously covered <a href="/blog/2016/review-lupi-posavec-dear-data">in this fine publication</a>).
 
 Among her latest projects are a show about fashion at MoMA, for which she created <a href="https://medium.com/@giorgialupi/data-items-exploring-the-power-and-depth-of-soft-data-for-the-museum-of-modern-art-e5f40a82943">a data sketch</a> – except there was no data. She collected her own from the curator’s research notes and talking to her, and then turned that into a wall-sized drawing.
 
@@ -42,10 +42,10 @@ Giorgia has written up many of the ideas she talked about in her piece on what s
 See also:
 
 <ul>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
-    <li><a href="https://eagereyes.org/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">Best Papers and Other Awards</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
+    <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
 
 

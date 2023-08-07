@@ -25,7 +25,7 @@ Anything that does not serve the basic function of a watch, user interface, or v
 
 In a watch, it's clear what its central function is. That is often not nearly as clear in an application or a visualization. But thinking about it in terms of complications might help: if I remove this element/button/label/data series, does it still work? If it does, do I still want to keep the element?
 
-This is similar to the idea that design is about reducing things to their minimal functional and aesthetic core. Thinking of design elements as complications rather than in strict terms like <a href="https://eagereyes.org/blog/2013/definition-chart-junk">the data-ink ratio</a> turns the question from a supposed rule to one of figuring out the  trade-offs. And those can be quite different depending on the goals and the context. A useless item in one might be crucial to understanding a piece or engage an audience in another.
+This is similar to the idea that design is about reducing things to their minimal functional and aesthetic core. Thinking of design elements as complications rather than in strict terms like <a href="/blog/2013/definition-chart-junk">the data-ink ratio</a> turns the question from a supposed rule to one of figuring out the  trade-offs. And those can be quite different depending on the goals and the context. A useless item in one might be crucial to understanding a piece or engage an audience in another.
 
 <em>Complications</em> as a concept is nice because it opens up a conversation. It moves us beyond supposedly strict and straightforward rules that seem to be set in stone. Many things are more complicated than that.
 

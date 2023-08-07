@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/storypoint
 
 # Story Points
 
-I consider presentation and storytelling <a href="http://eagereyes.org/papers/paper-storytelling-step-visualization">the next step in visualization</a>, after most of the focus has been on exploration and analysis so far. An upcoming version of Tableau will include a feature called Story Points, which supports presentation directly in the visualization tool.
+I consider presentation and storytelling <a href="/papers/paper-storytelling-step-visualization">the next step in visualization</a>, after most of the focus has been on exploration and analysis so far. An upcoming version of Tableau will include a feature called Story Points, which supports presentation directly in the visualization tool.
 
 ## A Story
 
@@ -32,11 +32,11 @@ The user interface is very simple and straightforward, and essentially consists 
 
 Don’t need a point, or don’t like the order? Story points can be rearranged by simply dragging and dropping them, and there is a little delete button when you hover over the point in the navigator at the top. The caption for a point can also be changed at any time without needing to capture again.
 
-The way this works is similar to <a href="http://eagereyes.org/blog/2013/ged-viz-data-storytelling-tool">GEDViz</a>, only based on a much more powerful visualization tool. GEDViz and Tableau are actually nice complements, since Tableau doesn’t do network diagrams right now.
+The way this works is similar to <a href="/blog/2013/ged-viz-data-storytelling-tool">GEDViz</a>, only based on a much more powerful visualization tool. GEDViz and Tableau are actually nice complements, since Tableau doesn’t do network diagrams right now.
 
 ## Usage Scenarios
 
-Story points are meant to cover all the usage scenarios Jock Mackinlay and I laid out <a href="http://eagereyes.org/papers/paper-storytelling-step-visualization">in our storytelling paper earlier this year</a>: presentation in front of an audience or colleagues, as well as people clicking through a prepared set of points on a web site.
+Story points are meant to cover all the usage scenarios Jock Mackinlay and I laid out <a href="/papers/paper-storytelling-step-visualization">in our storytelling paper earlier this year</a>: presentation in front of an audience or colleagues, as well as people clicking through a prepared set of points on a web site.
 
 In addition, they will undoubtedly be useful to provide an introduction to people you send a workbook to. It can be hard to get started with new data, so including a little guided tour through the most important points should be very useful to get somebody started.
 
@@ -44,7 +44,7 @@ When story points are released in Tableau 8.2 early next year, they will be avai
 
 ## Reception
 
-What surprised me <a href="http://eagereyes.org/blog/2013/watch-tcc-keynote-live-monday">when I demoed the feature at TCC</a> was the response from corporate users. I thought that some might like it, but that many would be skeptical about what they would do with this. But it turns out that presentation is a real pain point. Many people export images from Tableau to PowerPoint for presentation, but then of course can’t interact with those in their presentations. Having the actual program running means you can answer questions right there.
+What surprised me <a href="/blog/2013/watch-tcc-keynote-live-monday">when I demoed the feature at TCC</a> was the response from corporate users. I thought that some might like it, but that many would be skeptical about what they would do with this. But it turns out that presentation is a real pain point. Many people export images from Tableau to PowerPoint for presentation, but then of course can’t interact with those in their presentations. Having the actual program running means you can answer questions right there.
 
 https://twitter.com/JonBoeckenstedt/status/377147325346750464
 

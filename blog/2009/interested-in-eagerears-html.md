@@ -17,7 +17,7 @@ So there are some strings attached here, I will not simply hand the domain over.
 
 It's very easy to register a domain, but there is no simple way to discard it. While I can jump through some hoops to get it deleted, it will almost certainly be picked up by a spammer. So I'd rather try to find somebody who can put it to some use, and maybe even help get an interesting website started.
 
-So if you are interested, <a href="http://eagereyes.org/contact">contact me</a>, and we'll discuss this via email.
+So if you are interested, <a href="/contact">contact me</a>, and we'll discuss this via email.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 02, 2009_

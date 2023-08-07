@@ -16,7 +16,7 @@ A potpourri isn't usually structured, since it's supposed to be thrown together 
 
 A traditional blog post is by no means the only way to share a conference report: Matt Brehmer made <a href="https://storify.com/mattbrehmer/highlights-from-ieee-vis-2017"><strong>a lively </strong></a><strong>'<a href="https://storify.com/mattbrehmer/highlights-from-ieee-vis-2017">Highlights from IEEE VIS 2017'-story</a></strong> on Storify to share his personal highlights and takeaways by integrating tweets. It's great to see more conference reports that paint a broader picture of the event both for attendees and those that could not make it to VIS.
 
-In addition to <a href="https://eagereyes.org/blog/2017/ieee-vis-2017-a-scivis-perspective">her SciVis perspective on VIS here</a>, Noeska has written up some <strong><a href="http://noeskasmit.com/ieee-vis-2017-conference-report/">more thoughts on the VIS conference</a></strong>. She talks about tutorials, the blogging meetup we ran together (I being Robert), and a few more things.
+In addition to <a href="/blog/2017/ieee-vis-2017-a-scivis-perspective">her SciVis perspective on VIS here</a>, Noeska has written up some <strong><a href="http://noeskasmit.com/ieee-vis-2017-conference-report/">more thoughts on the VIS conference</a></strong>. She talks about tutorials, the blogging meetup we ran together (I being Robert), and a few more things.
 
 Ming Yao wrote up yet another perspective on VIS, in <strong><a href="http://blog.myaooo.com/vis2017/">his conference report focusing mainly on Machine Learning-related events and talks</a></strong> (most of which Robert missed).
 
@@ -36,7 +36,7 @@ If you're a fan of the tv series <em>Archer</em>, head over to the aptly titled
 
 <hr />
 
-<a href="https://eagereyes.org/section/vis-potpourri">Vis Potpourri</a> is a monthly series, put together in collaboration with <a href="http://noeskasmit.com/about/">Noeska Smit</a>.
+<a href="/section/vis-potpourri">Vis Potpourri</a> is a monthly series, put together in collaboration with <a href="http://noeskasmit.com/about/">Noeska Smit</a>.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 25, 2017_

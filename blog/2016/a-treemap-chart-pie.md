@@ -9,7 +9,7 @@ outline: false
 
 # A Treemap Chart Pie
 
-After <a href="https://eagereyes.org/blog/2016/ben-shneidermans-chart-pies">his recent early chart pie attempts</a>, Ben Shneiderman has now achieved the ultimate in chart pie baking: a treemap chart pie. 
+After <a href="/blog/2016/ben-shneidermans-chart-pies">his recent early chart pie attempts</a>, Ben Shneiderman has now achieved the ultimate in chart pie baking: a treemap chart pie. 
 
 In case you're wondering about the significance of this momentous achievement: <a href="http://www.cs.umd.edu/hcil/treemap-history/">treemaps were Ben's idea</a>.
 

@@ -32,7 +32,7 @@ Michael Sedlmair and Michaël Aupetit started things off with <em>Data-driven Ev
 
 Sebastian Mittelstädt and Daniel Keim looked into <em>Efficient Contrast Effect Compensation with Personalized Perception Models</em>. Their goal is to enhance the contrast of visualizations after the fact. To do that, they run a model of color contrast on the GPU, which makes things considerably faster than other methods. They are able to personalize the model to the person and the device used with just four sets of two sliders.
 
-I’ve mentioned our paper <em><a href="https://eagereyes.org/papers/evaluation-of-the-impact-of-visual-embellishments-in-bar-charts">An Evaluation of the Impact of Visual Embellishments in Bar Charts</a></em> before, but this is where it was presented, and it fit in very nicely.
+I’ve mentioned our paper <em><a href="/papers/evaluation-of-the-impact-of-visual-embellishments-in-bar-charts">An Evaluation of the Impact of Visual Embellishments in Bar Charts</a></em> before, but this is where it was presented, and it fit in very nicely.
 
 My favorite of the session was <em><a href="http://j.mp/datasketching">An Exploratory Study of Data Sketching for Visual Representation</a></em> by Jagoda Walny, Samuel Huron, and Sheelagh Carpendale. Instead of letting computers have all the fun, they present a dataset to students who then sketch that data on paper with colored pencils. The results are very interesting and they found a number of different strategies. The paper received a best paper honorable mention (it was the runner-up), which it clearly deserved.
 

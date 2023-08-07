@@ -11,7 +11,7 @@ outline: false
 
 How do you make people not just see numbers when looking at a chart, but feel something? This chart of the number of deaths during the Iraq war has always given me a visceral response like no other, and it’s still as powerful as when it was made almost ten years ago. So I made a chart appreciation video to explain what I think is so great about it.
 
-I’ve <a href="https://eagereyes.org/journalism/when-bars-point-down" data-type="post" data-id="8206">written about this chart and other downward-pointing bar charts before</a>, but I’ve put a lot of effort into explaining why this is such a great chart in this video. I also talk about recent (accepted but not yet technically published) <a href="https://osf.io/wj8k2/">research that shows that aligning the chart direction with the emotional valence </a>(good or bad) of the chart topic actually helps people read them.
+I’ve <a href="/journalism/when-bars-point-down" data-type="post" data-id="8206">written about this chart and other downward-pointing bar charts before</a>, but I’ve put a lot of effort into explaining why this is such a great chart in this video. I also talk about recent (accepted but not yet technically published) <a href="https://osf.io/wj8k2/">research that shows that aligning the chart direction with the emotional valence </a>(good or bad) of the chart topic actually helps people read them.
 
 Part of the reason for making these videos has always been that I wanted to show things the way I saw them. This piece in particular is extremely vivid to me, and I hope that my little animations bring it to life for people who might not otherwise be as impressed as I am.
 

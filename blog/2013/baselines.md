@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/04/baseline-c
 
 One of the most common mistakes people make when creating charts is to cut off the vertical axis. But why is that a problem? And what can you do when you need to show data where the amount of change is small compared to the absolute values?
 
-When we think of <a title="Data: Continuous vs. Categorical" href="http://eagereyes.org/basics/data-continuous-vs-categorical">continuous data</a>, we almost always think of values that have a meaningful zero. There is no question what an amount of money is measured from, we understand the meaning of zero money. The same is true for most other things: length, weight, volume, etc. all have an obvious zero. It doesn’t matter what unit you use, zero meters is zero feet is zero furlongs is zero lightyears.
+When we think of <a title="Data: Continuous vs. Categorical" href="/basics/data-continuous-vs-categorical">continuous data</a>, we almost always think of values that have a meaningful zero. There is no question what an amount of money is measured from, we understand the meaning of zero money. The same is true for most other things: length, weight, volume, etc. all have an obvious zero. It doesn’t matter what unit you use, zero meters is zero feet is zero furlongs is zero lightyears.
 
 As a consequence, we can think in terms of multiples, without even caring about units. Something being twice as heavy as something else is meaningful independently of whether you weigh using pounds or kilograms, and something is twice expensive whether you pay in Euros or Dollars or Yen.
 

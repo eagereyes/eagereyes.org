@@ -13,7 +13,7 @@ Visual.ly is hosting <a href="http://blog.visual.ly/data-visualization-and-journ
 
 <p align="center"><img class="aligncenter size-full wp-image-2617" alt="DVnJ" src="https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg" width="600" height="437" /></p>
 
-I will be talking about my research on storytelling and where I see visualization going in journalism. Given the audience, The new Story Points feature <a title="Watch the TCC Keynote Live on Monday" href="http://eagereyes.org/blog/2013/watch-tcc-keynote-live-monday">we just announced for Tableau 8.2</a> will also be part of my talk.
+I will be talking about my research on storytelling and where I see visualization going in journalism. Given the audience, The new Story Points feature <a title="Watch the TCC Keynote Live on Monday" href="/blog/2013/watch-tcc-keynote-live-monday">we just announced for Tableau 8.2</a> will also be part of my talk.
 
 The other speakers are Augustin Armendariz and Michael Corey from the <a href="http://cironline.org/"><em>Center for Investigative Reporting</em></a>, as well as Aleksandra Todorova and Jess Bachmann from <a href="http://visual.ly/">Visual.ly</a>.
 

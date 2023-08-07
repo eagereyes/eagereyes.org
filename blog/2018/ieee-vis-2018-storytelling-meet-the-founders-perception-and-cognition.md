@@ -8,11 +8,11 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/litvis.jpg
 
 # IEEE VIS 2018, Part 3: New Approaches, Meet the Founders, Perception and Cognition
 
-The final report from VIS 2018 (see previously <a href="https://eagereyes.org/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">here</a> and <a href="https://eagereyes.org/blog/2018/ieee-vis-2018-time-evaluation-dashboards-the-future-of-vis">here</a>) again covers papers, papers, and more papers. There are new ways to specify visualizations, a panel, perception research, as well as new work on how to deal with uncertainty in data.
+The final report from VIS 2018 (see previously <a href="/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">here</a> and <a href="/blog/2018/ieee-vis-2018-time-evaluation-dashboards-the-future-of-vis">here</a>) again covers papers, papers, and more papers. There are new ways to specify visualizations, a panel, perception research, as well as new work on how to deal with uncertainty in data.
 
 ## New Ways to Make Charts
 
-How to best specify visualizations is still an open question, and one that hasn't gotten a lot of attention in recent years. This year saw quite a bit of activity in this area though, with Draco (<a href="https://eagereyes.org/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">mentioned earlier</a>) and the following two approaches.
+How to best specify visualizations is still an open question, and one that hasn't gotten a lot of attention in recent years. This year saw quite a bit of activity in this area though, with Draco (<a href="/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">mentioned earlier</a>) and the following two approaches.
 
 <a href="https://www.microsoft.com/en-us/research/publication/charticulator-interactive-construction-of-bespoke-chart-layouts-2/"><em>Charticulator: Interactive Construction of Bespoke Chart Layouts</em></a> by Donghao Ren, Bongshin Lee, and Matthew Brehmer presents an interesting new approach to creating visualizations: you pick a shape and map data fields to its properties. This is unlike most existing tools, but similar in principle to (though different in many details from) <a href="http://data-illustrator.com">Data Illustrator</a>. Like it,&nbsp;<a href="http://charticulator.com">Charticulator</a> is also available online to play with.
 

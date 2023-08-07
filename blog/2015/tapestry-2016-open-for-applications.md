@@ -24,7 +24,7 @@ We also like to pick unusual and topical venues. Next year’s is a doozy: The 
 
 The format of the conference includes three hour-long keynotes, six <em>short stories</em>, as well as a demo session and ample time for socializing and discussions.
 
-Our first speaker at the 2016 conference will be <a href="http://www.propublica.org/site/author/scott_klein">Scott Klein</a>, Assistant Managing Editor at <em>ProPublica</em>. Scott has a lot of experience in building incredible news applications, and has won many awards for his work. He is also a history buff, interested in the way data has was used for finding and reporting stories long before computers. I <a href="https://eagereyes.org/link/data-journalism-in-the-19th-century">linked to his incredible piece on Horace Greeley</a> a while ago, and I expect him to discuss a variety of interesting and colorful characters and examples.
+Our first speaker at the 2016 conference will be <a href="http://www.propublica.org/site/author/scott_klein">Scott Klein</a>, Assistant Managing Editor at <em>ProPublica</em>. Scott has a lot of experience in building incredible news applications, and has won many awards for his work. He is also a history buff, interested in the way data has was used for finding and reporting stories long before computers. I <a href="/link/data-journalism-in-the-19th-century">linked to his incredible piece on Horace Greeley</a> a while ago, and I expect him to discuss a variety of interesting and colorful characters and examples.
 
 <a href="http://faculty.washington.edu/jhullman/">Jessica Hullman</a> is a professor at University of Washington’s iSchool. She has done some groundbreaking work exploring the use of data visualization for narrative, in particular on visual rhetoric and sequence in data stories. Her work on the potential usefulness of visual difficulties has also generated a lot of interest and discussion. I don’t know much about her planned talk yet, but I’m sure it will be thought-provoking and interesting.
 
@@ -34,7 +34,7 @@ Nick Sousanis is a post-doc at the University of Calgary, and the author of the 
 
 An important part of Tapestry are the breaks and happy hours. We have a reception the night before the actual conference, which helps break the ice and get people acquainted so there is more interaction during the actual event. We also have generous breaks and a happy hour after all the talks. The latter is mainly for the people who are staying the night and not taking off to go to NICAR (we provide transportation for those who do).
 
-Need more details and only trust what’s written in peer-reviewed journals? I wrote a <a href="https://eagereyes.org/link/cga-article-on-tapestry">CG&amp;A <em>Vis Viewpoints</em> article on Tapestry</a> earlier this year.
+Need more details and only trust what’s written in peer-reviewed journals? I wrote a <a href="/link/cga-article-on-tapestry">CG&amp;A <em>Vis Viewpoints</em> article on Tapestry</a> earlier this year.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on November 15, 2015_

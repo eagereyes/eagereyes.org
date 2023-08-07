@@ -13,7 +13,7 @@ outline: false
 
 I'm organizing a very informal running club at <a href="http://www.eurovis2015.it/">EuroVis</a> next week. If you're attending the conference, don't forget to bring your running shoes and leave your excuses at home.
 
-This is even less organized than than the <a href="https://eagereyes.org/blog/2014/vis-2014-monday">VIS running club.</a> I'm not going to have you fill out a form. Instead, just drop me an email (rkosara at my <a href="http://tableau.com/">employer's domain</a> or use the <a href="https://eagereyes.org/contact">contact form</a>) if you're interested in joining. This is just so I can send out information about the secret meeting place and time (most likely Monday morning at 7am in the conference hotel lobby).
+This is even less organized than than the <a href="/blog/2014/vis-2014-monday">VIS running club.</a> I'm not going to have you fill out a form. Instead, just drop me an email (rkosara at my <a href="http://tableau.com/">employer's domain</a> or use the <a href="/contact">contact form</a>) if you're interested in joining. This is just so I can send out information about the secret meeting place and time (most likely Monday morning at 7am in the conference hotel lobby).
 
 We'll aim for about 30-40 mins, for a distance of about 5-8km (3-5mi). Pace will depend on who's there and how fast they want to go. Don't be shy about wanting to go slow, we won't be turning this into a race. The first run will be Monday, and then we'll figure out what to do from there (probably Wednesday and Friday, plus potentially something longer Friday afternoon or Saturday).
 

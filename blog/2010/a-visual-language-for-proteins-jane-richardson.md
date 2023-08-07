@@ -23,7 +23,7 @@ There are three distinct structures in a protein: <em>alpha-helices</em> (spiral
 
 Jane Richardson's contribution was finding a visual way of representing these components of proteins. Her <a href="http://en.wikipedia.org/wiki/Ribbon_diagram">ribbon diagrams</a> simplify the structure of the protein, and at the same time focus on the important parts.  These diagrams were hand-drawn at first; today, any program that shows proteins includes this style of showing them, they are used in textbooks, etc.
 
-I <a href="http://eagereyes.org/blog/2008/sightings-structures-smaller-than-light.html">interviewed Richardson</a> for the <em>Sightings</em> column in <em>American Scientist</em> a while ago. She is a professor at Duke University and still uses visual means (virtual reality, among them) for teaching and research to further our understanding of complex molecules.
+I <a href="/blog/2008/sightings-structures-smaller-than-light.html">interviewed Richardson</a> for the <em>Sightings</em> column in <em>American Scientist</em> a while ago. She is a professor at Duke University and still uses visual means (virtual reality, among them) for teaching and research to further our understanding of complex molecules.
 
 <hr>
 

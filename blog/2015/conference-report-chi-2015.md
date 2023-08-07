@@ -30,7 +30,7 @@ Several papers dealt with issues in information graphics, attempting to generate
 
 Another challenge is that there are commonly distortions to axes, etc. in the charts used in information graphics. Those are often considered to be bad, but do people actually get confused by them, or are they able to see through those? <em>How Deceptive are Deceptive Visualizations? An Empirical Analysis of Common Distortion Techniques</em> by Anshul Vikram Pandey, Katharina Rall, Margaret L Satterthwaite, Oded Nov, and Enrico Bertini reported on some experiments that showed that people actually misread the data, and just the way you’d expect. This means that it is possible to misdirect people’s understanding of data by choosing the kind of skewed representation that suits your purpose. There doesn’t appear to be a webpage for the paper, but <a href="http://fellinlovewithdata.com/research/deceptive-visualizations">Enrico Bertini has written about it in one of his rare blog postings</a>.
 
-Our paper, <em><a href="https://eagereyes.org/papers/isotype-visualization">ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs</a></em> is of course also worth a mention here. We looked at the ISOTYPE technique and found that is sometimes used in infographics as well, and found it to be quite effective (and never harmful) in presenting data.
+Our paper, <em><a href="/papers/isotype-visualization">ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs</a></em> is of course also worth a mention here. We looked at the ISOTYPE technique and found that is sometimes used in infographics as well, and found it to be quite effective (and never harmful) in presenting data.
 
 ## Storytelling
 

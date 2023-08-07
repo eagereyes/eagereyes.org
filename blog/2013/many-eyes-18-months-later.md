@@ -8,9 +8,9 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/09/many-eyes-
 
 # Another Look at Many Eyes, 18 Months Later
 
-In February of last year, I wrote <a href="http://eagereyes.org/criticism/quo-vadis-many-eyes">a posting based on some data I had scraped from Many Eyes</a>, and criticizing where I thought it was going (or not going). Here is an update, eighteen months later, of some of the things that have happened in the meantime, and some new data.
+In February of last year, I wrote <a href="/criticism/quo-vadis-many-eyes">a posting based on some data I had scraped from Many Eyes</a>, and criticizing where I thought it was going (or not going). Here is an update, eighteen months later, of some of the things that have happened in the meantime, and some new data.
 
-My interest in Many Eyes is not new. <a href="http://eagereyes.org/criticism/swivel-vs-many-eyes">I’ve followed them from the very beginning</a>, and I keep watching them because they were the pioneers of social, web-based visualization. But after the initial excitement and interesting work, there was a period of four years or so when nothing happened. I will not rehash the <a href="http://eagereyes.org/criticism/quo-vadis-many-eyes">points from my previous posting</a>, but some of them will come up below when I talk about what has changed, and what hasn’t.
+My interest in Many Eyes is not new. <a href="/criticism/swivel-vs-many-eyes">I’ve followed them from the very beginning</a>, and I keep watching them because they were the pioneers of social, web-based visualization. But after the initial excitement and interesting work, there was a period of four years or so when nothing happened. I will not rehash the <a href="/criticism/quo-vadis-many-eyes">points from my previous posting</a>, but some of them will come up below when I talk about what has changed, and what hasn’t.
 
 ## What Has Changed
 

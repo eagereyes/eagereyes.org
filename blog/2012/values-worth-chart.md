@@ -27,7 +27,7 @@ Then there’s the amount of additional data. Fung criticizes the chart for not 
 
 But that misses the point. Of course there are many signals around us that we don’t perceive, the overwhelming majority of which have zero relevance for us. That is even true for the near-visible light spectrum (ultraviolet and infrared) that various animals see and put to great use, and it continues from there into the more esoteric (x-rays, gamma radiation, etc.).
 
-The point, though, is to demonstrate how little of the world we see, whether there is something to be seen there or not. Without lots of machinery, we would not know. And because this is such a, well, blind spot, that we need to be reminded of it. That’s what this chart does. It makes us stop for a moment and consider. In that sense, it works like <a title="A Tale of Two Types of Visualization and Much Confusion" href="http://eagereyes.org/criticism/tale-of-two-types">artistic visualization</a>.
+The point, though, is to demonstrate how little of the world we see, whether there is something to be seen there or not. Without lots of machinery, we would not know. And because this is such a, well, blind spot, that we need to be reminded of it. That’s what this chart does. It makes us stop for a moment and consider. In that sense, it works like <a title="A Tale of Two Types of Visualization and Much Confusion" href="/criticism/tale-of-two-types">artistic visualization</a>.
 
 It’s a clever little image, and quite effective. Despite its simplicity, some good thinking went into its design. And even though its message can be summed up in a sentence or two, as Kaiser Fung points out, I think the image still makes for a much more impressive expression of that information than a few words would do.
 

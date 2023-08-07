@@ -12,11 +12,11 @@ Well, the world hasn’t ended, so here’s a look back at what happened in visu
 
 ## 2012: What Was
 
-Last year was an exciting one, at least for me. First <a href="http://eagereyes.org/blog/2012/hello-tableau-and-seattle">I started my sabbatical year at Tableau</a>, then <a href="http://eagereyes.org/blog/2012/goodbye-academia-hello-again-tableau">I decided to stay there</a>. I went to SxSW and <a href="http://eagereyes.org/journalism/malofiej-20">Malofiej</a>. I met a lot of smart people.
+Last year was an exciting one, at least for me. First <a href="/blog/2012/hello-tableau-and-seattle">I started my sabbatical year at Tableau</a>, then <a href="/blog/2012/goodbye-academia-hello-again-tableau">I decided to stay there</a>. I went to SxSW and <a href="/journalism/malofiej-20">Malofiej</a>. I met a lot of smart people.
 
-2012 was the year visualization in the news took off. Forget Flash and slideshows, the real breakthrough has been <a href="http://d3js.org/">D3</a> and its developer and champion, Mike Bostock. Alberto Cairo also <a href="http://eagereyes.org/criticism/review-alberto-cairo-functional-art">published his book</a>, and <a href="http://www.thefunctionalart.com/2012/11/second-intro-to-infographics-and-data.html">is teaching thousands of people how to turn data into interesting stories</a>.
+2012 was the year visualization in the news took off. Forget Flash and slideshows, the real breakthrough has been <a href="http://d3js.org/">D3</a> and its developer and champion, Mike Bostock. Alberto Cairo also <a href="/criticism/review-alberto-cairo-functional-art">published his book</a>, and <a href="http://www.thefunctionalart.com/2012/11/second-intro-to-infographics-and-data.html">is teaching thousands of people how to turn data into interesting stories</a>.
 
-And you know who called it a year ago? Hm? Who? <a href="http://eagereyes.org/blog/2012/state-information-visualization-2012">That’s right, this guy</a>:
+And you know who called it a year ago? Hm? Who? <a href="/blog/2012/state-information-visualization-2012">That’s right, this guy</a>:
 
 >	If you don’t believe that data journalism will be big in 2012, I have one word for you: U.S. Presidential Elections. Polls, primaries, more polls, ads, counter-ads, and then election night.
 
@@ -26,13 +26,13 @@ This marks a sea change not only in terms of interactivity on the web, but in ho
 
 ## 2013: What Will Be
 
-My predictions have at times been self-serving. I knew when I <a href="http://eagereyes.org/blog/2010/state-of-infovis-2010">predicted more theory work in 2010</a> that <a href="http://eagereyes.org/blog/2010/the-year-of-infovis-theory">I was going to be doing some of that</a> myself.
+My predictions have at times been self-serving. I knew when I <a href="/blog/2010/state-of-infovis-2010">predicted more theory work in 2010</a> that <a href="/blog/2010/the-year-of-infovis-theory">I was going to be doing some of that</a> myself.
 
 So this time, I will not just predict that storytelling in visualization will be big, but outright say that I have every intention of making that happen. I will be at <a href="http://computation-and-journalism.com/symposium2013/">Computation+Journalism (on a panel with Alberto Cairo)</a> in two weeks, then there’s <a href="http://www.tapestryconference.com">the Tapestry conference</a>, and right after I will be at <a href="http://ire.org/conferences/nicar-2013/">NICAR (on a panel with Amanda Cox)</a>. Jock Mackinlay and I also have a paper on storytelling coming out in the special issue on future research directions for visualization of <em>IEEE Computer</em> (May issue), and I have a few more things in the pipeline.
 
 Communicating data to people using visualization is an exciting and important direction for visualization, and one I deeply believe in. And with the growing availability of data, as well as journalists' increasing ability to build exciting and informative pieces (and the continuing need for good, accessible information), we will see a lot more interesting visualizations this year and in the years to come.
 
-In less self-centric future developments, Many Eyes is coming back! I know that IBM is rebuilding a new visualization group after shamefully neglecting and abandoning the one they had. They have finally come to their senses, perhaps after <a href="http://eagereyes.org/criticism/quo-vadis-many-eyes">some nudging from yours truly</a>, and are about to release a revamped version of Many Eyes. I believe the targeted release date is in March, if I’m not mistaken. Given some of the people involved, I’m cautiously optimistic.
+In less self-centric future developments, Many Eyes is coming back! I know that IBM is rebuilding a new visualization group after shamefully neglecting and abandoning the one they had. They have finally come to their senses, perhaps after <a href="/criticism/quo-vadis-many-eyes">some nudging from yours truly</a>, and are about to release a revamped version of Many Eyes. I believe the targeted release date is in March, if I’m not mistaken. Given some of the people involved, I’m cautiously optimistic.
 
 ## Beyond 2013
 
@@ -40,7 +40,7 @@ Maybe it’s my new perspective in my new job, but I’m starting to lose patien
 
 And I’m not talking about purely applied work, either. Look around who is currently killing it with visualization: newspapers. They’re where it’s at. Not academia. The most exciting work last year was done by people who mostly don’t even have advanced degrees; and yet they also publish or perish (see what I did there?). Academics should take note, <a href="http://cscheid.net/blog/how_many_visweek_papers_could_the_nyt_write_in_three_weeks_">and they should be scared</a>.
 
-If you think I’m ranting, wait until I unload my actual rant on the topic here soon. But this is not a new thing. I actually mentioned this <a href="http://eagereyes.org/blog/2012/state-information-visualization-2012">in last year’s posting</a>. Academic visualization research needs to stop messing around and figure out where the interesting work is happening, and get into the game.
+If you think I’m ranting, wait until I unload my actual rant on the topic here soon. But this is not a new thing. I actually mentioned this <a href="/blog/2012/state-information-visualization-2012">in last year’s posting</a>. Academic visualization research needs to stop messing around and figure out where the interesting work is happening, and get into the game.
 
 There is plenty of opportunity, too. <a href="http://biovis.net/">BioVis</a> is still up and coming, but it’s showing how application-specific work is done right. Graph visualization sucks. Interaction in visualization is mostly an afterthought, and terrible. Too much work is still tied to the idea that every individual data point needs to be shown, even if most questions are asked in terms of sets and subsets. And visualizing those isn’t exactly a done deal, either.
 
@@ -70,7 +70,7 @@ _Posted by <a href="/about">Robert Kosara</a> on January 21, 2013_
 >	
 >	Thank you for writing the article - it's a stimulating discussion.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	You make too many points to easily answer in a comment response, but I'll say some more about them in a coming posting. We agree on more things than it might seem. 
 >	
 >	I picked graph visualization and biovis as examples, there are many more. The thing about successful news graphics isn't just their aesthetics, but also the thought processes that go into them and the fact that they simply work extremely well. That is way beyond prettiness, it's about understanding the purpose of what is to be shown.

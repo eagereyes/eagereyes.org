@@ -11,7 +11,7 @@ outline: false
 
 # VIS Proceedings now in the January Issue of TVCG
 
-There has been a change in the way papers presented at <a href="https://eagereyes.org/tag/ieeevis">IEEE VIS</a> are published in the TVCG journal. It used to be the last issue of the year, but starting in 2015, it's now the January issue of the next year. So all VIS 2015 papers have a publication date of 2016.
+There has been a change in the way papers presented at <a href="/tag/ieeevis">IEEE VIS</a> are published in the TVCG journal. It used to be the last issue of the year, but starting in 2015, it's now the January issue of the next year. So all VIS 2015 papers have a publication date of 2016.
 
 This change has not exactly been publicized widely, at least I only noticed it more or less by accident. When <a href="http://blogs.scientificamerican.com/sa-visual/the-science-of-visualization/">Jen Christiansen wrote about the papers being included in a special issue early next year</a>, I thought she had made a mistake. But then I looked at the proceedings and lo and behold, they're in <a href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7307919">volume 22, number 1</a> instead of volume 21, number 12.
 

@@ -11,7 +11,7 @@ outline: false
 
 # Parallel Sets Release Date
 
-We <a href="http://eagereyes.org/blog/2009/a-spike-of-interest-in-parallel-sets.html">promised the release of the Parallel Sets program</a> for the end of April, but we have to push it to May 7. The reason is quite simply lack of time: the semester is ending here at UNC Charlotte, and things are rather busy as a result. There is also the nuts-and-bolts work of making this work as an application for end-users that works well on at least two platforms (Windows and Mac OS X), and that can provide useful information when it doesn't.
+We <a href="/blog/2009/a-spike-of-interest-in-parallel-sets.html">promised the release of the Parallel Sets program</a> for the end of April, but we have to push it to May 7. The reason is quite simply lack of time: the semester is ending here at UNC Charlotte, and things are rather busy as a result. There is also the nuts-and-bolts work of making this work as an application for end-users that works well on at least two platforms (Windows and Mac OS X), and that can provide useful information when it doesn't.
 
 The goal is to get it right out of the box. The program will not be able to do everything from the beginning, but those things it can do will need to work. I want to avoid the situation where people download the program only to be annoyed so much by its bugs that they never check back for updates.
 

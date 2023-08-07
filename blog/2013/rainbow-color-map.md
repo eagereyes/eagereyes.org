@@ -36,7 +36,7 @@ The color for 0.3–0.39 is darker than the neighboring colors, the luminance fo
 
 ## Hue
 
-What is more, the hue changes. As I have explained before, <a href="http://eagereyes.org/blog/2011/you-only-see-colors-you-can-name">color names influence our perception of color</a>. So let’s look at the full-color version of the legend again, and enumerate the hues.
+What is more, the hue changes. As I have explained before, <a href="/blog/2011/you-only-see-colors-you-can-name">color names influence our perception of color</a>. So let’s look at the full-color version of the legend again, and enumerate the hues.
 
 <p align="center"><img class="aligncenter size-full wp-image-2427" alt="Evapotranspiration Legend" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" width="478" height="193" /></p>
 

@@ -10,9 +10,9 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-teas
 
 # The Island of Knowledge and the Shoreline of Wonder
 
-In his keynote at <a href="https://eagereyes.org/tag/ieeevis">IEEE VIS in Paris</a> two months ago, <a href="http://thefunctionalart.com/">Alberto Cairo</a> talked about journalism, visual explanations, and what makes a good news visualization. But mostly, he talked about curiosity.
+In his keynote at <a href="/tag/ieeevis">IEEE VIS in Paris</a> two months ago, <a href="http://thefunctionalart.com/">Alberto Cairo</a> talked about journalism, visual explanations, and what makes a good news visualization. But mostly, he talked about curiosity.
 
-When I wrote my <a title="VIS 2014 – Tuesday" href="https://eagereyes.org/blog/2014/vis-2014-tuesday">IEEE VIS report for Tuesday</a> of that week, I knew that I could either do a shoddy job of describing the keynote and get the posting done, or have to push the entire thing back by a few days. So I decided to turn this into a separate posting.
+When I wrote my <a title="VIS 2014 – Tuesday" href="/blog/2014/vis-2014-tuesday">IEEE VIS report for Tuesday</a> of that week, I knew that I could either do a shoddy job of describing the keynote and get the posting done, or have to push the entire thing back by a few days. So I decided to turn this into a separate posting.
 
 The goal of writing up the talk here is not to provide a full recap – even though I could probably give the talk for him now, having seen variations of it three times in as many months. Instead, I want to pick out a few topics I find particularly interesting and universally relevant.
 
@@ -44,7 +44,7 @@ Getting back to journalism, Alberto lists a series of principles for a good vi
     <li>Enlightening</li>
 </ul>
 
-This set of criteria is strongly based on journalistic practice and principles, and I think it makes a great package for the evaluation of any kind of visualization. Some of the criteria will look odd to the typical visualization person, such as the inclusion of beauty. But this is also what makes <a title="Review: Alberto Cairo, The Functional Art" href="https://eagereyes.org/criticism/review-alberto-cairo-functional-art">Alberto's book</a> so useful in teaching visualization courses: it goes beyond the typical limited horizon of the technical and largely analytical (rather than communication-oriented) mindset that is still prevalent in visualization.
+This set of criteria is strongly based on journalistic practice and principles, and I think it makes a great package for the evaluation of any kind of visualization. Some of the criteria will look odd to the typical visualization person, such as the inclusion of beauty. But this is also what makes <a title="Review: Alberto Cairo, The Functional Art" href="/criticism/review-alberto-cairo-functional-art">Alberto's book</a> so useful in teaching visualization courses: it goes beyond the typical limited horizon of the technical and largely analytical (rather than communication-oriented) mindset that is still prevalent in visualization.
 
 Another part of this section was my final take-away, another great little sentence that I think needs to be appreciated more when working with data: <em>it's more complicated than that</em>. Many times, it's hard to appreciate the complexity and complications in the data, especially when things look convincing and seem to all fit together. But simple explanations can often be misleading and hide a more complex truth. The curious mind keeps digging and asking more questions.
 

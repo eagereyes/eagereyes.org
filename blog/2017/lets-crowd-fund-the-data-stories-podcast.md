@@ -17,7 +17,7 @@ You know those awkward breaks in the middle of the podcast where somebody gets c
 
 The way this works is through Patreon, a crowdfunding platform used by lots of webcomics and other online projects. In contrast to the things I know and support so far, this is not per month, but per episode. So if they’re lazy and don’t do anything, you never pay them. But whenever they produce a new episode, you pay them a few dollars.
 
-This starts with as little as $3 for a <em>Data Stories Affiliate</em>, up to <em>OMG! Can we hug you now?</em> for $50. Clearly, nobody wants the latter, but I’ve signed up for the <em>Data Stories Fellow</em> ($10) level, even if I <a href="https://eagereyes.org/tag/data-stories">already am a superstar</a> (the $20 level is called <em>Data Stories Super Star</em>).
+This starts with as little as $3 for a <em>Data Stories Affiliate</em>, up to <em>OMG! Can we hug you now?</em> for $50. Clearly, nobody wants the latter, but I’ve signed up for the <em>Data Stories Fellow</em> ($10) level, even if I <a href="/tag/data-stories">already am a superstar</a> (the $20 level is called <em>Data Stories Super Star</em>).
 
 There are <a href="http://datastori.es/data-stories-crowdfunding/">more exciting details about this on their blog</a>, or you can just head over to their <a href="https://www.patreon.com/datastories">Patreon page</a> and give them your money there.
 

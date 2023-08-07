@@ -11,7 +11,7 @@ outline: false
 
 # Parallel Sets Implemented By Third Party
 
-It's nice to see an idea evolve and get picked up by other people. Which is why I'm excited to have spotted the first third-party implementation of <a href="http://eagereyes.org/parallel-sets">Parallel Sets</a> in the wild: a (Windows-only) program called <a href="http://www.knowledgeblocks.eu/kb/Default.aspx">Knowledge Blocks</a> that allows you to visually piece together a query and show the results in a table or a Parallel Sets display.
+It's nice to see an idea evolve and get picked up by other people. Which is why I'm excited to have spotted the first third-party implementation of <a href="/parallel-sets">Parallel Sets</a> in the wild: a (Windows-only) program called <a href="http://www.knowledgeblocks.eu/kb/Default.aspx">Knowledge Blocks</a> that allows you to visually piece together a query and show the results in a table or a Parallel Sets display.
 
 It's not interactive, but it's a start. And I like the fact that the author makes no big deal about it: it's just a Parallel Sets view after all, like a scatterplot or maybe Parallel Coordinates.
 

@@ -14,7 +14,7 @@ A common criticism of charts is that they are filled with <em>chart junk,</em> a
 
 ## Recap: The Chartjunk Paper
 
-<a href="http://eagereyes.org/criticism/chart-junk-considered-useful-after-all">Bateman et al. looked into the effects of what is commonly referred to as <em>chart junk</em>:</a> embellishments, graphical elements, etc. that are not strictly part of the chart, and that can be removed without reducing the amount of information the chart carries. The study found that the embellished charts were more memorable, in particular after a longer time period (two weeks) than the plain charts. Also, they found that embellishments did not interfere with subjects' understanding of the data.
+<a href="/criticism/chart-junk-considered-useful-after-all">Bateman et al. looked into the effects of what is commonly referred to as <em>chart junk</em>:</a> embellishments, graphical elements, etc. that are not strictly part of the chart, and that can be removed without reducing the amount of information the chart carries. The study found that the embellished charts were more memorable, in particular after a longer time period (two weeks) than the plain charts. Also, they found that embellishments did not interfere with subjects' understanding of the data.
 
 ## Criticism. Lots of It.
 

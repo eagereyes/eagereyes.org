@@ -11,7 +11,7 @@ outline: false
 
 Time to wake up from the eagereyes winter hibernation with an aromatic potpourri! This time, we have news about pies, stippling, colors, sorting algorithms, and a few more. Also a video of my collaborator Noeska singing the praises of medical visualization.
 
-Danielle Albers Szafir was named one of <a href="https://www.forbes.com/profile/danielle-szafir/">the <em>30 under 30</em> in Science by Forbes</a>. You might remember her from <a href="https://eagereyes.org/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">my VIS report last year</a> and <a href="https://eagereyes.org/portrait/danielle-albers-szafir">the portrait</a> I posted as the first (and so far only one…) in my portrait series (more portraits coming, I promise).
+Danielle Albers Szafir was named one of <a href="https://www.forbes.com/profile/danielle-szafir/">the <em>30 under 30</em> in Science by Forbes</a>. You might remember her from <a href="/blog/2017/ieee-vis-2017-best-papers-keynote-capstone">my VIS report last year</a> and <a href="/portrait/danielle-albers-szafir">the portrait</a> I posted as the first (and so far only one…) in my portrait series (more portraits coming, I promise).
 
 Pie news! Lisa Charlotte Rost has written a <a href="http://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart">nice piece about pie charts the on data wrapper blog</a>. Jon Schwabish is also starting to love pie charts, <a href="http://policyviz.com/2018/01/11/fk-it-lets-use-pie-charts/">using some colorful language</a>. Combining two of my interests, this <a href="https://www.washingtonpost.com/news/wonk/wp/2017/12/06/the-richest-1-percent-now-owns-more-of-the-countrys-wealth-than-at-any-time-in-the-past-50-years/?utm_term=.58531654de98">news piece using an ISOTYPE pie</a> is pretty interesting.
 
@@ -42,7 +42,7 @@ _Posted by <a href="/about">Robert Kosara</a> on March 11, 2018_
 Tom says…
 >	Small typo on "Elija"
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Fixed, thanks!
 
 <a href="http://pages.cpsc.ucalgary.ca/~acarocha/" rel="nofollow noopener" target="_blank">Allan Rocha</a> says…

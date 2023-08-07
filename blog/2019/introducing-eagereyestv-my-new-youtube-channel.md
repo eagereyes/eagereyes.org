@@ -25,7 +25,7 @@ The topics I’m planning on so far include visualization of course, including u
 
 This is an experiment. I’m really curious what people think. Does it work? Is it interesting? What’s working, what isn’t? Feel free to leave comments here or on YouTube. And if you think it’s worthwhile, please subscribe on YouTube and maybe give the video a like.
 
-<a href="https://youtu.be/RbHCeANCbW0">Watch it here</a> and see <a href="https://eagereyes.org/eagereyestv/eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt">this post</a> for the show notes (those are also on YouTube)
+<a href="https://youtu.be/RbHCeANCbW0">Watch it here</a> and see <a href="/eagereyestv/eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt">this post</a> for the show notes (those are also on YouTube)
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 16, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._

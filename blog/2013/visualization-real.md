@@ -32,7 +32,7 @@ In a similar way, this map of <a href="http://www.lohud.com/interactive/article/
 
 There are a lot of dots on this map, and they are everywhere! We can argue about the size of the dots, etc., but the point remains: lots of (potential) guns. Everywhere.
 
-The information behind this is <a title="Visualization Sets Information Free" href="http://eagereyes.org/blog/2007/visualization-sets-information-free">supposedly public</a>, the total number of permit holders certainly is. But a number doesn’t tell you anything, it’s just a number. We read lots of numbers all the time without even realizing the order of magnitude. Showing the same information on a choropleth map of census tracts would perhaps create a nice, accurate, colorful map, but would not have the same effect. The fact that each permit is represented separately makes for a much stronger impact.
+The information behind this is <a title="Visualization Sets Information Free" href="/blog/2007/visualization-sets-information-free">supposedly public</a>, the total number of permit holders certainly is. But a number doesn’t tell you anything, it’s just a number. We read lots of numbers all the time without even realizing the order of magnitude. Showing the same information on a choropleth map of census tracts would perhaps create a nice, accurate, colorful map, but would not have the same effect. The fact that each permit is represented separately makes for a much stronger impact.
 
 ## Conclusions
 

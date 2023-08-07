@@ -44,13 +44,13 @@ In addition, the filters at the top also respond to the selection to show who is
 
 The Human-Computer Interaction field has a nice term for an indication of more data and interaction: <em>information scent</em>. This is usually used with widgets, which indicate where more information can be found (like the little tick marks on the scrollbar in Chrome when when you search within the page). What makes this chart so good is its clever use of information scent to entice viewers to dig deeper, explore, and ask questions.
 
-It also brilliantly and clearly demonstrates the fact that the overall unemployment rate is a rather meaningless number. The actual rate in your demographic is likely to look very different, and the range is huge. This was the inspiration for my <a href="http://eagereyes.org/basics/means"><em>What Means Mean</em></a> piece, though I don't think that was nearly as clear as this.
+It also brilliantly and clearly demonstrates the fact that the overall unemployment rate is a rather meaningless number. The actual rate in your demographic is likely to look very different, and the range is huge. This was the inspiration for my <a href="/basics/means"><em>What Means Mean</em></a> piece, though I don't think that was nearly as clear as this.
 
 The chart shows interesting data, explains a somewhat advanced concept, and invites people to interact with it. This comes in a package that is understated and elegant in its design. Best line chart ever.
 
 ## Bar Chart
 
-I have already written about the <a href="http://eagereyes.org/blog/2012/bikini-chart"><em>Bikini Chart</em></a>, and it remains my favorite bar chart. It's an incredibly effective piece of communication, and it's all just based on a simple time series. The fact that <a href="http://eagereyes.org/journalism/when-bars-point-down">the bars point down</a> clearly communicates how it is supposed to be read: down is bad, less down is better than more down.
+I have already written about the <a href="/blog/2012/bikini-chart"><em>Bikini Chart</em></a>, and it remains my favorite bar chart. It's an incredibly effective piece of communication, and it's all just based on a simple time series. The fact that <a href="/journalism/when-bars-point-down">the bars point down</a> clearly communicates how it is supposed to be read: down is bad, less down is better than more down.
 
 <p align="center"><img class="aligncenter size-medium wp-image-8319" src="https://media.eagereyes.org/wp-content/uploads/2014/09/obama-job-loss-chart-730x407.png" alt="obama job loss chart" width="730" height="407" /></p>
 

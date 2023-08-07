@@ -22,7 +22,7 @@ The last day of EuroVis brought back the sunshine we had seen yesterday, but had
 
 Part of the closing session was the award for the Best Paper. There were two awards this year, one for regular papers and one for short papers. The full papers also had a second and third place, but since I didn’t write those down, I’m only going to list the first place here:
 
-EuroVis Best Paper: <em>Computing Voronoi Treemaps: Faster, Simpler, and Resolution-independent</em> by Arlind Nocaj and Ulrik Brandes. David Ebert read some glowing reviews, and since <a title="EuroVis 2012, Day 1" href="http://eagereyes.org/blog/2012/eurovis-2012-day-1">they promised to make a library available</a>, that sounds like a really good thing. Perhaps we can even convince them to release source code.
+EuroVis Best Paper: <em>Computing Voronoi Treemaps: Faster, Simpler, and Resolution-independent</em> by Arlind Nocaj and Ulrik Brandes. David Ebert read some glowing reviews, and since <a title="EuroVis 2012, Day 1" href="/blog/2012/eurovis-2012-day-1">they promised to make a library available</a>, that sounds like a really good thing. Perhaps we can even convince them to release source code.
 
 Best Short Paper: <em>Vortex merge graphs in two-dimensional unsteady flow fields</em> by Jens Kasten, Ingrid Hotz, Bernd Noack, and Hans-Christian Hege. I can’t say anything about that one since I didn’t see the presentation or read the paper. But I trust that the committee made the right choice.
 

@@ -13,7 +13,7 @@ outline: false
 
 There are many terrible charts out there, whether visually ugly and cluttered, or pretty but empty or even misleading (like this <a href="http://tweetphoto.com/b64lawq7">beautiful pie chart example featured on Fox News</a> recently). Andrew Vande Moere at infosthetics is hosting a <a href="http://infosthetics.com/archives/2009/11/competition_most_ugly_and_useless_visualization_online.html">competition to find the ugliest and most useless charts</a>.
 
-In his description, Andrew points to <a href="https://eagereyes.org/blog/2009/a-better-vis-web-community.html">my complaints about most visualizations on the web being pretty rather than useful</a>. His aim is to find visualizations that are both ugly <em>and</em> useless.
+In his description, Andrew points to <a href="/blog/2009/a-better-vis-web-community.html">my complaints about most visualizations on the web being pretty rather than useful</a>. His aim is to find visualizations that are both ugly <em>and</em> useless.
 
 >	
 >	While we keep discussing the necessity of theoretical frameworks, start dozens of vizblogs with endless "best-of" lists, and criticize the best practice of data visualizations, we seem to have lost the attention to a parallel universe, which no-one really recognizes the need to write a manifesto for. A field that is potentially more prevalent than all visualization "tools" and "artwork" put together. I mean those data visualizations that are neither "eye candy" nor "useful", neither "beautiful" nor "functional", neither "art" nor a "tool", neither "user-satisfactory" nor "effective", and neither stimulating the "heart" nor the "brain".

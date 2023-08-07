@@ -19,8 +19,8 @@ To be clear, none of the links below are affiliate links. That smug, righteous f
 Who doesn't like a beautiful book to casually leave lying around so they look smart?
 
 <ul>
-    <li><a href="https://eagereyes.org/blog/2016/review-lupi-posavec-dear-data">Giorgia Lupi and Stefanie Posavec’s <em>Dear Data</em></a> is a great book to leaf through, not just to look at great ideas and examples, but to get inspired to do some data collecting and sketching yourself.</li>
-    <li><a href="https://eagereyes.org/blog/2015/review-munroes-thing-explainer-and-pinkers-sense-of-style">Randall Munroe, <em>Thing Explainer</em></a>. Not really a coffee table book, but definitely passes as one for the geekier types (assuming they have coffee tables, but that’s their problem). Might also work as a hint to the mansplainer in your life.</li>
+    <li><a href="/blog/2016/review-lupi-posavec-dear-data">Giorgia Lupi and Stefanie Posavec’s <em>Dear Data</em></a> is a great book to leaf through, not just to look at great ideas and examples, but to get inspired to do some data collecting and sketching yourself.</li>
+    <li><a href="/blog/2015/review-munroes-thing-explainer-and-pinkers-sense-of-style">Randall Munroe, <em>Thing Explainer</em></a>. Not really a coffee table book, but definitely passes as one for the geekier types (assuming they have coffee tables, but that’s their problem). Might also work as a hint to the mansplainer in your life.</li>
     <li><a href="https://www.amazon.com/New-Scientist-Origin-almost-Everything/dp/1857886615"><em>The Origin of (Almost) Everything</em> by Graham Lawton and Jennifer Daniel</a> is a book in the tradition of Nigel Holmes and others: it’s a collection of articles about many different topics, like quantum physics, what kinds of animals we keep and for what purpose, or why we cook foods. They are all illustrated in Daniel’s whimsical style to illustrate, explain, and entertain. It’s a beautiful book too, which makes it a great gift.</li>
 </ul>
 
@@ -29,8 +29,8 @@ Who doesn't like a beautiful book to casually leave lying around so they look sm
 The really impressive books are the ones on the shelves, of course. Here are a few that will not embarrass your copies of the old classics.
 
 <ul>
-    <li><a href="https://eagereyes.org/criticism/review-jon-schwabish-better-presentations">Jon Schwabish, <em>Better Presentations</em></a>. This could also be a not-so-subtle hint to someone, but it’s going to be a useful gift no matter what.</li>
-    <li><a href="https://www.amazon.com/gp/product/0321934075/">Alberto Cairo, <em>The Truthful Art</em></a>. This is the sequel to Cairo’s <em>The Functional Art</em>, which <a href="https://eagereyes.org/criticism/review-alberto-cairo-functional-art">I reviewed in some depth a while ago</a>. The new(ish) book focuses more on statistical thinking behind the graphics. It still has many visual examples, but it goes into some more depth than the first one.</li>
+    <li><a href="/criticism/review-jon-schwabish-better-presentations">Jon Schwabish, <em>Better Presentations</em></a>. This could also be a not-so-subtle hint to someone, but it’s going to be a useful gift no matter what.</li>
+    <li><a href="https://www.amazon.com/gp/product/0321934075/">Alberto Cairo, <em>The Truthful Art</em></a>. This is the sequel to Cairo’s <em>The Functional Art</em>, which <a href="/criticism/review-alberto-cairo-functional-art">I reviewed in some depth a while ago</a>. The new(ish) book focuses more on statistical thinking behind the graphics. It still has many visual examples, but it goes into some more depth than the first one.</li>
     <li>Andy Kirk’s book <em><a href="http://www.visualisingdata.com/book/">Visualising Data</a></em> is not just for the fancy britophile who abhors American spelling. I haven’t read it in its entirety yet and need to write a proper review. It’s getting great reviews from others though, and looks like a very useful resource. And yes, <em>britophile</em> is <a href="http://www.urbandictionary.com/define.php?term=Britophile">totally a word</a>.</li>
     <li>Tamara Munzner’s book, <em><a href="https://www.cs.ubc.ca/~tmm/vadbook/">Visualization Analysis and Design</a></em>, is perhaps the opposite of a coffee table book. It’s a very academic treatment of the field. This is another item on my review todo list,</li>
 </ul>

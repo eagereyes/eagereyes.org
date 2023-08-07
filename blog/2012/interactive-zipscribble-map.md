@@ -9,11 +9,11 @@ outline: false
 
 # The Interactive ZIPScribble Map
 
-This content has moved to <a href="https://eagereyes.org/zipscribble-map">this page</a>.
+This content has moved to <a href="/zipscribble-map">this page</a>.
 
-The idea behind <a href="https://eagereyes.org/zipscribble-maps/united-states">the ZIPScribble Map</a> is simple: Connect all the ZIP or postal codes in a country in ascending order. Does that produce chaos or some kind of pattern? Use this interactive map to explore.
+The idea behind <a href="/zipscribble-maps/united-states">the ZIPScribble Map</a> is simple: Connect all the ZIP or postal codes in a country in ascending order. Does that produce chaos or some kind of pattern? Use this interactive map to explore.
 
-At the bottom of the selector is also the <a href="https://eagereyes.org/blog/2016/new-improved-traveling-presidential-candidate-map">Traveling Presidential Candidate Map</a>.
+At the bottom of the selector is also the <a href="/blog/2016/new-improved-traveling-presidential-candidate-map">Traveling Presidential Candidate Map</a>.
 
 <hr class="wp-block-separator"/>
 
@@ -55,7 +55,7 @@ Shelley J Cook says…
 Mark Kumler says…
 >	Still broken in August 2021.  Sad.  Please let me know if it's ever resurrected.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Hey, there's actually a working version over on another page: https://eagereyes.org/zipscribble-map
 >	
 >	I'll update this one to link to it instead. Thanks for reminding me!

@@ -66,7 +66,7 @@ Without missing a beat, Auerbach then goes on to talk about “polar representat
 
 While he talks about the subdivision of the circle into sectors, this seems to imply that he thought that areas were representing the values. Either way, there is no mention of angle here. He says that “this representation is so common that a hint will suffice,” and only briefly explains that the chart is showing the parties represented in the German Reichstag (as of 1914, presumably).
 
-It’s a notably different treatment than Brinton, who very clearly dislikes pie charts. It’s also interesting to consider that this was published twelve years before <a href="https://eagereyes.org/blog/2015/ye-olde-pie-chart-debate">The Great Pie Chart Controversy of 1926</a>. Pies have been around, and popular, for a long time!
+It’s a notably different treatment than Brinton, who very clearly dislikes pie charts. It’s also interesting to consider that this was published twelve years before <a href="/blog/2015/ye-olde-pie-chart-debate">The Great Pie Chart Controversy of 1926</a>. Pies have been around, and popular, for a long time!
 
 ## Venn Diagrams
 

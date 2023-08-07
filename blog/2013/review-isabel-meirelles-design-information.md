@@ -52,7 +52,7 @@ On the other hand, the book covers some visualization techniques that have so fa
 
 ## Historic Examples
 
-There is a certain obsession in visualization with historical examples. Those are often good and interesting, but you can also get stuck in beautiful hand-drawn maps and diagrams that don’t exactly reflect what we can do today on computers. Many of them are intricate and beautiful, so showing them off is nice, but it’s also <a title="It’s Just Too Easy" href="http://eagereyes.org/criticism/its-just-too-easy">a trap that allows authors to take shortcuts and cheat their readers</a>.
+There is a certain obsession in visualization with historical examples. Those are often good and interesting, but you can also get stuck in beautiful hand-drawn maps and diagrams that don’t exactly reflect what we can do today on computers. Many of them are intricate and beautiful, so showing them off is nice, but it’s also <a title="It’s Just Too Easy" href="/criticism/its-just-too-easy">a trap that allows authors to take shortcuts and cheat their readers</a>.
 
 Meirelles strikes a good balance between historical and modern examples. She also does not throw them around just because they are famous or look good, but always ties them into a chapter.
 

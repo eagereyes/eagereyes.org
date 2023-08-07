@@ -22,7 +22,7 @@ I know of two papers that propose spirals for periodic data: John V. Carlis and 
 
 ## Alternatives
 
-After reading <a href="http://eagereyes.org/blog/2011/information-visualization-vs-statistical-graphics">my article on statistical graphics</a>, Stephen Few suggested a rectangular visualization similar to a stacked bar chart, arguing that it would be easier to see patterns stack up in one direction rather than having to look around the spiral. This would also avoid the spiral’s distortion of the interval lengths, making the comparison more precise.
+After reading <a href="/blog/2011/information-visualization-vs-statistical-graphics">my article on statistical graphics</a>, Stephen Few suggested a rectangular visualization similar to a stacked bar chart, arguing that it would be easier to see patterns stack up in one direction rather than having to look around the spiral. This would also avoid the spiral’s distortion of the interval lengths, making the comparison more precise.
 
 Using this type of layout instead of the spiral is something that has also occurred to me before, but I used to dismiss it for two reasons: a stacked layout has a discontinuity on the edge, where the data jumps to the next row, and the change between different period values would lead to a lot of movement in ways that aren’t obvious to the user (not just left/right within a row but also between rows). I also didn’t think that the increase in segment length of the data values was really such a big issue.
 
@@ -36,7 +36,7 @@ Below is an interactive version of a spiral display (implemented using <a href="
 
 Move the slider to control the period of the spiral. Change the display type between spiral and bars with the radio buttons on the left.
 
-The two datasets available are: <em>births</em> is a dataset listing the <a href="http://www.dartmouth.edu/~chance/teaching_aids/data.html">number of people born each day in the U.S. during the year 1978</a>, <em>downloads</em> is the <a href="http://eagereyes.org/applications/appstore-billion-apps-live-visualization.html">number of app downloads per hour from Apple's AppStore during the run-up to the billionth app download in April 2009</a>. They both show very clear periodic patterns, at different periods.
+The two datasets available are: <em>births</em> is a dataset listing the <a href="http://www.dartmouth.edu/~chance/teaching_aids/data.html">number of people born each day in the U.S. during the year 1978</a>, <em>downloads</em> is the <a href="/applications/appstore-billion-apps-live-visualization.html">number of app downloads per hour from Apple's AppStore during the run-up to the billionth app download in April 2009</a>. They both show very clear periodic patterns, at different periods.
 
 I realize that showing the period as a number will bias the exploration, but try to ignore it and only look at the visualization at first. Also, this is a very simple prototype: in a real program, there would be a way to find out the actual numbers, what days/hours they correspond to, etc. But this should be sufficient to show the point I am interested in here, additional features can be added fairly easily.
 

@@ -6,7 +6,7 @@ tags: Visual Communication, criticism
 featuredImage: 
 ---
 
-<p align="center"><a href="http://eagereyes.org/criticism/above-all-do-no-harm"><img src="https://media.eagereyes.org/media/2011/soccer-teaser.jpg" alt="" width="600" height="200" /></a></p>
+<p align="center"><a href="/criticism/above-all-do-no-harm"><img src="https://media.eagereyes.org/media/2011/soccer-teaser.jpg" alt="" width="600" height="200" /></a></p>
 
 # Above All, Do No Harm!
 

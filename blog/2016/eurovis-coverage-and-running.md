@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/groningen-
 
 # EuroVis Coverage and Running
 
-For people not attending <a href="http://www.cs.rug.nl/jbi/eurovis2016/">EuroVis</a>: I will be tweeting from there next week and write postings here, like I have <a href="https://eagereyes.org/tag/eurovis">in the previous years</a>. For people who will be attending: let's meet up and run!
+For people not attending <a href="http://www.cs.rug.nl/jbi/eurovis2016/">EuroVis</a>: I will be tweeting from there next week and write postings here, like I have <a href="/tag/eurovis">in the previous years</a>. For people who will be attending: let's meet up and run!
 
 ## EuroVis Coverage
 
@@ -20,7 +20,7 @@ I will also write summary postings here, though I likely won't write one per day
 
 ## Running
 
-The EuroVis and VIS "running clubs" have been a bit hit-and-miss, but I'm not ready to give up. Bring your running shoes and <a href="https://eagereyes.org/contact">drop me a note</a> if you're interested in joining. I'll figure out a good place to start from (somewhere central in Groningen). We'll probably leave at 7am (sharp!) and go for about 45-50 minutes.
+The EuroVis and VIS "running clubs" have been a bit hit-and-miss, but I'm not ready to give up. Bring your running shoes and <a href="/contact">drop me a note</a> if you're interested in joining. I'll figure out a good place to start from (somewhere central in Groningen). We'll probably leave at 7am (sharp!) and go for about 45-50 minutes.
 
 The teaser image above is from Strava's running heat map for Groningen. Looks like a great place for a few little pre-conference morning runs!
 

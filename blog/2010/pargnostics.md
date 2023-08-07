@@ -10,13 +10,13 @@ featuredImage: https://media.eagereyes.org/media/2010/Dasgupta-InfoVis-2010.png
 
 # Pargnostics: Screen-Space Metrics for Parallel Coordinates
 
-<a href="http://eagereyes.org/techniques/parallel-coordinates">Parallel coordinates</a> are a very popular visualization technique for multi-dimensional numerical data. In this paper, we propose a set of metrics to better understand the types of visual structures users commonly look for using this technique. Based on the metrics, we can optimize the display to make it more readable, and allow the user to select dimensions based on their visual structures, rather than their existing ideas about the data.
+<a href="/techniques/parallel-coordinates">Parallel coordinates</a> are a very popular visualization technique for multi-dimensional numerical data. In this paper, we propose a set of metrics to better understand the types of visual structures users commonly look for using this technique. Based on the metrics, we can optimize the display to make it more readable, and allow the user to select dimensions based on their visual structures, rather than their existing ideas about the data.
 
 ## Metrics
 
 The metrics are motivated by the kinds of structures that are typically considered indicators of certain patterns in the data: lots of crossing lines indicate inverse correlations, triangular shapes point to categorical (or otherwise non-continuous) data, etc.
 
-We consider parallel coordinates not so much as line sequences across all dimensions, but as <a href="http://eagereyes.org/techniques/parallel-coordinates">a sequence of axis pairs</a>. After all, tracking single lines from one pair of axes to another is usually difficult, and we mostly look for the patterns between pairs of axes separately to understand the data. This view not only makes it easier to define these metrics, it also greatly increases the efficiency of the optimization process.
+We consider parallel coordinates not so much as line sequences across all dimensions, but as <a href="/techniques/parallel-coordinates">a sequence of axis pairs</a>. After all, tracking single lines from one pair of axes to another is usually difficult, and we mostly look for the patterns between pairs of axes separately to understand the data. This view not only makes it easier to define these metrics, it also greatly increases the efficiency of the optimization process.
 
 Metrics include the number of line crossings, the angle between lines that cross (right angles make it easier to tell which line is going where than small angles), parallelism, overplotting of lines, convergence and divergence of lines, mutual information, and pixel-based entropy.
 

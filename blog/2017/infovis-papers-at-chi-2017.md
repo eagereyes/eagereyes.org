@@ -18,7 +18,7 @@ CHI provides <a href="https://chi2017.acm.org/proceedings.html">open access to a
 
 ## Same Stats, Different Graphs
 
-This is my favorite paper, hands down. Justin Matejka and George Fitzmaurice took <a href="https://eagereyes.org/criticism/anscombes-quartet">Anscombe’s idea</a> (to create datasets with virtually identical statistics that look very different when drawn in a chart) and ran with it. It’s a modern take on an oft-cited paper from the 70s, and it’s very well done.
+This is my favorite paper, hands down. Justin Matejka and George Fitzmaurice took <a href="/criticism/anscombes-quartet">Anscombe’s idea</a> (to create datasets with virtually identical statistics that look very different when drawn in a chart) and ran with it. It’s a modern take on an oft-cited paper from the 70s, and it’s very well done.
 
 I also love <a href="https://www.autodeskresearch.com/publications/samestats">the website they made for the paper</a>. I even love the animated gifs (not something I’m wont to say in general). Do yourself the favor of at least scrolling all the way through it and looking at all the little animations. They’re very well done and show a few things you might not expect (like how box plots don’t show you weirdly quantized distributions).
 
@@ -46,7 +46,7 @@ Dasgupta and colleagues look at the Taylor plot, which are used in climate scien
 
 Showing pictures of people is a good thing, right? Certainly when it comes to news graphics or trying to get people to care about refugees, donate money, etc. The paper <em><a href="http://dl.acm.org/authorize.cfm?key=N36810">Showing People Behind Data: Does Anthropomorphizing Visualizations Elicit More Empathy for Human Rights Data?</a></em> by Jeremy Boy, Anshul Vikram Pandey, John Emerson, Margaret Satterthwaite, Oded Nov, and Enrico Bertini looked into this. They tested a number of different designs and compared them against standard charts, but found virtually no differences between them.
 
-The paper asked an interesting question about something that is not often studied so far: how do different charts impact (potential) decisions, like whether to donate money? The comparison with anthropomorphic shapes also meshes well with my interest in <a href="https://eagereyes.org/techniques/isotype">ISOTYPE</a>, which often used pictures of people to depict data (though usually to inform rather than to elicit a particular response).
+The paper asked an interesting question about something that is not often studied so far: how do different charts impact (potential) decisions, like whether to donate money? The comparison with anthropomorphic shapes also meshes well with my interest in <a href="/techniques/isotype">ISOTYPE</a>, which often used pictures of people to depict data (though usually to inform rather than to elicit a particular response).
 
 CHI covers a lot more ground than just visualization, but it's certainly a conference to keep an eye on for exciting new developments. It is known to be tough to get work accepted into, but it also sometimes accepts work that seems too daring or unusual to make it into InfoVis or EuroVis. It's definitely a conference to keep an eye on.
 

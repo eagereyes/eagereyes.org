@@ -40,7 +40,7 @@ The thumbnail above is only a small part of a much larger infographic that expla
 
 ## Infographics About Bad Infographics
 
-The recent flood of bad infographics is interesting because I think it shows what happens when people get access to tools they don't know how to use, and start imitating what they have seen elsewhere without understanding. This leads to a kind of <a href="http://eagereyes.org/criticism/the-visualization-cargo-cult">cargo cult</a> that uses the same language but that does not make any sense.
+The recent flood of bad infographics is interesting because I think it shows what happens when people get access to tools they don't know how to use, and start imitating what they have seen elsewhere without understanding. This leads to a kind of <a href="/criticism/the-visualization-cargo-cult">cargo cult</a> that uses the same language but that does not make any sense.
 
 These infographics and visualizations are easy to recognize, though:
 <ul>

@@ -50,7 +50,7 @@ She did of course mention Christopher Alexander and his Pattern Language, but s
 >	
 >	– Molly Wright Steenson
 
-The capstone meshed really well with <a href="https://eagereyes.org/blog/2015/vis-2015-tuesday">the keynote</a>, as several people observed in the Q&amp;A afterwards. Both talked about the history of computing from an art/design/architecture point of view. And they were both really interesting talks, too.
+The capstone meshed really well with <a href="/blog/2015/vis-2015-tuesday">the keynote</a>, as several people observed in the Q&amp;A afterwards. Both talked about the history of computing from an art/design/architecture point of view. And they were both really interesting talks, too.
 
 ## The Next Years
 

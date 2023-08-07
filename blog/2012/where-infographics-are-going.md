@@ -8,11 +8,11 @@ featuredImage:
 
 # Where Infographics Are Going
 
-<a title="The Fascinating World of (Good) Infographics" href="http://eagereyes.org/criticism/fascinating-world-of-good-infographics">At their best</a>, information graphics can be informative, exciting, and attractive. At their worst, they can be misleading, overdesigned, and empty. Infographics are still in their infancy, with a lot of untapped potential. Ideas from visualization can help figure out a future that is much more exciting.
+<a title="The Fascinating World of (Good) Infographics" href="/criticism/fascinating-world-of-good-infographics">At their best</a>, information graphics can be informative, exciting, and attractive. At their worst, they can be misleading, overdesigned, and empty. Infographics are still in their infancy, with a lot of untapped potential. Ideas from visualization can help figure out a future that is much more exciting.
 
 Imagine a slider to control the amount of decoration in an infographic: 0 for no decoration, 1 for the maximum amount possible. Most current infographics are close to 1, with a lot decoration applied. For an infographic to be interesting and compelling, there is clearly a minimum of decoration that is necessary. However, I believe that much of it is gratuitous and unnecessary, and not only distracts from the message, but undermines it.
 
-Let's look at the other end of the scale: no decoration. This is where visualization sits. In fact, I think that data visualization is a true subset of infographics. What else is a visualization than <a title="What is Visualization? A Definition" href="http://eagereyes.org/criticism/definition-of-visualization">a graphic that informs</a>? And if it doesn't inform, how can it be a visualization? In addition to being bare, though, <a title="The Difference Between Infographics and Visualization" href="http://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization">visualizations are also general</a>, i.e., they do not care what data they depict.
+Let's look at the other end of the scale: no decoration. This is where visualization sits. In fact, I think that data visualization is a true subset of infographics. What else is a visualization than <a title="What is Visualization? A Definition" href="/criticism/definition-of-visualization">a graphic that informs</a>? And if it doesn't inform, how can it be a visualization? In addition to being bare, though, <a title="The Difference Between Infographics and Visualization" href="/blog/2010/the-difference-between-infographics-and-visualization">visualizations are also general</a>, i.e., they do not care what data they depict.
 
 ## Priorities
 

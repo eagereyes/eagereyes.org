@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020_v2
 
 # More Things To Do at VIS: BELIV, VisLies, Social Media Meetup, Etc.
 
-For next week's IEEE VIS conference, here are some more pointers to things that I think are worth checking out <a href="https://eagereyes.org/blog/2020/an-outsiders-guide-to-ieee-vis-2020" data-type="post" data-id="53752">in addition to my previous list</a>. This includes a few of the major events as well as some meetups you might otherwise have missed.
+For next week's IEEE VIS conference, here are some more pointers to things that I think are worth checking out <a href="/blog/2020/an-outsiders-guide-to-ieee-vis-2020" data-type="post" data-id="53752">in addition to my previous list</a>. This includes a few of the major events as well as some meetups you might otherwise have missed.
 
 VIS now has <a href="https://virtual.ieeevis.org">a very extensive virtual event website</a> that contains the program, preview videos and abstracts papers and most events. Once you register, you also get access to their Discord server, which is where all of the discussion will happen. If you haven't used it before (I haven't), it looks a lot like Slack.
 

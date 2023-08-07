@@ -9,7 +9,7 @@ outline: false
 
 # List of Influences: Colin Ware
 
-Several <a href="http://eagereyes.org/topics/ListsOfInfluences">lists of influences</a> reference work by <a href="http://ccom.unh.edu/vislab/CWBio.html">Colin Ware</a>, mostly of course his book <a href="http://www.amazon.com/Information-Visualization-Second-Interactive-Technologies/dp/1558608192/">Information Visualization: Perception for Design</a>. It therefore makes sense to ask an influencer of influencers about his influences. As it turns out, there are some vicious circles here, with the influenced influencing the influencers back.
+Several <a href="/topics/ListsOfInfluences">lists of influences</a> reference work by <a href="http://ccom.unh.edu/vislab/CWBio.html">Colin Ware</a>, mostly of course his book <a href="http://www.amazon.com/Information-Visualization-Second-Interactive-Technologies/dp/1558608192/">Information Visualization: Perception for Design</a>. It therefore makes sense to ask an influencer of influencers about his influences. As it turns out, there are some vicious circles here, with the influenced influencing the influencers back.
 
 Colin has degrees in both computer science and perceptual psychology. In addition to that, he also worked as an artist for three years. So he clearly brings a unique and interesting perspective to visualization. He is the director of the <a href="http://www.ccom.unh.edu/vislab/index.html">Data Visualization Research Lab</a> (part of the Center for Coastal and Ocean Mapping) at the University of New Hampshire.
 

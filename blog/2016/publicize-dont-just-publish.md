@@ -16,7 +16,7 @@ Publishing your results is an integral part of doing science. Why work on figur
 
 There is another aspect of publication, though: publicizing and socializing your work. You can't expect people in your field to know what you wrote, just because you published a paper. There's too much going on even within visualization, and certainly if you try to go outside your narrow field (see <a href="http://science.sciencemag.org/content/342/6154/58.full">this wonderful comic Randall Munroe did for <em>Science</em> in 2013</a>).
 
-And yet, it's still rarely done. Many of the talks I saw at <a href="https://eagereyes.org/blog/2016/eurovis-2016-tuesday-and-wednesday">EuroVis</a> <a href="https://eagereyes.org/blog/2016/eurovis-2016-thursday-and-friday">recently</a> did not have any sort of URL on the slides. That makes it hard for people to follow up and learn more, and it also makes it hard for me to write about the work. It's not very interesting to write about some great paper without being able to point my readers to something – anything. If you want me to write about your stuff, you have to have a URL.
+And yet, it's still rarely done. Many of the talks I saw at <a href="/blog/2016/eurovis-2016-tuesday-and-wednesday">EuroVis</a> <a href="/blog/2016/eurovis-2016-thursday-and-friday">recently</a> did not have any sort of URL on the slides. That makes it hard for people to follow up and learn more, and it also makes it hard for me to write about the work. It's not very interesting to write about some great paper without being able to point my readers to something – anything. If you want me to write about your stuff, you have to have a URL.
 
 ## Why Publicize?
 

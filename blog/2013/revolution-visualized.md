@@ -26,7 +26,7 @@ Pitch Interactive’s <a href="http://drones.pitchinteractive.com/"><em>Out of S
 
 But the animation of the dropping bombs gives the strikes much more of a reality than a mere monthly number would. And the number of people killed is staggering when you see it as bars like that. These aren’t just bars, but they have segments, one for each person.
 
-Switch to the <em>Victims</em> view and it gets even more personal. A <a title="The ISOTYPE" href="http://eagereyes.org/techniques/isotype">small figure is drawn</a> for every person killed. Continuous bars don’t give you a sense of individuals, but little figures do.
+Switch to the <em>Victims</em> view and it gets even more personal. A <a title="The ISOTYPE" href="/techniques/isotype">small figure is drawn</a> for every person killed. Continuous bars don’t give you a sense of individuals, but little figures do.
 
 <p align="center"><img class="aligncenter size-full wp-image-2299" alt="Mapping the Dead: Gun Deaths Since Sandy Hook" src="https://media.eagereyes.org/wp-content/uploads/2013/04/sandy-hook.jpg" width="600" height="419" /></p>
 

@@ -53,7 +53,7 @@ In <a href="/publications/Kosara-IV-2007">a paper a while ago</a> I used these c
 
 Not every visualization is necessarily on one of the ends, there's a middle ground there as well. But as it gets more artistic, it loses its utility. And by trying to be more useful, it loses its artistic appeal.
 
-Right there in the middle is the place where there is a kind of <a href="http://en.wikipedia.org/wiki/Uncanny_valley">uncanny valley</a>: the kind of <a href="http://eagereyes.org/criticism/the-visualization-cargo-cult">cargo cult visualizations</a> that make no sense as either useful pragmatic visualizations or sublime artistic ones. They're trying to do both but succeed at neither. They use the tools of visualization without understanding what they are for, like somebody wielding a brush and oil paint thinking that alone will make a piece of art.
+Right there in the middle is the place where there is a kind of <a href="http://en.wikipedia.org/wiki/Uncanny_valley">uncanny valley</a>: the kind of <a href="/criticism/the-visualization-cargo-cult">cargo cult visualizations</a> that make no sense as either useful pragmatic visualizations or sublime artistic ones. They're trying to do both but succeed at neither. They use the tools of visualization without understanding what they are for, like somebody wielding a brush and oil paint thinking that alone will make a piece of art.
 
 ## The Heisenberg Principle of Visualization
 
@@ -61,7 +61,7 @@ One problem with accepting this dichotomy of art or visualization is that a lot 
 
 But there is a place where these things can be art because the sublime is not an objective property of a thing. If I don't know what a visualization shows, and perhaps even that it is a visualization, I can experience its beauty as something that is sublime. At the moment where I realize (or am told) what is shown and how to read it, the sublime quality disappears and it becomes utilitarian and anti-sublime.
 
-This is the problem with the <a href="http://eagereyes.org/VisCrit/InformativeArt.html">informative art piece I discussed a while ago</a>. If you don't know what it means, it is sublime.
+This is the problem with the <a href="/VisCrit/InformativeArt.html">informative art piece I discussed a while ago</a>. If you don't know what it means, it is sublime.
 
 <p align="center"><img src="https://media.eagereyes.org/media/attachments/Skogetal-buses.png" alt="Two bus lines - Skog et al, InfoVis 2003" title="Two bus lines - Skog et al, InfoVis 2003" width="538" height="210"></p>
 

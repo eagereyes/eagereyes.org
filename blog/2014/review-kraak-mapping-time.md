@@ -12,7 +12,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTim
 Can you write an entire book about a single chart? Even if that chart is supposedly the best one ever? Menno-Jan Kraak's new book, <em><a href="http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0">Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812</a></em>, discusses the historical context of Minard's work, his, life, and walks through a number of design exercises to show the same or similar data in different ways.
 
 
-The graphic, which Tufte says “may well be the best statistical graphic ever drawn,” is also often referred to as <em><a href="http://eagereyes.org/journalism/storytelling-minard-vs-nightingale">Napoleon's March</a></em>. It depicts the size of Napoleon's army during the Russian Campaign of 1812, which Napoleon began with over 420,000 men, and ended with only 10,000.
+The graphic, which Tufte says “may well be the best statistical graphic ever drawn,” is also often referred to as <em><a href="/journalism/storytelling-minard-vs-nightingale">Napoleon's March</a></em>. It depicts the size of Napoleon's army during the Russian Campaign of 1812, which Napoleon began with over 420,000 men, and ended with only 10,000.
 
 ## Personal Connection
 

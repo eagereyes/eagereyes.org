@@ -48,7 +48,7 @@ This technique takes a bit of time and study to appreciate, but it extends the m
 
 ## What Are You Asking: PivotGraph
 
-In many cases, it makes little sense to look at all the individual data items, while an appropriately aggregated view can provide much more useful information. This is the same idea as behind <a title="Parallel Sets" href="http://eagereyes.org/parallel-sets">Parallel Sets</a> and also almost all of the views in <a href="http://www.tableausoftware.com/">Tableau</a>. In 2006, Martin Wattenberg published a paper on a technique he called <a href="http://www.research.ibm.com/visual/papers/pivotgraph.pdf">PivotGraph</a> that adapted the idea of aggregation for use with graphs. For the aggregation to work, there has to be data attached to the graph nodes, and it has to be partly categorical. This is typically the case when looking at rich data like email traffic, phone conversations, etc.
+In many cases, it makes little sense to look at all the individual data items, while an appropriately aggregated view can provide much more useful information. This is the same idea as behind <a title="Parallel Sets" href="/parallel-sets">Parallel Sets</a> and also almost all of the views in <a href="http://www.tableausoftware.com/">Tableau</a>. In 2006, Martin Wattenberg published a paper on a technique he called <a href="http://www.research.ibm.com/visual/papers/pivotgraph.pdf">PivotGraph</a> that adapted the idea of aggregation for use with graphs. For the aggregation to work, there has to be data attached to the graph nodes, and it has to be partly categorical. This is typically the case when looking at rich data like email traffic, phone conversations, etc.
 
 The PivotGraph has two interesting properties. First, it is very goal-directed: it requires the user to pick dimensions along which to aggregate, and which to use to lay out the graph. Second, it uses space in a very different way than node-link diagrams. While space in node-link diagrams is mostly there to avoid collisions between the nodes and clutter between the lines, it carries information in the case of the PivotGraph.
 
@@ -80,7 +80,7 @@ _Posted by <a href="/about">Robert Kosara</a> on February 01, 2012_
 >	
 >	There are a few possible answers here, all research questions: metaphors for node-link diagrams that don't invoke distance (seems hard), better algorithms for node-link diagrams (eg. just because two vertices are connected it doesn't mean they have to be close to each other), and non-node-link diagrams in general.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	You're right that the example graph in the quilt is not acyclic, and I kind of said that in the text. I didn't want to spend a lot of time talking about the finer points, but they actually show backlinks differently than links that skip over levels.
 >	
 >	I guess I'll write more about matrix diagrams and node quilts in the future and go into more detail. Maybe we can play off each other's efforts.

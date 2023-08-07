@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/dashboard-
 
 # IEEE VIS 2018, Part 2: Time, Evaluation, Dashboards, The Future of VIS
 
-While <a href="https://eagereyes.org/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">the first part of this report</a> covered mostly workshops and other events, it's all papers from now on. Plus a session on the future of the VIS conference. 
+While <a href="/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">the first part of this report</a> covered mostly workshops and other events, it's all papers from now on. Plus a session on the future of the VIS conference. 
 
 ## Time
 

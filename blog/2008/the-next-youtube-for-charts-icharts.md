@@ -27,7 +27,7 @@ They have just opened the site for a public beta, and it is obviously a bit earl
 
 (Thanks for the link, <a href="http://charts.jorgecamoes.com/charts-information-visualization-review-september-28/">Jorge</a>.)
 
-See also: <a href="http://eagereyes.org/VisCrit/Swivel-vs-Many-Eyes.html">Swivel vs. Many Eyes</a>
+See also: <a href="/VisCrit/Swivel-vs-Many-Eyes.html">Swivel vs. Many Eyes</a>
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 28, 2008_

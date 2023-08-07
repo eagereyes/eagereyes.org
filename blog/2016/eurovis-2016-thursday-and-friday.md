@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/DSCF2799.j
 
 # EuroVis 2016, Thursday and Friday
 
-<a href="https://eagereyes.org/blog/2016/eurovis-2016-tuesday-and-wednesday">After Tuesday and Wednesday</a>, EuroVis continued for the rest of the week. There were papers about visualization, interaction, networks, and other stuff, a dinner in a former church, and finally the capstone. 
+<a href="/blog/2016/eurovis-2016-tuesday-and-wednesday">After Tuesday and Wednesday</a>, EuroVis continued for the rest of the week. There were papers about visualization, interaction, networks, and other stuff, a dinner in a former church, and finally the capstone. 
 
 <b></b>First a little update: you can now <a href="https://vimeo.com/groups/383543/videos/169967499">watch Anders Ynnerman's epic keynote</a>.
 
@@ -38,7 +38,7 @@ Who says coordinated views have to be next to each other? <a href="http://www.g
 
 ## <b>Design, Evaluation, and Applications</b>
 
-<i>Judgment Error in Pie Chart Variations</i> by Robert Kosara and Drew Skau started off this session. This was the short paper in our <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">pie charts paper package</a>. Reaction was positive again, with a number of good questions and some follow-up discussions at the conference dinner later on Thursday.
+<i>Judgment Error in Pie Chart Variations</i> by Robert Kosara and Drew Skau started off this session. This was the short paper in our <a href="/papers/a-pair-of-pie-chart-papers">pie charts paper package</a>. Reaction was positive again, with a number of good questions and some follow-up discussions at the conference dinner later on Thursday.
 
 <i>Using icicle plots to encode the hierarchical structure of source code </i>by Ivan Bacher, Brian Mac Namee, John D Kelleher showed a tree visualization and interaction idea for a source code editor to show the hierarchical structure and allow navigation – a bit like a folding editor, but more visual. They have <a href="https://dl.dropboxusercontent.com/spa/96msnpkocwnj21h/p-001/public/index.html">a demo online</a> (click “Load HTML” and then click around on both sides).
 
@@ -64,7 +64,7 @@ It was a good conference. Somehow, it just didn't excite me as much as last year
 
 It was well organized and went very smoothly. The only thing I didn't like was that the opening and closing sessions were just too long. The analysis of keywords used in reviews went on for way too long and was of little value. The awards ceremony part at the end could also be much shorter and more fun, rather than the awkward affair they almost universally are.
 
-Groningen is a beautiful little town. It's also quite lively, due to the large number of university students (about a third of the population). The conference dinner this time took place in a former church, with fantastic food. It couldn't quite compete with the <a href="https://eagereyes.org/blog/2015/report-eurovis-2015">convent last year</a> where they made our food by hand, but that's a tough one to follow. The deserts were out of this world, though.
+Groningen is a beautiful little town. It's also quite lively, due to the large number of university students (about a third of the population). The conference dinner this time took place in a former church, with fantastic food. It couldn't quite compete with the <a href="/blog/2015/report-eurovis-2015">convent last year</a> where they made our food by hand, but that's a tough one to follow. The deserts were out of this world, though.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on June 10, 2016_

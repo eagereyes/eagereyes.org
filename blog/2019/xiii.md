@@ -13,9 +13,9 @@ outline: false
 
 This website is now thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things.
 
-I can barely even look at <a href="https://eagereyes.org/blog-calendar">the calendar</a> these days, it looks so empty recently. This year has been the slowest, with this post not even being the 13th so far this year. And yet, it’s doing better than many other blogs at this age. Thirteen is a lot in blog years. 
+I can barely even look at <a href="/blog-calendar">the calendar</a> these days, it looks so empty recently. This year has been the slowest, with this post not even being the 13th so far this year. And yet, it’s doing better than many other blogs at this age. Thirteen is a lot in blog years. 
 
-<a href="https://eagereyes.org/blog/2019/introducing-eagereyestv-my-new-youtube-channel">eagereyesTV</a>, my new YouTube channel, is an effort to breathe some new life into this thing – and also to teach this old dog some new tricks. In the past, some people made fun of the fact that I’d been writing about visualization without using a lot of images. Some of those same people then went on to start podcasts about visualization. Podcasts.
+<a href="/blog/2019/introducing-eagereyestv-my-new-youtube-channel">eagereyesTV</a>, my new YouTube channel, is an effort to breathe some new life into this thing – and also to teach this old dog some new tricks. In the past, some people made fun of the fact that I’d been writing about visualization without using a lot of images. Some of those same people then went on to start podcasts about visualization. Podcasts.
 
 Anyway, there are many things that can be explained better with moving images, and there are other topics that are perfect for writing. It’s often actually distracting to see imagery when the point to be made is more theoretical or conceptual. And still, there’s a lot to be done with visuals that explain and discuss and just plain show visualization. And YouTube has very little visualization content.
 

@@ -21,7 +21,7 @@ Among his examples, he used a calendar. Similar images have appeared in the visu
 
 Now 22 years later, Yahoo! has picked that idea up, made it prettier, and made it useful in its new calendar. The regular view looks just like any other monthly calendar, but when you click on a day, it zooms into that day to give it more room. As a side-effect you also get more space for the current week, as well as for the same day of the week in other weeks of that month (this is sometimes considered a bad thing, but at least for the current week it makes a lot of sense). In this view, you can enter new events and change existing ones (click the image below for full size).
 
-<p style="text-align: center;"><a href="http://eagereyes.org/media/2008/yahoo-calendar.png" target="_blank"><img src="https://media.eagereyes.org/media/2008/yahoo-calendar-thumb.png" border="0" alt="Yahoo! Calendar" width="472" height="280" /></a></p>
+<p style="text-align: center;"><a href="/media/2008/yahoo-calendar.png" target="_blank"><img src="https://media.eagereyes.org/media/2008/yahoo-calendar-thumb.png" border="0" alt="Yahoo! Calendar" width="472" height="280" /></a></p>
 
 While I don't think that this will lead to a revolution in how quickly companies pick up ideas from visualization and HCI research, it is a good thing that this is happening. Perhaps increased competition, expanded flexibility of programs in browsers, and the pressure to appear cutting-edge will turn more such flash-backs into useful products.
 

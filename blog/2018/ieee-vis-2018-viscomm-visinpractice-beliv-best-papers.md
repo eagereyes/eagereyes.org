@@ -20,7 +20,7 @@ But not so! We had 50-70 attendees there and a pretty good program. You can read
 
 ## BELIV
 
-The other workshop I went to on Sunday was <a href="https://beliv-workshop.github.io">BELIV, the workshop on novel evaluation techniques in visualization</a>. I had to duck out of VisComm to present <a href="https://eagereyes.org/papers/skipping-the-replication-crisis-in-visualization">my paper with Steve Haroz</a> there, then head back for the rest of the morning. I then spent the afternoon at BELIV.
+The other workshop I went to on Sunday was <a href="https://beliv-workshop.github.io">BELIV, the workshop on novel evaluation techniques in visualization</a>. I had to duck out of VisComm to present <a href="/papers/skipping-the-replication-crisis-in-visualization">my paper with Steve Haroz</a> there, then head back for the rest of the morning. I then spent the afternoon at BELIV.
 
 BELIV’s topic for the keynote (which I missed) and papers this year was replication in visualization. The afternoon sessions were organized as breakouts, which makes a lot of sense for workshops, but is actually fairly unusual (most are run as mini-conferences). I think it worked well though, and we discussed a wide range of topics, like how data exploration and statistically sound reasoning can co-exist, replication for quantitative studies, etc.
 
@@ -72,7 +72,7 @@ Gabriela Molina says…
 >	Just wanted to let you know: 
 >	The link to the Gaia website has an error - there is a "%20" that shouldn't be there.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Fixed, thank you!
 
 </aside>

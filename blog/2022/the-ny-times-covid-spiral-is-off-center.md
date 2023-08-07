@@ -17,7 +17,7 @@ The piece in question is titled <em><a href="https://www.nytimes.com/2022/01/06/
 
 The initial response was largely negative, which then led to a wave of people defending it. I don't want to get into any arguments about whether liking it or not means you're narrow-minded, etc. – but I do want to point out what bothered me from the beginning, even though it took me a while to put my finger on it.
 
-<a href="https://eagereyes.org/techniques/spirals" data-type="post" data-id="826">Spirals aren't uncommon to show periodic data</a>, and the seasonal nature of COVID infections was clearly part of the inspiration here. We could argue whether the width of a ribbon is a good idea, and the choice of color was probably a large reason why this piece got such a strong reaction. But what bothers me is the wobbly spiral.
+<a href="/techniques/spirals" data-type="post" data-id="826">Spirals aren't uncommon to show periodic data</a>, and the seasonal nature of COVID infections was clearly part of the inspiration here. We could argue whether the width of a ribbon is a good idea, and the choice of color was probably a large reason why this piece got such a strong reaction. But what bothers me is the wobbly spiral.
 
 I've overlaid an <a href="https://en.wikipedia.org/wiki/Archimedean_spiral">Archimedean spiral</a> on the chart below. It's centered on the same center as the one in the chart on the left, and shifted over to better match the piece on the right.
 

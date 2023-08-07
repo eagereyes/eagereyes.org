@@ -19,7 +19,7 @@ For the runs, let's just meet in the hotel lobby at 6:30am on Tuesday, Wednesday
 
 For the routes, I will look at where people run on Strava. However, I suspect that we'll simply go out to the lake and run along there. That seems like the obvious option, and we might get a glimpse of a pretty sunrise there.
 
-We did this the first time last year at <a href="https://eagereyes.org/blog/2014/vis-2014-monday">VIS</a>, and it was a lot of fun to run around Paris in the dark. I also tried it at <a href="https://eagereyes.org/blog/2015/report-eurovis-2015">EuroVis</a>, but it was mostly just Stephen Kobourov and me. It was a great way to see some more of Cagliari though.
+We did this the first time last year at <a href="/blog/2014/vis-2014-monday">VIS</a>, and it was a lot of fun to run around Paris in the dark. I also tried it at <a href="/blog/2015/report-eurovis-2015">EuroVis</a>, but it was mostly just Stephen Kobourov and me. It was a great way to see some more of Cagliari though.
 
 So pack your shoes and shorts (and maybe some warm running clothes and a beanie/tuque) and join us! I know it's early but it's really the only time that works with all the parties and dinners and things planned for the nights.
 

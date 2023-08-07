@@ -15,7 +15,7 @@ At IEEE VIS this year, we're organizing the third <a href="https://viscomm.io">W
 
 We've had a good response to the workshop the first two years, both from within the research community and from outside. Last year, the (admittedly small) room we were in was packed to the point where people were standing in the doors to see what was being presented.
 
-Communication with data has become more important than ever in the last few months, such as the <a href="https://eagereyes.org/blog/2020/the-visual-evolution-of-the-flattening-the-curve-information-graphic">flattening the curve</a> and the widely-used <a href="https://eagereyes.org/blog/2020/in-praise-of-the-diagonal-reference-line">COVID-19 tracking charts</a>. This is obviously a topic of interest for the workshop, and we're looking both for what can be learned from what has been done, and ideas for what other ways data around the pandemic can be communicated.
+Communication with data has become more important than ever in the last few months, such as the <a href="/blog/2020/the-visual-evolution-of-the-flattening-the-curve-information-graphic">flattening the curve</a> and the widely-used <a href="/blog/2020/in-praise-of-the-diagonal-reference-line">COVID-19 tracking charts</a>. This is obviously a topic of interest for the workshop, and we're looking both for what can be learned from what has been done, and ideas for what other ways data around the pandemic can be communicated.
 
 We're in no way limiting the topic, however. Any and all submissions dealing with the presentation and communication (as opposed to analysis) of data are welcome.
 

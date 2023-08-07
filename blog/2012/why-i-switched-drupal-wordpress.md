@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2011/12/features.p
 
 # Why I Switched From Drupal to WordPress
 
-After <a title="Five Years of EagerEyes" href="http://eagereyes.org/blog/2011/five-years-of-eagereyes">more than five years</a>, switching the content management system (CMS) on <a href="http://eagereyes.org/">eagereyes</a> was not an easy decision. I've been thinking about doing that for a while though, and I want to explain my reasons and what I expect WordPress to do better than Drupal below. This should also be useful for anybody who is on the fence about starting a blog (or has a blog that hasn't been updated in a while).
+After <a title="Five Years of EagerEyes" href="/blog/2011/five-years-of-eagereyes">more than five years</a>, switching the content management system (CMS) on <a href="/">eagereyes</a> was not an easy decision. I've been thinking about doing that for a while though, and I want to explain my reasons and what I expect WordPress to do better than Drupal below. This should also be useful for anybody who is on the fence about starting a blog (or has a blog that hasn't been updated in a while).
 
 The key issue is really simple: maximize blogging, minimize administrative stuff. It gets a bit more complicated when looking at the details, but that's really the main thing I want from WordPress: let me be efficient about the little administrative things, stop me from tinkering endlessly with stuff, and help me focus on the writing.
 
@@ -28,7 +28,7 @@ The Drupal Way may be clever engineering, but it isn't exactly obvious how to do
 
 I'm not going to claim that WordPress does everything right, but it does the things I need. That is actually a fairly recent thing, from what I have seen. WordPress 3.3, which was released December 12, now makes it possible to use categories in the "slug" (that's WordPress-speak for URL) without a performance penalty. WordPress's way of handling URLs is completely beyond me (why not just let me pick any old URL like Drupal does and do a simple lookup instead of trying to parse the components?), but I was able to make it work. Part of this has to do with my existing, informal URL scheme that I've used for years. Since most URLs on the site are fairly predictable, it wasn't too difficult to create a matching scheme of categories.
 
-A lot of URLs still had to change, and I went to some lengths to make sure those would be forwarded properly. One thing I did for a while was pretend that the site was really based on files by attaching .html to all the URLs. WordPress won't let me do that, so there is now a generic forwarding rule that chops off the .html when it finds it. Some of the oldest pages on the site also used CamelCase in their URLs (a horrible idea I abandoned fairly quickly). Some of the most popular postings on the site did that though, and those needed special redirect rules. There are also a number of postings that really should have gone into a category but I only decided to create the category or section later, like the papers. Those were moved while I was at it and redirection rules applied. I also decided to finally split the <a title="ZIPScribble Maps" href="http://eagereyes.org/zipscribble-maps">ZIPScribble maps pages into separate ones by country</a>, so I could create the nifty little menu at the top of the page.
+A lot of URLs still had to change, and I went to some lengths to make sure those would be forwarded properly. One thing I did for a while was pretend that the site was really based on files by attaching .html to all the URLs. WordPress won't let me do that, so there is now a generic forwarding rule that chops off the .html when it finds it. Some of the oldest pages on the site also used CamelCase in their URLs (a horrible idea I abandoned fairly quickly). Some of the most popular postings on the site did that though, and those needed special redirect rules. There are also a number of postings that really should have gone into a category but I only decided to create the category or section later, like the papers. Those were moved while I was at it and redirection rules applied. I also decided to finally split the <a title="ZIPScribble Maps" href="/zipscribble-maps">ZIPScribble maps pages into separate ones by country</a>, so I could create the nifty little menu at the top of the page.
 
 I actually made a list of all the old and new URLs and wrote a little script that tested whether all the required pages existed and all the redirects worked before I switched the site over. There are still a few issues with URLs that I am cleaning up as I look through the page-not-found errors, but overall things have been smooth.
 
@@ -44,7 +44,7 @@ The same is true for the design, which despite its simplicity consists of about 
 
 The point, though, is that the result works. The new site now uses a design that I have not built myself, and where I have changed practically nothing. No longer is the theme based on whatever design technique I just figured out how to do (rounded corners! inner shadows!) or my idea of using space. Instead, the theme is simple, beautiful, and doesn't try to compete with the content.
 
-And I'm finally <a title="Starting Your Own Visualization Blog" href="http://eagereyes.org/blog/2009/starting-your-own-visualization-blog">practicing what I'm preaching</a>. Rather than obsessing about performance or elegance, and rather than insisting on a particular way of doing things, I actually do things. And that is all that counts.
+And I'm finally <a title="Starting Your Own Visualization Blog" href="/blog/2009/starting-your-own-visualization-blog">practicing what I'm preaching</a>. Rather than obsessing about performance or elegance, and rather than insisting on a particular way of doing things, I actually do things. And that is all that counts.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on January 02, 2012_
@@ -68,14 +68,14 @@ _Posted by <a href="/about">Robert Kosara</a> on January 02, 2012_
 ERB says…
 >	I read your stuff through a RSS reader, so the platform for this end-user is largely irrelevant. That's not a criticism, mind-you: I'm a fan of Wordpress because it's just enough functionality to feel like you have options, but not enough to feel overwhelmed by them.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	The e-commerce part is definitely doable in WordPress, though I don't have any experience with that. I've seen it done though, a lot of theme websites have WordPress-based stores.
 >	
 >	As for the wiki, that will have to be done in a separate system anyway. I've seen attempts at doing Wikis directly in Drupal, and they're terrible. And there's also good forum software that talks to WordPress. Granted, it's not integrated as well as the Drupal forum, but it works.
 >	
 >	So I don't think that it's a question of features necessarily. It's a question of priorities: do you want to be able to tinker and build things a certain way, or do you want to be able to make more use of existing work that fits together and works (mostly)?
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Interesting point. One of the things I like about this theme is that it actually looks a lot like my newsreader. There are many sites I prefer reading in it (and in Safari's Reader mode), because the layout is just much more pleasant that way.
 >	
 >	But I do get about the same number of people visiting the site per week as I have news subscribers, so it makes sense to have a decent-looking website. Also, the newsreader folks don't tend to explore things on the site nearly as much as people who come here. And people need to find the site before they subscribe, of course (and not nearly everybody who comes here also subscribes to the feed).
@@ -112,7 +112,7 @@ ERB says…
 >	Best,
 >	Gregor
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Great pointers, thanks! I'm already using W3 Total Cache, and I have other plugins to take care of the /category/ part of URLs. Backups are also handled separately and redundantly by different programs and services, so no worries there ;)
 >	
 >	Login Lockdown looks like a good idea, I'll definitely install that. I also like the Organize Series plugin, since I have quite a few of those. Though I wonder if that might be a nightmare to add now that I have the site's structure already set up.
@@ -181,7 +181,7 @@ Steven says…
 >	
 >	Garan.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I'm still happy with my switch, and I haven't looked back. WP is still doing everything I need it to, and it has been stable and reliable.
 
 <a href="http://drupalmint.com/" rel="nofollow noopener" target="_blank">DrupalMint</a> says…

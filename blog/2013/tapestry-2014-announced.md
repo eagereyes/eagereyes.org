@@ -11,7 +11,7 @@ outline: false
 
 # Tapestry 2014 Announced
 
-After a very successful <a title="Conference Report: Tapestry 2013" href="http://eagereyes.org/blog/2013/conference-report-tapestry-2013">Tapestry conference</a> in February this year, we have been getting a steady stream of questions from people about another event next year. Now we're finally able to announce next year's event. And it will be awesome, again.
+After a very successful <a title="Conference Report: Tapestry 2013" href="/blog/2013/conference-report-tapestry-2013">Tapestry conference</a> in February this year, we have been getting a steady stream of questions from people about another event next year. Now we're finally able to announce next year's event. And it will be awesome, again.
 
 There's no point in listing all the information here, since I also wrote <a href="http://www.tapestryconference.com/blog/2013/tapestry-2014">the announcement posting on the Tapestry blog</a>. But we have another great line-up for keynotes and short stories, there will be a demos session, and we will also have posters.
 

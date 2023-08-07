@@ -16,7 +16,7 @@ The ratio between the width and the height of a rectangle is called its aspect r
 
 When applied to visualization, the aspect ratio describes the area that is occupied by the data in the chart, even if the overall chart area might be larger. A change in aspect ratio means a change in the angle of the lines, etc.
 
-The image below shows the same graph (which you may remember from <a href="http://eagereyes.org/basics/baselines">the posting on baselines</a>) in three different aspect ratios. Note how the same parts of the graph have very different slopes in the different versions.
+The image below shows the same graph (which you may remember from <a href="/basics/baselines">the posting on baselines</a>) in three different aspect ratios. Note how the same parts of the graph have very different slopes in the different versions.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/06/aspect-ratios.png" alt="" width="300" height="200" /></p>
 

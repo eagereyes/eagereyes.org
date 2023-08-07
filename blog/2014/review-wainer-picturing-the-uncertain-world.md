@@ -20,7 +20,7 @@ And it turns out that there is even a connection between Wainer and Kaiser Fung,
 
 https://twitter.com/junkcharts/status/542413444247347202
 
-This is also interesting because the book reminded me of <a title="Review: Kaiser Fung, Numbers Rule Your World" href="https://eagereyes.org/criticism/kaiser-fung-numbers-rule-your-world">Kaiser's <em>Numbers Rule Your World</em></a> and <em>Numbersense.</em> It all makes sense.
+This is also interesting because the book reminded me of <a title="Review: Kaiser Fung, Numbers Rule Your World" href="/criticism/kaiser-fung-numbers-rule-your-world">Kaiser's <em>Numbers Rule Your World</em></a> and <em>Numbersense.</em> It all makes sense.
 
 ## The Book
 

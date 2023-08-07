@@ -11,7 +11,7 @@ outline: false
 
 Rainbow colormaps are among the most derided ideas in data visualization, second only to pie charts. And yet, people use them. Why? <a href="https://www.computer.org/csdl/magazine/cg/2023/03/10128890/1NdJMHqISnS?fbclid=IwAR2Aq4iRqdmeIUCw5_Oy4vjJDGVek23wNWEGlEJMML82BWyYGplFXqK8uqU">A recent paper</a> looks at some of the reasons why they are so popular and points to research showing that they might not be so bad if used for the right tasks. There's even opportunity for interesting research in rainbow colormaps!
 
-Finger-wagging about rainbow colormaps is a pretty common pastime in visualization, <a href="https://eagereyes.org/basics/rainbow-color-map" data-type="post" data-id="2426">I've done it too</a>! And it's not like there aren't good reasons. Look at this map of maximum temperatures in the US, <a href="https://digital.mdl.nws.noaa.gov">published by NOAA</a>, for example:
+Finger-wagging about rainbow colormaps is a pretty common pastime in visualization, <a href="/basics/rainbow-color-map" data-type="post" data-id="2426">I've done it too</a>! And it's not like there aren't good reasons. Look at this map of maximum temperatures in the US, <a href="https://digital.mdl.nws.noaa.gov">published by NOAA</a>, for example:
 
 <figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2023/07/heat-map-1320x649.jpeg" alt="A map of maximum temperatures in the US, shown using a scale from 0 to 130 degrees and using a rainbow colormap" class="wp-image-104596"/></figure>
 

@@ -15,9 +15,9 @@ featuredImage: https://media.eagereyes.org/media/2011/visually-teaser.png
 
 Let's take a step back and look at the three stages we generally talk about in visualization: exploration, analysis, and presentation. Academic work and tools like Tableau focus on the first two, while there is still very little actual work on the latter. The usual assumption is that the same tools and techniques can be used there as for exploration and analysis, and little attention is typically paid to it.
 
-The result is that presentation is taken over by infographics with varying levels of quality, because people simply get tired of looking at the same bar chart for every piece of data. I think it's clear that infographics aren't just popular, <a href="http://eagereyes.org/blog/2011/want-to-make-chart-memorable-add-junk">they are also more memorable</a>, and <a href="http://eagereyes.org/criticism/fascinating-world-of-good-infographics">when they're done well</a>, can be very effective.
+The result is that presentation is taken over by infographics with varying levels of quality, because people simply get tired of looking at the same bar chart for every piece of data. I think it's clear that infographics aren't just popular, <a href="/blog/2011/want-to-make-chart-memorable-add-junk">they are also more memorable</a>, and <a href="/criticism/fascinating-world-of-good-infographics">when they're done well</a>, can be very effective.
 
-The <a href="http://eagereyes.org/blog/2010/the-difference-between-infographics-and-visualization">key difference between visualization and infographics</a> is that the former is easy to automate and generic, while the latter are specific and usually hand-drawn. Now imagine a better way to create infographics based on data: a way that lets designers work with numbers more easily to create graphics that are visually exciting while still true to the data; a way that encourages and embodies best practices in visualization for designers. That's Visual.ly.
+The <a href="/blog/2010/the-difference-between-infographics-and-visualization">key difference between visualization and infographics</a> is that the former is easy to automate and generic, while the latter are specific and usually hand-drawn. Now imagine a better way to create infographics based on data: a way that lets designers work with numbers more easily to create graphics that are visually exciting while still true to the data; a way that encourages and embodies best practices in visualization for designers. That's Visual.ly.
 
 ## The Infographics Creation Tool
 
@@ -45,7 +45,7 @@ Why don't they use Protovis? While it's an incredibly clever tool, its extensive
 
 Visual.ly's current website is somewhat disingenuous because it makes it appear to be one thing, when it really is much more. What I haven't even talked about are the tools for finding data, visualization templates, or the custom work they are doing for a number of large media companies. This diversity is a great strength, because they're not only building things for other people, they have developers and users in the same company. This makes it harder to pin down what exactly they're doing (in fact, I wonder what their elevator pitch is), but it also means that the results will be much better.
 
-In a way, the current website shows the least interesting part of Visual.ly. But things will be revealed over time, and the more exciting projects will soon be made public. If there really is <a href="http://eagereyes.org/blog/2011/a-middle-ground">a middle ground between infographics and visualization</a>, Visual.ly is in the best possible position of getting us there. I think that is an exciting prospect.
+In a way, the current website shows the least interesting part of Visual.ly. But things will be revealed over time, and the more exciting projects will soon be made public. If there really is <a href="/blog/2011/a-middle-ground">a middle ground between infographics and visualization</a>, Visual.ly is in the best possible position of getting us there. I think that is an exciting prospect.
 
 ## Who is Behind Visual.ly
 

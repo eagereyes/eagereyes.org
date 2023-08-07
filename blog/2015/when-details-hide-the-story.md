@@ -39,7 +39,7 @@ This view is also more similar to the original than Fung's. Perhaps that could h
 
 It's easy to jump on charts that hide parts of the data, and often those are poorly done. But insisting on showing more data does not always lead to a better solution. That is particularly true when the data is as noisy as in this case, and when there are artifacts that only distract from the actual point.
 
-We always need to ask why the chart was made, <a href="https://eagereyes.org/blog/2015/the-point-of-a-chart">for what purpose</a>, to what end.
+We always need to ask why the chart was made, <a href="/blog/2015/the-point-of-a-chart">for what purpose</a>, to what end.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 25, 2015_

@@ -23,7 +23,7 @@ Wolfgang Aigner presented to papers, <em>Bertin was Right: An Empirical Evaluati
 
 Aigner and colleagues have also put together <a href="http://survey.timeviz.net/">a nice survey website of time visualization techniques</a>. Unfortunately, all the “Read More” links just lead to their book promotion page, which is a bit disappointing. It’s a good overview though, and there is a clever interface for filtering using a variety of criteria.
 
-Aritra Dasgupta also presented our paper <em><a href="http://eagereyes.org/papers/conceptualizing-visual-uncertainty-in-parallel-coordinates">Conceptualizing Visual Uncertainty in Parallel Coordinates</a></em>, which unfortunately was part of a session on uncertainty where the other papers were all from SciVis and dealt with data uncertainty rather than visual uncertainty. That’s understandable, of course, given the small amount of work on visual uncertainty so far, and perhaps it helped get some people interested in the topic.
+Aritra Dasgupta also presented our paper <em><a href="/papers/conceptualizing-visual-uncertainty-in-parallel-coordinates">Conceptualizing Visual Uncertainty in Parallel Coordinates</a></em>, which unfortunately was part of a session on uncertainty where the other papers were all from SciVis and dealt with data uncertainty rather than visual uncertainty. That’s understandable, of course, given the small amount of work on visual uncertainty so far, and perhaps it helped get some people interested in the topic.
 
 While there was no huge highlight, there were a lot of solid papers and some good discussions during the Q&amp;A.
 

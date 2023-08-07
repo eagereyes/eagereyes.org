@@ -16,7 +16,7 @@ If this was such a boring year, how come Andy Kirk have  <a href="http://www.v
 
 ## Academic InfoVis
 
-I’m still awed by the quality of <a href="https://eagereyes.org/tag/ieeevis">InfoVis 2014</a>. It wasn’t even just the content of the papers that was really good, it was the whole package: present interesting new findings, present them well, make your data and/or code available. This had never happened with such consistency and at that level of quality before.
+I’m still awed by the quality of <a href="/tag/ieeevis">InfoVis 2014</a>. It wasn’t even just the content of the papers that was really good, it was the whole package: present interesting new findings, present them well, make your data and/or code available. This had never happened with such consistency and at that level of quality before.
 
 The direction of much of the research is also different. There were barely any new technique papers, which is largely a good thing. For a while, there were lots of new techniques that didn't actually solve any real problems, but were assumed to be the way forward. Now we're seeing more of a theoretical bent (like the AlgebraicVis paper), more basic research that looks very promising (e.g., the Weber's Law paper), and papers questioning long-held assumptions (the bar charts perception paper, the error bars paper, the paper on staged animation, etc.).
 
@@ -24,11 +24,11 @@ Thoughtfully replicating, critiquing, and improving upon oft-cited older papers
 
 ## Storytelling
 
-I talked about storytelling <a href="https://eagereyes.org/blog/2014/the-state-of-information-visualization-2014">at the beginning of last year</a>, and 2014 was clearly a big one for that. Besides the <em>Story Points</em> feature in Tableau 8.2, there have been many interesting new approaches to building more compelling stories from data.
+I talked about storytelling <a href="/blog/2014/the-state-of-information-visualization-2014">at the beginning of last year</a>, and 2014 was clearly a big one for that. Besides the <em>Story Points</em> feature in Tableau 8.2, there have been many interesting new approaches to building more compelling stories from data.
 
 Some new formats are also emerging, like <a href="http://www.bloomberg.com/visual-data/">Bloomberg View’s</a> <a href="http://www.bloomberg.com/dataview/2014-02-25/bubble-to-bust-to-recovery.html">Data View series</a> (unfortunately, there doesn’t seem to be a way to list all of them). I’m not yet convinced by the ever more common “scrollytelling” format, and have seen some really annoying and distracting examples. I don’t entirely agree with <a href="http://bost.ocks.org/mike/scroll/">Mike Bostock’s argument that scrolling is easier than clicking</a>, but he at least has some good advice for people building these sorts of things.
 
-There was also a bit of a discussion about stories between Moritz Stefaner and myself, with Moritz <a href="http://well-formed-data.net/archives/868/look-ma-no-story">firing the first shot</a>, <a href="https://eagereyes.org/blog/2014/stories-are-gateways-into-worlds">my response</a> plus <a href="https://eagereyes.org/blog/2014/story-a-definition">a definition of story</a>, and finally a <a href="https://eagereyes.org/blog/2014/data-stories-episode-about-data-storytelling">Data Stories episode about data stories</a> where we sorted it all out.
+There was also a bit of a discussion about stories between Moritz Stefaner and myself, with Moritz <a href="http://well-formed-data.net/archives/868/look-ma-no-story">firing the first shot</a>, <a href="/blog/2014/stories-are-gateways-into-worlds">my response</a> plus <a href="/blog/2014/story-a-definition">a definition of story</a>, and finally a <a href="/blog/2014/data-stories-episode-about-data-storytelling">Data Stories episode about data stories</a> where we sorted it all out.
 
 There is no doubt that we'll see more of this in the coming years. The tools are improving and people are starting to experiment and learn what works and what doesn't. I hope that we will also see more and deeper academic work in this area.
 

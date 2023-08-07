@@ -18,7 +18,7 @@ Both quantitative and categorical data have some finer distinctions, but I will 
 
 ## Quantitative Data: Values
 
-Most data sets contain both types of data. It’s actually quite difficult to visualize data that is purely quantitative or purely categorical (<a title="Parallel Coordinates" href="http://eagereyes.org/techniques/parallel-coordinates">parallel coordinates</a> are a good way to show the former, <a title="Parallel Sets" href="http://eagereyes.org/parallel-sets">parallel sets</a> for the latter).
+Most data sets contain both types of data. It’s actually quite difficult to visualize data that is purely quantitative or purely categorical (<a title="Parallel Coordinates" href="/techniques/parallel-coordinates">parallel coordinates</a> are a good way to show the former, <a title="Parallel Sets" href="/parallel-sets">parallel sets</a> for the latter).
 
 Let’s take the example of a hypothetical coffee chain and look at their profits. A simple bar chart can show this data broken down by product type.
 
@@ -84,7 +84,7 @@ BSperling says…
 >	Best,
 >	Bert
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	You can't count types, like espresso vs. coffee. That's a classification. You might argue that you can measure that, which may sometimes be true. But the way we think about categories is not as one being more than the other (like with amount or count), but each being different from the others.
 >	
 >	Static vs. longitudinal is a different way of looking at it, but it doesn't change the underlying type of most of your data. Time is a special case, and continuous can always be converted into categorical (e.g., you might classify age into age groups or weight into low/medium/high, etc.). But the underlying data still has a type that is either quantitive or categorical.

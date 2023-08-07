@@ -9,14 +9,14 @@ outline: false
 
 # A Smart Take on Election Maps
 
-When maps are used to display data, there is often a discrepancy between the data being shown, which almost never relates to area, and the area of the different parts of the map. This is <a href="https://eagereyes.org/blog/2016/all-those-misleading-election-maps">particularly common in election maps</a>. This new <a href="https://xkcd.com/1939/">map of votes in the 2016 U.S. Presidential election</a> cleverly combines geography and data in a clear and compelling way.
+When maps are used to display data, there is often a discrepancy between the data being shown, which almost never relates to area, and the area of the different parts of the map. This is <a href="/blog/2016/all-those-misleading-election-maps">particularly common in election maps</a>. This new <a href="https://xkcd.com/1939/">map of votes in the 2016 U.S. Presidential election</a> cleverly combines geography and data in a clear and compelling way.
 
-This map is another piece by <a href="https://xkcd.com">xkcd</a>'s Randall Munroe (also author of <a href="https://eagereyes.org/blog/2015/review-munroes-thing-explainer-and-pinkers-sense-of-style"><em>Thing Explainer</em></a>). It works well for a number of reasons.
+This map is another piece by <a href="https://xkcd.com">xkcd</a>'s Randall Munroe (also author of <a href="/blog/2015/review-munroes-thing-explainer-and-pinkers-sense-of-style"><em>Thing Explainer</em></a>). It works well for a number of reasons.
 
 <ul>
  	<li>It doesn't distort our perception of the data by using color on area, which is determined by land surface rather than population or electoral votes.</li>
  	<li>It doesn't distort geography, like cartograms</li>
- 	<li>It uses symbols of people to show a set multiple (somewhat similar to <a href="https://eagereyes.org/techniques/isotype">ISOTYPE</a>)</li>
+ 	<li>It uses symbols of people to show a set multiple (somewhat similar to <a href="/techniques/isotype">ISOTYPE</a>)</li>
  	<li>Its hand-drawn aesthetic is fun and non-intimidating</li>
 </ul>
 

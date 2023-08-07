@@ -20,7 +20,7 @@ To create a user or login, use the login box at the top right. It will move down
 
 ## Theme
 
-As far as the theme is concerned, I have tried and failed to make it more minimalist. While I'm a big fan of minimalism, I don't seem to be able to do it myself. So I took the opposite route and actually added some ornamentation to the layout. And in staying true to this site's topic, I've taken a hint from <a href="http://eagereyes.org/Techniques/Treemaps.html">Cushion Treemaps</a> to <span style="text-decoration: line-through;">sexy up</span> perceptually distinguish the menu.
+As far as the theme is concerned, I have tried and failed to make it more minimalist. While I'm a big fan of minimalism, I don't seem to be able to do it myself. So I took the opposite route and actually added some ornamentation to the layout. And in staying true to this site's topic, I've taken a hint from <a href="/Techniques/Treemaps.html">Cushion Treemaps</a> to <span style="text-decoration: line-through;">sexy up</span> perceptually distinguish the menu.
 
 I've tested the site in Safari 3.1, FireFox 3, and IE7. Please let me know if there are problems, especially in browsers I have not yet tested.
 

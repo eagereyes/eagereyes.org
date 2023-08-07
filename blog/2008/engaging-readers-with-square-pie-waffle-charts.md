@@ -11,7 +11,7 @@ outline: false
 
 # Engaging Readers with Square Pie/Waffle Charts
 
-Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The <a href="http://eagereyes.org/Techniques/SquarePieCharts.html">square pie chart</a> (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar.
+Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The <a href="/Techniques/SquarePieCharts.html">square pie chart</a> (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar.
 
 The above chart was used in a <a href="http://www.nytimes.com/2008/07/20/business/20debt.html">series of articles on debt in the US</a> in the New York Times. While not strictly a square pie chart, it does illustrate its main features: it's visually interesting, very readable and discoverable, and it does not distort the data.
 
@@ -29,7 +29,7 @@ I actually think that this chart is quite clever. It uses a 10x10 grid as the ba
 
 In short, the chart has a style and a message. Good charts do not only have to be correct, they also have to be appealing. And this is well done here.
 
-There is also a collection of <a href="http://www.enterprise-dashboard.com/2008/05/06/the-square-pie-chart/">good examples of pie charts in business graphics</a>. Some of them may be a bit overloaded, but compared with other sins committed in business graphics and dashboards, it's very tame. I'd take a matrix/waffle/square pie chart over gauges and artificial horizons any day. Perhaps the influence of <a href="http://eagereyes.org/Techniques/Treemaps.html">treemaps</a>&nbsp;in business also helps make these charts look more familiar and thus more acceptable.
+There is also a collection of <a href="http://www.enterprise-dashboard.com/2008/05/06/the-square-pie-chart/">good examples of pie charts in business graphics</a>. Some of them may be a bit overloaded, but compared with other sins committed in business graphics and dashboards, it's very tame. I'd take a matrix/waffle/square pie chart over gauges and artificial horizons any day. Perhaps the influence of <a href="/Techniques/Treemaps.html">treemaps</a>&nbsp;in business also helps make these charts look more familiar and thus more acceptable.
 
 There is no doubt that we need to be careful about the choice of visual representation, and that we need to encourage the use of good charts and criticize the bad ones. But that doesn't mean we can get lazy and squeeze everything into a few standard charts types we've been using for decades. That is especially true if we want people to actually care about what we're trying to show &ndash;&nbsp;and not bore them to tears.
 
@@ -51,7 +51,7 @@ _Posted by <a href="/about">Robert Kosara</a> on September 07, 2008_
 
 Robert Kosara says…
 >	<p>Heh, my initial notes said "respond to Jon Peltier's criticism" - I've seen you post links and make statements about these charts, and I will look into those in more detail soon. And I'm not entirely disagreeing with you: that&nbsp;<a href="http://www.enterprise-dashboard.com/2008/05/06/the-square-pie-chart/">business graphics page</a>&nbsp;I linked above has one chart with a hole in the middle and a very uneven layout, for example.&nbsp;But there is no chart type that can't be abused. Overall though, I think that these are much better than the traditional pie charts.</p>
->	<p>As I said in <a href="http://eagereyes.org/Techniques/SquarePieCharts.html">my original square pie charts posting</a>, it's probably a good idea to lay the chart out like a squarified treemap. That makes the parts as comparable as possible &ndash; perhaps not perfect, but still better and more accurate than pie charts.</p>
+>	<p>As I said in <a href="/Techniques/SquarePieCharts.html">my original square pie charts posting</a>, it's probably a good idea to lay the chart out like a squarified treemap. That makes the parts as comparable as possible &ndash; perhaps not perfect, but still better and more accurate than pie charts.</p>
 
 Jason says…
 >	I find the first graph a little misleading.  It's apples and oranges.  One is a total, the other a total per year.  To me it would have been much more interesting if the there were two levels.  On the first level, it showed the total debt, like in above left and to the right of it, it showed the total savings of the average household.  Then below that, on the left it could show yearly payments to debt and to the right of that the savings per year as per the graph above on the right.

@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-wed-
 
 # VIS 2015 – Wednesday
 
-The second full day of VIS 2015 brought lots of papers on applications and design studies, and also a panel on solved problems in visualization. As <a href="https://eagereyes.org/blog/2015/vis-2015-tuesday">on the first day</a>, I have some observations and thoughts.
+The second full day of VIS 2015 brought lots of papers on applications and design studies, and also a panel on solved problems in visualization. As <a href="/blog/2015/vis-2015-tuesday">on the first day</a>, I have some observations and thoughts.
 
 Here are two things I keep noticing and it baffles me that so many people don’t seem to be aware of them. One is that many presenters don’t bother linking to more information. When you give me a link to some sort of landing page, no matter how basic, it’s way easier (and more likely) for me to tweet or write about it. It’s not very interesting to tweet about things that you can’t point people to materials for. In this day and age, it should really be a given that any paper has some sort of page, even if it only has the title, abstract, and link to the PDF on it. Make your stuff findable and accessible (or follow <a href="http://steveharoz.com/blog/2015/tips-for-hiding-your-publications/">Steve Haroz’s advice on how to hide your work</a>).
 
@@ -42,7 +42,7 @@ There have been lots of panels on open problems in the past, so it was pretty in
 
 It’s a difficult panel to write about because I disagree with many of the things they said. It was also a challenging topic, since it goes entirely against the way academics tend to think (which is to look for the unsolved problems and open questions).
 
-Some of the position statements were interesting to listen to but ultimately not very enlightening. Robert Moorhead picked up <a href="https://eagereyes.org/criticism/definition-of-visualization">my definition of visualization</a> to base his talk on, and had some good critiques (e.g., whether a camera is a visualization device or not, given the amount of processing that goes on in creating the image). Some of the other argued about the semantics of what it means to solve something, or what we should be looking for next.
+Some of the position statements were interesting to listen to but ultimately not very enlightening. Robert Moorhead picked up <a href="/criticism/definition-of-visualization">my definition of visualization</a> to base his talk on, and had some good critiques (e.g., whether a camera is a visualization device or not, given the amount of processing that goes on in creating the image). Some of the other argued about the semantics of what it means to solve something, or what we should be looking for next.
 
 Penny Rheingans addressed the question most directly by talking about which problems were covered in curricula and textbooks. Those tend to be solved, or at least understood well enough to be taught. She also had [the clearest definition of what <em>solved</em> might even mean](https://twitter.com/alexander_lex/status/659460859077480448).
 
@@ -54,7 +54,7 @@ On balance, I think the panel did get people to think (and there was clearly int
 
 ## Weber’s Law Revisited and Missed
 
-Unfortunately, I missed a paper I had wanted to see: <a href="http://idl.cs.washington.edu/papers/beyond-webers-law"><em>Beyond Weber’s Law: A Second Look at Ranking Visualizations of Correlation</em></a> by Matthew Kay and Jeffrey Heer. They reanalyzed the data from the <a href="https://eagereyes.org/blog/2014/vis-2014-thursday">Weber’s Law paper at last year’s VIS</a> and came up with a refined model that comes to some different conclusions than the original paper. This is interesting both because it’s important in its own right, and because this is the way real science works. The paper also got a best paper honorable mention for its careful writing and reevaluation, so definitely worth checking out.
+Unfortunately, I missed a paper I had wanted to see: <a href="http://idl.cs.washington.edu/papers/beyond-webers-law"><em>Beyond Weber’s Law: A Second Look at Ranking Visualizations of Correlation</em></a> by Matthew Kay and Jeffrey Heer. They reanalyzed the data from the <a href="/blog/2014/vis-2014-thursday">Weber’s Law paper at last year’s VIS</a> and came up with a refined model that comes to some different conclusions than the original paper. This is interesting both because it’s important in its own right, and because this is the way real science works. The paper also got a best paper honorable mention for its careful writing and reevaluation, so definitely worth checking out.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 28, 2015_

@@ -11,7 +11,7 @@ outline: false
 
 # Speaking: How to Use A Microphone
 
-When you’re <a href="https://eagereyes.org/tag/speaking">speaking in front of an audience</a>, you’re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can’t do that if you don’t know how to use it or if you actively work against it.
+When you’re <a href="/tag/speaking">speaking in front of an audience</a>, you’re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can’t do that if you don’t know how to use it or if you actively work against it.
 
 <strong>Listen for your own voice</strong>. This is the key and basically subsumes all of my points below. You have to listen to your own voice coming through the speakers. Can’t hear it? Neither can your audience. Is it fading in and out? Same for your audience. This isn’t magic, it’s just a matter of some basic self-awareness.
 
@@ -31,7 +31,7 @@ What’s the point of giving a talk if people can’t hear you? If they’re str
 
 <hr />
 
-See also <a href="https://eagereyes.org/blog/2016/common-speaking-mistakes-to-avoid">my other posting about common speaking mistakes</a>!
+See also <a href="/blog/2016/common-speaking-mistakes-to-avoid">my other posting about common speaking mistakes</a>!
 
 <a href="https://www.flickr.com/photos/lincolnblues/6262298600">Teaser image by Craig Piersma</a>
 

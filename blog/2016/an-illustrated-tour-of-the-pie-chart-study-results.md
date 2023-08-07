@@ -8,13 +8,13 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/variations
 
 # An Illustrated Tour of the Pie Chart Study Results
 
-In <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">two papers</a>, <a href="https://twitter.com/seeingstructure">Drew Skau</a> and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!
+In <a href="/papers/a-pair-of-pie-chart-papers">two papers</a>, <a href="https://twitter.com/seeingstructure">Drew Skau</a> and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!
 
-For my talk at <a href="http://informationplusconference.com">Information+</a>, I redid the figures we had used in the <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">EuroVis pie chart papers</a>, both for the papers themselves and for the presentations. The result is much clearer, I think. I figured I'd share them here since they give a nice walk-through of the study results using the real data, but without too much detail. While the violin plots provide useful information during analysis, they're just too detailed for presentation – I feel like <a href="https://eagereyes.org/papers/presentation-oriented-visualization-techniques">I should have seen that coming</a>.
+For my talk at <a href="http://informationplusconference.com">Information+</a>, I redid the figures we had used in the <a href="/papers/a-pair-of-pie-chart-papers">EuroVis pie chart papers</a>, both for the papers themselves and for the presentations. The result is much clearer, I think. I figured I'd share them here since they give a nice walk-through of the study results using the real data, but without too much detail. While the violin plots provide useful information during analysis, they're just too detailed for presentation – I feel like <a href="/papers/presentation-oriented-visualization-techniques">I should have seen that coming</a>.
 
 ## How the Charts Work
 
-What I'm about to show are the results of three studies, each of which had about 80–100 participants who each answered about 60 questions (for details see <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">the papers</a>).
+What I'm about to show are the results of three studies, each of which had about 80–100 participants who each answered about 60 questions (for details see <a href="/papers/a-pair-of-pie-chart-papers">the papers</a>).
 
 The charts are all based on the difference between what people thought they were seeing and what we were showing them – called error. If we showed them a value of, say, 27% and they answered 29%, that means they were 2% off. The 2% would be the same if they had said 25%, at least in absolute terms. I'm also going to use signed error below, which would be +2% if they answered 29% in my example, and -2% if they answered 25%. In the papers, we used the logarithm of the error, which made things more complicated (but followed what others had done before).
 
@@ -124,7 +124,7 @@ To be clear, these studies say nothing about the suitability of pie charts. We u
 
 What we did find, however, is that the donut chart is no worse than the pie chart. That is new, and it's a direct consequence of the fact that we're not reading pie or donut charts by angle. Donut charts are popular and are useable wherever a pie chart can be used.
 
-What is more, we questioned and debunked the prevailing idea about how pie charts work that people have believed for 90 years – <a href="https://eagereyes.org/blog/2015/ye-olde-pie-chart-debate">a paper by Walter Crosby Eells in 1926</a> appears to have been the basis for many assumptions about these charts. Nobody seems to have bothered to question them since. It's time somebody did.
+What is more, we questioned and debunked the prevailing idea about how pie charts work that people have believed for 90 years – <a href="/blog/2015/ye-olde-pie-chart-debate">a paper by Walter Crosby Eells in 1926</a> appears to have been the basis for many assumptions about these charts. Nobody seems to have bothered to question them since. It's time somebody did.
 
 <hr />
 
@@ -148,7 +148,7 @@ Pierre Dragicevic says…
 jonpeltier says…
 >	This is a clear discussion of a well thought out and executed study. I am rethinking my deep-rooted bias against pie charts (at least simple pie charts). I'd like to see follow-up studies showing pies with three, four, and more segments, and how having more segments may affect readability.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I knew somebody would take issue with this ;) The explanation had to be short and to the point, I'm sure I'm losing readers even as it is because it's a bit unusual and scary. I don't think it's very far from the truth, though.
 >	
 >	I know there are issues with confidence intervals, they're not a panacea. But they're definitely more informative and more useful than the prevalent p-values and NHST.
@@ -200,10 +200,10 @@ jonpeltier says…
 <a href="http://thenonhacker.wordpress.com" rel="nofollow noopener" target="_blank">thenonhacker</a> says…
 >	uh, seriously, we science this out so extensively? :-/
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Those are absolute errors, but relative to the pie chart. Why can't they be negative? That would mean that they're lower than the pie chart's absolute error on that end, no?
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Yes, good points/questions. You're right that this does not compare to other chart types. However, it does show that donut charts are no worse than pie charts, so that's a start. Also, as you say, the error of two percentage points is fairly low. We'd need to compare to other studies on bar charts, etc., but I don't think it's that much larger.
 >	
 >	As for the donuts study: you're right that more participants might also push the error up. But I don't expect that because it's inconsistent with the first study. There, we found no difference between the angle-only condition (which was almost exactly the same as the thinnest donut) and the pie. So why would it show up in the donut study? But it's possible that the first study was the outlier, not the second.

@@ -13,7 +13,7 @@ outline: false
 
 It's not a secret that I think that we need to ask some harder questions about the foundations that we're building visualization on. In a paper to be presented at <a href="http://beliv.cs.univie.ac.at">the BELIV workshop</a> at VIS next week, I'm making the case for that more extensively than I have so far. The full title of the paper is <a href="/publications/Kosara-BELIV-2016"><em>An Empire Built On Sand: Reexamining What We Think We Know About Visualization</em></a>.
 
-The paper starts out by talking about <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">the recent pie charts work</a> where Drew Skau and I showed that the 90-year old belief that we read pie charts by angle does not appear to be correct. I've collected a few more examples, most of which show how a belief turned out to not be true after some further study. Sometimes our beliefs turn out to be correct, of course, and I have one or two examples to show that as well.
+The paper starts out by talking about <a href="/papers/a-pair-of-pie-chart-papers">the recent pie charts work</a> where Drew Skau and I showed that the 90-year old belief that we read pie charts by angle does not appear to be correct. I've collected a few more examples, most of which show how a belief turned out to not be true after some further study. Sometimes our beliefs turn out to be correct, of course, and I have one or two examples to show that as well.
 
 My point is not that everything we know is wrong, but that we need to ask a simple question: <em>How do we know that?</em> And if we can't point to actual research, we need to do that research. And even when there is existing research, we need to keep questioning that.
 

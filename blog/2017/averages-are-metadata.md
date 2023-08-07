@@ -43,13 +43,13 @@ The problem isn't that these values are included, it's <em>how</em> this is done
 
 ## Clear Distinctions, Clearer Thinking
 
-This becomes problematic when the data is to be used in some more sophisticated analysis than just turning it into a simple chart, where the non-data values will get in the way (and the data needs to be recast in <a href="https://eagereyes.org/basics/spreadsheet-thinking-vs-database-thinking">a more database-like structure</a>). A calculated average will now be wrong, because the average that's already in the data distorts it. The same is true for sums, medians, etc.
+This becomes problematic when the data is to be used in some more sophisticated analysis than just turning it into a simple chart, where the non-data values will get in the way (and the data needs to be recast in <a href="/basics/spreadsheet-thinking-vs-database-thinking">a more database-like structure</a>). A calculated average will now be wrong, because the average that's already in the data distorts it. The same is true for sums, medians, etc.
 
 The reason for including these values, convenience, now becomes an obstacle. And since it's not possible to know beforehand what kinds of analysis will be done on the data, it's impossible to include all the derived values that might be needed.
 
 The way to fix this is to treat derived values as metadata and not throw them into the main table. Spreadsheets have lots of features for this, like tabs. Files can be separated out. Spreadsheets (and in particular CSV files) don't have to exactly mirror the structure of a printed table – in fact, that's usually a terrible way of releasing data.
 
-But what's more, data tables aren't like printed ones. They are the raw material for further processing, not the end result. <a href="https://eagereyes.org/data/dish-best-served-raw">They need to be readable by machines, not humans</a>. Including averages and other derived values shows a fundamental misunderstanding of this basic fact.
+But what's more, data tables aren't like printed ones. They are the raw material for further processing, not the end result. <a href="/data/dish-best-served-raw">They need to be readable by machines, not humans</a>. Including averages and other derived values shows a fundamental misunderstanding of this basic fact.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 14, 2017_
@@ -63,13 +63,13 @@ _Posted by <a href="/about">Robert Kosara</a> on May 14, 2017_
 Gregor says…
 >	the quick redesign isn't helpful because it excludes all the things that made the chart readable. the long titles, the unit descriptions, the bar labels, the value labels, the grid labels, etc. if you leave everything that matters out there is suddenly a lot of empty space to put in average lines and yet another label to explain what the line is.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	It's unfinished, I'll give you that. But I don't see why labeling that extra line would be all that difficult. The bars are the same as before.
 
 <a href="http://steveharoz.com" rel="nofollow noopener" target="_blank">Steve Haroz</a> says…
 >	Cool post, Robert. As much as I agree subjectively, I wonder if we can make this idea falsifiable. In a visualization, what kind of imprecision or judgement error or even speed difference would you expect with avg-as-bar vs avg-as-grid-line?
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I would expect it to be much easier to see how far away from the average you are with a line than a bar, especially with more bars. Perhaps the more important thing would be confidence, though: can I easily find the average and how sure do I feel about the difference? I'd be surprised if the line wasn't better at both.
 
 </aside>

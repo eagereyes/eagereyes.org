@@ -42,7 +42,7 @@ What the video unfortunately does not discuss is why they have these names for c
 
 The impact of language and higher-level concepts on visualization is the key to understanding how visualization actually works. Abstract concepts like color, shape, size, etc. seen in isolation elicit associations and embellishments that influence what we see and how we think about it.
 
-Caroline Ziemkiewicz's work on <a href="http://eagereyes.org/blog/2008/shaping-of-information-by-visual-metaphors.html">visual and verbal metaphors in tree visualization</a> and <a href="http://eagereyes.org/papers/2010/laws-of-attraction">the role of gravity in visualization</a> is a case in point. Even seemingly pure and abstract depictions of data are influenced by assumptions about the world and/or the way we think about the structure of the data.
+Caroline Ziemkiewicz's work on <a href="/blog/2008/shaping-of-information-by-visual-metaphors.html">visual and verbal metaphors in tree visualization</a> and <a href="/papers/2010/laws-of-attraction">the role of gravity in visualization</a> is a case in point. Even seemingly pure and abstract depictions of data are influenced by assumptions about the world and/or the way we think about the structure of the data.
 
 The beauty of visualization is not only its visual nature and all the complexity it brings with it, but especially the deep connections we're only discovering as we dive deeper into it.
 
@@ -98,7 +98,7 @@ Josef Fruehwald says…
 Florian says…
 >	Note that the Doghouse Diaries comic strip that you've used in the topic is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License, so please make sure to attribute it correctly. See http://thedoghousediaries.com/1406
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I know, it's at the end of the posting, before the comments.
 
 <a href="http://nurturelearning.com/2013/12/14/i-say-plum-you-say-purple/" rel="nofollow noopener" target="_blank">I say &#8216;plum&#8217;, you say &#8216;purple&#8217;. | Nurture Learning</a> says…

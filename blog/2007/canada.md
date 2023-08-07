@@ -9,27 +9,27 @@ outline: false
 
 # ZIPScribble Map: Canada
 
-<a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Canada" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Canada-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Canada" width="481" height="600" border="0" /></a>
+<a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Canada" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Canada-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Canada" width="481" height="600" border="0" /></a>
 
 <a href="http://en.wikipedia.org/wiki/Canada">Canada</a> is the second-largest country in the world in terms of area, and is also extremely sparsely populated. The map shows the concentration of cities along the border with the contiguous US, and the vast areas that seem to be effectively empty.
 
-See also <a href="http://eagereyes.org/zipscribble-maps/interactive-zipscribble-map#CA">the interactive version</a>!
+See also <a href="/zipscribble-maps/interactive-zipscribble-map#CA">the interactive version</a>!
 
 <table width="80%" border="0" align="center">
 <tbody>
 <tr>
 <td align="center"><strong>PNG</strong></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada.png" target="_blank" rel="slb_off">Black/White</a></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color.png" target="_blank" rel="slb_off">Color</a></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names.png" target="_blank" rel="slb_off">Color, Names</a></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.png" target="_blank" rel="slb_off">Color, Names, Borders</a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada.png" target="_blank" rel="slb_off">Black/White</a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color.png" target="_blank" rel="slb_off">Color</a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names.png" target="_blank" rel="slb_off">Color, Names</a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.png" target="_blank" rel="slb_off">Color, Names, Borders</a></td>
 </tr>
 <tr>
 <td align="center"><strong>PDF</strong></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada.pdf" target="_blank">Black/White</a></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color.pdf" target="_blank">Color </a></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names.pdf" target="_blank">Color, Names</a></td>
-<td align="center"><a href="http://eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.pdf" target="_blank">Color, Names, Borders</a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada.pdf" target="_blank">Black/White</a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color.pdf" target="_blank">Color </a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names.pdf" target="_blank">Color, Names</a></td>
+<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Canada-color-names-borders.pdf" target="_blank">Color, Names, Borders</a></td>
 </tr>
 </tbody>
 </table>

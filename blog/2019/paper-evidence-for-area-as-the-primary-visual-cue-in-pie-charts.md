@@ -13,7 +13,7 @@ outline: false
 
 How we read pie charts is still an open question: is it angle? Is it area? Is it arc length? In a study I'm presenting as a short paper at the IEEE VIS conference in Vancouver next week, I tried to tease the visual cues apart – using modeling and 3D pie charts.
 
-The big issue with investigating the visual cues used to read pies is that they all encode the value in a linear way. That doesn't allow us to separate them without creating very specialized stimuli for the study, like <a href="https://eagereyes.org/papers/a-pair-of-pie-chart-papers">Drew Skau and I did back in 2016</a>. We found that angle was unlikely to be the visual cue used to read pie charts, but couldn't decide between area and arc.
+The big issue with investigating the visual cues used to read pies is that they all encode the value in a linear way. That doesn't allow us to separate them without creating very specialized stimuli for the study, like <a href="/papers/a-pair-of-pie-chart-papers">Drew Skau and I did back in 2016</a>. We found that angle was unlikely to be the visual cue used to read pie charts, but couldn't decide between area and arc.
 
 This is where 3D pies come in. Using <a href="https://en.wikipedia.org/wiki/Parallel_projection">parallel projection</a> (also called isometric or orthographic), the different visual cues get distorted in different ways, which lets me separate them from each other. The obvious one is the angle at the center: starting from a 30º slice, at a 15º view angle, there's a roughly 12-fold difference between the smallest and the largest angle as it rotates around the pie.
 
@@ -33,7 +33,7 @@ If you're exhausted from reading all this and don't want to read four pages of p
 
 <hr class="wp-block-separator"/>
 
-Robert Kosara, <a href="https://eagereyes.org/publications/Kosara-VISShort-2019.html">Evidence for Area as the Primary Visual Cue in Pie Charts</a>, <em>IEEE VIS Short Paper Proceedings</em>, 2019.
+Robert Kosara, <a href="/publications/Kosara-VISShort-2019.html">Evidence for Area as the Primary Visual Cue in Pie Charts</a>, <em>IEEE VIS Short Paper Proceedings</em>, 2019.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 17, 2019_
@@ -47,7 +47,7 @@ _Posted by <a href="/about">Robert Kosara</a> on October 17, 2019_
 Robert Monfera says…
 >	So the answer is, increase area by making the 3D pie thicker!
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	No, it turns out body thickness had no effect on people's accuracy (it's discussed in the paper ;)
 
 </aside>

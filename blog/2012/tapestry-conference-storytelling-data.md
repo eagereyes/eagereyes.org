@@ -18,7 +18,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.p
 The highlight of the conference will be the three keynotes.
 
 <ul>
-    <li><a href="http://13pt.com/corum/"><strong>Jonathan Corum</strong></a> is Science Graphics Editor at <em>The New York Times</em>, and also runs his own design studio. His work combines data with a strong sense of story, and has been a great resource for my research. He also won <em>Best of Show</em> for his amazing <a href="http://style.org/lines/">Guantánamo Detainees graphic</a> at <a title="Malofiej 20" href="http://eagereyes.org/journalism/malofiej-20">Malofiej</a> earlier this year.</li>
+    <li><a href="http://13pt.com/corum/"><strong>Jonathan Corum</strong></a> is Science Graphics Editor at <em>The New York Times</em>, and also runs his own design studio. His work combines data with a strong sense of story, and has been a great resource for my research. He also won <em>Best of Show</em> for his amazing <a href="http://style.org/lines/">Guantánamo Detainees graphic</a> at <a title="Malofiej 20" href="/journalism/malofiej-20">Malofiej</a> earlier this year.</li>
     <li><a href="http://scottmccloud.com"><strong>Scott McCloud</strong></a> is the author of <em>Understanding Comics</em>, a visual storyteller (he created the fantastic <a href="http://www.google.com/googlebooks/chrome/">comic to explain Google Chrome</a> when it came out), and communicator. His methodical approach to understanding how comics work is inspiring and very directly applicable to visualization.</li>
     <li><strong>Robert Kosara</strong> is Visual Analytics Researcher at Tableau Software and … the proprietor of this little website. My research at Tableau is on how to communicate data and make it part of a story. I will talk about what I have found, and where I think we are going.</li>
 </ul>
@@ -27,7 +27,7 @@ The highlight of the conference will be the three keynotes.
 
 One session will consist of <em>short stories</em> about data, data storytelling approaches, etc. These will be short and meant to stir discussion.
 
-While the list of short stories is not yet complete, it already contains some amazing people: <a title="List of Influences: Nigel Holmes" href="http://eagereyes.org/influences/nigel-holmes">Nigel Holmes</a>, <a title="List of Influences: Pat Hanrahan" href="http://eagereyes.org/influences/pat-hanrahan">Pat Hanrahan</a>, and Cheryl Philips (<em>The Seattle Times</em>).
+While the list of short stories is not yet complete, it already contains some amazing people: <a title="List of Influences: Nigel Holmes" href="/influences/nigel-holmes">Nigel Holmes</a>, <a title="List of Influences: Pat Hanrahan" href="/influences/pat-hanrahan">Pat Hanrahan</a>, and Cheryl Philips (<em>The Seattle Times</em>).
 
 ## The Venue
 

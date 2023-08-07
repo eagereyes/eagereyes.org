@@ -10,15 +10,15 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/12/Work4All-t
 
 This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz’s famous unemployed man icon.
 
-Michael Young and Theodor Prager’s <em>There’s Work for All</em> is part of a series called <em>The New Democracy </em>that contains at least ten books. Like <a href="https://eagereyes.org/section/isotope-books">many books containing ISOTYPE charts</a> from that time, the text makes no reference to the charts. They exist alongside, almost like a separate book within the book.
+Michael Young and Theodor Prager’s <em>There’s Work for All</em> is part of a series called <em>The New Democracy </em>that contains at least ten books. Like <a href="/section/isotope-books">many books containing ISOTYPE charts</a> from that time, the text makes no reference to the charts. They exist alongside, almost like a separate book within the book.
 
-Many ISOTYPE charts are structured like bar charts, where you can read the chart by either counting the symbols or looking at the lengths the of rows as if they were bars. In <a href="https://eagereyes.org/papers/isotype-visualization">a research paper a few years ago</a>, my collaborators and I showed that people are quite good at reading charts like that and no worse than reading bar charts (but they remember much more about what they saw).
+Many ISOTYPE charts are structured like bar charts, where you can read the chart by either counting the symbols or looking at the lengths the of rows as if they were bars. In <a href="/papers/isotype-visualization">a research paper a few years ago</a>, my collaborators and I showed that people are quite good at reading charts like that and no worse than reading bar charts (but they remember much more about what they saw).
 
 This book has an interesting mix of bar-like charts and more unusual ones. There are two types of bar-like charts here, ones that simply show numbers on their own and ones that provide some context (mostly population). The unusual ones all show distributions of some kind.
 
 ## Bar-Like Charts
 
-The straight bar charts include the following three, showing the production of wheat vs. pig-iron, the volume of ships built (I also showed this in <a href="https://eagereyes.org/blog/2019/eagereyestv-episode-2-unit-charts-dot-plots-and-isotype-and-what-makes-them-special">my video about ISOTYPE and unit charts</a>), and employment vs. unemployment in a number of industries.
+The straight bar charts include the following three, showing the production of wheat vs. pig-iron, the volume of ships built (I also showed this in <a href="/blog/2019/eagereyestv-episode-2-unit-charts-dot-plots-and-isotype-and-what-makes-them-special">my video about ISOTYPE and unit charts</a>), and employment vs. unemployment in a number of industries.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/Work4All-04.jpg" width="660" class="wp-image-12510"/></p>
 
@@ -88,7 +88,7 @@ _Posted by <a href="/about">Robert Kosara</a> on December 01, 2019. Filed under 
 <a href="https://www.koponen-hilden.fi" rel="nofollow noopener" target="_blank">Juuso Koponen</a> says…
 >	The burden of taxation chart is not mislabeled: The “Gross income” label refers to the £ sums at the bottom, not to the green circles. Also, if I read the chart correctly, the tax burden has *increased*, not decreased: blue represents the old level of taxation and red the added tax burden since 1937/38. (I guess this would have been easier to read at the time, when the recent tax increase was probably very well known by most readers.) It can also be seen that taxation has become less progressive, as taxes have risen more in the lower income brackets.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Okay, I see your point about the label applying to the numbers and you’re probably also right about which way the tax increased. But it shouldn’t be necessary to be familiar with the data or situation to understand the chart, especially with ISOTYPE! All of this is confusing: what the labels apply to, whether the tax bubbles are stacked or overlap, and what the overall message of the chart even is. So in the world of ISOTYPE charts, this one is still the most confusing and least informative, IMHO.
 
 </aside>

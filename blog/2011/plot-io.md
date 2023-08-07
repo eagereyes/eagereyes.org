@@ -11,7 +11,7 @@ outline: false
 
 # Plot.io
 
-<a href="http://www.plot.io/?lrRef=2AEnO">Data visualization startup Plot.io</a> has been making some noise lately. From what I know so far, it looks a lot like Tableau, but presumably works in the browser. This could be a potential <a title="The Rise and Fall of Swivel.com" href="http://eagereyes.org/criticism/the-rise-and-fall-of-swivel">successor to Swivel</a>, which <a title="Swivel, Part 2: Solving A Single Problem" href="http://eagereyes.org/criticism/swivel-part-2-solving-a-single-problem">folded a bit over a year ago</a>, and maybe what <a title="The End of Verifiable.com" href="http://eagereyes.org/blog/2010/end-of-verifiable-com">Verifiable</a> was trying to do.
+<a href="http://www.plot.io/?lrRef=2AEnO">Data visualization startup Plot.io</a> has been making some noise lately. From what I know so far, it looks a lot like Tableau, but presumably works in the browser. This could be a potential <a title="The Rise and Fall of Swivel.com" href="/criticism/the-rise-and-fall-of-swivel">successor to Swivel</a>, which <a title="Swivel, Part 2: Solving A Single Problem" href="/criticism/swivel-part-2-solving-a-single-problem">folded a bit over a year ago</a>, and maybe what <a title="The End of Verifiable.com" href="/blog/2010/end-of-verifiable-com">Verifiable</a> was trying to do.
 
 <a href="https://www.youtube.com/watch?v=Q904idCrY80">Their teaser video</a> is a bit confusing, but what it shows is an interface that looks a lot like Tableau. On <a href="http://twitter.com/plot_io">their Twitter feed</a>, they also talk about marks, and they seem to be aware of what is going on in the visualization community. They're certainly worth watching.
 
@@ -35,7 +35,7 @@ _Posted by <a href="/about">Robert Kosara</a> on December 30, 2011_
 >	
 >	And yes, we're certainly tuned in to happenings and prior work in the infovis arena ;-)
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I guess the noise is made on your behalf, not technically you yourselves – but you're clearly effective in getting people interested in what you are doing.
 >	
 >	Thanks for the comment, that is very interesting information! Is there a chance to learn a bit more about the people behind plot.io? Do you have any infovis researchers involved? What is your connection with the community?
@@ -76,7 +76,7 @@ Alex says…
 >	
 >	- Kyle Hailey
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Can we please all take a deep breath? I agree with Stephen's points, though not with the way he makes them. There are clearly similarities here, but I don't see this as much of an issue at this point. In private conversation, Prithvi has also acknowledged Tableau's influence, and I don't think there's any intention of ripping off without attribution here.
 >	
 >	In fact, a good part of this discussion is based on a misunderstanding that I hope can be cleared up soon. But until that happens, please refrain from jumping to conclusions, things are not as clear-cut as they might seem.

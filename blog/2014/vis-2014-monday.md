@@ -12,7 +12,7 @@ IEEE VIS 2014 technically began on Saturday, with the first full day open to all
 
 ## VIS Social Run
 
-The day started at 6:30am, when five fearless runners braved the cold and dark, and completed the inaugural <em><a title="The VIS Sports Authority" href="https://eagereyes.org/blog/2014/the-vis-sports-authority">VIS Social Run</a></em>. It was a great run, about 5km in length, in (what I consider) perfect running weather (i.e., cool bordering on cold). While the darkness limited the sightseeing potential of the run, the early morning was great because it's the time when all the boulangeries are baking their bread, so we got to suck in the delicious smells of fresh bread.
+The day started at 6:30am, when five fearless runners braved the cold and dark, and completed the inaugural <em><a title="The VIS Sports Authority" href="/blog/2014/the-vis-sports-authority">VIS Social Run</a></em>. It was a great run, about 5km in length, in (what I consider) perfect running weather (i.e., cool bordering on cold). While the darkness limited the sightseeing potential of the run, the early morning was great because it's the time when all the boulangeries are baking their bread, so we got to suck in the delicious smells of fresh bread.
 
 I've <a href="http://www.strava.com/activities/217617977">posted the route on Strava</a> for all to enjoy. We even took a dorky, sweaty, blurry group selfie at the end.
 

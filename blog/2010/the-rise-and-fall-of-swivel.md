@@ -75,7 +75,7 @@ I asked Mulloy what he thought about Stuart Roseman's assessment of what led him
 > 
 > I think what we learned, like Roseman is saying, that the interface is not that important, that there are analysts who are really good at tools like R, SAS, etc. and prefer to continue to work in those tools to do powerful things with datasets. And people who are not inherently biased towards working with datasets, they are not going to do it. Except for what they see in the newspaper, like USA Today or the New York Times. That may be the end of it.
 
-Brent Fitzgerald, a former employee of Swivel (and one of the speakers on an <a href="http://eagereyes.org/blog/panel-social-data-visualization.html">InfoVis panel on Social Data Visualization</a> that I organized at InfoVis 2007), nicely summed up the problem in an email:
+Brent Fitzgerald, a former employee of Swivel (and one of the speakers on an <a href="/blog/panel-social-data-visualization.html">InfoVis panel on Social Data Visualization</a> that I organized at InfoVis 2007), nicely summed up the problem in an email:
 
 > I guess one of my Swivel takeaways is that visualizations are tools or lenses, and people will create visualizations out of need, in the contexts in which they are needed. It's easier to start with the problem, then solve it, than the other way around.
 

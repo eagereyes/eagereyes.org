@@ -19,7 +19,7 @@ https://youtu.be/RbHCeANCbW0
 
 Things I cover in the video:
 
-<ul><li>Anscombe’s Quartet: <a href="https://eagereyes.org/criticism/anscombes-quartet">https://eagereyes.org/criticism/anscombes-quartet</a></li><li>Alberto Cairo’s DataSaurus: <a href="http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html">http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html</a></li><li>Justin Matejka and George Fitzmaurice’s awesome website about their 2016 CHI paper: <a href="https://www.autodeskresearch.com/publications/samestats">https://www.autodeskresearch.com/publications/samestats</a></li><li>The Jobless Rate for People Like You (requires Flash): <a href="https://archive.nytimes.com/www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html?emc=eta1#">https://archive.nytimes.com/www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html</a></li></ul>
+<ul><li>Anscombe’s Quartet: <a href="/criticism/anscombes-quartet">https://eagereyes.org/criticism/anscombes-quartet</a></li><li>Alberto Cairo’s DataSaurus: <a href="http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html">http://www.thefunctionalart.com/2016/08/download-datasaurus-never-trust-summary.html</a></li><li>Justin Matejka and George Fitzmaurice’s awesome website about their 2016 CHI paper: <a href="https://www.autodeskresearch.com/publications/samestats">https://www.autodeskresearch.com/publications/samestats</a></li><li>The Jobless Rate for People Like You (requires Flash): <a href="https://archive.nytimes.com/www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html?emc=eta1#">https://archive.nytimes.com/www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html</a></li></ul>
 
 Let me know what you think! This is an experiment, and I want to know what people think works and what doesn’t. Please leave a comment below or on YouTube. And if you found it interesting, please consider subscribing on YouTube and giving it a ?.
 
@@ -42,7 +42,7 @@ _Posted by <a href="/about">Robert Kosara</a> on September 16, 2019_
 >	
 >	Ken
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Good point, thanks! I meant to do that and then forgot.
 
 <a href="http://tzachidavidi.wordpress.com" rel="nofollow noopener" target="_blank">tzachidavidi</a> says…
