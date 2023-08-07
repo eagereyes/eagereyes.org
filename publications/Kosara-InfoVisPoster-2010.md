@@ -1,5 +1,6 @@
 ---
 title: "Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates"
+description: "Interaction in visualization is often complicated and tedious. Brushing data in a visualization such as parallel coordinates allows the user to select data points according to certain criteria; modifying a brush requires a lot of effort and mode switches. We propose the use of multi-touch interaction to provide fast and convenient interaction with parallel coordinates. By using a multi-touch trackpad rather than the screen directly, the user’s hands do not obscure the visualization during interaction. Using one, two, three, or four fingers, the user can easily and quickly perform complex selections."
 ---
 
 # Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates

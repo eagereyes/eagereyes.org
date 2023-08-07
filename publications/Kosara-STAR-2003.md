@@ -1,5 +1,6 @@
 ---
 title: "An Interaction View on Information Visualizatio"
+description: "Information Visualization (InfoVis) encompasses techniques of visualization that deal primarily with abstract data, that is, data for which the user has no preconceived mental model. This is in contrast to, for example, volume or flow data. For this reason, interaction is particularly important in InfoVis: for exploration, analysis, and presentation of data. Interaction allows the user to implicitly form mental models of the correlations and relationships in the data, through recognition of patterns, marking or focusing in on those patterns, forming mental hypotheses and testing them, and so on. Some interaction techniques are very specific to InfoVis (even though they can be and are applied to other areas as well), such as Focus+Context and Linking+Brushing. This paper surveys InfoVis techniques with an orientation toward interaction aspects, rather than data model or display dimension. It also tries to put the work into perspective by including aspects such as user studies for the evaluation of methods "
 ---
 
 # An Interaction View on Information Visualizatio

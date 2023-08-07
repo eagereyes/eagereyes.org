@@ -1,5 +1,6 @@
 ---
 title: "Linking Scientific and Information Visualization with Interactive 3D Scatterplots"
+description: "3D scatterplots are an extension of the ubiquitous 2D scatterplots that is conceptually simple, but so far proved hard to use in practice. But by combining them with a state-of-the-art volume rendering engine, multiple views, and interaction between these views, 3D scatterplots become usable and, in fact, useful. 3D scatterplots can not only show abstract data dimensions, but also the physical layout of points, and thus provide a link between feature space and the actual object. Brushing reveals connections between parts and features that otherwise are hard to find. This link also works not only from feature space to the spatial display, but also vice versa, which gives the user more freedom in exploring the data."
 ---
 
 # Linking Scientific and Information Visualization with Interactive 3D Scatterplots

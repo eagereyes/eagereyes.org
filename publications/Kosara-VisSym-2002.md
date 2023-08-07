@@ -1,5 +1,6 @@
 ---
 title: "Useful Properties of Semantic Depth of Field for Better F+C Visualization"
+description: "This paper presents the results of a thorough user study that was performed to assess some features and the general usefulness of Semantic Depth of Field (SDOF). Based on these results, concrete hints are given on how SDOF can be used for visualization. SDOF was found to be a very effective means for guiding the viewer’s attention and for giving him or her a quick overview of a data set. It can also very quickly be perceived, and therefore provides an efficient visual channel. Semantic Depth of Field is a focus+context (F+C) technique that uses blur to point the user to the most relevant objects. It was inspired by the depth of field (DOF) effect in photography, which serves a very similar purpose."
 ---
 
 # Useful Properties of Semantic Depth of Field for Better F+C Visualization

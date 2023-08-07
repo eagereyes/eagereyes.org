@@ -1,5 +1,7 @@
 ---
 title: "An Argument Structure for Data Stories"
+description: "Many data stories in journalism do not have a story arc, but rather present facts without much structure. This mirrors the popular inverted pyramid style of writing that presents the most important information up front, to be followed by evidence. We have found a subset of stories that follow a more structured approach, however. These stories begin with a claim or question, but do not immediately present that as the conclusion. Instead, they then present pieces of evidence that are only tied together, and back to the initial claim, at the end. In this paper, we formalize and discuss this structure, and present a few examples. We believe that this is a viable and practical model for data stories more generally, and certainly a stronger arc than most existing stories today."
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/Kosara-EuroVis-2017.jpg
 ---
 
 # An Argument Structure for Data Stories

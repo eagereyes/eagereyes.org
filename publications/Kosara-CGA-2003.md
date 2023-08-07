@@ -1,5 +1,6 @@
 ---
 title: "Thoughts on User Studies: Why, How, and When"
+description: "In crafting today’s visualizations, we often design and evaluate methods by presenting results informally to potential users. No matter how efficient a visualization technique may be, or how well motivated from theory, if it doesn’t convey information effectively, it’s of little use."
 ---
 
 # Thoughts on User Studies: Why, How, and When

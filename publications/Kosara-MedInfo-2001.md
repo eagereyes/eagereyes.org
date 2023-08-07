@@ -1,5 +1,6 @@
 ---
 title: "Visualizing Complex Notions of Time"
+description: "Time plays an important role in medicine. Conditions are not just evaluated at single instants in time, but traced over periods. Medications must be administered within specified temporal limits, and their effects observed with regard to time. When planning treatments, the temporal aspect becomes even more complicated. The planner has to deal with uncertainty and allowable intervals. A visual representation of the information would be helpful, but there are few visualizations of time that are powerful enough. We present a visualization that graphically represents a complex notion of time, and has also been implemented in a program that allows users to directly specify this information. The results of a small user study are reported."
 ---
 
 # Visualizing Complex Notions of Time

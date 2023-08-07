@@ -1,5 +1,6 @@
 ---
 title: "Tapestry: A Different Kind of Conference on Storytelling with Data"
+description: "Tapestry is an unusual conference, at least compared with academic gatherings. There are no proceedings, and the presentations are not chosen through peer review. What it is, however, is a place to meet and exchange ideas for people with a common interest."
 ---
 
 # Tapestry: A Different Kind of Conference on Storytelling with Data

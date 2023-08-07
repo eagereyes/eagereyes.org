@@ -1,5 +1,6 @@
 ---
 title: "A Visualization of Medical Therapy Plans compared to Gantt and PERT Charts"
+description: "Medical therapy planning shares a number of properties of project management. It is, however, different in a few very important aspects — most notably, the more complex notion of time it requires. Asbru is a language that can represent medical therapy plans in terms of time-oriented, skeletal plans. But due to its formal nature, it cannot be used directly by physicians. Therefore, we developed a visualization and user interface to deal with plans defined in Asbru, which can deal with most of its complexity. We present this interface (called AsbruView), and discuss its features and advantages over the two representations typically used in project management: Gantt and PERT charts."
 ---
 
 # A Visualization of Medical Therapy Plans compared to Gantt and PERT Charts

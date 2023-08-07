@@ -1,5 +1,7 @@
 ---
 title: "More Than Meets the Eye: A Closer Look at Encodings in Visualization"
+description: "Encoding data visually is at the heart of visualization. We usually assume that encodings are read as specified (i.e., if a bar chart is drawn by the length of the bars based on the data, that is also how we read them). In this paper, we question this assumption and demonstrate that observed encodings often differ from the ones used to specify the visualization. The value of a chart also often comes from higher level derived encodings, and which encodings end up getting used also depends on the user’s task."
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png
 ---
 
 # More Than Meets the Eye: A Closer Look at Encodings in Visualization

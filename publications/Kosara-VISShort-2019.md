@@ -1,5 +1,7 @@
 ---
 title: "Evidence for Area as the Primary Visual Cue in Pie Charts"
+description: "The long-standing assumption of angle as the primary visual cue used to read pie charts has recently been called into question. We conducted a controlled, preregistered study using parallel-projected 3D pie charts. Angle, area, and arc length differ dramatically when projected and change over a large range of values. Modeling these changes and comparing them to study participants’ estimates allows us to rank the different visual cues by model fit. Area emerges as the most likely cue used to read pie charts."
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VISShort-2019.png
 ---
 
 # Evidence for Area as the Primary Visual Cue in Pie Charts

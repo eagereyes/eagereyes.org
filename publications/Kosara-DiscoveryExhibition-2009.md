@@ -1,5 +1,6 @@
 ---
 title: "Parallel Sets in the Real World: Three Case Studies"
+description: "Parallel Sets are a visualization technique for categorical data. We recently released an implementation to the public in an effort to make our research useful to real users. This paper presents three case studies of Parallel Sets in use with real data."
 ---
 
 # Parallel Sets in the Real World: Three Case Studies

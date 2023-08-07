@@ -1,5 +1,7 @@
 ---
 title: "The Connected Scatterplot for Presenting Paired Time Series"
+description: "The connected scatterplot visualizes two related time series in a scatterplot and connects the points with a line in temporal sequence. News media are increasingly using this technique to present data under the intuition that it is understandable and engaging. To explore these intuitions, we (1) describe how paired time series relationships appear in a connected scatterplot, (2) qualitatively evaluate how well people understand trends depicted in this format, (3) quantitatively measure the types and frequency of misinterpretations, and (4) empirically evaluate whether viewers will preferentially view graphs in this format over the more traditional format. The results suggest that low-complexity connected scatterplots can be understood with little explanation, and that viewers are biased towards inspecting connected scatterplots over the more traditional format. We also describe misinterpretations of connected scatterplots and propose further research into mitigating these mistakes for viewers unfamiliar with the technique."
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg
 ---
 
 # The Connected Scatterplot for Presenting Paired Time Series

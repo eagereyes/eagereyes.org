@@ -68,6 +68,11 @@ for paper in papers:
     with open('publications/%s.md' % slug, 'w') as outFile:
         outFile.write('---\n')
         outFile.write('title: "%s"\n' % paper['title'])
+        if 'abstract' in paper:
+            outFile.write('description: "%s"\n' % paper['abstract'])
+        if '_thumb' in paper:
+            outFile.write('featuredImage: https://media.eagereyes.org%s\n' % paper['_thumb'])
+
         outFile.write('---\n\n')
         outFile.write('# %s\n\n' % paper['title'])
 

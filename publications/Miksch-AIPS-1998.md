@@ -1,5 +1,6 @@
 ---
 title: "AsbruView: Visualization of Time-Oriented, Skeletal Plans"
+description: "Skeletal plans are a powerful way to reuse existing domain-specific procedural knowledge. The main drawbacks are that the compositions and the interdependencies of different skeletal plans and their components are not lucid. The aim of this paper is to overcome these limitations and to present the visualization of time-oriented, skeletal plans. Within the Asgaard project, we have developed a time-oriented and intention-based language, called Asbru, to represent such skeletal plans. The Asbru syntax is defined in Backus-Naur form (BNF). Reading BNF or similar forms are next to impossible even for domain experts. We explored different representations and automated knowledge-acquisition tools. However, the domain experts did not accept any of these representations. Consequently, we investigated different metaphor graphics and ended up with a plan visualization utilizing the metaphors of tracks and traffic, called AsbruView. We formatively evaluated different approaches of this plan visualization with physicians applying treatment protocols of mechanical ventilated newborn infants."
 ---
 
 # AsbruView: Visualization of Time-Oriented, Skeletal Plans

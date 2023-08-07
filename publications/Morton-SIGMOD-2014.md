@@ -1,5 +1,6 @@
 ---
 title: "Public Data and Visualizations: How are Many Eyes and Tableau Public Used for Collaborative Analytics?"
+description: "Recently, online visual analytics systems have emerged as popular tools for data analysis and sharing. The database community has an important role to play in shaping the design and implementation of these new types of systems. Little, however, is known about how these systems are used today. In this paper, we address this shortcoming by presenting an analysis of usage patterns of Many Eyes and Tableau Public, two popular Web-based, collaborative visual analytics systems."
 ---
 
 # Public Data and Visualizations: How are Many Eyes and Tableau Public Used for Collaborative Analytics?

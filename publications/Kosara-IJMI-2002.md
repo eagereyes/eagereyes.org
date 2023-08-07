@@ -1,5 +1,6 @@
 ---
 title: "Visualization Methods for Data Analysis and Planning in Medical Applications"
+description: "Time plays an important role in medicine, both the past and the future. The medical history of a patient represents the past, which needs to be understood by the physician to make the right decisions. The past contains two different kinds of information: measured data (such as blood pressure) and incidents (such as seizures). Planning therapies, on the other hand, requires looking into the future to a certain extent. Visual representations exist for both the past and the future, and they are very useful for getting a better understanding of data or a plan. This paper surveys visualization techniques for both data analysis and planning, and compares them based on a number of criteria."
 ---
 
 # Visualization Methods for Data Analysis and Planning in Medical Applications

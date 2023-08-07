@@ -1,5 +1,6 @@
 ---
 title: "Communicating Data to an Audience"
+description: "Communicating data in an effective and efficient story requires the content author to recognize the needs, goals, and knowledge of the intended audience. Do we, the authors, need to explain how a particular chart works? It depends on the audience. Does the data need to be traced back to its source? Depends on the audience. Can we skip obvious patterns and correlations and dive right into the deeper points? Depends on the audience. Do we need to explain what the findings in the data mean in terms of what the data represents? Depends on the audience. There are many more questions for which this is true."
 ---
 
 # Communicating Data to an Audience

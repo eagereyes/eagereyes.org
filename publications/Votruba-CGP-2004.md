@@ -1,5 +1,6 @@
 ---
 title: "Tracing the Formalization Steps of Textual Guidelines"
+description: "This paper presents a new guideline authoring tool, called Guideline Markup Tool (GMT). It proposes two useful features, which are missing in existing tools. First, it facilitates the translation of a free-text guideline into a formal representation, providing special XML macros. Second, it can be used to create links between the original guideline and its formal representation. Therefore, the GMT eases the implementation of clinical guidelines in a formal representation, which can be used in monitoring and therapy planning systems."
 ---
 
 # Tracing the Formalization Steps of Textual Guidelines

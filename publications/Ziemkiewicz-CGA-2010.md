@@ -1,5 +1,7 @@
 ---
 title: "Beyond Bertin: Seeing the Forest despite the Trees"
+description: "Visualization is at a point in its development where its practitioners frequently find themselves grappling with big questions about its nature and purpose. These include fundamental questions about how visualization works—that is, how do people interpret visual forms as information? Classical visualization theory sees this as a process of encoding data variables as visual variables, which the viewer then decodes. Although this body of theory is useful, it doesn’t account for visual structure’s role in shaping information. Experiments on how design affects users’ interpretations of simple visualizations suggest that structural elements such as borders, fills, and arrangement (in addition to the traditional marks) carry significant, predictable semantic information. Drawing on these findings as well as design traditions, the authors argue that visual structure’s apparent dynamics play a major role in a user's understanding of data and must be considered in the design and evaluation of visualizations."
+featuredImage: https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png
 ---
 
 # Beyond Bertin: Seeing the Forest despite the Trees

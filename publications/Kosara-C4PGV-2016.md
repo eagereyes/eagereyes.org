@@ -1,5 +1,6 @@
 ---
 title: "Reflecting on the Design Criteria for Explanatory Visualizations"
+description: "The visualization field has developed a good set of design criteria, metrics, and methods to assess visualization techniques and systems. These are all focused on analytical and exploratory uses, however. A large class of visualizations are created to present and communicate data and issues, however, and are seen by millions of people. We do not currently have a good grasp of what criteria should be used to systematically design and compare them, and how to do that. The aim of this paper is to raise the issue, describe different uses of visualizations, and propose criteria that should be considered while designing and critiquing them."
 ---
 
 # Reflecting on the Design Criteria for Explanatory Visualizations

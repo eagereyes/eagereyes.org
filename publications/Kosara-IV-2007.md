@@ -1,5 +1,6 @@
 ---
 title: "Visualization Criticism – The Missing Link Between Information Visualization and Art"
+description: "Classifications of visualization are often based on technical criteria, and leave out artistic ways of visualizing information. Understanding the differences between information visualization and other forms of visual communication provides important insights into the way the field works, though, and also shows the path to new approaches. We propose a classification of several types of information visualization based on aesthetic criteria. The notions of artistic and pragmatic visualization are introduced, and their properties discussed. Finally, the idea of visualization criticism is proposed, and its rules are laid out. Visualization criticism bridges the gap between design, art, and technical/pragmatic information visualization. It guides the view away from implementation details and single mouse clicks to the meaning of a visualization."
 ---
 
 # Visualization Criticism – The Missing Link Between Information Visualization and Art

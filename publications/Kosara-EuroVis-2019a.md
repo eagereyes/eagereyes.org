@@ -1,5 +1,6 @@
 ---
 title: "Circular Part-to-Whole Charts Using the Area Visual Cue"
+description: "Studies of chart types can reveal unexplored design spaces, like the circular diagrams used in recent studies on pie charts. In this paper, we explore several variations of part-to-whole charts that use area to represent a fraction within a circle. We find one chart that performs very similarly to the pie chart, even though it is visually more complex. Centered shapes turn out to lead to much worse accuracy than any other stimuli, even the same shape when not centered. These first results point to the need for more systematic explorations of the design spaces around existing charts."
 ---
 
 # Circular Part-to-Whole Charts Using the Area Visual Cue

@@ -1,5 +1,6 @@
 ---
 title: "Experimental Evaluation of Semantic Depth of Field, a Preattentive Method for Focus+Context Visualization"
+description: "This paper presents the results of a thorough user study that was performed to assess special features and the general usefulness of Semantic Depth of Field (SDOF). Semantic Depth of Field is a focus+context (F+C) technique that uses blur to point the user to the most relevant objects. SDOF was found to be an effective means for guiding the viewer’s attention and for giving him or her a quick overview of a data set."
 ---
 
 # Experimental Evaluation of Semantic Depth of Field, a Preattentive Method for Focus+Context Visualization
