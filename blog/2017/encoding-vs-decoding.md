@@ -28,9 +28,9 @@ When it comes to decoding, things get a lot messier. What do we decode? We like 
 
 In a bar chart, we rarely look at individual bars. Instead, we compare them to each other. We also look at the shape of the plot. Which is why being able to sort a chart is incredibly important (charts are from <a href="/blog/2016/all-those-misleading-election-maps">this posting on problems with election maps</a>).
 
-<p align="center"><img class="aligncenter size-full wp-image-9772" src="https://eagereyes.org/wp-content/uploads/2016/11/states-alpha.png" alt="" width="596" height="363" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-9772" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-alpha.png" alt="" width="596" height="363" /></p>
 
-<p align="center"><img class="aligncenter size-full wp-image-9773" src="https://eagereyes.org/wp-content/uploads/2016/11/states-sorted.png" alt="" width="596" height="363" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-9773" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-sorted.png" alt="" width="596" height="363" /></p>
 
 In a pie chart, we presumably compare a slice to the whole. Except we also compare slices to each other, of course. And that thing about the angle? Well, we’re apparently <a href="/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">not actually reading it that way</a>.
 

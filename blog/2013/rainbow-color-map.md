@@ -22,7 +22,7 @@ Do you see the how the country is divided down the middle? The Eastern half seem
 
 But let’s take a closer look at the legend.
 
-<p align="center"><img class="aligncenter size-full wp-image-2427" alt="Evapotranspiration Legend" src="https://eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" width="478" height="193" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-2427" alt="Evapotranspiration Legend" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" width="478" height="193" /></p>
 
 As it turns out, the values change smoothly, but the colors do not. There are two problems here: abrupt changes in luminance (perceived brightness of a color) as well as switching between different hues.
 
@@ -30,7 +30,7 @@ As it turns out, the values change smoothly, but the colors do not. There are tw
 
 The combination of smoothly varying and abruptly changing luminance makes it appear as if there were clearly defined regions on the map. A version of the legend that only shows luminance, without hue, makes this a bit more obvious.
 
-<p align="center"><img class="aligncenter size-full wp-image-2428" alt="Evapotranspiration Legend Gray" src="https://eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend-gray.jpg" width="478" height="193" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-2428" alt="Evapotranspiration Legend Gray" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend-gray.jpg" width="478" height="193" /></p>
 
 The color for 0.3–0.39 is darker than the neighboring colors, the luminance for 0.5–0.59, 0.6–0.69, and 0.7–0.79 is virtually the same, and then there is a big jump to 0.8–0.89. The step size in terms of the data is no different, it’s simply an artifact of the color scheme.
 
@@ -38,7 +38,7 @@ The color for 0.3–0.39 is darker than the neighboring colors, the luminance fo
 
 What is more, the hue changes. As I have explained before, <a href="http://eagereyes.org/blog/2011/you-only-see-colors-you-can-name">color names influence our perception of color</a>. So let’s look at the full-color version of the legend again, and enumerate the hues.
 
-<p align="center"><img class="aligncenter size-full wp-image-2427" alt="Evapotranspiration Legend" src="https://eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" width="478" height="193" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-2427" alt="Evapotranspiration Legend" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" width="478" height="193" /></p>
 
 <ul>
     <li><strong>White</strong> (0.0–0.09). That’s a really odd choice to start with, since the background of the map is also white, and non-colors like white, black, and gray should be used for special values like missing data, etc. But that’s a topic for another posting.</li>
@@ -59,7 +59,7 @@ There are certainly reasons for using more than one hue. If there are ranges of 
 
 Given the issues, why are the rainbow colormap and its variants so popular? I think the answer is quite simple: it’s attractive. Using a single hue to show the data would be reasonably effective, but much less interesting to look at. What is more, if you’re looking to read off the individual values, the smooth ramp is actually worse because you can’t look for a particular hue anymore. The cost is that you create lots of artifacts in the map, though.
 
-<p align="center"><img class="aligncenter size-full wp-image-2435" alt="Color Ramp" src="https://eagereyes.org/wp-content/uploads/2013/07/color-ramp.png" width="198" height="25" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-2435" alt="Color Ramp" src="https://media.eagereyes.org/wp-content/uploads/2013/07/color-ramp.png" width="198" height="25" /></p>
 
 There is a case to be made for color maps that have more than one or two hues, but that do not produce the sort of issues seen in this example. One approach is to use a color map where the luminance is constant or monotonically increasing (meaning, it never changes direction). Constant luminance leads to very dull colors, but a well-designed color map with increasing luminance can look quite attractive. ColorBrewer has a few of those, at least for two colors.
 

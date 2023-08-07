@@ -18,11 +18,11 @@ A paper on a specific cognitive mechanism may seems like an odd choice as the fi
 
 This is often demonstrated with the so-called pop-out effect. Count the 9s in the following image (this example is stolen from Stephen Few).
 
-<p align="center"><img class="aligncenter size-medium wp-image-8681" src="https://eagereyes.org/wp-content/uploads/2015/01/nines-plain.png" alt="nines plain" width="660" height="335" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8681" src="https://media.eagereyes.org/wp-content/uploads/2015/01/nines-plain.png" alt="nines plain" width="660" height="335" /></p>
 
 Not easy, and in particular it requires scanning the image line by line. You can’t quickly find a shape like a 9 among very similar ones (like 8s, 6s, and 3s). Now let’s try this in a way that activates your preattentive processor.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8680" src="https://eagereyes.org/wp-content/uploads/2015/01/nines-bolded.png" alt="nines bolded" width="660" height="335" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8680" src="https://media.eagereyes.org/wp-content/uploads/2015/01/nines-bolded.png" alt="nines bolded" width="660" height="335" /></p>
 
 Much easier! The 9s pop out. You can’t not see them. They’re there, easy to count. What you can do now is
 

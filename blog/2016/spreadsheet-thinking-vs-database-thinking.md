@@ -14,7 +14,7 @@ The shape of a dataset is hugely important to how well it can be handled by diff
 
 Spreadsheets are laid out in two dimensions. That's probably their most fundamental and most important feature. They make sense to us because we can easily think in terms of a grid that organizes things in a logical manner.
 
-<p align="center"><img class="aligncenter size-full wp-image-9223" src="https://eagereyes.org/wp-content/uploads/2016/04/image.jpeg" alt="Spreadsheet" width="655" height="230" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-9223" src="https://media.eagereyes.org/wp-content/uploads/2016/04/image.jpeg" alt="Spreadsheet" width="655" height="230" /></p>
 
 The grid layout is efficient because it means you don't have to repeat what is being shown. In this example of unemployment data, each row is a year and each column a month. If you're looking for, say, April 2010, you know where to look. And you can read time across or down, depending on whether you're looking to compare between months or year over year.
 
@@ -32,7 +32,7 @@ There are many other conventions in spreadsheets that make sense to people – 
 
 The opposite of the spreadsheet is the database table. Instead of laying out the data in two dimensions, it's a long list. It has columns, but not nearly as many (for the same dataset).
 
-<p align="center"><img class="aligncenter wp-image-9224" src="https://eagereyes.org/wp-content/uploads/2016/04/image-1.jpeg" alt="Database" width="169" height="215" /></p>
+<p align="center"><img class="aligncenter wp-image-9224" src="https://media.eagereyes.org/wp-content/uploads/2016/04/image-1.jpeg" alt="Database" width="169" height="215" /></p>
 
 Instead, each column has a role. In our unemployment rate example, there is one column for the year, one for the month, and then a final column for the actual value. This is not a good format for a human, but machines love it.
 
