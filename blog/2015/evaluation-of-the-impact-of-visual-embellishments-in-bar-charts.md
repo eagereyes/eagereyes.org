@@ -15,7 +15,7 @@ Information graphics often use variations and embellishments of standard charts 
 
 Based on a survey of common infographics tropes, we came up with a number of common patterns. We then simplified those to reduce them to just the embellishment type, removing many elements like color, complex patterns, external decorations, etc. We ended up with these six embellishment archetypes, which we tested against a standard bar chart.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8794" src="https://eagereyes.org/wp-content/uploads/2015/05/embellishment-cases.png" alt="Chart Embellishment Cases" width="660" height="595" /></p>
+<p align="center"><img class="aligncenter size-medium wp-image-8794" src="https://media.eagereyes.org/wp-content/uploads/2015/05/embellishment-cases.png" alt="Chart Embellishment Cases" width="660" height="595" /></p>
 
 In the experiment, we asked people two types of questions: absolute and relative. In the absolute question, they had to estimate the value represented by one of the “bars,” while in the relative one we had them express the smaller one as a fraction of the larger.
 

@@ -11,7 +11,7 @@ outline: false
 
 Visualization is largely defined as the transformation of data into images. Visualization tools don't have a way of assessing their output, though: were there enough pixels to represent all the data? Are there too many overlapping lines? In <a href="/publications/Dasgupta-EuroVis-2012" target="_blank">a paper to be presented at EuroVis next week</a>, Aritra Dasgupta, Min Chen, and I propose a taxonomy of the different sources of uncertainty when working with parallel coordinates.
 
-<p align="center"><img class="aligncenter size-full wp-image-1900" title="Uncertainty Taxonomy" alt="" src="https://eagereyes.org/wp-content/uploads/2012/05/uncertainty-taxonomy.png" width="600" height="188" /></p>
+<p align="center"><img class="aligncenter size-full wp-image-1900" title="Uncertainty Taxonomy" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/05/uncertainty-taxonomy.png" width="600" height="188" /></p>
 
 When data is visualized, there is almost invariably information loss. That is often a good thing, because it reduces the amount of detail and can bring out patterns: correlations in a scatterplot, different kinds of patterns in <a title="Parallel Coordinates" href="http://eagereyes.org/techniques/parallel-coordinates" target="_blank">parallel coordinates</a>, etc. Of course, there is a limit where the loss becomes a problem, but an even bigger issue is that we don't know when that happens.
 
