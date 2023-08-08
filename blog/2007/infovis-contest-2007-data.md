@@ -50,8 +50,8 @@ In addition, you will need the <a href="http://xerces.apache.org/xerces-j/">Xerc
 
 The data set is based on data that cannot be redistributed in altered form, which is why you need to download a program package that will create the actual data when run.
 <ul>
-	<li><a href="/media/attachments/InfoVisContest2007.jar">Data Generation Program</a> (200MB) – last changed 20-Apr-2007 17:00 EST (23:00 GMT)</li>
-	<li><a href="/media/attachments/moviedb.dtd">DTD</a> for the generated XML file – last changed 09-Mar-2007 16:05 EST (21:05 GMT)<a href="/media/attachments/moviedb.dtd">
+	<li><a href="https://media.eagereyes.org/media/attachments/InfoVisContest2007.jar">Data Generation Program</a> (200MB) – last changed 20-Apr-2007 17:00 EST (23:00 GMT)</li>
+	<li><a href="https://media.eagereyes.org/media/attachments/moviedb.dtd">DTD</a> for the generated XML file – last changed 09-Mar-2007 16:05 EST (21:05 GMT)<a href="https://media.eagereyes.org/media/attachments/moviedb.dtd">
 </a></li>
 	<li>Optional data from <a href="http://www.netflixprize.com/">Netflix Prize</a>. You have to register to be able to download the data (around 300MB zipped, 2GB unpacked).</li>
 </ul>

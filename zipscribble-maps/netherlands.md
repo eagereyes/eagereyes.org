@@ -3,13 +3,13 @@ title: "ZIPScribble Map: The Netherlands"
 description: ""
 date: 2007-01-07 21:50:08
 tags: 
-featuredImage: 
+featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png
 outline: false
 ---
 
-# ZIPScribble Map: The Netherlands
+<p align="center"><img class="aligncenter" title="ZIPScribbleMap Netherlands" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png" alt="ZIPScribbleMap Netherlands" width="477" height="559" border="0" /></p>
 
-<a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png" target="_blank" rel="slb_off"><img class="aligncenter" title="ZIPScribbleMap Netherlands" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-Netherlands-color-names-borders-thumb.jpg" alt="ZIPScribbleMap Netherlands" width="525" height="600" border="0" /></a>
+# ZIPScribble Map: The Netherlands
 
 Though one of the most densely populated countries, <a href="http://en.wikipedia.org/wiki/Netherlands">the Netherlands</a> do not appear overcrowded in terms of postal codes.
 
@@ -19,17 +19,17 @@ See also <a href="/zipscribble-maps/interactive-zipscribble-map#NL">the interact
 <tbody>
 <tr>
 <td align="center"><strong>PNG</strong></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands.png" target="_blank" rel="slb_off">Black/White</a></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color.png" target="_blank" rel="slb_off">Color</a></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names.png" target="_blank" rel="slb_off">Color, Names</a></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png" target="_blank" rel="slb_off">Color, Names, Borders</a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands.png" target="_blank" rel="slb_off">Black/White</a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color.png" target="_blank" rel="slb_off">Color</a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names.png" target="_blank" rel="slb_off">Color, Names</a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png" target="_blank" rel="slb_off">Color, Names, Borders</a></td>
 </tr>
 <tr>
 <td align="center"><strong>PDF</strong></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands.pdf" target="_blank">Black/White</a></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color.pdf" target="_blank">Color </a></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names.pdf" target="_blank">Color, Names</a></td>
-<td align="center"><a href="/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.pdf" target="_blank">Color, Names, Borders</a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands.pdf" target="_blank">Black/White</a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color.pdf" target="_blank">Color </a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names.pdf" target="_blank">Color, Names</a></td>
+<td align="center"><a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.pdf" target="_blank">Color, Names, Borders</a></td>
 </tr>
 </tbody>
 </table>

@@ -18,22 +18,22 @@ Information visualization is a very applied field that prides itself on its prac
 <li>8:30: First Session, <em>Perception and Cognition</em>
 <ul>
 <li>Intro</li>
-<li>Erik Anderson, Carlos Scheidegger, Claudio Silva, <em><a href="/media/2010/vistheory/InfoVisTheory-Anderson.pdf">The Role of Perception and Cognition Costs in Models of Visualization Effectiveness</a></em></li>
-<li>Jonathan C. Roberts, Rick Walker, <em><a href="/media/2010/vistheory/InfoVisTheory-Roberts.pdf">Using All Our Senses: The Need for a Unified Theoretical Approach to Multi-sensory Information Visualization</a></em></li>
-<li>Georges Grinstein, <em><a href="/media/2010/vistheory/InfoVisTheory-Grinstein.pdf">Arguments for a Theory of Visualization</a></em></li>
+<li>Erik Anderson, Carlos Scheidegger, Claudio Silva, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Anderson.pdf">The Role of Perception and Cognition Costs in Models of Visualization Effectiveness</a></em></li>
+<li>Jonathan C. Roberts, Rick Walker, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Roberts.pdf">Using All Our Senses: The Need for a Unified Theoretical Approach to Multi-sensory Information Visualization</a></em></li>
+<li>Georges Grinstein, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Grinstein.pdf">Arguments for a Theory of Visualization</a></em></li>
 </ul></li>
 <li>9:15: Second Session, <em>Modeling Information Transmission</em>
 <ul>
-<li>Aritra Dasgupta, Robert Kosara, <em><a href="/media/2010/vistheory/InfoVisTheory-Dasgupta.pdf">The Need for Information Loss Metrics in Visualization</a></em></li>
-<li>Lars Grammel, Margaret-Anne Storey, <em><a href="/media/2010/vistheory/InfoVisTheory-Grammel.pdf">Towards a Foundation for Information Visualization Engineering</a></em></li>
-<li>Ji Soo Yi, <em><a href="/media/2010/vistheory/InfoVisTheory-Yi.pdf">Toward Practical Information Visualization Theory: Lessons from the History of Decision Science</a></em></li>
+<li>Aritra Dasgupta, Robert Kosara, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Dasgupta.pdf">The Need for Information Loss Metrics in Visualization</a></em></li>
+<li>Lars Grammel, Margaret-Anne Storey, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Grammel.pdf">Towards a Foundation for Information Visualization Engineering</a></em></li>
+<li>Ji Soo Yi, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Yi.pdf">Toward Practical Information Visualization Theory: Lessons from the History of Decision Science</a></em></li>
 </ul></li>
 <li>10:00: Break</li>
 <li>10:30: Third Session, <em>Foundations</em>
 <ul>
-<li>Zhicheng Liu, John Stasko, <em><a href="/media/2010/vistheory/InfoVisTheory-Liu.pdf">Theories in Information Visualization: What, Why and How</a></em></li>
-<li>Miriah Meyer, <em><a href="/media/2010/vistheory/InfoVisTheory-Meyer.pdf">Contributions, Methods, and Unique Characteristics of Design Studies</a></em></li>
-<li>Olivier Swienty, Masahiro Takatsuka, <em><a href="/media/2010/vistheory/InfoVisTheory-Swienty.pdf">From subjectivity to objectivity in information visualization: challenges in bridging the gap between cognitive theory and information design</a></em></li>
+<li>Zhicheng Liu, John Stasko, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Liu.pdf">Theories in Information Visualization: What, Why and How</a></em></li>
+<li>Miriah Meyer, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Meyer.pdf">Contributions, Methods, and Unique Characteristics of Design Studies</a></em></li>
+<li>Olivier Swienty, Masahiro Takatsuka, <em><a href="https://media.eagereyes.org/media/2010/vistheory/InfoVisTheory-Swienty.pdf">From subjectivity to objectivity in information visualization: challenges in bridging the gap between cognitive theory and information design</a></em></li>
 </ul></li>
 <li>11:15: Fourth Session
 <ul>

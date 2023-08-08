@@ -260,7 +260,7 @@ Done.
 
 ## Putting It All Together
 
-Here is the entire code for this, including the data loading part. This is also available as a file from the <a href="http://github.com/eagereyes/Protovis-Primer">github repository</a> and in <a href="/media/2010/protovis-primer/protovis-primer-part2.zip">a ZIP file together with sample data</a>.
+Here is the entire code for this, including the data loading part. This is also available as a file from the <a href="http://github.com/eagereyes/Protovis-Primer">github repository</a> and in <a href="https://media.eagereyes.org/media/2010/protovis-primer/protovis-primer-part2.zip">a ZIP file together with sample data</a>.
 
 ```js
 var dataURL = &quot;http://data.eagereyes.org/pv/earthquakes.json&quot;;

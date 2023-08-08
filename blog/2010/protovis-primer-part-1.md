@@ -188,7 +188,7 @@ This concludes the first part of this tutorial. The next parts will cover more c
 
 ## Start Playing!
 
-If you want to play with Protovis, I am providing <a href="/media/2010/protovis-primer/protovis-primer-part1.zip">a ZIP file with two simple HTML files</a>: one is the basic bar chart, the other one uses variables for the data and the widths.
+If you want to play with Protovis, I am providing <a href="https://media.eagereyes.org/media/2010/protovis-primer/protovis-primer-part1.zip">a ZIP file with two simple HTML files</a>: one is the basic bar chart, the other one uses variables for the data and the widths.
 
 I have also started <a href="http://github.com/eagereyes/Protovis-Primer">a repository on github</a> for people familiar with git.
 

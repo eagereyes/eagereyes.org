@@ -277,7 +277,7 @@ Here is the complete plot including the labels:
 
 <p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-labels.png" width="560" height="240" alt="presidents chart" /></p>
 
-And that's it! Interactive visualization in the browser! If you want to see the entire dataset, there is a <a href="/presidential-demographics-protovis">version of it one a separate page</a>. Also check out the <a href="http://github.com/eagereyes/Protovis-Primer">code on github</a>, or <a href="/media/2010/protovis-primer/protovis-primer-part3.zip">download a ZIP file containing the full code and data file</a>.
+And that's it! Interactive visualization in the browser! If you want to see the entire dataset, there is a <a href="/presidential-demographics-protovis">version of it one a separate page</a>. Also check out the <a href="http://github.com/eagereyes/Protovis-Primer">code on github</a>, or <a href="https://media.eagereyes.org/media/2010/protovis-primer/protovis-primer-part3.zip">download a ZIP file containing the full code and data file</a>.
 
 <hr />
 

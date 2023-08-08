@@ -13,7 +13,7 @@ What is the key difference between a visualization and a data-based infographic?
 
 I had this little insight when reading <em><a href="http://radar.oreilly.com/2010/08/visualization-as-journalism.html">Lies, damn lies, and visualizations</a></em> on O'Reilly Radar. The story starts with a discussion of data science and visualization, but then uses this image as an example why visualization is not objective.
 
-<a href="/media/2010/health_viz.png"><img src="https://media.eagereyes.org/media/2010/healthcare_560.jpg" alt="" width="560" height="437" /></a>
+<a href="https://media.eagereyes.org/media/2010/health_viz.png"><img src="https://media.eagereyes.org/media/2010/healthcare_560.jpg" alt="" width="560" height="437" /></a>
 
 Of course it's not, but that is besides the point. The bigger issue I have is that it's not a visualization. This is an infographic: it was made for a particular dataset, for a particular purpose. That is what infographics are: they are elaborate, explanatory, and self-contained. But that means they must be specific and done by hand each time. There is no program that could churn out specific artwork, photographs, and explanatory text for an arbitrary dataset.
 

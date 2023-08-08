@@ -16,7 +16,7 @@ Kaiser at <a href="http://junkcharts.typepad.com/junk_charts/">Junk Charts</a> h
 
 The original visualization of this data is shown below (click for a larger image in a separate window/tab). These <a href="http://en.wikipedia.org/wiki/Venn_diagram">Venn diagrams</a> show the performance of three different early tests for <a href="http://en.wikipedia.org/wiki/Autism">autism</a> (PL-ADOS, ADI-R, and Clinician's assessment). There are two distinct questions here, autism itself and other autism-related disorders (called autism spectrum). The diagram itself depicts the number of children that got a positive diagnosis in any combination of tests, while the fraction of children who were later found to be autistic is indicated in parentheses.
 
-<p align="center"><a href="/media/attachments/autism-test-figure-2.jpg" rel="lightbox"><img src="https://media.eagereyes.org/media/attachments/autism-test-figure-2-thumb.jpg" alt="" width="450" height="239" border="0" /></a></p>
+<p align="center"><a href="https://media.eagereyes.org/media/attachments/autism-test-figure-2.jpg" rel="lightbox"><img src="https://media.eagereyes.org/media/attachments/autism-test-figure-2-thumb.jpg" alt="" width="450" height="239" border="0" /></a></p>
 
 The redesigns posted in the Junk Charts discussion are mostly focused on improving the Venn diagram, but I believe that the original version of the diagram is already flawed. What seems to be much more interesting than the number of children diagnosed with each combination of methods is the correctness of the diagnosis. The number of children serves mostly to measure the support, since all tests agreed only on a small number of children.
 
@@ -159,8 +159,8 @@ Below are PDF versions of my redesigns for closer inspection.
 <table border="0">
 <tbody>
 <tr valign="top">
-<td><a href="/media/attachments/Autism.pdf" target="_blank"><img src="https://media.eagereyes.org/media/attachments/Autism-thumb.png" alt="" width="298" height="210" border="0" /></a></td>
-<td><a href="/media/attachments/Autism-sorted.pdf" target="_blank"><img src="https://media.eagereyes.org/media/attachments/Autism-sorted-thumb.png" alt="" width="298" height="210" border="0" /></a></td>
+<td><a href="https://media.eagereyes.org/media/attachments/Autism.pdf" target="_blank"><img src="https://media.eagereyes.org/media/attachments/Autism-thumb.png" alt="" width="298" height="210" border="0" /></a></td>
+<td><a href="https://media.eagereyes.org/media/attachments/Autism-sorted.pdf" target="_blank"><img src="https://media.eagereyes.org/media/attachments/Autism-sorted-thumb.png" alt="" width="298" height="210" border="0" /></a></td>
 </tr>
 </tbody>
 </table>
