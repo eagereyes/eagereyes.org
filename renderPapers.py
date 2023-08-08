@@ -69,7 +69,7 @@ for paper in papers:
         outFile.write('---\n')
         outFile.write('title: "%s"\n' % paper['title'])
         if 'abstract' in paper:
-            outFile.write('description: "%s"\n' % paper['abstract'])
+            outFile.write('description: "%s"\n' % paper['abstract'].replace('"', '\\"'))
         if '_thumb' in paper:
             outFile.write('featuredImage: https://media.eagereyes.org%s\n' % paper['_thumb'])
 
