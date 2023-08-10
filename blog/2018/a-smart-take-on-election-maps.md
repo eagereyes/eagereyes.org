@@ -16,7 +16,7 @@ This map is another piece by <a href="https://xkcd.com">xkcd</a>'s Randall Munro
 <ul>
  	<li>It doesn't distort our perception of the data by using color on area, which is determined by land surface rather than population or electoral votes.</li>
  	<li>It doesn't distort geography, like cartograms</li>
- 	<li>It uses symbols of people to show a set multiple (somewhat similar to <a href="/techniques/isotype">ISOTYPE</a>)</li>
+ 	<li>It uses symbols of people to show a set multiple (somewhat similar to <a href="/techniques/isotype">ISOTYPE</a>)</li>
  	<li>Its hand-drawn aesthetic is fun and non-intimidating</li>
 </ul>
 

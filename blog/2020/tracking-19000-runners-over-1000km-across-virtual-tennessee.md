@@ -16,7 +16,7 @@ The <a href="https://vacationwithoutacar.com">Great Virtual Race Across Tennesse
 
 Why 1000 km and why Tennessee? Well, the race is organized by Laz Lake, the guy behind <a href="https://www.outsideonline.com/1924491/60-hours-hell-story-barkley-marathons">the Barkley Marathons</a> (if you haven't heard of the Barkley and care at all about running, I highly recommend <a href="https://barkleymovie.com">the Barkley Movie</a>). His initial expectation was to get around 200 people to sign up, but he ended up with almost 20,000.
 
-While the bulk of runners is running the race the way it's supposed to be (they're affectionately called RATs – Racing Across Tennessee), there's a surprising number of people doing the distance twice (Back Across Tennessee, BATs), three times (called CATs for some reason), or even more (GNATs). The top two runners are on track to finish eight crossings! That's over 5,000 miles in four months, or more than 40 miles per day on average.
+While the bulk of runners is running the race the way it's supposed to be (they're affectionately called RATs – Racing Across Tennessee), there's a surprising number of people doing the distance twice (Back Across Tennessee, BATs), three times (called CATs for some reason), or even more (GNATs). The top two runners are on track to finish eight crossings! That's over 5,000 miles in four months, or more than 40 miles per day on average.
 
 ## Inspiration
 

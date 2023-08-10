@@ -21,7 +21,7 @@ The poster is not only still highly informative, it also gives a wonderful glimp
 
 <p align="center"><img class="aligncenter size-medium wp-image-2566" alt="Electromagnetic Spectrum" src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-spectrum.jpg" width="600" height="340" /></p>
 
-Instead of dumbing the topic down, there is a lot of in-depth information here. There is a seamless and seemingly effortless transition from everyday uses to very specific physical effects like the reflection of x-rays in a crystal. This poster was edited by none other than <a href="http://en.wikipedia.org/wiki/Arthur_Compton">Arthur Compton</a>, physicist, Nobel laureate, and key figure in the Manhattan Project, after all.
+Instead of dumbing the topic down, there is a lot of in-depth information here. There is a seamless and seemingly effortless transition from everyday uses to very specific physical effects like the reflection of x-rays in a crystal. This poster was edited by none other than <a href="http://en.wikipedia.org/wiki/Arthur_Compton">Arthur Compton</a>, physicist, Nobel laureate, and key figure in the Manhattan Project, after all.
 
 <p align="center"><img class="aligncenter size-medium wp-image-2564" alt="Electromagnetic Effects" src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-effects.jpg" width="600" height="387" /></p>
 

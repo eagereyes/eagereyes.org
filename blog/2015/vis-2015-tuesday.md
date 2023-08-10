@@ -1,6 +1,6 @@
 ---
 title: "VIS 2015 – Tuesday"
-description: "IEEE VIS 2015 started today. The first sessions included network visualization and projections, as well as a panel on the use of color in visualization."
+description: "IEEE VIS 2015 started today. The first sessions included network visualization and projections, as well as a panel on the use of color in visualization."
 date: 2015-10-27 20:33:28
 tags: conference, IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-tue-teaser.png
@@ -10,13 +10,13 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-tue-
 
 # VIS 2015 – Tuesday
 
-IEEE VIS 2015 started today. The first sessions included network visualization and projections, as well as a panel on the use of color in visualization.
+IEEE VIS 2015 started today. The first sessions included network visualization and projections, as well as a panel on the use of color in visualization.
 
 As usual, this is very selective: only the things I happened to see, and of those only the ones I felt strongly enough to mention here. You can follow the conference under the <span class="externalcitation"><a href="https://twitter.com/hashtag/ieeevis">#IEEEVIS hashtag on Twitter</a></span>, though that is also biased towards InfoVis and VAST. I haven’t heard a peep from the SciVis cave.
 
 ## VIS Running Club
 
-The amazingly well-organized VIS Running Club set out on its first run this morning at 6:30am. You can see the <a href="https://www.strava.com/activities/421307356">route we ran here</a>. We’ll be doing this again tomorrow morning (unless it's raining too hard) and Thursday, so if you missed the fun today, you have another chance!
+The amazingly well-organized VIS Running Club set out on its first run this morning at 6:30am. You can see the <a href="https://www.strava.com/activities/421307356">route we ran here</a>. We’ll be doing this again tomorrow morning (unless it's raining too hard) and Thursday, so if you missed the fun today, you have another chance!
 
 ## Opening Session, Donna Cox
 
@@ -54,7 +54,7 @@ The Best Paper Award at InfoVis this year went to <em><a href="http://marvl.info
 
 ## Party!
 
-The day ended (at least for me) with the Utah Party. I missed yesterday's Austrian Party, but there's also the West Coast Party tomorrow night after the banquet. The Utah Party took place at a pub with waitresses in some very well done costumes and a dancing roomba/broom/skull thing ('cause Halloween). We'll see if the West Coast will be able to top that.
+The day ended (at least for me) with the Utah Party. I missed yesterday's Austrian Party, but there's also the West Coast Party tomorrow night after the banquet. The Utah Party took place at a pub with waitresses in some very well done costumes and a dancing roomba/broom/skull thing ('cause Halloween). We'll see if the West Coast will be able to top that.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 27, 2015_

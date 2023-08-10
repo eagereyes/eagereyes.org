@@ -1,6 +1,6 @@
 ---
 title: "Averages Are Metadata"
-description: "When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake."
+description: "When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake."
 date: 2017-05-14 19:07:00
 tags: 
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg
@@ -11,9 +11,9 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30
 
 # Averages Are Metadata
 
-When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake.
+When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake.
 
-Most metadata is so different from the data itself that it's easy to spot: of course the URL pointing to the source of the data is not part of the data! Even the number of records typically looks different than any of the values (it doesn't have a unit like dollars, for one). The line is much less clear, though, when it comes to values that are derived from the data.
+Most metadata is so different from the data itself that it's easy to spot: of course the URL pointing to the source of the data is not part of the data! Even the number of records typically looks different than any of the values (it doesn't have a unit like dollars, for one). The line is much less clear, though, when it comes to values that are derived from the data.
 
 ## The Average In The Data
 
@@ -37,17 +37,17 @@ I understood what had bothered me beyond the aesthetics when Elijah Meeks made a
 
 The average describes the data. It summarizes it. That means it’s data about the data. It’s really no different than the number of rows in the table or the data dictionary. Just because it’s a number and in the same units as the data values doesn’t make it one.
 
-Including averages and totals in a table is something that strikes me as very much rooted in the thinking that is dominated by printed tables and spreadsheets. When data is released as spreadsheets, it's quite common to include totals and averages. They are provided for convenience or because it may not be possible to compute them from the data provided (because of weighting or other issues). U.S. government data often does this, including the U.S. value in addition to all the states, etc., and there are many other examples.
+Including averages and totals in a table is something that strikes me as very much rooted in the thinking that is dominated by printed tables and spreadsheets. When data is released as spreadsheets, it's quite common to include totals and averages. They are provided for convenience or because it may not be possible to compute them from the data provided (because of weighting or other issues). U.S. government data often does this, including the U.S. value in addition to all the states, etc., and there are many other examples.
 
-The problem isn't that these values are included, it's <em>how</em> this is done: as part of the main table, not a separate sheet or file. That makes the average, total, etc., just another value in the table, rather than a piece of clearly delineated metadata. When you create a chart from such a spreadsheet, it will include the average like all the other values. So it’s understandable that charts like the one above are being made.
+The problem isn't that these values are included, it's <em>how</em> this is done: as part of the main table, not a separate sheet or file. That makes the average, total, etc., just another value in the table, rather than a piece of clearly delineated metadata. When you create a chart from such a spreadsheet, it will include the average like all the other values. So it’s understandable that charts like the one above are being made.
 
 ## Clear Distinctions, Clearer Thinking
 
-This becomes problematic when the data is to be used in some more sophisticated analysis than just turning it into a simple chart, where the non-data values will get in the way (and the data needs to be recast in <a href="/basics/spreadsheet-thinking-vs-database-thinking">a more database-like structure</a>). A calculated average will now be wrong, because the average that's already in the data distorts it. The same is true for sums, medians, etc.
+This becomes problematic when the data is to be used in some more sophisticated analysis than just turning it into a simple chart, where the non-data values will get in the way (and the data needs to be recast in <a href="/basics/spreadsheet-thinking-vs-database-thinking">a more database-like structure</a>). A calculated average will now be wrong, because the average that's already in the data distorts it. The same is true for sums, medians, etc.
 
 The reason for including these values, convenience, now becomes an obstacle. And since it's not possible to know beforehand what kinds of analysis will be done on the data, it's impossible to include all the derived values that might be needed.
 
-The way to fix this is to treat derived values as metadata and not throw them into the main table. Spreadsheets have lots of features for this, like tabs. Files can be separated out. Spreadsheets (and in particular CSV files) don't have to exactly mirror the structure of a printed table – in fact, that's usually a terrible way of releasing data.
+The way to fix this is to treat derived values as metadata and not throw them into the main table. Spreadsheets have lots of features for this, like tabs. Files can be separated out. Spreadsheets (and in particular CSV files) don't have to exactly mirror the structure of a printed table – in fact, that's usually a terrible way of releasing data.
 
 But what's more, data tables aren't like printed ones. They are the raw material for further processing, not the end result. <a href="/data/dish-best-served-raw">They need to be readable by machines, not humans</a>. Including averages and other derived values shows a fundamental misunderstanding of this basic fact.
 

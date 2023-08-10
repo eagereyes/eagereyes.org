@@ -57,7 +57,7 @@ Perhaps the best summary of the tutorial is the project checklist they used to f
 
 These are questions anybody can ask themselves easily, and then figure out what to do about them. This includes simple things like hidden images and text to make the page easier to index for search engines and share/pin/etc. And it even includes things like a press kit, so journalists can write about your projects more easily (and get the best images).
 
-While I wasn't as excited about the long list of tools (bower, grunt, snort, blurt, fart, etc. – I may have made up a few of those, guess which!), they had lots of good points about making design responsive, having it work well (or at least be useable) on small screens, etc. None of this has ever been discussed at VIS before as far as I am aware, and it has the potential to have the largest impact for getting word out about the work we do in visualization. Now all the people who attended just need to actually put these things into practice.
+While I wasn't as excited about the long list of tools (bower, grunt, snort, blurt, fart, etc. – I may have made up a few of those, guess which!), they had lots of good points about making design responsive, having it work well (or at least be useable) on small screens, etc. None of this has ever been discussed at VIS before as far as I am aware, and it has the potential to have the largest impact for getting word out about the work we do in visualization. Now all the people who attended just need to actually put these things into practice.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on November 11, 2014_

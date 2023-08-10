@@ -28,7 +28,7 @@ It is also likely that all the objects were not there at the same time, or at le
 
 ## Ways of Representing
 
-Representation is not only a topic in art, and certainly not confined to the visual channel. In <em>Theory of Representation: Three Questions</em>, Howard, Kolers, Wrolstad, and Bouma list different varieties of representation:
+Representation is not only a topic in art, and certainly not confined to the visual channel. In <em>Theory of Representation: Three Questions</em>, Howard, Kolers, Wrolstad, and Bouma list different varieties of representation:
 
 >	Jones represents (that is, "speaks for") Biddulph Township in the Provincial Parliament.
 >	That portrait represents ("depicts") the elderly Rembrandt.

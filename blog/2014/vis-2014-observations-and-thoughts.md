@@ -36,7 +36,7 @@ Several talks also largely consisted of well-structured demos, which is great. A
 
 A number of people have talked about the need for sharing more materials beyond just the paper for a while, and it is now actually starting to happen. A good number of presentations ended with a pointer to a website with at least the paper and teaser video, and often more, like data and materials for studies, and source code. After the <em>Everything But The Chart</em> tutorial, I wonder how many papers next year will have a press kit.
 
-The number of systems that are implemented in JavaScript and run in the browser is also increasing. That makes it much easier to try them out without the hassle of having to download software. Since many of these are prototypes that will never be turned into production software, it doesn’t matter nearly as much that they won’t be as easily maintained or extended.
+The number of systems that are implemented in JavaScript and run in the browser is also increasing. That makes it much easier to try them out without the hassle of having to download software. Since many of these are prototypes that will never be turned into production software, it doesn’t matter nearly as much that they won’t be as easily maintained or extended.
 
 VIS remains a very friendly and healthy community. There are no warring schools of thought, and nobody tries to tear down somebody else’s work in the questions after a talk. The social aspect is also getting ever stronger with the increasing number of parties. That might sound trivial, but the main point of a conference are communication and the connections that are made, not the paper presentations.
 

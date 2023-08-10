@@ -1,6 +1,6 @@
 ---
 title: "Meet @InfoVis_Ebooks, Your Source for Random InfoVis Paper Snippets"
-description: "Are you looking for inspiration while writing a paper or grant? Do you feel that there is a lack of information visualization content on Twitter? Is your timeline too empty and slow? Follow @InfoVis_Ebooks, a Twitter account that posts random pieces of text from infovis papers."
+description: "Are you looking for inspiration while writing a paper or grant? Do you feel that there is a lack of information visualization content on Twitter? Is your timeline too empty and slow? Follow @InfoVis_Ebooks, a Twitter account that posts random pieces of text from infovis papers."
 date: 2013-04-21 20:21:09
 tags: service
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/04/infovis-template.png
@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/04/infovis-te
 
 # Meet @InfoVis_Ebooks, Your Source for Random InfoVis Paper Snippets
 
-Are you looking for inspiration while writing a paper or grant? Do you feel that there is a lack of information visualization content on Twitter? Is your timeline too empty and slow? Follow @InfoVis_Ebooks, a Twitter account that posts random pieces of text from infovis papers.
+Are you looking for inspiration while writing a paper or grant? Do you feel that there is a lack of information visualization content on Twitter? Is your timeline too empty and slow? Follow @InfoVis_Ebooks, a Twitter account that posts random pieces of text from infovis papers.
 
 ## Related Work
 
@@ -34,7 +34,7 @@ This is clearly only the start, and further research is needed. The number of so
 
 In addition to the text, the document database knows the venue and year a paper was published. The idea is to be able to focus the tweets on papers from a particular venue (e.g., during a conference, only tweet from papers that were published in earlier years at that same place), or restrict to a time period (vintage papers from the early 90's?).
 
-The bot will be continue to get tweaked to create more interesting and entertaining tweets. It is currently based on some very simple heuristics and rules for what makes a snippet acceptable, but I plan on refining those over time.  Also, a user study.
+The bot will be continue to get tweaked to create more interesting and entertaining tweets. It is currently based on some very simple heuristics and rules for what makes a snippet acceptable, but I plan on refining those over time.  Also, a user study.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on April 21, 2013_

@@ -1,6 +1,6 @@
 ---
 title: "Report from IEEE VIS 2013 in Atlanta, GA"
-description: "There were parties, papers, and presentations. The keynote involved ramen, the capstone cited Rams. Lies were told, we watched stories unfold, and stacked bars of gold. The first IEEE VIS took place inside a giant alien, and the dinosaurs were particularly memorable."
+description: "There were parties, papers, and presentations. The keynote involved ramen, the capstone cited Rams. Lies were told, we watched stories unfold, and stacked bars of gold. The first IEEE VIS took place inside a giant alien, and the dinosaurs were particularly memorable."
 date: 2013-10-27 20:23:26
 tags: VisWeek, conference, IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/atlanta-sunrise.jpg
@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/atlanta-su
 
 # Report from IEEE VIS 2013 in Atlanta, GA
 
-There were parties, papers, and presentations. The keynote involved ramen, the capstone cited Rams. Lies were told, we watched stories unfold, and stacked bars of gold. The first <em>IEEE VIS</em> took place inside a giant alien, and the dinosaurs were particularly memorable.
+There were parties, papers, and presentations. The keynote involved ramen, the capstone cited Rams. Lies were told, we watched stories unfold, and stacked bars of gold. The first <em>IEEE VIS</em> took place inside a giant alien, and the dinosaurs were particularly memorable.
 
 This was technically <a href="http://ieeevis.org/year/2013/info/vis-welcome/welcome">the first IEEE VIS</a>, though the conference has been around for twenty years. It started as <em>IEEE Visualization</em> (or, to its friends, <em>Vis</em>), then turned into <em>VisWeek</em>, and finally was renamed <em>VIS.</em>
 
@@ -92,7 +92,7 @@ One of the highlights of the conference, and an honorable mention for the Best P
 
 ## Capstone
 
-The capstone talk was given by <a href="http://www.win.tue.nl/~vanwijk/">Jarke “Jack” van Wijk</a>. Jarke’s work spans scientific and information visualization, from flow visualization to treemaps (in particular, the squarified treemap and the cushion treemap). He gave a very well-designed talk that was largely based on a tour of his work, but tied together nicely and very well paced. In typical Jarke-style, it was also very funny.
+The capstone talk was given by <a href="http://www.win.tue.nl/~vanwijk/">Jarke “Jack” van Wijk</a>. Jarke’s work spans scientific and information visualization, from flow visualization to treemaps (in particular, the squarified treemap and the cushion treemap). He gave a very well-designed talk that was largely based on a tour of his work, but tied together nicely and very well paced. In typical Jarke-style, it was also very funny.
 
 There were many interesting points, and there is no way to list them all. But perhaps the biggest takeaway was his sort of mantra: <em>Think as a User, Act as a User, Be a User</em>. I think that’s a great way to think about any work, but also perhaps the reason Jarke has been so successful in his work. He gets it.
 
@@ -108,7 +108,7 @@ I'm throwing in VisLies here because it competed with one of the parties, and be
 
 ## The Academic Market
 
-The big topic of virtually every discussion, in every break, was the academic job market. It’s looking good this year in information visualization, visual analytics, and HCI, for a change. There are a number of open positions that were advertised, and I heard some more or less subtle rumors about some more that were either not widely advertised yet, or were about to be announced. Many of these are for tenure-track assistant professors, plus a number of post-docs. But more senior people are usually considered if they choose to apply.
+The big topic of virtually every discussion, in every break, was the academic job market. It’s looking good this year in information visualization, visual analytics, and HCI, for a change. There are a number of open positions that were advertised, and I heard some more or less subtle rumors about some more that were either not widely advertised yet, or were about to be announced. Many of these are for tenure-track assistant professors, plus a number of post-docs. But more senior people are usually considered if they choose to apply.
 
 On the other end, I heard of at least three very senior people in the field who are going to retire over the next year or so. That’s also a good thing, because it opens up some very interesting full-professor jobs. Also, it’s a sign of a field growing up: visualization has been around for long enough now that people are actually retiring. This is not the first year this is happening, but it hasn’t been a very common occurrence until now.
 

@@ -12,7 +12,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-te
 
 The two main conferences in visualization are VIS and EuroVis, but recently <a href="https://chi2017.acm.org/">CHI</a> has also gotten some very interesting submissions (CHI is technically a conference about human-computer interaction, or HCI). This year looked particularly strong,
 
-I didn’t actually attend the conference this year, so the selection below is based on my trolling the program online and watching some of the Twitter chatter during the conference. I did not include all the visualization-related papers I could find, only the ones I found the most interesting. You can find more in their <a href="https://chi2017.acm.org/program/?tab=chi2017-schedule&amp;showAll=true">searchable program</a>.
+I didn’t actually attend the conference this year, so the selection below is based on my trolling the program online and watching some of the Twitter chatter during the conference. I did not include all the visualization-related papers I could find, only the ones I found the most interesting. You can find more in their <a href="https://chi2017.acm.org/program/?tab=chi2017-schedule&amp;showAll=true">searchable program</a>.
 
 CHI provides <a href="https://chi2017.acm.org/proceedings.html">open access to all papers for a full year</a>. So unlike with most other conferences, non-academics can easily read the actual papers without having to find “personal copies” elsewhere. I believe CHI is doing this for the first time this year. It’s an admirable model, and one other conferences should copy right away.
 
@@ -20,7 +20,7 @@ CHI provides <a href="https://chi2017.acm.org/proceedings.html">open access to a
 
 This is my favorite paper, hands down. Justin Matejka and George Fitzmaurice took <a href="/criticism/anscombes-quartet">Anscombe’s idea</a> (to create datasets with virtually identical statistics that look very different when drawn in a chart) and ran with it. It’s a modern take on an oft-cited paper from the 70s, and it’s very well done.
 
-I also love <a href="https://www.autodeskresearch.com/publications/samestats">the website they made for the paper</a>. I even love the animated gifs (not something I’m wont to say in general). Do yourself the favor of at least scrolling all the way through it and looking at all the little animations. They’re very well done and show a few things you might not expect (like how box plots don’t show you weirdly quantized distributions).
+I also love <a href="https://www.autodeskresearch.com/publications/samestats">the website they made for the paper</a>. I even love the animated gifs (not something I’m wont to say in general). Do yourself the favor of at least scrolling all the way through it and looking at all the little animations. They’re very well done and show a few things you might not expect (like how box plots don’t show you weirdly quantized distributions).
 
 It’s easy to say: duh, we know all that. Except we don’t. These kinds of problems pop up all the time. Now we have a much richer set of examples than <a href="https://en.wikipedia.org/wiki/Anscombe%27s_quartet">Anscombe’s venerable (but limited) quartet</a>, as well as a way to create any number of new ones.
 
@@ -38,9 +38,9 @@ Michael has also written <a href="https://medium.com/@uwdata/regression-by-eye-b
 
 ## Rethinking Established Charts in Science
 
-<em><a href="https://dl.acm.org/authorize.cfm?key=N36559">Empirical Analysis of the Subjective Impressions and Objective Measures of Domain Scientists' Visual Analytic Judgments</a></em> by Aritra Dasgupta, Susannah Burrows, Kyungsik Han, and Philip J. Rasch is a bit of a mouthful, but they tackle an interesting problem: in many sciences, some of the most commonly-used charts are not actually good visualizations by visualization standards. They’re often the result of somebody having put something together for their own use that caught on by mistake, and then it gets entrenched because everybody uses them.
+<em><a href="https://dl.acm.org/authorize.cfm?key=N36559">Empirical Analysis of the Subjective Impressions and Objective Measures of Domain Scientists' Visual Analytic Judgments</a></em> by Aritra Dasgupta, Susannah Burrows, Kyungsik Han, and Philip J. Rasch is a bit of a mouthful, but they tackle an interesting problem: in many sciences, some of the most commonly-used charts are not actually good visualizations by visualization standards. They’re often the result of somebody having put something together for their own use that caught on by mistake, and then it gets entrenched because everybody uses them.
 
-Dasgupta and colleagues look at the Taylor plot, which are used in climate science to compare models and model runs with different parameters. They test a heat map, a bar chart, and a slope plot as alternatives, and they find less resistance than one (well, I) might have assumed.
+Dasgupta and colleagues look at the Taylor plot, which are used in climate science to compare models and model runs with different parameters. They test a heat map, a bar chart, and a slope plot as alternatives, and they find less resistance than one (well, I) might have assumed.
 
 ## Connecting Data with People
 
@@ -48,7 +48,7 @@ Showing pictures of people is a good thing, right? Certainly when it comes to ne
 
 The paper asked an interesting question about something that is not often studied so far: how do different charts impact (potential) decisions, like whether to donate money? The comparison with anthropomorphic shapes also meshes well with my interest in <a href="/techniques/isotype">ISOTYPE</a>, which often used pictures of people to depict data (though usually to inform rather than to elicit a particular response).
 
-CHI covers a lot more ground than just visualization, but it's certainly a conference to keep an eye on for exciting new developments. It is known to be tough to get work accepted into, but it also sometimes accepts work that seems too daring or unusual to make it into InfoVis or EuroVis. It's definitely a conference to keep an eye on.
+CHI covers a lot more ground than just visualization, but it's certainly a conference to keep an eye on for exciting new developments. It is known to be tough to get work accepted into, but it also sometimes accepts work that seems too daring or unusual to make it into InfoVis or EuroVis. It's definitely a conference to keep an eye on.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 22, 2017_

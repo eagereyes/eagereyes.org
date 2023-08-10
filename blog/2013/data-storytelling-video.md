@@ -31,7 +31,7 @@ Granted, this is really simple, and most people would be able to figure it out. 
 
 ## Hans Rosling: Human Development Index
 
-Finally, no posting about video would be complete without the grand-daddy of all data-based communication videos, <a href="https://www.youtube.com/watch?v=hVimVzgtD6w">Hans Rosling's famous talk at TED 2006</a> using the <a href="http://gapminder.org/">gapminder tool</a>. The amount of information he gets across, the steps, the pacing, and the enthusiasm are still unmatched. If you have seen this before, it's worth watching again. If you haven't seen it, you have to watch it now.
+Finally, no posting about video would be complete without the grand-daddy of all data-based communication videos, <a href="https://www.youtube.com/watch?v=hVimVzgtD6w">Hans Rosling's famous talk at TED 2006</a> using the <a href="http://gapminder.org/">gapminder tool</a>. The amount of information he gets across, the steps, the pacing, and the enthusiasm are still unmatched. If you have seen this before, it's worth watching again. If you haven't seen it, you have to watch it now.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hVimVzgtD6w?si=1pB-2RuuWwuxpB53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>

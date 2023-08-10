@@ -1,12 +1,12 @@
 ---
-title: "VIS 2014 – Thursday"
+title: "VIS 2014 – Thursday"
 description: "Thursday was the penultimate day of VIS 2014. I ended up only going to InfoVis sessions, and unfortunately missed a panel I had been planning to see. The papers were a bit more mixed, but there were agains some really good ones."
 date: 2014-11-13 23:16:04
 tags: conference, IEEEVIS
 featuredImage: 
 ---
 
-# VIS 2014 – Thursday
+# VIS 2014 – Thursday
 
 Thursday was the penultimate day of VIS 2014. I ended up only going to InfoVis sessions, and unfortunately missed a panel I had been planning to see. The papers were a bit more mixed, but there were agains some really good ones.
 

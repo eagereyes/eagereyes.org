@@ -21,7 +21,7 @@ Here are a few examples of more or less recent stories:
     <li><a href="https://qz.com/938620/dominos-dpz-stock-has-outperformed-google-goog-facebook-fb-apple-aapl-and-amazon-amzn-this-decade/">A story about how Domino’s stock price has increased by 2,000% since 2010</a></li>
 </ul>
 
-But perhaps the silliest example I have ever seen is SpaceX's claim about reducing the cost of sending stuff to Mars:
+But perhaps the silliest example I have ever seen is SpaceX's claim about reducing the cost of sending stuff to Mars:
 
 https://twitter.com/spacex/status/780846789020618752
 
@@ -29,13 +29,13 @@ Using percent here to make the numbers sound bigger and more impressive is backf
 
 ## What Is A Percentage?
 
-Percentages are a simple and incredibly useful concept: divide a number that represents a part by the number that represents the entirety. That gives you a fraction from 0 to 1. We don't like those, so we multiply by 100 for nice whole numbers in a range we can deal with: 0 to 100.
+Percentages are a simple and incredibly useful concept: divide a number that represents a part by the number that represents the entirety. That gives you a fraction from 0 to 1. We don't like those, so we multiply by 100 for nice whole numbers in a range we can deal with: 0 to 100.
 
 And that is what percent means: <em>out of one hundred</em>. When you pay a tax of 12%, that means that for every 100 dollars you pay, 12 go to tax. An unemployment rate of 5% means that five out of every 100 people don't have a job.
 
-A percentage makes numbers comparable and meaningful. If you were told that there were 7.6 million unemployed people in the U.S. at some point in time, that wouldn't be very helpful. Is that a lot? How does that compare to other countries? How does that compare to earlier years, when the population was different?
+A percentage makes numbers comparable and meaningful. If you were told that there were 7.6 million unemployed people in the U.S. at some point in time, that wouldn't be very helpful. Is that a lot? How does that compare to other countries? How does that compare to earlier years, when the population was different?
 
-There is a reason these numbers are reported as percentages. To figure out whether 7.6 million unemployed is a lot, you have to know the size of the labor force: 159.7 million. We're terrible at comparing numbers like that, however, so we divide the unemployed by the labor force and multiply by 100: 4.8% unemployment rate. That is a number we can understand, compare between countries, etc.
+There is a reason these numbers are reported as percentages. To figure out whether 7.6 million unemployed is a lot, you have to know the size of the labor force: 159.7 million. We're terrible at comparing numbers like that, however, so we divide the unemployed by the labor force and multiply by 100: 4.8% unemployment rate. That is a number we can understand, compare between countries, etc.
 
 ## Percentages Over 100
 
@@ -43,7 +43,7 @@ When a value exceeds its normal range, the percentage can go over 100. That is n
 
 Percentages over 100 are also often used to emphasize that a goal has been reached or exceeded. When your sales goal was 85 million dollars and you brought in 97 million, you will be bragging about having reached 114% of your goal. That's fine, that is meaningful.
 
-## Large Percentages, a.k.a. Multiples
+## Large Percentages, a.k.a. Multiples
 
 In most situations, I don't find it particularly useful to talk about 120% or 150%. Instead, you want to say that something is <em>20% higher</em> or <em>50% higher</em>. And it gets particularly silly when the percentage reaches 200% and more.
 
@@ -55,7 +55,7 @@ Another issue is precision: a 3,900% increase suggests that this is the exact am
 
 ## Crazy Percentages
 
-So how did SpaceX get to the claim that they would reduce costs by <em>five million percent</em>? <a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/13236/How-Elon-Musk-Plans-to-Take-Humans-to-Mars-and-Beyond.aspx">This story clarifies that they're after</a> reducing costs by roughly four and a half orders of magnitude. Four orders of magnitude is a factor of 10,000; multiply by 100, and you have one million percent. And since it’s 4.5 orders of magnitude, multiply by five to get a reduction by five million percent!
+So how did SpaceX get to the claim that they would reduce costs by <em>five million percent</em>? <a href="http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/13236/How-Elon-Musk-Plans-to-Take-Humans-to-Mars-and-Beyond.aspx">This story clarifies that they're after</a> reducing costs by roughly four and a half orders of magnitude. Four orders of magnitude is a factor of 10,000; multiply by 100, and you have one million percent. And since it’s 4.5 orders of magnitude, multiply by five to get a reduction by five million percent!
 
 To actually express this in percent, the math works a little differently, though. The current costs are 100%. Reducing that down to one 50,000th means we’re diving by that number, which gives us 0.002% (or 0.00002 as a fraction out of 1). Not as sexy perhaps as five million, but at least a meaningful number.
 

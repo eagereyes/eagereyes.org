@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/media/2008/emailDog_small.jpg
 
 # Pushing Data over Email
 
-Email is still a useful transport mechanism for data (like Google Analytics, etc.), despite ftp, web services, etc. Some websites offer email for cheap, while other access can cost a lot of money. Email is also a push service, meaning you do not have to ask periodically if new data has arrived - if you do it right. Of course, that service is rather useless without an automated way to get that data into a database. Here is an introduction to the procmail program and the ancient art of the Unix mail filter.
+Email is still a useful transport mechanism for data (like Google Analytics, etc.), despite ftp, web services, etc. Some websites offer email for cheap, while other access can cost a lot of money. Email is also a push service, meaning you do not have to ask periodically if new data has arrived - if you do it right. Of course, that service is rather useless without an automated way to get that data into a database. Here is an introduction to the procmail program and the ancient art of the Unix mail filter.
 
 ## Pushing Email
 
@@ -22,7 +22,7 @@ But what if we were to live right next to the mailbox? Or if we could ask the fr
 
 ## Email Filters
 
-The mechanism for filtering email is known as the `.forward` file. This file lives in the user's home directory and is called a "dot file" (because it starts with a period, it is not normally shown when listing the directory). As its name suggests, it can contain one or more addresses that each email to that user is to be forwarded to – this is how simple distribution lists and functional email roles (like support, office, abuse) used to be handled. In addition, the syntax also allows the specification of a program to hand the email over to.
+The mechanism for filtering email is known as the `.forward` file. This file lives in the user's home directory and is called a "dot file" (because it starts with a period, it is not normally shown when listing the directory). As its name suggests, it can contain one or more addresses that each email to that user is to be forwarded to – this is how simple distribution lists and functional email roles (like support, office, abuse) used to be handled. In addition, the syntax also allows the specification of a program to hand the email over to.
 
 There are several programs for this purpose (like the aptly-named `vacation` program), the best-known of which is `procmail`. Procmail uses a further dot file, `.procmailrc`, to specify conditions and actions to be performed when an email matches those conditions. This is a lot more flexible than a simple forward list, and provides actions such as moving an email to a particular folder, discarding it, or handing it over to yet another program.
 
@@ -32,19 +32,19 @@ What I will describe in the following is a particular setup that I use for colle
 
 I get the data emailed to a Gmail account, which stores it as a backup and forwards it to my actual data collection account. This is important because it means that I don't have to go to great lengths to check for errors (i can always re-forward my backup), and it also hides my data collection email address.
 
-When an email is received by the data collector that matches the criteria (i.e., coming from a particular address and correct subject), it is run through a filter that extracts any attachments and stores them in a particular directory, and is then discarded. Of course, the same mechanism could also be used to do things like run a <a href="http://flowingdata.com/2008/11/05/how-to-make-your-own-twitter-bot-python-implementation/">Twitter bot</a>.
+When an email is received by the data collector that matches the criteria (i.e., coming from a particular address and correct subject), it is run through a filter that extracts any attachments and stores them in a particular directory, and is then discarded. Of course, the same mechanism could also be used to do things like run a <a href="http://flowingdata.com/2008/11/05/how-to-make-your-own-twitter-bot-python-implementation/">Twitter bot</a>.
 
 Other scripts are run in a cron job to pick up the files and push them into a database or do other things with them. The reason for this is that I want to do as little as possible in the actual mail filter, to reduce complexity and sources for errors.
 
 ## Procmail
 
-Like many Unix programs, <a href="http://www.procmail.org/">procmail</a> has been around for many, many years (the first version was released in December 1990). Its age does not take away from its functionality, but it does explain the cryptic definition file syntax. Documentation is also largely cryptic; there is a <a href="http://www.ii.com/internet/robots/procmail/qs/">very readable introduction</a>, but it's also rather long to cover all the program's options.
+Like many Unix programs, <a href="http://www.procmail.org/">procmail</a> has been around for many, many years (the first version was released in December 1990). Its age does not take away from its functionality, but it does explain the cryptic definition file syntax. Documentation is also largely cryptic; there is a <a href="http://www.ii.com/internet/robots/procmail/qs/">very readable introduction</a>, but it's also rather long to cover all the program's options.
 
 The first step in using procmail is to actually have it run for every email. The way this is done is with the following line in your `.forward` file:
 
 >	`>|/usr/bin/procmail`
 
-Make sure the path for procmail is correct, but other than that, this is very simple. Now that procmail is being run on every email the user receives, we have to write the rules for it. This is what such a rule (stored in `.procmailrc`) looks like:
+Make sure the path for procmail is correct, but other than that, this is very simple. Now that procmail is being run on every email the user receives, we have to write the rules for it. This is what such a rule (stored in `.procmailrc`) looks like:
 
 ```
 `:0
@@ -54,7 +54,7 @@ Make sure the path for procmail is correct, but other than that, this is very si
 
 The first line starts the rule and allows a number of flags (like c for making a copy of the mail, so it can be processed by further rules even if this one matches). The second line contains a condition, which is a <a href="http://en.wikipedia.org/wiki/Regular_expression">regular expression</a>. Any header field can be used here, and several conditions can be put on separate lines, which all have to be met for the rule to become active. The last line specifies the action, which in this case is to run a program. As the use of the pipe character (<span style="font-family: terminal, monaco;">|</span>) suggests, the program will receive the email through its standard input stream (stdin).
 
-Any program can be run in a procmail rule, just like it were run from the shell. Commands can also be passed, like in this case the directory for storing the data – which might be different for different data sources.
+Any program can be run in a procmail rule, just like it were run from the shell. Commands can also be passed, like in this case the directory for storing the data – which might be different for different data sources.
 
 Testing the procmail rule can be done by running procmail and passing it an email through stdin. Here I am using the mbox file created by the ancient <span style="font-family: terminal, monaco;">mail</span> program. More user-friendly ones (like <span style="font-family: terminal, monaco;">pine</span>) are usually available, and can also export emails.
 
@@ -64,7 +64,7 @@ If the rule works and the script does its thing correctly, the attachment will n
 
 ## The Attachment Extractor Script
 
-The script below is a very simple Python program that extracts any attachments from an email and stores them in a directory. It makes good use of the excellent libraries that are included in Python, but performs no error checking whatsoever. If the email is not well-formed, or the attachment is not base64-encoded (which is very unusual in this day and age, however), it will silently fail. Despite that, it works well for its purpose, and lets me collect data that would otherwise require a lot of manual effort.
+The script below is a very simple Python program that extracts any attachments from an email and stores them in a directory. It makes good use of the excellent libraries that are included in Python, but performs no error checking whatsoever. If the email is not well-formed, or the attachment is not base64-encoded (which is very unusual in this day and age, however), it will silently fail. Despite that, it works well for its purpose, and lets me collect data that would otherwise require a lot of manual effort.
 
 ```python
 #! /usr/bin/python

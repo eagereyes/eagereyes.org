@@ -17,7 +17,7 @@ This is not a new idea. In their enthusiasm about early successes in the 1960s, 
 
 I like to think of visualization as putting the human back into the decision-making process. Rather than trusting algorithms to figure things out, I want to see the data and make the decision myself. It's not just the decision itself, it's about knowing why things are done. Understanding the world around us is one of our most fundamental human urges, and one of the things that set us apart from animals and machines.
 
-Michael Driscoll says that <em><a href="http://medriscoll.com/post/39791380287/visualization-halfway">Visualization is a Halfway House</a></em>. What he means is a halfway house on the way to fully automated systems. And look how terrible things are with visualization!
+Michael Driscoll says that <em><a href="http://medriscoll.com/post/39791380287/visualization-halfway">Visualization is a Halfway House</a></em>. What he means is a halfway house on the way to fully automated systems. And look how terrible things are with visualization!
 
 >	But data visualizations still require human analysts to react and kick off another action, if they are to be useful.
 

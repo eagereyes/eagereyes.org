@@ -24,7 +24,7 @@ Let’s take the example of a hypothetical coffee chain and look at their profit
 
 <p align="center"><img class="aligncenter size-full wp-image-2317" alt="Simple bars" src="https://media.eagereyes.org/wp-content/uploads/2013/04/bars-simple.png" width="600" height="160" /></p>
 
-As simple as this chart is, some decisions had to be made how to show the data. The quantitative <em>Profit</em> variable is shown well by position or length. The categorical <em>Product Type</em> naturally divides the data into individual items, hence the bars.
+As simple as this chart is, some decisions had to be made how to show the data. The quantitative <em>Profit</em> variable is shown well by position or length. The categorical <em>Product Type</em> naturally divides the data into individual items, hence the bars.
 
 What if we picked a different variable for the second axis, one that is continuous? This changes the type of chart we want to a line chart.
 
@@ -36,7 +36,7 @@ Line and bar charts can appear to be interchangeable, but they are usually not. 
 
 ## Categorical Data: Breaking Things Down
 
-We often want to see more than two data attributes at the same time. Categorical axes can be used to break data down further. Each category is subdivided by the categories of the additional dimensions. Adding two categorical dimensions, <em>Market</em> and <em>Year</em> to the initial chart gives us a lot more bars. 
+We often want to see more than two data attributes at the same time. Categorical axes can be used to break data down further. Each category is subdivided by the categories of the additional dimensions. Adding two categorical dimensions, <em>Market</em> and <em>Year</em> to the initial chart gives us a lot more bars. 
 
 <p align="center"><img class="aligncenter size-full wp-image-2316" alt="More bars" src="https://media.eagereyes.org/wp-content/uploads/2013/04/bars-multiple.png" width="600" height="375" /></p>
 

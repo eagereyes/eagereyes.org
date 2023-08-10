@@ -13,7 +13,7 @@ Visualization may not be as precise as statistics, but it provides a unique view
 
 ## Arguing for Graphics in 1973
 
-In 1973, Francis J. Anscombe published a paper titled, <em>Graphs in Statistical Analysis</em>. The idea of using graphical methods had been established relatively recently by John Tukey, but there was evidently still a lot of skepticism. Anscombe first lists some notions that textbooks were "indoctrinating" people with, like the idea that "numerical calculations are exact, but graphs are rough."
+In 1973, Francis J. Anscombe published a paper titled, <em>Graphs in Statistical Analysis</em>. The idea of using graphical methods had been established relatively recently by John Tukey, but there was evidently still a lot of skepticism. Anscombe first lists some notions that textbooks were "indoctrinating" people with, like the idea that "numerical calculations are exact, but graphs are rough."
 
 He then presents a table of numbers. It contains four distinct datasets (hence the name <em>Anscombe's Quartet</em>), each with statistical properties that are essentially identical: the mean of the <em>x</em> values is 9.0, mean of <em>y</em> values is 7.5, they all have nearly identical variances, correlations, and regression lines (to at least two decimal places).
 
@@ -160,7 +160,7 @@ How do you find out which model can be applied? Anscombe's answer is to use grap
 
 ## What is an Outlier?
 
-In addition to showing how useful a clear look onto data can be, Anscombe also raises an interesting question: what, exactly, is an outlier? He describes a study on education, where he studied per-capita expenditures for public schools in the 50 U.S. states and the District of Columbia. Alaska is a bit of an outlier, so it moves the regression line away from the mainstream. The obvious response would be to remove Alaska from the data before computing the regression. But then, another state will be an outlier. Where do you stop?
+In addition to showing how useful a clear look onto data can be, Anscombe also raises an interesting question: what, exactly, is an outlier? He describes a study on education, where he studied per-capita expenditures for public schools in the 50 U.S. states and the District of Columbia. Alaska is a bit of an outlier, so it moves the regression line away from the mainstream. The obvious response would be to remove Alaska from the data before computing the regression. But then, another state will be an outlier. Where do you stop?
 
 Anscombe argues that the correct answer is to show both the regression with Alaska, but also how much it contributes and what happens when it is removed. The tool here, again, are graphical representations. Not only the actual data needs to be shown, but also the distances from the regression line (the <em>residuals</em>), and other statistics that help judge how well the model fits. It seems like an obvious thing to do, but presumably was not the norm in the 1970s, and I can imagine that it still not always is.
 

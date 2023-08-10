@@ -1,6 +1,6 @@
 ---
 title: "Report: EuroVis 2015"
-description: "I attended EuroVis 2015 last week in Cagliari, Sardinia. This is the second-most important conference in the academic visualization world, and there were plenty of good sessions to choose from (full and short papers, state-of-the-art reports, and industry sessions)."
+description: "I attended EuroVis 2015 last week in Cagliari, Sardinia. This is the second-most important conference in the academic visualization world, and there were plenty of good sessions to choose from (full and short papers, state-of-the-art reports, and industry sessions)."
 date: 2015-06-01 18:17:39
 tags: conference, eurovis
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/06/DSCF5939.jpg
@@ -10,25 +10,25 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/06/DSCF5939.j
 
 # Report: EuroVis 2015
 
-I attended <a href="http://eurovis2015.it">EuroVis 2015</a> last week in Cagliari, Sardinia. This is the second-most important conference in the academic visualization world, and there were plenty of good sessions to choose from (full and short papers, state-of-the-art reports, and industry sessions).
+I attended <a href="http://eurovis2015.it">EuroVis 2015</a> last week in Cagliari, Sardinia. This is the second-most important conference in the academic visualization world, and there were plenty of good sessions to choose from (full and short papers, state-of-the-art reports, and industry sessions).
 
-As usual, this is a highly subjective and incomplete report. I did not see anywhere near all presentations, and I am only describing the papers I really liked (or that I have something meaningful to say about) below. It also helps when authors have something to link to, since that makes mentioning the paper much more valuable.
+As usual, this is a highly subjective and incomplete report. I did not see anywhere near all presentations, and I am only describing the papers I really liked (or that I have something meaningful to say about) below. It also helps when authors have something to link to, since that makes mentioning the paper much more valuable.
 
 EuroVis this year had 250–300 participants from 30 different countries. The organizers didn’t know the precise number in the opening session, and the closing didn’t reveal any new information either. Full papers had 160 submissions with 51 accepted, for a 32% acceptance rate. Short papers had 58 submissions, of which 24 were accepted, resulting in an acceptance rate of 41%. This information does not seem to be available in the electronic proceedings that attendees received on the USB stick, which I think is problematic. Having to catch those numbers in the opening session can’t be the best way to disseminate this information.
 
 ## EuroRVVV
 
-I attended the <a href="http://www.eurorvvv.org/program/">EuroRVVV</a> workshop (RVVV stands for reproducibility, verification, and validation in visualization) on Monday and Tuesday. I didn’t find the individual presentations particularly interesting, though there were some good discussions. What was most striking though was that not one paper in a workshop about reproducibility had materials or a tool online that they linked to. Are papers on reproducibility themselves reproducible or verifiable? The answer appears to be no.
+I attended the <a href="http://www.eurorvvv.org/program/">EuroRVVV</a> workshop (RVVV stands for reproducibility, verification, and validation in visualization) on Monday and Tuesday. I didn’t find the individual presentations particularly interesting, though there were some good discussions. What was most striking though was that not one paper in a workshop about reproducibility had materials or a tool online that they linked to. Are papers on reproducibility themselves reproducible or verifiable? The answer appears to be no.
 
-The idea of the workshop clearly makes sense, but I’m not convinced that the participants really had a strong enough drive to really make things happen. The most interesting discussion was around levels of reproducibility that were mentioned in one of the presentations, from <a href="http://www.cs.huji.ac.il/~feit/papers/Repeat15SIGOPS.pdf">a paper at SIGOPS</a> rather than at this workshop. Much of the discussion also revolved around whether messy and imperfect code should be a reason not to release it. I wish more people were aware of Matt Might’s <a href="http://matt.might.net/articles/crapl/">Community Research and Academic Programming License (CRAPL)</a> and would just give that excuse a rest.
+The idea of the workshop clearly makes sense, but I’m not convinced that the participants really had a strong enough drive to really make things happen. The most interesting discussion was around levels of reproducibility that were mentioned in one of the presentations, from <a href="http://www.cs.huji.ac.il/~feit/papers/Repeat15SIGOPS.pdf">a paper at SIGOPS</a> rather than at this workshop. Much of the discussion also revolved around whether messy and imperfect code should be a reason not to release it. I wish more people were aware of Matt Might’s <a href="http://matt.might.net/articles/crapl/">Community Research and Academic Programming License (CRAPL)</a> and would just give that excuse a rest.
 
 I may be harsh here, but this is an area where academics could do really good work pretty easily rather than just discussing the difficulty of the topic ad nauseam.
 
-## Evaluation and Design
+## Evaluation and Design
 
-The evaluation session had a very nice set of papers, and I’m not just saying that because one of my papers was in it.
+The evaluation session had a very nice set of papers, and I’m not just saying that because one of my papers was in it.
 
-Michael Sedlmair and Michaël Aupetit started things off with <em>Data-driven Evaluation of Visual Quality Measures</em>. They looked at a number of visual quality metrics for clusters that they had previously rated against human judgments, and designed a way to predict those judgments using machine learning. This work is highly interesting, because it can help users get results faster if the kinds of questions they might ask are known.
+Michael Sedlmair and Michaël Aupetit started things off with <em>Data-driven Evaluation of Visual Quality Measures</em>. They looked at a number of visual quality metrics for clusters that they had previously rated against human judgments, and designed a way to predict those judgments using machine learning. This work is highly interesting, because it can help users get results faster if the kinds of questions they might ask are known.
 
 Sebastian Mittelstädt and Daniel Keim looked into <em>Efficient Contrast Effect Compensation with Personalized Perception Models</em>. Their goal is to enhance the contrast of visualizations after the fact. To do that, they run a model of color contrast on the GPU, which makes things considerably faster than other methods. They are able to personalize the model to the person and the device used with just four sets of two sliders.
 
@@ -40,13 +40,13 @@ My favorite of the session was <em><a href="http://j.mp/datasketching">An Explor
 
 I’m not a fan of cartograms, but <em><a href="http://cartogram.cs.arizona.edu">Quantitative Measures for Cartogram Generation Techniques</a></em> by Md. Jawaherul Alam, Stephen G. Kobourov, and Sankar Veeramoni presented some interesting measures to assess and maybe improve cartograms. They presented measures for statistical accuracy, topology, recognizability, readability, shape complexity, and algorithmic efficiency. Some of these are easier to measure than others. They make all their data and materials available, which is great.
 
-Continuing the cartogram theme was<em> Mosaic Drawings and Cartograms</em> by Rafael Cano, Kevin Buchin, Thom Castermans, Astrid Pieterse, Willem Sonke, and Bettina Speckmann. Their approach produces hexagonal or square-based cartograms with reasonably nice properties, though it also created some weird artifacts (like placing Washington and Oregon east of California in a map of Starbucks locations).
+Continuing the cartogram theme was<em> Mosaic Drawings and Cartograms</em> by Rafael Cano, Kevin Buchin, Thom Castermans, Astrid Pieterse, Willem Sonke, and Bettina Speckmann. Their approach produces hexagonal or square-based cartograms with reasonably nice properties, though it also created some weird artifacts (like placing Washington and Oregon east of California in a map of Starbucks locations).
 
-<em><a href="https://sites.google.com/site/eurovis2015">Map-based Visualizations Increase Long-Term Recall of Data</a></em> by Bahador Saket, Carlos Scheidegger, Stephen Kobourov, and Katy Börner compared different kinds of graph layouts in terms of their memorability. They made an interesting distinction between three types of memory: <em>visceral</em>, <em>behavioral</em>, and <em>reflective</em>. Their study showed that map-like graph layouts (that fill in areas between nodes) are easier to remember than plain old node-link diagrams, both in terms of remembering the graph and the actual content. I'll have to read the paper to be sure that I really agree that their work is at the reflective level, unlike all the work before. But it's at least a very good step in that direction.
+<em><a href="https://sites.google.com/site/eurovis2015">Map-based Visualizations Increase Long-Term Recall of Data</a></em> by Bahador Saket, Carlos Scheidegger, Stephen Kobourov, and Katy Börner compared different kinds of graph layouts in terms of their memorability. They made an interesting distinction between three types of memory: <em>visceral</em>, <em>behavioral</em>, and <em>reflective</em>. Their study showed that map-like graph layouts (that fill in areas between nodes) are easier to remember than plain old node-link diagrams, both in terms of remembering the graph and the actual content. I'll have to read the paper to be sure that I really agree that their work is at the reflective level, unlike all the work before. But it's at least a very good step in that direction.
 
-A cool idea is<em> <a href="http://vizlab.cs.fiu.edu/graphunit">GraphUnit: Evaluating Interactive Graph Visualizations Using Crowdsourcing</a></em> by Mershack Okoe and Radu Jianu. It lets you build user tests involving graphs semi-automatically as long as you provide certain functions for it to call. It even sets up the HIT on Mechanical Turk and runs it for you if you want. This sort of test automation is very helpful to get more people to run user studies.
+A cool idea is<em> <a href="http://vizlab.cs.fiu.edu/graphunit">GraphUnit: Evaluating Interactive Graph Visualizations Using Crowdsourcing</a></em> by Mershack Okoe and Radu Jianu. It lets you build user tests involving graphs semi-automatically as long as you provide certain functions for it to call. It even sets up the HIT on Mechanical Turk and runs it for you if you want. This sort of test automation is very helpful to get more people to run user studies.
 
-<em>Towards a smooth design process for static communicative node-link diagrams</em> by Andre Spritzer, Jeremy Boy, Pierre Dragicevic, Jean-Daniel Fekete, and Carla M.D.S. Freitas presented a system called <em>GraphCoiffure</em> that can be used to create information graphics with graphs. The program has many useful functions for designers while retaining a set of graph layout algorithms to run at any time. It looked really interesting, too bad it's not available to play with.
+<em>Towards a smooth design process for static communicative node-link diagrams</em> by Andre Spritzer, Jeremy Boy, Pierre Dragicevic, Jean-Daniel Fekete, and Carla M.D.S. Freitas presented a system called <em>GraphCoiffure</em> that can be used to create information graphics with graphs. The program has many useful functions for designers while retaining a set of graph layout algorithms to run at any time. It looked really interesting, too bad it's not available to play with.
 
 ## Short Papers
 
@@ -60,9 +60,9 @@ Perhaps my favorite short paper was <em>Interaction with uncertainty in visualis
 
 ## Conference Dinner
 
-Conference dinners can be amazing or they can be uninspiring (like the last several years at VIS). The EuroVis dinner at <a href="http://www.conventosangiuseppe.com">Convento San Giuseppe</a> set some new standards. The people there made all the food fresh, by hand, including gnocchi, lots of grilled meat, and <a href="http://en.wikipedia.org/wiki/Nougat">nougat</a>. The latter was particularly amazing, as it was soft and warm and just insanely good. There was also pottery, weaving, and a number of other things. The place was also beautiful, dating back to the Middle Ages.
+Conference dinners can be amazing or they can be uninspiring (like the last several years at VIS). The EuroVis dinner at <a href="http://www.conventosangiuseppe.com">Convento San Giuseppe</a> set some new standards. The people there made all the food fresh, by hand, including gnocchi, lots of grilled meat, and <a href="http://en.wikipedia.org/wiki/Nougat">nougat</a>. The latter was particularly amazing, as it was soft and warm and just insanely good. There was also pottery, weaving, and a number of other things. The place was also beautiful, dating back to the Middle Ages.
 
-The bar is set high for next year. Speaking of which: EuroVis 2016 will take place June 6-10, 2016 in Groningen, The Netherlands.
+The bar is set high for next year. Speaking of which: EuroVis 2016 will take place June 6-10, 2016 in Groningen, The Netherlands.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on June 01, 2015_

@@ -1,6 +1,6 @@
 ---
 title: "VIS Tutorials and the Industry and Government Experiences Track"
-description: "The deadline for tutorial proposals for VIS 2013 is coming up. There are a few changes from last year. Also, there is a new Industry and Government Experiences Track at the conference this year."
+description: "The deadline for tutorial proposals for VIS 2013 is coming up. There are a few changes from last year. Also, there is a new Industry and Government Experiences Track at the conference this year."
 date: 2013-06-05 20:52:54
 tags: 
 featuredImage: 
@@ -8,7 +8,7 @@ featuredImage:
 
 # VIS Tutorials and the Industry and Government Experiences Track
 
-The deadline for tutorial proposals for <a href="http://ieeevis.org">VIS 2013</a> is coming up. There are a few changes from last year. Also, there is a new <em>Industry and Government Experiences Track</em> at the conference this year.
+The deadline for tutorial proposals for <a href="http://ieeevis.org">VIS 2013</a> is coming up. There are a few changes from last year. Also, there is a new <em>Industry and Government Experiences Track</em> at the conference this year.
 
 ## Tutorials
 

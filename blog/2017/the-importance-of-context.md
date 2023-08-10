@@ -46,7 +46,7 @@ Going further, what about setting a goal and showing me progress? Misfit doesn�
 
 Even this could be improved (and I’ll have more to say about data display in fitness tracking more generally in another posting), but it’s a good start.
 
-All of this is context, and it’s important if I’m supposed to get any value out of these numbers. Just throwing digits at me without an idea what would be good or bad (should I aim to sleep 15 hours more this month?) doesn’t help me. Numbers need to be stated in units I can understand (like hours of sleep per night), and I need some context to understand what’s good or bad – and ideally, how I’m doing relative to others or just myself.
+All of this is context, and it’s important if I’m supposed to get any value out of these numbers. Just throwing digits at me without an idea what would be good or bad (should I aim to sleep 15 hours more this month?) doesn’t help me. Numbers need to be stated in units I can understand (like hours of sleep per night), and I need some context to understand what’s good or bad – and ideally, how I’m doing relative to others or just myself.
 
 If you expect me to understand numbers, you need to give me context.
 

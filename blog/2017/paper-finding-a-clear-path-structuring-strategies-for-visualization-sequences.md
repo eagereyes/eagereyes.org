@@ -19,7 +19,7 @@ There will be three postings this week about EuroVis papers. This one is about t
 
 Let’s say you want to show data about the urban population in two different countries for two different years. Does it make more sense to show Country A in Year X, then the same country in Year Y, and then the same thing for Country B? Or show Country A in Year X, Country B in Year X, and then each in Year Y? Even with just a few charts, there are a lot of possible combinations. Some of them will seem more obviously the right idea, but how do you know?
 
-It may seem reasonable to keep the direction of time the same, but does it matter? Might going forward for Country X and then going backwards in time for Country Y perhaps work better?
+It may seem reasonable to keep the direction of time the same, but does it matter? Might going forward for Country X and then going backwards in time for Country Y perhaps work better?
 
 And it’s not just time, we looked four different factors that might change between different views:
 

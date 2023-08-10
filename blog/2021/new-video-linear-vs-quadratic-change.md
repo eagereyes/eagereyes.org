@@ -1,6 +1,6 @@
 ---
 title: "New Video: Linear vs. Quadratic Change"
-description: "Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE."
+description: "Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE."
 date: 2021-06-15 07:29:42
 tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/06/LvQ-Thumbnail.jpeg
@@ -9,7 +9,7 @@ outline: false
 
 # New Video: Linear vs. Quadratic Change
 
-Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE.
+Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE.
 
 This is essentially the video version of <a href="/blog/2008/linear-vs-quadratic-change" data-type="post" data-id="235">a blog post I wrote on linear vs. quadratic change</a> some 12 yers ago. Cole Nussbaumer Knaflic reminded me of it in a Clubhouse conversation (remember Clubhouse?) a month or so ago. So I decided to turn this into a little video.
 

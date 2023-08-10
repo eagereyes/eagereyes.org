@@ -46,7 +46,7 @@ All visualization techniques break down at some point. In most cases, it is fair
 
 Another piece of information Venn diagrams do not convey is the size of a set. While it is possible to imagine doing that, it typically does not work without serious distortions of the diagram. If the shape has to be altered significantly to correctly represent size, it is likely that different parts of the diagram will be very different shapes, thus being tough to compare. The Venn diagram simply isn’t able to perform this function in a reasonable way.
 
-In the medical and bioinformatics literature, Venn diagrams are a popular way of showing different study conditions, sometimes with the intention of directly reflecting set sizes, sometimes with annotations. Rather than insist on Venn diagrams, it would be a better idea to use better alternatives, like <a href="/criticism/autism-diagnosis-accuracy">I have shown</a> <a href="/blog/2008/sightings-a-vennerable-challenge">in the past</a>.
+In the medical and bioinformatics literature, Venn diagrams are a popular way of showing different study conditions, sometimes with the intention of directly reflecting set sizes, sometimes with annotations. Rather than insist on Venn diagrams, it would be a better idea to use better alternatives, like <a href="/criticism/autism-diagnosis-accuracy">I have shown</a> <a href="/blog/2008/sightings-a-vennerable-challenge">in the past</a>.
 
 ## Conclusions: Venn to Use, Venn Not to Use
 

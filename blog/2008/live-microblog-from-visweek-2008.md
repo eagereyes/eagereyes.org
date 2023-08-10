@@ -15,7 +15,7 @@ As <a href="/blog/2008/two-years-of-eagereyes.html">promised earlier</a>, I will
 
 This is an experiment, and we'll see how much interest there will be. The idea is stolen from Mr. <a href="http://flowingdata.com/">FlowingData</a>, though in contrast I'm planning on actually following through. ;) I will write about the sessions I attend, papers I find notable, and any insights I think are worth sharing.
 
-The plan is to write about 5-10 postings a day, depending on things I find interesting and how much time I have. I call these "glimpses," as a little play on "tweets." The reason I'm not using Twitter for this is that Twitter is just too limiting for any kind of meaningful comment, and I want to be able to post links without that abomination of tinyURL. I'm also still debating whether to activate comments on those glimpses, because they're not really meant to be full postings (i.e., there won't be a teaser and body, only the body) – but that's another thing I can't do with Twitter.
+The plan is to write about 5-10 postings a day, depending on things I find interesting and how much time I have. I call these "glimpses," as a little play on "tweets." The reason I'm not using Twitter for this is that Twitter is just too limiting for any kind of meaningful comment, and I want to be able to post links without that abomination of tinyURL. I'm also still debating whether to activate comments on those glimpses, because they're not really meant to be full postings (i.e., there won't be a teaser and body, only the body) – but that's another thing I can't do with Twitter.
 
 Having said that, <a href="http://twitter.com/EagerEyes">I do use Twitter</a>, and I will tweet things when I don't have my laptop with me, or the information does not seem relevant enough for this site.
 
@@ -25,7 +25,7 @@ To those of you going to Columbus, I hope to meet many of you! And to the rest: 
 
 <hr />
 
-Teaser image from the always brilliant <a href="http://xkcd.com/148/">xkcd</a> (used under creative commons).
+Teaser image from the always brilliant <a href="http://xkcd.com/148/">xkcd</a> (used under creative commons).
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 16, 2008_

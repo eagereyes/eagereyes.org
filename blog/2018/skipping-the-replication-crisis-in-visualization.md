@@ -25,7 +25,7 @@ The paper will be presented at <a href="https://beliv-workshop.github.io">BELIV<
 
 <hr class="wp-block-separator is-style-wide"/>
 
-Robert Kosara, Steve Haroz, <a href="/publications/Kosara-BELIV-2018"><em>Skipping the Replication Crisis in Visualization: Threats to Study Validity and How to Address Them</em></a>, BELIV 2018.
+Robert Kosara, Steve Haroz, <a href="/publications/Kosara-BELIV-2018"><em>Skipping the Replication Crisis in Visualization: Threats to Study Validity and How to Address Them</em></a>, BELIV 2018.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 16, 2018_

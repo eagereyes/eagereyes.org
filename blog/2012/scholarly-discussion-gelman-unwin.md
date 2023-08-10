@@ -1,6 +1,6 @@
 ---
 title: "A Scholarly Discussion with Andrew Gelman and Anthony Unwin"
-description: "This is how scholarly exchanges used to work: Scientist A publishes a result, Scientist B then writes an angry letter saying that Scientist A is full of it, to which A responds with more insults, etc., and all that published in a fine scholarly journal. I was recently asked to respond to a piece Andrew Gelman and Anthony Unwin had written about visualization for the Journal of Computational and Graphical Statistics, which had some issues."
+description: "This is how scholarly exchanges used to work: Scientist A publishes a result, Scientist B then writes an angry letter saying that Scientist A is full of it, to which A responds with more insults, etc., and all that published in a fine scholarly journal. I was recently asked to respond to a piece Andrew Gelman and Anthony Unwin had written about visualization for the Journal of Computational and Graphical Statistics, which had some issues."
 date: 2012-11-29 21:40:07
 tags: 
 featuredImage: 
@@ -9,7 +9,7 @@ outline: false
 
 # A Scholarly Discussion with Andrew Gelman and Anthony Unwin
 
-This is how scholarly exchanges used to work: Scientist A publishes a result, Scientist B then writes an angry letter saying that Scientist A is full of it, to which A responds with more insults, etc., and all that published in a fine scholarly journal. I was recently asked to respond to a piece Andrew Gelman and Anthony Unwin had written about visualization for the <em>Journal of Computational and Graphical Statistics</em>, which had some issues.
+This is how scholarly exchanges used to work: Scientist A publishes a result, Scientist B then writes an angry letter saying that Scientist A is full of it, to which A responds with more insults, etc., and all that published in a fine scholarly journal. I was recently asked to respond to a piece Andrew Gelman and Anthony Unwin had written about visualization for the <em>Journal of Computational and Graphical Statistics</em>, which had some issues.
 
 In addition to yours truly, the journal's editor Richard Levine also asked Hadley Wickham, Stephen Few, and Paul Murrell for comment. The original article, responses, and Gelman and Unwin's rejoinder are only going to appear in the March 2013 issue of the journal. However, since <a href="http://andrewgelman.com/2012/11/tradeoffs-in-information-graphics/">Gelman has already put both of his articles online and blogged about them</a>, it makes sense to also make my part of the conversation available; in particular since Gelman and Unwin extensively refer to my piece in their rejoinder.
 
@@ -21,8 +21,8 @@ While the original article is rather infuriating, the rejoinder is a great examp
 
 Here are the links to the articles:
 <ul>
-	<li>Andrew Gelman and Anthony Unwin, <em><a href="http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf">Infovis and Statistical Graphics: Different Goals, Different Looks</a></em> (original article, PDF)</li>
-	<li>Robert Kosara, <em><a href="/publications/Kosara_JCGS_2013.html">InfoVis Is So Much More: A Comment on Gelman and Unwin and an Invitation to Consider the Opportunities</a></em> (my response)</li>
+	<li>Andrew Gelman and Anthony Unwin, <em><a href="http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf">Infovis and Statistical Graphics: Different Goals, Different Looks</a></em> (original article, PDF)</li>
+	<li>Robert Kosara, <em><a href="/publications/Kosara_JCGS_2013.html">InfoVis Is So Much More: A Comment on Gelman and Unwin and an Invitation to Consider the Opportunities</a></em> (my response)</li>
 	<li>Andrew Gelman and Anthony Unwin, <em><a href="http://www.stat.columbia.edu/~gelman/research/published/visreply3.pdf">Tradeoffs in Information Graphics</a></em> (rejoinder, PDF)</li>
 </ul>
 The other responses are not available online yet, from what I can tell. I will link to them if/when I find them, or once the complete set is published in the journal.

@@ -52,7 +52,7 @@ _Posted by <a href="/about">Robert Kosara</a> on March 23, 2020_
 >	
 >	I added a bold note at the beginning of the charts (e.g. on the two ones here: https://blog.datawrapper.de/coronaviruscharts) yesterday and now hope that it becomes clearer. That said, I can see how this chart is misleading. There's even a German news outlet that copied my chart (before I added the note), misunderstood it and added a wrong interpretation guide.
 >	
->	Josh Katz has found the best solution to this problem, in my opinion – as soon as you hover over e.g. the US, it shows a line extrapolating the doubling time of the last 5 or so days: https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html
+>	Josh Katz has found the best solution to this problem, in my opinion – as soon as you hover over e.g. the US, it shows a line extrapolating the doubling time of the last 5 or so days: https://www.nytimes.com/interactive/2020/03/21/upshot/coronavirus-deaths-by-country.html
 
 <a href="http://datavis.ca" rel="nofollow noopener" target="_blank">Michael Friendly</a> says…
 >	Tukey's advice (originally for QQ plots): 

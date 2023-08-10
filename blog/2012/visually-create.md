@@ -1,6 +1,6 @@
 ---
 title: "Visual.ly Create"
-description: "Information graphics are a big and growing business, but the tools that are used for making them are little better than paper and pencil. That is particularly problematic when it comes to infographics that are heavy on data, which not only require a lot of work, but also many repeating steps that could be handled by a machine. Visual.ly's recently launched Create tool takes care of some of this work to create better and more flexible information graphics."
+description: "Information graphics are a big and growing business, but the tools that are used for making them are little better than paper and pencil. That is particularly problematic when it comes to infographics that are heavy on data, which not only require a lot of work, but also many repeating steps that could be handled by a machine. Visual.ly's recently launched Create tool takes care of some of this work to create better and more flexible information graphics."
 date: 2012-04-17 20:30:00
 tags: 
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/visually-wait-is-over.png
@@ -8,13 +8,13 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/visually-w
 
 # Visual.ly Create
 
-Information graphics are a big and growing business, but the tools that are used for making them are little better than paper and pencil. That is particularly problematic when it comes to infographics that are heavy on data, which not only require a lot of work, but also many repeating steps that could be handled by a machine. <a title="Visual.ly Create" href="http://create.visual.ly/">Visual.ly's recently launched <em>Create</em> tool</a> takes care of some of this work to create better and more flexible information graphics.
+Information graphics are a big and growing business, but the tools that are used for making them are little better than paper and pencil. That is particularly problematic when it comes to infographics that are heavy on data, which not only require a lot of work, but also many repeating steps that could be handled by a machine. <a title="Visual.ly Create" href="http://create.visual.ly/">Visual.ly's recently launched <em>Create</em> tool</a> takes care of some of this work to create better and more flexible information graphics.
 
-Infographics today are meticulously made by hand, each one being unique like a precious snowflake. That's perfectly valid, but there are recurring structures,  approaches that have worked well for different kinds of content, etc. There is very little automation to make it easier to reuse ideas and structures, and in particular to work with data. Who wants to draw a bar chart by hand?
+Infographics today are meticulously made by hand, each one being unique like a precious snowflake. That's perfectly valid, but there are recurring structures,  approaches that have worked well for different kinds of content, etc. There is very little automation to make it easier to reuse ideas and structures, and in particular to work with data. Who wants to draw a bar chart by hand?
 
 This is where <a href="http://visual.ly/">Visual.ly</a> comes in. Their idea is not only to connect designers with companies looking for information graphics, but also to provide the tools to make creating them easier and more flexible.
 
-I have talked to several people recently who were confused by what Visual.ly is trying to do. Is it an infographics directory? A marketplace? A Facebook and Twitter visualizer? Something else? The answer is: all of that. The reason this is confusing is not only that Visual.ly is doing more than one thing, but that at least one of them has never been done before.
+I have talked to several people recently who were confused by what Visual.ly is trying to do. Is it an infographics directory? A marketplace? A Facebook and Twitter visualizer? Something else? The answer is: all of that. The reason this is confusing is not only that Visual.ly is doing more than one thing, but that at least one of them has never been done before.
 
 ## The Templar
 

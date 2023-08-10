@@ -42,11 +42,11 @@ Clicking on a line moves the blue line there so it's easier to see, but the over
 
 In addition, the filters at the top also respond to the selection to show who is selected. Clicking around inside the chart updates them. Hm, so maybe I can use those to explore too? And of course you can, broadening or narrowing your selection, or clicking through different age groups of the same subset of the population, etc.
 
-The Human-Computer Interaction field has a nice term for an indication of more data and interaction: <em>information scent</em>. This is usually used with widgets, which indicate where more information can be found (like the little tick marks on the scrollbar in Chrome when when you search within the page). What makes this chart so good is its clever use of information scent to entice viewers to dig deeper, explore, and ask questions.
+The Human-Computer Interaction field has a nice term for an indication of more data and interaction: <em>information scent</em>. This is usually used with widgets, which indicate where more information can be found (like the little tick marks on the scrollbar in Chrome when when you search within the page). What makes this chart so good is its clever use of information scent to entice viewers to dig deeper, explore, and ask questions.
 
 It also brilliantly and clearly demonstrates the fact that the overall unemployment rate is a rather meaningless number. The actual rate in your demographic is likely to look very different, and the range is huge. This was the inspiration for my <a href="/basics/means"><em>What Means Mean</em></a> piece, though I don't think that was nearly as clear as this.
 
-The chart shows interesting data, explains a somewhat advanced concept, and invites people to interact with it. This comes in a package that is understated and elegant in its design. Best line chart ever.
+The chart shows interesting data, explains a somewhat advanced concept, and invites people to interact with it. This comes in a package that is understated and elegant in its design. Best line chart ever.
 
 ## Bar Chart
 
@@ -62,7 +62,7 @@ Animated scatterplots may not have been invented by Hans Rosling and <a href="ht
 
 <p align="center"><img class="aligncenter size-medium wp-image-8320" src="https://media.eagereyes.org/wp-content/uploads/2014/09/gapminder-730x547.png" alt="gapminder" width="730" height="547" /></p>
 
-The animation may seem like a bit of a gimmick – and it has been <a href="http://research.microsoft.com/apps/pubs/default.aspx?id=64262">criticized as not being terribly effective</a> –, but it works to communicate a number of important pieces of information.
+The animation may seem like a bit of a gimmick – and it has been <a href="http://research.microsoft.com/apps/pubs/default.aspx?id=64262">criticized as not being terribly effective</a> –, but it works to communicate a number of important pieces of information.
 
 The main piece of information, of course, is change over time. How have different countries changed in terms of their wealth, healthcare, etc.? This is reasonably effective, because there are trends, and many countries follow them. The outliers are reasonably easy to spot, especially when you can turn on trails and replay the animation. It's not always immediately possible to see everything, but it does invite people to play and explore.
 
@@ -72,7 +72,7 @@ Rosling's video, and the gapminder software, not only introduced millions of peo
 
 ## Appreciating Good Work
 
-It's easy to find, and make fun of, bad charts. But between all the pie chart bashing and general criticism of bad charts, it is equally important to find the good examples and try to figure out what makes them work so well. Even if it may be more fun to beat up the bad examples, we will ultimately learn more from understanding the design choices and ideas that went into the good ones.
+It's easy to find, and make fun of, bad charts. But between all the pie chart bashing and general criticism of bad charts, it is equally important to find the good examples and try to figure out what makes them work so well. Even if it may be more fun to beat up the bad examples, we will ultimately learn more from understanding the design choices and ideas that went into the good ones.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 03, 2014_

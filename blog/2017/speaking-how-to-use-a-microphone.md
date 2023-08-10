@@ -27,7 +27,7 @@ If you’re unsure if others can hear you, ask! “Can you hear me?” Watch not
 
 <strong>Speak up!</strong> Microphones and speakers amplify your voice, but that doesn’t mean you can mumble and whisper. I see so many talks that are barely audible because the speaker seems to think that the microphone can do magic. It can’t. It needs sufficient input from you to work well.
 
-What’s the point of giving a talk if people can’t hear you? If they’re straining to hear you at all, or if you’re annoying them with loud popping noises, they’re not going to listen to what you actually have to say. It doesn’t take much, just a few simple things to keep in mind (and observe in others!) will make a huge difference.
+What’s the point of giving a talk if people can’t hear you? If they’re straining to hear you at all, or if you’re annoying them with loud popping noises, they’re not going to listen to what you actually have to say. It doesn’t take much, just a few simple things to keep in mind (and observe in others!) will make a huge difference.
 
 <hr />
 

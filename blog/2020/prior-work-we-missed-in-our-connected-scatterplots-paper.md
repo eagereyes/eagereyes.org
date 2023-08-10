@@ -42,7 +42,7 @@ So how did we miss them? I think it’s mostly a matter of terminology, but we a
 
 I’m not actually sure where the term <em>connected scatterplot</em> even originates. It may have been used by Amanda Cox first, but I’m not sure. I do remember us discussing a few alternatives while working on this project, but none of them ever stuck. Even so, we never thought of calling them <em>Double Unary Parametric charts.</em> 
 
-But either way, we should have been aware of this work as a matter of principle. It’s also sad to be missing several papers done by fellow travelers on such an obscure topic. It turns out we weren’t the only ones thinking about these crazy charts – or the first ones.
+But either way, we should have been aware of this work as a matter of principle. It’s also sad to be missing several papers done by fellow travelers on such an obscure topic. It turns out we weren’t the only ones thinking about these crazy charts – or the first ones.
 
 <hr class="wp-block-separator"/>
 

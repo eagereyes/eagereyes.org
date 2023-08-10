@@ -9,7 +9,7 @@ outline: false
 
 # The Science of Information Visualization: A Sketch
 
-According to Carl Mitcham's book <em>Thinking through Technology: The Path between Engineering and Philosophy</em> (University of Chicago Press, 1994), engineering is making things based on scientific principles – as opposed to the intuitive making that defines a craft. Information visualization (InfoVis) is practiced like a craft today, based mostly on practical examples, but not on theoretical basics. Here is a sketch of not only InfoVis as an engineering field, but InfoVis as a science.
+According to Carl Mitcham's book <em>Thinking through Technology: The Path between Engineering and Philosophy</em> (University of Chicago Press, 1994), engineering is making things based on scientific principles – as opposed to the intuitive making that defines a craft. Information visualization (InfoVis) is practiced like a craft today, based mostly on practical examples, but not on theoretical basics. Here is a sketch of not only InfoVis as an engineering field, but InfoVis as a science.
 
 We could model the science of InfoVis after physics, a well-established science. If we assume that we already have the engineering part, then there's also theoretical physics, experimental physics, and computational physics. That last one is of course less interesting for a field that can't exist without computers, so we'll just treat it as a part of the other two. Other than that, this seems to be a good model for visualization.
 

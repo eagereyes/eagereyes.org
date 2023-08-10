@@ -28,7 +28,7 @@ What we gain, though, is the ability to sort by any column. That is useful, beca
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/bars.png" width="599" height="514" /></p>
 
-Click on the column headings to sort by <em>natural growth</em>, <em>domestic migration</em>, <em>international migration</em>, or <em>net change</em> instead of <em>city name</em>. Now compare to the original and tell me that this isn’t more informative and interesting.
+Click on the column headings to sort by <em>natural growth</em>, <em>domestic migration</em>, <em>international migration</em>, or <em>net change</em> instead of <em>city name</em>. Now compare to the original and tell me that this isn’t more informative and interesting.
 
 ## Relative Change
 
@@ -38,7 +38,7 @@ An issue that is partly caused by the idea of visual math is the use of absolute
 
 The number for, say, natural growth thus means something quite different for each of them (since you’d expect all cities to grow naturally by the same percentage, but not the same absolute number of people).
 
-Looking at the number as a fraction instead makes the comparison more meaningful. I simply divided the growth numbers by the population, so the resulting numbers do not ave an interesting unit. In more statistically meaningful terms, it would make sense to be able to speak about growth per 100,000 people or similar.  Either way, it turns out that the natural growth is the highest in New York when looked at in absolute terms (not surprising), but in the lower half as a percentage of total population.
+Looking at the number as a fraction instead makes the comparison more meaningful. I simply divided the growth numbers by the population, so the resulting numbers do not ave an interesting unit. In more statistically meaningful terms, it would make sense to be able to speak about growth per 100,000 people or similar.  Either way, it turns out that the natural growth is the highest in New York when looked at in absolute terms (not surprising), but in the lower half as a percentage of total population.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/bars-relative.png" width="599" height="514" /></p>
 

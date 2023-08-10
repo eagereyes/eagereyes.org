@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/07/evapotrans
 
 Colors are perhaps the visual property that people most often misuse in visualization without being aware of it. Variations of the rainbow colormap are very popular, and at the same time the most problematic and misleading.
 
-The rainbow color map is based on the colors in the light spectrum, and is sometimes done correctly, sometimes the colors are in the wrong order. Quick, name the colors in the rainbow in order! See, that's part of the problem. Even if they were used consistently, nobody would know the right sequence anyway. Here is an image to jog your memory, <a href="https://en.wikipedia.org/wiki/Rainbow">courtesy of Wikipedia</a>.
+The rainbow color map is based on the colors in the light spectrum, and is sometimes done correctly, sometimes the colors are in the wrong order. Quick, name the colors in the rainbow in order! See, that's part of the problem. Even if they were used consistently, nobody would know the right sequence anyway. Here is an image to jog your memory, <a href="https://en.wikipedia.org/wiki/Rainbow">courtesy of Wikipedia</a>.
 
 <p align="center"><img class="aligncenter size-full wp-image-2439" alt="Rainbow" src="https://media.eagereyes.org/wp-content/uploads/2013/07/rainbow.png" width="372" height="53" /></p>
 
@@ -43,7 +43,7 @@ What is more, the hue changes. As I have explained before, <a href="/blog/2011/y
 <ul>
     <li><strong>White</strong> (0.0–0.09). That’s a really odd choice to start with, since the background of the map is also white, and non-colors like white, black, and gray should be used for special values like missing data, etc. But that’s a topic for another posting.</li>
     <li><strong>Pink</strong> (0.1–0.19 and 0.2–0.29). These two by themselves would be okay.</li>
-    <li><strong>Purple</strong> (0.3–0.39). Different color, also much darker.</li>
+    <li><strong>Purple</strong> (0.3–0.39). Different color, also much darker.</li>
     <li><strong>Blue</strong> (0.4–0.49 and 0.5–0.59). Different color again, and the ramp is going in the opposite direction from the pinks, with the brighter color now representing the higher value.</li>
     <li><strong>Green</strong> (0.6–0.69 and 0.7–0.79). Different color again, and the two are virtually the same.</li>
     <li><strong>Greenish yellow</strong> (0.8–0.89). Another switch in hue, and this time also a dramatic jump in luminance, for no discernible reason.</li>

@@ -119,7 +119,7 @@ The basis for a redesign is a <a href="http://en.wikipedia.org/wiki/Cross-tabula
 <td><em>
 </em></td>
 <td></td>
-<td> <strong>Total</strong></td>
+<td> <strong>Total</strong></td>
 <td style="text-align: right;"><strong>172</strong></td>
 <td style="text-align: right;"></td>
 <td style="text-align: right;"><strong>172</strong></td>

@@ -16,7 +16,7 @@ The original chart is the following, which <a href="http://blogs.reuters.com/dat
 
 It’s a reasonable graphic showing the number of CEOs over time, as well as compared to the labor force, boards of directors, and executive officers.
 
-The main issue is that the area chart on the left has an aspect ratio that is a bit optimistic. In a way, there has been an increase of over 800% since 2000 – but that is from a remarkably small base of less than 0.5%. Using the entire height of the chart is the sensible thing to do to show as much detail as possible. Technically, there is nothing wrong with that. It is showing the data correctly.
+The main issue is that the area chart on the left has an aspect ratio that is a bit optimistic. In a way, there has been an increase of over 800% since 2000 – but that is from a remarkably small base of less than 0.5%. Using the entire height of the chart is the sensible thing to do to show as much detail as possible. Technically, there is nothing wrong with that. It is showing the data correctly.
 
 ## Conveying A Message
 

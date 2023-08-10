@@ -31,7 +31,7 @@ This is not a blog. When people call this site my blog, I usually argue with the
 
 <em>The round pegs in the square holes.</em>
 
-This site is also about original thought and projects, rather than rehashing or pointing at what other people do. Because, let's face it, that is exactly what most blogs do, including a few visualization blogs. I have no interest in that. Of course, this means that I can't update this site every day. Projects like the <a href="/Applications/ZIPScribbleMap.html">ZIPScribble</a> <a href="/Applications/MoreZIPScribbleMaps.html">Map</a>, the <a href="/vis/iTMS.html">iTunes Store Visualization</a>, the <a href="/Techniques/SquarePieCharts.html">square pie chart</a> redesign, <a href="/applications/PresidentialDemographicsII.html">Presidential Demographics</a>, etc. take time. Plus, I also have a <a href="http://cs.uncc.edu/~rkosara/">day job</a>.
+This site is also about original thought and projects, rather than rehashing or pointing at what other people do. Because, let's face it, that is exactly what most blogs do, including a few visualization blogs. I have no interest in that. Of course, this means that I can't update this site every day. Projects like the <a href="/Applications/ZIPScribbleMap.html">ZIPScribble</a> <a href="/Applications/MoreZIPScribbleMaps.html">Map</a>, the <a href="/vis/iTMS.html">iTunes Store Visualization</a>, the <a href="/Techniques/SquarePieCharts.html">square pie chart</a> redesign, <a href="/applications/PresidentialDemographicsII.html">Presidential Demographics</a>, etc. take time. Plus, I also have a <a href="http://cs.uncc.edu/~rkosara/">day job</a>.
 
 <em>The ones who see things differently.</em>
 
@@ -55,7 +55,7 @@ This is a non-commercial website. I make it a point not to have advertising, not
 
 <em>About the only thing you can't do is ignore them.</em>
 
-What has the site achieved? It has certainly helped me get recognized. As egotistical as it may seem, it is a great feeling to email an influential, senior InfoVis person to ask for a <a href="/topics/ListsOfInfluences">list of influences</a> and then be told that he or she knows the site and is happy to oblige. I have also been greeted by strangers as "Mr. EagerEyes" at conferences and been told by others that the site has changed their view of visualization.
+What has the site achieved? It has certainly helped me get recognized. As egotistical as it may seem, it is a great feeling to email an influential, senior InfoVis person to ask for a <a href="/topics/ListsOfInfluences">list of influences</a> and then be told that he or she knows the site and is happy to oblige. I have also been greeted by strangers as "Mr. EagerEyes" at conferences and been told by others that the site has changed their view of visualization.
 
 <em>Because they change things.</em>
 

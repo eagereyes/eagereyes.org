@@ -1,6 +1,6 @@
 ---
 title: "Spreadsheet Thinking vs. Database Thinking"
-description: "The shape of a dataset is hugely important to how well it can be handled by different software. The shape defines how it is laid out: wide as in a spreadsheet, or long as in a database table. Each has its use, but it's important to understand their differences and when each is the right choice."
+description: "The shape of a dataset is hugely important to how well it can be handled by different software. The shape defines how it is laid out: wide as in a spreadsheet, or long as in a database table. Each has its use, but it's important to understand their differences and when each is the right choice."
 date: 2016-04-24 19:25:28
 tags: attention
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/image.jpeg
@@ -8,11 +8,11 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/image.jpeg
 
 # Spreadsheet Thinking vs. Database Thinking
 
-The shape of a dataset is hugely important to how well it can be handled by different software. The shape defines how it is laid out: wide as in a spreadsheet, or long as in a database table. Each has its use, but it's important to understand their differences and when each is the right choice.
+The shape of a dataset is hugely important to how well it can be handled by different software. The shape defines how it is laid out: wide as in a spreadsheet, or long as in a database table. Each has its use, but it's important to understand their differences and when each is the right choice.
 
 ## Wide and Two-Dimensional: The Spreadsheet
 
-Spreadsheets are laid out in two dimensions. That's probably their most fundamental and most important feature. They make sense to us because we can easily think in terms of a grid that organizes things in a logical manner.
+Spreadsheets are laid out in two dimensions. That's probably their most fundamental and most important feature. They make sense to us because we can easily think in terms of a grid that organizes things in a logical manner.
 
 <p align="center"><img class="aligncenter size-full wp-image-9223" src="https://media.eagereyes.org/wp-content/uploads/2016/04/image.jpeg" alt="Spreadsheet" width="655" height="230" /></p>
 
@@ -24,9 +24,9 @@ There are limitations, of course. If you want to break the data down in more tha
 
 For data analysis tools, spreadsheets also pose the challenge that their formats can vary widely and are often inconsistent in subtle but problematic ways. One issue is that there is usually stuff around the actual data to explain things, making it hard for a program to even just reliably figure out what the actual data is.
 
-Another problem is that column headings don't tell you what they mean. In the example above, <i>Year</i> means that each of the numbers in that column is a year. But <i>Jan</i>, <i>Feb</i>, etc. don't, they are actually part of the date, and thus part of the data. How is a program supposed to tell them apart?
+Another problem is that column headings don't tell you what they mean. In the example above, <i>Year</i> means that each of the numbers in that column is a year. But <i>Jan</i>, <i>Feb</i>, etc. don't, they are actually part of the date, and thus part of the data. How is a program supposed to tell them apart?
 
-There are many other conventions in spreadsheets that make sense to people – of course the column in this table is the same as in the one above, of course that single label applies to all rows, etc. –, but are impossible for a machine to figure out.
+There are many other conventions in spreadsheets that make sense to people – of course the column in this table is the same as in the one above, of course that single label applies to all rows, etc. –, but are impossible for a machine to figure out.
 
 ## Long and Skinny: The Database
 
@@ -42,11 +42,11 @@ The uniform structure of this format makes it easy to perform all sorts of opera
 
 This format is also much more flexible when it comes to adding more ways of breaking down the data, or adding more measurements. Do you want to have an unemployment rate per state? In the spreadsheet model, you have to make many tables, one for each state. Or you can make larger tables for each state by month, and different tables for each year. This might seem odd, but it would allow comparison between states over each year.
 
-In the long-and-skinny format, you just add a state column and let the machine worry about it. Draw a chart with a line per state over time? Calculate year-over-year change for each? Etc.
+In the long-and-skinny format, you just add a state column and let the machine worry about it. Draw a chart with a line per state over time? Calculate year-over-year change for each? Etc.
 
 Columns that break up the data like that are called <i>dimensions</i>. Database tables often contain dozens of them. The numbers associated with each combination of dimension values are called <i>measures</i>. And those are also easy to add. Want the labor force in addition to the unemployment rate? Just add a column. Same for population, cost of living, etc.
 
-Having all that data in the same place makes for many possible comparisons that are up to the person asking questions, and don't need to be prepared as tables beforehand. That's why it's much better for data to be machine-friendly than human-readable: a machine can turn the machine-friendly data into all sorts of human-readable formats, but the opposite is much more difficult and error-prone.
+Having all that data in the same place makes for many possible comparisons that are up to the person asking questions, and don't need to be prepared as tables beforehand. That's why it's much better for data to be machine-friendly than human-readable: a machine can turn the machine-friendly data into all sorts of human-readable formats, but the opposite is much more difficult and error-prone.
 
 ## Turn One Into The Other: (Un-)Pivot
 
@@ -54,7 +54,7 @@ The two shapes look different and they're useful in different contexts. But they
 
 The term for turning the long-skinny database format into the wide spreadsheet format is usually <i>to pivot</i> the data. This operation is pretty easy because the machine knows where to find the data, and just needs to be told which dimensions to use to make columns and which measures to include.
 
-The other operation, the <i>unpivot,</i> is much more difficult and error-prone. When the data is already in proper table format (with all the stuff around the pure data removed), it works well though. Tools like <a href="/blog/2015/trifacta-wrangler-for-cleaning-and-reshaping-data">Trifacta Wrangler</a> and Tableau can perform unpivots (though Tableau calls it pivot, just to be different).
+The other operation, the <i>unpivot,</i> is much more difficult and error-prone. When the data is already in proper table format (with all the stuff around the pure data removed), it works well though. Tools like <a href="/blog/2015/trifacta-wrangler-for-cleaning-and-reshaping-data">Trifacta Wrangler</a> and Tableau can perform unpivots (though Tableau calls it pivot, just to be different).
 
 ## No Right Shape
 

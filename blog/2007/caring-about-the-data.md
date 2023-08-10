@@ -1,6 +1,6 @@
 ---
 title: "Caring about the Data"
-description: "When demonstrating Parallel Sets to guests and visitors, I often use the Titanic data set, because people can relate to it and it is entirely categorical. I like pointing out interesting facts the visualization shows (like that the second class was smaller than the first class), but it's really just a collection of numbers to show what the visualization can do. Some of the people I have shown this to feel different about it, though."
+description: "When demonstrating Parallel Sets to guests and visitors, I often use the Titanic data set, because people can relate to it and it is entirely categorical. I like pointing out interesting facts the visualization shows (like that the second class was smaller than the first class), but it's really just a collection of numbers to show what the visualization can do. Some of the people I have shown this to feel different about it, though."
 date: 2007-09-04 22:07:15
 tags: 
 featuredImage: https://media.eagereyes.org/media/attachments/titanicvisualizations.png
@@ -11,7 +11,7 @@ outline: false
 
 # Caring about the Data
 
-When demonstrating <a href="/parallel-sets">Parallel Sets</a> to guests and visitors, I often use the Titanic data set, because people can relate to it and it is entirely categorical. I like pointing out interesting facts the visualization shows (like that the second class was smaller than the first class), but it's really just a collection of numbers to show what the visualization can do. Some of the people I have shown this to feel different about it, though.
+When demonstrating <a href="/parallel-sets">Parallel Sets</a> to guests and visitors, I often use the Titanic data set, because people can relate to it and it is entirely categorical. I like pointing out interesting facts the visualization shows (like that the second class was smaller than the first class), but it's really just a collection of numbers to show what the visualization can do. Some of the people I have shown this to feel different about it, though.
 
 Perhaps the first reaction that made me think of the Titanic as not just numbers was an artist who asked me how I could present such a horrible incident with such lovely colors. Of course I was aware that almost 1500 people died when the Titanic sank, and most of them in horrible ways. But it's also almost 100 years ago now and just so abstract and distant that it never occurred to me to be specifically sensitive about it.
 
@@ -67,7 +67,7 @@ Robert Kosara says…
 <a href="http://had.co.nz" rel="nofollow noopener" target="_blank">Hadley Wickham</a> says…
 >	What do you think are the questions that people ask about categorical data?  Many of the "statistically" interesting questions, e.g. are these two categorical variables independent, can not easily be answered with treemaps or parallel sets. (And you mean mosaic plots, not Mondrian, right?)  
 >	
->	(It's also Hofmann not Hoffman for the mosaic plots paper - and you should probably check out her more recent work, e.g. H. Hofmann. Constructing and reading mosaicplots. Computational Statistics and Data Analysis, 43(4):565–580, 2003)
+>	(It's also Hofmann not Hoffman for the mosaic plots paper - and you should probably check out her more recent work, e.g. H. Hofmann. Constructing and reading mosaicplots. Computational Statistics and Data Analysis, 43(4):565–580, 2003)
 >	
 >	
 

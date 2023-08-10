@@ -1,6 +1,6 @@
 ---
 title: "A EuroVis Survival Guide, Part 1"
-description: "EuroVis 2012 is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc."
+description: "EuroVis 2012 is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc."
 date: 2012-04-25 21:30:26
 tags: conference, eurovis
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-2012.png
@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-20
 
 # A EuroVis Survival Guide, Part 1
 
-<a href="http://eurovis.org/">EuroVis 2012</a> is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc.
+<a href="http://eurovis.org/">EuroVis 2012</a> is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc.
 
 <a href="http://eurovis.org/"><img class="aligncenter size-full wp-image-1861" title="EuroVis 2012" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-2012.png" width="600" height="165" /></a>
 

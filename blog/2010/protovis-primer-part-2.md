@@ -241,7 +241,7 @@ This assigns a light gray to a magnitude of 1, and turns the bar more and more r
 
 <p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq6.png" width="560" height="250" alt="bars" /></p>
 
-At this point, this is a redundant mapping, because the magnitude is already shown as the height of the bar. So let's look at another attribute, like <em>Depth</em> – perhaps there is some correlation between the depth at which a quake happens and its magnitude. To do this, we'll define a new scale, similar to the one above.
+At this point, this is a redundant mapping, because the magnitude is already shown as the height of the bar. So let's look at another attribute, like <em>Depth</em> – perhaps there is some correlation between the depth at which a quake happens and its magnitude. To do this, we'll define a new scale, similar to the one above.
 
 ```js
 var depthColors = pv.Scale.linear(0, 150)

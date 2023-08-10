@@ -14,7 +14,7 @@ Only a few more sleeps until <a href="http://eurovis.org/">EuroVis</a>! As we ap
 
 ## Practical Things
 
-The local currency is called the Euro (pronounced <em>oy-raw</em>). Don't be confused by the different colors of the banknotes, it is real money. In case you're from <a href="http://en.wikipedia.org/wiki/United_States">a place where all the money looks the same</a>, you will feel like you're color blind for a few days after your return. It's also important to realize that coins have actual value: the smallest banknote is €5 (around $6.25), anything below that are coins. So don't just leave those somewhere, they add up fast.
+The local currency is called the Euro (pronounced <em>oy-raw</em>). Don't be confused by the different colors of the banknotes, it is real money. In case you're from <a href="http://en.wikipedia.org/wiki/United_States">a place where all the money looks the same</a>, you will feel like you're color blind for a few days after your return. It's also important to realize that coins have actual value: the smallest banknote is €5 (around $6.25), anything below that are coins. So don't just leave those somewhere, they add up fast.
 
 The next most important thing is electricity. Like most of the rest of Europe, Austria runs on 220V. Check your power supplies to see if they can handle that, most modern ones should be able to. Some appliances like hair dryers may have a switch that you can flip. If they don't, leave them at home. Plugging in a 110V hair dryer into a 220V outlet will be spectacular, but not very pleasant for people close to the action.
 
@@ -32,7 +32,7 @@ Also, one trap with regards to tipping is that your waiter expects you to tell h
 
 Credit cards are generally accepted in restaurants but not in stores, especially grocery stores. Your American debit card will also likely not work, because the magnetic strip is facing the wrong way. So it's best to always have some cash on hand. And speaking of credit cards: tell your bank that you're traveling to avoid getting your debit card refused at an ATM. I learned that the hard way once in Frankfurt where I had to wait for the U.S. East Coast to wake up so the people with the right clearance at my bank would show up and allow my card to be used there. Credit cards generally work without that, though you likely don't know your PIN to get cash (plus, it's expensive).
 
-If you're looking for a convenience store, do not ask for a pharmacy. Austrian pharmacies only sell medications, no beauty products, toys, food, or outdoor furniture. You will need to find a pharmacy for any kind of medicine, though, including basic painkillers like Aspirin: those are only sold by pharmacies. Like other stores, pharmacies generally close at 7:30 during the week (and are not open on Sunday), but there is always one designated to be open around the clock; a sign on any pharmacy's door will point you to it.
+If you're looking for a convenience store, do not ask for a pharmacy. Austrian pharmacies only sell medications, no beauty products, toys, food, or outdoor furniture. You will need to find a pharmacy for any kind of medicine, though, including basic painkillers like Aspirin: those are only sold by pharmacies. Like other stores, pharmacies generally close at 7:30 during the week (and are not open on Sunday), but there is always one designated to be open around the clock; a sign on any pharmacy's door will point you to it.
 
 ## Culture
 

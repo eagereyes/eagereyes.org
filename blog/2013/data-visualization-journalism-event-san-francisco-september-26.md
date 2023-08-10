@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization and Journalism Event in San Francisco on September 26"
+title: "Data Visualization and Journalism Event in San Francisco on September 26"
 description: "Visual.ly is hosting an event on data visualization and journalism on September 26 in San Francisco, under the rather clever heading of DV'n'J (think PB&amp;J). I'm one of the speakers."
 date: 2013-09-15 20:31:43
 tags: 
@@ -7,7 +7,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg
 outline: false
 ---
 
-# Data Visualization and Journalism Event in San Francisco on September 26
+# Data Visualization and Journalism Event in San Francisco on September 26
 
 Visual.ly is hosting <a href="http://blog.visual.ly/data-visualization-and-journalism/">an event on data visualization and journalism</a> on September 26 in San Francisco, under the rather clever heading of DV'n'J (think <a href="http://en.wikipedia.org/wiki/Peanut_butter_and_jelly_sandwich">PB&amp;J</a>). I'm one of the speakers.
 

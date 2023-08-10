@@ -21,11 +21,11 @@ The <em>decoding</em> side jumps across the screen boundary to where the visuali
 
 This paper builds directly on Aritra's earlier work on <a href="/publications/Dasgupta-InfoVis-2011" target="_blank">privacy-preserving visualization</a> and <a href="/publications/Dasgupta_InfoVis_2010.html" target="_blank">screen-space metrics for parallel coordinates</a>. That is why we incorporated not only the (line-based) classical parallel coordinates, but also our extension that uses regions to selectively hide information as needed to guarantee privacy. Uncertainty is therefore not necessarily negative, but it needs to be managed to achieve the desired effect.
 
-The paper will be presented in <a href="http://www.cg.tuwien.ac.at/eurovis2012/program/program/#fp78">session FP7</a>, which is the second afternoon session on Wednesday. I will also talk about managing uncertainty at the <em><a href="http://www.eurorvvv.org/">EuroVis Workshop on Reproducibility, Verification, and Validation in Visualization (EuroRVVV)</a></em> on Tuesday morning.
+The paper will be presented in <a href="http://www.cg.tuwien.ac.at/eurovis2012/program/program/#fp78">session FP7</a>, which is the second afternoon session on Wednesday. I will also talk about managing uncertainty at the <em><a href="http://www.eurorvvv.org/">EuroVis Workshop on Reproducibility, Verification, and Validation in Visualization (EuroRVVV)</a></em> on Tuesday morning.
 
 <hr />
 
-Aritra Dasgupta, Min Chen, Robert Kosara, <a href="/publications/Dasgupta-EuroVis-2012">Conceptualizing Visual Uncertainty in Parallel Coordinates</a>, <em>Computer Graphics Forum (Proceedings EuroVis)</em>, 2012.
+Aritra Dasgupta, Min Chen, Robert Kosara, <a href="/publications/Dasgupta-EuroVis-2012">Conceptualizing Visual Uncertainty in Parallel Coordinates</a>, <em>Computer Graphics Forum (Proceedings EuroVis)</em>, 2012.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 30, 2012_

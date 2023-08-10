@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/09/wired-hard
 
 # Beyond the Knee-Jerk Reaction
 
-There is a tendency to just reflexively make fun of certain types of charts, in particular pie charts and 3D charts. While that is often justified, there are also exceptions. Not all pie charts are bad, and not all 3D charts are terrible. But to spot those outliers, we have to suppress the knee-jerk reflex and give them a moment of thought before ripping them apart.
+There is a tendency to just reflexively make fun of certain types of charts, in particular pie charts and 3D charts. While that is often justified, there are also exceptions. Not all pie charts are bad, and not all 3D charts are terrible. But to spot those outliers, we have to suppress the knee-jerk reflex and give them a moment of thought before ripping them apart.
 
 ## The Chart
 
@@ -28,7 +28,7 @@ Not all of that comes from the chart, it certainly requires some reading of the 
 
 ## The Bad
 
-What is wrong with this chart? Sure, it’s 3D. You can’t precisely read the numbers. What was the average salary for manufacturing jobs in 1992? You can’t read that with any sort of precision. 3D is wasteful, you could show more data in that space. But who cares? That is not the point of this chart. You can see the development over time, that’s what matters. And the chart does not seem to wildly distort the reading of those values that are readable (which is a common issue with 3D charts).
+What is wrong with this chart? Sure, it’s 3D. You can’t precisely read the numbers. What was the average salary for manufacturing jobs in 1992? You can’t read that with any sort of precision. 3D is wasteful, you could show more data in that space. But who cares? That is not the point of this chart. You can see the development over time, that’s what matters. And the chart does not seem to wildly distort the reading of those values that are readable (which is a common issue with 3D charts).
 
 I also think that this is a good way to present what are basically eight time series (salaries and workforce percentages for four sectors) in a very concise way that works well in a static image. Of course this could be broken up into two or even three charts, but you would lose some of the cohesion the 3D gives you here. And it would be a lot less fun to explore. The lines for workforce percentage would also look extremely boring (they seem to be changing at a fairly constant pace, and certainly don’t change direction). If you care not just about representing the data but also capturing readers' interest, this is the better chart. It certainly worked in my case.
 
@@ -40,7 +40,7 @@ Perhaps Christopher Ingraham was right.
 
 https://twitter.com/_cingraham/status/508336378279886848
 
-But I hope that we can get to a point where we can have a more intelligent, nuanced, and respectful discussion. We’re not going to make much progress if we just keep rehashing the same old ideas without putting any new thoughts into them.
+But I hope that we can get to a point where we can have a more intelligent, nuanced, and respectful discussion. We’re not going to make much progress if we just keep rehashing the same old ideas without putting any new thoughts into them.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 15, 2014_

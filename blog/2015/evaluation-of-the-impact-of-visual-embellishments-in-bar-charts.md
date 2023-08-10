@@ -25,7 +25,7 @@ What we found is not terribly surprising, but it is now backed by actual researc
 
 For reading absolute values, we found that most embellishments had no effect, with the exception of quadratic triangles. The capped chart in this condition yielded the same average values and a smaller standard deviation than the baseline bar chart. We think that the cap with its flat top actually helped people draw a mental line to the axis to judge the values.
 
-<a href="/publications/Skau-EuroVis-2015">The paper</a> has more details and some recommendations for designers working on infographics. It also nicely complements both <a href="/papers/isotype-visualization">our recent CHI paper on ISOTYPE</a> and <a href="http://fellinlovewithdata.com/research/deceptive-visualizations">the work on deceptive visualization by Anshul Pandey, Enrico Bertini, and others</a>.
+<a href="/publications/Skau-EuroVis-2015">The paper</a> has more details and some recommendations for designers working on infographics. It also nicely complements both <a href="/papers/isotype-visualization">our recent CHI paper on ISOTYPE</a> and <a href="http://fellinlovewithdata.com/research/deceptive-visualizations">the work on deceptive visualization by Anshul Pandey, Enrico Bertini, and others</a>.
 
 <hr />
 

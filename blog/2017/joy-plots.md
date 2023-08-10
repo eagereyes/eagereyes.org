@@ -38,7 +38,7 @@ The redesign gets to the point much more clearly and is easier to read. This may
 
 What this chart and the Joy Plot have in common is that they’re the more uncommon charts. They’re not crazy out there, just not the first thing you’d do. But they both succeed in showing data in an interesting way, if perhaps at the expense of a small amount of precision. But what they do is present the data in a way that’s easy to grasp, which strikes me as much more important. If you’re really after precision in these charts, you’d want to have some sort of mouse-over to show you exact numbers anyway.
 
-What they both have in common is also that they show the value and fun in exploring slightly unusual chart types for relatively mundane data. It can be a joy to plot data. Joy plotting data. Joy plots. I’ll just keep saying that because it’s fun to say. Joy plots.
+What they both have in common is also that they show the value and fun in exploring slightly unusual chart types for relatively mundane data. It can be a joy to plot data. Joy plotting data. Joy plots. I’ll just keep saying that because it’s fun to say. Joy plots.
 
 (Also it’s vacation time and nobody’s reading anything I write here anyway)
 

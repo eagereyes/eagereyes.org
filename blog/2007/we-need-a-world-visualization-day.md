@@ -25,7 +25,7 @@ What is a World Visualization Day, anyway?
 
 ## Steps Towards World Visualization Day
 
-I am organizing a Birds-of-a-Feather (BOF) meeting at the Vis/InfoVis conference this year to discuss the needed steps and get people involved. I am currently trying to recruit speakers for that, and will post more on the topic soon. I also intend to use this website to discuss ideas until we have a separate website up and running.
+I am organizing a Birds-of-a-Feather (BOF) meeting at the Vis/InfoVis conference this year to discuss the needed steps and get people involved. I am currently trying to recruit speakers for that, and will post more on the topic soon. I also intend to use this website to discuss ideas until we have a separate website up and running.
 
 But there are a few things that are self-evident, and I want to at least get started on those at the BOF:
 <ul>

@@ -15,7 +15,7 @@ I'm delighted to be one of the co-chairs of the workshop on reproducibility, ver
 
 We talk a lot about uncertainty, but we're still lacking the tools to deal with many kinds of uncertainty. We're also lacking a good picture of what kinds of uncertainty we need to deal with, and what good strategies even look like (will all that information about the uncertainty in the data confuse and overload users?).
 
-EuroRVVV spans the worlds of information and scientific visualization, as well as visual analytics. We believe and hope that the different subfields can learn from each other's approaches, including work outside of visualization in statistics and other areas.
+EuroRVVV spans the worlds of information and scientific visualization, as well as visual analytics. We believe and hope that the different subfields can learn from each other's approaches, including work outside of visualization in statistics and other areas.
 
 We accept regular (4-page) research papers about new ideas and approaches, as well as position papers. The hope is to spur new ideas and discussion, not just present work that has been done. For a little context, I covered EuroRVVV a bit in <a href="/blog/2017/eurovis-2017-conference-report-part-1">last year's EuroVis report</a>.
 

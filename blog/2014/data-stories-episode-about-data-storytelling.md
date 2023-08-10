@@ -21,7 +21,7 @@ Then he wrote <a href="http://well-formed-data.net/archives/1027/worlds-not-stor
 
 The resulting discussion touched on a number of topics, and we covered a lot of ground. There is certainly more to be said, but this is a great starting point. We certainly had lots of fun recording it, and I think it will be interesting to listen to.
 
-Some may be wondering why I'm on the podcast again, since I've been a guest a <a title="Listen To Me Dispense My Wisdom on the Data Stories Podcast!" href="/blog/2012/listen-dispense-wisdom-data-stories-podcast">few</a> <a title="Report from IEEE VIS 2013 in Atlanta, GA" href="/blog/2013/report-from-ieee-vis-2013-in-atlanta-ga">times</a> <a title="Data Stories Podcast: 2013 in Review, Outlook to 2014" href="/blog/2014/data-stories-podcast-2013-in-review-outlook-to-2014">before</a>. I won't name names here, though.
+Some may be wondering why I'm on the podcast again, since I've been a guest a <a title="Listen To Me Dispense My Wisdom on the Data Stories Podcast!" href="/blog/2012/listen-dispense-wisdom-data-stories-podcast">few</a> <a title="Report from IEEE VIS 2013 in Atlanta, GA" href="/blog/2013/report-from-ieee-vis-2013-in-atlanta-ga">times</a> <a title="Data Stories Podcast: 2013 in Review, Outlook to 2014" href="/blog/2014/data-stories-podcast-2013-in-review-outlook-to-2014">before</a>. I won't name names here, though.
 
 https://twitter.com/dr_tj/status/453222401288208385
 

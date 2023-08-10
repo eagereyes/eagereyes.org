@@ -12,11 +12,11 @@ While there has been <a href="http://fellinlovewithdata.com/reflections/vis-mara
 
 ## California Healthcare Foundation Challenge
 
-The California Healthcare Foundation (CHCF) has published a dataset on healthcare costs, broken down by payer and type of cost, over fifty years. Their data package contains not just a well-organized spreadsheet, but also some interesting additional data and some pointers to other relevant data sources, like the consumer price index. The judging rules are also focused on education and information, rather than just flashes and explosions; there is some overlap between the <em>education</em> and <em>presentation</em> criteria, though.
+The California Healthcare Foundation (CHCF) has published a dataset on healthcare costs, broken down by payer and type of cost, over fifty years. Their data package contains not just a well-organized spreadsheet, but also some interesting additional data and some pointers to other relevant data sources, like the consumer price index. The judging rules are also focused on education and information, rather than just flashes and explosions; there is some overlap between the <em>education</em> and <em>presentation</em> criteria, though.
 
 In addition to interesting and challenging data, the rules are also very straight-forward, and you don't give up all your rights plus your first-born in case you win. The CHCF in fact only gets a right to use your entry non-exclusively and will negotiate further terms later. The first prize is worth $5000, second $3000, third $1000, and one of two honorable mentions still gets you $500.
 
-More information is available on <a href="http://www.chcf.org/rfps/2012/picture-health">the challenge website</a> and on <a href="http://twitter.com/CHCFNews">their twitter feed</a>. The latter is useful for asking questions, like whether the challenge is open to permanent residents and not restricted to U.S. citizens, as stated in the materials (<a href="https://twitter.com/#!/CHCFNews/statuses/187304100323540993">it is</a>).
+More information is available on <a href="http://www.chcf.org/rfps/2012/picture-health">the challenge website</a> and on <a href="http://twitter.com/CHCFNews">their twitter feed</a>. The latter is useful for asking questions, like whether the challenge is open to permanent residents and not restricted to U.S. citizens, as stated in the materials (<a href="https://twitter.com/#!/CHCFNews/statuses/187304100323540993">it is</a>).
 
 ## Tableau Student Data Challenge
 

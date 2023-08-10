@@ -1,6 +1,6 @@
 ---
 title: "Conference Report: Tapestry 2013"
-description: "About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the Tapestry conference for storytelling with data took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014."
+description: "About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the Tapestry conference for storytelling with data took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014."
 date: 2013-07-14 20:05:53
 tags: 
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-scott-mccloud.jpg
@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-s
 
 # Conference Report: Tapestry 2013
 
-About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the <a href="http://tapestryconference.com">Tapestry conference for storytelling with data</a> took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014.
+About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the <a href="http://tapestryconference.com">Tapestry conference for storytelling with data</a> took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014.
 
 ## Setting and Format
 
@@ -18,7 +18,7 @@ Conference hotels tend to all look the same: nondescript, badly lit, depressing 
 
 Not the <a href="http://www.unionstationhotelnashville.com">Union Station Hotel Nashville</a>, though. It’s a former train station has been turned into a hotel, and it’s simply beautiful. It has been renovated very well, with lots of nice little touches, like a time table from the 1930s, etc.
 
-The event was organized by Tableau Software and <a href="http://ire.org">Investigative Reports &amp; Editors (IRE)</a>, emceed by Ellie <em>Ms. Tableau Public</em> Fields, and lasted one day. We picked the place and time to be close to the NICAR conference in Louisville, KY, but in a somewhat more intimate and interesting setting.
+The event was organized by Tableau Software and <a href="http://ire.org">Investigative Reports &amp; Editors (IRE)</a>, emceed by Ellie <em>Ms. Tableau Public</em> Fields, and lasted one day. We picked the place and time to be close to the NICAR conference in Louisville, KY, but in a somewhat more intimate and interesting setting.
 
 In order to foster discussions, not just talks, we had generous breaks, a long lunch, a demo session, and a reception the night before the conference. The talks consisted of three hour-long sessions for the keynotes and five <em>short stories.</em>
 
@@ -36,9 +36,9 @@ You can <a href="http://youtu.be/VrQ8rQoOuhA">watch Jonathan Corum’s talk here
 
 ## Short Stories
 
-The five <em>short stories</em> (admittedly a bit of mixed metaphor) were 20 minutes each and meant to bring in a larger variety of speakers than we could have had with only hour-long talks.
+The five <em>short stories</em> (admittedly a bit of mixed metaphor) were 20 minutes each and meant to bring in a larger variety of speakers than we could have had with only hour-long talks.
 
-### Pat Hanrahan, <em>Showing Is Not Explaining </em>
+### Pat Hanrahan, <em>Showing Is Not Explaining </em>
 
 Continuing one of the topics of Jonathan Corum’s talk, <a href="/influences/pat-hanrahan">Pat Hanrahan</a> talked about how showing something is not the same as explaining it. Pat is a professor of Computer Science at Stanford University, and one of Tableau’s founders. He showed <a href="https://en.wikipedia.org/wiki/Euclidean_algorithm">Euclid’s algorithm</a> for finding the greatest common divisor of two numbers, both as a Python program and a visualization of it running. It was an impressive visual proof, but perhaps a bit much for people not used to thinking in terms of proofs or code that way.
 
@@ -82,7 +82,7 @@ Country singer <a href="http://www.stephaniequayle.com">Stephanie Quayle</a> ent
 
 <p align="center"><img class="aligncenter size-full wp-image-2449" alt="Tapestry Robert Kosara" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-robert-kosara.jpg" width="600" height="401" /></p>
 
-After lunch, it was my turn. I spoke about the differences between visualization and visual stories, in particular when it comes to narrative. But just because we're telling a story doesn't mean we can ignore what we have learned in visualization research, so I spoke about information scent and the use of interaction. I think the talk worked well to build a bridge between the other two keynotes and to provide a connection with the academic research done in information visualization. I got a good number of comments and people who disagreed with me, which is always a good sign.
+After lunch, it was my turn. I spoke about the differences between visualization and visual stories, in particular when it comes to narrative. But just because we're telling a story doesn't mean we can ignore what we have learned in visualization research, so I spoke about information scent and the use of interaction. I think the talk worked well to build a bridge between the other two keynotes and to provide a connection with the academic research done in information visualization. I got a good number of comments and people who disagreed with me, which is always a good sign.
 
 The <a href="http://youtu.be/qSYEjhR2AwQ">video of my talk is here</a>, and <a href="http://blog.tapestryconference.com/post/48161138863/kosara-keynote">the slides are available too</a>. I don’t know why I felt the need to bash academics at the very beginning, but the rest of the talk went as planned.
 
@@ -90,7 +90,7 @@ The <a href="http://youtu.be/qSYEjhR2AwQ">video of my talk is here</a>, and <a h
 
 <p align="center"><img class="aligncenter size-full wp-image-2451" alt="Tapestry Scott McCloud" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-scott-mccloud.jpg" width="600" height="401" /></p>
 
-<a href="http://scottmccloud.com">Scott McCloud</a> is the author of <em>Understanding Comics</em> and <em>Making Comics</em>, two great books on comics that contain a lot of useful information for any kind of visual storytelling. As odd of a choice as he might seem for a conference on storytelling with data, he provided the perfect closing to the day. Not only is he an incredibly energetic and interesting speaker, but he has thought about how we read images and sequences of images in a much deeper way than most other people.
+<a href="http://scottmccloud.com">Scott McCloud</a> is the author of <em>Understanding Comics</em> and <em>Making Comics</em>, two great books on comics that contain a lot of useful information for any kind of visual storytelling. As odd of a choice as he might seem for a conference on storytelling with data, he provided the perfect closing to the day. Not only is he an incredibly energetic and interesting speaker, but he has thought about how we read images and sequences of images in a much deeper way than most other people.
 
 There were lots of fascinating insights in his talk, like his thoughts on how timelines work and when they don't work, how children start out as visual thinkers and are then made to read and write, how we perceive things and what that means for the "cognitive load time" of information from an image, etc.
 

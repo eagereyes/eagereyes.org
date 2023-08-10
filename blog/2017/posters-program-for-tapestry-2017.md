@@ -26,7 +26,7 @@ If you’re a grad student, send us your poster! If you’re a faculty member, e
 
 ## Deadline
 
-The deadline is January 31, with notification on February 8. Poster proposals will be reviewed and you will receive a short review with your decision. We’re also going to list them on the Tapestry website, but there will be no poster proceedings. We will need your poster at the conference, though!
+The deadline is January 31, with notification on February 8. Poster proposals will be reviewed and you will receive a short review with your decision. We’re also going to list them on the Tapestry website, but there will be no poster proceedings. We will need your poster at the conference, though!
 
 ## How to Submit
 

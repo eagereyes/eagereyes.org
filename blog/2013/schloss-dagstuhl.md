@@ -1,6 +1,6 @@
 ---
 title: "Schloß Dagstuhl"
-description: "For many computer science researchers, the name Dagstuhl rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?"
+description: "For many computer science researchers, the name Dagstuhl rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?"
 date: 2013-05-26 20:19:51
 tags: 
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-teaser.jpg
@@ -9,7 +9,7 @@ outline: false
 
 # Schloß Dagstuhl
 
-For many computer science researchers, the name <em>Dagstuhl</em> rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?
+For many computer science researchers, the name <em>Dagstuhl</em> rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?
 
 <a href="http://www.dagstuhl.de">Schloß Dagstuhl</a> is a castle in Germany’s Saarland region, close to the border with France. It’s easy to reach from nearly anywhere, and yet remote enough to keep people there for an entire week. That is important to foster interaction and discussions outside the formal sessions.
 

@@ -50,7 +50,7 @@ What we’re missing, however, is an organization that goes beyond publishing pa
 
 It’s late 2017, and we’re still lacking a real online presence. Even looking at visualization blogs, the situation is dire. Anything beyond that is nonexistent. Where would somebody go who's looking to teach visualization to middle or high schoolers? Where would you find the materials beyond books (that are way above the level needed for this)? Lesson plans, activities, worked examples, and not just a collection that’s built and never updated, but that’s kept alive and added to on a regular basis.
 
-ASA has been around for a while longer (founded in 1839) than the visualization community, and they’re much larger (<a href="https://en.wikipedia.org/wiki/American_Statistical_Association">18,000 members according to Wikipedia</a> – but that number appears to be from 2009). But it’s not just a matter of size. It’s a matter of organizing around a common goal and making things happen. There is a shocking lack of social and organizational skills in our community, and we’re the poorer for it.
+ASA has been around for a while longer (founded in 1839) than the visualization community, and they’re much larger (<a href="https://en.wikipedia.org/wiki/American_Statistical_Association">18,000 members according to Wikipedia</a> – but that number appears to be from 2009). But it’s not just a matter of size. It’s a matter of organizing around a common goal and making things happen. There is a shocking lack of social and organizational skills in our community, and we’re the poorer for it.
 
 Visualization as an academic community has made some big strides over the last decade, but as a social community with any sort of societal impact, it is nowhere to be seen.
 

@@ -16,7 +16,7 @@ The <a href="http://ieeevis.org/">IEEE VIS 2017 conference</a> took place last w
 
 Awards can be a bit tedious, but they’re also important. VIS has moved all the boring service awards out of the opening session, which is a good thing (yes, they're well earned, but they're also boring). They still hand out technical awards in the opening though, which this year went to <a href="https://www.cs.utah.edu/~hansen/">Chuck Hansen</a> (Career Award) and <a href="https://homes.cs.washington.edu/~jheer/">Jeff Heer</a> (Technical Achievement Award).
 
-There were also the <em>Test of Time Awards</em> for papers that were published a while ago but are still influential today (they had those <a href="http://ieeevis.org/year/2016/info/awards/test-of-time-awards">last year as well</a>, but they were much less prominent). I think that’s a great idea, and these awards will hopefully help people see beyond their often limited time horizon a bit.
+There were also the <em>Test of Time Awards</em> for papers that were published a while ago but are still influential today (they had those <a href="http://ieeevis.org/year/2016/info/awards/test-of-time-awards">last year as well</a>, but they were much less prominent). I think that’s a great idea, and these awards will hopefully help people see beyond their often limited time horizon a bit.
 
 I’m listing the papers here without any explanation, but I will write about them in future postings.
 

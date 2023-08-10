@@ -12,7 +12,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/ChernoffFaces1.png
 
 Chernoff Faces are discussed in every information visualization course, and are referenced in many papers that talk about glyphs. Yet the only serious use of faces in visualization is for calibration, not for data display. Faces are so special that we better know their perceptual properties really well before we can use them, which we don't.
 
-Chernoff's <a href="#chernoff">paper from 1973 [1]</a> proposed simplified face shapes to represent a number of variables in a data set, by mapping numbers to the size and curvature of the face, position of the eyes, length of the nose, position of the mouth, etc. Chernoff claims that up to 18 data dimensions can be displayed with the method, allowing the user to visually cluster the data. These faces are a type of <em>glyph</em>, a graphical object whose properties represent data values.
+Chernoff's <a href="#chernoff">paper from 1973 [1]</a> proposed simplified face shapes to represent a number of variables in a data set, by mapping numbers to the size and curvature of the face, position of the eyes, length of the nose, position of the mouth, etc. Chernoff claims that up to 18 data dimensions can be displayed with the method, allowing the user to visually cluster the data. These faces are a type of <em>glyph</em>, a graphical object whose properties represent data values.
 
 ## Face Perception
 
@@ -51,7 +51,7 @@ Finally, there are faces in our every-day non-visual communication: smilies. Two
 
 ## Faces in Visualization
 
-<a href="#rogowitz">The Which Blair Project [2]</a>  uses faces to calibrate displays without the need for special hardware. It works on the simple principle that we see a face when the luminance values that are mapped to the gray levels of a photograph are monotonically increasing in brightness. This way, a large number (maybe 100) possible color maps can be presented to the user, who then simply clicks on the images where s/he sees a face. This is completely effortless thanks to our natural ability to see faces.
+<a href="#rogowitz">The Which Blair Project [2]</a>  uses faces to calibrate displays without the need for special hardware. It works on the simple principle that we see a face when the luminance values that are mapped to the gray levels of a photograph are monotonically increasing in brightness. This way, a large number (maybe 100) possible color maps can be presented to the user, who then simply clicks on the images where s/he sees a face. This is completely effortless thanks to our natural ability to see faces.
 
 <p align="center"><img title="The Which Blair Project, Rogowitz and Kalvin, 2001" src="https://media.eagereyes.org/media/attachments/whichblair.jpg" alt="The Which Blair Project, Rogowitz and Kalvin, 2001" width="561" height="262" border="0" /></p>
 
@@ -63,7 +63,7 @@ An extension of this idea is <a href="#kindlmann">Face-based Luminance Matching 
 
 Apart from the reasons stated above that show how peculiar faces are, there is also another reason that make Chernoff Faces a strange choice: faces for <em>everything</em>? Why should faces work for any type of data?
 
-General glyphs can be tailored for any data, and can also be based on metaphors. Take the following glyph for visualizing patient data in an intensive care unit (ICU) as an example. The <a href="#horn">VIE-VISU [4]</a> system is loosely based on the human shape, without invoking it too strongly and thus creating a <a href="http://en.wikipedia.org/wiki/Gestalt_psychology">gestalt</a>. Could they have used a face? Definitely. But which values do you represent with the eyes? Which make the face smile or look sad?
+General glyphs can be tailored for any data, and can also be based on metaphors. Take the following glyph for visualizing patient data in an intensive care unit (ICU) as an example. The <a href="#horn">VIE-VISU [4]</a> system is loosely based on the human shape, without invoking it too strongly and thus creating a <a href="http://en.wikipedia.org/wiki/Gestalt_psychology">gestalt</a>. Could they have used a face? Definitely. But which values do you represent with the eyes? Which make the face smile or look sad?
 
 <p align="center"><img title="VIE-VISU, Horn et al, 2001" src="https://media.eagereyes.org/media/attachments/VIEVISU-small.png" alt="VIE-VISU, Horn et al, 2001" width="386" height="187" border="0" /></p>
 
@@ -71,9 +71,9 @@ General glyphs can be tailored for any data, and can also be based on metaphors.
 
 In addition to the circumstantial evidence above, there is a small amount of relevant work in visualization that has actual scientific weight.
 
-<a href="#ware">Colin Ware [5]</a> recognizes the object-like appearance of Chernoff Faces, which is useful for perception. However, he goes on to caution readers that there are likely strong interactions between the different features, and that "the perceptual space of Chernoff Faces is likely to be extremely nonlinear" (pp. 264-266).
+<a href="#ware">Colin Ware [5]</a> recognizes the object-like appearance of Chernoff Faces, which is useful for perception. However, he goes on to caution readers that there are likely strong interactions between the different features, and that "the perceptual space of Chernoff Faces is likely to be extremely nonlinear" (pp. 264-266).
 
-<a href="#morris">Morris et al. [6]</a> examined the <a href="http://www.csc.ncsu.edu/faculty/healey/PP/">preattentive</a> nature of Chernoff Faces, and found no evidence for it. Rather, comparing facial features is a serial search task, and is not helped at all by our (possibly preattentive) ability to quickly recognize familiar faces. They also found that a hierarchy of features exists, with eye size and eyebrow slant being the easiest to perceive and to compare.
+<a href="#morris">Morris et al. [6]</a> examined the <a href="http://www.csc.ncsu.edu/faculty/healey/PP/">preattentive</a> nature of Chernoff Faces, and found no evidence for it. Rather, comparing facial features is a serial search task, and is not helped at all by our (possibly preattentive) ability to quickly recognize familiar faces. They also found that a hierarchy of features exists, with eye size and eyebrow slant being the easiest to perceive and to compare.
 
 ## Conclusions
 
@@ -81,17 +81,17 @@ Faces are clearly special and their perception is poorly understood. While we ca
 
 <hr />
 
-<a name="chernoff"></a>[1] Herman Chernoff, <a href="http://links.jstor.org/sici?sici=0162-1459%28197306%2968%3A342%3C361%3ATUOFTR%3E2.0.CO%3B2-2">The Use of Faces to Represent Points in K-Dimensional Space Graphically</a>, <em>Journal of the American Statistical Association</em>, vol. 68, no. 342, pp. 361–368, 1973.
+<a name="chernoff"></a>[1] Herman Chernoff, <a href="http://links.jstor.org/sici?sici=0162-1459%28197306%2968%3A342%3C361%3ATUOFTR%3E2.0.CO%3B2-2">The Use of Faces to Represent Points in K-Dimensional Space Graphically</a>, <em>Journal of the American Statistical Association</em>, vol. 68, no. 342, pp. 361–368, 1973.
 
-<a name="rogowitz"></a>[2] Bernice E. Rogowitz, Alan D. Kalvin, <em><a href="http://researchweb.watson.ibm.com/visualanalysis/papers/WhichBlair-Viz01Rogowitz_Kalvin._final.pdf">The "Which Blair Project": A Quick Visual Method for Evaluating Perceptual Color Maps</a></em>, Proceedings Visualization, pp. 183–190, IEEE CS Press, 2001.
+<a name="rogowitz"></a>[2] Bernice E. Rogowitz, Alan D. Kalvin, <em><a href="http://researchweb.watson.ibm.com/visualanalysis/papers/WhichBlair-Viz01Rogowitz_Kalvin._final.pdf">The "Which Blair Project": A Quick Visual Method for Evaluating Perceptual Color Maps</a></em>, Proceedings Visualization, pp. 183–190, IEEE CS Press, 2001.
 
-<a name="kindlmann"></a>[3] Gordon Kindlmann, Erik Reinhard, Sarah Creem, <em><a href="http://www.cs.utah.edu/~gk/papers/vis02/FaceLumin.pdf">Face-based Luminance Matching for Perceptual Colormap Generation</a></em>, Proceedings Visualization, pp. 299–306, IEEE CS Press, 2002.
+<a name="kindlmann"></a>[3] Gordon Kindlmann, Erik Reinhard, Sarah Creem, <em><a href="http://www.cs.utah.edu/~gk/papers/vis02/FaceLumin.pdf">Face-based Luminance Matching for Perceptual Colormap Generation</a></em>, Proceedings Visualization, pp. 299–306, IEEE CS Press, 2002.
 
-<a name="horn"></a>[4] Werner Horn, Christian Popow, Lukas Unterasinger, Support for Fast Comprehension of ICU Data: Visualization Using Metaphor Graphics, <em>Methods of Information in Medicine</em>, vol. 40, pp. 421–424, 2001.
+<a name="horn"></a>[4] Werner Horn, Christian Popow, Lukas Unterasinger, Support for Fast Comprehension of ICU Data: Visualization Using Metaphor Graphics, <em>Methods of Information in Medicine</em>, vol. 40, pp. 421–424, 2001.
 
-<a name="ware"></a>[5] Colin Ware, Information Visualization: Perception for Design, Morgan Kaufmann Publishers, 2004.
+<a name="ware"></a>[5] Colin Ware, Information Visualization: Perception for Design, Morgan Kaufmann Publishers, 2004.
 
-<a name="morris"></a>[6] Christopher J. Morris, David S. Ebert, Penny Rheingans, <em><a href="http://www.research.ibm.com/people/c/cjmorris/publications/Chernoff_990402.pdf">An Experimental Analysis of the Pre-Attentiveness of Features in Chernoff Faces</a></em>, Proceedings Applied Imagery Pattern Recognition, pp. 12–17, 1999.
+<a name="morris"></a>[6] Christopher J. Morris, David S. Ebert, Penny Rheingans, <em><a href="http://www.research.ibm.com/people/c/cjmorris/publications/Chernoff_990402.pdf">An Experimental Analysis of the Pre-Attentiveness of Features in Chernoff Faces</a></em>, Proceedings Applied Imagery Pattern Recognition, pp. 12–17, 1999.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on February 25, 2007. Filed under [criticism](/section/criticism)._

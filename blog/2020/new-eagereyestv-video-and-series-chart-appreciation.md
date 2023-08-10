@@ -2,7 +2,7 @@
 title: "New eagereyesTV Video and Series: Chart Appreciation"
 description: "Time to breathe new life into my little YouTube channel, which I'm calling eagereyesTV. I'm doing so with the start of a new series I'm calling Chart Appreciation. Each episode will be on one particular visualization, news piece, or interactive. As the first one, I picked Hannah Fairfield's Driving Safety, in Fits and Starts from 2012."
 date: 2020-09-23 05:56:50
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/09/driving-safety-thumbnail.png
 outline: false
 ---
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=ftqNuw9H7h8
 I obviously intend to make more videos in this series, and in general (since the channel has been dormant for a while). I'd appreciate any comments and thoughts you have, positive or… constructive. I've put an absurd amount of work into this video, so I hope somebody finds it interesting.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 23, 2020_
+_Posted by <a href="/about">Robert Kosara</a> on September 23, 2020. Filed under [eagereyesTV](/tag/eagereyestv)._
 
 
 <aside class="comments">

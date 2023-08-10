@@ -1,6 +1,6 @@
 ---
 title: "Review: Munroe's Thing Explainer and Pinker's Sense of Style"
-description: "Bad writing and the inability to explain in terms normal people can understand are the hallmarks of academic writing. Here are two books every academic should read and take to heart to be able to recognize bad prose and learn how to fix it."
+description: "Bad writing and the inability to explain in terms normal people can understand are the hallmarks of academic writing. Here are two books every academic should read and take to heart to be able to recognize bad prose and learn how to fix it."
 date: 2015-12-01 23:21:57
 tags: Book Reviews
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png
@@ -10,11 +10,11 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-mun
 
 # Review: Munroe's Thing Explainer and Pinker's Sense of Style
 
-Bad writing and the inability to explain in terms normal people can understand are the hallmarks of academic writing. Here are two books every academic should read and take to heart to be able to recognize bad prose and learn how to fix it.
+Bad writing and the inability to explain in terms normal people can understand are the hallmarks of academic writing. Here are two books every academic should read and take to heart to be able to recognize bad prose and learn how to fix it.
 
 ## Randall Munroe, <em>Thing Explainer: Complicated Stuff in Simple Terms</em>
 
-Munroe is the guy behind the <a href="http://xkcd.com">xkcd</a> web comic. In <a href="http://xkcd.com/thing-explainer/"><em>Thing Explainer</em></a>, he uses his signature style to explain machines and processes in simple drawings and words. He limits himself to the “ten hundred” most common words in English (the word “thousand” did not make the list) to do that. The explanations are by no means simplistic though, and the drawings are very clever and contain lots of little in-jokes.
+Munroe is the guy behind the <a href="http://xkcd.com">xkcd</a> web comic. In <a href="http://xkcd.com/thing-explainer/"><em>Thing Explainer</em></a>, he uses his signature style to explain machines and processes in simple drawings and words. He limits himself to the “ten hundred” most common words in English (the word “thousand” did not make the list) to do that. The explanations are by no means simplistic though, and the drawings are very clever and contain lots of little in-jokes.
 
 The small vocabulary used means no jargon, no difficult or unusual words at all. But the beauty of <em>Thing Explainer</em> goes beyond that. Take a look at <a href="http://xkcd.com/1133/">Up Goer Five</a> and note how he describes the different parts of the rocket: not what they <em>are</em>, but what they <em>do</em>. So much bad academic writing describes things as what they are, but never explains what they are actually good for and why anybody should care.
 
@@ -30,11 +30,11 @@ What does a psychologist know about grammar? Pinker is not just extremely smart 
 
 And there are many myths and nonsensical rules (like, never start a sentence with <em>and</em>). About a third of the book is a long list of topics that he works through methodically. That part feels like a bit of a laundry list, but it also serves as a useful reference when deciding what to do or when settling an argument.
 
-Pinker is very respectful, but he’s also clear in his criticism. While he keeps talking about <a href="http://chronicle.com/article/50-Years-of-Stupid-Grammar/25497"><em>Strunk and White</em></a> in a referential tone, he also demolishes large parts of the nonsense that book is spreading (and points to some of the internal inconsistencies and errors it contains).
+Pinker is very respectful, but he’s also clear in his criticism. While he keeps talking about <a href="http://chronicle.com/article/50-Years-of-Stupid-Grammar/25497"><em>Strunk and White</em></a> in a referential tone, he also demolishes large parts of the nonsense that book is spreading (and points to some of the internal inconsistencies and errors it contains).
 
 <em>The Sense of Style</em> is the book to replace Strunk and White. It’s high time, too. Pinker’s book is based on real research, a much better understanding of language, and the way language is used today (instead of 100 years ago).
 
-## Help End Bad Writing
+## Help End Bad Writing
 
 The two books are very different, which makes them such a beautifully complementary pair. One explains grammar and good writing in great detail, the other puts it into practice in a fun and engaging way. Both are very insightful and can teach you a lot about what it means to communicate well.
 

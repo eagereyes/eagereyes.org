@@ -14,7 +14,7 @@ The big opening day of the conference, Tuesday, brought us a keynote, talks, and
 
 That VIS would ever take place outside the U.S. was by no means a given. There was a lot of doubt about getting enough participants, sponsors, etc. to make it work (and a ton of convincing by this year’s chair, Jean-Daniel Fekete).
 
-That made it especially interesting to hear the participant numbers. There are over 1,100 attendees this year, more than ever before. They also more than doubled the amount of money coming from sponsors compared to last year, which is very impressive. VIS outside the U.S. is clearly doable, and even though the next three years are already known to be in the U.S., I’m sure this will happen again.
+That made it especially interesting to hear the participant numbers. There are over 1,100 attendees this year, more than ever before. They also more than doubled the amount of money coming from sponsors compared to last year, which is very impressive. VIS outside the U.S. is clearly doable, and even though the next three years are already known to be in the U.S., I’m sure this will happen again.
 
 One number that was presented but that I don’t believe is that there were supposedly only 79 first-time attendees. That doesn’t square with the different composition of participants (fewer Americans, more Europeans), and besides would be terrible if true.
 

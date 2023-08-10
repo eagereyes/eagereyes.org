@@ -24,11 +24,11 @@ The <em>Overview</em> paper also wins in the number of websites category: in add
 
 I’m a bit skeptical about <em>Exploring the Placement and Design of Word-Scale Visualizations</em> by Pascal Goffin, Wesley Willett, Jean-Daniel Fekete, and Petra Isenberg. The idea is to create a number of ways to include small charts within documents to show some more information for context. They have an open-source library called <em><a href="http://inria.github.io/sparklificator/">Sparklificator</a></em> to easily add such charts to a webpage. I wonder how distracting small charts would be in most contexts, though.
 
-A somewhat odd paper was <em>Effects of Presentation Mode and Pace Control on Performance in Image Classification</em> by Paul van der Corput and Jarke J. van Wijk. They investigated a new way of rapid serial visual presentation (RSVP) for images, which continuously scrolls rather than flips through page of images. It’s a mystery to me why they only tried sideways scrolling, which seems much more difficult than vertical scrolling.
+A somewhat odd paper was <em>Effects of Presentation Mode and Pace Control on Performance in Image Classification</em> by Paul van der Corput and Jarke J. van Wijk. They investigated a new way of rapid serial visual presentation (RSVP) for images, which continuously scrolls rather than flips through page of images. It’s a mystery to me why they only tried sideways scrolling, which seems much more difficult than vertical scrolling.
 
 ## Capstone: Barbara Tversky, Understanding and Conveying Events
 
-The capstone was given by cognitive psychology professor Barbara Tversky. She talked about the difference between events and activities (events are delimited, activities are continuous), and how we think about them in when listening to a story. She has done some work on how people delineate events on both a high level and a very detailed level.
+The capstone was given by cognitive psychology professor Barbara Tversky. She talked about the difference between events and activities (events are delimited, activities are continuous), and how we think about them in when listening to a story. She has done some work on how people delineate events on both a high level and a very detailed level.
 
 This is interesting in the context of storytelling, and particularly in comics, which break up time and space using space, and need to do so at logical boundaries. Tversky also discussed some of the advantages and disadvantages of story: that it has a point of view, causal links, emotion, etc. She listed all of those as both advantages and disadvantages, which I thought was quite clever.
 

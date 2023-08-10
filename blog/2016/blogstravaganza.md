@@ -17,10 +17,10 @@ If you’re reading this in a feed reader, you might want to check out the websi
 
 As a little narcissistic exercise, I’ve also created <a href="/blog-calendar">an interactive calendar of all the postings on the site</a>. It lets you see the times when I’ve posted more or less, and mousing over shows you the posting titles. It’s a neat way to see just how much stuff there is on the site, and also to remind myself of all the things I’ve written in the past. It’s really cool to rediscover some of these old postings… for me, anyway.
 
-But back to the <em>blogstravaganza</em>! This week will see a posting every day for seven days (if we count this one). I don’t usually post a roadmap of the postings to come, but I will this time since I’ve actually already planned them all out (not very common). I’ll be adding in links here as the postings come online.
+But back to the <em>blogstravaganza</em>! This week will see a posting every day for seven days (if we count this one). I don’t usually post a roadmap of the postings to come, but I will this time since I’ve actually already planned them all out (not very common). I’ll be adding in links here as the postings come online.
 
 <ul>
-    <li>Monday: <a href="/blog/2016/eagereyes-early-history"><em>Some Early History</em></a>. This will look at some of the earliest postings here and what has become of them. Interestingly, some of the most popular content is also among the oldest.</li>
+    <li>Monday: <a href="/blog/2016/eagereyes-early-history"><em>Some Early History</em></a>. This will look at some of the earliest postings here and what has become of them. Interestingly, some of the most popular content is also among the oldest.</li>
     <li>Tuesday: <a href="/blog/2016/the-controversies"><em>The Controversies</em></a>. Things haven’t always been fun and games. I've said things about projects and people. I’ve made people angry. I’ve argued with people. I’ll be revisiting some of the old battlegrounds here.</li>
     <li>Wednesday: <a href="/blog/2016/meet-the-new-logo-and-theme"><em>Meet the New Logo and Theme!</em></a> You can already see both, but this will give a bit of background about them.</li>
     <li>Thursday: <a href="/blog/2016/why-i-do-this"><em>Why I Do This</em></a>. What’s a ten-year anniversary without some soul-searching? I’ll be digging into what I’m trying to achieve and where I think I’m succeeding (or not).</li>
@@ -28,7 +28,7 @@ But back to the <em>blogstravaganza</em>! This week will see a posting every day
     <li>Saturday: <a href="/blog/2016/a-decade-of-eagereyes"><em>A Decade of EagerEyes</em></a>. I’ll be popping the champagne and celebrating 10 years with some thoughts on what the site is and where it’s going.</li>
 </ul>
 
-Each of these will go live at 5:17am PDT (8:17am EDT, 2:17pm MET) if all goes well (scheduled postings are still a crapshoot with Wordpress, so I might have to revise this).
+Each of these will go live at 5:17am PDT (8:17am EDT, 2:17pm MET) if all goes well (scheduled postings are still a crapshoot with Wordpress, so I might have to revise this).
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 25, 2016_

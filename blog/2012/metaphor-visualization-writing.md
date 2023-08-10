@@ -1,6 +1,6 @@
 ---
 title: "Another Metaphor for Visualization: Writing"
-description: "Andrew Gelman recently wrote a blog posting in which he draws an interesting comparison between writing styles and graphics styles. I think he's on to something, and the comparison can be taken a bit further to illustrate some common misunderstandings around visualization."
+description: "Andrew Gelman recently wrote a blog posting in which he draws an interesting comparison between writing styles and graphics styles. I think he's on to something, and the comparison can be taken a bit further to illustrate some common misunderstandings around visualization."
 date: 2012-02-21 21:36:26
 tags: criticism
 featuredImage: 
@@ -8,7 +8,7 @@ featuredImage:
 
 # Another Metaphor for Visualization: Writing
 
-Andrew Gelman recently wrote a blog posting in which he <a href="http://andrewgelman.com/2012/02/at-some-point-the-graph-is-so-bad-that-it-doesnt-convey-the-information/">draws an interesting comparison between writing styles and graphics styles</a>. I think he's on to something, and the comparison can be taken a bit further to illustrate some common misunderstandings around visualization.
+Andrew Gelman recently wrote a blog posting in which he <a href="http://andrewgelman.com/2012/02/at-some-point-the-graph-is-so-bad-that-it-doesnt-convey-the-information/">draws an interesting comparison between writing styles and graphics styles</a>. I think he's on to something, and the comparison can be taken a bit further to illustrate some common misunderstandings around visualization.
 
 Gelman first describes the different ways in which people used to write, even in the context of scholarly communication. There were storytellers and people who wrote dialog, etc. He talks about this in terms of the 1700s, but I've seen much more recent papers that appear really peculiar through the eyes of somebody who's used to the way we write today (e.g., some of Einstein's papers are like that). Gelman then draws his comparison with graphical communication of data:
 
@@ -22,7 +22,7 @@ Say you want to read about some facts, maybe the <a href="http://en.wikipedia.or
 
 It's not a question of information content, it's a question of what your expectations are and how you determine what satisfies your need for information. Perhaps you're looking for factual information, displayed in a no-nonsense and unbiased way. But perhaps you want to know how people experienced that war, how they dealt with the grueling atrocities that were committed, or how they managed to move on after it was finally over. Those things are sometimes more clearly conveyed in poetry or song, and they may be a lot more compelling that way than a dry history text. But if what you're looking for is the factual treatment, none of that will sway you.
 
-We need to be aware of our expectations when we judge a data visualization or infographic. Perhaps its goals are very different from our own, and it was made for people with very different expectations. It's easy to just take this as an anything-goes attitude, but things aren't quite that black-and-white.
+We need to be aware of our expectations when we judge a data visualization or infographic. Perhaps its goals are very different from our own, and it was made for people with very different expectations. It's easy to just take this as an anything-goes attitude, but things aren't quite that black-and-white.
 
 ## Standards
 
@@ -48,7 +48,7 @@ Beyond personal style, though, there is the style of the particular field. Just 
 
 Gelman's point about the wide variety of writing styles in the early days of academic writing (post-Renaissance, anyway) has one more interesting parallel with visualization: development over time. The visual display of information, even in its broadest sense, is still very young and underdeveloped. There is nothing like the vast numbers of books that have laid out information using words. There is no science of how to categorize and compare visual information displays.
 
-Consider, for a moment, that there was a time when the novel was a new idea. Before the 18th century, there were early  versions of it, but <a href="http://en.wikipedia.org/wiki/Novel#From_dubious_history_to_literature:_The_18th-century_market_reform">the novel as we know it today did not exist</a>. Yet the vast majority of fiction written in the last 200 years or so is novels. Shakespeare did not write novels, and the idea to write one likely didn't occur to him. He may even have dismissed novels, had somebody shown him one, as crude and unrefined writing that lacked purpose.
+Consider, for a moment, that there was a time when the novel was a new idea. Before the 18th century, there were early  versions of it, but <a href="http://en.wikipedia.org/wiki/Novel#From_dubious_history_to_literature:_The_18th-century_market_reform">the novel as we know it today did not exist</a>. Yet the vast majority of fiction written in the last 200 years or so is novels. Shakespeare did not write novels, and the idea to write one likely didn't occur to him. He may even have dismissed novels, had somebody shown him one, as crude and unrefined writing that lacked purpose.
 
 Standards change, ideas come and go, some stay and become the prevailing way of doing things. It's way too early to know how we will be looking at data in 20, 50, or 100 years. And we have to be careful when we just lump together anything visual that's based on data and apply the same small set of standards to it. That is not to say that anything goes, but we need to make an effort to understand the goals and ideas behind something before we attempt to make a judgment.
 

@@ -24,7 +24,7 @@ Cars just never get old. I mean, cars. Who doesn’t love cars? Cars, cars, cars
 
 ## Iris
 
-If the cars dataset seems a bit dated, surely the <a href="https://archive.ics.uci.edu/ml/datasets/iris">iris data</a> will answer your burning questions. Who hasn’t stared at an iris plant and gone crazy trying to decide whether it’s an <em>iris setosa</em>, <em>versicolor</em>, or maybe even <em>virginica</em>? It’s the stuff that keeps you up at night for days at a time.
+If the cars dataset seems a bit dated, surely the <a href="https://archive.ics.uci.edu/ml/datasets/iris">iris data</a> will answer your burning questions. Who hasn’t stared at an iris plant and gone crazy trying to decide whether it’s an <em>iris setosa</em>, <em>versicolor</em>, or maybe even <em>virginica</em>? It’s the stuff that keeps you up at night for days at a time.
 
 Luckily, the iris dataset makes that super easy. All you have to do is measure the length and width of your particular iris’s petal and sepal, and you’re ready to rock! What’s that, you still can’t decide because the classes overlap? Well, but at least now you have data!
 

@@ -30,11 +30,11 @@ The archetype of these visualizations, the New York Times' <a href="http://www.n
 
 ## Which Quadrant
 
-This chart of men's vs. women's earnings that <a href="/blog/2014/my-favorite-charts">I wrote about recently </a> also uses the vertical axis in a simple, yet smart way. It has men's earnings on the horizontal axis, and women's on the vertical. That is the only way this makes sense, even if technically the other way around would be just as correct.
+This chart of men's vs. women's earnings that <a href="/blog/2014/my-favorite-charts">I wrote about recently </a> also uses the vertical axis in a simple, yet smart way. It has men's earnings on the horizontal axis, and women's on the vertical. That is the only way this makes sense, even if technically the other way around would be just as correct.
 
 <p align="center"><img class="aligncenter size-medium wp-image-8317" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap-730x424.png" alt="Why Is Her Paycheck Smaller?" width="730" height="424" /></p>
 
-The difference is the message the majority of the points send. If women's earnings were on the vertical axis, those points would be in the upper left quadrant. Up is good, right? So where's the problem? Placing them in the lower left makes this much more obvious to read. The lines representing women making 10%, 20%, and 30% less also would be quite strange if they were to the top right of the main diagonal.
+The difference is the message the majority of the points send. If women's earnings were on the vertical axis, those points would be in the upper left quadrant. Up is good, right? So where's the problem? Placing them in the lower left makes this much more obvious to read. The lines representing women making 10%, 20%, and 30% less also would be quite strange if they were to the top right of the main diagonal.
 
 ## Bar Charts
 

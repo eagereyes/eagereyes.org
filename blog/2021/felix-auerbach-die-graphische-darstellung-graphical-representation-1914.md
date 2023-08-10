@@ -32,7 +32,7 @@ It’s a good illustration of the problem, the larger areas really seem much lar
 
 ## Folded Bar/Line Charts
 
-He then goes on to say that area doesn’t have to be represented as area, but can be shown as length. Using the same example as above, that means he’s now dealing with a very large range of values that pose their own problems. He gives a scale of 150,000 square kilometers for each centimeter – it’s interesting that this kind of absolute scale used to be quite common in print, but has of course fallen out of favor in digital times.
+He then goes on to say that area doesn’t have to be represented as area, but can be shown as length. Using the same example as above, that means he’s now dealing with a very large range of values that pose their own problems. He gives a scale of 150,000 square kilometers for each centimeter – it’s interesting that this kind of absolute scale used to be quite common in print, but has of course fallen out of favor in digital times.
 
 <figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0015b-1320x918.jpg" alt="" class="wp-image-95303"/></figure>
 
@@ -42,7 +42,7 @@ Fitting these into the same space without folding would clearly mean that you wo
 
 ## Log scales
 
-This chart later in the book really caught my eye: it shows speeds of different things, from the speed of light to that of a glacier – all in one chart.
+This chart later in the book really caught my eye: it shows speeds of different things, from the speed of light to that of a glacier – all in one chart.
 
 <figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0016-1320x1330.jpg" alt="" class="wp-image-95304"/></figure>
 
@@ -77,7 +77,7 @@ The final example I’m going to show here is a more diagrammatic one, what we�
 
 ## <em>Anschauungsbedürfnis</em>
 
-In the conclusion, Auerbach argues that graphical methods are important because they cater to the universal human urge to see things – the German <em>Anschauungsbedürfnis</em> he uses is hard to fully capture in English. They also help to popularize science, which he clearly thinks is important, but even help science itself by making phenomena visible and thus easier to derive laws from them.
+In the conclusion, Auerbach argues that graphical methods are important because they cater to the universal human urge to see things – the German <em>Anschauungsbedürfnis</em> he uses is hard to fully capture in English. They also help to popularize science, which he clearly thinks is important, but even help science itself by making phenomena visible and thus easier to derive laws from them.
 
 This may not be the best-known book about graphical representation, or even a particularly important one. But it’s interesting to see how well understood graphical methods were 100 years ago. Auerbach’s book also nicely complements Brinton’s by filling in the natural sciences side of things, while Brinton focuses more on statistics and business uses.
 

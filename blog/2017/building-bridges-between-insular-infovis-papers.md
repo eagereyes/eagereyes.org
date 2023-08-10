@@ -18,7 +18,7 @@ And it’s not just where we are now. How do the current themes compare to the o
 
 Our difficulty in answering these questions strikes me as a symptom of a general lack of vision and identity. That’s not to say that there isn’t good work being done, but it’s mostly disconnected. Many people are doing interesting things and sometimes those coincide and seem to form a pattern. But they are largely random, not driven by bigger goals (bigger than those of researchers or groups).
 
-Individual projects and creativity are important, of course. But a field also needs overarching themes and challenges. It’s hard to build on pieces of work that don’t connect to other work – which ends up perpetuating the problem.
+Individual projects and creativity are important, of course. But a field also needs overarching themes and challenges. It’s hard to build on pieces of work that don’t connect to other work – which ends up perpetuating the problem.
 
 ## Journal Papers and Their Discontents
 
@@ -42,7 +42,7 @@ Attacking a problem from many different angles, and really deeply understanding 
 
 The criteria for this sort of work need to be established, and they’re more subtle than the usual novelty question. Does this paper ask an interesting question about something we’ve already seen some work about? Does it illuminate a point further than the existing work? Does it provide additional evidence to flesh out a theory? Does it draw connections that give us a new insight, potentially paving the way for interesting new work?
 
-What this sort of work does is fill in the gaps and provide more of the connective tissue between the larger pieces of more traditional research (when I talked to Fernanda Viégas at EuroVis, she called it the <em>glue</em> – another good term if you don’t like my anatomical metaphor). It then allows us to see more connections and build on that work more easily than we have been able to so far.
+What this sort of work does is fill in the gaps and provide more of the connective tissue between the larger pieces of more traditional research (when I talked to Fernanda Viégas at EuroVis, she called it the <em>glue</em> – another good term if you don’t like my anatomical metaphor). It then allows us to see more connections and build on that work more easily than we have been able to so far.
 
 ## Collections and Clusters, Not Grand Challenges
 
@@ -52,7 +52,7 @@ Instead, perhaps we need to start smaller, with something lower-case and tractab
 
 A good name for them might be <em>open questions</em>, <em>research areas</em>, or <em>clusters</em>. Somebody come up with a clever name for them that doesn’t try to imply too much. The idea is for them to be crystallization points for more work that connects to the other parts of that collection. Over time these will grow, as will our understanding of the topic.
 
-These clusters are not meant to live forever as topics, quite the opposite. The size and difficulty should probably be such that they can be solved, or reasonably well understood, by a handful of researchers within five years or so – about the length of a Ph.D.
+These clusters are not meant to live forever as topics, quite the opposite. The size and difficulty should probably be such that they can be solved, or reasonably well understood, by a handful of researchers within five years or so – about the length of a Ph.D.
 
 ## Publishing Smaller
 

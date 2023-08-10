@@ -14,7 +14,7 @@ When I’m asked for a good book about visualization, I usually try to change th
 
 In the interest of full disclosure: I was sent a free copy by the publisher to review. However, favorable treatment on this website cannot be bought, and most certainly not for the $40 this book retails for.
 
-Meirelles is <a href="http://www.northeastern.edu/camd/artdesign/people/isabel-meirelles/">associate professor for graphic design at Northeastern University</a>, who has done research on visual representation and metaphors. She has not published in the visualization literature though, and her credentials are clearly those of an artist or designer (creative work) rather than a researcher or CS professor.
+Meirelles is <a href="http://www.northeastern.edu/camd/artdesign/people/isabel-meirelles/">associate professor for graphic design at Northeastern University</a>, who has done research on visual representation and metaphors. She has not published in the visualization literature though, and her credentials are clearly those of an artist or designer (creative work) rather than a researcher or CS professor.
 
 The book is beautifully laid out and designed, and works well as a coffee-table book. But it has a lot more depth than many other books, coffee-table or not.
 
@@ -24,7 +24,7 @@ What sets this book apart from any other I have seen are two things: a clear sep
 
 Perhaps my favorite part of the book are the little diagrams that explain visualizations by drawing over them or by adding a little schematic version to show how it works. I don’t understand why this is so rare, it clearly works incredibly well. In fact, I wish there were more of these even in this book.
 
-Some of the examples also have a nicely structured list of meta-data, some of which is connected to the visualization with arrows. It sounds simple, and it is, but it’s very effective. Unfortunately, these are mostly done in the beginning of the book and trail off later. But the format is great, and I hope others will <del>steal</del> borrow it.
+Some of the examples also have a nicely structured list of meta-data, some of which is connected to the visualization with arrows. It sounds simple, and it is, but it’s very effective. Unfortunately, these are mostly done in the beginning of the book and trail off later. But the format is great, and I hope others will <del>steal</del> borrow it.
 
 <p align="center"><img class="aligncenter size-full wp-image-2675" src="https://media.eagereyes.org/wp-content/uploads/2013/10/DSCF0364.jpg" alt="Treemap explanation by Isabel Meirelles" width="450" height="450" /></p>
 

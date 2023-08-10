@@ -17,13 +17,13 @@ This is even less organized than than the <a href="/blog/2014/vis-2014-monday">V
 
 We'll aim for about 30-40 mins, for a distance of about 5-8km (3-5mi). Pace will depend on who's there and how fast they want to go. Don't be shy about wanting to go slow, we won't be turning this into a race. The first run will be Monday, and then we'll figure out what to do from there (probably Wednesday and Friday, plus potentially something longer Friday afternoon or Saturday).
 
-I know you're wondering: <em>what if I'm not running, will there be opportunities to experience my amazing wisdom and speaking skills?</em> I'm glad you asked.
+I know you're wondering: <em>what if I'm not running, will there be opportunities to experience my amazing wisdom and speaking skills?</em> I'm glad you asked.
 
 <ul>
-    <li>I will be part of the closing panel at <a href="http://www.eurorvvv.org/program/">EuroRVVVVVVVVVVVVVVV</a> Tuesday morning.</li>
-    <li>I'm giving the talk for the paper <i>VIMTEX: A Visualization Interface for Multivariate, Time-Varying Geological Data Exploration</i> by Aritra Dasgupta, Robert Kosara, and Luke Gosink on Thursday morning (session FP10)</li>
+    <li>I will be part of the closing panel at <a href="http://www.eurorvvv.org/program/">EuroRVVVVVVVVVVVVVVV</a> Tuesday morning.</li>
+    <li>I'm giving the talk for the paper <i>VIMTEX: A Visualization Interface for Multivariate, Time-Varying Geological Data Exploration</i> by Aritra Dasgupta, Robert Kosara, and Luke Gosink on Thursday morning (session FP10)</li>
     <li>I'm giving the Tableau industrial/sponsor talk on Thursday afternoon (session IND2). No, that will not be a sales pitch but there will be actual content and bad jokes. Lots of them.</li>
-    <li>Finally, Drew Skau will give the talk on Wednesday morning (session FP6) on our paper with Lane Harrison, <i>An Evaluation of the Impact of Visual Embellishments in Bar Charts</i>. There will be a separate posting about this paper on Sunday.</li>
+    <li>Finally, Drew Skau will give the talk on Wednesday morning (session FP6) on our paper with Lane Harrison, <i>An Evaluation of the Impact of Visual Embellishments in Bar Charts</i>. There will be a separate posting about this paper on Sunday.</li>
 </ul>
 
 &nbsp;

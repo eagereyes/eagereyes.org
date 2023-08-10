@@ -30,7 +30,7 @@ The maps linked below are available as (large) PNGs and as PDFs for printing. Th
 	<li><a href="/zipscribble-maps/sweden">Sweden</a></li>
 	<li><a href="/zipscribble-maps/switzerland">Switzerland</a></li>
 </ul>
-Want more maps? I will keep collecting data (and I have data for a few more countries), and post new maps as sufficiently reliable and complete data becomes available. If you have data about postal codes that contains latitude/longitude information, or can somehow be linked to it, please <a href="/contact">let me know</a>.
+Want more maps? I will keep collecting data (and I have data for a few more countries), and post new maps as sufficiently reliable and complete data becomes available. If you have data about postal codes that contains latitude/longitude information, or can somehow be linked to it, please <a href="/contact">let me know</a>.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on January 07, 2007_
@@ -77,7 +77,7 @@ Jude says…
 
 Robert Kosara says…
 >	<p>
->	I am aware of that problem, and have to say that I just used the first projection that gave me usable results. I have done a bit of reading on map projections since I originally made these maps, and I am going to update them in a month or so – with better projections, among other things. 
+>	I am aware of that problem, and have to say that I just used the first projection that gave me usable results. I have done a bit of reading on map projections since I originally made these maps, and I am going to update them in a month or so – with better projections, among other things. 
 >	</p>
 >	
 

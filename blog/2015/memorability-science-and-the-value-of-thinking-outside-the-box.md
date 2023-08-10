@@ -28,7 +28,7 @@ I can see where he’s coming from. Michelle got her Ph.D. at a little place cal
 
 The statement above is especially silly because Michelle’s Ph.D. is actually in Applied Physics, which in contrast to Computer Science is an actual science. It is also odd because <a href="https://www.perceptualedge.com/blog/?p=1095">Steve praised one of her papers in 2011</a>. If that was a scientifically sound paper, has she forgotten the scientific method in the meantime? Has the exposure to all those infographics gotten to her?
 
-Another problem is that Steve has so far mostly singled out women for his criticisms: <a href="https://www.perceptualedge.com/articles/visual_business_intelligence/visual_difficulties.pdf">Jessica Hullman in 2011</a>, <a href="https://www.perceptualedge.com/blog/?p=1770">Michelle Borkin in 2013</a>, and now again in 2015. Jeff Heer also picks up on this, and in particular the personal attacks, in the discussion thread:
+Another problem is that Steve has so far mostly singled out women for his criticisms: <a href="https://www.perceptualedge.com/articles/visual_business_intelligence/visual_difficulties.pdf">Jessica Hullman in 2011</a>, <a href="https://www.perceptualedge.com/blog/?p=1770">Michelle Borkin in 2013</a>, and now again in 2015. Jeff Heer also picks up on this, and in particular the personal attacks, in the discussion thread:
 
 
 _Posted by <a href="/about">Robert Kosara</a> on December 16, 2015_

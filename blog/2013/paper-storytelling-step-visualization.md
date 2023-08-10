@@ -13,11 +13,11 @@ outline: false
 
 Visualization is often considered to consist of three phases: exploration, analysis, and presentation. While the former two topics are covered well in the literature, there has been very little work specifically on presentation. In an upcoming paper, Jock Mackinlay and I argue that presentation, and in particular storytelling and communication of data, are the logical next step for the field, and provide some research directions.
 
-The paper is titled <em><a href="/publications/Kosara-Computer-2013">Storytelling: The Next Step for Visualization</a></em> and was written for <em>IEEE Computer</em>, in particular the <em>Special Issue on Cutting-Edge Research in Visualization</em>, to be published in May. This is important context to understand what we were trying to achieve and why the paper's style is a bit unusual.
+The paper is titled <em><a href="/publications/Kosara-Computer-2013">Storytelling: The Next Step for Visualization</a></em> and was written for <em>IEEE Computer</em>, in particular the <em>Special Issue on Cutting-Edge Research in Visualization</em>, to be published in May. This is important context to understand what we were trying to achieve and why the paper's style is a bit unusual.
 
 That entire special issue is likely to be very interesting. The guest editors, Min Chen and Theresa-Marie Rhyne, asked people in the field to write about what they envision visualization research to do 5, 10, or even 15 years in the future. While I don't know what other papers will be in the issue, I've heard rumors that there were some high-profile submissions. And the topic clearly lends itself to some interesting thought experiments.
 
-Our paper first explores the history of presentation and  storytelling with visualization, though there really isn't much there. Only a handful of papers can really count as presentation, so we had to reach back a bit and include some historical perspective that goes beyond the visualization literature. We then talk about our particular idea of how we think storytelling should be approached, which is strongly influenced by journalism. It is not limited to the typical passive consumer though, so we outline some scenarios in which presentation and storytelling could be used. We illustrate these points with three case studies: Minard, Gapminder, and a story from the <em>New York Times</em>. The final section then provides some ideas about further steps and research directions.
+Our paper first explores the history of presentation and  storytelling with visualization, though there really isn't much there. Only a handful of papers can really count as presentation, so we had to reach back a bit and include some historical perspective that goes beyond the visualization literature. We then talk about our particular idea of how we think storytelling should be approached, which is strongly influenced by journalism. It is not limited to the typical passive consumer though, so we outline some scenarios in which presentation and storytelling could be used. We illustrate these points with three case studies: Minard, Gapminder, and a story from the <em>New York Times</em>. The final section then provides some ideas about further steps and research directions.
 
 If the formatting looks a bit odd, it is because this is a pre-print, which is still going through its editing phase. IEEE now <a href="http://www.computer.org/csdl/mags/co/preprint/06412677-abs.html">makes these available very early</a> though, in their rough form. While some of the text is likely going to change (since <em>Computer</em> has a particular style), the meat of the paper will not. Also, the goal of this paper was not a technical contribution or particular depth, but to lay out the general idea and discuss research directions. I hope to have some more in-depth work published later this year.
 
@@ -25,7 +25,7 @@ In related news, I was on a panel on storytelling with Alberto Cairo last week a
 
 <hr />
 
-Robert Kosara, Jock Mackinlay, <a href="/publications/Kosara-Computer-2013">Storytelling: The Next Step for Visualization</a>. <em>Computer (Special Issue on Cutting-Edge Research in Visualization)</em>, May 2013. (to appear)
+Robert Kosara, Jock Mackinlay, <a href="/publications/Kosara-Computer-2013">Storytelling: The Next Step for Visualization</a>. <em>Computer (Special Issue on Cutting-Edge Research in Visualization)</em>, May 2013. (to appear)
 
 
 _Posted by <a href="/about">Robert Kosara</a> on February 03, 2013_
