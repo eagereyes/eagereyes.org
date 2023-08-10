@@ -68,6 +68,14 @@ export default {
 	},
 
 	head: [
+		[ 'link', {'rel': 'icon', 'sizes': "32x32",
+			'href': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
+		[ 'link', {'rel': 'icon', 'sizes': "192x192",
+			'href': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
+		[ 'link', {'rel': 'apple-touch-icon',
+			'href': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
+		[ 'meta', {'name': 'msapplication-TileImage',
+			'content': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
 		[
 			'script',
 			{async: true, src: "https://www.googletagmanager.com/gtag/js?id=G-PDJZL25VMX"}
