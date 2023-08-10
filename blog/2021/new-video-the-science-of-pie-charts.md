@@ -2,7 +2,7 @@
 title: "New Video: The Science of Pie Charts"
 description: "The common explanation for how pie charts work is that we read them by angle. That of course would mean that donut charts would be bad, because you can't see the angle when you take away the center of the pie. Changing the radius of a slice wouldn't matter though, because that doesn't change the angle. But there is no evidence that angle is how we read pie charts, quite the opposite actually. In this new video, I walk through five reasons why angle is not how we read pies, and what that means for other things we like to assume about them."
 date: 2021-11-16 19:51:16
-tags: pie charts, eagereyestv
+tags: pie-charts, eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/11/Thumbnail-4x3-1.jpeg
 outline: false
 ---

@@ -2,7 +2,7 @@
 title: "Review: Chabris, Simons, The Invisible Gorilla"
 description: "Inattentional and change blindness are two fascinating phenomena that more people should be aware of. The Invisible Gorilla describes them as well as some other interesting and surprising psychological research."
 date: 2013-06-12 21:17:35
-tags: Book Reviews, cognition, attention, criticism
+tags: book-reviews, cognition, attention, criticism
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg
 outline: false
 ---

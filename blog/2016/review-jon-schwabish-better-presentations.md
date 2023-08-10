@@ -2,7 +2,7 @@
 title: "Review: Jon Schwabish, Better Presentations"
 description: "Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she’d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began)."
 date: 2016-11-30 08:19:57
-tags: Book Reviews, criticism
+tags: book-reviews, criticism
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg
 outline: false
 ---

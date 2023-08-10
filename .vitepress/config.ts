@@ -28,7 +28,7 @@ export default {
 				collapseDepth: 2,
 				capitalizeFirst: true,
 				useTitleFromFrontmatter: true,
-				// includeFolderIndexFile: true,				
+				includeFolderIndexFile: true,				
 				// useFolderLinkAsIndexPage: true,
 				excludeFolders: ['node_modules', 'publications']
 			}),

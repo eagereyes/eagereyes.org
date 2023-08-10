@@ -2,7 +2,7 @@
 title: "A Reanalysis of A Study About (Square) Pie Charts from 2009"
 description: "After my recent posting on the results of our pie charts studies, Jorge Camoes teased me on Twitter about square pie charts. So I dug up the data from a study we ran many years ago to look at how well they compare to bars, pies, and squares."
 date: 2016-07-10 19:20:14
-tags: pie charts
+tags: pie-charts
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/07/simplevis-abserror-relative.png
 ---
 

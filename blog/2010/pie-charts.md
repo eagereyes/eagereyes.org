@@ -2,7 +2,7 @@
 title: "Understanding Pie Charts"
 description: "Pie charts are perhaps the most ubiquitous chart type; they can be found in newspapers, business reports, and many other places. But few people actually understand the function of the pie chart and how to use it properly. In addition to issues stemming from using too many categories, the biggest problem is getting the basic premise: that the pie slices sum up to a meaningful whole."
 date: 2010-01-12 07:03:23
-tags: pie charts, techniques
+tags: pie-charts, techniques
 featuredImage: https://media.eagereyes.org/media/2008/chocolatepiechart.jpg
 ---
 

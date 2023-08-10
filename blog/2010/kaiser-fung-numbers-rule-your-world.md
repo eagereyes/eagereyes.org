@@ -2,7 +2,7 @@
 title: "Review: Kaiser Fung, Numbers Rule Your World"
 description: "You all know what statistics is, right? I mean, everybody knows. But if you had to explain why it's useful, and what it's useful for, would you have an answer? Do you know how statistics makes a difference in all our lives, all the time? Even if you (think you) do, check out Kaiser Fung's book, Numbers Rule Your World."
 date: 2010-09-28 17:09:35
-tags: Book Reviews, criticism
+tags: book-reviews, criticism
 featuredImage: https://media.eagereyes.org/media/2010/numbersrule.jpg
 outline: false
 ---

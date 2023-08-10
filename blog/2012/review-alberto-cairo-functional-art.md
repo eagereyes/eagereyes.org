@@ -2,7 +2,7 @@
 title: "Review: Alberto Cairo, The Functional Art"
 description: "When Alberto Cairo first told me about the book he was writing, called The Functional Art, he warned me that only a small part of it was going to be about visualization. I have no idea what he was talking about, the book I read was a visualization book from start to finish. It is one of the most interesting and insightful books on the topic I have read in a while."
 date: 2012-10-08 23:01:02
-tags: Book Reviews, criticism
+tags: book-reviews, criticism
 featuredImage: 
 ---
 

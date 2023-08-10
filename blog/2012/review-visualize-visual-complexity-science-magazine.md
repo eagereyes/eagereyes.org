@@ -2,7 +2,7 @@
 title: "My Review of Visualize This and Visual Complexity for Science Magazine"
 description: "I was asked to write a review of two recent visualization books for Science: Nathan Yau's Visualize This and Manuel Lima's Visual Complexity. The piece appeared in the last issue of 2011, right before Christmas. Below is a link and some additional comments on the review and the two books."
 date: 2012-01-04 21:33:54
-tags: Book Reviews, criticism
+tags: book-reviews, criticism
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png
 ---
 

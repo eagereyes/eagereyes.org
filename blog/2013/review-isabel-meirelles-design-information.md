@@ -2,7 +2,7 @@
 title: "Review: Isabel Meirelles, Design for Information"
 description: "When I’m asked for a good book about visualization, I usually try to change the subject. There is no book I really love, they all have their issues. But thanks to Isabel Meirelles, I can now give a straight answer: Design for Information."
 date: 2013-10-20 20:12:31
-tags: Book Reviews, criticism
+tags: book-reviews, criticism
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg
 ---
 

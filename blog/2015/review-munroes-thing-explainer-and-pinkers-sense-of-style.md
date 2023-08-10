@@ -2,7 +2,7 @@
 title: "Review: Munroe's Thing Explainer and Pinker's Sense of Style"
 description: "Bad writing and the inability to explain in terms normal people can understand are the hallmarks of academic writing. Here are two books every academic should read and take to heart to be able to recognize bad prose and learn how to fix it."
 date: 2015-12-01 23:21:57
-tags: Book Reviews
+tags: book-reviews
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png
 ---
 

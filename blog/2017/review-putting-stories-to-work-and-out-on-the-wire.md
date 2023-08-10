@@ -2,7 +2,7 @@
 title: "Review: Putting Stories to Work and Out On the Wire"
 description: "Two books I’ve read recently make good points about stories that apply to data stories, without the books being about data: Shawn Callahan’s Putting Stories to Work and Jessica Abel’s Out On the Wire."
 date: 2017-09-18 18:57:44
-tags: Book Reviews, storytelling
+tags: book-reviews, storytelling
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/09/abel-callahan.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: "Review: Lupi, Posavec, Dear Data"
 description: "Giorgia Lupi and Stefanie Posavec have turned their Dear Data project into a book. It's a great example of the kind of creative work you can do around visualization without computers, entirely by hand. What started with a simple idea turned into an amazing project."
 date: 2016-09-11 21:57:47
-tags: Book Reviews
+tags: book-reviews
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg
 outline: false
 ---

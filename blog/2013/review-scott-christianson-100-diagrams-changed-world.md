@@ -2,7 +2,7 @@
 title: "Review: Scott Christianson, 100 Diagrams That Changed the World"
 description: "I recently came across this book that claims to collect the 100 most important diagrams in the history of mankind. It’s a good collection, with many wonderful examples, though it has its flaws."
 date: 2013-02-14 20:52:49
-tags: Book Reviews, criticism
+tags: book-reviews, criticism
 featuredImage: 
 outline: false
 ---

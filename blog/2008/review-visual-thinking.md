@@ -2,7 +2,7 @@
 title: "Book Review: Visual Thinking for Design, by Colin Ware"
 description: "Colin Ware's latest book Visual Thinking for Design has a promising subtitle: active vision, attention, visual queries, gist, visual skills, color, narrative, design. That's covering quite a bit of ground, and also a lot of things not usually considered in visualization. While this is a book about design, I was interested in what it could teach people in InfoVis, and I review it from that point of view."
 date: 2008-06-08 20:07:25
-tags: Book Reviews, criticism
+tags: book-reviews, criticism
 featuredImage: 
 ---
 

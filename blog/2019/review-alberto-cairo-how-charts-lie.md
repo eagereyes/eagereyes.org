@@ -2,7 +2,7 @@
 title: "Review: Alberto Cairo, How Charts Lie"
 description: "Alberto Cairo’s new book, How Charts Lie, takes readers on a tour of how charts are used and misused, and teaches them how to not be misled. It’s a useful book for both makers and consumers of charts, in the news, business, and pretty much anywhere else."
 date: 2019-11-11 21:07:05
-tags: Book Reviews
+tags: book-reviews
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg
 outline: false
 ---

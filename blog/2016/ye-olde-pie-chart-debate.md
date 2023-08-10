@@ -2,7 +2,7 @@
 title: "Ye Olde Pie Chart Debate"
 description: "You may think that the debate over pie charts was a new one, but it has raged on for at least 100 years. Brinton started it in 1914, and great drama unfolded in the pages of the Journal of the American Statistical Association in the 1920s."
 date: 2016-03-14 20:20:42
-tags: pie charts, history
+tags: pie-charts, history
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/04/brinton-pie.gif
 ---
 
