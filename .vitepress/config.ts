@@ -18,6 +18,10 @@ export default {
 	base: '/',
 
 	themeConfig: {
+
+		siteTitle: false,
+		logo: { light: '/eagereyes-logo-dark.svg', dark: '/eagereyes-logo-light.svg', alt: 'eagereyes Logo' },
+
 		// https://vitepress.dev/reference/default-theme-config
 		nav: [
 			{ text: 'Home', link: '/' },
