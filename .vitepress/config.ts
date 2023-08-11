@@ -56,8 +56,10 @@ export default {
 		// ],
 
 		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-			{ icon: 'mastodon', link: 'https://vis.social/' }
+			{ icon: 'mastodon', link: 'https://mastodon.social/@eagereyes' },
+			{ icon: 'youtube', link: 'https://youtube.com/@eagereyes' },
+			{ icon: 'linkedin', link: 'https://linkedin.com/in/rkosara/' },
+			{ icon: 'twitter', link: 'https://twitter.com/@eagereyes' }
 		],
 
 		search: {

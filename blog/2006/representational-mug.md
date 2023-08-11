@@ -1,6 +1,6 @@
 ---
 title: "Representational Mug"
-description: ""
+description: "This was bought in the store of the Guggenheim Museum in New York."
 date: 2006-11-08 09:50:47
 tags: 
 featuredImage: http://eagereyes.org/media/attachments/Guggenheim_Mug.jpg

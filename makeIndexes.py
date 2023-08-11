@@ -58,6 +58,22 @@ def writeIndex(files, fileName, dirName):
         out.write('---\n')
         out.write('title: Index for %s\n' % dirName )
         out.write('outline: false\n')
+        
+        # for Blog year indices, link between years!
+        parts = dirName.split(' ')
+        if parts[0] == 'Blog':
+            if int(parts[1])+1 in posts:
+                out.write('next:\n  text: Blog %d\n  link: /blog/%d/\n' % (int(parts[1])+1, int(parts[1])+1))
+            else:
+                out.write('next: false\n')
+            if int(parts[1])-1 in posts:
+                out.write('prev:\n  text: Blog %d\n  link: /blog/%d/\n' % (int(parts[1])-1, int(parts[1])-1))
+            else:
+                out.write('prev: false\n')
+        else:
+            out.write('prev: false\n')
+            out.write('next: false\n')
+
         out.write('---\n\n')
         out.write('# %s\n\n' % dirName)
 
@@ -77,7 +93,9 @@ with scandir('blog') as it:
             print(dir)
             files = scanDirectory(dir)
             numPosts += len(files)
-            writeIndex(files, dir+'/index.md', 'Blog '+entry.name)
+            
+for year in posts:
+    writeIndex(posts[year], 'blog/%d/index.md' % year, 'Blog %d' % year)
 
 writeIndex(tags['criticism'], 'tag/criticism.md', 'Criticism')
 writeIndex(tags['book-reviews'], 'tag/book-reviews.md', 'Book Reviews')

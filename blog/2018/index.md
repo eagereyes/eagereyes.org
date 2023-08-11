@@ -1,6 +1,12 @@
 ---
 title: Index for Blog 2018
 outline: false
+next:
+  text: Blog 2019
+  link: /blog/2019/
+prev:
+  text: Blog 2017
+  link: /blog/2017/
 ---
 
 # Blog 2018

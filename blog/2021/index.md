@@ -1,6 +1,12 @@
 ---
 title: Index for Blog 2021
 outline: false
+next:
+  text: Blog 2022
+  link: /blog/2022/
+prev:
+  text: Blog 2020
+  link: /blog/2020/
 ---
 
 # Blog 2021

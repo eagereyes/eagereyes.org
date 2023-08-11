@@ -1,6 +1,10 @@
 ---
 title: Index for Blog 2006
 outline: false
+next:
+  text: Blog 2007
+  link: /blog/2007/
+prev: false
 ---
 
 # Blog 2006
