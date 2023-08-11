@@ -17,22 +17,36 @@ export default {
 	cleanUrls: true,
 	base: '/',
 
+	// https://vitepress.dev/reference/default-theme-config
 	themeConfig: {
 
 		siteTitle: false,
 		logo: { light: '/eagereyes-logo-dark.svg', dark: '/eagereyes-logo-light.svg', alt: 'eagereyes Logo' },
 
-		// https://vitepress.dev/reference/default-theme-config
 		nav: [
-			{ text: 'Home', link: '/' },
-			{ text: 'Publications', link: '/publications/' }
+			{ text: 'Practical', items: [
+				{ text: 'Pie Charts', link: '/tag/pie-charts' },
+				{ text: 'Book Reviews', link: '/tag/book-reviews' },
+				{ text: 'Blog', link: '/blog/' },
+			]},
+			{ text: 'Academic', items: [
+				{ text: 'My Publications', link: '/publications/' },
+				{ text: 'Conference Reports', link: '/tag/conference' },
+				{ text: 'Lists of Influences', link: '/tag/influences' },
+				{ text: 'Criticism', link: '/tag/criticism' },
+			]},
+			{ text: 'Admin', items: [
+					{ text: 'About', link: '/about' },
+					{ text: 'Contact', link: '/contact' },
+					{ text: 'License', link: '/license' },
+				] },
 		],
 
 		sidebar: generateSidebar({
 				collapseDepth: 2,
 				capitalizeFirst: true,
 				useTitleFromFrontmatter: true,
-				includeFolderIndexFile: true,				
+				// includeFolderIndexFile: true,				
 				// useFolderLinkAsIndexPage: true,
 				excludeFolders: ['node_modules', 'publications']
 			}),
