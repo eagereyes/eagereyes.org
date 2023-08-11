@@ -97,6 +97,18 @@ with scandir('blog') as it:
 for year in posts:
     writeIndex(posts[year], 'blog/%d/index.md' % year, 'Blog %d' % year)
 
+with open('blog/index.md', 'w') as out:
+    out.write('---\n')
+    out.write('title: Index for Blog\n')
+    out.write('outline: false\n')
+    out.write('prev: false\n')
+    out.write('next: false\n')
+    out.write('---\n\n')
+    out.write('# Blog Index\n\n<p></p>\n\n')
+    for year in sorted(posts.keys(), reverse=True):
+        out.write('## <a href="/blog/%d/">Blog %d</a>\n\n<p></p>\n\n' % (year, year))
+
+
 writeIndex(tags['criticism'], 'tag/criticism.md', 'Criticism')
 writeIndex(tags['book-reviews'], 'tag/book-reviews.md', 'Book Reviews')
 writeIndex(tags['pie-charts'], 'tag/pie-charts.md', 'Pie Charts')

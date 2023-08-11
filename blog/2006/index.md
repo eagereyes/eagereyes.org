@@ -19,7 +19,7 @@ While working on the ZIPScribble map, I started to wonder how to untangle the be
 Visualization people often talk about mapping. Mapping is the process that translates data into a visual representation, and the main challenge in the visualization of abstract data. A good mapping is one that leads to insights into the data, while a bad mapping does not. It is important, however, to keep in mind what the purpose of the depiction is, or one runs the risk of applying the wrong standards. _<a href="/blog/2006/visual-mapping-of-poetry-html">Read more…</a>_
 
 ### <a href="/blog/2006/representational-mug">Representational Mug</a>
- _<a href="/blog/2006/representational-mug">Read more…</a>_
+This was bought in the store of the Guggenheim Museum in New York. _<a href="/blog/2006/representational-mug">Read more…</a>_
 
 ### <a href="/blog/2006/loneliness-of-the-visualization-critic">The Loneliness of the Visualization Critic</a>
 At a panel discussion at Vis 2006, we were blasted for raising the question, Is there Science in Visualization? A senior visualization researcher said that he was embarrassed that this question was being discussed, and that we were trying to push our way of doing things on the community. The panel was still a success, but this proved just how far we still have to go. _<a href="/blog/2006/loneliness-of-the-visualization-critic">Read more…</a>_
