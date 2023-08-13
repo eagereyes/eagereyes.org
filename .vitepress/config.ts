@@ -1,12 +1,6 @@
 // import { defineConfig } from 'vitepress'
 import { generateSidebar } from 'vitepress-sidebar';
-
-// console.dir(generateSidebar({collapseDepth: 2,
-// 	capitalizeFirst: true,
-// 	useTitleFromFrontmatter: true,
-// 	includeFolderIndexFile: true,				
-// 	useFolderLinkAsIndexPage: true,
-// 	excludeFolders: ['node_modules', 'publications']}), { depth: null })
+import { readFileSync } from 'node:fs';
 
 // https://vitepress.dev/reference/site-config
 export default {
@@ -42,14 +36,18 @@ export default {
 				] },
 		],
 
-		sidebar: generateSidebar({
-				collapseDepth: 2,
-				capitalizeFirst: true,
-				useTitleFromFrontmatter: true,
-				// includeFolderIndexFile: true,				
-				// useFolderLinkAsIndexPage: true,
-				excludeFolders: ['node_modules', 'publications']
-			}),
+		// sidebar: generateSidebar({
+		// 		collapseDepth: 2,
+		// 		capitalizeFirst: true,
+		// 		useTitleFromFrontmatter: true,
+		// 		// includeFolderIndexFile: true,				
+		// 		// useFolderLinkAsIndexPage: true,
+		// 		excludeFolders: ['node_modules', 'publications']
+		// 	}),
+
+		sidebar: {
+			'/blog/': JSON.parse(readFileSync('sidebar.json', 'utf-8'))
+		},
 
 		footer: {
 			message: 'All materials available under <a href="/license">CC-BY-SA</a>',

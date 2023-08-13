@@ -2,6 +2,7 @@
 
 from datetime import datetime, timedelta
 from os import path, scandir
+from json import dump
 
 def deYAML(s):
     s = s.strip()
@@ -97,6 +98,7 @@ with scandir('blog') as it:
 for year in posts:
     writeIndex(posts[year], 'blog/%d/index.md' % year, 'Blog %d' % year)
 
+sidebar = [];
 with open('blog/index.md', 'w') as out:
     out.write('---\n')
     out.write('title: Index for Blog\n')
@@ -107,7 +109,13 @@ with open('blog/index.md', 'w') as out:
     out.write('# Blog Index\n\n<p></p>\n\n')
     for year in sorted(posts.keys(), reverse=True):
         out.write('## <a href="/blog/%d/">Blog %d</a>\n\n<p></p>\n\n' % (year, year))
+        items = sorted(posts[year], key=lambda d: d['date'], reverse=True)
+        items = list(map(lambda d: {'text': d['title'], 'link': '/'+d['path']}, items))
+        sidebar.append({'text': 'Blog %d' % year, 'items': items, 'collapsed': True })
 
+sidebar = [{'text': 'Blog', 'items': sidebar}]
+
+dump(sidebar, open('sidebar.json', 'w'))
 
 writeIndex(tags['criticism'], 'tag/criticism.md', 'Criticism')
 writeIndex(tags['book-reviews'], 'tag/book-reviews.md', 'Book Reviews')
