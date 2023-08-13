@@ -56,7 +56,7 @@ T.J. Jankun-Kelly says…
 >	
 
 Sheila Levrant de Bretteville says…
->	<p>I am&nbsp; just trolling the net today for gowell argued articles with finely made visual on visualization, and the aesthetics of branding</p>
+>	<p>I am  just trolling the net today for gowell argued articles with finely made visual on visualization, and the aesthetics of branding</p>
 
 </aside>
 

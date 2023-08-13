@@ -46,10 +46,10 @@ _Posted by <a href="/about">Robert Kosara</a> on November 15, 2009_
 <a href="http://ouseful.info" rel="nofollow noopener" target="_blank">Tony Hirst</a> says…
 >	<p>Hi</p>
 >	<p>Some time ago I posted a walkthrough of how to scrape data from Wikipedia with Google docs, and then annotate the CSV output of the scraped data with geodata in Yahoo Pipes:</p>
->	<p><a title="Permanent Link to &quot;Data Scraping Wikipedia with Google&nbsp;Spreadsheets&quot;" href="http://ouseful.wordpress.com/2008/10/14/data-scraping-wikipedia-with-google-spreadsheets/">Data Scraping Wikipedia with Google&nbsp;Spreadsheets</a></p>
+>	<p><a title="Permanent Link to &quot;Data Scraping Wikipedia with Google Spreadsheets&quot;" href="http://ouseful.wordpress.com/2008/10/14/data-scraping-wikipedia-with-google-spreadsheets/">Data Scraping Wikipedia with Google Spreadsheets</a></p>
 
 Robert Kosara says…
->	<p>Excel for the Mac doesn't have that function, though.&nbsp;</p>
+>	<p>Excel for the Mac doesn't have that function, though. </p>
 
 Robert Kosara says…
 >	<p>I haven't seen that one before, I'll have to try it out.</p>
@@ -61,7 +61,7 @@ Robert Kosara says…
 >	<p>I would just use yahoo pipes for this. Very easy (with a small investment of time to learn), and very flexible too. Great tool for scraping.</p>
 
 <a href="http://i-ocean.blogspot.com/" rel="nofollow noopener" target="_blank">derek</a> says…
->	<p>I would be very grateful for a reliable way to scrape PDF tables.&nbsp;</p>
+>	<p>I would be very grateful for a reliable way to scrape PDF tables. </p>
 
 Bill Dedman says…
 >	<p>Why not copy and paste this table into Excel. The rule: If it's a table, just paste it.</p>
@@ -72,15 +72,15 @@ Robert Kosara says…
 <a href="http://chartsgraphs.wordpress.com" rel="nofollow noopener" target="_blank">D Kelly O'Day</a> says…
 >	<p>Let's combine your climate data and web scrapping posts.</p>
 >	<p>Here's an example where I scrapped climate science data for a visualization of the IR absorption properties of 5 greenhouse gases.</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p align="center"><img src="http://chartsgraphs.files.wordpress.com/2009/12/nist_5_ghg_spectra1.png" alt="" width="539" height="538" /></p>
 >	<p>I wanted to scrap the spectrum data from 5 NIST Chemistry Webbook data web pages and generate this chart automatically.</p>
 >	<p>Jon Peltier is right about Excel's external data capabilities, however, Jon would need a VBA procedure to retreive the data and reproduce my 5 panel chart.</p>
 >	<p>Bill Dedman's suggestion about using Excel's cut and paste approach would be quite time consuming and Bill would have a challenge generating the 5 panel chart.</p>
 >	<p>Here's a link to my post, it includes a link to my R script, available on Google docs.</p>
 >	<p>http://chartsgraphs.wordpress.com/2009/12/07/understanding-the-science-of-co2%E2%80%99s-role-in-climate-change-3-%E2%80%93-how-green-house-gases-trap-heat/</p>
->	<p>&nbsp;</p>
->	<p>&nbsp;</p>
+>	<p> </p>
+>	<p> </p>
 
 Jay says…
 >	using something like HTML::TableContentParser or HTML::TableExtract and a cron job if i needed to keep it up to date.

@@ -11,7 +11,7 @@ outline: false
 
 The EagerEyes Labs' mission is to provide tools to gain insight into <a href="/communication/Visual-Display-of-Relevant-Information.html">relevant data</a> to everybody. As part of that, the plan has always been to release the source code. The first piece of code is now published, and more is coming.
 
-I am starting with the most recent, the&nbsp;<a href="/applications/PresidentialDemographicsII.html">Presidential Demographics</a> applet. It is <a href="https://github.com/eagereyes/PresidentialDemographics">available as a project on github</a>. It's an Eclipse project that you can import directly into Eclipse or use the contained source files with any other Java IDE.
+I am starting with the most recent, the <a href="/applications/PresidentialDemographicsII.html">Presidential Demographics</a> applet. It is <a href="https://github.com/eagereyes/PresidentialDemographics">available as a project on github</a>. It's an Eclipse project that you can import directly into Eclipse or use the contained source files with any other Java IDE.
 
 This particular applet may not lend itself to massive distributed development, but perhaps somebody will find it useful. And there are more complex things coming that will perhaps lead to some community development.
 

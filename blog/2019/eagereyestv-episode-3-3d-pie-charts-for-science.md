@@ -13,8 +13,8 @@ How do we read pie charts? This seems like a straightforward question to answer,
 
 This is the third eagereyesTV video. Watch it below or <a href="https://youtu.be/WF-HWFf-UNc">head over to YouTube</a>. And please like and subscribe if you thought it was worthwhile, and let me know what you think!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WF-HWFf-UNc?si=M_a26OnldK9sQ_F7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/WF-HWFf-UNc?si=M_a26OnldK9sQ_F7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 Things I cover in the video:
 

@@ -15,7 +15,7 @@ Look at this map from Wikipedia that shows electoral votes on the labels and who
 
 <img class="aligncenter size-full wp-image-9774" src="https://media.eagereyes.org/wp-content/uploads/2016/11/ElectoralCollege2012-filled.png" alt="electoralcollege2012-filled" width="1280" height="744" />
 
-&nbsp;
+ 
 
 Let's try something different. Here's a bar chart of the number of electoral votes for each state. Like with the map, the <em>label</em> shows electoral votes, the bar's <em>length</em> is the state's area. Can you tell me which state has the most electoral votes? How many more does Texas have than Montana?
 

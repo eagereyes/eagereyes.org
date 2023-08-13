@@ -1,6 +1,6 @@
 ---
 title: "List of Influences: Jock Mackinlay"
-description: "Jock D. Mackinlay was working on information visualization long before the field or the term even existed. His Ph.D. thesis on the automatic visual representation of data translated Bertin's semiological texts into a useful piece of software (and badly-needed visualization theory). His work also includes Cone Trees, the Perspective Wall, an analysis of the visualization design space, as well as the&nbsp;Readings in Information Visualization (together with Stuart Card and Ben Shneiderman). Mackinlay worked at PARC from 1986 to 2004, when he joined&nbsp;Tableau Software&nbsp;&ndash; a company based on a Ph.D. thesis inspired by his work 15 years earlier."
+description: "Jock D. Mackinlay was working on information visualization long before the field or the term even existed. His Ph.D. thesis on the automatic visual representation of data translated Bertin's semiological texts into a useful piece of software (and badly-needed visualization theory). His work also includes Cone Trees, the Perspective Wall, an analysis of the visualization design space, as well as the Readings in Information Visualization (together with Stuart Card and Ben Shneiderman). Mackinlay worked at PARC from 1986 to 2004, when he joined Tableau Software &ndash; a company based on a Ph.D. thesis inspired by his work 15 years earlier."
 date: 2008-07-29 22:31:58
 tags: influences
 featuredImage: 

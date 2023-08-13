@@ -62,7 +62,7 @@ A different kind of distribution chart shows the tax burden for a family of four
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/Work4All-10.jpg" width="660" class="wp-image-12516"/></p>
 
-On the topic of taxes, there’s another chart that is also confusing at first glance but is easier to read in the end. It shows income vs. consumption for different income groups, together with the sizes of these groups. Full red circles show savings, gifts, and also personal taxes for some reason, while empty red circles show consumption beyond income&nbsp;– debt.
+On the topic of taxes, there’s another chart that is also confusing at first glance but is easier to read in the end. It shows income vs. consumption for different income groups, together with the sizes of these groups. Full red circles show savings, gifts, and also personal taxes for some reason, while empty red circles show consumption beyond income – debt.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/Work4All-13.jpg" width="660" class="wp-image-12519"/></p>
 

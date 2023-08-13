@@ -15,9 +15,7 @@ This is one of my favorite charts ever and it uses the connected scatterplot, a 
 
 As usual, you can watch it on YouTube or directly here. Though I would really appreciate it if you could <a href="https://www.youtube.com/watch?v=ftqNuw9H7h8">head over to YouTube</a> to subscribe to the channel or maybe even give the video a thumbs-up!
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-rich is-provider-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=ftqNuw9H7h8
-</div></figure>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ftqNuw9H7h8?si=jFYb8vRx9-5Aqvoh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <a href="https://archive.nytimes.com/www.nytimes.com/interactive/2012/09/17/science/driving-safety-in-fits-and-starts.html"><em>Driving Safety, in Fits and Starts</em></a> can be found on the New York Times website. The <a href="/papers/the-connected-scatterplot-for-presenting-paired-time-series" data-type="post" data-id="9076">paper about the connected scatterplot</a> I mention towards the end is work with Steven Franconeri and Steve Haroz from 2016. 
 

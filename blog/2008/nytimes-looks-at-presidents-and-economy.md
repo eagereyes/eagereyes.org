@@ -1,6 +1,6 @@
 ---
 title: "NY Times looks at Presidents and the Economy"
-description: "The New York Times has an interesting interactive visualization on the influence of presidents on the economy. They ask,&nbsp;Can a President Tame the Business Cycle? The visualization they use is not bad, but would be much more readable if it used a better color scale."
+description: "The New York Times has an interesting interactive visualization on the influence of presidents on the economy. They ask, Can a President Tame the Business Cycle? The visualization they use is not bad, but would be much more readable if it used a better color scale."
 date: 2008-10-18 23:17:58
 tags: Politics
 featuredImage: https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png

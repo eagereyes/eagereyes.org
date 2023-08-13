@@ -15,7 +15,7 @@ Evaluation is not a panacea, especially when it comes to complex visualization a
 
 How do we know that these systems are useful? How can we compare them? Can we measure not just correctness and task completion time, but also engagement, learning, insights, and fun?
 
-BELIV accepts two kinds of submissions: research papers and position papers. The workshop is part of <a href="http://chi2010.org/">CHI 2010</a>, which will take place in Atlanta, GA, April 10&ndash;15, 2010.&nbsp;The deadline for submissions is November 30, at 5pm PST.
+BELIV accepts two kinds of submissions: research papers and position papers. The workshop is part of <a href="http://chi2010.org/">CHI 2010</a>, which will take place in Atlanta, GA, April 10&ndash;15, 2010. The deadline for submissions is November 30, at 5pm PST.
 
 (See also Enrico Bertini's <a href="http://diuf.unifr.ch/people/bertinie/visuale/">interesting discussion of the history of and ideas behind the workshop</a>.)
 

@@ -1,6 +1,6 @@
 ---
 title: "The Electoral College and Second Terms"
-description: "The Electoral College is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called battleground states &ndash;&nbsp;and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis."
+description: "The Electoral College is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called battleground states &ndash; and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis."
 date: 2008-10-07 22:31:32
 tags: Politics
 featuredImage: https://media.eagereyes.org/media/2008/Popular-Electoral-teaser.png
@@ -10,13 +10,13 @@ featuredImage: https://media.eagereyes.org/media/2008/Popular-Electoral-teaser.p
 
 # The Electoral College and Second Terms
 
-The <a href="http://en.wikipedia.org/wiki/U.S._Electoral_College">Electoral College</a> is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called <em>battleground states &ndash;</em>&nbsp;and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis.
+The <a href="http://en.wikipedia.org/wiki/U.S._Electoral_College">Electoral College</a> is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called <em>battleground states &ndash;</em> and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis.
 
 A presidential election in the US is essentially 51 separate elections (50 states plus the District of Columbia). All but two states have a winner-takes-all system, with Maine and Nebraska using a slightly more differentiated way of splitting up its delegates between the candidates. There are a number of consequences of this that I don't want to discuss in detail here, but what I was interested in was the boost this system gives to the strongest candidate.
 
 There are two aspects to this. First, there is the relative majority: which candidate got the most votes? Splitting this up further, there is the popular vote (how many people voted for a particular candidate) and the electoral vote (how many electors voted for that candidate). My hypothesis was that the percentage of electoral votes the winner got would always be higher than the popular vote.
 
-The other aspect is whether the candidate who wins is the candidate the absolute majority of people (i.e., more than 50%) voted for. In recent elections, with only two candidates from the two big parties, this has become almost synonymous with the previous question &ndash;&nbsp;any third-party candidate would only get a minuscule fraction of the popular vote and not a single electoral vote.
+The other aspect is whether the candidate who wins is the candidate the absolute majority of people (i.e., more than 50%) voted for. In recent elections, with only two candidates from the two big parties, this has become almost synonymous with the previous question &ndash; any third-party candidate would only get a minuscule fraction of the popular vote and not a single electoral vote.
 
 ## A Comparison Chart
 
@@ -27,7 +27,7 @@ As you can see, there were only three instances where the electoral percentage w
 
 The other thing the chart shows is where a candidate was elected with less than 50% of the popular vote. The shaded area marks the 50%, and you can see that there were quite a few presidents who where pushed across that mark by the electoral college system. The most recent is George W. Bush, but the list also includes Bill Clinton, Richard Nixon, and others.
 
-This is really only meant to provide a data point for the discussion of the merits of the electoral system &ndash; the issue is far too complex to be boiled down to a few numbers. But I think this chart illustrates quite nicely what effect the current system has. For another data-centric discussion of how less than 1% change in popular vote could have changed the outcome of many of the past elections, see Mike Sheppard's&nbsp;<a href="https://www.msu.edu/~sheppa28/elections.html">How close were Presidential Elections?</a>
+This is really only meant to provide a data point for the discussion of the merits of the electoral system &ndash; the issue is far too complex to be boiled down to a few numbers. But I think this chart illustrates quite nicely what effect the current system has. For another data-centric discussion of how less than 1% change in popular vote could have changed the outcome of many of the past elections, see Mike Sheppard's <a href="https://www.msu.edu/~sheppa28/elections.html">How close were Presidential Elections?</a>
 
 ## Second Terms
 
@@ -45,7 +45,7 @@ What surprised me was how hard it was to produce a good chart for what I conside
 
 So I ended up creating stacked bar charts, with a few additional columns of data to generate the needed numbers. While that wasn't very difficult, it did defeat the point of doing this visually: if I could just look at the sign of the difference between the electoral and popular percentages, why bother with a chart? It still does provide a good way to present the data, especially the amplification of the stronger candidate.
 
-While Numbers doesn't have nearly the power of Excel, I really like its approach to spreadsheets. It also produces much nicer charts, in my humble opinion. What it does not do, however, is let me change the color of an individual element of a chart &ndash;&nbsp;I ended up doing those in PhotoShop. Also, while Numbers lets me draw arbitrary shapes, there is no snapping to chart elements, only their outlines. That makes adding information like the 50% shaded area much more difficult than necessary.
+While Numbers doesn't have nearly the power of Excel, I really like its approach to spreadsheets. It also produces much nicer charts, in my humble opinion. What it does not do, however, is let me change the color of an individual element of a chart &ndash; I ended up doing those in PhotoShop. Also, while Numbers lets me draw arbitrary shapes, there is no snapping to chart elements, only their outlines. That makes adding information like the 50% shaded area much more difficult than necessary.
 
 While both Excel and Numbers do provide a large variety of chart types and settings, a lot of manual work is still necessary to make a chart really informative. And many things that should be very simple to do in these programs (including such advanced features as histograms) still require a lot of tweaking and the use of tools like PhotoShop.
 

@@ -24,7 +24,7 @@ As far as the theme is concerned, I have tried and failed to make it more minima
 
 I've tested the site in Safari 3.1, FireFox 3, and IE7. Please let me know if there are problems, especially in browsers I have not yet tested.
 
-If you are using Internet Explorer 6, you will probably see images sticking out into the menu bars on the right and there will be a lot of empty space at the top. The latter is actually already a work-around to make the site usable at all in IE6. Resizing the window to make it as wide as possible should help with the sticking-out. I know that some of you might be stuck with IE6 because of corporate policies, but other than that, there is really no excuse for using such an outdated browser. IE6 users are also a very small minority on this site, so I really can't design around its limitations. If there is any way to upgrade your Internet Explorer (or replace it with something else), then by all means do it.&nbsp;
+If you are using Internet Explorer 6, you will probably see images sticking out into the menu bars on the right and there will be a lot of empty space at the top. The latter is actually already a work-around to make the site usable at all in IE6. Resizing the window to make it as wide as possible should help with the sticking-out. I know that some of you might be stuck with IE6 because of corporate policies, but other than that, there is really no excuse for using such an outdated browser. IE6 users are also a very small minority on this site, so I really can't design around its limitations. If there is any way to upgrade your Internet Explorer (or replace it with something else), then by all means do it. 
 
 As always, I am interested in what you think about the new theme, users, plans for discussion forums, the site in general, and anything else.
 
@@ -39,7 +39,7 @@ _Posted by <a href="/about">Robert Kosara</a> on July 14, 2008_
 
 MattK says…
 >	<p>I like the great work you are doing here - and got excited about the openid.</p>
->	<p>But I think you miss the point on OpenID.&nbsp; I shouldn't have to <em>register</em>.&nbsp; I already did register my openid!&nbsp; If it authenticates, it's me.&nbsp; OpenID is valuable when I can just go to your site, authenticate myself and comment.&nbsp; Having to put in a registration and email and go back and verify that seems silly when I can authenticate who I am, I'm the guy who controls http://www.morelightmorelight.com/id !</p>
+>	<p>But I think you miss the point on OpenID.  I shouldn't have to <em>register</em>.  I already did register my openid!  If it authenticates, it's me.  OpenID is valuable when I can just go to your site, authenticate myself and comment.  Having to put in a registration and email and go back and verify that seems silly when I can authenticate who I am, I'm the guy who controls http://www.morelightmorelight.com/id !</p>
 >	
 
 Robert Kosara says…

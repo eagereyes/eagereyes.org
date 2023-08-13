@@ -1,6 +1,6 @@
 ---
 title: "The Shaping of Information by Visual Metaphors"
-description: "In January, my Ph.D. student Caroline Ziemkiewicz told me about an interesting observation she had made: in different papers comparing tree visualizations, treemaps came out as best, worst, or somewhere in the middle. One difference she noticed was how the questions were worded: when a levels metaphor was used, treemaps did badly; a containment metaphor, on the other hand, seemed to favor treemaps. So we decided to investigate &ndash;&nbsp;the result will be presented at InfoVis on Monday, October 20."
+description: "In January, my Ph.D. student Caroline Ziemkiewicz told me about an interesting observation she had made: in different papers comparing tree visualizations, treemaps came out as best, worst, or somewhere in the middle. One difference she noticed was how the questions were worded: when a levels metaphor was used, treemaps did badly; a containment metaphor, on the other hand, seemed to favor treemaps. So we decided to investigate &ndash; the result will be presented at InfoVis on Monday, October 20."
 date: 2008-10-15 07:08:26
 tags: papers
 featuredImage: https://media.eagereyes.org/media/2008/Ziemkiewicz_InfoVis_2008.jpg

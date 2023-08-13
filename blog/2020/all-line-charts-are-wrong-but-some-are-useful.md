@@ -19,23 +19,23 @@ I'm going to look at two cases here: single observations where each value is a s
 
 Let's look at a typical line chart the way it's supposed to be used: for observations over time. This example shows temperatures over time, one value per minute. The important thing here is simply that each is an individual reading from a specific point in time, so there is no averaging or similar going on. The points are spaced equally in time here, but it doesn't matter.
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-line-1320x743.png" alt="" class="wp-image-61120"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-line.png" alt="" class="wp-image-61120" width="660" height="372" /></p>
 
 What do the lines mean here? What we actually have is just the observations, which are individual values.
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-dots-1320x743.png" alt="" class="wp-image-61121"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-dots.png" alt="" class="wp-image-61121" width="660" height="372" /></p>
 
 We could show them like this, but we usually don't. Instead, we draw a line. And typically, we don't even draw the dots. Instead, we usually rely on the line having enough kinks to let us see where the points are. That often works, but not always. And it emphasizes the line rather than the points.
 
 Instead, we might draw a like chart like this.
 
-<figure class="wp-block-image size-large is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-dots-line-1320x743.png" alt="" class="wp-image-61122" width="580" height="326"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-dots-line.png" alt="" class="wp-image-61122" width="660" height="372" /></p>
 
 You might argue that this is a reasonable representation because surely, temperatures exist even when we don't measure them, and they change continuously between the points. To which I say: yes, but not in straight lines! Temperatures change in a continuous way, but not at a constant speed from one measurement to the next and then suddenly change their direction and speed to aim for the next one.
 
 This is what smooth transitions would look like:
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-dots-line-smooth-1320x743.png" alt="" class="wp-image-61123"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/time-dots-line-smooth.png" alt="" class="wp-image-61123" width="660" height="372" /></p>
 
 This would be the most reasonable chart of this data (other than the pure dots). What is so surprising about this is that nobody draws line charts like this. Why not? The typical argument is that such a smoothed line is just made up data! But the same is true of straight lines. Straight lines might seem more straightforward, but they're basically always wrong. Temperatures do not change in that way. Any reasonably smooth approximation is going to be a much more realistic picture of what is actually happening.
 
@@ -49,21 +49,21 @@ If you're familiar with sampling theory, here's another argument for the smooth 
 
 Now let's look at the other scenario where the data is aggregated. Let's say we have sales data here for each month (or something else that you can count or total up over a month, it doesn't matter), one number per month. Look, it's a line chart!
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-line-1320x743.png" alt="" class="wp-image-61124"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-line.png" alt="" class="wp-image-61124" width="660" height="372" /></p>
 
 As before, all we have are really just the values for each month, nothing in between. This will look familiar.
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-dots-1320x743.png" alt="" class="wp-image-61125"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-dots.png" alt="" class="wp-image-61125" width="660" height="372" /></p>
 
 Now if we were to draw lines, what would those mean? The difference from before is that these aggregates, like the sum of sales in a month, don't make sense between the points. There is no transition from May's sales to June's sales, linear or otherwise. The numbers are totaled up at the end of each month and then apply to the entire month. Straight lines between these points make no sense.
 
 A more accurate representation would be this, though you might even argue that the vertical lines make no sense here. I just wanted to keep the line contiguous, though. Stepped line charts are also reasonably common and easy to make in visualization tools, as opposed to broken lines.
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-manhattan-1320x743.png" alt="" class="wp-image-61127"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-manhattan.png" alt="" class="wp-image-61127" width="660" height="372" /></p>
 
 If this looks like a different kind of chart, you might be thinking of this:
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-bars-1320x743.png" alt="" class="wp-image-61128"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-bars.png" alt="" class="wp-image-61128" width="660" height="372" /></p>
 
 Yes, a bar chart. Now I don't argue for bar charts lightly (I have a really strong aversion to the <em>everything should be a bar chart</em> school of thinking), but it's a more meaningful chart (other than the dots above). How would lines connecting the points make any sense here other than to make a nicer, more connected-looking chart?
 

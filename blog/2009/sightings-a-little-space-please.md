@@ -30,7 +30,7 @@ _Posted by <a href="/about">Robert Kosara</a> on March 04, 2009_
 
 <a href="http://carlosscheidegger.wordpress.com" rel="nofollow noopener" target="_blank">Carlos Scheidegger</a> says…
 >	<p>I like Tamara Munzner's point, and I wish people would just forget about the division (kudos to the VisWeek organization for trying to get everyone to move in that direction). However, I feel that simply calling the field "visualization" is too broad. "Computational Visualization"? In my mind, the word "depiction" gives a better idea than "visualization": creating an image in Vis should be about making a point, regardless of whether it's Info or Sci. But I don't like the sound of "Computational Depiction".</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 
 Robert Kosara says…
 >	<p>The problem with "depiction" is that it's too broad: it also includes photography, drawing, painting, etc. I don't think we're going to change the names, even though they haven't even been around that long. But they're entrenched and it's going to be difficult to find better ones (non-photorealistic rendering has tried to come up with a better name and they haven't been able to agree on something more descriptive that doesn't just say what it's not). But as long as we understand what the terms really mean and where the gray areas are, we'll be okay.</p>

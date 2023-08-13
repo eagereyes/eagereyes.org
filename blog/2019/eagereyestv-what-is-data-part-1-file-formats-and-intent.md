@@ -13,8 +13,8 @@ We all use data all the time, but what exactly is data? How do different program
 
 The latest episode of eagereyesTV looks at what data is and what can set one kind of data apart from another. You can <a href="https://youtu.be/pdVTaBGSddg">watch on YouTube</a> and right here.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pdVTaBGSddg?si=W8cnFYl872ppfJsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/pdVTaBGSddg?si=W8cnFYl872ppfJsp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
 
 For more on intent and the primary representation of data, check out <a href="/blog/2019/data-intent-and-primary-interpretation">my recent blog post on the topic</a>.
 

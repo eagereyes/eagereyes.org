@@ -13,7 +13,7 @@ Rainbow colormaps are among the most derided ideas in data visualization, second
 
 Finger-wagging about rainbow colormaps is a pretty common pastime in visualization, <a href="/basics/rainbow-color-map" data-type="post" data-id="2426">I've done it too</a>! And it's not like there aren't good reasons. Look at this map of maximum temperatures in the US, <a href="https://digital.mdl.nws.noaa.gov">published by NOAA</a>, for example:
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2023/07/heat-map-1320x649.jpeg" alt="A map of maximum temperatures in the US, shown using a scale from 0 to 130 degrees and using a rainbow colormap" class="wp-image-104596"/></figure>
+<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2023/07/heat-map.jpeg" alt="A map of maximum temperatures in the US, shown using a scale from 0 to 130 degrees and using a rainbow colormap" class="wp-image-104596"/></figure>
 
 The rainbow colormap used here has all the usual problems: it's not uniform in its luminance (brightness), different colors cover different ranges of the colormap (though it's usually green that is the worst, here it's purple and red), and of course the ordering is somewhat arbitrary.
 

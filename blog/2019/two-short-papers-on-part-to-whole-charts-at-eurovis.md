@@ -13,11 +13,11 @@ outline: false
 
 Why do pie charts look the way they do? What makes this particular way of slicing up a circle the preferred way of showing part-to-whole relationships? In two short papers that I’m presenting this week at <a href="https://www.eurovis.org">EuroVis</a>, I looked at the design space of circular part-to-whole charts, including pie charts.
 
-The first paper, titled <em><a href="/publications/Kosara-EuroVis-2019a.html">Circular Part-to-Whole Charts Using the Area Visual Cue</a></em>, was motivated by the designs Drew Skau and I created for <a href="/papers/a-pair-of-pie-chart-papers">the studies that showed that angle was unlikely to be the cue used to read pie charts</a>. It was surprising that the <em>area-only</em> condition did as well as the pie chart itself, because the slice showing the data had an irregular shape that changed with the value.
+The first paper, titled <em><a href="/publications/Kosara-EuroVis-2019a">Circular Part-to-Whole Charts Using the Area Visual Cue</a></em>, was motivated by the designs Drew Skau and I created for <a href="/papers/a-pair-of-pie-chart-papers">the studies that showed that angle was unlikely to be the cue used to read pie charts</a>. It was surprising that the <em>area-only</em> condition did as well as the pie chart itself, because the slice showing the data had an irregular shape that changed with the value.
 
 So I designed a study to test seven different ways of slicing up a circle to represent a fraction by area. Out of these, the pie chart did the best, but there was another chart, which I’m going to call <em>the moon pie</em>, that did equally well for accuracy (and better for speed): sliding a circle of the same size over the base circle to create the part that shows the fraction (similar to how the earth’s shadow creates the phases of the moon).
 
-The second study, <em><a href="/publications/Kosara-EuroVis-2019b.html">The Impact of Distribution and Chart Type on Part-to-Whole Comparisons</a></em>, builds on the first one and addresses a criticism I keep getting about the earlier work: why only two slices? Why not test more? So I took the pie chart, the moon pie, the straight-slice pie (the area-only condition from earlier), as well as a stacked bar chart and a treemap, and sliced them up into five slices. I also varied the distribution of the numbers to have either a fat-tail or a long-tail shape.
+The second study, <em><a href="/publications/Kosara-EuroVis-2019b">The Impact of Distribution and Chart Type on Part-to-Whole Comparisons</a></em>, builds on the first one and addresses a criticism I keep getting about the earlier work: why only two slices? Why not test more? So I took the pie chart, the moon pie, the straight-slice pie (the area-only condition from earlier), as well as a stacked bar chart and a treemap, and sliced them up into five slices. I also varied the distribution of the numbers to have either a fat-tail or a long-tail shape.
 
 The moon pie did well in this one too, and much better than the treemap. Stacked bars held their own in this part-to-whole task, even though they’re terrible for most other uses. And the pie chart, which served as the baseline, again did better or at least as well as, any of the other techniques.
 
@@ -27,9 +27,9 @@ The two papers very much belong together, you could almost call them two parts o
 
 <hr class="wp-block-separator is-style-wide"/>
 
-Robert Kosara, <a href="/publications/Kosara-EuroVis-2019a.html">Circular Part-to-Whole Charts Using the Area Visual Cue</a>, <em>EuroVis Short Papers</em>, 2019
+Robert Kosara, <a href="/publications/Kosara-EuroVis-2019a">Circular Part-to-Whole Charts Using the Area Visual Cue</a>, <em>EuroVis Short Papers</em>, 2019
 
-Robert Kosara, <a href="/publications/Kosara-EuroVis-2019b.html">The Impact of Distribution and Chart Type on Part-to-Whole Comparisons</a>, <em>EuroVis Short Papers</em>, 2019
+Robert Kosara, <a href="/publications/Kosara-EuroVis-2019b">The Impact of Distribution and Chart Type on Part-to-Whole Comparisons</a>, <em>EuroVis Short Papers</em>, 2019
 
 
 _Posted by <a href="/about">Robert Kosara</a> on June 03, 2019_

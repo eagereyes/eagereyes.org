@@ -1,6 +1,6 @@
 ---
 title: "SPSS Viz Designer"
-description: "SPSS recently released their new Viz Designer, a visualization engine built on Leland Wilkinson's work (The Grammar of Graphics and nViZn). The comparison with&nbsp;Tableau&nbsp;is unavoidable since both are based on the same underlying ideas. Right now, Viz Designer does not look good in that comparison.&nbsp;"
+description: "SPSS recently released their new Viz Designer, a visualization engine built on Leland Wilkinson's work (The Grammar of Graphics and nViZn). The comparison with Tableau is unavoidable since both are based on the same underlying ideas. Right now, Viz Designer does not look good in that comparison. "
 date: 2008-09-13 20:30:40
 tags: criticism
 featuredImage: https://media.eagereyes.org/media/2008/vizdesigner.jpg
@@ -11,7 +11,7 @@ outline: false
 
 <p align="center"><img src="https://media.eagereyes.org/media/2008/vizdesigner.jpg" border="0" alt="SPSS Viz Designer" /></p>
 
-SPSS recently released their new <a href="http://www.spss.com/VizDesigner/">Viz Designer</a>, a visualization engine built on Leland Wilkinson's work (<em><a href="http://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/">The Grammar of Graphics</a></em> and <a href="http://www.spss.com/research/Wilkinson/nViZn/nvizn.html">nViZn</a>). The comparison with&nbsp;<a href="http://tableausoftware.com/">Tableau</a>&nbsp;is unavoidable since both are based on the same underlying ideas. Right now, Viz Designer does not look good in that comparison.&nbsp;
+SPSS recently released their new <a href="http://www.spss.com/VizDesigner/">Viz Designer</a>, a visualization engine built on Leland Wilkinson's work (<em><a href="http://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/">The Grammar of Graphics</a></em> and <a href="http://www.spss.com/research/Wilkinson/nViZn/nvizn.html">nViZn</a>). The comparison with <a href="http://tableausoftware.com/">Tableau</a> is unavoidable since both are based on the same underlying ideas. Right now, Viz Designer does not look good in that comparison. 
 
 In fact, it would be easy to slam the program. The user interface has a certain engineering look to it that reminds me of early GUI programs. There is also very little exploration and basically no interaction with the created graphics. There is also very little intelligence about the data, like detection of categorical vs. continuous dimensions. But then, the program is built on a very powerful basis and there is a large enough organization behind it to carry it over the first few, rough, releases. And there is also room for a different approach than Tableau, even though I think they're doing a lot of things right.
 

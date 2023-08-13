@@ -19,7 +19,7 @@ The same is true for the CSV, though it’s the other way around. CSV is a text 
 
 Both are data in the end, of course, since anything a computer can store is data by definition. That doesn’t even just include files you think of as data but also programs, the low-level structure of the storage medium itself, etc.
 
-What does distinguish data files from others is the intent with which they were created. They have file extensions, file format markers, and metadata that tells the system that they are specific kinds of files and&nbsp;– more importantly – that there is a specific way of interpreting them. Not the only way, but a clearly meaningful way.
+What does distinguish data files from others is the intent with which they were created. They have file extensions, file format markers, and metadata that tells the system that they are specific kinds of files and – more importantly – that there is a specific way of interpreting them. Not the only way, but a clearly meaningful way.
 
 Images, videos, etc., are created with a primary interpretation in mind. For an image, it is to be rendered onto the screen (and maybe manipulated in a photo editor), for a video it is to be played (or edited, in a specific editor), a 3D design to be rendered in 3D and perhaps sliced for a 3D printer, a sound file to be played through speakers, etc.
 

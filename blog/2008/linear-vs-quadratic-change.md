@@ -33,9 +33,9 @@ Or, to employ a bit of high-school math: The area of a square A = a<sup>2</sup>,
 
 <p class="img" style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/LinearQuadratic-QuarterCircle.png" border="0" alt="Quadratic Change in Circle" /></p>
 
-That last part was actually the subject of a discussion I had a while ago with a rather senior visualization person. He did not believe that changing a circle segment's radius would lead to a quadratic increase in its area. It's easy to show, though: a circle's area is r<sup>2</sup>&pi; (r being the circle's radius), the area of a circle segment that covers an angle &theta; is&nbsp;r<sup>2</sup>&pi;&middot;sin(&theta;). It is no more difficult to show that doubling the radius will quadruple the area than with the square above.
+That last part was actually the subject of a discussion I had a while ago with a rather senior visualization person. He did not believe that changing a circle segment's radius would lead to a quadratic increase in its area. It's easy to show, though: a circle's area is r<sup>2</sup>&pi; (r being the circle's radius), the area of a circle segment that covers an angle &theta; is r<sup>2</sup>&pi;&middot;sin(&theta;). It is no more difficult to show that doubling the radius will quadruple the area than with the square above.
 
-<a href="http://www.florence-nightingale.co.uk/">Florence Nightingale</a> already knew this in 1858 when she developed her <a href="http://www.uh.edu/engines/epi1712.htm">coxcomb chart</a>&nbsp;(a predecessor to the pie chart): she represented the numbers of soldiers using the area, not the radius, of the circle segments.
+<a href="http://www.florence-nightingale.co.uk/">Florence Nightingale</a> already knew this in 1858 when she developed her <a href="http://www.uh.edu/engines/epi1712.htm">coxcomb chart</a> (a predecessor to the pie chart): she represented the numbers of soldiers using the area, not the radius, of the circle segments.
 
 <p class="img" style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/coxcombchart.jpg" border="0" alt="Nightingale's Coxcomb chart" /></p>
 

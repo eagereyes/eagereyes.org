@@ -2,7 +2,7 @@
 title: "Opining or Murmuring: Infographics vs. Visualization"
 description: "Commenting on a diagram  showing the flow of electricity from its production to its use (and waste), the author of the Junk Charts blog writes: As it stands, this chart murmurs but does not opine. Which is exactly what it should do."
 date: 2006-10-10 15:55:15
-tags: 
+tags: criticism
 featuredImage: 
 outline: false
 ---
@@ -20,6 +20,6 @@ A good deal of confusion about visualization seems to stem from this simple diff
 I also find the murmuring more compelling, because it allows me to draw my own conclusions, rather than being hit over head with them. But there is clearly a place for both, and it is important to understand this difference in order to tease apart real visualization from other visual communication.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 10, 2006_
+_Posted by <a href="/about">Robert Kosara</a> on October 10, 2006. Filed under [criticism](/section/criticism)._
 
 

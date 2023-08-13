@@ -19,8 +19,7 @@ We'll use <a href="https://observablehq.com/@observablehq/plot?collection=@obser
 
 Here's a bit more in my little teaser video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fupMzCU1sOo?si=pse09pLGUagohARo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fupMzCU1sOo?si=pse09pLGUagohARo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 The course starts March 7 and consists of five sessions (every Tuesday and Thursday, 9am PST/noon EST). <a href="https://observablehq.com/@observablehq/datavizcourse?utm_medium=video&amp;utm_campaign=datavizcourse&amp;utm_source=videoembed" target="_blank" rel="noreferrer noopener">Sign up here to join</a>!
 

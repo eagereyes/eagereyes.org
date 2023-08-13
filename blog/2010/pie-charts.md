@@ -114,7 +114,7 @@ _Posted by <a href="/about">Robert Kosara</a> on January 12, 2010_
 <a href="http://chartsbin.com/" rel="nofollow noopener" target="_blank">Thiagu</a> says…
 >	<p>I like to add one point</p>
 >	<p>-Colour also place important role in pie chart.</p>
->	<p>I recentely made a pie chart for chartsbin.com, if you have a moment please check yourself&nbsp; <a href="http://chartsbin.com/view/wwu">Surface Area of the Earth</a></p>
+>	<p>I recentely made a pie chart for chartsbin.com, if you have a moment please check yourself  <a href="http://chartsbin.com/view/wwu">Surface Area of the Earth</a></p>
 
 John says…
 >	<p>I like the first part on pies, but the second on waffles not so much.</p>
@@ -126,8 +126,8 @@ John says…
 >	<p>Also @Nathan you are right about the visualisation being a guide to where you should look in the data but quite often a pie chart is presented without the accompanying data thus increasing the risk of incorrect interpetation.</p>
 
 <a href="http://www.excelcharts.com/blog/" rel="nofollow noopener" target="_blank">Jorge Camoes</a> says…
->	<p>I like to protect the poor and opressed pies (I write about that more than I should) and it's nice to know I'm not alone. Actually, <a href="http://www.excelcharts.com/blog/how-to-make-better-pie-charts-with-on-demand-details/"><span style="color: #2361a1;">a donut is even better than a pie chart</span></a>&nbsp;&nbsp;(if you can do it right, a donut is like as a pie on steroids).</p>
->	<p>@Infoholic: a pie chart&nbsp;performes better than a 100% stacked bar because its's easier to find anchoir points (90%, 180%).</p>
+>	<p>I like to protect the poor and opressed pies (I write about that more than I should) and it's nice to know I'm not alone. Actually, <a href="http://www.excelcharts.com/blog/how-to-make-better-pie-charts-with-on-demand-details/"><span style="color: #2361a1;">a donut is even better than a pie chart</span></a>  (if you can do it right, a donut is like as a pie on steroids).</p>
+>	<p>@Infoholic: a pie chart performes better than a 100% stacked bar because its's easier to find anchoir points (90%, 180%).</p>
 
 <a href="http://i-ocean.blogspot.com/" rel="nofollow noopener" target="_blank">derek</a> says…
 >	<p>Pie charts are like that little thug in school that all the adults tried to make excuses for. Look, it only took him three tries to spell the word "cat"!</p>

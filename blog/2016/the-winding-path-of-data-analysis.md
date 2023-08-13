@@ -21,7 +21,7 @@ The human element here is still remarkable, and it makes me very skeptical about
 
 And while I get the idea of <a href="http://www.bitss.org/2014/06/13/preregistration-controversy/">preregistration for studies</a>, I'm not convinced that they're feasible for the same reason. There's just too much work that goes into the data analysis that is not mechanical, even without p-hacking.
 
-&nbsp;
+ 
 
 
 _Posted by <a href="/about">Robert Kosara</a> on October 03, 2016_

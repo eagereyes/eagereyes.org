@@ -13,9 +13,7 @@ When dealing with large amounts of data, we often use summary statistics like av
 
 This is the first video on my new <a href="https://m.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ">YouTube channel, <em>eagereyesTV</em></a>. You can watch it below or click on <a href="https://youtu.be/RbHCeANCbW0">this link to be taken to YouTube</a>.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/RbHCeANCbW0
-</div></figure>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RbHCeANCbW0?si=cj8PjmGJUajwZiyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Things I cover in the video:
 

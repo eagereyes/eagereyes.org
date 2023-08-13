@@ -17,7 +17,7 @@ If you do not see the applet below as showing you a number of gray and black lin
 
 Moving the mouse over the individual time lines will show you the name and other information about each president (if there is no reaction to mouse movements, click somewhere in the applet to give it the input focus). Clicking on a timeline will open that president's Wikipedia page (if your browser and popup blocker allow that).The lines that appear when mousing over the timelines are there to help compare dates, e.g., was President X already born when President Y took office?
 
-Changing the alignment lets you ask different questions about the data: Who was the youngest president? Which president lived the longest? Who lived the longest after stepping down? You can also easily see the presidents who died in office&nbsp;&ndash;either from natural causes or because they were assassinated.
+Changing the alignment lets you ask different questions about the data: Who was the youngest president? Which president lived the longest? Who lived the longest after stepping down? You can also easily see the presidents who died in office &ndash;either from natural causes or because they were assassinated.
 
 The two timelines in the lower right are the two candidates for 2008: John McCain and Barack Obama. The start of their terms is indicated, so you can compare them to all the other presidents.
 

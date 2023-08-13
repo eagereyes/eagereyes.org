@@ -49,7 +49,7 @@ Robert Kosara says…
 
 <a href="http://www.cse.msstate.edu/~tjk/" rel="nofollow noopener" target="_blank">T.J. Jankun-Kelly</a> says…
 >	<p>Something like the <a href="http://daringfireball.net/">Daring Fireball</a> model is probably ideal: Gruber posts short links to related materials often, but his more in detail posts are weekly/bi-weekly. Keeps the interest level up without sacrificing quality.</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 
 <a href="http://had.co.nz" rel="nofollow noopener" target="_blank">Hadley Wickham</a> says…
 >	I disagree - most visualisations being created are time consuming because people are using poor tools for the job.  Unless you can churn out ten or twenty visualisations an hour, you just can not try enough variations to figure out what the best is.  If it takes an hour to make a visualisation then you have too much time invested to just throw it away and try a different approach.
@@ -57,7 +57,7 @@ Robert Kosara says…
 >	I agree that it takes time to get the final details right and to explain what exactly you did, but you should be able to get 90% of the visualisation done in a very short amount of time.  (The final 10% always takes the longest of course)
 
 <a href="http://had.co.nz" rel="nofollow noopener" target="_blank">Hadley Wickham</a> says…
->	<p>The reason I don't blog is not because I'm worried people will steal my ideas, but because I don't have the time. &nbsp;I already spend a huge amount of my day communicating my ideas - to my students in class, with colleagues via chat and emails, on mailing lists, writing papers, writing a book, and writing (and documenting!) code that others can use. &nbsp;I also feel like I'm near the my correspondence limits with email already - there's just no way I'd have the time to moderate and respond to blog comments as well.</p>
+>	<p>The reason I don't blog is not because I'm worried people will steal my ideas, but because I don't have the time.  I already spend a huge amount of my day communicating my ideas - to my students in class, with colleagues via chat and emails, on mailing lists, writing papers, writing a book, and writing (and documenting!) code that others can use.  I also feel like I'm near the my correspondence limits with email already - there's just no way I'd have the time to moderate and respond to blog comments as well.</p>
 
 <a href="http://carlosscheidegger.wordpress.com" rel="nofollow noopener" target="_blank">Carlos Scheidegger</a> says…
 >	I'm always reluctant to claim "not enough time", because clearly there's people with more on their plates than I do, and yet they write prolifically (Terence Tao is the best example I know). I suspect the reason in our case is a lack of culture: we simply haven't learned how to blog about visualization. 
@@ -122,7 +122,7 @@ Robert Kosara says…
 >	<p>I have a few postings on here that actually talk about this, and maybe I'll put together something to make my position clearer. The point of this posting was to make people think and get a discussion going, not so much precision and definition. Looks like the first part worked. ;)</p>
 
 Robert Kosara says…
->	<p>I would argue that if you're <em>only</em> looking at pictures, you're not doing visualization. As I tried to clarify above, what I miss in a lot of work is the readability. It's not hard to make something visual that is based on data, but it's much more difficult to make it possible for people to understand the data from the image. And I don't see why we would be over that &ndash;&nbsp;that's the whole point!</p>
+>	<p>I would argue that if you're <em>only</em> looking at pictures, you're not doing visualization. As I tried to clarify above, what I miss in a lot of work is the readability. It's not hard to make something visual that is based on data, but it's much more difficult to make it possible for people to understand the data from the image. And I don't see why we would be over that &ndash; that's the whole point!</p>
 
 </aside>
 

@@ -1,6 +1,6 @@
 ---
 title: "IEEE VIS 2018, Part 1: VisComm, VisInPractice, BELIV, Best Papers"
-description: "The&nbsp;IEEE VIS conference&nbsp;is the most important outlet for academic research. This year's conference took place in Berlin, Germany. Here is a report on some of the most interesting (to me, anyway) papers, events, and developments, in three parts.&nbsp;"
+description: "The IEEE VIS conference is the most important outlet for academic research. This year's conference took place in Berlin, Germany. Here is a report on some of the most interesting (to me, anyway) papers, events, and developments, in three parts. "
 date: 2018-10-29 19:40:02
 tags: conference, IEEEVIS
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0271.jpg
@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0271.j
 
 # IEEE VIS 2018, Part 1: VisComm, VisInPractice, BELIV, Best Papers
 
-The&nbsp;<a href="https://ieeevis.org/">IEEE VIS conference</a>&nbsp;is the most important outlet for academic research. This year's conference took place in Berlin, Germany. Here is a report on some of the most interesting (to me, anyway) papers, events, and developments, in three parts.&nbsp;
+The <a href="https://ieeevis.org/">IEEE VIS conference</a> is the most important outlet for academic research. This year's conference took place in Berlin, Germany. Here is a report on some of the most interesting (to me, anyway) papers, events, and developments, in three parts. 
 
 As usual, I link to paper websites and materials where possible. Luckily, many papers this year had paper or project webpages and code or materials available. While still not entirely a given, the majority of papers have at least something available (even if it’s only the paper manuscript itself).
 
@@ -31,7 +31,7 @@ BELIV’s topic for the keynote (which I missed) and papers this year was replic
 
 The <em><a href="http://www.visinpractice.rwth-aachen.de">Vis In Practice</a></em> program aims to make the VIS conference more interesting and appealing for practitioners and people from the industry, not just the academics it primarily serves. This year was the first time they organized a full day’s worth of talks, I believe, and they brought in a good number of interesting speakers.
 
-Among them was Maarten Lambrechts, who talked about&nbsp;<em>xenographics</em>, or unusual data visualizations. He had many interesting examples of how journalists and others create unusual ways to show data for specific purposes, like fitting them onto screens, to get attention, etc. He has collected a whole zoo of them on <a href="https://xeno.graphics">the xenographics website</a>.
+Among them was Maarten Lambrechts, who talked about <em>xenographics</em>, or unusual data visualizations. He had many interesting examples of how journalists and others create unusual ways to show data for specific purposes, like fitting them onto screens, to get attention, etc. He has collected a whole zoo of them on <a href="https://xeno.graphics">the xenographics website</a>.
 
 Jan Willem Tulp spoke about his work with the European Space Agency (ESA) and creating guided visualizations with 60,000 data points in the browser, like <a href="http://sci.esa.int/gaia-stellar-family-portrait/">he did for data from the Gaia space telescope</a>.
 

@@ -14,7 +14,7 @@ I see a lot of discussions of misleading charts lately, and there are certainly 
 
 A <a href="https://www.nytimes.com/2019/07/16/science/5g-cellphones-wireless-cancer.html?emc=rss&amp;partner=rss">recent NYTimes Story about a chart showing cell phone radiation risk</a> is a good example. The chart in question is this one showing microwave absorption in brain tissue depending on frequency. It has been used in lawsuits claiming that cell phones cause harm to children’s development. What’s wrong with the chart?
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/microwave-absorption.png" alt="" class="wp-image-12266"/></figure>
+<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/microwave-absorption.png" alt="" class="wp-image-12266" width="709" height="575"/></figure>
 
 Nothing. There’s nothing wrong with this chart or the data. It’s a good enough chart showing how the rate of absorption increases sharply with higher frequencies. The data is also correct, for all we know.
 
@@ -28,7 +28,7 @@ And yet, the NY Times story’s subhead reads, <em>How one scientist and <strong
 
 Another chart that was making the rounds to much derision a little while ago is this one showing global temperatures over time. In contrast to the famous “hockey stick” chart, however, it’s in Fahrenheit and scaled to start from zero.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/global-warming-zero.jpg" alt="" class="wp-image-12265"/></figure>
+<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/global-warming-zero.jpg" alt="" class="wp-image-12265" width="820" height="461"/></figure>
 
 There have been endless arguments about whether charts should start at zero in general, and this one in particular. Is a chart correct if it doesn’t start from zero? Isn’t that wrong? Then what about this one? The whole discussion is as tedious as it is pointless.
 

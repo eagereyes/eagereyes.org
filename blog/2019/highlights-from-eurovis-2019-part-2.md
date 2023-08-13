@@ -30,13 +30,11 @@ For <a href="http://idl.cs.washington.edu/papers/idyll-analytics/"><em>Capture a
 
 Jeff Heer gave a great capstone talk titled, <em>Visualization Is Not Enough</em>. He covered a large range of topics, from questions largely within visualization to how visualization interacts with other fields, particularly AI. I found his framing around <em>points of potential failure</em> particularly interesting.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/58C5C099-48C7-4E5B-B5FA-F9E0EAFDCCBE.jpeg" alt="" class="wp-image-12311"/></figure>
+<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/58C5C099-48C7-4E5B-B5FA-F9E0EAFDCCBE.jpeg" alt="" class="wp-image-12311" width="582" height="314"/></figure>
 
 You can watch his talk below <a href="https://www.youtube.com/watch?v=bXrhrrgLPKg">or at this link</a> and <a href="https://homes.cs.washington.edu/~jheer/talks/EuroVis2019-Capstone.pdf">check out the slides here</a>.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://www.youtube.com/watch?v=bXrhrrgLPKg
-</div></figure>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/bXrhrrgLPKg?si=uD5RivOvU0xJUJvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 Next year’s conference will take place May 25–29 in Norrköping, Sweden. The biggest difference though is that it will be <a href="https://conferences.eg.org/egev20/">combined with the Eurographics conference</a>. This means an earlier submission deadline for one, since the conference is a bit earlier. I don’t think they’ve published a deadline yet, but this could easily collide with the late Thanksgiving this year in the U.S.
 

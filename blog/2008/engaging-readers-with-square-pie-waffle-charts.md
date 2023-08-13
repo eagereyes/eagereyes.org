@@ -19,7 +19,7 @@ Showing the same information in a bar chart may have been more "standard," but a
 
 The chart also makes a point: that the savings are a tiny fraction of the debt. There is really no way not to see that. And that is visual communication beyond simple data visualization. A bar chart would not be able to do that, unless it essentially claimed that the savings were zero.
 
-Kaiser at Junk Charts <a href="http://junkcharts.typepad.com/junk_charts/2008/06/the-right-scale.html">criticized the following chart</a>&nbsp;(New York Times magazine, April 27, 2008):
+Kaiser at Junk Charts <a href="http://junkcharts.typepad.com/junk_charts/2008/06/the-right-scale.html">criticized the following chart</a> (New York Times magazine, April 27, 2008):
 
 <p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/nytimes-20080427-extracredit-squarepie.jpg" border="0" alt="NYTimes graph on time spent studying for different subjects" /></p>
 
@@ -29,9 +29,9 @@ I actually think that this chart is quite clever. It uses a 10x10 grid as the ba
 
 In short, the chart has a style and a message. Good charts do not only have to be correct, they also have to be appealing. And this is well done here.
 
-There is also a collection of <a href="http://www.enterprise-dashboard.com/2008/05/06/the-square-pie-chart/">good examples of pie charts in business graphics</a>. Some of them may be a bit overloaded, but compared with other sins committed in business graphics and dashboards, it's very tame. I'd take a matrix/waffle/square pie chart over gauges and artificial horizons any day. Perhaps the influence of <a href="/Techniques/Treemaps.html">treemaps</a>&nbsp;in business also helps make these charts look more familiar and thus more acceptable.
+There is also a collection of <a href="http://www.enterprise-dashboard.com/2008/05/06/the-square-pie-chart/">good examples of pie charts in business graphics</a>. Some of them may be a bit overloaded, but compared with other sins committed in business graphics and dashboards, it's very tame. I'd take a matrix/waffle/square pie chart over gauges and artificial horizons any day. Perhaps the influence of <a href="/Techniques/Treemaps.html">treemaps</a> in business also helps make these charts look more familiar and thus more acceptable.
 
-There is no doubt that we need to be careful about the choice of visual representation, and that we need to encourage the use of good charts and criticize the bad ones. But that doesn't mean we can get lazy and squeeze everything into a few standard charts types we've been using for decades. That is especially true if we want people to actually care about what we're trying to show &ndash;&nbsp;and not bore them to tears.
+There is no doubt that we need to be careful about the choice of visual representation, and that we need to encourage the use of good charts and criticize the bad ones. But that doesn't mean we can get lazy and squeeze everything into a few standard charts types we've been using for decades. That is especially true if we want people to actually care about what we're trying to show &ndash; and not bore them to tears.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on September 07, 2008_
@@ -50,7 +50,7 @@ _Posted by <a href="/about">Robert Kosara</a> on September 07, 2008_
 >	The stacked bar variant of the waffle chart at the top of the article improves on the square pie by constraining most growth to the horizontal dimension, so comparisons are mostly linear rather than areal. The brick chart showing minutes in class also has its measurements constrained mostly in the vertical dimension. For a quick impression the relative thickness of the layers is sufficient, while the reader who wants a more detailed look isn't too badly inconvenienced by mentally integrating the partial fill of the top layer of the segment.
 
 Robert Kosara says…
->	<p>Heh, my initial notes said "respond to Jon Peltier's criticism" - I've seen you post links and make statements about these charts, and I will look into those in more detail soon. And I'm not entirely disagreeing with you: that&nbsp;<a href="http://www.enterprise-dashboard.com/2008/05/06/the-square-pie-chart/">business graphics page</a>&nbsp;I linked above has one chart with a hole in the middle and a very uneven layout, for example.&nbsp;But there is no chart type that can't be abused. Overall though, I think that these are much better than the traditional pie charts.</p>
+>	<p>Heh, my initial notes said "respond to Jon Peltier's criticism" - I've seen you post links and make statements about these charts, and I will look into those in more detail soon. And I'm not entirely disagreeing with you: that <a href="http://www.enterprise-dashboard.com/2008/05/06/the-square-pie-chart/">business graphics page</a> I linked above has one chart with a hole in the middle and a very uneven layout, for example. But there is no chart type that can't be abused. Overall though, I think that these are much better than the traditional pie charts.</p>
 >	<p>As I said in <a href="/Techniques/SquarePieCharts.html">my original square pie charts posting</a>, it's probably a good idea to lay the chart out like a squarified treemap. That makes the parts as comparable as possible &ndash; perhaps not perfect, but still better and more accurate than pie charts.</p>
 
 Jason says…
@@ -63,7 +63,7 @@ Jason says…
 >	Now, as for whether I think the square charts are interesting.  Boredom, is a large barrier to learning.  Diversity of presentation is good, when applied in a thoughtful way.  So, I like them.  Of course, if square charts were the 99% norm, I would say the same for bar charts.
 
 Robert Kosara says…
->	<p>True, but it's still an interesting comparison. Perhaps it would have made sense to compare the savings to the average monthly mortgage payment &ndash;&nbsp;which is undoubtedly at least twice the yearly savings. I also wonder how well you can project savings, I've seen a graphic somewhere showing how savings have declined over the last 30 years and how instead people have been taking on more and more debt.</p>
+>	<p>True, but it's still an interesting comparison. Perhaps it would have made sense to compare the savings to the average monthly mortgage payment &ndash; which is undoubtedly at least twice the yearly savings. I also wonder how well you can project savings, I've seen a graphic somewhere showing how savings have declined over the last 30 years and how instead people have been taking on more and more debt.</p>
 
 dietmar says…
 >	

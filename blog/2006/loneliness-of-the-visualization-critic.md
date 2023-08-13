@@ -2,7 +2,7 @@
 title: "The Loneliness of the Visualization Critic"
 description: "At a panel discussion at Vis 2006, we were blasted for raising the question, Is there Science in Visualization? A senior visualization researcher said that he was embarrassed that this question was being discussed, and that we were trying to push our way of doing things on the community. The panel was still a success, but this proved just how far we still have to go."
 date: 2006-11-06 21:00:38
-tags: 
+tags: criticism
 featuredImage: 
 outline: false
 ---
@@ -24,7 +24,7 @@ What does all this mean for <a href="/VisCrit/VisualizationCriticism.html">visua
 The panel clearly was a success, though: we received the Best Panel Award, based on "attendance, the quality of presentation, the interaction with the audience, and the potential for impact on the field."
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 06, 2006_
+_Posted by <a href="/about">Robert Kosara</a> on November 06, 2006. Filed under [criticism](/section/criticism)._
 
 
 <aside class="comments">

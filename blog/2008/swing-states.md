@@ -168,7 +168,7 @@ Merle says…
 >	<p>I hope you enjoy this. If you want to comment this (and I would really like it), please visit my blog http://whatype.files.wordpress.com</p>
 
 Robert Kosara says…
->	<p>Looks like I need to post more bad visualizations &ndash;&nbsp;these are great responses! I will have to digest them a bit and then I'll put together a summary of what I've seen and what I think.</p>
+>	<p>Looks like I need to post more bad visualizations &ndash; these are great responses! I will have to digest them a bit and then I'll put together a summary of what I've seen and what I think.</p>
 
 <a href="http://i-ocean.blogspot.com/" rel="nofollow noopener" target="_blank">derek</a> says…
 >	<p>Even a crude division into "West", "South" and "East" states brings more pattern into view. The ordering within areas is the same centre-of-gravity heuristic as in my first version.<br /> <a href="http://www.branta.demon.co.uk/politics/chart/swing5.png"><img src="http://www.branta.demon.co.uk/politics/chart/swing5.png" alt="" width="500" />click for larger image</a><br />Obviously other sortings within or between the three areas are possible, for instance WV, KY, TN and MO seem to make a group, as do HI, CA, OR and WA (but what about Alaska?)</p>
@@ -180,23 +180,23 @@ Robert Kosara says…
 >	<p>Enrico.</p>
 
 Anonymous says…
->	<p>This does nothing to help the colorblind.&nbsp; I cant see the difference between the dots on the images at the top.&nbsp; Its useless to me.</p>
+>	<p>This does nothing to help the colorblind.  I cant see the difference between the dots on the images at the top.  Its useless to me.</p>
 
 Robert Kosara says…
 >	<p>That's interesting input, thanks! What about the <a href="http://elections.nytimes.com/2008/results/president/map.html">N</a><a href="http://elections.nytimes.com/2008/results/president/map.html">Y Times election map</a>? Those colors are closer in luminance than mine, imho - can you distinguish those? I'm working on a further version of this, and will make the colors easier to differentiate in the future.</p>
 
 Matthew D Healy says…
->	<p>Here is my version, done entirely within Excel.&nbsp; Aside from adding the 2008 results, for my sort order I chose a weighted count of "D" since 1980 where 2008 has a weight of 1.0, 2004 has a weight of 0.8, 2000 has a weight of 0.64, and so forth, in order to rank states according to both how frequently they voted one or the other way, and how recently:</p>
+>	<p>Here is my version, done entirely within Excel.  Aside from adding the 2008 results, for my sort order I chose a weighted count of "D" since 1980 where 2008 has a weight of 1.0, 2004 has a weight of 0.8, 2000 has a weight of 0.64, and so forth, in order to rank states according to both how frequently they voted one or the other way, and how recently:</p>
 >	<p>http://mdhealy.home.sprynet.com/Elections_1904_2008.png</p>
 >	<p><br />One thing I like about my sort order is how it highlights States that have gone against their trend in recent elections.</p>
 
 Matthew D Healy says…
->	<p>The book <em>Red State Blue State Rich State Poor State</em> by Andrew Gelman has many interesting visualizations of statistical data about US voting by State.&nbsp; Perhaps the most important and interesting point made in the book is that two main patterns dominate the overall picture: States where the median income is high tend to vote Democratic while individuals whose income is high tend to vote Republican, because voting tends to be determined by a balance of cultural and economic influences.&nbsp; Rich States tend to have cultural factors favoring Democrats, while rich individuals tend to have economic interests favoring Republicans.</p>
->	<p>&nbsp;</p>
+>	<p>The book <em>Red State Blue State Rich State Poor State</em> by Andrew Gelman has many interesting visualizations of statistical data about US voting by State.  Perhaps the most important and interesting point made in the book is that two main patterns dominate the overall picture: States where the median income is high tend to vote Democratic while individuals whose income is high tend to vote Republican, because voting tends to be determined by a balance of cultural and economic influences.  Rich States tend to have cultural factors favoring Democrats, while rich individuals tend to have economic interests favoring Republicans.</p>
+>	<p> </p>
 
 Matthew D Healy says…
->	<p>That's one reason why my version includes the party letters.&nbsp; Also I dislike having to refer to a key so when possible I try to make my graphics self-explanatory without any key.</p>
->	<p>&nbsp;</p>
+>	<p>That's one reason why my version includes the party letters.  Also I dislike having to refer to a key so when possible I try to make my graphics self-explanatory without any key.</p>
+>	<p> </p>
 
 </aside>
 

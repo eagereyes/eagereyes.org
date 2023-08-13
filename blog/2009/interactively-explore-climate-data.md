@@ -35,12 +35,12 @@ _Posted by <a href="/about">Robert Kosara</a> on December 11, 2009_
 >	<p>This is very nice. Definitely shows the trends in a clear way. I'd love to have you get involved in the discussion at the #climatedata forum - <a href="http://climatedata.blprnt.com" target="_blank">http://climatedata.blprnt.com</a></p>
 
 <a href="http://www.flinklabs.com" rel="nofollow noopener" target="_blank">Ben</a> says…
->	<p>This is a very excellent representation. The 2d geo viz and our 3d one both show the changing temp within a year but do very very little in showing the gradual year on year increase.&nbsp;</p>
+>	<p>This is a very excellent representation. The 2d geo viz and our 3d one both show the changing temp within a year but do very very little in showing the gradual year on year increase. </p>
 >	<p>Your representation highlighting the flattening of the curve over time is brilliant!!</p>
 
 <a href="http://www.novonon.com" rel="nofollow noopener" target="_blank">Egg Davis</a> says…
 >	<p>Robert,</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p>Nice! I haven't seen anyone interactively link the annual cycle to long-term changes in this way before. Neither the grey background nor the standard dev shows up for me (I'm running FF 3.5.5 under XP).</p>
 
 Robert Kosara says…
@@ -55,7 +55,7 @@ Robert Kosara says…
 
 <a href="http://neoformix.com" rel="nofollow noopener" target="_blank">Jeff Clark</a> says…
 >	<p>I pointed out a couple of potential problems on twitter this morning and thought it made sense to attach them to this post in a more clear form.</p>
->	<p>First of all, I like very much the general approach taken here and agree that linking the annual curve with the longer term trend works well. As Robert admitted this morning these graphs are for all the stations. The video by&nbsp;<a href="http://vimeo.com/rockitbaby"></a>Michael Schieben at http://vimeo.com/8102161 shows quite clearly how the number and geographic location of these weather stations varies over time.</p>
+>	<p>First of all, I like very much the general approach taken here and agree that linking the annual curve with the longer term trend works well. As Robert admitted this morning these graphs are for all the stations. The video by <a href="http://vimeo.com/rockitbaby"></a>Michael Schieben at http://vimeo.com/8102161 shows quite clearly how the number and geographic location of these weather stations varies over time.</p>
 >	<p>This means we cannot simply draw conclusions regarding the overall temperature trend or the annual curve because<strong> the underlying data does not cover a consistent geographic region</strong>. The fact that the average temperature shown in the curve is so obviously higher in the 1900's than in the 1700's is at least partially due to the fact that the data from the 1700's was all from europe whereas the data from the 1900's was global and included warmer parts of the world. The jump in average temperature in 1951 is because the data from many new weather stations in Africa were added at that time. Again, Michael's video shows this clearly.</p>
 >	<p>You can see that Robert's curve gets smoother over time. This is because there are more stations over time so it averages out more of the variation in the data.</p>
 >	<p>I suspect some of the flattening of the annual curve is because initially the data was all from europe and gradually more stations from the southern hemisphere were added in later years. The difference in seasonality between the hemispheres means that adding them together will flatten it.</p>
@@ -72,7 +72,7 @@ Robert Kosara says…
 >	<p>Since anomalies are differences between a station's actual and baseline values, it is appropriate to compute average anomales across a number of stations.</p>
 >	<p>Most longterm climate studies use temperature anomalies rather than the raw data.</p>
 >	<p>I have a number of charts of long term anomaly trends at http://chartsgraphs.wordpress.com/climate-trends/.</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p>D Kelly O'Day</p>
 >	<p>http://chartsgraphs.wordpress.com</p>
 

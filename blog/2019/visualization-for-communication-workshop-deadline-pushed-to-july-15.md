@@ -13,7 +13,7 @@ outline: false
 
 You may not be aware that we’re organizing the Visualization for Communication (VisComm) workshop at VIS again this year. That’s why we’ve decided to push back the deadline to July 15, so you can submit all your amazing research papers, position papers, posters, and visual case studies.
 
-We had <a href="https://viscomm.io/schedule-2018.html">a nice program at last year</a> and quite a bit of interest at the conference –&nbsp;more than I expected, to be honest, especially given the competition with other workshops, tutorials, and even Information+.
+We had <a href="https://viscomm.io/schedule-2018.html">a nice program at last year</a> and quite a bit of interest at the conference – more than I expected, to be honest, especially given the competition with other workshops, tutorials, and even Information+.
 
 The workshop covers anything related to using visualization for communication: journalism, non-profits, education, business presentation; broad dissemination or one-to-one; academic research and practical perspectives.
 

@@ -74,7 +74,7 @@ _Posted by <a href="/about">Robert Kosara</a> on September 30, 2008_
 >	EagerEyes does look a lot like a blog :P. You've got the entries on the left and recent posts and comments in the sidebar and everything sort of flows like a blog. Maybe a homepage that shows a greater separation between what belongs to "blog" and what belongs to something else might help with the mistake?
 
 Robert Kosara says…
->	<p>You're right, and I'm actually working on a design for the front-page that will make it look less bloggy. But I do like the list format, so there will still be pages that list articles from particular categories or just the "feed." It takes a ton of tweaking to combine the best of both worlds and find a good balance for how much stuff to show &ndash;&nbsp;and not be overpowering or look bare.</p>
+>	<p>You're right, and I'm actually working on a design for the front-page that will make it look less bloggy. But I do like the list format, so there will still be pages that list articles from particular categories or just the "feed." It takes a ton of tweaking to combine the best of both worlds and find a good balance for how much stuff to show &ndash; and not be overpowering or look bare.</p>
 
 <a href="http://chandoo.org/wp" rel="nofollow noopener" target="_blank">Chandoo</a> says…
 >	Hi Robert, Congrats on crossing the 2 year milestone. It takes huge amounts of passion and commitment to keep on talking about topics you care about. Keep up the good work.

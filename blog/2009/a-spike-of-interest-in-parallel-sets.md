@@ -39,7 +39,7 @@ _Posted by <a href="/about">Robert Kosara</a> on March 15, 2009_
 ## Comments
 
 <a href="http://www.ii.UiB.no/vis/" rel="nofollow noopener" target="_blank">Helwig Hauser</a> says…
->	<p>Nice to read that parallel sets attract attention (again) -- indeed I still think that this approach is a step forward in dealing with categorical data (in visualization).&nbsp; Maybe also the Set'o'gram, as presented last year at the InfoVis conference (and published in Freiler et al., Interactive Visual Analysis of Set-Typed Data; TVCG 14(6):<span>1340-1347), is adding to this strand of new visualization opportunities. </span></p>
+>	<p>Nice to read that parallel sets attract attention (again) -- indeed I still think that this approach is a step forward in dealing with categorical data (in visualization).  Maybe also the Set'o'gram, as presented last year at the InfoVis conference (and published in Freiler et al., Interactive Visual Analysis of Set-Typed Data; TVCG 14(6):<span>1340-1347), is adding to this strand of new visualization opportunities. </span></p>
 >	<p><span>Best regards,<br />HH</span></p>
 >	<p><span><br /></span></p>
 
@@ -62,7 +62,7 @@ Tom Coveney says…
 >	<p>Am looking forward to hearing news of the codes release</p>
 
 Colm O'Brien says…
->	<p>I read the article on the BBC website and was very interested. Your parallel sets graphing&nbsp;technique is a powerful tool in&nbsp;summarising multiple bits of information on the same graph.</p>
+>	<p>I read the article on the BBC website and was very interested. Your parallel sets graphing technique is a powerful tool in summarising multiple bits of information on the same graph.</p>
 >	<p>I look forward to the release of the software...</p>
 
 farhan says…

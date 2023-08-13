@@ -17,11 +17,11 @@ The big issue with investigating the visual cues used to read pies is that they 
 
 This is where 3D pies come in. Using <a href="https://en.wikipedia.org/wiki/Parallel_projection">parallel projection</a> (also called isometric or orthographic), the different visual cues get distorted in different ways, which lets me separate them from each other. The obvious one is the angle at the center: starting from a 30º slice, at a 15º view angle, there's a roughly 12-fold difference between the smallest and the largest angle as it rotates around the pie.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/10/3d-pies.png" alt="" class="wp-image-12411"/></figure>
+<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/10/3d-pies.png" alt="" class="wp-image-12411" width="660" height="72" /></figure>
 
 The distortion is even more severe with arc length, which differs by a factor of about 40. What is not distorted, however, is area! For a given view angle and value, the area of a slice does not change as it rotates around the pie.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/10/pie-distortions.png" alt="" class="wp-image-12412"/><figcaption>Distortions to central angle and arc length as the slice rotates around, as a multiple of the base value, for different view angles.</figcaption></figure>
+<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/10/pie-distortions.png" alt="" class="wp-image-12412" width="660" height="268" /><figcaption>Distortions to central angle and arc length as the slice rotates around, as a multiple of the base value, for different view angles.</figcaption></figure>
 
 So for this study, I modeled the distortions and compared people's responses to my model predictions. The best-fitting model is the best explanation for how people read charts.
 

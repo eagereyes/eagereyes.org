@@ -62,7 +62,7 @@ Computer science has its own ideas about doing things, of course, which strongly
 
 Computing does bring a lot to the table too, though. Tools like Tableau, libraries like D3, the ability to store and process virtually any amount of data, etc. – those don't just come out of nowhere. If visualization had emerged from another field, we probably wouldn't have any of those things. That isn't to say that this is the best possible reality, but it's the one we're in. Considering the alternatives is helpful to understand our biases that come out of that, and hopefully start to address those. This is happening slowly with researchers embracing (or at least recognizing the value of) sketching, using data journalism pieces to understand how data can communicate, and even making the occasional piece of data art.
 
-&nbsp;
+ 
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 22, 2018_

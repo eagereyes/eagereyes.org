@@ -95,7 +95,7 @@ David Janes says…
 
 <a href="http://chartsgraphs.wordpress.com" rel="nofollow noopener" target="_blank">D Kelly O'Day</a> says…
 >	<p>Robert:</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p>Two points:</p>
 >	<p>1. <strong>Anomalies, not raw termperature please</strong>: As I pointed out in my comment on your previous climate data post, when working with multiple stations, you need to work with temperature anomalies not readings to get any meaningfull results of long term temperature changes.</p>
 >	<p>2.<strong> Look at what others have done</strong>: Here are 3 links to see what others have done:</p>
@@ -105,7 +105,7 @@ David Janes says…
 >	<li><a href="http://data.giss.nasa.gov/gistemp/" target="_blank">NASA GISS</a></li>
 >	</ul>
 >	<p>As a data visualization advocate, I think you could contribute more by evaluating the state of climate visualization rather than jsut starting from scratch. I think you may be surprised to see that some good data visualization work has already been done by climate scientists.</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p>D Kelly O'Day</p>
 >	<p>http://chartsgraphs.wordpress.com</p>
 
@@ -122,18 +122,18 @@ David Janes says…
 
 <a href="http://chartsgraphs.wordpress.com" rel="nofollow noopener" target="_blank">D Kelly O'Day</a> says…
 >	<p><strong><em>"I don't see how you can measure anomalies by comparing to a baseline period that is so recent, for example, and that already showed considerable temperature change."</em></strong></p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p>Climate trends show a multi-decadal variation, so a 30 periiod is usually used for the baseline. This is important when you are adding together several stations. A 1 C anomaly in Washington DC is the same as a 1 C anomaly in Boston. Both are 1 C above their respective baseline values.</p>
 >	<p>Climate science is trying to understand changes locally, regionally and globally. How can we realistically compare temperature trends in Alaska and Florida, Alaska is much colder than Florida? We really want to see how their trends compare.</p>
 >	<p>This is particularly important when we consider polar amplification. The farther north the greater the temperature anomaly change. I writtten a little more about this here:</p>
 >	<p>http://chartsgraphs.wordpress.com/2009/02/19/temperature-anomaly-data-displays/</p>
->	<p>The period used for the baseline is arbitrary and does not affect the trend comparison. If you&nbsp; used a 1891-1920 baseline rather than a 1961-1990 period, the plots would be offset vertically, however the trend slopes&nbsp; would be the same.</p>
+>	<p>The period used for the baseline is arbitrary and does not affect the trend comparison. If you  used a 1891-1920 baseline rather than a 1961-1990 period, the plots would be offset vertically, however the trend slopes  would be the same.</p>
 >	<p>This is what actually occurs today: NASA GISS uses 1951-1980, Hadley uses 1961-1990. The trends are comparable; there is a slight vertical offset between the two anomaly series.</p>
 >	<p>When comparing anomaly data, we say that there has been X change from the baseline period.</p>
 
 <a href="http://blog.instantcognition.com" rel="nofollow noopener" target="_blank">Clint</a> says…
 >	<p>In your tableau workbook, you have an alternate view of the seasonal trends by decade that I think may work better. It's the bar version (worksheet name 'Month Bars'). If you convert the decade dimension on the color shelf to continuous then you get more color options and can create more visual separation between the early decades vs. the later decades. This helps distinguish the individual decades and combats the overplotting without destroying the trended view.</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p>-C</p>
 
 Robert Kosara says…
@@ -148,8 +148,8 @@ Robert Kosara says…
 
 David Janes says…
 >	<p>I just sent him a note to see what his take on it is.</p>
->	<p>&nbsp;</p>
->	<p>&nbsp;</p>
+>	<p> </p>
+>	<p> </p>
 
 Robert Kosara says…
 >	<p>I'll look into this more. Thanks!</p>
@@ -169,7 +169,7 @@ Robert Kosara says…
 
 WY says…
 >	<p>The data for Asia looks quite different from the others. Maybe the data need to be further QCed. It's tempting to speculate the upward jump in Asia around 1990, but nothing can be really said without the assurance of data quality. Since it's a large continent, it might be helpful to look at the stations in Russia, Japan and India seperately (very few stations in China though)...</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 
 Robert Kosara says…
 >	<p>Thanks for the suggestion! Now I wish I could do transparency too, because the overplotting is actually a bit problematic.</p>

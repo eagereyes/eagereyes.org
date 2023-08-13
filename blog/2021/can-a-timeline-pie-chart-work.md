@@ -13,7 +13,7 @@ Can you put ranked data into a pie chart that also represents time? This chart t
 
 This chart was <a href="https://twitter.com/CAL_FIRE/status/1436410274408386560">posted by Cal Fire</a> a few days ago on Twitter. It shows the acres burned by the 20 largest wildfires in California.
 
-<figure class="aligncenter size-medium is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-pie-660x660.jpeg" alt="" class="wp-image-97586" width="330" height="330"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-pie.jpeg" alt="" class="wp-image-97586" width="660" height="660"/></p>
 
 Yes it's a pie chart. We're looking at ranked data here, even though the chart isn't sorted by size of the fire. It's sorted by time, when the fire started. The color scheme is chosen to group fires before 2000, from 2000-2019, and then 2020 and 2021.
 
@@ -21,7 +21,7 @@ The pie chart is clearly the wrong chart here because it's not a part-to-whole c
 
 I figured I'd try the usual, <em>this should have been a bar chart</em>. I'm not copying all the colors here, just roughly following their color scheme for the years. You can see which of the fires happened last year and this (red and orange), and also the three that occurred before 2000 (dark gray).
 
-<figure class="wp-block-image size-large is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-bars-1320x990.png" alt="Bar chart of fires" class="wp-image-97585" width="660" height="495"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-bars.png" alt="Bar chart of fires" class="wp-image-97585" width="660" height="495"/></p>
 
 I don't think it works all that well, though. I'm sorting by acres burned, so I'm losing the time grouping (other than through color). But even so, the part-to-whole comparison here is much harder than with the pie. Comparing the sizes of fires is certainly much easier, but that's not the point of the chart.
 

@@ -17,7 +17,7 @@ The posting frequency reflected my level of interest and fatigue: I tend to need
 
 Writing while listening also didn't give me any time to review and reflect what I was writing. While that may be the way a lot of blogs work, it's certainly not my preferred way of writing (and <a href="/blog/2008/two-years-of-eagereyes.html">this is not a blog</a>, after all ;). I had to go back and correct typos and other mistakes a few times.
 
-I only wrote about what was presented at the conference, I did not read the papers. The presentation certainly makes some things look more exciting than they really are, and may even hurt good work.&nbsp;Hadley commented on one entry that he was not excited about a paper I liked, and I've been contacted about another posting I made where I said that I found a paper less than exciting. Putting out my personal impressions opens the door for criticism, and also corrections.
+I only wrote about what was presented at the conference, I did not read the papers. The presentation certainly makes some things look more exciting than they really are, and may even hurt good work. Hadley commented on one entry that he was not excited about a paper I liked, and I've been contacted about another posting I made where I said that I found a paper less than exciting. Putting out my personal impressions opens the door for criticism, and also corrections.
 
 One last thing I'm going to say about this is how easy it was to build the infrastructure for the live-blog using Drupal's <em>Content Construction Kit</em> and <em>Views</em>. I spent the most time tweaking the design of the box and display of the messages and feed. Setting up the new posting type etc. was really easy once I had figured out how to use Views.
 

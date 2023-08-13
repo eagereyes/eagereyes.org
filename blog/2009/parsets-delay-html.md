@@ -15,7 +15,7 @@ I'm very sorry, but we have to delay the release. We need to make sure that we h
 
 This is clearly my fault for not checking these things earlier. It had been my understanding that that would just be a formality &ndash; and it may well be, it's just taking longer because of bad timing. The issue is whether we have to submit the software for a review (which we do for publications, and it's not clear if that applies to software, too), and then how long that might take (it's pretty quick for papers, but I can't tell if it might be different for software).
 
-I have no doubt that we will be able to release the software, it is just a matter of when.&nbsp;The program is also ready to go. We will keep working on it in the meantime, but will release it the moment we get the go-ahead.
+I have no doubt that we will be able to release the software, it is just a matter of when. The program is also ready to go. We will keep working on it in the meantime, but will release it the moment we get the go-ahead.
 
 At least, this has given me another opportunity to play with the gorgeous Bauhaus font. As I wrote elsewhere, typography is a drug.
 

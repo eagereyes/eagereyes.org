@@ -71,8 +71,8 @@ Stefan M says…
 
 aresnick says…
 >	<p>You say, "The current view of course is that visualization systems should be designed in a way that is useful to domain experts with little to no knowledge of visualization. In reality, of course these are not the actual users of visualizations: rather, the tools are run by their developers, in communication with the domain experts."</p>
->	<p>&nbsp;</p>
->	<p>I've no real experience with information visualization, and I was wondering how this meshes with <a href="../../blog/2009/a-better-vis-web-community.html">your recent post</a> about the desire for substance in the infoviz community.&nbsp; In particular, I didn't realize there already was a community around pairing infoviz experts with domain experts.&nbsp; Is this within the context of consulting?&nbsp; I came by these posts while searching for examples of how infoviz experts work _with_ domain experts, thinking that there were few.&nbsp; I'd be especially interested to hear about examples of domain experts and infoviz experts meeting halfway, where each gets familiar with the others' skillset (maybe by diving into molecular biology/playing with Processing) to mutual benefit.</p>
+>	<p> </p>
+>	<p>I've no real experience with information visualization, and I was wondering how this meshes with <a href="../../blog/2009/a-better-vis-web-community.html">your recent post</a> about the desire for substance in the infoviz community.  In particular, I didn't realize there already was a community around pairing infoviz experts with domain experts.  Is this within the context of consulting?  I came by these posts while searching for examples of how infoviz experts work _with_ domain experts, thinking that there were few.  I'd be especially interested to hear about examples of domain experts and infoviz experts meeting halfway, where each gets familiar with the others' skillset (maybe by diving into molecular biology/playing with Processing) to mutual benefit.</p>
 
 </aside>
 

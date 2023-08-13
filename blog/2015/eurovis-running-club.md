@@ -26,7 +26,7 @@ I know you're wondering: <em>what if I'm not running, will there be opportunitie
     <li>Finally, Drew Skau will give the talk on Wednesday morning (session FP6) on our paper with Lane Harrison, <i>An Evaluation of the Impact of Visual Embellishments in Bar Charts</i>. There will be a separate posting about this paper on Sunday.</li>
 </ul>
 
-&nbsp;
+ 
 
 
 _Posted by <a href="/about">Robert Kosara</a> on May 20, 2015_

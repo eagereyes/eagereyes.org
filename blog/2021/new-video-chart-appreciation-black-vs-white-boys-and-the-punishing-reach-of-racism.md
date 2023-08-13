@@ -15,8 +15,7 @@ The visualization was part of <a href="https://www.nytimes.com/interactive/2018/
 
 I'm embedding the teaser video here, but you'll have to <a href="https://youtu.be/VDXCYV7sbmw">head over to YouTube to watch the full video</a>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YszGGETTY6A?si=w_WUhuSziJ91gNgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YszGGETTY6A?si=w_WUhuSziJ91gNgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 As always, I would appreciate feedback. This was not an easy video to make, but I think it's a great piece and the topic is obviously important.
 

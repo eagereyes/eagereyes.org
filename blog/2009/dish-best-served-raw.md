@@ -25,7 +25,7 @@ A good example for how things should be done are the <a href="http://www.census.
 
 Data.gov has inspired people around the world, <a href="http://www.guardian.co.uk/news/datablog/2009/may/28/barack-obama">and particularly in the UK</a>. The UK government is currently trying to figure out <a href="http://powerofinformation.wordpress.com/">how to build a kind of data.gov.uk</a>, and <a href="http://blogs.cabinetoffice.gov.uk/digitalengagement/post/2009/05/22/Information-and-how-to-make-it-useful.aspx">how to make that as useful as possible</a>. This is an interesting process to watch, since there wasn't much public participation in data.gov's design. There are many valid questions about data formats, feeds, etc., but the key issue is really the rawness of the data. Everything else can be handled with tools and libraries.
 
-Quite a bit of the current data on data.gov is in shape files. These are proprietary, and their geographical component isn't always that interesting. There are a number of libraries that can open these files, though, so it is quite easy to extract the tabular data and get it into a CSV file or similar. The same is true for some of the XML files, which would make more sense as CSV (and vice versa).&nbsp;Even the missing RSS feed was <a href="http://sunlightlabs.com/blog/2009/05/22/keeping-eye-datagov/">taken care of by Sunlight Labs</a>.
+Quite a bit of the current data on data.gov is in shape files. These are proprietary, and their geographical component isn't always that interesting. There are a number of libraries that can open these files, though, so it is quite easy to extract the tabular data and get it into a CSV file or similar. The same is true for some of the XML files, which would make more sense as CSV (and vice versa). Even the missing RSS feed was <a href="http://sunlightlabs.com/blog/2009/05/22/keeping-eye-datagov/">taken care of by Sunlight Labs</a>.
 
 Another question that has come up is whether such a site should be an index or a repository: link to the data hosted on a variety of websites, or provide it in a central place, perhaps with a common data model, bulk downloads, and even an API. I believe that data.gov is choosing the right middle ground here. Linking to data is much easier than hosting it, and especially trying to get it all into one data collection &ndash; a project that is guaranteed to lead to endless discussions about the correct taxonomy, data model, etc.
 
@@ -43,9 +43,9 @@ _Posted by <a href="/about">Robert Kosara</a> on June 04, 2009_
 ## Comments
 
 <a href="http://jeromecukier.net" rel="nofollow noopener" target="_blank">Jerome Cukier</a> says…
->	<p>From a data visualization expert point of view, you can't beat raw data.&nbsp;</p>
+>	<p>From a data visualization expert point of view, you can't beat raw data. </p>
 >	<p>But one ambition of data.gov was to make data available to new audiences.</p>
->	<p>My guess is that a person who only needs a data-backed answer to a simple question won't be too happy to get raw data only.&nbsp;</p>
+>	<p>My guess is that a person who only needs a data-backed answer to a simple question won't be too happy to get raw data only. </p>
 >	<p>don't get me wrong, I think it's great that raw data is becoming easier to obtain, but it's shouldn't be the one and only way to publish data.</p>
 
 Robert Kosara says…

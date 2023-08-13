@@ -168,7 +168,7 @@ The shape of a dataset is hugely important to how well it can be handled by diff
 Personified user interfaces, like chat bots or agents, are the new thing once again. But despite advances in artificial intelligence, they still have many issues and drawbacks compared to direct-manipulation interfaces. There was a debate around these interfaces in the 1990s, and it seems to be bound to repeat itself. _<a href="/blog/2016/the-personified-user-interface-trap">Read more…</a>_
 
 ### <a href="/blog/2016/the-two-paper-package">The Two-Paper Package</a>
-Much of academic work is focused on writing papers. This doesn't just include the work that goes into&nbsp;the research and the writing, but also strategy –&nbsp;beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers. _<a href="/blog/2016/the-two-paper-package">Read more…</a>_
+Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers. _<a href="/blog/2016/the-two-paper-package">Read more…</a>_
 
 ### <a href="/blog/2016/ye-olde-pie-chart-debate">Ye Olde Pie Chart Debate</a>
 You may think that the debate over pie charts was a new one, but it has raged on for at least 100 years. Brinton started it in 1914, and great drama unfolded in the pages of the Journal of the American Statistical Association in the 1920s. _<a href="/blog/2016/ye-olde-pie-chart-debate">Read more…</a>_

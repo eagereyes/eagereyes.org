@@ -12,7 +12,7 @@ In 2016, Steve Haroz, Steven Franconeri, and I published <a href="/papers/the-co
 
 In four papers published from 1999 through 2003, David Peebles, Peter Cheng, and Nigel Shadbolt looked into charts that might look familiar if you’ve seen our Connected Scatterplot paper. In the figure below, I put together Figure 1 from <a href="https://peebles.sdfeu.org/papers/pee_che_sha1999.pdf">Peebles, Cheng, and Shadbolt 1999</a> with the teaser/Figure 1 from our paper. Guess which one is which.
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/teasers-1320x1320.png" alt="" class="wp-image-44159"/></figure>
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/teasers.png" alt="" class="wp-image-44159" width="660" height="660" /></p>
 
 Peebles and Cheng (who are on three of the four papers, Shadbolt is only on one, so I’ll just refer to the two from here) are psychologists, at the time working at the University of Nottingham. <a href="https://pure.hud.ac.uk/en/persons/david-peebles/publications/">Peebles is now at the University of Huddersfield</a>, <a href="http://users.sussex.ac.uk/~peterch/">Cheng at the University of Sussex</a>. I actually must have crossed paths with Peter Cheng many years ago at the <em>Thinking with Diagrams</em> workshop and <em>Diagrams</em> conference in the late 90s and early 2000s.
 

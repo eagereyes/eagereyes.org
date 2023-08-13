@@ -21,7 +21,7 @@ Besides the examples at the very top of this posting, there are lots of others t
 
 Of course, visualization methods need to be developed by people who care about the visualization method, how it can be applied to different kinds of data, and how it supports different kinds of analysis and presentation.
 
-But a compelling visualization needs a compelling story about interesting data. If it doesn't have that, it's no longer about effective visual communication. It becomes&nbsp;visualization porn.
+But a compelling visualization needs a compelling story about interesting data. If it doesn't have that, it's no longer about effective visual communication. It becomes visualization porn.
 
 <hr />
 Teaser image from the <a href="http://www.wallstats.com/blog/">WallStats blog</a>, used with permission.

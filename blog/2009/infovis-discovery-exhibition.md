@@ -35,7 +35,7 @@ Submissions consist of:
 <ul>
 <li>A 2-page write-up following the VisWeek poster template. These should focus on: the domain and data, insights/discoveries/findings and process in which they were acquired, impact of visualization use, and representations, interactions, and tools used if any.</li>
 <li>Optional video submissions that explain your contribution.</li>
-<li>Please check the Discovery Exhibition website (<a href="http://www.discoveryexhibition.org">http://www.discoveryexhibition.org</a>)<span>&nbsp;</span>frequently for updated information on submission templates, dates, FAQ, and examples.</li>
+<li>Please check the Discovery Exhibition website (<a href="http://www.discoveryexhibition.org">http://www.discoveryexhibition.org</a>)<span> </span>frequently for updated information on submission templates, dates, FAQ, and examples.</li>
 </ul>
 
 ## Review and Rewards:

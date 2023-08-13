@@ -21,7 +21,7 @@ Actual data is much better than the Excel tables from reports that can be found 
 
 Much has been written lately about the death of newspapers and journalism. Published data is not going to replace investigative journalism, but it will add new facets to it. And it will perhaps make a new kind of reporting possible that is based purely on data. What that will look like remains to be seen, but it will <a href="/blog/visualization-sets-information-free.html">certainly involve visualization</a>.
 
-Releasing data like this is a sign that the new U.S. administration is confident in what it is doing, and comfortable with the idea of people digging around in the data. Of course, they still have control over what gets released, but it's hard to imagine the same kind of openness in the cold-war-like climate of the previous eight years. Poking around some data will also make people hungry for more, and they will &ndash; hopefully&nbsp;&ndash; demand more. And when the stream of data starts to dry up, there will perhaps be an outcry. Hopefully. One can dream.
+Releasing data like this is a sign that the new U.S. administration is confident in what it is doing, and comfortable with the idea of people digging around in the data. Of course, they still have control over what gets released, but it's hard to imagine the same kind of openness in the cold-war-like climate of the previous eight years. Poking around some data will also make people hungry for more, and they will &ndash; hopefully &ndash; demand more. And when the stream of data starts to dry up, there will perhaps be an outcry. Hopefully. One can dream.
 
 This is the reason for including the teaser image and the following three larger versions. It's difficult to appreciate these when they are too small. They are clever. They engender hope. And they are topical.
 
@@ -43,7 +43,7 @@ _Posted by <a href="/about">Robert Kosara</a> on May 21, 2009_
 
 Anonymous says…
 >	<p>Cold-war-like climate of the previous 8 years?</p>
->	<p>&nbsp;</p>
+>	<p> </p>
 >	<p>By the way, awesome pictures!</p>
 
 </aside>

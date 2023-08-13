@@ -54,7 +54,7 @@ I found the quality of the visualization papers quite good. I was a bit underwhe
 
 It's still a bit unclear to me what gets accepted and why, and the extreme breadth of the conference can be a challenge. CHI is definitely a conference to follow if you're interested in visualization, and will stay on my radar for publishing papers in the future.
 
-&nbsp;
+ 
 
 
 _Posted by <a href="/about">Robert Kosara</a> on April 26, 2015_

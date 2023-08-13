@@ -15,9 +15,7 @@ This is the second video in my <em>What is Data?</em> series, and the question t
 
 Watch the video below or <a href="https://youtu.be/xKfpBmuZkWU">head over to YouTube</a> (and while you’re there, subscribe to the channel!).
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://youtu.be/xKfpBmuZkWU
-</div></figure>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/xKfpBmuZkWU?si=FYaj0fdqk29QX7ld" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 These are the apps and websites I use and discuss in the video:
 

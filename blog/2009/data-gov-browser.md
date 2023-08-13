@@ -19,13 +19,13 @@ _Applet no longer available_
 
 That opens a window with four lists: the first three are filters, while the last one shows the datasets that have been selected. The choice box at the top of each filter picks the dimension by which to filter (such as agency, frequency, etc.), and then displays all the possible values in that dimension. You can select any number of categories in the list, and then refine your selection in the next filter. If you don't need a filter, set its dimension to "&lt;None&gt;"
 
-The detail panel shows the list of datasets that are in the intersection of all the categories you picked. Double-clicking a dataset name will take you to its data.gov page &ndash;&nbsp;unless your pop-up blocker gets in the way. If that happens, click in the checkbox below the list to get a list of URLs that you can copy.
+The detail panel shows the list of datasets that are in the intersection of all the categories you picked. Double-clicking a dataset name will take you to its data.gov page &ndash; unless your pop-up blocker gets in the way. If that happens, click in the checkbox below the list to get a list of URLs that you can copy.
 
 The lists have a "scent," i.e., they tell you how many items are in each category, and they adapt when the selection changes. The drop-down lists tell you how many categories are in each dimension.
 
 For technical reasons, the data is cached on my server (because an applet can only connect to the server it comes from). The benefit is that I'm compressing the data, which reduces download time to about 1/10th. The data is currently only updated every four hours, so there is a slight delay in changes. Should the frequency of updates increase, I might cut that down to one hour.
 
-The data has been cleaned slightly to make it a bit easier to use in the lists. The program removes&nbsp;leading and trailing whitespace, and ignores case in comparison. It's fascinating how many ways you can write "annual," and that's not even counting variations like "updated annually."
+The data has been cleaned slightly to make it a bit easier to use in the lists. The program removes leading and trailing whitespace, and ignores case in comparison. It's fascinating how many ways you can write "annual," and that's not even counting variations like "updated annually."
 
 Even with that, there are still a lot of obvious problems. The geographic coverage dimension reads almost like a thesaurus: there's <em>Continental United States</em>, <em>Continental US</em>, <em>Conterminous US</em>, and <em>Coterminous US</em>, and then there are another eight or so ways to describe the entire US, or the US plus its possessions.
 
@@ -56,7 +56,7 @@ Robert Kosara says…
 
 Robert Morton says…
 >	<p>Hi Robert,</p>
->	<p>Cool applet, thanks for sharing!&nbsp; I've posted <a href="http://www.tableausoftware.com/files/DataGov%20browser.twbx">a Tableau workbook I built</a> for browsing Data.gov for files that work well with Tableau (at this point only .csv/.xls).&nbsp; It was most recently updated on 6/15/2009, so it will need occasional refreshes from the latest metadata.</p>
+>	<p>Cool applet, thanks for sharing!  I've posted <a href="http://www.tableausoftware.com/files/DataGov%20browser.twbx">a Tableau workbook I built</a> for browsing Data.gov for files that work well with Tableau (at this point only .csv/.xls).  It was most recently updated on 6/15/2009, so it will need occasional refreshes from the latest metadata.</p>
 >	<p>-Robert</p>
 
 </aside>

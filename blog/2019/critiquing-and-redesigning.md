@@ -2,7 +2,7 @@
 title: "Critiquing and Redesigning"
 description: "Criticizing visualizations is a cottage industry of sorts, and an activity I have indulged in in the past as well. Redesigning those charts is also not uncommon, though it's usually other people's charts, and that isn't always welcome. Sarah Leo of The Economist has redesigned some of the charts made by that publication, and not only do her redesigns work better, her thoughts around some of the design issues are also very insightful."
 date: 2019-04-17 21:12:27
-tags: 
+tags: criticism
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png
 outline: false
 ---
@@ -13,7 +13,7 @@ Criticizing visualizations is a cottage industry of sorts, and an activity I hav
 
 This being <em>The Economist</em>, the charts Leo picked for redesigns aren't all that egregious to begin with, but her redesigns are clearly an improvement. Two  stood out to me in particular. The first one seems to show a correlation that's a little bit too perfect.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1H21mduPmvzot3oaMThNfFQ.png" alt="" class="wp-image-12009"/></figure>
+<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1H21mduPmvzot3oaMThNfFQ.png" alt="" class="wp-image-12009" width="640" height="335"/></figure>
 
 I don't know much about dogs, but I figure weight and neck size are highly correlated. It may also just be a coincidence of how the vertical scales fall that these lines end up on top of each other, so it's easy to just go with that. At the same time, we're comparing apples and oranges here and neither of the axes start at zero.
 
@@ -21,7 +21,7 @@ Leo makes an interesting point here about how to pick axis ranges in such a case
 
 The other example I though was particularly interesting is also a dual-axes line chart, this one about the U.S. trade deficit and employment.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png" alt="" class="wp-image-12010"/></figure>
+<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png" alt="" class="wp-image-12010" width="640" height="335"/></figure>
 
 What's extremely confusing here, and frankly not very well done in the original, is that the trade deficit is all negative numbers while unemployment numbers are all positive. The half-length red line at the top is supposed to indicate this, but I at least did not understand that and thought it was a mistake.
 
@@ -30,7 +30,7 @@ The redesign is clearly much better, and I particularly like that Leo chose bars
 This kind of reflection and redesign of your own charts (even if Leo didn't actually make all of those original charts, but they're done by the people around her) is a great exercise. It allows you to flex your design muscles and think in terms of more general design rules and guidelines that will inform and improve future work. And doing this with your own work means you're not stepping on people's toes, even when you're doing this in public.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 17, 2019_
+_Posted by <a href="/about">Robert Kosara</a> on April 17, 2019. Filed under [criticism](/section/criticism)._
 
 
 <aside class="comments">

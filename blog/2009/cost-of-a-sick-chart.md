@@ -16,13 +16,13 @@ This would be less of an issue if it were a small hobby project done by somebody
 
 Among its many divisions and units is <a href="http://en.wikipedia.org/wiki/GE_Healthcare">GE Healthcare</a>, which employs 46,000 people. Just like GE in general, the latter develops lots of things, like imaging products, patient data systems, tools for drug discovery and manufacturing, surgery tools, and many more. When such a company decides to visualize data for the masses, we should be able to expect something substantial.
 
-The actual work was done by (or at least under the supervision of)&nbsp;<a href="http://benfry.com/" target="_blank">Ben Fry</a>. He is the creator (together with Casey Reas) of the <a href="http://processing.org/" target="_blank">Processing</a> programming language and environment that is very popular with media artists, and the author of a book on information visualization using the language. His <a href="http://benfry.com/zipdecode/">zipdecode</a> project was the inspiration for my <a href="/topics/ZIPScribbleMaps">ZIPScribble Maps</a>. Fry is also the director of <a href="http://seedmediagroup.com/visualization/">Seed Visualization</a>, which is the company GE Healthcare contracted this visualization out to. GE has put up <a href="http://www.youtube.com/gereports#p/u/0/zN-ZehcVDsI">a video of Fry talking about data visualization</a>, though it only mentions this piece in passing.
+The actual work was done by (or at least under the supervision of) <a href="http://benfry.com/" target="_blank">Ben Fry</a>. He is the creator (together with Casey Reas) of the <a href="http://processing.org/" target="_blank">Processing</a> programming language and environment that is very popular with media artists, and the author of a book on information visualization using the language. His <a href="http://benfry.com/zipdecode/">zipdecode</a> project was the inspiration for my <a href="/topics/ZIPScribbleMaps">ZIPScribble Maps</a>. Fry is also the director of <a href="http://seedmediagroup.com/visualization/">Seed Visualization</a>, which is the company GE Healthcare contracted this visualization out to. GE has put up <a href="http://www.youtube.com/gereports#p/u/0/zN-ZehcVDsI">a video of Fry talking about data visualization</a>, though it only mentions this piece in passing.
 
 Communicating the cost of healthcare to the general public is certainly a great idea, and they should be commended for doing this. Unfortunately, the visualization fails to get much meaningful information across.
 
 ## What is This Supposed to Show Me?
 
-We're obviously looking at some kind of pie chart. Different pie slices have different colors and sizes. There is a slider that selects the age to look at, from 18 to&nbsp;79.
+We're obviously looking at some kind of pie chart. Different pie slices have different colors and sizes. There is a slider that selects the age to look at, from 18 to 79.
 
 Costs are encoded in the radius of each pie slice (the mapping takes <a href="/basics/Linear-vs-Quadratic-Change.html">the quadratic growth of area</a> into account, but see below). The angle of the slice is the number of cases in GE's dataset that covers around 500,000 people. Divided into individual ages and diseases, that still leads to fairly small numbers per pie slice, though.
 
@@ -99,7 +99,7 @@ Robert Kosara says…
 
 <a href="http://www.juiceanalytics.com" rel="nofollow noopener" target="_blank">Zach</a> says…
 >	<p>Robert,</p>
->	<p>I appreciate your unflinching critique one of the leaders in the field, and agree that this visualization leaves some things to be desired. That said, I would caution against assuming that Ben is asking the wrong question ("I wager to guess that the relative prevalence of different diseases at a particular age is not terribly interesting.").&nbsp; Personally, I'd wager that Ben started the project by working with his client to determine what is the important story to tell with the data -- not just what is the sexiest graphic. Sure, there are a bunch of other questions that could be asked and answered with the data, but then he'd be developing a robust and possibly complex analytical tool. The work that Ben is doing with GE (another example here http://www.ge.com/visualization/health_visualizer/) clearly focuses on teeing up and addressing a few, targeted questions.</p>
+>	<p>I appreciate your unflinching critique one of the leaders in the field, and agree that this visualization leaves some things to be desired. That said, I would caution against assuming that Ben is asking the wrong question ("I wager to guess that the relative prevalence of different diseases at a particular age is not terribly interesting.").  Personally, I'd wager that Ben started the project by working with his client to determine what is the important story to tell with the data -- not just what is the sexiest graphic. Sure, there are a bunch of other questions that could be asked and answered with the data, but then he'd be developing a robust and possibly complex analytical tool. The work that Ben is doing with GE (another example here http://www.ge.com/visualization/health_visualizer/) clearly focuses on teeing up and addressing a few, targeted questions.</p>
 
 Robert Kosara says…
 >	<p>My criticism goes to GE and Fry equally. GE apparently wanted something showing them their own numbers, but also wanted to put it on a website. They actually emailed me to tell me about it, saying that they wanted to show people the cost of their healthcare. I don't think this is doing it.</p>
@@ -150,8 +150,8 @@ Robert Kosara says…
 <a href="http://i-ocean.blogspot.com/" rel="nofollow noopener" target="_blank">derek</a> says…
 >	<p>But Fry's isn't a polar area chart, it's a spie chart</p>
 >	<p>pie chart: radius constant, sector angle variable<br />polar area chart: radius variable, sector angle constant<br />spie chart: both radius and sector angle variable</p>
->	<p>&nbsp;</p>
->	<p>&nbsp;</p>
+>	<p> </p>
+>	<p> </p>
 
 <a href="http://periscopic.com" rel="nofollow noopener" target="_blank">krees</a> says…
 >	<p>Well, derek, I still think it works.</p>
