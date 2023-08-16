@@ -16,7 +16,7 @@ export default defineConfig({
 	themeConfig: {
 
 		siteTitle: false,
-		logo: { light: '/eagereyes-logo-dark.svg', dark: '/eagereyes-logo-light.svg', alt: 'eagereyes Logo' },
+		logo: { light: 'https://media.eagereyes.org/eagereyes-logo-dark.svg', dark: 'https://media.eagereyes.org/eagereyes-logo-light.svg', alt: 'eagereyes Logo' },
 
 		nav: [
 			{ text: 'Practical', items: [
