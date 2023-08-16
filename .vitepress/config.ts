@@ -1,9 +1,10 @@
-// import { defineConfig } from 'vitepress'
-import { generateSidebar } from 'vitepress-sidebar';
+import { defineConfig } from 'vitepress'
+// import { generateSidebar } from 'vitepress-sidebar';
 import { readFileSync } from 'node:fs';
+import { genFeed } from './genFeed';
 
 // https://vitepress.dev/reference/site-config
-export default {
+export default defineConfig({
 	title: "eagereyes.org",
 	titleTemplate: ':title - eagereyes.org',
 	description: "Visualization and Visual Communication",
@@ -95,4 +96,5 @@ export default {
 	sitemap: {
 		hostname: 'https://eagereyes.org'
 	},
-}
+	buildEnd: genFeed
+})
