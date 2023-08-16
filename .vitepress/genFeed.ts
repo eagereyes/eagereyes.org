@@ -67,5 +67,5 @@ export async function genFeed(config: SiteConfig) {
   }
 
   writeFileSync(path.join(config.outDir, 'rss.xml'), feed.rss2())
-  writeFileSync(path.join(config.outDir, 'feed.rss'), feed.rss2())
+  writeFileSync(path.join(config.outDir, 'feed.xml'), feed.rss2())
 }
