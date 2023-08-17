@@ -1,7 +1,8 @@
 import path from 'path'
 import { writeFileSync } from 'fs'
 import { Feed } from 'feed'
-import { ContentData, createContentLoader, type SiteConfig } from 'vitepress'
+import { type SiteConfig } from 'vitepress'
+import loadPosts from './loadPosts'
 
 const baseUrl = `https://eagereyes.org`
 
@@ -16,38 +17,14 @@ export async function genFeed(config: SiteConfig) {
     language: 'en',
     image: 'https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png',
     favicon: `https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png`,
-    copyright:
-      'Copyright (c) 2006-present, Robert Kosara'
+    copyright: 'Copyright (c) 2006-present, Robert Kosara',
+    feedLinks: {
+      rss: "https://eagereyes.org/feed",
+      atom: "https://eagereyes.org/atom"
+    },
   })
 
-  // load by year and push into array to load less unnecessary stuff
-  let posts = <ContentData[]>[];
-  
-  let year = (new Date()).getFullYear();
-
-  while (posts.length < NUMPOSTS) {
-    const newPosts = await createContentLoader(`blog/${year}/*.md`, {
-      excerpt: true,
-      render: true
-    }).load();
-    
-    posts = posts.concat(...newPosts);
-
-    year -= 1;
-  }
-
-  // sort in reverse chronological order
-  posts.sort(
-    (a, b) =>
-      +new Date(b.frontmatter.date as string) -
-      +new Date(a.frontmatter.date as string)
-  )
-
-  // remove index pages
-  posts = posts.filter(d => !d.url.endsWith('/'));
-
-  // only include NUMPOSTS posts
-  posts = posts.slice(0, NUMPOSTS);
+  const posts = await loadPosts(NUMPOSTS, true);
 
   for (const { url, excerpt, frontmatter, html } of posts) {
     feed.addItem({
@@ -55,7 +32,7 @@ export async function genFeed(config: SiteConfig) {
       id: `${baseUrl}${url}`,
       link: `${baseUrl}${url}`,
       description: frontmatter.description,
-      content: html,
+      content: html?.split('<aside')[0],
       author: [
         {
           name: "Robert Kosara",
@@ -67,5 +44,8 @@ export async function genFeed(config: SiteConfig) {
   }
 
   writeFileSync(path.join(config.outDir, 'rss.xml'), feed.rss2())
+  // so eagereyes.org/feed works…
   writeFileSync(path.join(config.outDir, 'feed.xml'), feed.rss2())
+  // Atom feed, why not?
+  writeFileSync(path.join(config.outDir, 'atom.xml'), feed.atom1())
 }
