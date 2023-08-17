@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-// import { generateSidebar } from 'vitepress-sidebar';
 import { readFileSync } from 'node:fs';
 import { genFeed } from './genFeed';
 
@@ -37,15 +36,6 @@ export default defineConfig({
 				] },
 		],
 
-		// sidebar: generateSidebar({
-		// 		collapseDepth: 2,
-		// 		capitalizeFirst: true,
-		// 		useTitleFromFrontmatter: true,
-		// 		// includeFolderIndexFile: true,				
-		// 		// useFolderLinkAsIndexPage: true,
-		// 		excludeFolders: ['node_modules', 'publications']
-		// 	}),
-
 		sidebar: {
 			'/blog/': JSON.parse(readFileSync('sidebar.json', 'utf-8'))
 		},
@@ -70,17 +60,19 @@ export default defineConfig({
 	},
 
 	head: [
-		[ 'link', {'rel': 'icon', 'sizes': "32x32",
+		[ 'link', {rel: 'icon', sizes: "32x32",
 			'href': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
-		[ 'link', {'rel': 'icon', 'sizes': "192x192",
+		[ 'link', {rel: 'icon', sizes: "192x192",
 			'href': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
-		[ 'link', {'rel': 'apple-touch-icon',
+		[ 'link', {rel: 'apple-touch-icon',
 			'href': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
-		[ 'meta', {'name': 'msapplication-TileImage',
+		[ 'meta', {name: 'msapplication-TileImage',
 			'content': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
+		[ 'link', {rel: "alternate", type: "application/rss+xml", title: "eagereyes RSS Feed", href: "https://eagereyes.org/feed"} ],
+		[ 'link', {rel: "alternate", type: "application/atom+xml", title: "eagereyes Atom Feed", href: "https://eagereyes.org/atom"} ],
 		[
 			'script',
-			{async: true, src: "https://www.googletagmanager.com/gtag/js?id=G-PDJZL25VMX"}
+			{async: '', src: "https://www.googletagmanager.com/gtag/js?id=G-PDJZL25VMX"}
 		],
 		[
 			'script',
