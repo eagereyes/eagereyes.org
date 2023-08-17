@@ -12,8 +12,8 @@ export async function genFeed(config: SiteConfig) {
   const feed = new Feed({
     title: 'eagereyes.org',
     description: 'Visualization and Visual Communication',
-    id: baseUrl,
-    link: baseUrl,
+    id: `${baseUrl}/`,
+    link: `${baseUrl}/`,
     language: 'en',
     image: 'https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png',
     favicon: `https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png`,
