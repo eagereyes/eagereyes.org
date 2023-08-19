@@ -35,6 +35,8 @@ def scanDirectory(directory):
                                     tags[tag].append(o)
                                 else:
                                     tags[tag] = [o]
+                        elif parts[0] == 'featuredImage':
+                            o['featuredImage'] = parts[1].strip()
 
                         line = file.readline()
 
@@ -85,7 +87,6 @@ def writeIndex(files, fileName, dirName):
 
 tags = {}
 posts = {}
-numPosts = 0
 
 with scandir('blog') as it:
     for entry in it:
@@ -93,10 +94,11 @@ with scandir('blog') as it:
             dir = 'blog/'+entry.name
             print(dir)
             files = scanDirectory(dir)
-            numPosts += len(files)
             
+allPosts = []
 for year in posts:
     writeIndex(posts[year], 'blog/%d/index.md' % year, 'Blog %d' % year)
+    allPosts += posts[year]
 
 sidebar = [];
 with open('blog/index.md', 'w') as out:
@@ -125,4 +127,13 @@ writeIndex(tags['influences'], 'tag/influences.md', 'Lists of Influences')
 writeIndex(tags['criticism'], 'tag/criticism.md', 'Criticism')
 writeIndex(tags['eagereyestv'], 'tag/eagereyestv.md', 'EagerEyes Videos')
 
-print('%d posts' % numPosts)
+allPosts = sorted(allPosts, key=lambda f: f['date'], reverse=True)
+
+for p in allPosts:
+    p['date'] = p['date'].strftime('%B %d, %Y')
+    # strip the .md extension
+    p['path'] = p['path'][:-3]
+
+dump(allPosts[:20], open('home-feed.json', 'w'))
+
+print('%d posts' % len(allPosts))

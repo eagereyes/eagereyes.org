@@ -3,7 +3,7 @@ title: "When the Wrong Chart Is the Right Choice"
 description: "We all agree that the direction of the bars in a bar chart should correspond to the direction in which the values grow. Or do we? When it comes to running or audio recording and processing, it turns out that the seemingly wrong choice can be the right one – because a more semantically meaningful representation can help us understand and use the data much more easily."
 date: 2021-06-27 18:05:14
 tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/06/undeararmour-bars-cropped.jpeg
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/06/undeararmour-bars.jpeg
 ---
 
 # When the Wrong Chart Is the Right Choice

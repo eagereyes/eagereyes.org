@@ -7,6 +7,9 @@ next: false
 
 # Criticism
 
+### <a href="/blog/2019/critiquing-and-redesigning">Critiquing and Redesigning</a>
+Criticizing visualizations is a cottage industry of sorts, and an activity I have indulged in in the past as well. Redesigning those charts is also not uncommon, though it's usually other people's charts, and that isn't always welcome. Sarah Leo of The Economist has redesigned some of the charts made by that publication, and not only do her redesigns work better, her thoughts around some of the design issues are also very insightful. _<a href="/blog/2019/critiquing-and-redesigning">Read more…</a>_
+
 ### <a href="/blog/2016/review-jon-schwabish-better-presentations">Review: Jon Schwabish, Better Presentations</a>
 Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she’d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began). _<a href="/blog/2016/review-jon-schwabish-better-presentations">Read more…</a>_
 
@@ -145,11 +148,17 @@ Chernoff Faces are discussed in every information visualization course, and are 
 ### <a href="/blog/2007/swivel-vs-many-eyes">Review: Swivel vs. Many Eyes</a>
 Social websites are all the rage right now, and are not just hyped by the media (MySpace and YouTube in particular), but there are also large amounts of money involved (again, MySpace and YouTube). But does the social model make sense for data analysis and visualization? And will users play and interact with data the way they do with other media? Two websites were launched recently to find out: Swivel.com (defunct as of late 2010) and Many Eyes. Here is a first review, looking at the two sites in terms of their founders, approach, social aspects, technology, capabilities, broad appeal, and ethics. _<a href="/blog/2007/swivel-vs-many-eyes">Read more…</a>_
 
+### <a href="/blog/2006/loneliness-of-the-visualization-critic">The Loneliness of the Visualization Critic</a>
+At a panel discussion at Vis 2006, we were blasted for raising the question, Is there Science in Visualization? A senior visualization researcher said that he was embarrassed that this question was being discussed, and that we were trying to push our way of doing things on the community. The panel was still a success, but this proved just how far we still have to go. _<a href="/blog/2006/loneliness-of-the-visualization-critic">Read more…</a>_
+
 ### <a href="/blog/2006/informative-art">When Informative Art Isn't</a>
 Making visualization more aesthetically pleasing is certainly an important goal. Another one is to make visualization a part of our everyday lives. Ambient information displays are a way of doing both, and they are often inspired by pieces of art. But what if the viewers think they are just looking at a picture, and don't realize that it presents information to them? _<a href="/blog/2006/informative-art">Read more…</a>_
 
 ### <a href="/blog/2006/visualization-criticism">Visualization Criticism - A New Way of Thinking about Visualization</a>
 The main means of communication in science is the (printed) journal article or conference paper, which only contains text and static images. This limits the way we can illustrate change, interaction, and dynamics. We do not have the appropriate language to effectively describe our work not only in terms of what it shows, but how and why it works. We also lack a means of talking about our own and others' work in ways that critically reflect on what has been done. We need to learn from art criticism, where this is all possible. _<a href="/blog/2006/visualization-criticism">Read more…</a>_
+
+### <a href="/blog/2006/opining-or-murmuring">Opining or Murmuring: Infographics vs. Visualization</a>
+Commenting on a diagram  showing the flow of electricity from its production to its use (and waste), the author of the Junk Charts blog writes: As it stands, this chart murmurs but does not opine. Which is exactly what it should do. _<a href="/blog/2006/opining-or-murmuring">Read more…</a>_
 
 ### <a href="/blog/2006/nsf-vis-challenge-2006">She Blinded Me with Eye Candy</a>
 The winner of the  2006 Science and Engineering Visualization Challenge (organized by Science and the National Science Foundation, NSF) shows "five well-known mathematical surfaces, rendered as glass objects in a highly realistic 'Still Life.'" Using reflection, colored lighting, and otherwise unstructured sufaces makes for an image that does not convey the actual shapes particularly well. But it sure is pretty. _<a href="/blog/2006/nsf-vis-challenge-2006">Read more…</a>_
