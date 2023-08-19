@@ -59,8 +59,14 @@ Less than two weeks to go until VisWeek 2012, so it’s time for the crucial sec
 ### <a href="/blog/2012/goodbye-academia-hello-again-tableau">Goodbye, Academia; Hello (Again), Tableau!</a>
 I have decided to quit my job as Associate Professor at UNC Charlotte and join Tableau Software. Monday (September 17) is my first day of work as a full Tableau employee. Why give up the job security of a tenured university professor for the treacherous prospects of a startup? There are many reasons, but here are the main ones. _<a href="/blog/2012/goodbye-academia-hello-again-tableau">Read more…</a>_
 
+### <a href="/blog/2012/storytelling-focus">Storytelling and Focus</a>
+There are many differences between data analysis and presentation. One that is often overlooked is the need to focus a story to just the essential points, and not overload it with unnecessary detail. Minard’s famous map is a great example of reduction to the bare minimum. _<a href="/blog/2012/storytelling-focus">Read more…</a>_
+
 ### <a href="/blog/2012/visweek-survival-guide-part-1">A VisWeek Survival Guide, Part 1</a>
 VisWeek 2012 will be held October 14 to 19 in Seattle, WA. The conference keeps growing, and this year is adding a new industry track. If you consider going, you should register by Friday to get the early registration discount. _<a href="/blog/2012/visweek-survival-guide-part-1">Read more…</a>_
+
+### <a href="/blog/2012/storytelling-minard-vs-nightingale">Storytelling: Minard vs. Nightingale</a>
+There is a lot of confusion about storytelling and what tells a story. I have argued previously that stories do not tell themselves. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it. _<a href="/blog/2012/storytelling-minard-vs-nightingale">Read more…</a>_
 
 ### <a href="/blog/2012/edward-tufte-one-day-course">Edward Tufte's One Day Course: A Review</a>
 Last Monday, I got to attend Edward Tufte’s one-day course. I was looking forward to a day of interesting examples, ideas, and discussions, but was disappointed by the amount of rambling and largely historical examples, with little connection to real, current visualization (or presentation) work. _<a href="/blog/2012/edward-tufte-one-day-course">Read more…</a>_
@@ -92,23 +98,44 @@ Day 2 of EuroVis was a long series of paper presentations, occasionally interrup
 ### <a href="/blog/2012/eurovis-2012-day-1">EuroVis 2012, Day 1</a>
 EuroVis 2012 has officially begun, so here is a brief recap of some of the things I found interesting. Today, that included the EuroRVVV workshop and two papers. _<a href="/blog/2012/eurovis-2012-day-1">Read more…</a>_
 
+### <a href="/blog/2012/from-data-to-trends">From Data to Trends</a>
+After my recent abstraction exercise created some interesting discussion but kind of went off in a slightly wrong direction, here is another experiment. _<a href="/blog/2012/from-data-to-trends">Read more…</a>_
+
 ### <a href="/blog/2012/conceptualizing-visual-uncertainty-in-parallel-coordinates">Paper: Conceptualizing Visual Uncertainty in Parallel Coordinates</a>
 Visualization is largely defined as the transformation of data into images. Visualization tools don't have a way of assessing their output, though: were there enough pixels to represent all the data? Are there too many overlapping lines? In a paper to be presented at EuroVis next week, Aritra Dasgupta, Min Chen, and I propose a taxonomy of the different sources of uncertainty when working with parallel coordinates. _<a href="/blog/2012/conceptualizing-visual-uncertainty-in-parallel-coordinates">Read more…</a>_
 
 ### <a href="/blog/2012/eurovis-survival-guide-part-2">A EuroVis Survival Guide, Part 2</a>
 Only a few more sleeps until EuroVis! As we approach the big date, here are some practical tips and tricks about Vienna, the local culture and the exotic customs of the natives. _<a href="/blog/2012/eurovis-survival-guide-part-2">Read more…</a>_
 
+### <a href="/blog/2012/data-need">How Much Data Do You Really Need?</a>
+One of the many things Malofiej 20 made me wonder about is how we present data and what we expect from such a presentation. Very often, we essentially narrate the process of discovery, but is that really the best way? And how much data do we need to show when making a point? Just because we start out with lots of data does not mean we really need to show it all. _<a href="/blog/2012/data-need">Read more…</a>_
+
 ### <a href="/blog/2012/tableau-public-day">Tableau Public Viz of the Day</a>
 There is no shortage of sites and twitter accounts that point to a new visualization every day, some even more often than that. So why start another one? Tableau's Viz of the Day is unique in that it draws from the wealth of Tableau Public, and all its picks are interactive visualizations with multiple, linked views. _<a href="/blog/2012/tableau-public-day">Read more…</a>_
 
+### <a href="/blog/2012/glimpse-into-new-york-times-graphics-department">A Glimpse Into the New York Times Graphics Department</a>
+How does the New York Times Graphics Department produce the fantastic work that wins so many awards? To get a taste of the secret sauce, all you need to do is track down their Twitter accounts and blogs, where they openly share sketches and talk about process. Here is a guide. _<a href="/blog/2012/glimpse-into-new-york-times-graphics-department">Read more…</a>_
+
+### <a href="/blog/2012/playable-data">Playable Data</a>
+How do you engage people with data? How do you make them care and pay attention and remember anything about a particular piece of data? One way is dressing the data up as an information graphic. Another might be to get people to play a little game with the data. Nick Diakopoulos and colleagues have built a fascinating research prototype of what this might look like. _<a href="/blog/2012/playable-data">Read more…</a>_
+
 ### <a href="/blog/2012/eurovis-survival-guide-part-1">A EuroVis Survival Guide, Part 1</a>
 EuroVis 2012 is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc. _<a href="/blog/2012/eurovis-survival-guide-part-1">Read more…</a>_
+
+### <a href="/blog/2012/the-explanatory-power-of-data-points">The Explanatory Power of Data Points</a>
+As newspaper graphics go, scatterplots are a fairly advanced technique. They tend to show a reasonably large amount of data as single points, and they require the reader to have an idea what to look for. Most newspapers never bother using scatterplots for that reason, which is really too bad. With some explanation, a scatterplot can be a very effective means of displaying data, and in particular to allow the user to drill into the data a little bit. _<a href="/blog/2012/the-explanatory-power-of-data-points">Read more…</a>_
 
 ### <a href="/blog/2012/visually-create">Visual.ly Create</a>
 Information graphics are a big and growing business, but the tools that are used for making them are little better than paper and pencil. That is particularly problematic when it comes to infographics that are heavy on data, which not only require a lot of work, but also many repeating steps that could be handled by a machine. Visual.ly's recently launched Create tool takes care of some of this work to create better and more flexible information graphics. _<a href="/blog/2012/visually-create">Read more…</a>_
 
 ### <a href="/blog/2012/april-visualization-challenge-time">April is Visualization Challenge Time!</a>
 While there has been some criticism of a particular type of visualization challenge recently, there are many other challenges that are organized well and provide good opportunities for people to work on their skills. Two challenges in particular have caught my attention, and are presented here with the official EagerEyes Quality Seal and Stamp of Approval. _<a href="/blog/2012/april-visualization-challenge-time">Read more…</a>_
+
+### <a href="/blog/2012/what-does-it-mean-to-inform">What Does It Mean to Inform?</a>
+Information graphics are meant to carry meaning, so that readers can learn something about data, facts, or processes. But what does it mean to inform? And how does the goal of informing in information graphics differ from analytical visualization? _<a href="/blog/2012/what-does-it-mean-to-inform">Read more…</a>_
+
+### <a href="/blog/2012/malofiej-20">Malofiej 20</a>
+Malofiej was an exhausting week with many great conversations, fascinating insights, and great company. My sleep-deprived and jet-lagged brain is buzzing with things to write about, and this is only the first of several articles about or inspired by Malofiej. I start with a discussion on why I think The New York Times did so well this year, and what other newspapers can do to catch up. _<a href="/blog/2012/malofiej-20">Read more…</a>_
 
 ### <a href="/blog/2012/upcoming-travel-sxsw-malofiej">Upcoming Travel: SxSW and Malofiej</a>
 I will be at South-by-Southwest (SxSW) this year to speak on a panel, and also take part in the Malofiej awards and summit, where I will be a judge and speaker. Here are some pointers for those of you who might be at one (or both!) of those events. _<a href="/blog/2012/upcoming-travel-sxsw-malofiej">Read more…</a>_
