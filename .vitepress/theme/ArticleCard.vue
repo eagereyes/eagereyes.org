@@ -58,6 +58,7 @@ export default {
         /* margin-bottom: 1.5rem; */
         overflow: hidden;
         width: 80%;
+        max-width: 960px;
         margin: 1.5rem auto;
     }
 

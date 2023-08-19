@@ -13,7 +13,14 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #home-features-before>
-        <div v-for="(p, index) in posts" :key="index">
+        <div v-for="(p, index) in posts.slice(0, 3)" :key="index">
+            <ArticleCard 
+                :title="p.title" :excerpt="p.description" :image="p.featuredImage"
+                :href="p.path" :date="p.date" />
+        </div>
+    </template>
+    <template #home-features-after>
+        <div v-for="(p, index) in posts.slice(3)" :key="index">
             <ArticleCard 
                 :title="p.title" :excerpt="p.description" :image="p.featuredImage"
                 :href="p.path" :date="p.date" />
