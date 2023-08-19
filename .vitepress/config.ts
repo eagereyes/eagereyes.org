@@ -41,7 +41,7 @@ export default defineConfig({
 		},
 
 		footer: {
-			message: 'All materials available under <a href="/license">CC-BY-SA</a>',
+			message: '<a href="/license">All materials available under CC-BY-SA</a>',
 			copyright: 'Copyright ©2006–present Robert Kosara'
 		},
 
@@ -90,5 +90,6 @@ export default defineConfig({
 	sitemap: {
 		hostname: 'https://eagereyes.org'
 	},
+
 	buildEnd: genFeed
 })

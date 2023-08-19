@@ -12,7 +12,7 @@ const { Layout } = DefaultTheme
 
 <template>
   <Layout>
-    <template #home-features-after>
+    <template #home-features-before>
         <div v-for="(p, index) in posts" :key="index">
             <ArticleCard 
                 :title="p.title" :excerpt="p.description" :image="p.featuredImage"

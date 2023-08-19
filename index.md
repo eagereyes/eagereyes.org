@@ -21,16 +21,16 @@ hero:
   #     text: API Examples
   #     link: /api-examples
 
-# features:
-#   - title: Publications
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: /publications/
-#   - title: Feature B
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: /pie-charts/
-#   - title: Feature C
-#     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     link: /blog/
+features:
+  - title: Pie Charts
+    details: Derided, misused, misunderstood – learn about how they work, and what we know and don't know about them
+    link: /tag/pie-charts
+  - title: Publications
+    details: All my scientific publications
+    link: /publications/
+  - title: The Blog
+    details: The eagereyes blog, going all the way back to 2006
+    link: /blog/
 
 footer: false
 outline: false
