@@ -49,7 +49,9 @@ export default defineConfig({
 			{ icon: 'mastodon', link: 'https://mastodon.social/@eagereyes' },
 			{ icon: 'youtube', link: 'https://youtube.com/@eagereyes' },
 			{ icon: 'linkedin', link: 'https://linkedin.com/in/rkosara/' },
-			{ icon: 'twitter', link: 'https://twitter.com/@eagereyes' }
+			{ icon: 'twitter', link: 'https://twitter.com/@eagereyes' },
+			{ icon: { svg: '<svg width="100%" height="100%" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"><path d="M3,9.5c0,0.823 -0.677,1.5 -1.5,1.5c-0.823,0 -1.5,-0.677 -1.5,-1.5c0,-0.823 0.677,-1.5 1.5,-1.5c0.823,0 1.5,0.677 1.5,1.5Zm-3,-8.5c0,-0.549 0.451,-1 1,-1c5.523,0 10,4.477 10,10c0,0.549 -0.451,1 -1,1c-0.549,0 -1,-0.451 -1,-1c0,-4.389 -3.611,-8 -8,-8c-0.549,0 -1,-0.451 -1,-1Zm0,4c0,-0.549 0.451,-1 1,-1c3.292,-0 6,2.708 6,6c0,0.549 -0.451,1 -1,1c-0.549,0 -1,-0.451 -1,-1c0,-2.194 -1.806,-4 -4,-4c-0.549,0 -1,-0.451 -1,-1Z" style="fill-rule:nonzero;"/></svg>'},
+			 	link: 'https://eagereyes.org/feed' }
 		],
 
 		search: {

@@ -67,6 +67,11 @@ export default {
         transition: ease-in-out 0.2s all;
     }
 
+    :root.dark .card:hover {
+	    box-shadow: none;
+        background-color: rgb(64, 47, 72);
+    }
+
     .flex {
         display: flex;
     }
