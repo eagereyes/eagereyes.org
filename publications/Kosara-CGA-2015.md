@@ -1,9 +1,12 @@
 ---
 title: "Tapestry: A Different Kind of Conference on Storytelling with Data"
 description: "Tapestry is an unusual conference, at least compared with academic gatherings. There are no proceedings, and the presentations are not chosen through peer review. What it is, however, is a place to meet and exchange ideas for people with a common interest."
+featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg
 ---
 
 # Tapestry: A Different Kind of Conference on Storytelling with Data
+
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg" /></p>
 
 > _Tapestry is an unusual conference, at least compared with academic gatherings. There are no proceedings, and the presentations are not chosen through peer review. What it is, however, is a place to meet and exchange ideas for people with a common interest._
 
