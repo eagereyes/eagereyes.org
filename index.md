@@ -23,7 +23,7 @@ hero:
 
 features:
   - title: Pie Charts
-    details: Derided, misused, misunderstood – learn about how they work, and what we know and don't know about them
+    details: Learn about how they work, and what we know and don't know about them
     link: /tag/pie-charts
   - title: Publications
     details: All my scientific publications

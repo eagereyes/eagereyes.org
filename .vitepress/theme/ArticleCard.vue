@@ -13,10 +13,6 @@ export default {
         type: String,
         required: true,
         },
-        author: {
-        type: String,
-        required: true,
-        },
         date: {
         type: String,
         required: true,
@@ -41,7 +37,6 @@ export default {
           <p class="excerpt">{{ excerpt }}</p>
           <div class="author">
             <div>
-              <h3 class="name">{{ author }}</h3>
               <p class="date">Posted {{ date }}</p>
             </div>
           </div>

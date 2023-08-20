@@ -29,9 +29,6 @@ I’m very happy to finally be able to announce our paper on the connected scatt
 ### <a href="/blog/2015/the-nips-experiment">Link: The NIPS Experiment</a>
 The conference on Neural Information Processing Systems (NIPS) has conducted a fascinating experiment: split the program committee into two and get 10% of submissions reviewed by both. The article I'm linking to above has a great analysis of what they found (and it's not encouraging). _<a href="/blog/2015/the-nips-experiment">Read more…</a>_
 
-### <a href="/blog/2015/2016-open-for-applications">Tapestry 2016 Open For Applications</a>
-Tapestry 2016 will take place March 9 next year in a historic hotel near Denver, CO. We have put together another exciting line-up of keynote speakers and are looking for applications from people who want to attend or speak. _<a href="/blog/2015/2016-open-for-applications">Read more…</a>_
-
 ### <a href="/blog/2015/tapestry-2016-open-for-applications">Tapestry 2016 Open For Applications</a>
 Tapestry 2016 will take place March 9 next year in a historic hotel near Denver, CO. We have put together another exciting line-up of keynote speakers and are looking for applications from people who want to attend or speak. _<a href="/blog/2015/tapestry-2016-open-for-applications">Read more…</a>_
 
@@ -102,25 +99,25 @@ I'm organizing a very informal running club at EuroVis next week. If you're atte
 Feedback loops are a common concept in engineering. When it comes to giving talks, academics would do well to apply some of the thinking behind them to improve their output by observing how it deviates from the desired one, and making changes to adjust it. _<a href="/blog/2015/feedback-loops-for-better-talks">Read more…</a>_
 
 ### <a href="/blog/2015/the-danger-of-glitziness">Video: The Danger of Glitziness</a>
-https://youtu.be/fP-7rhb-qM _<a href="/blog/2015/the-danger-of-glitziness">Read more…</a>_
+Wayne Lytle created this video about the Viz-O-Matic that provides lots of tools to make visualization glitzier. It's a nice little spoof, and a throwback to the computer graphics of the early 1990s (it was made for SIGGRAPH 1993). This video was brought up in a discussion about storytelling at CHI last week, though I don't think that its lessons are very deep on that subject. _<a href="/blog/2015/the-danger-of-glitziness">Read more…</a>_
 
 ### <a href="/blog/2015/conference-report-chi-2015">Conference Report: CHI 2015</a>
 Last week, I had the pleasure of attending the CHI 2015 conference in Seoul, South Korea. CHI technically stands for Computer-Human Interaction, but it has become a name rather than an acronym in recent years. And CHI’s scope is very broad, it covers many areas that are not strictly part of HCI (Human-Computer Interaction – why use one acronym when you can have two?). _<a href="/blog/2015/conference-report-chi-2015">Read more…</a>_
 
 ### <a href="/blog/2015/the-power-of-wee-things">Link: The Power of Wee Things</a>
-Lena Groeger (of ProPublica) has written a beautiful piece about the Power of Wee Things. She talks about using small things, multiples, and units to display data and get people interested. The article goes through many, many examples covering many different areas and ideas. She also gave a great talk on the topic at OpenVis 2014 _<a href="/blog/2015/the-power-of-wee-things">Read more…</a>_
+Lena Groeger (of ProPublica) has written a beautiful piece about the Power of Wee Things. She talks about using small things, multiples, and units to display data and get people interested. The article goes through many, many examples covering many different areas and ideas. She also gave a great talk on the topic at OpenVis 2014. _<a href="/blog/2015/the-power-of-wee-things">Read more…</a>_
 
 ### <a href="/blog/2015/isotype-visualization">Paper: ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs</a>
 Unit charts are not common in visualization, and they are often considered a bad idea. The same is true for using shapes other than rectangles. Neither is based on much actual research, however. In a new paper, we look at the specific example of ISOTYPE-style charts – and find them to be quite effective. _<a href="/blog/2015/isotype-visualization">Read more…</a>_
 
 ### <a href="/blog/2015/design-and-redesign-in-data-visualization">Link: Design and Redesign in Data Visualization</a>
-Fernanda Viégas and Martin Wattenberg have written a wonderful piece titled Design and Redesign in Data Visualization about criticism in data visualization. They thoughtfully analyze the practice and point out some of the issues when people create redesigns, including intellectual honesty and perfect hindsight _<a href="/blog/2015/design-and-redesign-in-data-visualization">Read more…</a>_
+Fernanda Viégas and Martin Wattenberg have written a wonderful piece titled Design and Redesign in Data Visualization about criticism in data visualization. They thoughtfully analyze the practice and point out some of the issues when people create redesigns, including intellectual honesty and perfect hindsight. _<a href="/blog/2015/design-and-redesign-in-data-visualization">Read more…</a>_
 
 ### <a href="/blog/2015/dear-data">Link: Dear Data</a>
-Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project they call Dear Data (Twitter account). Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc _<a href="/blog/2015/dear-data">Read more…</a>_
+Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project they call Dear Data (Twitter account). Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc. _<a href="/blog/2015/dear-data">Read more…</a>_
 
 ### <a href="/blog/2015/data-journalism-in-the-19th-century">Link: Data Journalism in the 19th Century</a>
-Scott Klein of ProPublica has written a great story about an early use of data in journalism, and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today _<a href="/blog/2015/data-journalism-in-the-19th-century">Read more…</a>_
+Scott Klein of ProPublica has written a great story about an early use of data in journalism, and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today. _<a href="/blog/2015/data-journalism-in-the-19th-century">Read more…</a>_
 
 ### <a href="/blog/2015/complications">Complications</a>
 In watches, a complication is anything that goes beyond the basic function of showing the current time: alarm time, moon phase, etc.  I think the term should be adopted in user interface design and visualization. _<a href="/blog/2015/complications">Read more…</a>_
@@ -135,19 +132,19 @@ Showing data isn't always about trying to convey an insight, or giving people th
 The Graphic Continuum is a poster created by Jon Schwabish and Severino Ribecca (the man behind the Data Visualisation Catalogue). It lists almost 90 different chart types and organizes them into five large groups: distribution, time, comparing categories, geospatial, part-to-whole, and relationships. Some of them are connected across groups where there are further similarities _<a href="/blog/2015/link-the-graphic-continuum">Read more…</a>_
 
 ### <a href="/blog/2015/joint-committee-on-standards-for-graphic-presentation">Link: Joint Committee on Standards for Graphic Presentation (1915)</a>
-An article in the Publications of the American Statistical Association by the Joint Committee on Standards for Graphic Presentation laid down some standards for how to create good data visualizations. In 1915. The chairman of that committee was none other than Willard C. Brinton, author of the highly opinionated (and much more complete) Graphic Methods for Presenting Facts. Andy Cotgreave is collecting some tidbits and highlights from Brinton's books. _<a href="/blog/2015/joint-committee-on-standards-for-graphic-presentation">Read more…</a>_
+An article in the Publications of the American Statistical Association by the Joint Committee on Standards for Graphic Presentation laid down some standards for how to create good data visualizations. In 1915. _<a href="/blog/2015/joint-committee-on-standards-for-graphic-presentation">Read more…</a>_
 
 ### <a href="/blog/2015/nigel-holmes-on-humor-in-visualization-and-infographics">Video: Nigel Holmes on Humor in Visualization and Infographics</a>
-https://vimeo.com/11284729 _<a href="/blog/2015/nigel-holmes-on-humor-in-visualization-and-infographics">Read more…</a>_
+In this talk, Nigel Holmes talks about the value of and use of humor in communicating visualization. He also has some interesting criticism of academic visualization research (and also some more artistic pieces). It's a fun and interesting talk, as always with Nigel Holmes. _<a href="/blog/2015/nigel-holmes-on-humor-in-visualization-and-infographics">Read more…</a>_
 
 ### <a href="/blog/2015/becksploitation-the-over-use-of-a-cartographic-icon">Link: Becksploitation: The Over-Use of a Cartographic Icon</a>
-The paper Becksploitation: The Over-Use of a Cartographic Icon by Kenneth Field and William Cartwright (free pre-print PDF) in The Cartographic Journal describes the Harry Beck's famous map of the London Underground and what makes it great. It also offers a collection of misuses of the superficial structure, and critiques them. I wish we'd had papers (and titles!) like this in visualization _<a href="/blog/2015/becksploitation-the-over-use-of-a-cartographic-icon">Read more…</a>_
+The paper Becksploitation: The Over-Use of a Cartographic Icon by Kenneth Field and William Cartwright in The Cartographic Journal describes Harry Beck's famous map of the London Underground and what makes it great. It also offers a collection of misuses of the superficial structure, and critiques them. I wish we'd had papers (and titles!) like this in visualization. _<a href="/blog/2015/becksploitation-the-over-use-of-a-cartographic-icon">Read more…</a>_
 
 ### <a href="/blog/2015/spelling-things-out">Spelling Things Out</a>
 When visualizing data, we often strive for efficiency: show the data, nothing else. But there can be tremendous value in redundancy to make a point and drive it home. Two recent examples from news graphics illustrate this nicely. _<a href="/blog/2015/spelling-things-out">Read more…</a>_
 
 ### <a href="/blog/2015/link-tapestry-2015">Link: Tapestry 2015</a>
-Tapestry 2015 will take place March 4 in Athens, GA. This is the third time we are holding the conference, and it is again taking place on the day before NICAR. As in the past years, have a kick-ass line-up of speakers. The keynotes will be given by Hannah Fairfield (NY Times), Kim Rees (Periscopic), and Michael Austin (Useful Fictions). We also have a great set of short stories speakers: Chad Skelton (Vancouver Sun), Ben Jones (Tableau Public), Katie Peek (Popular Science), RJ Andrews (Info We Trust), and Kennedy Elliott (Washington Post) _<a href="/blog/2015/link-tapestry-2015">Read more…</a>_
+Tapestry 2015 will take place March 4 in Athens, GA. This is the third time we are holding the conference, and it is again taking place on the day before NICAR. As in the past years, have a kick-ass line-up of speakers. _<a href="/blog/2015/link-tapestry-2015">Read more…</a>_
 
 ### <a href="/blog/2015/treisman-preattentive-processing">Seminal InfoVis Paper: Treisman, Preattentive Processing</a>
 A paper on a specific cognitive mechanism may seems like an odd choice as the first paper in this series, but it is the one that sparked the idea for it. It is also the one that has its 30th birthday this year, having been published in August 1985. And it is an important paper, and could play an even bigger role in visualization if properly understood and used. _<a href="/blog/2015/treisman-preattentive-processing">Read more…</a>_
@@ -156,7 +153,7 @@ A paper on a specific cognitive mechanism may seems like an odd choice as the fi
 Some of the most fundamental and important papers in information visualization are around 30 years old. This is interesting for several reasons. For one, it shows that the field is still very young. Most research fields go back much, much further. Even within such a short time frame, though, there is a danger of not knowing some of the most important pieces of research. _<a href="/blog/2015/introduction">Read more…</a>_
 
 ### <a href="/blog/2015/data-stories-podcast-2014-review">Link: Data Stories Podcast 2014 Review</a>
-Episode 46 of the Data Stories podcast features Andy Kirk and yours truly in an epic battle for podcast dominance a review of the year 2014. This complements well my State of Information Visualization posting, and of course there is a bit of overlap (I wrote that posting after we recorded the episode – Moritz and Enrico are so slow). There are lots of differences though, and the podcast has the advantage of not just me talking. We covered a lot of ground there, starting from a general down about the year, to end up finding quite a few things to talk about (just check out the long list of links in the show notes!). _<a href="/blog/2015/data-stories-podcast-2014-review">Read more…</a>_
+Episode 46 of the Data Stories podcast features Andy Kirk and yours truly in an epic battle for podcast dominance a review of the year 2014. _<a href="/blog/2015/data-stories-podcast-2014-review">Read more…</a>_
 
 ### <a href="/blog/2015/link-data-viz-done-right">Link: Data Viz Done Right</a>
 Andy Kriebel's Data Viz Done Right is a remarkable little website. He collects good examples of data visualization and talks about what works and what doesn't. He does have bits of criticism sometimes, but he always has more positive than negative things to say about his picks. Good stuff. _<a href="/blog/2015/link-data-viz-done-right">Read more…</a>_
@@ -171,7 +168,7 @@ In the past, it used to be difficult to find news graphics from the main news or
 It seems to be a foregone conclusion that 2014 was not an exciting year in visualization. When we recorded the Data Stories episode looking back at 2014 last week (to be released soon), everybody started out with a bit of a downer. But plenty of things happened, and they point to even more new developments in 2015. _<a href="/blog/2015/the-state-of-information-visualization-2015">Read more…</a>_
 
 ### <a href="/blog/2015/businessweek-vintage-graphics">Link: Businessweek Vintage Graphics</a>
-The BizWeekGraphics tumblr (well worth following in general) has a series of postings with a beautiful collection of graphics from the very early days of Businessweek, and also some more recent ones _<a href="/blog/2015/businessweek-vintage-graphics">Read more…</a>_
+The BizWeekGraphics tumblr (well worth following in general) has a series of postings with a beautiful collection of graphics from the very early days of Businessweek, and also some more recent ones. _<a href="/blog/2015/businessweek-vintage-graphics">Read more…</a>_
 
 ### <a href="/blog/2015/the-island-of-knowledge-and-the-shoreline-of-wonder">The Island of Knowledge and the Shoreline of Wonder</a>
 In his keynote at IEEE VIS in Paris two months ago, Alberto Cairo talked about journalism, visual explanations, and what makes a good news visualization. But mostly, he talked about curiosity. _<a href="/blog/2015/the-island-of-knowledge-and-the-shoreline-of-wonder">Read more…</a>_

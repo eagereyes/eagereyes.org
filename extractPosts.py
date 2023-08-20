@@ -66,11 +66,15 @@ def extractExcerpt(postText):
 posts = json.load(open('posts.json', 'r'))
 
 REPLACEPATHS = [{'from': 'blog/web', 'to': 'blog/2014'},
-				{'from': 'blog/zipscribble-maps', 'to': 'blog/2016'}
+				{'from': 'blog/zipscribble-maps', 'to': 'blog/2016'},
+				{'from': '2013', 'to': 'blog/2013'},
+				{'from': '2016', 'to': 'blog/2016'},
+				{'from': 'series/2015', 'to': 'blog/2015'},
+				{'from': 'post-format-quote', 'to': 'blog/2015'},
 				]
 
-EXTRACTPATH = 'papers'
-OVERWRITE = True
+EXTRACTPATH = 'blog/2015'
+OVERWRITE = False
 
 postsBySlug = {}
 
@@ -87,11 +91,16 @@ for post in posts:
 		else:
 			postsBySlug[slugPrefix] = [post]
 
-		# Skip file if it exists and OVERWRITE is not set
-		if path.exists(slug+'.md') and OVERWRITE == False:
-			# print('[%s]' % slug)
-			continue
+		if OVERWRITE == False:
 
+			# Skip file if it exists and OVERWRITE is not set
+			if path.exists(slug+'.md'):
+				# print('[%s]' % slug)
+				continue
+			# else:
+			# 	print('MISSING: %s' % slug)
+			# 	continue
+		
 		newSlug = 'blog/%s%s' % (post['date'][:4], slug[len(slugPrefix):])
 		print('%s => %s' % (slug, newSlug))
 
