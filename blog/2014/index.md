@@ -56,11 +56,17 @@ The vertical axis is not just important because it embodies one of the most impo
 ### <a href="/blog/2014/my-favorite-charts">My Favorite Charts</a>
 There are many charts I hate, because they're badly done, sloppy, meaningless, deceiving, ugly, or for any number of other reasons. But then there are the ones I keep coming back to because they're just so clear, well-designed, and effective _<a href="/blog/2014/my-favorite-charts">Read more…</a>_
 
+### <a href="/blog/2014/what-is-data-journalism">What is Data Journalism?</a>
+Is a data journalist one who unearths the data, who finds the insights in the data, who finds the right way to visually communicate the data? The answer is, of course, all three. But let's tease them apart and look at each separately. _<a href="/blog/2014/what-is-data-journalism">Read more…</a>_
+
 ### <a href="/blog/2014/putting-data-into-context">Putting Data Into Context</a>
 Raw numbers are easy to report and analyze, but without the proper context, they can be misleading. Is the effect you're seeing real, or a simple result of the underlying, obvious distribution? Too many analyses and news stories end up reporting things we already know. _<a href="/blog/2014/putting-data-into-context">Read more…</a>_
 
 ### <a href="/blog/2014/review-kraak-mapping-time">Review: Kraak, Mapping Time</a>
 Can you write an entire book about a single chart? Even if that chart is supposedly the best one ever? Menno-Jan Kraak's new book, Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812, discusses the historical context of Minard's work, his, life, and walks through a number of design exercises to show the same or similar data in different ways. _<a href="/blog/2014/review-kraak-mapping-time">Read more…</a>_
+
+### <a href="/blog/2014/when-bars-point-down">When Bars Point Down</a>
+It's so simple it feels entirely trivial: bars in a bar chart pointing down instead of up. But the effect can be striking. And it's not as obvious when to show downward-pointing bars as it might seem. _<a href="/blog/2014/when-bars-point-down">Read more…</a>_
 
 ### <a href="/blog/2014/data-stories-episode-about-data-storytelling">Data Stories Episode About Data Storytelling</a>
 How is it possible that it has taken a podcast called Data Stories 35 episodes to get to the topic of data storytelling? Alberto Cairo and I helped get the topic straightened out, and I think we even convinced Moritz that stories are not the enemy of exploration. It was a fun episode to record, and it touches on many interesting topics. _<a href="/blog/2014/data-stories-episode-about-data-storytelling">Read more…</a>_
@@ -74,11 +80,29 @@ What makes a story? What does a story do? In part one of this little series, I a
 ### <a href="/blog/2014/stories-are-gateways-into-worlds">Stories Are Gateways Into Worlds</a>
 Moritz Stefaner recently wrote a posting titled Worlds, not stories. He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one. _<a href="/blog/2014/stories-are-gateways-into-worlds">Read more…</a>_
 
+### <a href="/blog/2014/newsvis-org-the-directory-of-news-visualizations">NewsVis.org, The Directory of News Visualizations</a>
+When I was in Portland over the holidays a few weeks ago, I noticed a visualization in the local newspaper, The Oregonian. I had never heard of that before, nor of Mark Friesen, who created it. Wondering how many visualizations I might be missing, I decided to build a website that would collect them all: newsvis.org. _<a href="/blog/2014/newsvis-org-the-directory-of-news-visualizations">Read more…</a>_
+
 ### <a href="/blog/2014/the-mirrored-line-chart-is-a-bad-idea">The Mirrored Line Chart Is A Bad Idea</a>
 The mirrored line chart is a pet peeve of mine. It's very common close to elections when there are two parties or candidates: one's gains are at the other's expense. But it becomes even more egregious when there are two categories that have to sum up to 100% by their very definition. _<a href="/blog/2014/the-mirrored-line-chart-is-a-bad-idea">Read more…</a>_
 
 ### <a href="/blog/2014/data-stories-podcast-2013-in-review-outlook-to-2014">Data Stories Podcast: 2013 in Review, Outlook to 2014</a>
 The Data Stories podcast starts the new year with Andy Kirk and me as guests. With the hosts, Enrico Bertini and Moritz Stefaner, we discuss the major developments of 2013 and look ahead to what 2014 has in store. _<a href="/blog/2014/data-stories-podcast-2013-in-review-outlook-to-2014">Read more…</a>_
+
+### <a href="/blog/2014/peer-review-part-5-the-importance-of-gatekeepers">Peer Review, Part 5: The Importance of Gatekeepers</a>
+The purpose of peer review is to separate the wheat from the chaff, the good from the bad, the brilliant from the clinically insane – you get the picture. But why? Why filter and not just let anybody publish whatever they want? _<a href="/blog/2014/peer-review-part-5-the-importance-of-gatekeepers">Read more…</a>_
+
+### <a href="/blog/2014/4-good-reasons-for-bad-papers">Peer Review, Part 4: Good Reasons for Bad Papers</a>
+As a reviewer, you might sometimes ask yourself why people write so many bad papers. And why they bother submitting them. I certainly do. But where do they come from? Who submits bad papers? And why? It may come as a surprise, but there are good reasons to submit bad papers for review. _<a href="/blog/2014/4-good-reasons-for-bad-papers">Read more…</a>_
+
+### <a href="/blog/2014/3-a-taxonomy-of-bad-papers">Peer Review, Part 3: A Taxonomy of Bad Papers</a>
+Reviewing is great when you get a good paper where you can make some suggestions to make it even better, and everybody’s happy. Bad papers are much less fun, but they are also much more common. Here are some examples I’ve seen and that I keep seeing. _<a href="/blog/2014/3-a-taxonomy-of-bad-papers">Read more…</a>_
+
+### <a href="/blog/2014/2-how-it-works">Peer Review, Part 2: How It Works</a>
+Peer review is one of the central pillars of academic publishing. But how does it actually work? What is blind review, and what is it good for? This part will answer those questions, and then tell you how to be a good reviewer yourself. _<a href="/blog/2014/2-how-it-works">Read more…</a>_
+
+### <a href="/blog/2014/1-quilt-plots">Peer Review, Part 1: Quilt Plots</a>
+What is peer review? How does it work? And is it really as flawed as people claim it is? In this little series, I will talk about all that, and then end up arguing that peer review does, in fact, work - at least in visualization. But first an example where it didn’t. _<a href="/blog/2014/1-quilt-plots">Read more…</a>_
 
 ### <a href="/blog/2014/the-state-of-information-visualization-2014">The State of Information Visualization, 2014</a>
 2013 was another exciting year for visualization. Between many new developments in data storytelling, a new wave of news graphics, new visualization blogs, better automated infographics, and visuals designed to hit you hard, it is difficult to decide what was most important. Here is a look back, and some ideas about where we're going. _<a href="/blog/2014/the-state-of-information-visualization-2014">Read more…</a>_

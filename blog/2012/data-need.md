@@ -9,7 +9,7 @@ outline: false
 
 # How Much Data Do You Really Need?
 
-One of the many things <a title="Malofiej 20" href="http://eagereyes.org/journalism/malofiej-20">Malofiej 20</a> made me wonder about is how we present data and <a title="What Does It Mean to Inform?" href="http://eagereyes.org/journalism/what-does-it-mean-to-inform">what we expect from such a presentation</a>. Very often, we essentially narrate the process of discovery, but is that really the best way? And how much data do we need to show when making a point? Just because we start out with lots of data does not mean we really need to show it all.
+One of the many things <a title="Malofiej 20" href="/journalism/malofiej-20">Malofiej 20</a> made me wonder about is how we present data and <a title="What Does It Mean to Inform?" href="/journalism/what-does-it-mean-to-inform">what we expect from such a presentation</a>. Very often, we essentially narrate the process of discovery, but is that really the best way? And how much data do we need to show when making a point? Just because we start out with lots of data does not mean we really need to show it all.
 
 So here is a simple experiment. Let's look at minimum wage data in the U.S. over time. This was inspired by <a href="http://visual.ly/vizbox/inequality-in-america/">a very nice interactive infographic on <em>Inequality in America</em></a> that EJ Fox of Visual.ly has put together. One of his items shows the difference between the nominal minimum wage (the dollar amount) and the inflation-adjusted value (or buying power).
 
@@ -64,12 +64,12 @@ derek says…
 >	
 >	Thanks for a very thought-provoking post. I agree that the art of data visualisation - like many things in life - is choosing how much to show :)
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I tried the bands, but this is a screenshot of an interactive visualization where I want to be able to add information and highlight things, and the bands interfere with that.
 >	
 >	My point was that I didn't just want to narrate the data, but provide a useful abstraction. That's what a newspaper article does, and I wonder if that's what a visualization can do, too.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	I forgot to mention averaging, etc., I certainly thought about that. The problem with this data in particular is that a LOESS, moving average, etc. would either produce a lot of nonsense around the jumps or have to follow the data so closely that it wouldn't add anything. I also think that there needs to be a level of interpretation, otherwise we're not actually gaining anything. There is no explanation when you simply point to the data.
 
 Joseph Cottam says…
@@ -93,7 +93,7 @@ Joseph Cottam says…
 >	
 >	Thanks!
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	The point about exploration vs. storytelling is not accidental at all; in fact, that's the main point here! Exploration obviously requires as much of the data as possible, but my point is that for storytelling, we'll want to reduce it.
 >	
 >	The comment on inflation is actually based on the steep downward line in the 1970s, so it is actually based on the chart and data shown. But there is no question that I have a particular view of the data, how could I not? I don't even think that a story should be objective, since it can't be, anyway. We might as well run with it.

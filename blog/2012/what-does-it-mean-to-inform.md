@@ -17,7 +17,7 @@ During exploratory and analytical visualization, we query this external represen
 
 When it comes to presentation, however, the situation is very different. The point of presentation is to give the person you are presenting to something he or she will remember. There is no point in presenting data or facts if the audience does not take at least some of them away from the presentation. The place we take information with us is our memory.
 
-To inform means to create a memory. That is a different goal from analytical visualization, and thus the techniques and approaches also have to be different. To create a memory, we need to make connections. Our minds don't store independent pieces of data, but rather <a title="Want to Make A Chart Memorable? Add Junk" href="http://eagereyes.org/blog/2011/want-to-make-chart-memorable-add-junk">connected fragments that we reassemble when we remember something</a>.
+To inform means to create a memory. That is a different goal from analytical visualization, and thus the techniques and approaches also have to be different. To create a memory, we need to make connections. Our minds don't store independent pieces of data, but rather <a title="Want to Make A Chart Memorable? Add Junk" href="/blog/2011/want-to-make-chart-memorable-add-junk">connected fragments that we reassemble when we remember something</a>.
 
 Context is critical in this case, as is uniqueness. Using the same style of visualization for lots of different questions and data sets works fine for analytical purposes; it probably even reduces cognitive load from having to switch between irrelevant differences. But for presentation, a chart or visualization that is to convey a particular message has to be different from the ones that carry other messages. Visual presentations are remembered visually, unlike verbal ones (where it makes no difference whether you read or heard something, or in what language).
 
@@ -39,7 +39,7 @@ _Posted by <a href="/about">Robert Kosara</a> on April 01, 2012_
 >	Paivio, A. (1971). Imagery and verbal processes. New York: Holt, Rinehart &amp; Winston.
 >	Paivio, A. (1986). Mental representations: A dual-coding approach. New York: Oxford University Press.
 
-<a href="http://eagereyes.org/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
+<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
 >	Interesting, thanks for the pointers!
 
 derek says…

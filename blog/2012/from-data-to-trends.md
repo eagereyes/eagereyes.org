@@ -31,7 +31,7 @@ This is smoothing over the 1978 bump for a simpler message: costs have been risi
 
 This is now a more abstract version of the chart that no longer tells you how many data points there were and where: they could be anywhere on the line. The message is still the same, all I have done is remove some detail that is not essential for the overall point.
 
-Where is data and detail necessary, and where does it become a distraction? To make a point, you don't need every detail. Just like there is <a title="How Much Data Do You Really Need?" href="http://eagereyes.org/journalism/data-need">no point in showing every single tiny variation in the consumer price index</a> to talk about how the real value of the minimum wage is dropping, it's often unnecessary to depict every single detail in the data <em>when presenting it</em>.
+Where is data and detail necessary, and where does it become a distraction? To make a point, you don't need every detail. Just like there is <a title="How Much Data Do You Really Need?" href="/journalism/data-need">no point in showing every single tiny variation in the consumer price index</a> to talk about how the real value of the minimum wage is dropping, it's often unnecessary to depict every single detail in the data <em>when presenting it</em>.
 
 
 _Posted by <a href="/about">Robert Kosara</a> on June 03, 2012_

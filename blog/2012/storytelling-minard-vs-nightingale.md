@@ -8,7 +8,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/06/Minard-Nap
 
 # Storytelling: Minard vs. Nightingale
 
-There is a lot of confusion about storytelling and what tells a story. I have <a title="Stories Don’t Tell Themselves" href="http://eagereyes.org/blog/2010/stories-dont-tell-themselves">argued previously that stories do not tell themselves</a>. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it.
+There is a lot of confusion about storytelling and what tells a story. I have <a title="Stories Don’t Tell Themselves" href="/blog/2010/stories-dont-tell-themselves">argued previously that stories do not tell themselves</a>. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it.
 
 ## Exhibit A: Minard
 

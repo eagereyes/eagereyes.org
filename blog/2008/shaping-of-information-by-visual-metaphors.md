@@ -15,7 +15,7 @@ In January, my Ph.D. student <a href="http://www.cs.brown.edu/people/cziemki/">C
 
 Containment questions use a metaphor of nesting, e.g., <em>Find the directory that </em><em>contains </em><em>the most .png type files</em>. Levels questions, on the other hand, use the more common node-link idea of a tree, e.g., <em>Participants counted the number of </em><em>levels </em><em>in the tree</em>.
 
-<p align="center"><img alt="Levels vs. Containers" src="http://eagereyes.org/media/2008/levelsvscontainers.png" width="395" height="236" border="0" /></p>
+<p align="center"><img alt="Levels vs. Containers" src="https://media.eagereyes.org/media/2008/levelsvscontainers.png" width="395" height="236" border="0" /></p>
 
 The "smoking gun" is Table 1 in the paper, which shows a clear correlation between the number of containment questions and the ranking of treemaps. While the sample is small (five papers), the evidence is damning.
 
