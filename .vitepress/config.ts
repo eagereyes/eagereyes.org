@@ -19,7 +19,7 @@ export default defineConfig({
 
 		nav: [
 			{ text: 'Practical', items: [
-				{ text: 'Pie Charts', link: '/tag/pie-charts' },
+				{ text: 'Pie Charts', link: '/pie-charts' },
 				{ text: 'YouTube Videos', link: '/tag/eagereyestv' },
 				{ text: 'Book Reviews', link: '/tag/book-reviews' },
 				{ text: 'Blog', link: '/blog/' },
@@ -27,7 +27,9 @@ export default defineConfig({
 			{ text: 'Academic', items: [
 				{ text: 'My Publications', link: '/publications/' },
 				{ text: 'Conference Reports', link: '/tag/conference' },
+				{ text: 'Peer Review', link: '/tag/peer-review' },
 				{ text: 'Lists of Influences', link: '/tag/influences' },
+				{ text: 'Common Speaking Mistakes', link: '/blog/2016/common-speaking-mistakes-to-avoid' },
 				{ text: 'Criticism', link: '/tag/criticism' },
 			]},
 			{ text: 'Admin', items: [

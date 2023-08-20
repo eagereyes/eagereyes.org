@@ -126,6 +126,9 @@ writeIndex(tags['isotype'], 'tag/isotype.md', 'ISOTYPE')
 writeIndex(tags['influences'], 'tag/influences.md', 'Lists of Influences')
 writeIndex(tags['criticism'], 'tag/criticism.md', 'Criticism')
 writeIndex(tags['eagereyestv'], 'tag/eagereyestv.md', 'EagerEyes Videos')
+writeIndex(tags['peer-review'], 'tag/peer-review.md', 'Peer Review')
+writeIndex(tags['conference'], 'tag/conference.md', 'Conference Reports')
+
 
 allPosts = sorted(allPosts, key=lambda f: f['date'], reverse=True)
 
