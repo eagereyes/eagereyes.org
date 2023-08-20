@@ -2,6 +2,7 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
 import ArticleCard from './ArticleCard.vue';
+import { VPHomeFeatures } from 'vitepress/theme';
 
 import posts from '../../home-feed.json' 
 
@@ -23,6 +24,7 @@ const { Layout } = DefaultTheme
                 :title="p.title" :excerpt="p.description" :image="p.featuredImage"
                 :href="p.path" :date="p.date" />
         </div>
+        <VPHomeFeatures />
         <!-- <div class="bottomLinks">
             <a href="/blog/">Blog</a>
         </div> -->

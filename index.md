@@ -32,6 +32,6 @@ features:
     details: The eagereyes blog, going all the way back to 2006
     link: /blog/
 
-footer: false
+footer: true
 outline: false
 ---
