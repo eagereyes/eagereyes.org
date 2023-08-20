@@ -86,11 +86,17 @@ How should you sequence information in a data story so it makes the most sense? 
 ### <a href="/blog/2017/infovis-papers-at-chi-2017">InfoVis Papers at CHI 2017</a>
 The two main conferences in visualization are VIS and EuroVis, but recently CHI has also gotten some very interesting submissions (CHI is technically a conference about human-computer interaction, or HCI). This year looked particularly strong, _<a href="/blog/2017/infovis-papers-at-chi-2017">Read more…</a>_
 
+### <a href="/blog/2017/linkstravaganza-schwabishs-story-links-and-andrews-seeking-minard">Linkstravaganza: Schwabish's Story Links and Andrews' Seeking Minard</a>
+I don't normally do link dumps, but since I'm behind on blogging and have been meaning to link to these things for a while… here are some articles for you to check out. The first set is on what storytelling means with data, the second about an interesting discovery around Charles Minard. _<a href="/blog/2017/linkstravaganza-schwabishs-story-links-and-andrews-seeking-minard">Read more…</a>_
+
 ### <a href="/blog/2017/averages-are-metadata">Averages Are Metadata</a>
 When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake. _<a href="/blog/2017/averages-are-metadata">Read more…</a>_
 
 ### <a href="/blog/2017/huge-percentages-are-meaningless">Huge Percentages Are Meaningless</a>
 Percentages are incredibly useful when talking about how something is a part of something larger: this many percent tax, that many percent of people are unemployed, etc. When percentages are much larger than 100, however, they lose their meaning and their usefulness. Unfortunately, they seem to be increasingly common. _<a href="/blog/2017/huge-percentages-are-meaningless">Read more…</a>_
+
+### <a href="/blog/2017/how-do-we-know-that">How Do We Know That? – Video of My Talk at UW</a>
+I gave a talk at the University of Washington a few weeks ago. This is an extended version of my BELIV paper An Empire Built on Sand from last year, with more examples and a lot more jokes. You'll learn about various things we know and don't know about visualization, and also whether spinach and carrots actually are good for you. _<a href="/blog/2017/how-do-we-know-that">Read more…</a>_
 
 ### <a href="/blog/2017/isotype-book-priestley-british-women-go-to-war">ISOTYPE Book: Priestley, British Women Go To War</a>
 This is perhaps the oddest book with an ISOTYPE illustration, certainly of the ones I have seen so far. It also contains the most confusing chart produced by the ISOTYPE Institute I am aware of. _<a href="/blog/2017/isotype-book-priestley-british-women-go-to-war">Read more…</a>_

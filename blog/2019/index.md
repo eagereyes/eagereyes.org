@@ -68,3 +68,6 @@ Criticizing visualizations is a cottage industry of sorts, and an activity I hav
 ### <a href="/blog/2019/the-trustvis-workshop-at-eurovis">The TrustVis Workshop at EuroVis</a>
 I'm one of the organizers of the new TrustVis Workshop at EuroVis this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5! _<a href="/blog/2019/the-trustvis-workshop-at-eurovis">Read more…</a>_
 
+### <a href="/blog/2019/maarten-lambrechts-list-of-2018-visualization-lists">Link: Maarten Lambrecht's List of 2018 Visualization Lists</a>
+I'm not generally a fan of year-end lists, but they do provide a great way to see many fantastic pieces of work in one place. And if a simple list already does that, what might a list of lists do? Check out Maarten Lambrecht's List of 2018 Visualization Lists to find out! _<a href="/blog/2019/maarten-lambrechts-list-of-2018-visualization-lists">Read more…</a>_
+

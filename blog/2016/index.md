@@ -32,6 +32,9 @@ Most taxonomies in visualization and HCI are useless. They carve up the space, b
 ### <a href="/blog/2016/rj-andrews-profiling-the-parks">RJ Andrews' Profiling the Parks</a>
 RJ Andrews has created a great little video about the National Parks in the U.S. Have you ever thought about how the different parks compare? Which one is wider, which one is deeper, which one's at higher or lower elevation? _<a href="/blog/2016/rj-andrews-profiling-the-parks">Read more…</a>_
 
+### <a href="/blog/2016/dealing-with-paper-rejections">Dealing with Paper Rejections</a>
+For some reason, the topic of reviewing and getting papers rejected came up several times in conversations at VIS recently. Getting your work rejected and learning to deal with rejection is part of life as an academic, and it’s worthwhile to think about the process a bit. _<a href="/blog/2016/dealing-with-paper-rejections">Read more…</a>_
+
 ### <a href="/blog/2016/graphic-continuum-flash-cards">Graphic Continuum Flash Cards</a>
 Jon Schwabish and Severino Ribecca have turned their Graphic Continuum poster into a set of cards. They're a good way to expand your visual vocabulary and find new ideas for how to represent your data. _<a href="/blog/2016/graphic-continuum-flash-cards">Read more…</a>_
 
@@ -89,14 +92,23 @@ Just ahead of the first decade of this website's history clicking over, here's a
 ### <a href="/blog/2016/blogstravaganza">The Ten Years of EagerEyes Blogstravaganza</a>
 October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats! _<a href="/blog/2016/blogstravaganza">Read more…</a>_
 
+### <a href="/blog/2016/pie-charts-unloved-unstudied-and-misunderstood">Talk: Pie Charts – Unloved, Unstudied, and Misunderstood</a>
+I gave a talk at Information+ earlier this year that has now been posted. It's about pie charts! And it was a fun talk, too. _<a href="/blog/2016/pie-charts-unloved-unstudied-and-misunderstood">Read more…</a>_
+
 ### <a href="/blog/2016/tapestry-2017-st-augustine-fl-on-march-1st">Tapestry 2017: St. Augustine, FL on March 1st</a>
 We just announced next year's Tapestry Conference – the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos! _<a href="/blog/2016/tapestry-2017-st-augustine-fl-on-march-1st">Read more…</a>_
 
 ### <a href="/blog/2016/ben-shneidermans-chart-pies">Ben Shneiderman's Chart Pies</a>
 So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form of charts. Rather than, you know, the other way around. Feast your eyes on delicious-looking chart pies! _<a href="/blog/2016/ben-shneidermans-chart-pies">Read more…</a>_
 
+### <a href="/blog/2016/xkcds-earth-temperature-timeline">Link: xkcd's Earth Temperature Timeline</a>
+Randall Munroe has done it again. His latest xkcd comic is an enormous timeline of the Earth's temperature, showing the enormously long time we have temperature estimates for, and how little it has changed until very, very recently. _<a href="/blog/2016/xkcds-earth-temperature-timeline">Read more…</a>_
+
 ### <a href="/blog/2016/review-lupi-posavec-dear-data">Review: Lupi, Posavec, Dear Data</a>
 Giorgia Lupi and Stefanie Posavec have turned their Dear Data project into a book. It's a great example of the kind of creative work you can do around visualization without computers, entirely by hand. What started with a simple idea turned into an amazing project. _<a href="/blog/2016/review-lupi-posavec-dear-data">Read more…</a>_
+
+### <a href="/blog/2016/jerome-cukiers-series-on-visualization-with-react">Link: Jérôme Cukier's Series on Visualization with React</a>
+While D3 is the standard way of doing visualization on the web right now, there's a lot of interesting stuff happening in the world of JavaScript framework React. And it turns out, you can do some really interesting visualization stuff with React, once you understand the basics. In a series of very thorough postings, Jérôme Cukier takes you through the fundamentals of React and how to use it by itself or together with D3. _<a href="/blog/2016/jerome-cukiers-series-on-visualization-with-react">Read more…</a>_
 
 ### <a href="/blog/2016/nassi-shneiderman-diagrams">Nassi-Shneiderman Diagrams</a>
 Programming languages use words and symbols to represent structures like blocks and conditions. A visual representation of these structures seems useful to keep track of all the different cases, see the scope of variables, etc. Nassi-Shneiderman diagrams offer just such a representation. _<a href="/blog/2016/nassi-shneiderman-diagrams">Read more…</a>_
@@ -110,11 +122,17 @@ There is a reasonable amount of information about visualization available on the
 ### <a href="/blog/2016/the-repetitive-and-boring-history-of-visualization">The Repetitive and Boring History of Visualization</a>
 When people talk about the history of data visualization, the same set of names always comes up: Playfair, Nightingale, Snow, Minard. They are historically important, alright, but why do they overshadow all the other work that was done? And what do we know about how important they actually were? _<a href="/blog/2016/the-repetitive-and-boring-history-of-visualization">Read more…</a>_
 
+### <a href="/blog/2016/our-world-in-data">Link: Our World in Data</a>
+Our World in Data looks at a wide variety of data about the world: health, population, energy, growth, inequality, etc. Max Roser and his colleagues dig through the vast amounts of open data to find many interesting connections and insights. _<a href="/blog/2016/our-world-in-data">Read more…</a>_
+
 ### <a href="/blog/2016/the-bits-are-rotting-in-the-state-of-data-journalism">The Bits Are Rotting in the State of Data Journalism</a>
 News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today. _<a href="/blog/2016/the-bits-are-rotting-in-the-state-of-data-journalism">Read more…</a>_
 
 ### <a href="/blog/2016/a-reanalysis-of-a-study-about-square-pie-charts-from-2009">A Reanalysis of A Study About (Square) Pie Charts from 2009</a>
 After my recent posting on the results of our pie charts studies, Jorge Camoes teased me on Twitter about square pie charts. So I dug up the data from a study we ran many years ago to look at how well they compare to bars, pies, and squares. _<a href="/blog/2016/a-reanalysis-of-a-study-about-square-pie-charts-from-2009">Read more…</a>_
+
+### <a href="/blog/2016/mona-chalabis-data-sketches-on-instagram">Link: Mona Chalabi's Data Sketches on Instagram</a>
+Mona Chalabi has one of the most interesting Instagram feeds for people interested in data visualization. She draws data by hand. It's interesting data, too, and her approach is accessible and inspiring. _<a href="/blog/2016/mona-chalabis-data-sketches-on-instagram">Read more…</a>_
 
 ### <a href="/blog/2016/new-improved-traveling-presidential-candidate-map">New, Improved Traveling Presidential Candidate Map</a>
 Many years ago, when this website was still young, I created a map of all the ZIP codes in the U.S. in numeric order and then wondered about the shortest path through all of them. I dubbed that The Traveling Presidential Candidate Map. Here is an improved version that's interactive and much more efficient than the old one. _<a href="/blog/2016/new-improved-traveling-presidential-candidate-map">Read more…</a>_
@@ -167,6 +185,9 @@ The shape of a dataset is hugely important to how well it can be handled by diff
 ### <a href="/blog/2016/the-personified-user-interface-trap">The Personified User Interface Trap</a>
 Personified user interfaces, like chat bots or agents, are the new thing once again. But despite advances in artificial intelligence, they still have many issues and drawbacks compared to direct-manipulation interfaces. There was a debate around these interfaces in the 1990s, and it seems to be bound to repeat itself. _<a href="/blog/2016/the-personified-user-interface-trap">Read more…</a>_
 
+### <a href="/blog/2016/scott-klein-on-the-history-of-data-journalism">Links: Scott Klein on the History of Data Journalism</a>
+The history of data journalism goes back much farther than most people assume. Long before computers or punch cards, and before even the first newspapers the way we know them today, data was being published. ProPublica's Scott Klein has been digging up a lot of interesting history. _<a href="/blog/2016/scott-klein-on-the-history-of-data-journalism">Read more…</a>_
+
 ### <a href="/blog/2016/the-two-paper-package">The Two-Paper Package</a>
 Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers. _<a href="/blog/2016/the-two-paper-package">Read more…</a>_
 
@@ -175,6 +196,12 @@ You may think that the debate over pie charts was a new one, but it has raged on
 
 ### <a href="/blog/2016/the-state-of-information-visualization-2016">The State of Information Visualization, 2016</a>
 Oh hello, new year! I almost didn't see you there! Lots of interesting things happened last year: Dear Data, deceptive visualization, storytelling research, new tools and ideas, etc. And this year is already shaping up to be quite strong, too. _<a href="/blog/2016/the-state-of-information-visualization-2016">Read more…</a>_
+
+### <a href="/blog/2016/2015-year-in-graphics-links">2015 Year in Graphics Links</a>
+A bit late, but here are links to a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year. _<a href="/blog/2016/2015-year-in-graphics-links">Read more…</a>_
+
+### <a href="/blog/2016/tamara-munzner-has-a-blog">Link: Tamara Munzner Has A Blog!</a>
+Late last year, Tamara Munzner started a blog, called Vis &amp; More. So far, she mostly writes in response to Stephen Few's postings late last year about some recent visualization papers. Her style is quite academic (most of her posting titles start with "On"…), but very readable and she has lots of interesting things to say. _<a href="/blog/2016/tamara-munzner-has-a-blog">Read more…</a>_
 
 ### <a href="/blog/2016/presentation-oriented-visualization-techniques">Paper: Presentation-Oriented Visualization Techniques</a>
 Presentation is often considered a part of visualization, but what does that mean for the kinds of techniques we use? Are they the same as used for analysis? What criteria should we use to pick them? In a new paper, I discuss a class of techniques I call presentation-only. _<a href="/blog/2016/presentation-oriented-visualization-techniques">Read more…</a>_
