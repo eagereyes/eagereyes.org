@@ -73,7 +73,7 @@ REPLACEPATHS = [{'from': 'blog/web', 'to': 'blog/2014'},
 				{'from': 'post-format-quote', 'to': 'blog/2015'},
 				]
 
-EXTRACTPATH = 'blog/2015'
+EXTRACTPATH = 'pie-charts'
 OVERWRITE = False
 
 postsBySlug = {}
