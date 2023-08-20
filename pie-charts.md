@@ -24,12 +24,10 @@ To illustrate the problem with pie charts and precision,
 <a href="https://commons.wikimedia.org/wiki/File:Piecharts.svg">this image by Wikipedia contributor Schutz</a>
 is a good illustration (though a bit unfair, as you'll see in a moment).
 
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/piecharts-wikipedia.png" alt="piecharts-wikipedia" width="660" height="474"/></p>
 
 Look at the green slices and try to figure out if they are increasing or decreasing from left to right! Of course, that's not what pie charts are good at. Also, it's generally a bad idea to use pie charts for values that are very similar. And as I 
-<a href="/techniques/stacked-bars-are-the-worst">point out in another article</a>
-, you can easily construct an example that's equally bad with stacked bars.
+<a href="/techniques/stacked-bars-are-the-worst">point out in another article</a>, you can easily construct an example that's equally bad with stacked bars.
 
 ## Good and Bad Examples
 
@@ -115,10 +113,9 @@ Another, more common alternative are bar charts. The problem is that stacked ba
 
 Okay, I'll admit: much of this is my own work. But these articles are based on published research papers. Drew Skau and I have conducted some experiments and found that the age-old assumption that angle is the way we read pie charts is probably wrong. That is important because it means that some things we thought were problematic really aren't (like donut charts) and some things we thought were fine are actually a bad idea (like increasing the radius of a single slice for emphasis).
 
-- <em><a href="/talk/pie-charts-unloved-unstudied-and-misunderstood">Pie Charts – Unloved, Unstudied, and Misunderstood</a></em>. A talk I gave at Information+ in summer of 2016. It's a 20-minute talk about the pie charts studies. Also a fun talk, if I say so myself.
-- <em><a href="/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">An Illustrated Tour of the Pie Chart Study Results</a></em>. This is the written-up version of the talk going through the main results. It shows how we figured out how to separate the visual cues, tested them, and then tested some hypotheses we developed based on those first results. I also have 
-- <a href="/papers/a-pair-of-pie-chart-papers">a shorter summary of the two papers</a> I based this on.
-- <em><a href="/blog/2015/ye-olde-pie-chart-debate">Ye Olde Pie Chart Debate</a></em>. If you think pie charts have only recently fallen from grace, let this sample of quotes from scientific papers in the 1920s show you otherwise.
+- <em><a href="/blog/2016/pie-charts-unloved-unstudied-and-misunderstood">Pie Charts – Unloved, Unstudied, and Misunderstood</a></em>. A talk I gave at Information+ in summer of 2016. It's a 20-minute talk about the pie charts studies. Also a fun talk, if I say so myself.
+- <em><a href="/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">An Illustrated Tour of the Pie Chart Study Results</a></em>. This is the written-up version of the talk going through the main results. It shows how we figured out how to separate the visual cues, tested them, and then tested some hypotheses we developed based on those first results. I also have <a href="/papers/a-pair-of-pie-chart-papers">a shorter summary of the two papers</a> I based this on.
+- <em><a href="/blog/2016/ye-olde-pie-chart-debate">Ye Olde Pie Chart Debate</a></em>. If you think pie charts have only recently fallen from grace, let this sample of quotes from scientific papers in the 1920s show you otherwise.
 - <a href="/criticism/in-defense-of-pie-charts">A paper I wrote about a while ago</a> did some interesting comparisons of pies and found that there is a particular task that they do better than even bars: combine neighboring slices and compare those to the whole.
 
 See more under the [Pie Charts tag](/tag/pie-charts)!
