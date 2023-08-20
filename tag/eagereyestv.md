@@ -7,6 +7,12 @@ next: false
 
 # EagerEyes Videos
 
+### <a href="/blog/2023/new-video-exploring-the-connections-between-companies-with-they-rule">New video: Exploring the connections between companies with They Rule</a>
+Josh On's They Rule is back, and I've made a video about it. _<a href="/blog/2023/new-video-exploring-the-connections-between-companies-with-they-rule">Read more…</a>_
+
+### <a href="/blog/2022/new-video-gauges-for-data-visualization-the-ny-times-election-needle-and-circular-bar-charts">New video: Gauges for Data Visualization, The NY Times Election Needle, and Circular Bar Charts</a>
+Gauges aren't very popular in visualization, but they have some interesting properties. There is, of course, the infamous NY Times "election needle," but you're probably using gauges every day without giving them too much thought. There's also an interesting connection with circular bar charts, which I think can work well when used as part-to-whole charts. I talk about all of this in my new video. _<a href="/blog/2022/new-video-gauges-for-data-visualization-the-ny-times-election-needle-and-circular-bar-charts">Read more…</a>_
+
 ### <a href="/blog/2021/new-video-the-science-of-pie-charts">New Video: The Science of Pie Charts</a>
 The common explanation for how pie charts work is that we read them by angle. That of course would mean that donut charts would be bad, because you can't see the angle when you take away the center of the pie. Changing the radius of a slice wouldn't matter though, because that doesn't change the angle. But there is no evidence that angle is how we read pie charts, quite the opposite actually. In this new video, I walk through five reasons why angle is not how we read pies, and what that means for other things we like to assume about them. _<a href="/blog/2021/new-video-the-science-of-pie-charts">Read more…</a>_
 

@@ -20,6 +20,7 @@ export default defineConfig({
 		nav: [
 			{ text: 'Practical', items: [
 				{ text: 'Pie Charts', link: '/tag/pie-charts' },
+				{ text: 'YouTube Videos', link: '/tag/eagereyestv' },
 				{ text: 'Book Reviews', link: '/tag/book-reviews' },
 				{ text: 'Blog', link: '/blog/' },
 			]},

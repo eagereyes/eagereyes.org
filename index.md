@@ -25,9 +25,9 @@ features:
   - title: Pie Charts
     details: Learn about how they work, and what we know and don't know about them
     link: /tag/pie-charts
-  - title: Publications
-    details: All my scientific publications
-    link: /publications/
+  - title: YouTube Videos
+    details: My 'eagereyesTV' YouTube videos about chart types, data, etc.
+    link: /tag/eagereyestv
   - title: The Blog
     details: The eagereyes blog, going all the way back to 2006
     link: /blog/

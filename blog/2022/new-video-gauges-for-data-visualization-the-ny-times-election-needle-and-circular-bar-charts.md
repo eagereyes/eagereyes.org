@@ -2,7 +2,7 @@
 title: "New video: Gauges for Data Visualization, The NY Times Election Needle, and Circular Bar Charts"
 description: "Gauges aren't very popular in visualization, but they have some interesting properties. There is, of course, the infamous NY Times \"election needle,\" but you're probably using gauges every day without giving them too much thought. There's also an interesting connection with circular bar charts, which I think can work well when used as part-to-whole charts. I talk about all of this in my new video."
 date: 2022-05-17 20:55:09
-tags: YouTube Videos
+tags: eagereyestv
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/05/Gauges-Thumbnail-4x3-1.jpeg
 outline: false
 ---
