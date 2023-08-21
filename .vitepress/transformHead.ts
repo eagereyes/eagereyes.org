@@ -14,7 +14,7 @@ export default async function transformHead(context: TransformContext) {
     let head = <HeadConfig[]>[];
 
     if (context.pageData.filePath === 'index.md') {
-        head.concat([
+        head = head.concat([
             [ 'meta', {property: 'og:title', content: 'eagereyes.org' } ],
             [ 'meta', {property: 'og:description', content: 'Visualization and Visual Communication' } ],
             // [ 'meta', {property: 'og:image', content: fm.featuredImage} ],
@@ -22,7 +22,7 @@ export default async function transformHead(context: TransformContext) {
             [ 'meta', {property: 'og:type', content: 'website' } ]
         ]);
     } else {
-        head.concat([
+        head = head.concat([
             // OpenGraph
             [ 'meta', {property: 'og:title', content: fm.title } ],
             [ 'meta', {property: 'og:description', content: fm.description } ],
@@ -34,7 +34,7 @@ export default async function transformHead(context: TransformContext) {
 
     // Twitter Cards
     // https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started
-    head.concat([
+    head = head.concat([
             [ 'meta', {name: 'twitter:card', content: fm.featuredImage ? 'summary_large_image' : 'summary' } ],
             [ 'meta', {name: 'twitter:site', content: '@eagereyes' } ],
             [ 'meta', {name: 'twitter:creator', content: '@eagereyes' } ]
