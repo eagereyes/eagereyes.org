@@ -15,13 +15,16 @@ export default async function transformHead(context: TransformContext) {
         [ 'meta', {property: 'og:image', content: fm.featuredImage} ],
         [ 'meta', {property: 'og:url', content: url } ],
         [ 'meta', {property: 'og:type', content: 'article' } ],
-        [ 'meta', {property: 'article:published_time', content: (new Date(fm.Date).toISOString())}],
         // Twitter Cards
         // https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started
         [ 'meta', {name: 'twitter:card', content: fm.featuredImage ? 'summary_large_image' : 'summary' } ],
         [ 'meta', {name: 'twitter:site', content: '@eagereyes' } ],
         [ 'meta', {name: 'twitter:creator', content: '@eagereyes' } ]
     ];
+
+    if (fm.Date) {
+        head.push([ 'meta', {property: 'article:published_time', content: (new Date(fm.Date).toISOString())}]);
+    }
 
     return head;
 }
