@@ -6,8 +6,13 @@ import { type TransformContext } from 'vitepress';
 <meta property="og:image" content="https://ahrefs.com/blog/wp-content/uploads/2019/12/fb-how-to-become-an-seo-expert.png" />
 */
 export default async function transformHead(context: TransformContext) {
+
+    if (context.pageData.filePath === 'index.md') {
+        return [];
+    }
+
     const fm = context.pageData.frontmatter;
-    const url = 'https://eagereeyes.org/'+context.pageData.relativePath.slice(0, -3);
+    const url = 'https://eagereyes.org/'+context.pageData.relativePath.slice(0, -3);
     let head = [
         // OpenGraph
         [ 'meta', {property: 'og:title', content: fm.title } ],
