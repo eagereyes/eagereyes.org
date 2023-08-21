@@ -66,6 +66,7 @@ export default defineConfig({
 	},
 
 	head: [
+		[ 'meta', {name: 'author', content: 'Robert Kosara' }],
 		[ 'link', {rel: 'icon', sizes: "32x32",
 			'href': "https://media.eagereyes.org/wp-content/uploads/2016/09/winky-e-favicon-256.png" } ],
 		[ 'link', {rel: 'icon', sizes: "192x192",
