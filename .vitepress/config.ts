@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 import { readFileSync } from 'node:fs';
 import { genFeed } from './genFeed';
+import transformHead from './transformHead';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -94,5 +95,10 @@ export default defineConfig({
 		hostname: 'https://eagereyes.org'
 	},
 
+	// generate open-graph and Twitter card header fields
+	transformHead: transformHead,
+
+	// generate the RSS and Atom feeds
 	buildEnd: genFeed
 })
+
