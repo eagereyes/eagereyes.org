@@ -22,8 +22,8 @@ export default async function transformHead(context: TransformContext) {
         [ 'meta', {name: 'twitter:creator', content: '@eagereyes' } ]
     ];
 
-    if (fm.Date) {
-        head.push([ 'meta', {property: 'article:published_time', content: (new Date(fm.Date).toISOString())}]);
+    if (fm.date) {
+        head.push([ 'meta', {property: 'article:published_time', content: (new Date(fm.date).toISOString())}]);
     }
 
     return head;
