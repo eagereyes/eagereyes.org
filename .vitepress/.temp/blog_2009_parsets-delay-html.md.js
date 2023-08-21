@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.cc2b3d55.js";
+const __pageData = JSON.parse(`{"title":"Parallel Sets Release Pushed Back A Bit (Updated)","description":"I'm very sorry, but we have to delay the release. We need to make sure that we have the right to release the program, and this is taking a bit longer than expected. The software was written in part by students paid from the SRVAC, which is funded by DHS and DOE. It is unlikely that there will be a problem, but we don't have the go-ahead yet, either. I am hoping that we can get the green light this week.","frontmatter":{"title":"Parallel Sets Release Pushed Back A Bit (Updated)","description":"I'm very sorry, but we have to delay the release. We need to make sure that we have the right to release the program, and this is taking a bit longer than expected. The software was written in part by students paid from the SRVAC, which is funded by DHS and DOE. It is unlikely that there will be a problem, but we don't have the go-ahead yet, either. I am hoping that we can get the green light this week.","date":"2009-05-12T20:03:37.000Z","tags":null,"featuredImage":"https://media.eagereyes.org/media/2009/parsets-delay.png","outline":false},"headers":[],"relativePath":"blog/2009/parsets-delay-html.md","filePath":"blog/2009/parsets-delay-html.md"}`);
+const _sfc_main = { name: "blog/2009/parsets-delay-html.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-delay.png" border="0" alt="ParSets Delay" width="560" height="158"></p><h1 id="parallel-sets-release-pushed-back-a-bit-updated" tabindex="-1">Parallel Sets Release Pushed Back A Bit (Updated) <a class="header-anchor" href="#parallel-sets-release-pushed-back-a-bit-updated" aria-label="Permalink to &quot;Parallel Sets Release Pushed Back A Bit (Updated)&quot;">​</a></h1><p>I&#39;m very sorry, but we have to delay the release. We need to make sure that we have the right to release the program, and this is taking a bit longer than expected. The software was written in part by students paid from the SRVAC, which is funded by DHS and DOE. It is unlikely that there will be a problem, but we don&#39;t have the go-ahead yet, either. I am hoping that we can get the green light this week.</p><p>This is clearly my fault for not checking these things earlier. It had been my understanding that that would just be a formality – and it may well be, it&#39;s just taking longer because of bad timing. The issue is whether we have to submit the software for a review (which we do for publications, and it&#39;s not clear if that applies to software, too), and then how long that might take (it&#39;s pretty quick for papers, but I can&#39;t tell if it might be different for software).</p><p>I have no doubt that we will be able to release the software, it is just a matter of when. The program is also ready to go. We will keep working on it in the meantime, but will release it the moment we get the go-ahead.</p><p>At least, this has given me another opportunity to play with the gorgeous Bauhaus font. As I wrote elsewhere, typography is a drug.</p><p><em>Posted by <a href="/about">Robert Kosara</a> on May 12, 2009</em></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("blog/2009/parsets-delay-html.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const parsetsDelayHtml = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  parsetsDelayHtml as default
+};

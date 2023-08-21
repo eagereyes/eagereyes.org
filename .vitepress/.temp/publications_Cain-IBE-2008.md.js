@@ -1,0 +1,24 @@
+import { ssrRenderAttrs, ssrRenderStyle } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.cc2b3d55.js";
+const __pageData = JSON.parse('{"title":"A Data Warehouse for Collection and Visual Analysis of Genomic Data","description":"","frontmatter":{"title":"A Data Warehouse for Collection and Visual Analysis of Genomic Data"},"headers":[],"relativePath":"publications/Cain-IBE-2008.md","filePath":"publications/Cain-IBE-2008.md"}');
+const _sfc_main = { name: "publications/Cain-IBE-2008.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><h1 id="a-data-warehouse-for-collection-and-visual-analysis-of-genomic-data" tabindex="-1">A Data Warehouse for Collection and Visual Analysis of Genomic Data <a class="header-anchor" href="#a-data-warehouse-for-collection-and-visual-analysis-of-genomic-data" aria-label="Permalink to &quot;A Data Warehouse for Collection and Visual Analysis of Genomic Data&quot;">​</a></h1><p>Aurora Cain, Robert Kosara, and Cynthia Gibas, A Data Warehouse for Collection and Visual Analysis of Genomic Data, <em>Institute of Biological Engineering Annual Conference</em>, 2008.</p><div class="language-bibtex"><button title="Copy Code" class="copy"></button><span class="lang">bibtex</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">@</span><span style="${ssrRenderStyle({ "color": "#F78C6C" })}">inproceedings</span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">{</span><span style="${ssrRenderStyle({ "color": "#FFCB6B" })}">Cain:IBE:2008</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">,</span></span>
+<span class="line"><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">	</span><span style="${ssrRenderStyle({ "color": "#82AAFF" })}">year</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">=</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#F78C6C" })}">2008</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">,</span></span>
+<span class="line"><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">	</span><span style="${ssrRenderStyle({ "color": "#82AAFF" })}">title</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">=</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">{</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">A Data Warehouse for Collection and Visual Analysis of Genomic Data</span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">}</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">,</span></span>
+<span class="line"><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">	</span><span style="${ssrRenderStyle({ "color": "#82AAFF" })}">author</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">=</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">{</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">Aurora Cain and Robert Kosara and Cynthia Gibas</span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">}</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">,</span></span>
+<span class="line"><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">	</span><span style="${ssrRenderStyle({ "color": "#82AAFF" })}">venue</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">=</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}"> </span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">{</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">Institute of Biological Engineering Annual Conference</span><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">}</span><span style="${ssrRenderStyle({ "color": "#A6ACCD" })}">,</span></span>
+<span class="line"><span style="${ssrRenderStyle({ "color": "#89DDFF" })}">}</span></span></code></pre></div></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("publications/Cain-IBE-2008.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const CainIBE2008 = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  CainIBE2008 as default
+};

@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.cc2b3d55.js";
+const __pageData = JSON.parse('{"title":"Portrait: Danielle Albers Szafir","description":"Danielle Albers Szafir received the Best Paper award for her single-author paper, Modeling Color Difference for Visualization Design at InfoVis this year. She is assistant professor at University of Colorado Boulder and runs the CU VisuaLab there.","frontmatter":{"title":"Portrait: Danielle Albers Szafir","description":"Danielle Albers Szafir received the Best Paper award for her single-author paper, Modeling Color Difference for Visualization Design at InfoVis this year. She is assistant professor at University of Colorado Boulder and runs the CU VisuaLab there.","date":"2017-10-18T06:17:16.000Z","tags":"portrait","featuredImage":"https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg","outline":false},"headers":[],"relativePath":"blog/2017/danielle-albers-szafir.md","filePath":"blog/2017/danielle-albers-szafir.md"}');
+const _sfc_main = { name: "blog/2017/danielle-albers-szafir.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><p align="center"><img class="aligncenter size-full wp-image-10211" src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg" alt="" width="720" height="480"></p><h1 id="portrait-danielle-albers-szafir" tabindex="-1">Portrait: Danielle Albers Szafir <a class="header-anchor" href="#portrait-danielle-albers-szafir" aria-label="Permalink to &quot;Portrait: Danielle Albers Szafir&quot;">​</a></h1><p><a href="http://danielleszafir.com">Danielle Albers Szafir</a> received the Best Paper award for her single-author paper, <em><a href="http://cmci.colorado.edu/visualab/VisColors/">Modeling Color Difference for Visualization Design</a></em> at InfoVis this year. She is assistant professor at University of Colorado Boulder and runs the <a href="http://cmci.colorado.edu/visualab/">CU VisuaLab</a> there.</p><p>Danielle works on a number of research projects centered around perception, and in particular color, but also topics like visual comparison. In her ample spare time, she plays ice hockey competitively, and has for the last 15 years – she says that this hobby helped keep her sane in grad school.</p><hr><p>This is the first posting in a new series, <a href="/portrait"><em>Portraits</em></a>. The goal is to associate people (or at least their faces) with the names you read on papers. I&#39;m going to post one each month with a little description. I&#39;m stealing the idea (and the aesthetics) <a href="http://prometheus.med.utah.edu/~bwjones/category/portraits/">from Bryan Jones&#39; blog</a>. There will be some color photos here at times, but for the most part I&#39;m sticking to black and white. But since Danielle does color research, I figured it made sense to also include the color version of her portrait here.</p><p align="center"><img class="aligncenter size-full wp-image-10211" src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-color.jpg" alt="" width="720" height="480"></p><p><em>Posted by <a href="/about">Robert Kosara</a> on October 18, 2017</em></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("blog/2017/danielle-albers-szafir.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const danielleAlbersSzafir = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  danielleAlbersSzafir as default
+};

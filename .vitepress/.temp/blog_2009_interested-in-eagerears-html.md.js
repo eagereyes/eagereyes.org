@@ -1,0 +1,19 @@
+import { ssrRenderAttrs } from "vue/server-renderer";
+import { useSSRContext } from "vue";
+import { _ as _export_sfc } from "./plugin-vue_export-helper.cc2b3d55.js";
+const __pageData = JSON.parse(`{"title":"Anybody interested in eagerears.org/.com?","description":"I got the domains EagerEars.org and EagerEars.com for my April Fool's joke. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.","frontmatter":{"title":"Anybody interested in eagerears.org/.com?","description":"I got the domains EagerEars.org and EagerEars.com for my April Fool's joke. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.","date":"2009-05-02T21:29:32.000Z","tags":null,"featuredImage":"https://media.eagereyes.org/media/2009/imallears.png","outline":false},"headers":[],"relativePath":"blog/2009/interested-in-eagerears-html.md","filePath":"blog/2009/interested-in-eagerears-html.md"}`);
+const _sfc_main = { name: "blog/2009/interested-in-eagerears-html.md" };
+function _sfc_ssrRender(_ctx, _push, _parent, _attrs, $props, $setup, $data, $options) {
+  _push(`<div${ssrRenderAttrs(_attrs)}><p align="center"><img src="https://media.eagereyes.org/media/2009/imallears.png" border="0" alt="I&#39;m all Ears" width="560" height="250"></p><h1 id="anybody-interested-in-eagerears-org-com" tabindex="-1">Anybody interested in eagerears.org/.com? <a class="header-anchor" href="#anybody-interested-in-eagerears-org-com" aria-label="Permalink to &quot;Anybody interested in eagerears.org/.com?&quot;">​</a></h1><p>I got the domains EagerEars.org and EagerEars.com for my <a href="/blog/2009/new-sister-site-eagerears.html">April Fool&#39;s joke</a>. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.</p><p>So there are some strings attached here, I will not simply hand the domain over. Neither will I tell you what to do (or provide hosting or any kind of infrastructure), I simply want to make sure the site that you are planning is really what shows up on EagerEars. So we will have to negotiate a hand-over date and conditions to be met. In return, you get a free domain for about eight months and some free advertising from this site.</p><p>It&#39;s very easy to register a domain, but there is no simple way to discard it. While I can jump through some hoops to get it deleted, it will almost certainly be picked up by a spammer. So I&#39;d rather try to find somebody who can put it to some use, and maybe even help get an interesting website started.</p><p>So if you are interested, <a href="/contact">contact me</a>, and we&#39;ll discuss this via email.</p><p><em>Posted by <a href="/about">Robert Kosara</a> on May 02, 2009</em></p></div>`);
+}
+const _sfc_setup = _sfc_main.setup;
+_sfc_main.setup = (props, ctx) => {
+  const ssrContext = useSSRContext();
+  (ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("blog/2009/interested-in-eagerears-html.md");
+  return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+const interestedInEagerearsHtml = /* @__PURE__ */ _export_sfc(_sfc_main, [["ssrRender", _sfc_ssrRender]]);
+export {
+  __pageData,
+  interestedInEagerearsHtml as default
+};
