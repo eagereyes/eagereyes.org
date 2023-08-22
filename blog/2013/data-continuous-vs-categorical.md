@@ -2,7 +2,7 @@
 title: "Data: Continuous vs. Categorical"
 description: "Data comes in a number of different types, which determine what kinds of mapping can be used for them. The most basic distinction is that between continuous (or quantitative) and categorical data, which has a profound impact on the types of visualizations that can be used."
 date: 2013-04-17 22:03:03
-tags: attention
+tags: basics
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/04/bars-multiple.png
 ---
 

@@ -2,7 +2,7 @@
 title: "Rainbow Colormaps Are Not All Bad (Paper)"
 description: "Rainbow colormaps are among the most derided ideas in data visualization, second only to pie charts. And yet, people use them. Why? A recent paper looks at some of the reasons why they are so popular and points to research showing that they might not be so bad if used for the right tasks. There's even opportunity for interesting research in rainbow colormaps!"
 date: 2023-07-12 21:21:02
-tags: 
+tags: basics
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2023/07/rainbow-comparison.jpeg
 outline: false
 ---

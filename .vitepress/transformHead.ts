@@ -13,6 +13,7 @@ export default async function transformHead(context: TransformContext) {
 
     let head = <HeadConfig[]>[];
 
+    // OpenGraph
     if (context.pageData.filePath === 'index.md') {
         head = head.concat([
             [ 'meta', {property: 'og:title', content: 'eagereyes.org' } ],
@@ -23,7 +24,6 @@ export default async function transformHead(context: TransformContext) {
         ]);
     } else {
         head = head.concat([
-            // OpenGraph
             [ 'meta', {property: 'og:title', content: fm.title } ],
             [ 'meta', {property: 'og:description', content: fm.description } ],
             [ 'meta', {property: 'og:image', content: fm.featuredImage} ],

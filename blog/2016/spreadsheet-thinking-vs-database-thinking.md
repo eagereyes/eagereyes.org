@@ -2,7 +2,7 @@
 title: "Spreadsheet Thinking vs. Database Thinking"
 description: "The shape of a dataset is hugely important to how well it can be handled by different software. The shape defines how it is laid out: wide as in a spreadsheet, or long as in a database table. Each has its use, but it's important to understand their differences and when each is the right choice."
 date: 2016-04-24 19:25:28
-tags: attention
+tags: basics
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/04/image.jpeg
 ---
 

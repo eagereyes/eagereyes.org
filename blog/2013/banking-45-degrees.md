@@ -2,7 +2,7 @@
 title: "Aspect Ratio and Banking to 45 Degrees"
 description: "The same data can look very different in a line chart depending on its aspect ratio. But what is the perfect shape for a chart? A square? A rectangle? Which rectangle? It depends on the data."
 date: 2013-06-02 20:17:30
-tags: attention
+tags: attention, basics
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/06/aspect-ratios.png
 ---
 
