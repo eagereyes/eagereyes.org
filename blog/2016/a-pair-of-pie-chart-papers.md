@@ -13,7 +13,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/pie-packag
 
 How do we read pie charts? Do they differ from the even more reviled donut charts? What about common pie chart designs like exploded pies? In two papers to be presented at <a href="http://eurovis.org/">EuroVis</a> next week, Drew Skau and I show that the common wisdom about how we read these charts (by angle) is almost certainly wrong, and that things are much more complicated than we thought.
 
-Pie charts are generally looked down on in visualization, and many people pride themselves on saying mean things about them and the people who use them. <a href="/blog/2015/ye-olde-pie-chart-debate">This is not a new phenomenon, either</a>. Yet they are incredibly common in business settings and information graphics.
+Pie charts are generally looked down on in visualization, and many people pride themselves on saying mean things about them and the people who use them. <a href="/blog/2016/ye-olde-pie-chart-debate">This is not a new phenomenon, either</a>. Yet they are incredibly common in business settings and information graphics.
 
 The main reason for these papers was the question: do we even know how we read these charts? Is it actually angle, as is usually claimed, or is it really arc length or maybe area? It turns out that there is no actual research to back up the claims that it's angle. The only paper we could find, and which gets cited over and over again, is from 1926. That's <em>ninety years</em> ago. And the author just asked people what they thought they used, which is quite unreliable.
 
