@@ -26,10 +26,10 @@ features:
     details: Learn about how they work, and what we know and don't know about them
     link: /tag/pie-charts
   - title: YouTube Videos
-    details: My 'eagereyesTV' YouTube videos about chart types, data, etc.
+    details: My 'eagereyesTV' videos about chart types, data journalism, data, etc.
     link: /tag/eagereyestv
-  - title: The Blog
-    details: The eagereyes blog, going all the way back to 2006
+  - title: Blog Archive
+    details: Almost 600 posts from the eagereyes blog, going all the way back to 2006
     link: /blog/
 
 footer: true
