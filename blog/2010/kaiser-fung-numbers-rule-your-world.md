@@ -25,7 +25,9 @@ There are tons of statistics books, but the fact that this one almost completely
 
 Now somebody write such a book about visualization!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 28, 2010. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)_
+
 
 <aside class="comments">
 

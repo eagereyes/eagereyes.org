@@ -46,7 +46,9 @@ Jason Moore also suggested a hippocratic oath for visualization. This version is
 
 We all want visualization to matter, but there is a lot of work to be done for it to really be able to do that. There are many open questions about the reliability, reproducibility, verifiability, and validity of visualization. As the field matures, we need to address those. Many of these questions may not be as exciting as coming up with yet another way of representing the data, but they are undoubtedly much more important.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 06, 2011_
+
 
 <aside class="comments">
 

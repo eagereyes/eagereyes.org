@@ -43,5 +43,7 @@ It’s kind of an odd paper because it seems like an obvious thing to define, bu
 
 This concludes the first part, the rest will be covered in <a href="/blog/2019/highlights-from-eurovis-2019-part-2">Part 2</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 26, 2019_
+
 

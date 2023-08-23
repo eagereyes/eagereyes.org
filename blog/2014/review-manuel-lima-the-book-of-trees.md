@@ -66,5 +66,7 @@ Manuel Lima, <em>The Book of Trees</em>. Princeton Architectural Press, 2014.
 
 The publisher sent me a free copy of the book for this review.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 13, 2014. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
+
 

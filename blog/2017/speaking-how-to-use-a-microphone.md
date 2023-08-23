@@ -35,7 +35,9 @@ See also <a href="/blog/2016/common-speaking-mistakes-to-avoid">my other posting
 
 <a href="https://www.flickr.com/photos/lincolnblues/6262298600">Teaser image by Craig Piersma</a>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 09, 2017_
+
 
 <aside class="comments">
 

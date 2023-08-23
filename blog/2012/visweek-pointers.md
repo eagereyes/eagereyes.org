@@ -28,5 +28,7 @@ I will be <a href="http://twitter.com/eagereyes">tweeting</a> from VisWeek a bit
 
 <a title="EuroVis 2012, Day 1" href="/blog/2012/eurovis-2012-day-1">Just</a> <a title="EuroVis 2012, Day 2" href="/blog/2012/eurovis-2012-day-2">like</a> <a title="EuroVis 2012, Day 3" href="/blog/2012/eurovis-2012-day-3">with</a> <a title="EuroVis 2012, Last Day and Wrap-Up" href="/blog/2012/eurovis-2012-wrap-up">EuroVis</a>, I will try to write daily summaries here. Given the number of parties and other events planned at night, I might skip a day or two, but I will do my best to keep you informed about the most important stuff.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 10, 2012_
+
 

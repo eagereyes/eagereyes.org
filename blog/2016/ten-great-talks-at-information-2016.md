@@ -90,5 +90,7 @@ There were many more talks, and you should <a href="http://informationplusconfer
 
 This was the first Information+ conference, but the organizers are planning in co-locating the next one with VIS 2018 in Berlin.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 06, 2016_
+
 

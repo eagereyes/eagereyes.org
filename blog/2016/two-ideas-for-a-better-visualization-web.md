@@ -48,7 +48,9 @@ Still, I think it would be incredible helpful to have such a site. It would crea
 
 <a href="https://www.flickr.com/photos/sammcox/6668006863/">Teaser image by Sam Cox</a>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 17, 2016_
+
 
 <aside class="comments">
 

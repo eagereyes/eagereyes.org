@@ -19,7 +19,9 @@ The structure is what ties it all together. I can sometimes literally see the st
 
 So head on over and check the place out. Let me know what topics you are interested in, and maybe leave a comment. There's not a lot of stuff there yet, but it's a start.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 01, 2009_
+
 
 <aside class="comments">
 

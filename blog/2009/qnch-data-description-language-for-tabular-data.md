@@ -151,7 +151,9 @@ I will incorporate a qnch parser into the next version of <a href="/parallel-set
 
 So now it's your turn! Let me know what you think, what's missing, etc.!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 11, 2009_
+
 
 <aside class="comments">
 

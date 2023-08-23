@@ -36,7 +36,9 @@ In order to get a compact image, I had to move the <a href="http://en.wikipedia.
 </tbody>
 </table>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 07, 2007_
+
 
 <aside class="comments">
 

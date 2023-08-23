@@ -64,5 +64,7 @@ We can’t just let the field stagnate. To push it ahead, it’s not enough to j
 
 Being contrarian is the only way.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 24, 2016_
+
 

@@ -60,7 +60,9 @@ James Scott-Brown has put together a great <a href="http://oa-eurovis.jamesscott
 
 <a href="https://www.wehi.edu.au/wehi-tv/nucleosomes">Teaser image by Drew Berry</a>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 05, 2018_
+
 
 <aside class="comments">
 

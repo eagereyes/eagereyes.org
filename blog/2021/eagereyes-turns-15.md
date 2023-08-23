@@ -64,5 +64,7 @@ But this blog has been incredibly helpful to get word out about my work and that
 
 To another 15?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 01, 2021_
+
 

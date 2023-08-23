@@ -21,7 +21,9 @@ Here are Nathan's definitions with my comments. Since I have something to say ab
 First definition, first major difference: a lot of people in the visualization field would consider <em>data visualization</em> to denote scientific visualization (i.e., volume or flow visualization of data with spatial dimensions), for whatever reason. There may be simple historical reasons for this, or the assumption that scientific visualization deals with more data.
 
 In any case, <em>data visualization</em> has a particular slant, and is not the same as visualization in general, and certainly does not refer to charts or ‘interactives.'
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 02, 2011_
+
 
 <aside class="comments">
 

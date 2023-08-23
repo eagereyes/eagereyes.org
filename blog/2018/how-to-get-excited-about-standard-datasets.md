@@ -42,5 +42,7 @@ Isn't it amazing how much you can learn from just four variables, though! It doe
 
 The classic datasets are <em>fine</em>. If they bore you, maybe it’s you who’s boring? If they don’t interest you, maybe you have the wrong interests? Generations of students have learned to love them, and so will you!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 21, 2018_
+
 

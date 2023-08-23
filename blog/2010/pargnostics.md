@@ -37,5 +37,7 @@ Aritra Dasgupta, Robert Kosara, <a href="/publications/Dasgupta-InfoVis-2010">Pa
 
 The paper will be presented at VisWeek 2010 in the <a href="http://vis.computer.org/VisWeek2010/schedule/thursday.html">second morning session on Thursday</a>, <em>Multi-dimensional Visualization</em>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 21, 2010_
+
 

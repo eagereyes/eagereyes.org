@@ -54,7 +54,9 @@ Another fun part of Vienna is the <a href="http://en.wikipedia.org/wiki/Prater">
 
 It's pointless to attempt to list everything here, just go with the flow. There will be lots of things to do, and the locals will be able to guide you. Have fun, enjoy, and let me know if you've found this guide useful!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 28, 2012_
+
 
 <aside class="comments">
 

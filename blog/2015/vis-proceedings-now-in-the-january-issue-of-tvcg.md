@@ -35,7 +35,9 @@ Also, I did not mean to imply that there was a conspiracy at play here. But I fo
 
 https://twitter.com/tamaramunzner/status/662161031758647296
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 04, 2015_
+
 
 <aside class="comments">
 

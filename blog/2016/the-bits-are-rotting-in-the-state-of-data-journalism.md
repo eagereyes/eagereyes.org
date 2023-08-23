@@ -31,7 +31,9 @@ Perhaps the WaPo and NY Times can fix these things now. But when will they break
 
 News are not just relevant in the moment, they become historical record. In the shorter term, they're also valuable because they represent highly interesting experiments in visualization. I don't care about the unemployment rate seven years ago, but I do think that <em>The Jobless Rate for People Like You</em> is a reference for how to present data and make people understand something about statistics. Losing these is very painful.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 13, 2016_
+
 
 <aside class="comments">
 

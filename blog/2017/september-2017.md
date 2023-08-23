@@ -33,5 +33,7 @@ The short video <em><a href="https://www.youtube.com/watch?v=UTdhq3cbY00">Unendu
 
 And that's a wrap for the first Vis Potpourri! Let us know if you like the format and if there's anything you think we should change.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 21, 2017_
+
 

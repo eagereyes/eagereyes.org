@@ -23,5 +23,7 @@ The results are interesting because we found almost no differences. The danger w
 
 Drew Skau, Robert Kosara, <a href="/publications/Skau-EuroVis-2017">Readability and Precision in Pictorial Bar Charts</a>, <em>Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)</em>, 2017.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 06, 2017_
+
 

@@ -35,7 +35,9 @@ This is part of <a href="/tag/peer-review">a five-part series on peer review in 
 
 <a href="http://www.flickr.com/photos/sugarhiccuphiccup/4808604692/">Teaser image by Troy Tolley</a>, used under Creative Commons.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 21, 2014_
+
 
 <aside class="comments">
 

@@ -25,7 +25,9 @@ Caroline is doing a lot of promising work in this direction, which will deepen o
 
 For more details, you will have to see the talk at InfoVis (on Monday, October 20, in the <a href="http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#design">Design session</a>), and/or read the paper: <a href="/publications/Ziemkiewicz-InfoVis-2008">The Shaping of Information by Visual Metaphors</a>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 15, 2008_
+
 
 <aside class="comments">
 

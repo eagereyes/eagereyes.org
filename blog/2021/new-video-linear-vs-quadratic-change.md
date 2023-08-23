@@ -23,7 +23,9 @@ Below is the teaser, <a href="https://youtu.be/BW3YNLsmn8U">watch the full video
 
 As always, let me know what you think! This is a different approach than my other videos, does it work?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 15, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
+
 
 <aside class="comments">
 

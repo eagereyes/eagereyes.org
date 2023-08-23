@@ -62,7 +62,9 @@ This site may be a hobby, but it's a serious one. It's so tightly interwoven wit
 
 The teaser image is a painting by <a href="https://twitter.com/monteiro">Mike Monteiro</a>. You'll never guess <a href="http://www.grammarphobia.com/blog/2011/10/bridges.html">where that quote is from</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 29, 2016_
+
 
 <aside class="comments">
 

@@ -32,7 +32,9 @@ Visualization is still very young, and there are many influences and potential d
 
 Because this field is so young, it needs a culture of discourse. We need to be able to argue. And we need to be able to criticize. Without that, there is no progress and no evolution, only chaos.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 09, 2012. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

@@ -122,7 +122,9 @@ Many Eyes needs to rethink Java. They undoubtedly have good reasons to use it, a
 
 So yes, there is a lot to criticize, and I am not shy about doing that. Both websites are a great start, but have a long way to go. It is great to see that social websites are not just used for sharing videos of sleeping kittens any more, but for collaboratively making sense of our world.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 18, 2007. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

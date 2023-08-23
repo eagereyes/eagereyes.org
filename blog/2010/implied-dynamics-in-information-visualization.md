@@ -31,5 +31,7 @@ In work that is currently under review, we took these findings further to see wh
 
 Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-AVI-2010">Implied Dynamics in Information Visualization</a>, <em>Proceedings Advanced Visual Interfaces (AVI)</em>, pp. 215–222, 2010.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 30, 2010_
+
 

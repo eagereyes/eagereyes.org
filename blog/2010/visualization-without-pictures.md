@@ -38,7 +38,9 @@ I am convinced that there is more to visualization than just the pictures. But t
 
 We can already do some of this: talking about visual structures in a visualization is nothing new. Perhaps one of the ways to get a deeper understanding of visualization is to put the images away for a while while we think about visualization without actually doing it.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 10, 2010_
+
 
 <aside class="comments">
 

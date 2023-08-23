@@ -58,7 +58,9 @@ I don't disagree with van Wijk's points about subjectivity, but I think we are d
 
 Image credits: Left half taken from the cited paper; right part from <a href="http://en.wikipedia.org/wiki/Image:Encoding_communication.jpg">illustration</a> for the <a href="http://en.wikipedia.org/wiki/Communication">Wikipedia entry on communication</a> by Luis Javier Rodriguez Lopez.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 17, 2008_
+
 
 <aside class="comments">
 

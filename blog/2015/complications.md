@@ -33,7 +33,9 @@ This is similar to the idea that design is about reducing things to their minima
 
 <a href="http://commons.wikimedia.org/wiki/File:Greubel_Forsey_Invention_Piece_1.jpg">Teaser image from Wikimedia</a>, used under creative commons.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 22, 2015_
+
 
 <aside class="comments">
 

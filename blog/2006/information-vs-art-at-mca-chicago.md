@@ -15,7 +15,9 @@ In fact, the exhibit is highly frustrating. Expecting art, you suddenly feel lik
 
 This makes for a nice case study of how different art and information really are. See also my <a href="/VisCrit/InformativeArt.html">thoughts on Informative Art</a>, and there is also a forthcoming posting here on a related matter (coming soon). It is a big mistake to just treat them like they are one and the same. They're not.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 26, 2006_
+
 
 <aside class="comments">
 

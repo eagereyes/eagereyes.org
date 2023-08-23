@@ -201,7 +201,9 @@ Next:
 <li><a href="/tutorials/protovis-primer-part-3">A Protovis Primer, Part 3</a></li>
 </ul>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 02, 2010_
+
 
 <aside class="comments">
 

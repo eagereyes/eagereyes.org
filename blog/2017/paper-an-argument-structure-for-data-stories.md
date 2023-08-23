@@ -27,7 +27,9 @@ BTW, the reviewers complained that the paper didn't contain any visualizations, 
 
 Robert Kosara, <a href="/publications/Kosara-EuroVis-2017.html">An Argument Structure for Data Stories</a>, <em>Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)</em>, 2017.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 07, 2017_
+
 
 <aside class="comments">
 

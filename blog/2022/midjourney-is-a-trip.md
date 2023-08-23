@@ -92,5 +92,7 @@ I also tried a few prompts I saw people use with DALL-E on Twitter, like "Pharao
 
 This is just a selection of what I've created with MidJourney so far. If there's any interest, I can put together a second post with some more examples. If you can find an invite, it's worth checking out for sure.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 28, 2022_
+
 

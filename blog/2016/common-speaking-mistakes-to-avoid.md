@@ -80,7 +80,9 @@ Of course you also need to watch the good people and pick up tricks from them. B
 
 That's it. I'm done with my posting.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 23, 2016_
+
 
 <aside class="comments">
 

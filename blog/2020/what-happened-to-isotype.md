@@ -40,7 +40,9 @@ Surely, academic research is not limited by the tools though, right? My colleagu
 
 As I said, I’m really looking to learn more about the why here. What do you think? If you have further ideas, and in particular evidence, please let me know!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 28, 2020. Filed under [ISOTYPE](/tag/isotype)._
+
 
 <aside class="comments">
 

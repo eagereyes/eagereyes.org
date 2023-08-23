@@ -19,7 +19,9 @@ I am currently reworking the code for the <a href="/Applications/ZIPScribbleMap.
 
 Nathan of Flowing Data recently wrote a <a href="http://flowingdata.com/2008/08/29/a-case-for-open-source-data-visualization/">posting on open source and the question how "open" we should be</a>. I couldn't help but write in a comment that releasing your code should be a condition for publication. It's really unconscionable that we as academics sit on our code rather than sharing and building on it. So here's a first step in that direction.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 31, 2008_
+
 
 <aside class="comments">
 

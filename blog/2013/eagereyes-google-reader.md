@@ -45,7 +45,9 @@ There is a lot of value in simple feeds and <em>Real Simple Syndication</em> (wh
 
 The end of Google Reader is unfortunate, but I think once we’ve all figured out what alternatives to use, it will be a good thing. Google pushed all the other RSS aggregators out of existence, and then mostly just sat there doing nothing. There is a good chance that the new crop of feed aggregators that is sprouting now will lead to some real innovation in this area.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 07, 2013_
+
 
 <aside class="comments">
 

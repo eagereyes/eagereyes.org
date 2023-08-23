@@ -34,5 +34,7 @@ See also <a href="/zipscribble-maps/interactive-zipscribble-map#CH">the interact
 </tbody>
 </table>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 07, 2007_
+
 

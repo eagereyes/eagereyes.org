@@ -80,7 +80,9 @@ Despite my initial hesitance when I sat down to write this posting, 2016 was qui
 
 You can read <a href="/tag/state-of-infovis">all previous <em>State of InfoVis</em> postings here</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 22, 2017_
+
 
 <aside class="comments">
 

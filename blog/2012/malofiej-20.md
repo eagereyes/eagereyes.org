@@ -42,5 +42,7 @@ The other one that stood out in my opinion was <a href="http://www.golden-sectio
 
 There is a lot of good work out there, and it's not all done by just a few people. <em>The New York Times</em> gets a lot of attention because of the amount and quality of work it produces. But besides some undeniable advantages in terms of resources, I think many of the things the Times does right can be implemented by other media as well. In fact, I am convinced that <em>The New York Times</em> could easily be beaten by a group of programmer-journalists who spend a week researching tools available for their work. That kind of person is still rare, but I think we will see more of them very soon.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 25, 2012_
+
 

@@ -43,7 +43,9 @@ This map is a lot more technical and lacks the slightly artsy appearance of the 
 
 After a comment below, I <a href="/blog/2007/what-travelling-presidential-candidates-save.html">calculated the actual savings</a> of the TPC Map as compared to the standard ZIPScribble Map.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 04, 2006_
+
 
 <aside class="comments">
 

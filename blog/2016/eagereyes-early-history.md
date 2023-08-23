@@ -41,5 +41,7 @@ Want to guess who left the first comment on eagereyes? Well, I'll tell you: it w
 
 I have a posting for later this week that will look at the time before October 1, 2006 – those days before, um, recorded history.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 26, 2016_
+
 

@@ -37,7 +37,9 @@ These above image is conceptually similar to J.P. Lewis et al's <a href="http://
 
 A comparison of these images to visualization (Bertini mentions <a href="http://www.textarc.org/">TextArc</a> as the better way of doing this) therefore misses the point. It may be a bit elaborate for a simple icon, but it is still no more than one unique image per poem. Also looking at the archive of <a href="http://www.esono.com/boris/projects/poetry05/">designs</a> <a href="http://www.esono.com/boris/projects/poetry04/"> for</a> <a href="http://www.esono.com/boris/projects/poetry03/"> earlier </a> <a href="http://www.esono.com/boris/projects/poetry02/">posters</a>, it becomes even more obvious that the goal is not to visually analyze, but merely to represent.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 02, 2006_
+
 
 <aside class="comments">
 

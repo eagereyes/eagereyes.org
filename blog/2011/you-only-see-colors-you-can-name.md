@@ -50,7 +50,9 @@ The beauty of visualization is not only its visual nature and all the complexity
 
 "Color names" taken from <a href="http://thedoghousediaries.com/1406">The Doghouse Diaries</a>, used under Creative Commons.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 20, 2011_
+
 
 <aside class="comments">
 

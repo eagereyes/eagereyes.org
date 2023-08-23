@@ -38,7 +38,9 @@ I have three pieces of advice.
 </ol>
 That’s it. Hopefully this has been useful. Now go forth and blog!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 27, 2013_
+
 
 <aside class="comments">
 

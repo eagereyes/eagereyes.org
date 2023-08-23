@@ -42,7 +42,9 @@ Yes, there is that weekly pattern that we all expected. But there is also a lot 
 
 If the goals and means in statistical graphics and infovis were the same, there would be no point in having both. But to get value out of them, we need to understand and respect the differences. There are <a href="http://had.co.nz/">some statisticians who get it</a>, but most seem to be stuck in the Tukey-Tufte school of thinking; unfortunately, most of them would even take that as a compliment. They need to stop looking at colorful pictures and start using an actual visualization tool: something that responds to mouse input and reacts in real-time; something that actually supports discovery in a visual way, rather than just plotting graphs.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 02, 2011_
+
 
 <aside class="comments">
 

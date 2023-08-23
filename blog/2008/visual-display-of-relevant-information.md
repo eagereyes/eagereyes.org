@@ -28,7 +28,9 @@ Teaser image from the <a href="http://www.wallstats.com/blog/">WallStats blog</a
 
 For a similar problem in statistics, see <a href="http://statisticalgraphics.blog.com/3338440/">"I don't care about the data ..."</a>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 21, 2008_
+
 
 <aside class="comments">
 

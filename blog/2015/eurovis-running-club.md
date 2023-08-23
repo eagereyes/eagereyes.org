@@ -28,7 +28,9 @@ I know you're wondering: <em>what if I'm not running, will there be opportunitie
 
  
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 20, 2015_
+
 
 <aside class="comments">
 

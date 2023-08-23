@@ -53,7 +53,9 @@ Artistic visualization is almost the exact opposite.
 
 Looking at one type of visualization expecting the other will lead to disappointment and misunderstandings. While there is undoubtedly an argument to be made about the two types of visualization being able to learn from each other, the first step is recognizing and appreciating the differences. Web sites like <a href="http://infosthetics.com/">infosthetics</a> blur the line and lead to confusion. That is not to say that there is no place for aesthetics in visualization (quite the opposite!), but that it is important to understand the different possible goals that can be served by visualization, and measuring the results using the right yardsticks.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 10, 2007. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

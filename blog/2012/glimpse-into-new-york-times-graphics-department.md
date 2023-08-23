@@ -56,7 +56,9 @@ Finally, the head of the department: Steve Duenes (<a href="https://twitter.com/
 
 Did I miss somebody? I'm sure I did. Please feel free to add links in the comments.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 02, 2012_
+
 
 <aside class="comments">
 

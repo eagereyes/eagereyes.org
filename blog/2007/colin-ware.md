@@ -24,5 +24,7 @@ Colin has degrees in both computer science and perceptual psychology. In additio
 - Robert Spence and Lisa Tweedie, <a href="http://www.sciencedirect.com/science?_ob=ArticleURL&amp;_udi=B6V0D-3W376TY-2&amp;_user=10&amp;_coverDate=12%2F15%2F1998&amp;_rdoc=1&amp;_fmt=&amp;_orig=search&amp;_sort=d&amp;view=c&amp;_acct=C000050221&amp;_version=1&amp;_urlVersion=0&amp;_userid=10&amp;md5=fa3d4a46827ee1d7e5af04a2d6ce6293"><em>The attribute explorer: Information synthesis via exploration</em></a>. Interacting with Computers, vol. 11, no. 2, pp. 137-146, 1998. <em>This and other papers by Bob Spence and his group show how sophisticated interactive visualization can be coupled to analytic computing tools. A precursor to what has come to be called Visual Analytics.</em>
 - Christopher Ahlberg, Christopher Williamson, Ben Shneiderman, <a href="http://portal.acm.org/citation.cfm?doid=142750.143054"><em>Dynamic Queries for Information Exploration: An Implementation and Evaluation</em></a>, Proceedings of ACM CHI, pp. 619-626, 1992. <em>One of the first papers to clearly state the importance of tight coupling between the interface and the data.</em>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 16, 2007. Filed under [Lists of Influences](/tag/influences)._
+
 

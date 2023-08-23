@@ -50,7 +50,9 @@ While there is a lot of information about SVG out there, things are a bit more d
 
 I am also working on some things involving JavaScript and canvas right now, and will write a tutorial or two on how to use it for visualization.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 21, 2010_
+
 
 <aside class="comments">
 

@@ -41,7 +41,9 @@ It's easy to jump on charts that hide parts of the data, and often those are poo
 
 We always need to ask why the chart was made, <a href="/blog/2015/the-point-of-a-chart">for what purpose</a>, to what end.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 25, 2015_
+
 
 <aside class="comments">
 

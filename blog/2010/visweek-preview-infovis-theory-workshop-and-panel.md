@@ -46,5 +46,7 @@ Finally, the <a href="http://vis.computer.org/VisWeek2010/vis/sessions_papers.ht
 
 If you're on Twitter, <a href="http://lanyrd.com/2010/visweek/">sign up for VisWeek on Lanyrd</a> to see who else is there.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 19, 2010_
+
 

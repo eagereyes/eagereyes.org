@@ -24,7 +24,9 @@ The next task is to look into impact factors for visualization journals. That in
 
 Follow <a href="/acceptance-rates">this link to the acceptance rates data</a>. The data is also available in CSV and JSON formats in <a href="http://github.com/eagereyes/VisLitDB">a repository on github</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 06, 2010_
+
 
 <aside class="comments">
 

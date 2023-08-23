@@ -11,7 +11,9 @@ outline: false
 
 Andy Kriebel's <em><a href="http://www.datavizdoneright.com">Data Viz Done Right</a></em> is a remarkable little website. He collects good examples of data visualization and talks about what works and what doesn't. He does have bits of criticism sometimes, but he always has more positive than negative things to say about his picks. Good stuff.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 21, 2015_
+
 
 <aside class="comments">
 

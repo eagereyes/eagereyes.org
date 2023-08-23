@@ -38,7 +38,9 @@ In analysis, it is typically desirable to have as much data as possible to work 
 
 What is remarkable about this chart is how little needs to be added to turn a fairly difficult analytical chart into a tool for explaining facts based on data.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 22, 2012_
+
 
 <aside class="comments">
 

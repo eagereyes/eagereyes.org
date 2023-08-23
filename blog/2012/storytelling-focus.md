@@ -29,7 +29,9 @@ Minard, having lived during the Russian campaign (though he created the map much
 
 When analyzing data, focus is not typically the first thing. Quite the opposite, when exploring data, you want to go broad, ask many different questions, and try out many different approaches. While it can sometimes be useful to present a lot of data (a historian would have little use for Minard’s simplified view), it is usually much more compelling to figure out the key message and focus on that.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 09, 2012_
+
 
 <aside class="comments">
 

@@ -78,7 +78,9 @@ With all the talk about citizen journalists, scientists, etc., actually getting 
 
 The Met Office has promised more data, which should provide a stronger foundation for this analysis. There are also <a href="http://www.realclimate.org/index.php/data-sources/">a number of other datasets</a> available, with more coming out. This is a great opportunity to show what we can do with this data visually, and to provide easier ways for people to understand what's actually behind all that talk of global warming.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 14, 2009_
+
 
 <aside class="comments">
 

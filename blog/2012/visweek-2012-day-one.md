@@ -26,5 +26,7 @@ There were some good discussions in the BELIV sessions today, on a variety of di
 
 I only saw a small number of papers in BioVis today. What I found really interesting are the short primers at the beginning of every session. Since a large part of the audience have little or no background in microbiology, genomics, etc., these provide some background to understand what many of the papers are about. Even in other sessions, I can imagine a brief introduction being useful to provide some context, in particular ones on evaluation, etc.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 14, 2012_
+
 

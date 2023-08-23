@@ -30,7 +30,9 @@ But back to the <em>blogstravaganza</em>! This week will see a posting every day
 
 Each of these will go live at 5:17am PDT (8:17am EDT, 2:17pm MET) if all goes well (scheduled postings are still a crapshoot with Wordpress, so I might have to revise this).
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 25, 2016_
+
 
 <aside class="comments">
 

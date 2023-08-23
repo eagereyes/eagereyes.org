@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 import { readFileSync } from 'node:fs';
 import { genFeed } from './genFeed';
 import transformHead from './transformHead';
-import transformHTML from './transformHTML';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -100,9 +99,6 @@ export default defineConfig({
 
 	// generate open-graph and Twitter card header fields
 	transformHead: transformHead,
-
-	// insert Posted By stuff
-	transformHtml: transformHTML,
 
 	// generate the RSS and Atom feeds
 	buildEnd: genFeed

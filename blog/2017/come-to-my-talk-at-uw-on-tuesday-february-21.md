@@ -25,7 +25,9 @@ This talk is free and open to anybody who is interested. If you are, please indi
 
 There will be no live stream, but I believe the talk will be recorded. Should you be one of those unfortunate people who are not in or near Seattle, you will be able to watch it at some later point.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 15, 2017_
+
 
 <aside class="comments">
 

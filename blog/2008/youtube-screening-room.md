@@ -22,7 +22,9 @@ Here are my favorites so far. They're all really good though.
 </ul>
 <div>The films aren't all animated, but my favorites so far are. There are also interviews with filmmakers, and more stuff will soon be added.</div>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 14, 2008_
+
 
 <aside class="comments">
 

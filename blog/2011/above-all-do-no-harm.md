@@ -54,7 +54,9 @@ Given the amount of data, the point to be made, and the audience, I think that t
 
 It's a bit too easy to dismiss a visualization just because it uses a technique that is overused and that is often problematic. We need a bit more subtlety in our criticism, and a bit more care to see if something might work in a particular case, even if it may not in many others.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 21, 2011. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

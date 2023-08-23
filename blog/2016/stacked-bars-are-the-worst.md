@@ -54,7 +54,9 @@ Stacked bars are particularly problematic because they have the air of precision
 
 But just throwing values into a stacked bar chart is a bad idea. Just like people tend to misuse pie charts, most uses of stacked bars I see are really poorly done. People don't pick up on that even when they will immediately ridicule you for using a pie chart. Things are a bit more subtle than <em>bar chart good, pie chart bad</em>, however.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 24, 2016_
+
 
 <aside class="comments">
 

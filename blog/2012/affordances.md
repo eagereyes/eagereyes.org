@@ -50,7 +50,9 @@ One is to have objects in a visualization glow or otherwise respond when the mou
 
 But more than that, I wonder if there is a role for affordances to make it easier for people to find their ways around visualizations, understand the interactions (and what they do), and, most of all, encourage interaction.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 02, 2012_
+
 
 <aside class="comments">
 

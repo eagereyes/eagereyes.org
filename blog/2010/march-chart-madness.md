@@ -106,7 +106,9 @@ Enough with the bad examples. Kevin Fox created this <a href="http://fury.com/20
 
 <a href="http://robcham.tumblr.com/post/297693217/thats-not-how-graphs-work-dont-tell-me-what">Found here</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 03, 2010. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

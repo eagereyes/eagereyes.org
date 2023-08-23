@@ -36,7 +36,9 @@ In addition to the text, the document database knows the venue and year a paper 
 
 The bot will be continue to get tweaked to create more interesting and entertaining tweets. It is currently based on some very simple heuristics and rules for what makes a snippet acceptable, but I plan on refining those over time.  Also, a user study.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 21, 2013_
+
 
 <aside class="comments">
 

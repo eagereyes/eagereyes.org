@@ -25,7 +25,9 @@ It shouldn’t have come as a surprise that a YouTube channel is not a way to pr
 
 This is really what this blog has been about all along: doing my own thing, learning, thinking, exploring. And I’m glad that there are people out there willing to come along for the ride.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 02, 2019_
+
 
 <aside class="comments">
 

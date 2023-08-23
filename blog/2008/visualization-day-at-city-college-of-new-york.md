@@ -13,5 +13,7 @@ The City College of New York will be hosting a <a href="http://www-cs.ccny.cuny.
 
 Of course, this reminds of my own plans for not just a local, but a <a href="/blog/we-need-a-world-visualization-day.html">world visualization day</a>. That one is on hold for the moment, but I hope to have some news in the near future. I have been asked about it by several people recently, and I am still convinced that there is a need for such an event. More to come soon ...
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 21, 2008_
+
 

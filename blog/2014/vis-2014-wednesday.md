@@ -66,5 +66,7 @@ In addition to being interesting because of Bertin's influence and foresight, th
 
 The <a href="http://www.strava.com/activities/218365383">second VIS Run in recorded history</a> took place on Wednesday, and that night also saw the West Coast Party, which is becoming a real tradition. The first session on Thursday morning was consequently quite sparsely attended.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 13, 2014_
+
 

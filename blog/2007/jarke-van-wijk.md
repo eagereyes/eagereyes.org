@@ -24,5 +24,7 @@ A colleague of mine describes <a href="http://www.win.tue.nl/~vanwijk/">Jarke va
 - <a href="http://www.dk.com/">Dorling Kindersley Publishing</a> <em>The books of this publisher excel in their graphical quality. The mix of short articles with rich illustrations works very well, and I already have had much fun and pleasure with their travel guides, but also for instance with their books on geology. Their formula should work very well for explaining graphics or visualization ...</em>
 - Terry A. Slocum et al., <a href="http://www.amazon.com/Thematic-Cartography-Geographic-Visualization-Second/dp/0130351237/"><em>Thematic Cartography and Geographic Visualization</em></a>, Prentice Hall, 2003 <em>InfoVis and SciVis are just two kinds of Vis, there is much more Vis around. Cartography has a history of 2000 years, and in several senses this field is much further than our field. At least, Slocum et al. clearly point out how to make a clear and useful map. </em>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 03, 2007. Filed under [Lists of Influences](/tag/influences)._
+
 

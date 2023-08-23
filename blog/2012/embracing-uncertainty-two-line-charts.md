@@ -40,7 +40,9 @@ Finally, the stacking reinforces the idea of a part-whole-relationship. The thre
 
 The data for these charts is coming directly from <a href="http://www.gallup.com/poll/113980/Gallup-Daily-Obama-Job-Approval.aspx">Gallup</a>, via a link on <a href="http://thedailyviz.com/post/14866525865/president-obamas-approval-ratings-at-five-month-high">The Daily Viz</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 11, 2012_
+
 
 <aside class="comments">
 

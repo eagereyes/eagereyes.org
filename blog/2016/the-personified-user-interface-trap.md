@@ -49,7 +49,9 @@ I can also see bots being useful for people with vision or other deficiencies, s
 
 Outside of these niches, I really don't understand the appeal of bots. The way they act and force me to interact, and the way they restrict my access to information, in no way make up for whatever advantages they might have. More than that, they strike me as disempowering the user and thus taking many steps back from modern graphical user interfaces that literally let you touch the actions and data you're dealing with.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 18, 2016_
+
 
 <aside class="comments">
 

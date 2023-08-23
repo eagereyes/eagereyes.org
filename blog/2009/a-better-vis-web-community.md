@@ -26,7 +26,9 @@ I got interested in functional programming recently, and I've been following a f
 
 What I get out of running this website is satisfaction. There are two parts to that: reach and quality. I enjoy having lots of visitors to the site and subscribers to the feed. But I won't sacrifice the quality of the material – or its mission. And the mission has to be more than finding the lowest-hanging fruit that can be sold as visualization. It needs to be better.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 15, 2009_
+
 
 <aside class="comments">
 

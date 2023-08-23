@@ -38,5 +38,7 @@ A new addition to the collection of techniques to save us from the horrors of Eu
 
 All in all, this was a good start to what promises to be a good conference.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 05, 2012_
+
 

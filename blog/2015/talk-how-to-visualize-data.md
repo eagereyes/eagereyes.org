@@ -242,7 +242,9 @@ I like to end my talks with pointers, so I showed these three books. I’ve revi
 And with that, I thank you for your attention and I’m happy to answer any questions!
 
 I actually got some questions and got into a little argument with Raghu Machiraju about what self-illustrating phenomena really are. I also had a few people talk to me afterwards who said they liked the talk. And to my great satisfaction, [somebody tweeted the key take-away](https://twitter.com/ryodejaneiro/status/619506342307479552), giving me some confidence that I did succeed in getting my point across.
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 14, 2015_
+
 
 <aside class="comments">
 

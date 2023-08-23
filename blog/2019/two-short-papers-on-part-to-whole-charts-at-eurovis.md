@@ -31,7 +31,9 @@ Robert Kosara, <a href="/publications/Kosara-EuroVis-2019a">Circular Part-to-Who
 
 Robert Kosara, <a href="/publications/Kosara-EuroVis-2019b">The Impact of Distribution and Chart Type on Part-to-Whole Comparisons</a>, <em>EuroVis Short Papers</em>, 2019
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 03, 2019_
+
 
 <aside class="comments">
 

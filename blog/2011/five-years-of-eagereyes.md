@@ -52,7 +52,9 @@ The truth is, I have no idea. I certainly plan on continuing what I'm doing righ
 
 What I do know, however, is what I want to achieve with this site: provide deeper background about visualization that goes beyond the pretty pictures. I want people who look for the meaning behind the pixels to be able to find something. I want to provide an alternative to the general “oooh, shiny!” attitude towards visualization that is so prevalent on the web. And I want to push things forward by calling out things that ineffective, stupid, and wrong, and pointing out better ways of doing them.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 30, 2011_
+
 
 <aside class="comments">
 

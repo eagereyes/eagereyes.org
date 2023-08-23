@@ -16,7 +16,9 @@ A paper on <a href="/blog/2006/visualization-criticism">visualization criticism<
 The idea behind this article was to discuss the background of vis criticism a bit, talk about practical experiences, and offer a glimpse into a possible future. David and Fritz share their experiences teaching a class of computer science and design students, where critiquing played a big role. Lars responds to <a href="/blog/2006/informative-art">my criticism</a> with a critique of critiquing. And I claim that criticism is something we're already doing (paper reviews) and need to do more to further develop the theory in our field.
 
 Robert Kosara, Fritz Drury, Lars Erik Holmquist, and David H. Laidlaw, <a href="/publications/Kosara-CGA-2008">Visualization Criticism</a>, _Computer Graphics and Applications (CG&A), Visualization Viewpoints_, vol. 28, no. 3, pp. 13–15, 2008.
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 01, 2008_
+
 
 <aside class="comments">
 

@@ -80,7 +80,9 @@ Visualization has to be more than pretty pictures. It has to inform. It has to c
 
 If we continue to show people pretty, colorful, but ultimately useless and empty charts, they will assume that all visualization is just dressing up data to look prettier. We can't let that happen.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 23, 2009. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

@@ -33,5 +33,7 @@ We hope that this paper (as well as Heer and Bostock's) helps pave the way for m
 
 Robert Kosara, Caroline Ziemkiewicz, <a href="/publications/Kosara-BELIV-2010">Do Mechanical Turks Dream of Square Pie Charts?</a> <em>Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)</em>, ACM Press, 2010.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 18, 2010_
+
 

@@ -50,7 +50,9 @@ What I did not like was the keynote, because it really seemed out of place. The 
 
 Next year’s conference will be held in Leipzig, Germany. <a href="http://eurovis2013.de/">The website for EuroVis 2013</a> is already up.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 08, 2012_
+
 
 <aside class="comments">
 

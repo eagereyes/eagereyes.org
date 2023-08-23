@@ -31,5 +31,7 @@ https://www.youtube.com/watch?v=_DTQTbccfAk
 
 Excited? We certainly are! Head on over to <a href="http://www.tapestryconference.com">the Tapestry website</a> and register!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 26, 2018_
+
 

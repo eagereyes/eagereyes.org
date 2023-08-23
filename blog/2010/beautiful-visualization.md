@@ -21,7 +21,9 @@ My chapter, <a href="/publications/Kosara_BeautifulVis_2010.html"><em>Turning a 
 
 O'Reilly offers the book in a physical version and as an ebook (as a completely annoyance-free PDF, and there's also epub and a few other formats). The chapters have also been released under a creative commons license, so you can find most of them posted on the web somewhere. If you buy the book, the proceeds go to charity.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 15, 2010_
+
 
 <aside class="comments">
 

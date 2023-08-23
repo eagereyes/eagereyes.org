@@ -22,5 +22,7 @@ Michael Driscoll says that <em><a href="http://medriscoll.com/post/39791380287/v
 >	But data visualizations still require human analysts to react and kick off another action, if they are to be useful.
 
 Tim O'Reilly picks up the story (which is based on a comment he made) and <a href="https://plus.google.com/+TimOReilly/posts/9SjTD1rCuVy">describes visualization as debugging and exception-handling</a>:
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 20, 2013_
+
 

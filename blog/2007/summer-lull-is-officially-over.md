@@ -13,7 +13,9 @@ This summer has been a busy one for me and a rather inactive one for EagerEyes. 
 
 A few articles are already in the pipeline, and I will catch up on the <a href="/influences">lists of influences</a>. Anything else you want to see – or that you don't care about?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 26, 2007_
+
 
 <aside class="comments">
 

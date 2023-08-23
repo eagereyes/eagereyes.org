@@ -23,7 +23,9 @@ The other thing that is sorely lacking is programmatic access. There does not se
 
 It's a great start, and good to see this happen. Hopefully, more data sources and better data access will follow. Data indeed wants to be free.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 07, 2008_
+
 
 <aside class="comments">
 

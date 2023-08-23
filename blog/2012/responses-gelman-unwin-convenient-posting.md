@@ -28,7 +28,9 @@ They are all interesting in their own way. Stephen Few goes through the many mis
 
 There is a lot of opportunity here not just to learn from what is being said, assumed, misunderstood, and explained, but also to pick up the many opportunities for collaboration between the fields. It's baffling, quite frankly, that there are only a handful of people who know and understand both communities, when they share so many ideas, principles, and goals.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 05, 2012_
+
 
 <aside class="comments">
 

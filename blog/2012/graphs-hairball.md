@@ -62,7 +62,9 @@ Many questions that are asked about network data are of the same nature: How man
 
 For a while now, people in visualization have talked about <em>the graph without the graph</em>, i.e., graph visualization without the hairballs. Networks are clearly important and challenging data, and it seems a bit myopic to only look at node-link visualization. Node quilts and the PivotGraph represent promising steps into a very different direction. While they require more work to understand and are more limited in what they can be used for, they are also much directed towards a goal than just showing all of the data. I think that this kind of thinking will lead us to much more interesting techniques in the future than trying to teach the old node-link diagram new tricks.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 01, 2012_
+
 
 <aside class="comments">
 

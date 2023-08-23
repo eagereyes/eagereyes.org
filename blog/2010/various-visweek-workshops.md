@@ -36,7 +36,9 @@ The deadline for submissions for this workshop is <strong>August 2</strong>, wit
 
 These are just the three workshops I know of. Feel free to post pointers to others below.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 27, 2010_
+
 
 <aside class="comments">
 

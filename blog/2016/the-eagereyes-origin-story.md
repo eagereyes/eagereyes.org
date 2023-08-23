@@ -66,7 +66,9 @@ I was mostly too shy to hand them to people directly, unless I knew them. One in
 
 Promoting your site is important, and I'm glad I printed those business cards. I think they really helped establish the site with the visualization community.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 30, 2016_
+
 
 <aside class="comments">
 

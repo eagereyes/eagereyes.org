@@ -28,7 +28,9 @@ If you are using Internet Explorer 6, you will probably see images sticking out 
 
 As always, I am interested in what you think about the new theme, users, plans for discussion forums, the site in general, and anything else.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 14, 2008_
+
 
 <aside class="comments">
 

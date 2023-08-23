@@ -17,7 +17,9 @@ Their bubble chart is very similar to gapminder, showing size and position, and 
 
 He did mention Stephen Few's and Edward Tufte's books at the end (which I found interesting, especially Few), but no mention of Rosling. The do use a lot of relatively current visualization ideas (including treemaps, which they call heatmaps), and that is certainly a good thing. And they can't give credit for everything in a presentation. But when they take such a big example almost verbatim, shouldn't there be at least a mention of the name? Or don't people do that in business? And is that considered ethically okay?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 21, 2008_
+
 
 <aside class="comments">
 

@@ -46,7 +46,9 @@ We do know some things about how visualization works based on data types. This c
 
 The perfect is the enemy of the good, and it is also the enemy of the practical, useful solution. But elements of it, the thinking behind it, and the means by which it could be achieved, are very much compatible with the others.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 18, 2013_
+
 
 <aside class="comments">
 

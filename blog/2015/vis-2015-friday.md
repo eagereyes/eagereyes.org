@@ -58,5 +58,7 @@ Besides the obvious announcement of next year’s conference, there was also som
 
 <a href="http://ieeevis.org">Next year’s conference</a> will take place in Baltimore, from October 23–28. Among the changes from this year is that BioVis will be coming back after being attached to a bioinformatics conference for the last few years, and there will be another BELIV workshop.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 02, 2015_
+
 

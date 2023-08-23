@@ -30,7 +30,9 @@ I suggest we all use #visweek as the hashtag to identify tweets about the confer
 
 One challenge is to separate the different tracks that are happening at the same time, but that's another reason to keep the main tag short. I'm not sure I want to add #infovs, #vis, #vast, etc. to every tweet;but if there's a lot going on and it's not clear from context, it's probably a good idea to do that.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 06, 2009_
+
 
 <aside class="comments">
 

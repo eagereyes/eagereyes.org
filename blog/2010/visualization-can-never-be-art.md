@@ -75,7 +75,9 @@ Whether it is art or not is clearly in the eye (and mind) of the beholder.
 
 Teaser image: Mark Tansey, Modern/Postmodern (1981)
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 03, 2010. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

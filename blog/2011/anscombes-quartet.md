@@ -171,7 +171,9 @@ Besides the content, what is remarkable about the paper is its tone: Anscombe st
 I have seen similar things in papers from that time and earlier. Some of this would be shot down by reviewers today, and never make it into a published paper. It's almost as if these papers were partly scientific paper, partly blog posting to vent some steam or argue a position.
 
 Anscombe also describes his preference for APL (an ancient programming language), but assures the reader who can program in FORTRAN or PL/1 that he'll be able to produce graphs. Mere users of statistical packages, however, were out of luck in the early '70s. The paper closes with a call for action:
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 13, 2011. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

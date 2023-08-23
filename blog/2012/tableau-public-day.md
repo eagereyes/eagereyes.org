@@ -21,5 +21,7 @@ You can follow <a href="https://twitter.com/#!/Vizoftheday"><em>Viz of the Day</
 
 Disclosure: This posting blatantly promotes a service by <a title="Hello from Tableau (and Seattle)!" href="/blog/2012/hello-tableau-and-seattle">Tableau Software, where I am currently doing my sabbatical</a>. I was involved in the creation of the idea and the subsequent discussions. Sometimes, I walk over to the folks who are running Tableau Public and <em>Viz of the Day</em> just because I can.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 14, 2012_
+
 

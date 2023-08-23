@@ -23,5 +23,7 @@ This project has two goals: put together a really interesting reading list, and 
 
 The topic <a href="/tag/influences/">Lists of Influences</a> shows you the growing list of lists of influential influences.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 03, 2007. Filed under [Lists of Influences](/tag/influences)._
+
 

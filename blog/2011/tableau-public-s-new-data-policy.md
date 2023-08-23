@@ -31,7 +31,9 @@ Just like the DMCA, Tableau Public's policy defines rules for what content is of
 The guiding principle is free speech, with the usual exceptions: child porn, hate speech, illegal content. For cases where the policy does not provide a clear answer, an advisory board of three external experts has been appointed, who will determine whether a visualization needs to be removed. The policy does not name them, but the <a href="http://www.tableausoftware.com/public/blog/2011/02/new-data-policy" target="_blank">accompanying blog post</a> does.
 
 The policy even provides some helpful common-sense advice for people about to publish potentially problematic data:
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 22, 2011_
+
 
 <aside class="comments">
 

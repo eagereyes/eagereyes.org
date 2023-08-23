@@ -17,5 +17,7 @@ But don't let that possibility scare you away from blogging! It's easy to manage
 
 If you have more questions or doubts, come to our BOF on <em>Thursday, 7:30pm, Great Ballroom A</em> (right after the SCI Open House/Evaluation BOF).
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 25, 2010_
+
 

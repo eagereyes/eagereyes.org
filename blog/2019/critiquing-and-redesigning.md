@@ -29,7 +29,9 @@ The redesign is clearly much better, and I particularly like that Leo chose bars
 
 This kind of reflection and redesign of your own charts (even if Leo didn't actually make all of those original charts, but they're done by the people around her) is a great exercise. It allows you to flex your design muscles and think in terms of more general design rules and guidelines that will inform and improve future work. And doing this with your own work means you're not stepping on people's toes, even when you're doing this in public.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 17, 2019. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

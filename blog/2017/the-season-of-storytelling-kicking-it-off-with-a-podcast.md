@@ -21,5 +21,7 @@ Xaquín González Veira, former Visual Editor at The Guardian, has written <a hr
 
 I have a few more things to say on this in particular, and on storytelling in general. I'm not making this a very tight series on storytelling, but most of the next two months will be devoted to the topic in one way or another.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 13, 2017_
+
 

@@ -23,5 +23,7 @@ The conference takes place November 29 and 30 at the University of Miami – so 
 
 To submit a demo proposal, use <a href="https://goo.gl/forms/oEaspM9cltYgNkpe2">this demo submission form</a>. We're still working out logistics and aren't sure how many demos we'll be able to accommodate. We should know early next week, so get your proposal in by Friday (November 9)!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 05, 2018_
+
 

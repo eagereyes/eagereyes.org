@@ -23,7 +23,9 @@ One last thing I'm going to say about this is how easy it was to build the infra
 
 If you missed the conference, you can re-live the drama and excitement in the <a href="/events/visweek2008">VisWeek 2008 Liveblog Archive</a>. Also, check out Carlos Scheidegger's <a href="http://carlosscheidegger.wordpress.com/">visualization, etc.</a> and Alark Joshi's <a href="http://visualizeit.wordpress.com/">Visualization Blog</a> for more coverage.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 27, 2008_
+
 
 <aside class="comments">
 

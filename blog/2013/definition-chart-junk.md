@@ -31,7 +31,9 @@ Do you see the difference? Instead of minimization at all cost, we are now askin
 
 Chart junk is still chart junk. Don’t add meaningless nonsense to your charts! Don’t clutter them up! Reduce the impact of grid lines, etc. But also think about how you can clarify the message, how you want people to read your data, and what you want them to take away. Perhaps adding things will actually help. What was considered chart junk before <a title="The Three Types of Chart Junk" href="/blog/2012/three-types-chart-junk">might turn out to be useful</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 17, 2013_
+
 
 <aside class="comments">
 

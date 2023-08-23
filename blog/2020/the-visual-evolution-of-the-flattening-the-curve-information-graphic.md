@@ -50,7 +50,9 @@ Some of the papers mentioned above are based on simulations. Harry Stevens at th
 
 Given the current state of testing, especially in the United States, the current data is extremely unreliable. I'm afraid visualizing this low-quality data is not going to be of much use. Simulations and information graphics or cartoons, especially done in a smart and tasteful way like the <em>Flatten the Curve</em> cartoon, are a great alternative.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 15, 2020_
+
 
 <aside class="comments">
 

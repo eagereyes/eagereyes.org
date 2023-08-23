@@ -27,5 +27,7 @@ The paper will be presented in <a href="http://www.cg.tuwien.ac.at/eurovis2012/p
 
 Aritra Dasgupta, Min Chen, Robert Kosara, <a href="/publications/Dasgupta-EuroVis-2012">Conceptualizing Visual Uncertainty in Parallel Coordinates</a>, <em>Computer Graphics Forum (Proceedings EuroVis)</em>, 2012.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 30, 2012_
+
 

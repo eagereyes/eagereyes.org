@@ -15,7 +15,9 @@ outline: false
 
 <a href="https://www.youtube.com/watch?v=Q904idCrY80">Their teaser video</a> is a bit confusing, but what it shows is an interface that looks a lot like Tableau. On <a href="http://twitter.com/plot_io">their Twitter feed</a>, they also talk about marks, and they seem to be aware of what is going on in the visualization community. They're certainly worth watching.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 30, 2011_
+
 
 <aside class="comments">
 

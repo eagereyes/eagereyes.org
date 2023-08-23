@@ -72,5 +72,7 @@ There is a variety of applications of treemaps to different kinds of data, hiera
 
 Treemaps have become the bigger brother of bar charts, and have been widely adopted especially for data analysis that requires more detailed views on large numbers of individual items (that cannot simply be shown as aggregate bars). SmartMoney was the first widely available treemap implementation for non-hierarchical data, and since then, a whole industry has been built around treemaps. I don't have numbers, but treemaps must be a multi-million dollar industry by now. <a href="http://www.magnaview.nl/">MagnaView</a>, <a href="http://hivegroup.com/">The Hive Group</a>, <a href="http://www.labescape.com/">LabEscape</a>, <a href="http://www.microsoft.com/business/performancepoint/productinfo/previousversions.aspx">ProClarity</a> (recently acquired by Microsoft), etc. are either exclusively or also selling implementations of treemaps for different uses. It's only a question of time until treemaps (and perhaps histograms, hint, hint) will make it into Excel and other real consumer tools.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 13, 2008_
+
 

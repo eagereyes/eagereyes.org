@@ -48,7 +48,9 @@ Almost exactly two years ago, I wrote about the difference between visualization
 
 Making such decisions makes a chart more focused, and thus stronger. While we want to provide the reader with the means to see different information in a visualization, I believe that we also need to make a clear point. If we don't do that, the viewer is confused and lost, and is not given a well-defined starting point for his or her own exploration.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 11, 2008_
+
 
 <aside class="comments">
 

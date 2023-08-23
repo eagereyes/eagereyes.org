@@ -96,7 +96,9 @@ This posting is purely about academic conferences. A number of conferences have 
 
 A large variety of conferences and journals is a good thing, even if it can be confusing. The bigger issue right now is that the number of really good ones is still too low. There should be more small conferences, perhaps even more focused on particular questions (like perception, particular data types, etc.) for good work to be presented and discussed. BioVis is an example of such a conference, though I'm not sure if it's such a great idea to stuff ever more content into IEEE VIS; having more independent conferences throughout the year would be better. But there are of course reasons that make starting a new conference from scratch a challenge.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 10, 2013_
+
 
 <aside class="comments">
 

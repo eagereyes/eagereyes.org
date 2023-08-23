@@ -81,7 +81,9 @@ And why the aversion to smoothed lines? The common misconception aside that smoo
 
 Perhaps it's time we started thinking about visualization and charts more like statisticians think about their models. <a href="https://en.wikipedia.org/wiki/All_models_are_wrong">An aphorism attributed to George Box</a> states that <em>all models are wrong, but some are useful</em>. In the same vain, I propose that <em>all charts are wrong, but some are useful</em>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 18, 2020_
+
 
 <aside class="comments">
 

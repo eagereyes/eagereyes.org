@@ -165,5 +165,7 @@ Below are PDF versions of my redesigns for closer inspection.
 </tbody>
 </table>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 29, 2007_
+
 

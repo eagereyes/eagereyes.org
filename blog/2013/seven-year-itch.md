@@ -38,7 +38,9 @@ Visualization is still treated like a joke by many people, including the people 
 
 To make a dent, if not in the universe, then at least in the way we think about visualization.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 09, 2013_
+
 
 <aside class="comments">
 

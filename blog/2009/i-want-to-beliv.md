@@ -19,5 +19,7 @@ BELIV accepts two kinds of submissions: research papers and position papers. The
 
 (See also Enrico Bertini's <a href="http://diuf.unifr.ch/people/bertinie/visuale/">interesting discussion of the history of and ideas behind the workshop</a>.)
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 09, 2009_
+
 

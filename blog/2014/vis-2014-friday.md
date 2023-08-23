@@ -40,5 +40,7 @@ IEEE VIS 2015 will be held in Chicago, October 25–30. The following years had 
 
 This concludes the individual day summaries. I will also post some more general thoughts on VIS 2014 in the next few days.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 14, 2014_
+
 

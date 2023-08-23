@@ -40,7 +40,9 @@ This one's from <em><a href="http://www.nytimes.com/interactive/2013/04/16/scien
 
 If you absolutely have to use scrolling, read – and heed – Mike Bostock's <em><a href="https://bost.ocks.org/mike/scroll/">How to Scroll</a></em>. But even better: don't.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 25, 2016_
+
 
 <aside class="comments">
 

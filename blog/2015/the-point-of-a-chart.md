@@ -27,7 +27,9 @@ The point of this chart is really the comparison, and the differences are really
 
 It's not just about the difference in the chart type here (and avoiding the oft-maligned <a href="/techniques/pie-charts">pie chart</a>), but asking what the point of the visualization is. If it's comparison between sets of values (or over time), use a chart that makes that easy and clear.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 26, 2015_
+
 
 <aside class="comments">
 

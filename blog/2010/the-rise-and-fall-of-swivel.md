@@ -149,7 +149,9 @@ See also [my follow-up with VC Halsey Minor](/blog/2010/swivel-part-2-solving-a-
 
 Hat-tip to John Bolton (of the <a href="http://www.azstarnet.com/">Arizona Daily Star</a>), who originally alerted me to the fact that Swivel was gone. He was an avid user of the site (like <a href="http://datajournalism.stanford.edu/">many journalists</a>, it appears), using the embedding features that are now also gone, of course. He nicely summarized the problem for users:
 <blockquote>These free tools on the web are easy to use, easy to lose. A cautionary tale.</blockquote>
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 12, 2010. Filed under [criticism](/section/criticism)._
+
 <aside class="comments">
 
 ---

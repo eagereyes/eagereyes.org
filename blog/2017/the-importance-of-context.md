@@ -50,5 +50,7 @@ All of this is context, and it’s important if I’m supposed to get any value 
 
 If you expect me to understand numbers, you need to give me context.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 17, 2017_
+
 

@@ -93,7 +93,9 @@ Faces are clearly special and their perception is poorly understood. While we ca
 
 <a name="morris"></a>[6] Christopher J. Morris, David S. Ebert, Penny Rheingans, <em><a href="http://www.research.ibm.com/people/c/cjmorris/publications/Chernoff_990402.pdf">An Experimental Analysis of the Pre-Attentiveness of Features in Chernoff Faces</a></em>, Proceedings Applied Imagery Pattern Recognition, pp. 12–17, 1999.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 25, 2007. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

@@ -58,5 +58,7 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 10, 2017_
+
 

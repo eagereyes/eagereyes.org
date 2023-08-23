@@ -23,7 +23,9 @@ I've written about <a href="/journalism/storytelling-minard-vs-nightingale" data
 
 I have changed the format of my videos slightly and picked new music for the intro and outro (there's also a little Easter egg at the very end). Let me know what you think! I think I'm also going to stop bugging people to like and subscribe in the video, but I would of course highly appreciate it if you did so!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 14, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
+
 
 <aside class="comments">
 

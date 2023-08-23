@@ -44,7 +44,9 @@ I already wrote about <a href="/journalism/when-bars-point-down">this topic in t
 
 Larger numbers being up in line charts, bar charts, scatterplots, etc., may be the default in practically all visualization tools (and that makes sense), but it should not just be accepted without thinking about it. The vertical direction should be chosen with care, because it communicates a lot about how to read a chart. And getting it wrong can cause considerable confusion.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 07, 2014_
+
 
 <aside class="comments">
 

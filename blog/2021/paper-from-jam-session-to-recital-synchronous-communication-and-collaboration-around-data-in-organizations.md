@@ -44,5 +44,7 @@ There’s a lot more in <a href="/publications/Brehmer-VIS-2021b.html">the paper
 
 Matthew Brehmer and Robert Kosara, <a href="/publications/Brehmer-VIS-2021b.html">From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations</a>. <em>Transactions on Visualization and Computer Graphics (Proceedings Vis)</em>, 2021.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 26, 2021_
+
 

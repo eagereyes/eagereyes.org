@@ -54,7 +54,9 @@ Dashboards have their uses as predefined data presentations where somebody put a
 
 The reason gauges are a bad idea in visualization is not because of some “rule” that dictates the minimum amount of data necessary for visualization, but because their strengths do not match the task. They work very well where the two do match, like in a car. But in tasks other than real-time control of a simple and predictable process, they are the wrong choice.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 15, 2012. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

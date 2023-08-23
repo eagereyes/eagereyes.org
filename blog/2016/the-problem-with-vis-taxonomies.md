@@ -61,7 +61,9 @@ Just like novelty in research papers, the ability to make predictions or build n
 
 <a href="https://www.flickr.com/photos/limaoscarjuliet/2131512327/">Teaser image by Pawel Loj</a>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 27, 2016_
+
 
 <aside class="comments">
 

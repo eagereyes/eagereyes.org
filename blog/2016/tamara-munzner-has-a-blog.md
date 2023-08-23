@@ -15,5 +15,7 @@ Just in case you don't know her: <a href="https://www.cs.ubc.ca/~tmm/">Tamara M
 
 I'm glad to see that despite her love for hand-coded HTML on her faculty website, she has opted to host her blog on wordpress.com. I'm looking forward to her future posts – and perhaps she can even inspire a few other academics to take up blogging!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 27, 2016_
+
 

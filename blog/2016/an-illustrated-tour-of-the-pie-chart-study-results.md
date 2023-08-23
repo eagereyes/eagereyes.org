@@ -130,7 +130,9 @@ What is more, we questioned and debunked the prevailing idea about how pie chart
 
 I have created <a href="https://github.com/eagereyes/pie-summaries">a github repo with the code and data</a> to recreate these images, as well as versions of them in three different formats: PDF, PNG, and SVG.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 27, 2016_
+
 
 <aside class="comments">
 

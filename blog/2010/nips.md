@@ -25,7 +25,9 @@ While he does not seem to encourage his own subjects to travel, their king does 
 
 As I was bidding my farewells after night had already fallen, the king's servants were preparing a lavish feast. Riding back to my humble inn, I could hear the Machine Learners' songs for many miles.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 12, 2010_
+
 
 <aside class="comments">
 

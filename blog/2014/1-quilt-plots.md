@@ -25,7 +25,9 @@ This would be okay as a posting to an R mailing list perhaps, or as a short blog
 
 This is part of <a href="/section/series/peer-review">a five-part series on peer review in visualization</a>. One posting a day will be posted throughout this week.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 19, 2014_
+
 
 <aside class="comments">
 

@@ -21,5 +21,7 @@ This is the first posting in a new series, <a href="/portrait"><em>Portraits</em
 
 <p align="center"><img class="aligncenter size-full wp-image-10211" src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-color.jpg" alt="" width="720" height="480" /></p>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 18, 2017_
+
 

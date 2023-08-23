@@ -42,5 +42,7 @@ This is one of the first papers to look at sequence and how people structure inf
 
 Jessica Hullman, Robert Kosara, Heidi Lam, <a href="/publications/Hullman-EuroVis-2017">Finding a Clear Path: Structuring Strategies for Visualization Sequences</a>, <em>Computer Graphics Forum (Proceedings EuroVis)</em>, vol. 36, no. 3, 2017.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 04, 2017_
+
 

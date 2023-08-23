@@ -64,7 +64,9 @@ Computing does bring a lot to the table too, though. Tools like Tableau, librari
 
  
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 22, 2018_
+
 
 <aside class="comments">
 

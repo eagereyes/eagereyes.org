@@ -60,7 +60,9 @@ Don’t trust my opinion? Nick Diakopoulos thinks <a href="http://www.nickdiakop
 
 Alberto Cairo, <a href="http://www.amazon.com/The-Functional-Art-introduction-visualization/dp/0321834739/"><em>The Functional Art</em></a>. New Riders Press, 2012. Cairo has <a href="http://www.thefunctionalart.com">a website and blog related to the book</a>, <a href="https://twitter.com/albertocairo">is incredibly active on Twitter</a>, and is going to teach the <a href="http://open.journalismcourses.org">first massive online course on infographics and visualization</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 08, 2012. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

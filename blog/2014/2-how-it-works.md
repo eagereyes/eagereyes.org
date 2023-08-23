@@ -52,7 +52,9 @@ This is part of <a href="/tag/peer-review">a five-part series on peer review in 
 
 <a href="http://flic.kr/p/5xHEiQ">Teaser image by Dirk Schaefer</a>, used under Creative Commons.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 20, 2014_
+
 
 <aside class="comments">
 

@@ -65,7 +65,9 @@ What this shows, however, is that there is a clear need to question assertions a
 
 As a side note, it's also interesting to compare implementations. Carlis and Konstan report that their prototype consisted of 11,000 lines of Tcl and C code, and used OpenGL for rendering. In comparison, my spiral implementation using Protovis fits into about 20 lines of JavaScript, plus a bit of HTML. Carlis and Konstan admittedly provide an insane amount of customization in their interface, but it's still neat to be able to do things so much more quickly and just run them in the browser.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 07, 2011_
+
 
 <aside class="comments">
 

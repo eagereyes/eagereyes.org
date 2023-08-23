@@ -54,7 +54,9 @@ We need to get away from the seeming easy fixes – that don't actually fix much
 
 It's also important to realize just how little of what is often taken as data visualization gospel is based on hearsay and opinion rather than research. There are huge gaps in our knowledge, even when it comes to seemingly obvious things. We need to acknowledge those and strive to close them.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 02, 2016_
+
 
 <aside class="comments">
 

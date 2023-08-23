@@ -17,5 +17,7 @@ The total travel distance on the ZIPScribbleMap is 1,859,224.14km (1,155,268.3mi
 
 What this shows is that it clearly pays off to follow a presidential candidate around, rather than just blindly following the ZIP code order without thinking.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 08, 2007_
+
 

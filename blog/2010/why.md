@@ -27,7 +27,9 @@ The point of this exercise is reflection. Thinking things through to write about
 
 Don't just sit in your ivory tower. Get out and take a walk every once in a while. Blog.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 01, 2010_
+
 
 <aside class="comments">
 

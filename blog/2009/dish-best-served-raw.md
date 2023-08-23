@@ -33,7 +33,9 @@ We all have our data models and ideas about the data, so any overarching be-all-
 
 But despite all the flaws, the inconsistencies, and things that could be done but haven't been, there is one key component that makes it all viable: it's data. Real, raw, original data. Data we can use and <a href="http://had.co.nz/thesis/">melt and recast</a> and analyze. That's the kind of data that is worth going to all the trouble for. If we don't get that kind of data, all the other issues are moot.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 04, 2009_
+
 
 <aside class="comments">
 

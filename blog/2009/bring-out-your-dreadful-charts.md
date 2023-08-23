@@ -26,7 +26,9 @@ So the chart at the top of this posting does not qualify, even though it is obvi
 
 It would be interesting to start teasing apart the usefulness and prettiness dimensions separately, but an ugly charts contest is a start.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 24, 2009_
+
 
 <aside class="comments">
 

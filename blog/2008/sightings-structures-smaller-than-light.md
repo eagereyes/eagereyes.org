@@ -17,5 +17,7 @@ If the name and work sounds familiar, you may remember her <a href="http://vis.c
 
 The interview is available online:<a href="http://www.americanscientist.org/issues/pub/structures-smaller-than-light">Structures Smaller than Light</a> (<a href="http://amsciadmin.eresources.com/libraries/documents/2008103122126984-2008-07Kosara.pdf">PDF</a>)
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 13, 2008_
+
 

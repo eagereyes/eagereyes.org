@@ -38,7 +38,9 @@ This site will not turn into a collection of Tableau informercials. I will keep 
 
 I am, and always will be, a researcher. But going forward, my focus will be on solving more applied problems, and on testing how well things actually work in practice, with real people.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 16, 2012_
+
 
 <aside class="comments">
 

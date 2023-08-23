@@ -37,7 +37,9 @@ Finally, we have to understand the differences between art and visualization, an
 
 We need a better understanding of representation in visualization to not repeat mistakes like the above. But thanks to those who tried these things out, we have taken a first step: we know <em>that</em> representation is different in visualization.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 21, 2006. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

@@ -27,5 +27,7 @@ VisComm will be part of the <a href="http://ieeevis.org/year/2020/welcome">IEEE 
 
 For more details and the full CFP, see <a href="https://viscomm.io">the workshop website</a> and feel free to contact us with any questions.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 14, 2020_
+
 

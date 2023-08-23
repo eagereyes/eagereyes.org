@@ -21,5 +21,7 @@ This starts with as little as $3 for a <em>Data Stories Affiliate</em>, up to <e
 
 There are <a href="http://datastori.es/data-stories-crowdfunding/">more exciting details about this on their blog</a>, or you can just head over to their <a href="https://www.patreon.com/datastories">Patreon page</a> and give them your money there.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 25, 2017_
+
 

@@ -24,5 +24,7 @@ In a way, this is the opposite to my <a href="/influences">Lists of Influences s
 
 The plan is to write one entry per month for the next few months, and then whenever somebody's work strikes my fancy.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 08, 2011_
+
 

@@ -11,5 +11,7 @@ outline: false
 
 Jon Schwabish is running a blog and podcast called <a href="https://policyviz.com">PolicyViz</a>. In both, he talks about communicating data and how to deal with numbers for the general public. He recently had two interesting guests back-to-back on his podcast: Nigel Holmes and Edward Tufte. Both episodes are well worth listening to.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 13, 2015_
+
 

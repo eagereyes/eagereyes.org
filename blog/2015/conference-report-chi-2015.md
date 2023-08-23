@@ -56,7 +56,9 @@ It's still a bit unclear to me what gets accepted and why, and the extreme bread
 
  
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 26, 2015_
+
 
 <aside class="comments">
 

@@ -54,7 +54,9 @@ Its unique language features, if used in the right way, can also be the basis fo
 
 JavaScript is the tool for finally bringing visualization to the masses.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 11, 2010_
+
 
 <aside class="comments">
 

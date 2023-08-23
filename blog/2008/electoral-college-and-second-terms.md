@@ -56,7 +56,9 @@ The <a href="https://media.eagereyes.org/media/2008/popular-electoral-data.zip">
 
 A <a href="/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts.html">better version of the chart using stacked bar charts</a> is also available.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 07, 2008_
+
 
 <aside class="comments">
 

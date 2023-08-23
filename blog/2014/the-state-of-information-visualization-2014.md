@@ -68,7 +68,9 @@ What all these developments have in common is that while they are visualizations
 
 Beyond that, I'm just looking forward to more exciting work. It's a good time to be in data visualization.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 12, 2014_
+
 
 <aside class="comments">
 

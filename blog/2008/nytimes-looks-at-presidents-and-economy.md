@@ -23,5 +23,7 @@ What is good about the graphic is its interactivity and the amount of data: almo
 
 Of course, it would be great if all of the data they collected for graphics like this were immediately available through <a href="http://developer.nytimes.com/">their API</a> ...
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 18, 2008_
+
 

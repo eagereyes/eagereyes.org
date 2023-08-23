@@ -37,7 +37,9 @@ Here are a few ideas about what can be done to keep future book projects from sl
 
 Taking lots of great and interesting images and putting them into a book with some writing is just too easy. Don’t fall into that trap. Instead, tell people what works and what doesn’t, explain and demonstrate, rather than just point.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 17, 2013. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

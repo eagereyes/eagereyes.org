@@ -54,7 +54,9 @@ Perhaps the answer is not even just a static image, but something animated that 
 
 Given the importance of communicating this information, it is astounding that there aren't better solutions. The ones that we have, while undoubtedly imperfect, do work. Better ones are possible, but a redesign has to be more than just a new coat of paint. It needs to create a better understanding of uncertainty. And that is not an easy nut to crack.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 06, 2017_
+
 
 <aside class="comments">
 

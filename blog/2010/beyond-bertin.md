@@ -30,5 +30,7 @@ Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-CGA-2010
 
 See also: <a href="/blog/2010/visweek-preview-infovis-theory-workshop-and-panel">Workshop <em>The Role of Theory in Information Visualization</em></a> at VisWeek 2010
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 16, 2010_
+
 

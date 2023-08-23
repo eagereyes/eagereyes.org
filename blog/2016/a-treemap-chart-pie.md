@@ -30,7 +30,9 @@ There's actually quite a bit of pie-engineering that goes into this sort of pie 
 
 Ben's chart pies have pushed me to finally buy <a href="https://www.amazon.com/How-Bake-Pi-Exploration-Mathematics/dp/0465051715">Eugenia Cheng's <em>How to Bake π</em></a> (see <a href="http://www.nytimes.com/2015/06/14/books/review/how-to-bake-pi-by-eugenia-cheng.html">the glowing review here</a>). It's a bit too late for VIS this year, but perhaps somebody wants to organize a visualization bake-off next year?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 20, 2016_
+
 
 <aside class="comments">
 

@@ -15,7 +15,9 @@ In his piece <em><a href="https://visualisingadvocacy.org/blog/disinformation-
 
 This is a slightly more opinionated view of some of the work I've mentioned recently, like <a href="http://fellinlovewithdata.com/research/deceptive-visualizations">Enrico Bertini's paper on deceptive visualization</a> and <a href="/blog/2015/evaluation-of-the-impact-of-visual-embellishments-in-bar-charts">our work on bar chart embellishments</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 03, 2015_
+
 
 <aside class="comments">
 

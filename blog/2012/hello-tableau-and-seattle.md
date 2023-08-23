@@ -27,7 +27,9 @@ Among the things most people don't know about Tableau is how successful they are
 
 So despite the terminology, this is not punishment but rather a fantastic opportunity to work on some projects that are not only of current academic interest, but that will eventually make their way into a real product used by real people.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 18, 2012_
+
 
 <aside class="comments">
 

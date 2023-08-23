@@ -70,7 +70,9 @@ Steven Pinker, <em><a href="http://amzn.to/Hx6SrE">How the Mind Works</a></em>, 
 
 A book that I stole from my older brother, <em>A Pictorial Atlas of The British Isles</em>, published in 1937. As a child this book showed me (in admittedly childish ways) how to combine pictures and geography in lively, but informative ways. I loved this atlas without knowing that later in life I would make maps with pictures on them. At the time of this writing, there are two <a href="http://amzn.to/Hbv59j">used copies for sale at Amazon</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 10, 2012. Filed under [Lists of Influences](/tag/influences)._
+
 
 <aside class="comments">
 

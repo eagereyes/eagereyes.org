@@ -36,7 +36,9 @@ The other theory is more interesting: what if this was intended to be noticed, t
 
 Manipulating a chart is kind of boring, but the idea of somebody designing this as a sort of social engineering attack that would get people to discuss it in a particular way appeals to me. That doesn't mean it's true, of course, but it is a lot more fun than somebody trying to impress the boss by making a bar taller.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 30, 2022_
+
 
 <aside class="comments">
 

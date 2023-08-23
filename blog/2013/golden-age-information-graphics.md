@@ -39,7 +39,9 @@ But I'm not convinced that things have to be this way. A well-researched and inf
 
 Check out <a href="http://www.flickr.com/photos/llnl/9403051123/">the original chart in all its 70 megapixels glory</a> for yourself, or use <a href="http://zoom.it/IwPh">this zoom.it version</a> to navigate it more easily.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 12, 2013_
+
 
 <aside class="comments">
 

@@ -13,7 +13,9 @@ outline: false
 
 In this talk, Nigel Holmes talks about the value of and use of humor in communicating visualization. He also has some interesting criticism of academic visualization research (and also some more artistic pieces). It's a fun and interesting talk, as always with Nigel Holmes.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 11, 2015_
+
 
 <aside class="comments">
 

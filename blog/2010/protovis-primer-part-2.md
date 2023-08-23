@@ -311,7 +311,9 @@ eq.render();
 <p>Previous: <a href="/tutorials/protovis-primer-part-1">A Protovis Primer, Part 1</a>
 Next: <a href="/tutorials/protovis-primer-part-3">A Protovis Primer, Part 3</a></p>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 10, 2010_
+
 
 <aside class="comments">
 

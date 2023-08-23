@@ -80,7 +80,9 @@ I was also attacked last year for writing my posting while on Sabbatical at Tabl
 
 I’m so glad you asked! We had a paper submission at InfoVis earlier this year, which was unfortunately rejected. The paper is now under review elsewhere and I will post a note here once it is published. The paper draws a detailed comparison between Tableau Public and Many Eyes, based on the data I’ve collected and what we have available for Tableau Public.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 03, 2013. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

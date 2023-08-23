@@ -17,5 +17,7 @@ Both data and code for the charts are available as open source and they place t
 
 <p align="center"><iframe style="width: 100%; height: 660px; border: 0px none;" src="https://ourworldindata.org/grapher/Children-woman-death-vs-survival" width="300" height="150"></iframe></p>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 10, 2016_
+
 

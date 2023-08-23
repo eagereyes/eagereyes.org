@@ -35,7 +35,9 @@ And it simply means being aware. Watching other people giving talks and noticing
 
 There is no reason academic talks need to be bad. Just applying some of the principles we know would make a huge difference. It’s not rocket science.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 17, 2015_
+
 
 <aside class="comments">
 

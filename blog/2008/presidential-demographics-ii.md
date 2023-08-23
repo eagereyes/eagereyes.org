@@ -27,5 +27,7 @@ You will perhaps notice the one timeline that is broken into two. <a href="http:
 
 The <a href="https://github.com/eagereyes/PresidentialDemographics">source code of this applet is available</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 23, 2008_
+
 

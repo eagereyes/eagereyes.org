@@ -29,7 +29,9 @@ John credits <a href="https://blog.datawrapper.de/weekly-chart-coronavirus-growt
 
 It's amazing what a simple graphical element can do for context in a visualization. It turns a mere display of data into an informative piece of journalism.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 23, 2020_
+
 
 <aside class="comments">
 

@@ -22,5 +22,7 @@ I was going to describe <a href="http://www.csee.umbc.edu/~rheingan/">Penny Rhei
 - Lee Westover, <a href="http://portal.acm.org/citation.cfm?id=97919&amp;dl=ACM&amp;coll=GUIDE">Footprint Evaluation for Volume Rendering</a>, <em>Computer Graphics</em>, vol. 24, no. 4, pp. 367-376, 1990. Condensed from his dissertation <em>Splatting: A Feed-Forward Volume Rendering Algorithm</em>, Ph. D. Dissertation, University of North Carolina, 1991. <em>I was impressed by the careful distillation of sampling theory that lays the foundation for the algorithm. I still find myself referring students back to this (usually the dissertation form).</em>
 - Connie Willis, <a href="http://www.amazon.com/Bellwether-Connie-Willis/dp/0553562967"><em>bellwether</em></a>, Bantam Books, 1996. <em>First example I’ve seen of information visualization in popular literature (introduced by a bratty little girl). This book also reminds me of the lurking absurdity of research, funding mechanisms, organizations, and people in general.</em>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 15, 2007. Filed under [Lists of Influences](/tag/influences)._
+
 

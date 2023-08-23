@@ -15,5 +15,7 @@ This would be a great experiment to run at VIS. Anybody who has spent any time 
 
 For some context on NIPS, I <a href="https://eagereyes.org/blog/2010/nips">wrote about the conference a while ago</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 17, 2015_
+
 

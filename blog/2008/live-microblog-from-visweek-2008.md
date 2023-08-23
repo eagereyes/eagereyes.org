@@ -27,7 +27,9 @@ To those of you going to Columbus, I hope to meet many of you! And to the rest: 
 
 Teaser image from the always brilliant <a href="http://xkcd.com/148/">xkcd</a> (used under creative commons).
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 16, 2008_
+
 
 <aside class="comments">
 

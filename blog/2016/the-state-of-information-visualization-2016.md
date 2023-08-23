@@ -50,7 +50,9 @@ On the academic side, I expect to see a lot more work storytelling at the confer
 
 A big driver of data visualization in the news will be the elections in the U.S. in November. There will be polls, predictions, lots of data-centric news stories, and just generally a fever pitch of data presentation. Exciting times!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 08, 2016_
+
 
 <aside class="comments">
 

@@ -37,7 +37,9 @@ That is my version of the story, based purely on the numbers. There is certainly
 
 It seems to me that we often show all the data just because we can. It's not practical to list 860 numbers in a piece of text, but it is easily doable even in a small image. But does that really serve the purpose of getting a point across? In particular when there is the option of linking to the detailed data and perhaps an interactive visualization of the data, do we need all that detail in the presentation? If we want to present rather than analyze, I think the answer is rather obvious.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 24, 2012_
+
 
 <aside class="comments">
 

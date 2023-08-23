@@ -38,7 +38,9 @@ If you are a citizen of an E.U. country, the U.S., or Canada, you do not need a 
 
 Feel free to ask questions in the comments you want me to address in the second part.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 25, 2012_
+
 
 <aside class="comments">
 

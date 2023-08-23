@@ -25,5 +25,7 @@ In the past, it used to be difficult to find news graphics from the main news or
 
 Slightly different, but worth a special mention, is NZZ's amazing visualization of all their articles from the year, <a href="http://2014.nzz.ch/"><em>Das Jahr 2014 in der «Neuen Zürcher Zeitung»</em></a> (in German).
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 14, 2015_
+
 

@@ -22,5 +22,7 @@ Otherwise known as the <em><a href="http://www.malofiej20.com/">Pulitzer Prize o
 
 I will certainly write about my impressions and lessons learned from Malofiej, and I expect it to be extremely inspiring and thought-provoking.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 08, 2012_
+
 

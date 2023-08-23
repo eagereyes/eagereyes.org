@@ -58,7 +58,9 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
 </ul>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 12, 2017_
+
 
 <aside class="comments">
 

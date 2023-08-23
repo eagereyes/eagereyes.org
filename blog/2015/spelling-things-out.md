@@ -31,7 +31,9 @@ If anything, I think it's a mistake to overlap the icons, which compresses them 
 
 Efficiency clearly has its place in visualization, in particular in analysis. But knowing when the right choice is not the efficient one is what makes all the difference when it comes to communication.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on February 02, 2015_
+
 
 <aside class="comments">
 

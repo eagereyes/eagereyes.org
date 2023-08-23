@@ -50,5 +50,7 @@ The paper asked an interesting question about something that is not often studie
 
 CHI covers a lot more ground than just visualization, but it's certainly a conference to keep an eye on for exciting new developments. It is known to be tough to get work accepted into, but it also sometimes accepts work that seems too daring or unusual to make it into InfoVis or EuroVis. It's definitely a conference to keep an eye on.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 22, 2017_
+
 

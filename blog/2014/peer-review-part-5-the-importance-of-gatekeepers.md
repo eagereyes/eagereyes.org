@@ -54,7 +54,9 @@ This is the last part of <a href="/tag/peer-review">a five-part series on peer r
 
 <a href="http://www.flickr.com/photos/padesig/193865429/">Teaser image by Paolo Del Signore</a>, used under Creative Commons.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 23, 2014_
+
 
 <aside class="comments">
 

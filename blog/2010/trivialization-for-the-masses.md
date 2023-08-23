@@ -23,7 +23,9 @@ I think there is a pattern here. While a lot of people seem to be willing to do 
 
 Now the question is, how do we get people to do the more interesting things? Just giving them interesting tools doesn't seem to do it. And neither does providing clever ways of interaction, like Many Eyes's live thumbnails. Is it just human nature to look for simple things to do when there is no real reward? Or can we figure out a way to engage people so that they look beyond the surface, however colorful and pretty it may be?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 07, 2010_
+
 
 <aside class="comments">
 

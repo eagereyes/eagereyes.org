@@ -27,7 +27,9 @@ Food and vision clearly go together. In one of my more ludicrous postings, I onc
 
 I, for one, am looking forward to the treemap pie – delicious metaphor confusion and all.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 15, 2016_
+
 
 <aside class="comments">
 

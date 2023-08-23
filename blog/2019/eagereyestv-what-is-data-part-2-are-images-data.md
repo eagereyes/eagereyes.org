@@ -23,5 +23,7 @@ These are the apps and websites I use and discuss in the video:
 
 As always, let me know what you think! And if you enjoy these videos, subscribe to the channel and maybe give the video a like!
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 16, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._
+
 

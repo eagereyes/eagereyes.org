@@ -19,5 +19,7 @@ In addition to the paper sessions, there will be a number of <a href="http://vis
 
 I will post a bit more on local attractions later, but just in case you're still looking for a hotel: the ones in Downtown Seattle are rather expensive, but there are ones around Seattle Center and Belltown that are much more affordable. If you're adventurous, you might also try a bed&amp;breakfast on Capital Hill. It's easy to get around Seattle on foot or using the pretty good bus system, so you don't have to stay right next to the conference venue.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 03, 2012_
+
 

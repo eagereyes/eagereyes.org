@@ -31,7 +31,9 @@ But that's just part of the problem. How do you convey visualization as a story 
 
 I don't have answers to those questions, but I think we need to figure them out. And we need to do it quickly, before there's even more confusion and visualization turns into a completely diffuse mess of stuff nobody understands.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on August 01, 2010. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

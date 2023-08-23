@@ -19,5 +19,7 @@ I have no doubt that we will be able to release the software, it is just a matte
 
 At least, this has given me another opportunity to play with the gorgeous Bauhaus font. As I wrote elsewhere, typography is a drug.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 12, 2009_
+
 

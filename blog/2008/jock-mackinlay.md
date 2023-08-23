@@ -24,5 +24,7 @@ outline: false
 - Colin Ware, <a href="http://www.amazon.com/Information-Visualization-Second-Interactive-Technologies/dp/1558608192/"><em>Information Visualization: Perception for Design</em></a> (2000) <em> This book describes how knowledge about human perception can be used to design effective visualizations.</em>
 - Chris Stolte, Diane Tang, Pat Hanrahan, <a href="http://www.graphics.stanford.edu/projects/polaris/#pubs">Polaris: A System for Query, Analysis, and Visualization of Multi-Dimensional Relational Databases</a>. <em>IEEE Transactions on Visualization and Computer Graphics</em>, 8(1), pp. 52-65, 2002. <em>This paper describes how information visualization can be connected to databases with an intuitive drag-and-drop user interface, thus connecting visualization research to the practical world of computer-based data. After reading this paper, I accepted with interest and enthusiasm Chris’s invitation to be a member of his dissertation committee. Turned out his dissertation was built directly on ideas from my dissertation. When he later invited me to join him at Tableau Software to commercialize these ideas, I jumped at the chance to bring visual analysis to everyone.</em>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on July 29, 2008. Filed under [Lists of Influences](/tag/influences)._
+
 

@@ -72,7 +72,9 @@ Parallel coordinates are a very versatile and useful technique for finding struc
 
 While they may look frightening at first, they're actually very approachable. Look back at the image at the top of this article: it's really not that complicated, is it?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 13, 2010_
+
 
 <aside class="comments">
 

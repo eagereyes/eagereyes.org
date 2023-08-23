@@ -93,4 +93,5 @@ if mail.is_multipart():
 			file.write(base64.b64decode(m.get_payload()))
 			file.close()
 ```
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 19, 2008_

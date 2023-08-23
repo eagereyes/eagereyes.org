@@ -48,7 +48,9 @@ Another very promising area is journalism. As it is increasingly based on data, 
 
 It's safe to say that we will not run out of interesting work anytime soon. We will need to break out of the ivory tower more if we want to stay relevant, though. Given the visual nature of our field, that should not be too difficult, though.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 06, 2010_
+
 
 <aside class="comments">
 

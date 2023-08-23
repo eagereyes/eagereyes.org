@@ -25,5 +25,7 @@ Some further links to interesting ressoures:
 
 And as always, let me know what you think! Best to comment on <a href="https://youtu.be/JZh8tUy_bnM">the video directly on YouTube</a>, but I'm also happy to chat in the comments here.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 11, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
+
 

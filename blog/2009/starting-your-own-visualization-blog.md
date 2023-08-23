@@ -52,7 +52,9 @@ Write it up, hit submit, done.
 
 It really is that easy.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 25, 2009_
+
 
 <aside class="comments">
 

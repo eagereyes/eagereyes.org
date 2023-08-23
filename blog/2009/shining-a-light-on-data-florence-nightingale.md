@@ -32,7 +32,9 @@ During her time in the Crimea, Nightingale would tirelessly walk the halls of th
 <hr />
 This is my humble contribution to <a href="http://findingada.com/">Ada Lovelace Day</a> (though I may be stretching the definition of "technology" a bit). There is also a <a href="http://ada.pint.org.uk/">list of other postings about great women in technology</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 24, 2009_
+
 
 <aside class="comments">
 

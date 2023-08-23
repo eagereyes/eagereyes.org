@@ -37,7 +37,9 @@ To be fair, the person who made this video tried to take this into account a bit
 
 But really, the entire idea of a single most popular name per state is nonsense, especially in the last 20 years or so. It makes for a pretty animated map, sure. But in the end, it’s just data porn.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 18, 2016_
+
 
 <aside class="comments">
 

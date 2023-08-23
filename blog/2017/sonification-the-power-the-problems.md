@@ -50,7 +50,9 @@ There are some good uses of sonification, and it can clearly be powerful to give
 
 <p align="center"><iframe src="https://www.youtube.com/embed/GKSRyLdjsPA?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 02, 2017_
+
 
 <aside class="comments">
 

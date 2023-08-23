@@ -15,5 +15,7 @@ Lena Groeger (of ProPublica) has written a beautiful piece about the <a href="ht
 
 On a somewhat related note, Jake Harris wrote about the <a href="https://source.opennews.org/en-US/learning/connecting-dots/">importance of individual items in data journalism and visualization</a>, and how to connect with them. The two pieces work very well together to illustrate a way of visualizing data that is often overlooked.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 22, 2015_
+
 

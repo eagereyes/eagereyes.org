@@ -17,5 +17,7 @@ In Greeley's case, the issue was how much money members of Congress were paid fo
 
 The story is very well written and represents an important piece of history and context for today's practice of data journalism.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 25, 2015_
+
 

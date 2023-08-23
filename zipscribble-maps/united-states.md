@@ -49,7 +49,9 @@ Updates 1/3/2007: changed projection, higher resolution images, added borders ba
 
 <a href="/blog/2007/more-zipscribble-maps">Maps for a dozen more countries</a> are now online.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 01, 2006_
+
 
 <aside class="comments">
 

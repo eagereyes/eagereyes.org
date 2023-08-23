@@ -64,5 +64,7 @@ A few years ago, EuroVis started to provide lunch to attendees. I think that’s
 
 Next year, the conference will take place in Brno, Czech Republic, June 4 to 8.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 18, 2017_
+
 

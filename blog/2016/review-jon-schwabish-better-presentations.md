@@ -37,5 +37,7 @@ While much of the book talks about slides, Jon suggests creating the structure a
 
 Jonathan Schwabish, <a href="https://www.amazon.com/gp/product/0231175213/"><em>Better Presentations: A Guide for Scholars, Researchers, and Wonks</em></a>. Columbia University Press, 2016.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 30, 2016. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
+
 

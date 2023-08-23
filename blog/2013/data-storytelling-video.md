@@ -35,7 +35,9 @@ Finally, no posting about video would be complete without the grand-daddy of all
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hVimVzgtD6w?si=1pB-2RuuWwuxpB53" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p></p>
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 06, 2013_
+
 
 <aside class="comments">
 

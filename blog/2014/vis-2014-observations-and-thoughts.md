@@ -42,7 +42,9 @@ VIS remains a very friendly and healthy community. There are no warring schools 
 
 There is also a vibrant community on Twitter, at least for InfoVis and VAST talks. I wonder what it will take to get some SciVis people onto Twitter, though, or help them figure out how to use WordPress.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on November 17, 2014_
+
 
 <aside class="comments">
 

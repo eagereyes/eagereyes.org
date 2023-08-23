@@ -44,7 +44,9 @@ So the way I see it, there are three types of chart junk:
 
 Next time you see an infographic or a visualization that includes seemingly extraneous elements, ask yourself: is this the guy with helmet on the gas lamp (harmless), or is it the fork with the outward-pointing tines (harmful)? Or, perhaps, is the junk even useful?
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on March 04, 2012_
+
 
 <aside class="comments">
 

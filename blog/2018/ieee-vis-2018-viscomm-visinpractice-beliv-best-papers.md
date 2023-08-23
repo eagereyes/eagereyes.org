@@ -58,7 +58,9 @@ What makes Draco interesting is not only the novel approach, but also the fact t
 
 The opening session also included a number of test of time awards, which I will cover in a separate posting.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 29, 2018_
+
 
 <aside class="comments">
 

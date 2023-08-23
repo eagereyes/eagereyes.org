@@ -39,7 +39,9 @@ These are just some of the results, there are many more in the paper. Steve Haro
 
 Steve Haroz, Robert Kosara, Steven L. Franconeri, <a href="/publications/Haroz-CHI-2015"><em>ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs</em></a>; Proceedings CHI, pp. 1191–1200, 2015
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on April 19, 2015. Filed under [ISOTYPE](/tag/isotype)._
+
 
 <aside class="comments">
 

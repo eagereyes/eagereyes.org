@@ -34,7 +34,9 @@ This is an intriguing study, and a good example of the types of questions we nee
 
 Linda S. Elting, Charles G. Martin, Scott B. Cantor, and Edward B. Rubenstein, <a href="http://www.bmj.com/content/318/7197/1527.abstract" target="_blank">Influence of data display formats on physician investigators' decisions to stop clinical trials: prospective trial with repeated measures</a>, <em>British Medical Journal</em>, vol. 318, pp. 1527-1531, 1999.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on May 17, 2011_
+
 
 <aside class="comments">
 

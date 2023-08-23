@@ -13,5 +13,7 @@ In time-honored tradition, Andy Kirk and I review the year in visualization on t
 
 There are lots of good links in the podcast blog posting related to the things we talk about. Though I think we were a bit too down on blogs, Andy Kirk has a good counterpoint in <a href="http://www.visualisingdata.com/2015/12/10-significant-visualisation-developments-july-to-december-2015/">his 6-month round-up posting</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 21, 2015_
+
 

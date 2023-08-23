@@ -44,5 +44,7 @@ The key to this is making things. The fundamental technique had to be invented a
 
 What has been created needs to be evaluated though, and we need to understand the underlying perception and thinking processes that we use when working with visualization. This will be the subject of Part II.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on September 29, 2015_
+
 

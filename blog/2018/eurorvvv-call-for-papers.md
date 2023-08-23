@@ -23,5 +23,7 @@ If you have something interesting to say about how to deal with uncertainty in y
 
 For more details, see the <a href="http://www.eurorvvv.org/call-for-papers/">Call for Papers</a>! Submission deadline is March 5.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 25, 2018_
+
 

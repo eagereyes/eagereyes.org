@@ -19,7 +19,9 @@ At the bottom of the selector is also the <a href="/blog/2016/new-improved-trave
 
 The source code for this page is <a href="https://github.com/eagereyes/zipscribble">available on github</a>.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on January 15, 2012_
+
 
 <aside class="comments">
 

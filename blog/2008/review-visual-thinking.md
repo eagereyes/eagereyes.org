@@ -68,7 +68,9 @@ As an introductory text that covers a lot of ground on perception and cognition,
 
 In addition to Ware's background, what makes this book relevant for InfoVis are the examples and the fact that most (if not all) the covered topics are directly relevant and applicable to visualization. In addition to the perceptual and cognitive topics, that is also true for the design issues that are mentioned. This book will provide a lot of thought-provoking and useful material, and many starting points for future research.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on June 08, 2008. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

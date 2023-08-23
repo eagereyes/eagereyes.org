@@ -40,7 +40,9 @@ Can we copy art theory? No, and nor should we. There are many differences betwee
 
 Visualization also offers the perfect basis for a culture of criticism. Most researchers are young and there are few authorities that can dictate opinions. And even those are willing to engage in discussions and question their views. We are not dealing with steep hierarchies, doctrine, and unquestionable authorities like some other fields. Any new publication could turn our world upside down, any new model of how things are done could make everything that had been published before irrelevant. We are in a truly unique position to define and redefine our field in an unprecedented way. We need to seize this opportunity.
 
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on October 10, 2006. Filed under [criticism](/section/criticism)._
+
 
 <aside class="comments">
 

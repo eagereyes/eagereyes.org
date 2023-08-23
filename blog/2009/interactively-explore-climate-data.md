@@ -22,7 +22,9 @@ The visualization consists of two views. The bottom view shows yearly averages (
 The top view shows the monthly averages for the currently selected year (from the bottom view). The gray shape in the background gives you some context about the range of values over all years for each month, so you can see whether the current one is close to the top or bottom. Note how the winters are getting less cold and the curve across the year moves up and gets flatter as you move forward in time.
 
 _This interactive was created in Protovis and isn't available anymore_
-[[PostedBy]]
+
+_Posted by <a href="/about">Robert Kosara</a> on December 11, 2009_
+
 
 <aside class="comments">
 
