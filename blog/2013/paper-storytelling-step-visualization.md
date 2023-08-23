@@ -27,9 +27,7 @@ In related news, I was on a panel on storytelling with Alberto Cairo last week a
 
 Robert Kosara, Jock Mackinlay, <a href="/publications/Kosara-Computer-2013">Storytelling: The Next Step for Visualization</a>. <em>Computer (Special Issue on Cutting-Edge Research in Visualization)</em>, May 2013. (to appear)
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 03, 2013_
-
+[[PostedBy]]
 
 <aside class="comments">
 

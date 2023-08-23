@@ -21,9 +21,7 @@ Visualization, on the other hand, is general. <a href="/techniques/parallel-coor
 
 Visualization is general, infographics are specific. Visualization is context-free, infographics are context-sensitive. Visualization is (largely) automatic, infographics are hand-crafted. Neither are objective, and both require hand-tuning and understanding to get right.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 10, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

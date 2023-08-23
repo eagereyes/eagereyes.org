@@ -23,9 +23,7 @@ Another pitfall is that once you've checked that data into git (and share on git
 
 Why Amazon ties the worker IDs to people's accounts is a bit of a mystery to me. I guess they never expected people to start sharing those IDs, since doing studies isn't exactly their main use case. It's still odd, since Amazon otherwise tries to keep the workers anonymous as much as possible (you're not allowed to ask them certain questions, etc.).
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 05, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

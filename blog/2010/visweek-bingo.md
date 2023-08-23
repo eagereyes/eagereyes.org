@@ -24,9 +24,7 @@ Feel free to add suggestions for more Bingo squares below!
 
 BTW, if you're on Twitter, check out the <a href="http://lanyrd.com/2010/visweek/">VisWeek page on Lanyrd</a> to see who else is attending.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 14, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

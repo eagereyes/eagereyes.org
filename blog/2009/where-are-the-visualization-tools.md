@@ -33,9 +33,7 @@ There are also toolkits for rolling your own, like Jeff Heer's <a href="http://p
 
 What else is there? Please post your suggestions below, for free or commercial software. I will put together a page with all the programs, and provide some classification to make it easier for people to decide what to look at. I am temporarily lifting the ban on posting links for people who have not signed up for usernames (which I had to do because of the amount of spam I was getting). I will closely monitor this though, and I will delete spam links.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 09, 2009_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -30,9 +30,7 @@ One convention is that the rate (which is per hour) gets a negative sign when no
 
 The data files are updated every five minutes, but the source data only changes once per hour. This usually happens a few minutes past the full hour, so the most up-to-date values are available around five to ten minutes past the full hour.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 14, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

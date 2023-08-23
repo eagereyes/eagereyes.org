@@ -52,9 +52,7 @@ At least for the problem of numbers that encode categories, there is a simple so
 
 It's really painful to see this issue crop up time and again, in particular when there was clearly a strong effort to do things well. Metadata continues to be a big hurdle making important data so much harder to dig into and understand.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 14, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

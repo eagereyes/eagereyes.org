@@ -55,7 +55,5 @@ I was also entranced by <a href="http://en.wikipedia.org/wiki/Arthur_C._Clarke">
 
 Ben Shneiderman, December 16, 2011
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 18, 2011. Filed under [Lists of Influences](/tag/influences)._
-
+[[PostedBy]]
 

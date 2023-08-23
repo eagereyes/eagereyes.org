@@ -21,7 +21,5 @@ As always, I'm curious to hear what you think! If you want to support the channe
 
 Also, <a href="https://dataliteracy.com/vote-for-the-2021-data-literacy-awards/">my YouTube channel has been kindly shortlisted for a <em>Data Literacy Award</em></a>. If you enjoy my videos, please consider voting for me (and for other great folks in the other categories too!).
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 16, 2021. Filed under [eagereyesTV](/tag/eagereyestv), [pie charts](/tag/pie-charts)._
-
+[[PostedBy]]
 

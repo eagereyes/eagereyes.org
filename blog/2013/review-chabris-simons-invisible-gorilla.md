@@ -27,9 +27,7 @@ Regarding cell phones and other tasks, Chabris and Simons describe a study from 
 
 People want to be increasingly connected, but their ability to attend to all that information does not change. Chabris and Simons' work is becoming more relevant as the number of distractions increases.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 12, 2013. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

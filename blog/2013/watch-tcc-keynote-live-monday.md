@@ -36,9 +36,7 @@ Photo from our rehearsal tonight, courtesy of Brian Lockhart.
 
 Update: I've replaced the links with ones that lead to the recorded stream. My part starts at 1:41:50, with the introduction by Chris Stolte and then my demo.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 08, 2013_
-
+[[PostedBy]]
 
 <aside class="comments">
 

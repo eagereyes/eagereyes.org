@@ -39,9 +39,7 @@ Is this visualization? Probably not, because it lacks any kind of interaction. I
 
 <em>Juice Analytics</em> has picked up the idea of square pie charts and made it into a <a href="http://www.juiceanalytics.com/writing/squaring-the-pie/">challenge to implement them in Excel</a>. There are some very <a href="http://www.juiceanalytics.com/writing/solving-the-pie/">interesting submissions and a great screencast</a> explaining two of them.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 14, 2006_
-
+[[PostedBy]]
 
 <aside class="comments">
 

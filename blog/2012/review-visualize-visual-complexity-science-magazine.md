@@ -42,9 +42,7 @@ You can read the review by following the link below to my vanity website and the
 
 Robert Kosara, <a href="/publications/Kosara-Science-2011">The Art and Craft of Portraying Data</a>. <em>Science</em>, vol. 334, no. 6063, pp. 1643–1644, 2011.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 04, 2012. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

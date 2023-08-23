@@ -52,7 +52,5 @@ There's more information on the <a href="http://www.tapestryconference.com">Tape
 
 <a href="https://www.flickr.com/photos/stevenm_61/14061151590/">Teaser image by Steven Martin</a>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 19, 2016_
-
+[[PostedBy]]
 

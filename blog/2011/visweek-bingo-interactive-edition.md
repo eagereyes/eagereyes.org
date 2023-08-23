@@ -29,9 +29,7 @@ I already received a few good suggestions from Wolfgang Freiler, Jérôme Cukier
 Just click on the image below:
 <p class="img"><img src="https://media.eagereyes.org/media/2011/visweek-bingo.png" alt="" width="600" height="400" /></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 10, 2011_
-
+[[PostedBy]]
 
 <aside class="comments">
 

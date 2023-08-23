@@ -19,9 +19,7 @@ This is a great book to flip through and pick up pieces here and there. The desc
 
 It's easy to argue about inclusions (the Intel 4004 processor?) and omissions (how could he leave out ISOTYPE?), but overall this is a great collection. It works well as a coffee table book and for browsing, as well as to appreciate the fine detail and resolution of many of the pieces. Yes, this book is only available as a hardcover, and that’s a good thing.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 14, 2013. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -32,7 +32,5 @@ Here is Pat's list, including his comments. I only added a few authors' first na
 	<li><a href="http://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191/"><em>Inner Vision</em></a>, Semir Zeki (artists as neuroscientists?)</li>
 </ul>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 03, 2007. Filed under [Lists of Influences](/tag/influences)._
-
+[[PostedBy]]
 

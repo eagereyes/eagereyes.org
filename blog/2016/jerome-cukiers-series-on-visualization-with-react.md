@@ -27,7 +27,5 @@ I was going to write brief summaries of the postings, but it turns out Jerome ha
     <li><a href="http://wp.me/po630-st">The big leagues</a> – in that last part, we’ll write together a more complex visualization with live data and several components interacting with one another.</li>
 </ol>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 05, 2016_
-
+[[PostedBy]]
 

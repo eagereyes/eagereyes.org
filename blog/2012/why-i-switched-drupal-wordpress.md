@@ -46,9 +46,7 @@ The point, though, is that the result works. The new site now uses a design that
 
 And I'm finally <a title="Starting Your Own Visualization Blog" href="/blog/2009/starting-your-own-visualization-blog">practicing what I'm preaching</a>. Rather than obsessing about performance or elegance, and rather than insisting on a particular way of doing things, I actually do things. And that is all that counts.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 02, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

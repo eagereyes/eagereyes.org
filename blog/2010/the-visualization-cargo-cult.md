@@ -66,9 +66,7 @@ While the visualization community is still largely refusing to draw any lines, w
 
 Visualization needs to be more clearly defined, not less. It needs more limits, not more sprawling inclusion of all and everything. We need to start drawing lines in the sand or it will be too late.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 07, 2010. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

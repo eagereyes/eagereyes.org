@@ -15,9 +15,7 @@ This is as much an experiment in running experiments as it is an experiment on s
 
 Two minutes is all it takes. <a href="http://manaskriti.com/gdphist/">Participate in our storytelling experiment here</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 07, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

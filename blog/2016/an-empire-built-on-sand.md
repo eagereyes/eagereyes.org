@@ -29,7 +29,5 @@ Anyway, I'm happy that BELIV accepted this rather opinionated paper (it's a posi
 
 Robert Kosara, <em><a href="/publications/Kosara-BELIV-2016">An Empire Built On Sand: Reexamining What We Think We Know About Visualization</a>,</em> Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELIV), 2016
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 16, 2016_
-
+[[PostedBy]]
 

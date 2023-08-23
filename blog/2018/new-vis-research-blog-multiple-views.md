@@ -29,9 +29,7 @@ Subscribe either <a href="https://medium.com/multiple-views-visualization-resear
 
 <br>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 10, 2018_
-
+[[PostedBy]]
 
 <aside class="comments">
 

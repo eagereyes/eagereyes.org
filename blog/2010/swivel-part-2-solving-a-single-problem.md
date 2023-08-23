@@ -75,9 +75,7 @@ I interjected that I did not mean trust in him personally, but rather the produc
 <hr />
 
 Did you use Swivel? Do you want it back? Feel free to post your comments below. I will collect them and send them to Mr. Minor, unless he drops by to check them out himself (which I assume he will).
-
-_Posted by <a href="/about">Robert Kosara</a> on November 17, 2010. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 <aside class="comments">
 
 ---

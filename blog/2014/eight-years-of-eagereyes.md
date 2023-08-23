@@ -23,9 +23,7 @@ It's encouraging to see the huge interest in visualization. And it's even more e
 
 Discussing visualization needs to matter too. But it can only do so if it comes from a place of understanding, respect, and an open mind.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 01, 2014_
-
+[[PostedBy]]
 
 <aside class="comments">
 

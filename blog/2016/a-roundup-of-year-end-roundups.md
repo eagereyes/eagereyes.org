@@ -28,7 +28,5 @@ The end of the year is always a good time to look back at the great work done in
 
 <a href="https://www.flickr.com/photos/23307937@N04/30857302623/">Teaser image by frankieleon</a>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 29, 2016_
-
+[[PostedBy]]
 

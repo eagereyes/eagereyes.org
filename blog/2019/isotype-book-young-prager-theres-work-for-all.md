@@ -76,9 +76,7 @@ The most interesting chart in the book, and the least ISOTYPE-y, shows the distr
 
 This is perhaps the most interesting ISOTYPE book I’ve seen so far. The subject matter strikes close to Otto Neurath‘s interests, and he was still alive when this book came out (he died at the end of 1945), so perhaps that led to the variety of different charts here. Though it may also have been mostly or entirely Marie Neurath’s work, like the later books illustrated by the ISOTYPE Institute.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 01, 2019. Filed under [ISOTYPE](/tag/isotype)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

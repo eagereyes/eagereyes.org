@@ -48,9 +48,7 @@ We will need to clarify that distinction, and provide more evidence why visualiz
 
 The visual nature of our work is also our greatest weakness. We will need to manage that trade-off to show people the power, and to make them look beyond the (sometimes) pretty surface.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 17, 2011_
-
+[[PostedBy]]
 
 <aside class="comments">
 

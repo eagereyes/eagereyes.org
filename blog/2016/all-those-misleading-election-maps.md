@@ -39,9 +39,7 @@ This is not a useful map. This is just a map because people like to see maps. Bu
 
 Clearly, it's too late for this election. And I'm sure I will get yelled at again on Twitter for being stupid (just like I was today). But perhaps this can sink in over the next year or two and somebody can design a visualization for future elections that actually represents the data it's supposed to show.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 02, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

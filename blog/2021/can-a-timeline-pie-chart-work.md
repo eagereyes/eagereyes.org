@@ -29,9 +29,7 @@ It's also interesting to see how much more the bars for the largest two fires st
 
 In my opinion, the pie chart is successful here. A bar chart would let you do other things, but it wouldn't work nearly as well to get the point across about the vast majority of the largest wildfires having happened in the last 20 years. And since that is their message, I'd say this is the correct choice of chart.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 15, 2021_
-
+[[PostedBy]]
 
 <aside class="comments">
 

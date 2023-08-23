@@ -48,9 +48,7 @@ Relevant papers:
 	<li>Robert Kosara, Silvia Miksch, Helwig Hauser, <a href="/publications/Kosara-InfoVis-2001" target="_blank">Semantic Depth of Field</a>, <em>Proceedings Information Visualization (InfoVis)</em>, pp. 97–104, 2001.</li>
 </ul>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 08, 2011_
-
+[[PostedBy]]
 
 <aside class="comments">
 

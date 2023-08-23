@@ -25,7 +25,5 @@ Link titles will start with "Link:" from now on, but I don't want to do that for
 
 The goal is to make the content easier to consume, since I know that anything beyond a few paragraphs is much less likely to be read in its entirety (or at all). And perhaps I'll even find a use for those other post types, like <em>quote</em>, <em>image</em>, and <em>aside</em>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 29, 2014_
-
+[[PostedBy]]
 

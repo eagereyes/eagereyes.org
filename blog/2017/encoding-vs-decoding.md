@@ -44,9 +44,7 @@ If it were about decoding values, we would not be getting anywhere as much out o
 
 What makes visualization powerful is our ability to go beyond the mere decoding of values from a chart. That makes it interesting, but it also makes it complicated. So far, we have focused our understanding largely on the encoding side of visualization. We need to learn much more about the complex and powerful decoding side.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 20, 2017_
-
+[[PostedBy]]
 
 <aside class="comments">
 

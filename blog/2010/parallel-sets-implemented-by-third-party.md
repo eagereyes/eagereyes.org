@@ -23,7 +23,5 @@ Next week, I will also be speaking on a panel at the <a href="http://nvac.pnl.go
 
 Beyond the next release, I am hoping to connect the program a lot more to Parallel Coordinates, and we actually might be getting funding to do that soon. I can't talk about specifics right now, but it looks promising. So keep your fingers crossed, and I will keep you posted on any and all developments.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 22, 2010_
-
+[[PostedBy]]
 

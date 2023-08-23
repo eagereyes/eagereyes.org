@@ -54,9 +54,7 @@ So now there is an <a href="/pie-charts">updated pie charts page</a> that I will
 
 In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 28, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

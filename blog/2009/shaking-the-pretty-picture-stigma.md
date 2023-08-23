@@ -36,9 +36,7 @@ Visual analysis is not trivial. You have seen the bar and pie charts, but do you
 
 These things are not just important to make us feel better. If we want to be taken seriously as a field, receive funding for research, and expect businesses to pay for what we are doing, we have to communicate this. Visual analysis is not the clipart to cover up your lack of ideas. Visual analysis is the tool that gives you insight, the microscope that lets you find the hidden structures, and the link between your data and your brain.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 31, 2009. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

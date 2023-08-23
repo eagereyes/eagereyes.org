@@ -38,9 +38,7 @@ Being able to create things more easily, and separating the different types of w
 
 Disclosure: I am an advisor for Visual.ly. I have brokered a partnership between Visual.ly and Tableau that has led to <a href="http://blog.visual.ly/visualizing-super-pac-spending/">some interesting first results</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 17, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

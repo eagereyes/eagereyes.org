@@ -50,9 +50,7 @@ There is more coming, pending reviews and acceptance in various places. I also h
 
 What else is there? Do you have work that you consider theory that is about to be published or that was published recently? Let me know below or via the contact form, I'm always looking for more of this kind of work. Also, let me know if you have thoughts on the workshop. We have an idea where we want to go, but it's still in an early stage. Any input from interested participants would be appreciated.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 10, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

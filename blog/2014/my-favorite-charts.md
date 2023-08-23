@@ -74,9 +74,7 @@ Rosling's video, and the gapminder software, not only introduced millions of peo
 
 It's easy to find, and make fun of, bad charts. But between all the pie chart bashing and general criticism of bad charts, it is equally important to find the good examples and try to figure out what makes them work so well. Even if it may be more fun to beat up the bad examples, we will ultimately learn more from understanding the design choices and ideas that went into the good ones.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 03, 2014_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -31,9 +31,7 @@ Even when it's shifted, it looks like the lower right quadrant in both 2020 and 
 
 I don't think the spiral was a bad choice here, but I do question the decision to shift it over like that. Perhaps using a different spiral would have worked better, or just accepting the beginning of the year to not be on a horizontal part of the spiral.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 09, 2022_
-
+[[PostedBy]]
 
 <aside class="comments">
 

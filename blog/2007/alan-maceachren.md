@@ -26,9 +26,7 @@ Here is Alan's list of books in the order in which he read them.
 - Stephen M. Kosslyn, <a href="http://www.amazon.com/Image-Mind-Stephen-M-Kosslyn/dp/0674443667"><em>Image and Mind</em></a>. Cambridge, MA: Harvard University Press, 1980. <em>One of several important contributions by Kosslyn relevant to understanding the interaction between human cognition and visual representations.</em>
 - Edwin Hutchins, <em><a href="http://www.amazon.com/Cognition-Bradford-Books-Edwin-Hutchins/dp/0262581469/">Cognition in the Wild</a></em>. Cambridge, Mass: MIT Press, 1995. <em>This book provides a fascinating account of how cognition happens in groups and is externalized to artifacts. The real world observation of teams doing shipboard navigation is, to me, particularly compelling.</em>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 02, 2007. Filed under [Lists of Influences](/tag/influences)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

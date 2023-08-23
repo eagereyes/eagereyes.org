@@ -37,9 +37,7 @@ This is unproven at this point, but if I am correct I think it opens up some int
 
 The bikini chart is a great example of just how strongly simple design choices can change the appearance of a simple bar chart. Even if my speculation about weight is wrong, the other choices communicate and explain what the viewer is supposed to look for, without the need for explanatory text or a "shorter bars are better" annotation. That's pretty good for a simple bar chart.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 29, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

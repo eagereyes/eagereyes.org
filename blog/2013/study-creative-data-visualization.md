@@ -17,7 +17,5 @@ Don't forget to hit <em>Done</em> when you don't want to play any more. You then
 
 Here's the link to the study: <a href="http://visualizationprimitives.net">Visualization Creativity Study</a>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 22, 2013_
-
+[[PostedBy]]
 

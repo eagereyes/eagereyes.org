@@ -43,7 +43,5 @@ If you ever get a chance to go, you should definitely do it. Fly into Frankfurt,
 
 <p align="center"><img class="aligncenter size-full wp-image-2372" alt="Türkismühle" src="https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-tuerkismuehle.jpg" width="600" height="402" /></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 26, 2013_
-
+[[PostedBy]]
 

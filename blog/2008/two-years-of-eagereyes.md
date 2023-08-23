@@ -61,9 +61,7 @@ What has the site achieved? It has certainly helped me get recognized. As egotis
 
 That's a good start, but the next step is to get people to actually act on that, to ask questions and to demand more foundational work in InfoVis, more InfoVis for communication, and a deeper understanding of how it all works. All of that exists in one way or another, but it is not enough. We don't understand our own field, and we need to change that.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 30, 2008_
-
+[[PostedBy]]
 
 <aside class="comments">
 

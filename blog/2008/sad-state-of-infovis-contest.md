@@ -48,9 +48,7 @@ So where do we go from here? Unless our plans change, the data for next year wil
 
 This could be a good way to get a lot of submissions to then turn up the heat the year after with a more difficult data set. We'll see if that works.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 01, 2008_
-
+[[PostedBy]]
 
 <aside class="comments">
 

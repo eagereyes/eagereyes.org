@@ -38,9 +38,7 @@ There is clearly a lot of value in doing this, but I wonder who could do it. Mos
 
 I really hope that somebody will do this, but I’m not holding my breath. What I will do, starting next year, is discuss more papers – both current ones and older ones. I’m not committing to a schedule here, but once a month seems like a reasonable rhythm. We’ll see how this works out. There’s certainly a lot of interesting work out there that would deserve a broader audience.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 10, 2013_
-
+[[PostedBy]]
 
 <aside class="comments">
 

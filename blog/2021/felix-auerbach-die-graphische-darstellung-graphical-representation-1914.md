@@ -81,9 +81,7 @@ In the conclusion, Auerbach argues that graphical methods are important because 
 
 This may not be the best-known book about graphical representation, or even a particularly important one. But it’s interesting to see how well understood graphical methods were 100 years ago. Auerbach’s book also nicely complements Brinton’s by filling in the natural sciences side of things, while Brinton focuses more on statistics and business uses.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 07, 2021_
-
+[[PostedBy]]
 
 <aside class="comments">
 

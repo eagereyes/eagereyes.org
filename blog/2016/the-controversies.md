@@ -52,9 +52,7 @@ The visualization community has a reputation of being dogmatic and unfriendly, a
 
 This is a matter of degree though, too. To finish the thought about academics not speaking their minds above: having a clear position and talking about things in public is important. Most people currently err on the side of caution. I've sometimes erred on the side of being too loud and to aggressive. The right approach is somewhere between those, not on either end.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 27, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

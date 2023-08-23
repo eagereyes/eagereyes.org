@@ -24,9 +24,7 @@ But the point is: this is not a story. There is no narrative, no characters, no 
 
 Now let’s look at an actual story that isn’t much longer. It’s not as exciting, but it is a story:
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 06, 2014_
-
+[[PostedBy]]
 
 <aside class="comments">
 

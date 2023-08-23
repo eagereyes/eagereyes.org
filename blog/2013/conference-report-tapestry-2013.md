@@ -108,7 +108,5 @@ Throughout the day, and already on the evening before, where we had a little rec
 
 Many people have asked us whether there will be another event next year. And the good news is: yes, there will be a Tapestry 2014. Details will be announced soon. It will take place around the same time as this year, and again on the East Coast. To stay posted, follow <a href="http://blog.tapestryconference.com">the Tapestry Blog</a> and/or <a href="https://twitter.com/tapestryconf">the Tapestry Twitter account</a>. The <a href="http://tapestryconference.com">Tapestry website</a>, which embarrassingly still talks about this year's conference, will also be updated soon.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 14, 2013_
-
+[[PostedBy]]
 

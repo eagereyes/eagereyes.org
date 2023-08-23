@@ -37,7 +37,5 @@ As a final illustration of the point, here's a comic from <a href="http://abstru
 
 <a href="http://abstrusegoose.com/strips/it_is_obvious.PNG" rel="lightbox"><img src="https://media.eagereyes.org/media/2010/proof_560.png" alt="" width="560" height="464" /></a>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 12, 2010_
-
+[[PostedBy]]
 

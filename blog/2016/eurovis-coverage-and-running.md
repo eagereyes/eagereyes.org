@@ -24,9 +24,7 @@ The EuroVis and VIS "running clubs" have been a bit hit-and-miss, but I'm not re
 
 The teaser image above is from Strava's running heat map for Groningen. Looks like a great place for a few little pre-conference morning runs!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 01, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

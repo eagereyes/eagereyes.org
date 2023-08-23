@@ -40,9 +40,7 @@ Steven Johnson, <em><a href="http://www.amazon.com/Ghost-Map-Londons-Terrifying-
 
 Johnson has <a href="http://www.theghostmap.com/" target="_blank">a website with several videos of him talking about topics from the book</a>. A fantastic source on the map is also <a href="http://www.ph.ucla.edu/epi/snow.html" target="_blank">Ralph R. Frerichs's website on John Snow</a>, despite the rather horrific navigation (the little squares are the links, not the text).
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 28, 2010. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

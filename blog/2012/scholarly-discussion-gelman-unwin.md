@@ -27,7 +27,5 @@ Here are the links to the articles:
 </ul>
 The other responses are not available online yet, from what I can tell. I will link to them if/when I find them, or once the complete set is published in the journal.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 29, 2012_
-
+[[PostedBy]]
 

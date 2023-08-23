@@ -76,9 +76,7 @@ This post is already too long, so I will close here. I will look at the data som
 
 In the meantime, let me know what you think of the visualization! I'm really curious to hear what people make of my choices, whether they find the result interesting, etc.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 18, 2020_
-
+[[PostedBy]]
 
 <aside class="comments">
 

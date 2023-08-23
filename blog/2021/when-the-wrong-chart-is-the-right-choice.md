@@ -66,7 +66,5 @@ I think this little discussion highlighted something important about how we need
 
 Distorted axes can be a problem, no doubt. But distortion isn’t always wrong, and in fact sometimes is the better way to go. Use case, convention, and expertise trump visualization rules any day. And I think these two examples, in particular the one about running, is one that many people can relate to who otherwise would scoff at the outrageously bad charts used by experts in some field they don’t understand.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 27, 2021_
-
+[[PostedBy]]
 

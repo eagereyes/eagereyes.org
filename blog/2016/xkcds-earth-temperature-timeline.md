@@ -19,9 +19,7 @@ And since Munroe encourages embedding and hot linking, here's the whole thing in
 
 <p align="center"><a href="http://xkcd.com/1732/"><img class="alignnone size-medium" src="http://imgs.xkcd.com/comics/earth_temperature_timeline.png" alt="" width="740" height="14957" /></a></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 12, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

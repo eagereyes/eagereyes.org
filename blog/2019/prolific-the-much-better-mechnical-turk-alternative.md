@@ -21,7 +21,5 @@ It’s really easiest if you just sign up and check it out yourself. If you’re
 
 Mechanical Turk may be a good general platform for crowdsourcing, but for running studies, Prolific is far superior.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 04, 2019_
-
+[[PostedBy]]
 

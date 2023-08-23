@@ -21,7 +21,5 @@ The latter is why we accept not just the traditional research and position paper
 
 The workshop will be part of <a href="http://ieeevis.org/year/2019/welcome">the IEEE VIS conference</a> at the end of October in Vancouver, BC. More information on how to submit, etc., can be found on <a href="https://viscomm.io">the workshop website</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 21, 2019_
-
+[[PostedBy]]
 

@@ -31,7 +31,5 @@ It's a great book about what to do and not do with charts, but <em>How Charts Li
 
 But everybody else should.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 11, 2019_
-
+[[PostedBy]]
 

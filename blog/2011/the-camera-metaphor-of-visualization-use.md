@@ -38,9 +38,7 @@ But beyond that, your thinking changes. Being able to see your data and to direc
 
 But just like with cameras, we need to show people where the value is. It's not the cute picture frames or the kitschy star filter, it's opening your eyes and seeing what you can do with the tools you have on hand.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 12, 2011_
-
+[[PostedBy]]
 
 <aside class="comments">
 

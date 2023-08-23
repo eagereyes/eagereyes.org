@@ -13,7 +13,5 @@ We recently redesigned the Tapestry website, and unfortunately lost the archive 
 
 If you're inspired and want to attend in March 2016, <a href="/blog/2015/tapestry-2016-open-for-applications">now is the time to apply</a>. And if you apply to speak and you're picked, your talk could soon be among the illustrious crowd.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 14, 2015_
-
+[[PostedBy]]
 

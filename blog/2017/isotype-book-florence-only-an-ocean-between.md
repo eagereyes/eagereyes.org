@@ -56,7 +56,5 @@ The book is an interesting historical document today, both because of the number
 Despite the very numbers-heavy way of writing, however, the ISOTYPE charts are not mentioned in the text and presumably were done after the text had been written. Some of them directly speak to topics in the text, some seem to be more loosely based on it and data that was available – at least that's my explanation for the different years the data is from.
 
 <hr />
-
-_Posted by <a href="/about">Robert Kosara</a> on October 22, 2017. Filed under [ISOTYPE](/tag/isotype)._
-
+[[PostedBy]]
 

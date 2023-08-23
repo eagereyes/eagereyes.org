@@ -54,7 +54,5 @@ Peebles, D., &amp; Cheng, P. C.-H. (2002). <a href="https://peebles.sdfeu.org/pa
 
 Peebles, D., &amp; Cheng, P. C.-H. (2003). <a href="https://peebles.sdfeu.org/papers/pee_che2003.pdf">Modeling the effect of task and graphical representation on response latency in a graph reading task</a>. <em>Human Factors</em>, 45, 28-46.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 31, 2020_
-
+[[PostedBy]]
 

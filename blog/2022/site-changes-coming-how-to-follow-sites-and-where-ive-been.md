@@ -52,9 +52,7 @@ I've been spending a lot more time on Discord lately, specifically some servers 
 
 It is nice to have this site to fall back on, even if it doesn't have the reach it once had. But it has been around for a while, and I hope to keep it around, and relevant, for a while longer.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 06, 2022_
-
+[[PostedBy]]
 
 <aside class="comments">
 

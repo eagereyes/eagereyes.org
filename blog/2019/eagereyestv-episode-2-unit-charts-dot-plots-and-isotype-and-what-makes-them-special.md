@@ -23,7 +23,5 @@ Topics I cover in the video:
 
 Please don’t hesitate to ask questions, post suggestions, etc.!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 08, 2019. Filed under [eagereyesTV](/tag/eagereyestv), [ISOTYPE](/tag/isotype)._
-
+[[PostedBy]]
 

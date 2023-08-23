@@ -48,9 +48,7 @@ What is equally important though, and easily ignored, is that the context of the
 
 Wade Robison, Roger Boisjoly, David Hoeker, Stefan Young, <em><a href="http://people.rit.edu/wlrgsh/FINRobison.pdf" target="_blank">Representation and Misrepresentation: Tufte and the Morton Thiokol Engineers on the Challenger</a></em>. <em>Science and Engineering Ethics</em>, vol. 8, no. 1, pp. 59–81, 2002.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 02, 2011. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -58,9 +58,7 @@ At the same time, the academic visualization community is all about analysis and
 
 In its roughly 200 years of history, our idea of visualization has changed considerably, and work has been done for different purposes. Visual representations are very malleable, and can often serve different purposes reasonably (or even equally) well. To properly understand why things were done a certain way, we have to look at the work based on what we know about its creator's goals and ideas. If we ignore this context, we are doing a disservice to the people we inherit from, as well as limit our own ability to build on their work.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 25, 2012. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

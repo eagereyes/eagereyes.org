@@ -23,9 +23,7 @@ Context is critical in this case, as is uniqueness. Using the same style of visu
 
 This is where information graphics succeed and general-purpose visualization currently does not, except as a component of an information graphic. Visualization and memory have not been studied much so far, and given the significant importance of exploration and analysis in visualization, that is understandable. But as we are moving into the presentation realm, we need to pay more attention to higher-level cognitive processes, including memory.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 01, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

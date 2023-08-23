@@ -20,9 +20,7 @@ Things I cover in the video:
 
 <ul><li><a href="/papers/a-pair-of-pie-chart-papers">The 2016 pie chart studies with Drew Skau</a></li><li><a href="/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results">An explainer of what we found in those studies</a> in an easier-to-digest format</li><li><a href="/blog/2019/paper-evidence-for-area-as-the-primary-visual-cue-in-pie-charts">Write-up of the VIS 2019 short paper</a>, the study I discuss in the video</li><li><a href="https://osf.io/7y842/">All papers and materials</a> from that paper</li><li><a href="/tag/pie-charts">All the other pie charts articles</a> here on my blog<br></li></ul>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 20, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

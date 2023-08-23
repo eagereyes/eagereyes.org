@@ -50,9 +50,7 @@ It's also good strategy to avoid the <em><a href="https://en.wikipedia.org/wiki/
 
 <a href="https://commons.wikimedia.org/wiki/File:Chess-king.JPG">Teaser image by David Lapetina</a>, used under Creative Commons
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 20, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -33,7 +33,5 @@ Exhibit B is from September 21, and is an example of the ever popular pie chart,
 
 With great power comes great responsibility. The NYTimes is breaking new ground with their use of visualization and interaction, and I am grateful that they are really paying attention to what is happening in information visualization. But I wish they could reign in the their <a href="http://en.wikipedia.org/wiki/The_Ministry_of_Silly_Walks">Department of Silly Charts</a> and integrate it with the rest of the paper.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 23, 2008_
-
+[[PostedBy]]
 

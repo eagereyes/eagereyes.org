@@ -62,9 +62,7 @@ Paper talks can be hit and miss, but if one of the above has piqued your interes
 
 There’s a lot of great work at VIS every year, and one of the few advantages of the situation we’re in is that you’re able to see much more of it for yourself for free. So give it a shot!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 11, 2020_
-
+[[PostedBy]]
 
 <aside class="comments">
 

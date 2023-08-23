@@ -162,7 +162,5 @@ Wow, the Papers Fast Forward starts with a bang! Extremely well done "movie open
 
 The annual gathering of the InfoVis family has begun. Lots of familiar faces. One change from the previous years: there is no conference bag. I actually think that that's a good thing, because I tend to not use them (they're usually small and not the prettiest or sturdiest) and just throw them away after a year – when I get the next one.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 28, 2008_
-
+[[PostedBy]]
 

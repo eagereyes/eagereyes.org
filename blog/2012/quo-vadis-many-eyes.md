@@ -80,9 +80,7 @@ At the same time, though, there is clearly demand for accessible, powerful visua
 
 In the interest of full disclosure, I should add that I am <a title="Hello from Tableau (and Seattle)!" href="/blog/2012/hello-tableau-and-seattle">currently doing my sabbatical at Tableau Software</a>. This posting was not written to poo-poo the competition, however.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 26, 2012. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

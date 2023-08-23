@@ -42,7 +42,5 @@ They end the paper with a call to improve rainbow colormaps instead of dismissin
 
 Ware, Stone, Albers Szafir, <a href="https://www.computer.org/csdl/magazine/cg/2023/03/10128890/1NdJMHqISnS?fbclid=IwAR2Aq4iRqdmeIUCw5_Oy4vjJDGVek23wNWEGlEJMML82BWyYGplFXqK8uqU">Rainbow Colormaps Are Not All Bad</a>, <em>Computer Graphics &amp; Applications</em>, 2023.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 12, 2023_
-
+[[PostedBy]]
 

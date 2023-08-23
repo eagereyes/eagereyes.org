@@ -29,9 +29,7 @@ I have added the new TPC map to the <a href="/zipscribble-maps/interactive-zipsc
 
 The code for the interactive map and the data files for the TPC map are <a href="https://github.com/eagereyes/zipscribble">available in a github repository</a>. In particular, <a href="https://github.com/eagereyes/zipscribble/blob/master/ZIPTPCMap/USTPCmap.csv">this file</a> contains the tour in easily-digested CSV format.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 04, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

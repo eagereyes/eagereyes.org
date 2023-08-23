@@ -29,9 +29,7 @@ The app is designed very nicely with many features and a built-in tutorial (whic
 
 Given Trifacta Wrangler’s power and support, and the dismal state of the only other freely available tool, I think that Wrangler will be the go-to choice for data wrangling for most people going forward.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 19, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

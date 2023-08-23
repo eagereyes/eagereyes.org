@@ -44,9 +44,7 @@ There is something about this structure that is vaguely familiar, has an air of 
 
 When you get that next email pointing you to this awesome resource, don't forward it. Only you can stop this nonsense.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 19, 2009_
-
+[[PostedBy]]
 
 <aside class="comments">
 

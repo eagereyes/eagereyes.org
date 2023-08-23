@@ -136,9 +136,7 @@ Also, the following years were announced, for the first time as far as I know. V
 
 <p align="center"><img class="aligncenter size-medium wp-image-2709" alt="Altanta Sunset" src="https://media.eagereyes.org/wp-content/uploads/2013/10/altanta-sunset.jpg" width="730" height="486" /></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 27, 2013_
-
+[[PostedBy]]
 
 <aside class="comments">
 

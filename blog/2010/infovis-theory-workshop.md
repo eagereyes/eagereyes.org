@@ -82,9 +82,7 @@ Also, how do we make it easier to publish this kind of work? What makes for a go
 <li><a href="http://www.cs.ou.edu/~weaver/academic/">Chris Weaver</a>, University of Oklahoma</li>
 </ul>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 14, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

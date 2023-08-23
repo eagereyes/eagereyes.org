@@ -32,9 +32,7 @@ You can watch the <a href="http://vimeo.com/13437693">video in HD</a> on the vim
 
 I have also posted the <a href="http://github.com/eagereyes/ParVisMT">source code</a> and there's an executable under the downloads tab if you want to play with it. Be advised, though, that this is a pure research prototype that demonstrates the technique but doesn't do anything useful. The data is hardcoded and the program only lets you brush and rearrange axes, nothing else. The program requires Mac OS X 10.6 "Snow Leopard" and a recent MacBook or MacBook Pro.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 20, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

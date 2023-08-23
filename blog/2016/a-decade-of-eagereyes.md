@@ -33,9 +33,7 @@ There is a huge amount of work to be done here. There are many questions that ne
 
 So let's get started.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 01, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -13,7 +13,5 @@ After more than five years, I've finally had it with Drupal. I'm switching the s
 
 I have turned comments off so I can start transitioning the content. I will post more about the reasons for the switch when the new site is live early next year.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 21, 2011_
-
+[[PostedBy]]
 

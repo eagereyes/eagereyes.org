@@ -23,9 +23,7 @@ Also, what makes a visualization iconic? Some of the things I chose, like <a tit
 
 The <a href="http://www.fastcolabs.com/3014911/top-10-iconic-data-graphics">overall list</a> is quite good. You can argue about individual items, but I think we hit the big ones. An interesting question would be how to make two or three lists using slightly different criteria (impact, novelty, etc.) and then compare how the different approaches fare. That wouldn't make for as clear a headline, but it would be illuminating.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 28, 2013_
-
+[[PostedBy]]
 
 <aside class="comments">
 

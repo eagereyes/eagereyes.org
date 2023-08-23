@@ -21,7 +21,5 @@ Criticism also helped connect the theory to practice. Some of the remarks my stu
 
 What is interesting is that some of the arts students actually went a lot further in their data analysis than their computer science colleagues. A few of the architecture students were also intrigued by the fact that you can use spatial metaphors to visualize any data, not just spaces.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 02, 2007_
-
+[[PostedBy]]
 

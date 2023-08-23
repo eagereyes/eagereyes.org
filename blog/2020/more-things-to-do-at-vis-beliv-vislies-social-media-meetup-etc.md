@@ -36,7 +36,5 @@ The idea is to cover all aspects of social media and publicizing your work on to
 
 There's a lot to see and do, so check out VIS! This might be the only time you can do that from the comfort of your home, and completely free!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 21, 2020_
-
+[[PostedBy]]
 

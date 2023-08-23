@@ -46,9 +46,7 @@ For all its flaws, I am convinced that the Bateman et al. paper will prove to be
 
 Visualization has seen some research on perception, and that work has made its way into many techniques and rules we use today. We are still incredibly weak when it comes to higher-level cognitive processes like memory and learning, though. These processes are equally, if not more, important, in particular when it comes to presentation and communication of data. Data-to-ink ratio is a useful concept, but we need to start understanding when it should be used, and when other considerations are more important.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 05, 2011_
-
+[[PostedBy]]
 
 <aside class="comments">
 

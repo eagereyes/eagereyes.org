@@ -42,9 +42,7 @@ https://twitter.com/_cingraham/status/508336378279886848
 
 But I hope that we can get to a point where we can have a more intelligent, nuanced, and respectful discussion. We’re not going to make much progress if we just keep rehashing the same old ideas without putting any new thoughts into them.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 15, 2014_
-
+[[PostedBy]]
 
 <aside class="comments">
 

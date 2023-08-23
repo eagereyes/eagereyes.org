@@ -34,9 +34,7 @@ There is a simple solution. One that every child knows, but one that gets lost s
 
 <em>Why?</em>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 25, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -15,7 +15,5 @@ Maarten's list is largely focused on data visualization, including data journali
 
 A lot of amazing work was created last year, it's worth spending some time to look over and get a sense of both the level and amount of good visualization work that's being produced today.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 02, 2019_
-
+[[PostedBy]]
 

@@ -15,9 +15,7 @@ Jorge has been on fire lately with his posting on <a href="http://www.excelchart
 
 Jon hasn't written anything so far this year, but perhaps this posting will give him a jump-start.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 08, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

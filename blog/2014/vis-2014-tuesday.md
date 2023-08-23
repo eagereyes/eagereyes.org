@@ -72,7 +72,5 @@ It remains a crime that VisLies is not a regular session, but a meetup that is t
 
 There were also two new parties, the Austrian Party and the NYU Party. I really like this new tradition of parties to connect people and reinforce the community aspect of the conference. It does mean even less sleep than before, though.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 12, 2014_
-
+[[PostedBy]]
 

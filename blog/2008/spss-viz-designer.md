@@ -27,7 +27,5 @@ One area were Viz Designer is clearly ahead is its integration with SPSS. While 
 
 Exposing the underlying engine and definition language is also interesting and might lead to some really interesting things. Involving their users is also a good thing and will certainly get people interested. In terms of features and interaction they still have a long way to go, though, and time will tell if Viz Designer can be more than a static back end to the actual (non-visual) analysis.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 13, 2008. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 

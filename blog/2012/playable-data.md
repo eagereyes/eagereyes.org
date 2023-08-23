@@ -38,9 +38,7 @@ Both of these are relatively minor points though, and don't take away from a ver
 
 Finding ways to communicate data is a very interesting problem, and one that <a title="What Does It Mean to Inform?" href="/journalism/what-does-it-mean-to-inform">visualization can definitely help with</a>. Besides making <a title="Want to Make A Chart Memorable? Add Junk" href="/blog/2011/want-to-make-chart-memorable-add-junk">interesting information graphics</a>, turning the presentation into a game is a good idea to get people more engaged. Of course, the goals of the visualization have to be carefully weighed against the effort and distraction of the game. There is probably also a negative effect here, because some people just won't want to play a game and rather see a more serious presentation. But with more research into which approaches may or may not work, and the more widespread acceptance of gamification from social apps, this seems like a good approach.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 29, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

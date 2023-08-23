@@ -48,9 +48,7 @@ Visual math is a good idea and has its place. But it needs to be used judiciousl
 
 Quite often, a novel or unusual representation gets in the way more than it helps, while a boring one like a bar chart would provide a lot more value; in particular, when interaction is involved.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 26, 2012. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

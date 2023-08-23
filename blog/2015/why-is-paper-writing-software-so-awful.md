@@ -76,9 +76,7 @@ There are so many missed opportunities here, it’s breathtaking. There has to b
 
 We can’t continue writing papers with technology that hasn’t had any meaningful updates in 30 years (LaTeX) or that tries to cover everything that contains text in some form (Word). There has got to be a better way.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 18, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

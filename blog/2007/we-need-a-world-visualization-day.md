@@ -39,9 +39,7 @@ But there are a few things that are self-evident, and I want to at least get sta
 </ul>
 If you're attending the <a href="http://vis.computer.org/vis2007/">Vis/InfoVis conference</a> in Sacramento, come to the BOF on Monday, October 29 at 6pm!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 06, 2007_
-
+[[PostedBy]]
 
 <aside class="comments">
 

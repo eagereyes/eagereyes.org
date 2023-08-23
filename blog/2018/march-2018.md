@@ -30,9 +30,7 @@ Morolin has made some some lovely short videos <a href="https://imgur.com/galler
 
 Speaking of colors, <a href="http://elijahmeeks.com/">Elijah Meeks</a> has written up some great advice for people on <a href="https://medium.com/@Elijah_Meeks/color-advice-for-data-visualization-with-d3-js-33b5adc41c90">picking good colors for data visualization in D3</a>. The recent release of D3 v5 killed the (often wrongly used) <em>category20</em> colorscale, and Elija discusses good options for what to use instead.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 11, 2018_
-
+[[PostedBy]]
 
 <aside class="comments">
 

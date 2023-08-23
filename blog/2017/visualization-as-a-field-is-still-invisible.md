@@ -56,9 +56,7 @@ Visualization as an academic community has made some big strides over the last d
 
 Next week’s <a href="http://ieeevis.org">VIS conference</a> is the place the entire field gathers. Let’s make it the starting point of a era of visualization. An era of reaching out and making visualization visible and relevant in the world.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 25, 2017_
-
+[[PostedBy]]
 
 <aside class="comments">
 

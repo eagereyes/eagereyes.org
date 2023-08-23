@@ -27,9 +27,7 @@ Aritra Dasgupta also presented our paper <em><a href="/papers/conceptualizing-vi
 
 While there was no huge highlight, there were a lot of solid papers and some good discussions during the Q&amp;A.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 06, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

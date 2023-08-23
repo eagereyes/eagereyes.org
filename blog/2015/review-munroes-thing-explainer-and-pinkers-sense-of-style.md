@@ -40,9 +40,7 @@ The two books are very different, which makes them such a beautifully complement
 
 Both also make great gifts. No academic can be offended to be given a book written by Steven Pinker, and no nerd(y academic) can object to a book from Mr. xkcd.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 01, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

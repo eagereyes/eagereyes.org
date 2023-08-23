@@ -56,9 +56,7 @@ The Best Paper Award at InfoVis this year went to <em><a href="http://marvl.info
 
 The day ended (at least for me) with the Utah Party. I missed yesterday's Austrian Party, but there's also the West Coast Party tomorrow night after the banquet. The Utah Party took place at a pub with waitresses in some very well done costumes and a dancing roomba/broom/skull thing ('cause Halloween). We'll see if the West Coast will be able to top that.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 27, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

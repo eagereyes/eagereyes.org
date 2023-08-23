@@ -50,9 +50,7 @@ The common interactions described earlier are similar in that they don't map to 
 
 We tend to throw as much technology as we can at every problem. But the example of indirect multi-touch interaction shows how some restraint can lead to a simpler solution that is much more useable and flexible. Going forward, we will need to let go of some of our ideas for how interaction is done right now, in order to be able to explore what is possible. Just like my phones-with-mice example above, I think we're still stuck in thinking that one particular way of doing things will work across all uses and devices. But that is just not the case.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 04, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

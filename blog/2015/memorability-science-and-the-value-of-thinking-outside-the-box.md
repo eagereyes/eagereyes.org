@@ -30,9 +30,7 @@ The statement above is especially silly because Michelle’s Ph.D. is actually i
 
 Another problem is that Steve has so far mostly singled out women for his criticisms: <a href="https://www.perceptualedge.com/articles/visual_business_intelligence/visual_difficulties.pdf">Jessica Hullman in 2011</a>, <a href="https://www.perceptualedge.com/blog/?p=1770">Michelle Borkin in 2013</a>, and now again in 2015. Jeff Heer also picks up on this, and in particular the personal attacks, in the discussion thread:
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 16, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

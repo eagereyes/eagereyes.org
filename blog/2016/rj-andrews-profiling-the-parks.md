@@ -19,7 +19,5 @@ https://www.youtube.com/watch?v=q3zt7BXEMPQ
 
 RJ has also written <a href="http://www.infowetrust.com/parks/">a nice posting</a> about the motivation for the piece, the data, the process, etc.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 20, 2016_
-
+[[PostedBy]]
 

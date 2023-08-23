@@ -40,9 +40,7 @@ Click the image below to go to the interactive version of the chart. Let me know
 
 <p><a href="/applications/ceos"><img class="aligncenter size-medium wp-image-8377" src="https://media.eagereyes.org/wp-content/uploads/2014/10/ceos-static-730x510.png" alt="It pays to be a CEO in the U.S." width="730" height="510" /></a></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 12, 2014_
-
+[[PostedBy]]
 
 <aside class="comments">
 

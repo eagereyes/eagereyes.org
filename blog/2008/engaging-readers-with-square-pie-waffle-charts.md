@@ -33,9 +33,7 @@ There is also a collection of <a href="http://www.enterprise-dashboard.com/2008/
 
 There is no doubt that we need to be careful about the choice of visual representation, and that we need to encourage the use of good charts and criticize the bad ones. But that doesn't mean we can get lazy and squeeze everything into a few standard charts types we've been using for decades. That is especially true if we want people to actually care about what we're trying to show &ndash; and not bore them to tears.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 07, 2008_
-
+[[PostedBy]]
 
 <aside class="comments">
 

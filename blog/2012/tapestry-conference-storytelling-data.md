@@ -43,7 +43,5 @@ The conference is limited to 100 participants, and invite-only. We have already 
 
 A limited number of travel sponsorships are available for journalists, administered through IRE. If you are interested in one, please include that in your invite request.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 17, 2012_
-
+[[PostedBy]]
 

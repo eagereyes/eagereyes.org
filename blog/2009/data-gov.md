@@ -32,9 +32,7 @@ They were created for the <a href="http://www.ishr.org/">International Society f
 
 In any case, they are a great use of <a href="/Theory/JoyOfRepresentation.html">representation</a> in photography, and they point in the right direction. Al this fancy technology may serve a higher purpose, after all.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 21, 2009_
-
+[[PostedBy]]
 
 <aside class="comments">
 

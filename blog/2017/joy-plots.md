@@ -42,9 +42,7 @@ What they both have in common is also that they show the value and fun in explor
 
 (Also it’s vacation time and nobody’s reading anything I write here anyway)
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 10, 2017_
-
+[[PostedBy]]
 
 <aside class="comments">
 

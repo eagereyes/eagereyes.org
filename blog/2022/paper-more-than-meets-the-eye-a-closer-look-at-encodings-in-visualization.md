@@ -29,9 +29,7 @@ I've clearly only scratched the surface here, but I think it's an interesting to
 
 Robert Kosara, <a href="/publications/Kosara-CGA-2022">More Than Meets the Eye: A Closer Look at Encodings in Visualization</a>, <em>Computer Graphics and Applications (CG&amp;A)</em>, vol. 42, no. 2, pp. 110-114, 2022.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 19, 2022_
-
+[[PostedBy]]
 
 <aside class="comments">
 

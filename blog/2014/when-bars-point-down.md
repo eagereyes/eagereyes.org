@@ -56,9 +56,7 @@ Showing data isn't very difficult, but there are many clever and subtle ideas th
 
 The simple decision to have bars point down instead of up draws attention and communicates a message beyond the pure numbers: something is wrong. It's amazing how loudly and clearly such a simple change can speak.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 15, 2014_
-
+[[PostedBy]]
 
 <aside class="comments">
 

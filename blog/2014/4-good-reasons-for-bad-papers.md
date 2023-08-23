@@ -50,7 +50,5 @@ This is part of <a href="/tag/peer-review">a five-part series on peer review in 
 
 <a href="http://www.flickr.com/photos/bubbletea/7737891162/">Teaser image by bubbletea1</a>, used under Creative Commons.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 22, 2014_
-
+[[PostedBy]]
 

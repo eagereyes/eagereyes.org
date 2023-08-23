@@ -62,9 +62,7 @@ Neither of these two data shapes is right or wrong. They each work well for thei
 
 More fundamentally, it's crucial to know that these differences in data shape exist. That's the first step in trying to figure out why a particular dataset is so damn hard to work with in the tool of your choice. You won't be very happy with a wide dataset in Tableau, and neither with a long-and-skinny one in Excel.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 24, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

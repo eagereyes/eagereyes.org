@@ -71,9 +71,7 @@ Numbers need to be framed in terms that make sense. Huge percentages don't. Usin
 
 <a href="https://www.flickr.com/photos/jeremybrooks/3195078043/">Teaser image by Jeremy Brooks</a>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 12, 2017_
-
+[[PostedBy]]
 
 <aside class="comments">
 

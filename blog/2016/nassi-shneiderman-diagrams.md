@@ -29,9 +29,7 @@ It's hard to find examples of Nassi-Shneiderman diagrams on the web. Here's a fu
 
 There is a short but helpful <a href="https://en.wikipedia.org/wiki/Nassi–Shneiderman_diagram">Wikipedia page on Nassi-Shneiderman diagrams</a>, and <a href="http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/">Ben Shneiderman has a little page</a> up as well (though most of the links there are dead). <a href="http://www.breezetree.com/articles/nassi-shneiderman-diagram.htm">An article about how to create these diagrams in Excel</a> has some helpful illustrations as well. The <a href="http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/1973.pdf">original paper is also available</a> in all its 1970s typewriter glory, hand-drawn illustrations and all.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 28, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -69,9 +69,7 @@ The following list is mostly taken from Apple's 500 million downloads page (whic
 	<li><a href="http://www.apple.com/itunes/">Apple's iTunes Store</a>. The source of everything.</li>
 </ul>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 02, 2006_
-
+[[PostedBy]]
 
 <aside class="comments">
 

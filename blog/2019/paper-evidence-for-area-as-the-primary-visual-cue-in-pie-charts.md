@@ -35,9 +35,7 @@ If you're exhausted from reading all this and don't want to read four pages of p
 
 Robert Kosara, <a href="/publications/Kosara-VISShort-2019.html">Evidence for Area as the Primary Visual Cue in Pie Charts</a>, <em>IEEE VIS Short Paper Proceedings</em>, 2019.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 17, 2019_
-
+[[PostedBy]]
 
 <aside class="comments">
 

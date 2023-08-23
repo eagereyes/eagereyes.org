@@ -21,7 +21,5 @@ The <a href="http://bizweekgraphics.tumblr.com/post/105369006776/">BizWeekGraphi
 
 If you're on Twitter, follow <a href="https://twitter.com/bizweekgraphics">bizweekgraphics</a> and its mastermind, <a href="https://twitter.com/tophtucker">Toph Tucker</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 07, 2015_
-
+[[PostedBy]]
 

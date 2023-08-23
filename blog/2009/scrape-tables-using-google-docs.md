@@ -27,9 +27,7 @@ Once this is done, Google Docs retrieves the data and inserts it into the spread
 
 This is very simple and quick, and a much better idea than writing a custom script. Of course, the real solution would be to offer all data as a CSV file in addition to the table to begin with. But until that happens, we will need tools like this to get the data into a format that is actually useful.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 15, 2009_
-
+[[PostedBy]]
 
 <aside class="comments">
 

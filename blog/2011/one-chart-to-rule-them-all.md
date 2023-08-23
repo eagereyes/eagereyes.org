@@ -64,9 +64,7 @@ It's easy to criticize bad charts and chart choices, but it's actually much more
 
 The bubble chart is gaining a lot of traction: one of the slides states that they "love the bubble charts," and they're not a bad choice in this case. But despite its relative ease of use (especially given the clever labels in the corners), it's important not to overload it with too much data.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 08, 2011. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

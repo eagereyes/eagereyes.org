@@ -23,7 +23,5 @@ The actual talk is about 40 minutes, with the rest Q&amp;A. Below is the abstrac
 
 <em>Instead of well-run experiments and real evidence, many supposed rules are based on opinion, aesthetic judgments, and incomplete or oversimplified studies. You wouldn’t know that from the level of conviction with which these things are often stated. In this talk, I will show you that some of the things we just assume to be true are actually wrong. There are many things we don’t really know—and it is important to ask, how do we know that?</em>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 04, 2017_
-
+[[PostedBy]]
 

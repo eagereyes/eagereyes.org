@@ -46,9 +46,7 @@ Despite the issues with the study, banking to 45º still seems like a good idea.
 
 It is a testament to the youth of visualization as a field that even something as basic as the aspect ratio of a line chart is not actually understood very well, and essentially based on a single study from 25 years ago that is limited both in its scope and the strength of its results.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 02, 2013_
-
+[[PostedBy]]
 
 <aside class="comments">
 

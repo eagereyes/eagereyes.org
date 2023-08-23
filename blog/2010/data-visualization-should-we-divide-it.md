@@ -46,9 +46,7 @@ I would like to take this opportunity to thank Robert for allowing me to post my
 
 About the author: Pedro Monteiro is a Portuguese graphic designer working for Portugal’s best selling newsmagazine <a href="http://www.visao.pt/">Visão</a> and as a consultant for <a href="http://www.innovation-mediaconsulting.com/">INNOVATION MEDIA CONSULTING</a>. He also runs <a href="http://www.whatype.com/">Whatype</a>, a blog with personal projects where he has done some experiments with Data Visualization, among other things. Pedro has been choosen to be included in <a href="http://images.businessweek.com/ss/09/08/0812_data_visualization_heroes/14.htm">Business Week’s list of 21 Heroes of Data Visualization</a> and has shared some of his views about Data Visualization on <a href="http://www.brainpickings.org/index.php/2009/12/08/pedro-monteiro-interview/">Brain Pickings</a>. He can be contacted at psesinando@gmail.com
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 17, 2010. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

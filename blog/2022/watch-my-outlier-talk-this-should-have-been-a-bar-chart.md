@@ -25,7 +25,5 @@ You can watch the talk below or <a href="https://www.youtube.com/watch?v=GeRgED7
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/GeRgED7LWr8?si=7P3aH_AklDpb2FAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 26, 2022_
-
+[[PostedBy]]
 

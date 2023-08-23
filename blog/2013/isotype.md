@@ -37,9 +37,7 @@ The ISOTYPE may be close to 100 years old, but many of the ideas behind it are s
 
 The images used here, and many others from classic visualization texts, can be found in <a href="http://www.flickr.com/photos/mstoll/sets/72157631925147046">Michael Stoll's wonderful flickr collections</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 03, 2013. Filed under [ISOTYPE](/tag/isotype)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

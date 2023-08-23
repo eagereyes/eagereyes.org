@@ -52,9 +52,7 @@ Another part of this section was my final take-away, another great little senten
 
 Images from Alberto Cairo’s slides, which he kindly allowed me to use.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 04, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -29,9 +29,7 @@ What can I say? First, Andy Kirk is has been on the podcast more often than I ha
 
 Now go and <a href="http://datastori.es/data-stories-35-visual-storytelling-w-alberto-cairo-and-robert-kosara/">listen to <em>Data Stories</em> about data storytelling</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 16, 2014_
-
+[[PostedBy]]
 
 <aside class="comments">
 

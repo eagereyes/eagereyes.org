@@ -70,9 +70,7 @@ There are some good commercial tools and SDKs out there, and I don't know why th
 
 Despite all my criticism, I had a great time there. There are lots of people who care about their data and about communicating it to the world. It's wonderful to see that. But I also see that they need to dig deeper than to just make things pretty. While visualization does not currently provide decent tools, we do have a lot of knowledge to offer that could help these projects become much more effective and meaningful, and a better use of taxpayer money.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 24, 2009_
-
+[[PostedBy]]
 
 <aside class="comments">
 

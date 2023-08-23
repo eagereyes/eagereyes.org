@@ -19,9 +19,7 @@ Regular readers of this website will perhaps remember the <a href="http://nuit-b
 
 But <em>Ask EagerEyes</em> is not limited to scientific data. If you have any kind of data you would like to understand better, or have a visualization of data that you think could be improved, drop me a note. The reason this is not part of a forum is that I want to make it possible to discuss problems that involve confidential or otherwise unpublished data. Eventually, of course, I hope to be able to talk about the problems posed and solutions found on this site. Some of the questions might also become challenges for my dear readers.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 21, 2008_
-
+[[PostedBy]]
 
 <aside class="comments">
 

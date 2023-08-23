@@ -44,7 +44,5 @@ That makes this book successful not just as a description of one of the most fam
 
 Menno-Jan Kraak, <a href="http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0"><em>Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812</em></a>. Esri Press, 2014.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 25, 2014_
-
+[[PostedBy]]
 

@@ -54,9 +54,7 @@ But the bones, as it were, are there. There’s clearly a lot of potential in br
 
 Isn’t it weird that there are more successful podcasts about visualization than video channels? Forget Clubhouse, YouTube is the natural habitat for visualization. 
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 13, 2021_
-
+[[PostedBy]]
 
 <aside class="comments">
 

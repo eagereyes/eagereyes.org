@@ -22,9 +22,7 @@ So let's face it: we're deluding ourselves with our current user model. A much m
 </ul>
 Understanding this will make our visualizations much more useful in practice, and we will have more time doing productive work instead of chasing after users that simply don't exist.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 31, 2007_
-
+[[PostedBy]]
 
 <aside class="comments">
 

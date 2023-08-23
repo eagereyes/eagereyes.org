@@ -54,9 +54,7 @@ Finally, I'm looking forward to more good writing about visualization. <a href="
 
 I didn't think that 2014 was a bad year for information visualization. And I think 2015 and beyond will be even better.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 11, 2015_
-
+[[PostedBy]]
 
 <aside class="comments">
 

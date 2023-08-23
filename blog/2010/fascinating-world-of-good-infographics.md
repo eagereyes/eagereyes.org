@@ -56,9 +56,7 @@ Click for larger versions, especially of the one below.
 
 <p align="center"><a href="http://www.willlybrand.com/2010/04/insipid-world-infographics-infographic/"><img src="https://media.eagereyes.org/media/2010/insipid.jpg" alt="The Insipid World of Infographics" width="280" height="162" /></a></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 16, 2010. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -21,9 +21,7 @@ With Hillary Clinton and Barack Obama being likely Democratic candidates for the
 
 <a href="https://media.eagereyes.org/media/attachments/PresidentialDemographics.pdf" target="_blank">(Printable PDF)</a>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 16, 2007_
-
+[[PostedBy]]
 
 <aside class="comments">
 

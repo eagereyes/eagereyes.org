@@ -36,9 +36,7 @@ The power of visualization is not that it's such an accurate representation of d
 
 I'm not saying that the paper is flawless, because it isn't. But it is an intriguing step into an entirely new direction. There is more work that needs to be done, more evidence that needs to be collected, and more papers need to be written. But the paper is not nearly as flawed as Steve makes it appear. I, for one, am looking forward to seeing more of Jessica's work.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 08, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

@@ -46,7 +46,5 @@ Sure, you <em>could</em> look at the rows in a database just like in a spreadshe
 
 <a href="https://commons.wikimedia.org/wiki/File:Rubik%27s_cube.svg">Teaser image</a> by <a title="User:Booyabazooka" href="https://commons.wikimedia.org/wiki/User:Booyabazooka">Booyabazooka</a>, used under Creative Commons.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 22, 2016_
-
+[[PostedBy]]
 

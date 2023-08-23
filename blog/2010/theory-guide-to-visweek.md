@@ -62,7 +62,5 @@ And that's it: An entire week of (almost) non-stop theory papers at VisWeek!
 
 Since I'm running out of clever pictures about theory, the above is a <a href="http://www.wordle.net/" target="_blank">Wordle</a> of all the Vis, InfoVis, and VAST paper and poster titles and authors for 2010. Draw your own conclusions from it.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 23, 2010_
-
+[[PostedBy]]
 

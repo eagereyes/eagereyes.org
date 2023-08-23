@@ -77,9 +77,7 @@ These examples are interesting because they cover the gamut from close to realis
 
 Representation is a complex topic with many facets. Theories of representation abound, and not all of them are useful for visualization. But visualization can bring a new, interesting perspective into this field: how do we represent abstract information in a way that is useful, readable, and that allows us to understand the underlying data? How can a model of representation help us connect the different points of view in art and visualization? And how can the choice of representation become a topic in visualization in itself, so that we can understand how we can make the best use of it?
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 25, 2007. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

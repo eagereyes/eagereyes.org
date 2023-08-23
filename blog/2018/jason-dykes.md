@@ -15,7 +15,5 @@ outline: false
 
 Jason is also the driving force behind the <a href="https://www.gicentre.net/velo-club-de-vis">Velo Club de VIS</a>, which organizes long bike rides on the Saturday immediately following VIS. These rides are much better organized than my sloppy attempts at running groups, with fancy bike rentals and <a href="https://www.gicentre.net/velo-club-jersey/">custom jerseys</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 24, 2018_
-
+[[PostedBy]]
 

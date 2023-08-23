@@ -34,9 +34,7 @@ It's interesting that by claiming that the visualization tells a story, the pers
 
 There is a lot to think about here: authorship, responsibility, objectivity, voice, etc. But it's clear that we cannot hide behind our visualizations, just like the puppeteer cannot pretend that his puppets are acting all by themselves.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 07, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

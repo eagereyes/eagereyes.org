@@ -40,9 +40,7 @@ The book is really a collection of articles Wainer wrote for <a href="http://cha
 
 Ultimately, my question about the blurry dots was not answered, because Wainer points to Alan MacEachren's book <em>How Maps Work</em> as the source of the blurriness argument. I can't find my copy of that book at the moment though, so following this lead further will have to wait for another day.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 22, 2014. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

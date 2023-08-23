@@ -31,9 +31,7 @@ Some of the above certainly also applies to scientific visualization and visual 
 
 InfoVis will not be able to survive as a field without becoming a proper science. The methods for this science still need to be developed, and we need to do more than just copying other fields (like we do to an extent right now with perception, computer graphics, etc.). But the field needs to move beyong being a craft.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 11, 2007. Filed under [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

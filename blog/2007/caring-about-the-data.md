@@ -31,9 +31,7 @@ Ultimately, who cares about a visualization or a particular statistical method t
 
 Does that mean visualization is irrelevant? <a href="/blog/visualization-sets-information-free.html">Of course not</a>. But we need to understand the context we are working in and we must become better at telling stories about the data. The only way to do that is to care about the data we are analyzing at least as much as about the new visualization technique we developed just for it.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 04, 2007_
-
+[[PostedBy]]
 
 <aside class="comments">
 

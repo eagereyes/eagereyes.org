@@ -40,7 +40,5 @@ As a final note, the source code for all of this <a href="https://github.com/eag
 
 And here's the link again: <a href="/zipscribble-maps/interactive-zipscribble-map">The Interactive ZIPScribble Map</a>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 15, 2012_
-
+[[PostedBy]]
 

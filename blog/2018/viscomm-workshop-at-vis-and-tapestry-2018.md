@@ -28,7 +28,5 @@ There is a little form on the <a href="http://www.tapestryconference.com">Tapest
 
 Thanks to <a href="http://catherinemaddenrelay.com/">Catherine Madden</a> for the great Tapestry announcement artwork!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 29, 2018_
-
+[[PostedBy]]
 

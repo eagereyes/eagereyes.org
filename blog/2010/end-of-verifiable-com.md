@@ -75,9 +75,7 @@ We tend to forget that all those things that now get a "citizen" prefix (journal
 
 Verifiable.com was the right idea, but it simply came too early. Give it another five to ten years, and the world will be ready for it.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 20, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

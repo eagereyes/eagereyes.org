@@ -66,7 +66,5 @@ It was well organized and went very smoothly. The only thing I didn't like was t
 
 Groningen is a beautiful little town. It's also quite lively, due to the large number of university students (about a third of the population). The conference dinner this time took place in a former church, with fantastic food. It couldn't quite compete with the <a href="/blog/2015/report-eurovis-2015">convent last year</a> where they made our food by hand, but that's a tough one to follow. The deserts were out of this world, though.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 10, 2016_
-
+[[PostedBy]]
 

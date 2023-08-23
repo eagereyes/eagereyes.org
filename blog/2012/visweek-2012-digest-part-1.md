@@ -64,9 +64,7 @@ There were some very thought-provoking papers and discussions at VisWeek this ye
 
 Lane Harrison, Roman Pyzh, and Drew Skau have written up <a href="https://docs.google.com/document/d/1wYjaJqlN1m12_ST-TC8lPAMEY4AmB_JA-30HRnm8GgQ/edit">some great notes</a> for many of the sessions, with additional comments and links.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 25, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

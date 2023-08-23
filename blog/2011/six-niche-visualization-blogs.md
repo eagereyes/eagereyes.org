@@ -36,9 +36,7 @@ Many of you may know <a href="http://xkcd.com/" target="_blank">xkcd's brilliant
 
 <a href="http://blag.xkcd.com/" target="_blank">Munroe's "blag"</a> is obviously not a visualization blog, and he doesn't post very often, much less interesting visualizations. But when he does, they are very, very good.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 12, 2011_
-
+[[PostedBy]]
 
 <aside class="comments">
 

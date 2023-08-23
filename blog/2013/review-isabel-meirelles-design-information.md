@@ -64,9 +64,7 @@ Meirelles’ book is a great overview of visualization. It’s a beautiful coffe
 
 A book that explains visualization. What a concept.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 20, 2013. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

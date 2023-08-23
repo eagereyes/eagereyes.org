@@ -21,9 +21,7 @@ Of course, since I'm also still very much interested in data visualization, the 
 
 I'm planning on writing one or two postings there per month (and hope to get back to at least weekly postings here). There is an RSS feed, and the site will send a tweet to <a href="https://twitter.com/eagereyes">my main Twitter account</a> when there's a new posting (I don't want to start a new account for the feed unless somebody asks for it).
 
-
-_Posted by <a href="/about">Robert Kosara</a> on April 26, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

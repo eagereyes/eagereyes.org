@@ -53,9 +53,7 @@ Jing Yang, University of North Carolina, Charlotte
 
 Petra Isenberg, University of Calgary
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 27, 2009_
-
+[[PostedBy]]
 
 <aside class="comments">
 

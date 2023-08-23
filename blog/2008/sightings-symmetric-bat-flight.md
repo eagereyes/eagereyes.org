@@ -17,7 +17,5 @@ I am taking this over from Felice Frankel, which is not an easy task. I have dec
 
 American Scientist is published every other month, and I will be posting pointers to the articles here when they appear. <em>Sightings</em> is available free of charge in a web version and even as a very nice PDF (see links above).
 
-
-_Posted by <a href="/about">Robert Kosara</a> on August 06, 2008_
-
+[[PostedBy]]
 

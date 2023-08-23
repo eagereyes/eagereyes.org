@@ -19,9 +19,7 @@ I'm trying to grow this channel and would really appreciate your help. Hitting t
 
 And as usual, let me know what you think!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 09, 2020. Filed under [eagereyesTV](/tag/eagereyestv)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

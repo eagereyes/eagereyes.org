@@ -287,9 +287,7 @@ Previous:
 	<li><a href="/tutorials/protovis-primer-part-2">A Protovis Primer, Part 2</a></li>
 </ul>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 26, 2010_
-
+[[PostedBy]]
 
 <aside class="comments">
 

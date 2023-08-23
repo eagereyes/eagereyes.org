@@ -32,7 +32,5 @@ From the CFP:
 
 Understanding how visualization is used in practice, what problems people solve with it, but also what challenges there are, is very valuable. So if you have anything to say about these topics, please submit a poster.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 05, 2013_
-
+[[PostedBy]]
 

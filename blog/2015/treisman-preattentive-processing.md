@@ -50,7 +50,5 @@ I don't believe that we have seen the real power of preattentive processing in v
 
 Thirty years after the discovery of the effect, there is still tremendous opportunity to unpack it, understand it, and make use of it in visualization.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 25, 2015_
-
+[[PostedBy]]
 

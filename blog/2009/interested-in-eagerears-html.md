@@ -19,7 +19,5 @@ It's very easy to register a domain, but there is no simple way to discard it. W
 
 So if you are interested, <a href="/contact">contact me</a>, and we'll discuss this via email.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on May 02, 2009_
-
+[[PostedBy]]
 

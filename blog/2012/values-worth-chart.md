@@ -31,9 +31,7 @@ The point, though, is to demonstrate how little of the world we see, whether the
 
 It’s a clever little image, and quite effective. Despite its simplicity, some good thinking went into its design. And even though its message can be summed up in a sentence or two, as Kaiser Fung points out, I think the image still makes for a much more impressive expression of that information than a few words would do.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on December 30, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

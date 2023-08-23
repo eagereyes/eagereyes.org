@@ -29,9 +29,7 @@ When will you be able to use the program for your own data? At the end of April.
 
 I really appreciate the interest we have received for the technique in the last few days, and I am sure that you will be even more excited once you see it in action, with your own data. In the meantime, please bear with us - you won't be disappointed.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 15, 2009_
-
+[[PostedBy]]
 
 <aside class="comments">
 

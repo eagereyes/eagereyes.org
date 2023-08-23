@@ -23,9 +23,7 @@ Here's another one, thanks to Michael Payne for the link! <a href="http://finviz
 
 <p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/finviz-20080930.png" alt="FinViz" width="406" height="303" border="0" /></p>
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 29, 2008_
-
+[[PostedBy]]
 
 <aside class="comments">
 

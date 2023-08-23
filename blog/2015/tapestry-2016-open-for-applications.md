@@ -36,7 +36,5 @@ An important part of Tapestry are the breaks and happy hours. We have a receptio
 
 Need more details and only trust what’s written in peer-reviewed journals? I wrote a <a href="/link/cga-article-on-tapestry">CG&amp;A <em>Vis Viewpoints</em> article on Tapestry</a> earlier this year.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 15, 2015_
-
+[[PostedBy]]
 

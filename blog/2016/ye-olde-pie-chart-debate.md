@@ -59,9 +59,7 @@ When Cole Nussbaumer declares <em><a href="http://www.storytellingwithdata.com/2
 
 Happy Pi(e) Day!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 14, 2016_
-
+[[PostedBy]]
 
 <aside class="comments">
 

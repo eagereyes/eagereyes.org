@@ -64,7 +64,5 @@ All of that was met with cheers and applause. The part that had people scratch t
 
 I have to say that I hated the name “VisWeek” initially too, but at least it’s fairly distinctive (if ugly and weird to have the <em>week</em> part in it). Good luck googling for “VIS” in the future, or using a meaningful Twitter hashtag. Something tells me that we will end up at VisWeek 2013, though, not VIS 2013.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on November 12, 2012_
-
+[[PostedBy]]
 

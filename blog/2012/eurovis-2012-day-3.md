@@ -21,9 +21,7 @@ The final paper was <em>Perception of Animated Node-Link Diagrams for Dynamic Gr
 
 The day was ended with copious amounts of wine and food at a Heuriger, which is a typical Austrian thing where people go to eat and drink (a lot). Friday is going to be short, but the capstone at the end promises to be highly interesting and thought-provoking.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on June 07, 2012_
-
+[[PostedBy]]
 
 <aside class="comments">
 

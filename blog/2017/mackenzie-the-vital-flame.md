@@ -68,9 +68,7 @@ From what I have seen so far, <em>The Vital Flame</em> strikes me as a typical I
 
 Given the photographs (in color! quite a remarkable for 1947), the book didn't need the charts to be less dry or more approachable. I wonder if they were meant to make the book appear more authoritative and data-based.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 17, 2017. Filed under [ISOTYPE](/tag/isotype)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

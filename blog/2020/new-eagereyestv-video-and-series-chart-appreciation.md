@@ -21,9 +21,7 @@ As usual, you can watch it on YouTube or directly here. Though I would really ap
 
 I obviously intend to make more videos in this series, and in general (since the channel has been dormant for a while). I'd appreciate any comments and thoughts you have, positive or… constructive. I've put an absurd amount of work into this video, so I hope somebody finds it interesting.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on September 23, 2020. Filed under [eagereyesTV](/tag/eagereyestv)._
-
+[[PostedBy]]
 
 <aside class="comments">
 

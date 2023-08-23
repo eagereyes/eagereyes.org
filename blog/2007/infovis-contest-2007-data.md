@@ -85,9 +85,7 @@ All the data sources we use are openly accessible and are likely to remain so. T
 <h3>Where do I submit my results?</h3>
 That and more information can be found on the <a href="http://www.apl.jhu.edu/Misc/Visualization/">InfoVis 2007 Contest Website</a>.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on March 07, 2007_
-
+[[PostedBy]]
 
 <aside class="comments">
 

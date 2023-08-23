@@ -30,7 +30,5 @@ PNNL will also have a booth at VisWeek, so if you are interested in any of these
 
 Even though I regularly get emails about posting job offers, I don't usually do that. This is an exception, because these jobs are particularly relevant for the people reading this website.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on October 20, 2010_
-
+[[PostedBy]]
 

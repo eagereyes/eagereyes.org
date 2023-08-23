@@ -23,9 +23,7 @@ Here's a bit more in my little teaser video:
 
 The course starts March 7 and consists of five sessions (every Tuesday and Thursday, 9am PST/noon EST). <a href="https://observablehq.com/@observablehq/datavizcourse?utm_medium=video&amp;utm_campaign=datavizcourse&amp;utm_source=videoembed" target="_blank" rel="noreferrer noopener">Sign up here to join</a>!
 
-
-_Posted by <a href="/about">Robert Kosara</a> on February 23, 2023_
-
+[[PostedBy]]
 
 <aside class="comments">
 

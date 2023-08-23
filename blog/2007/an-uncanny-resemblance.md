@@ -15,9 +15,7 @@ I am not going to make this into an "information wants to be free" thing. But. I
 
 To end this on a positive note, <a href="http://www.nga.gov/fcgi-bin/gemini.pl?slide=1&amp;artist=52">Steinberg's work</a> is <a href="http://www.cartoonbank.com/Steinberg/prints_steinberg_bio.asp">quite fascinating</a>, and I am happy to have discovered him through this.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on January 21, 2007_
-
+[[PostedBy]]
 
 <aside class="comments">
 
