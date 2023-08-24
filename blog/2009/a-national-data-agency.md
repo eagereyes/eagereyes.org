@@ -32,7 +32,7 @@ There are a number of great initiatives that make it possible to work with data 
 The obvious thing to do with the data would of course be to visualize it. Feed it directly to <a href="http://www.swivel.com/official">Swivel</a> and <a href="http://services.alphaworks.ibm.com/manyeyes/">Many Eyes</a> and any number of new sites that could build custom visualizations for different kinds of data. We have the tools to build a more informed, more engaged, and more educated society &ndash; we just need access to the raw material: data.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 22, 2009_
+<PostedBy />
 
 
 <aside class="comments">

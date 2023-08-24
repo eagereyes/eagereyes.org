@@ -28,6 +28,6 @@ The beauty of the seeming simplicity is that it makes a lot of complex features 
 <a href="http://vizable.tableau.com">Vizable</a> is available now, for free, on Apple's App Store.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 20, 2015_
+<PostedBy />
 
 

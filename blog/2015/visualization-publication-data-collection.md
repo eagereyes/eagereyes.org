@@ -14,6 +14,6 @@ People from Georgia Tech, INRIA, University of Stuttgart, and other institutions
 This is an important collection of data to have for the field, and a great first step. Adding TVCG and maybe a few more of the <a href="/blog/2013/a-guide-to-the-quality-of-different-visualization-venues">common visualization publication venues</a> would make this even more interesting and useful.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 17, 2015_
+<PostedBy />
 
 

@@ -14,7 +14,7 @@ outline: false
 This was bought in the store of the <a href="http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum">Guggenheim Museum in New York</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 08, 2006_
+<PostedBy />
 
 
 <aside class="comments">

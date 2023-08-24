@@ -36,6 +36,6 @@ I’m embedding a form below (<a href="https://docs.google.com/forms/d/1FfhDito5
 <iframe src="https://docs.google.com/forms/d/1FfhDito5WFw_LOL9bEaIC7wo0Kd0ZmmSrWzbIoXhy4w/viewform?embedded=true" width="700" height="1040" frameborder="0" marginwidth="0" marginheight="0">Loading…</iframe>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 19, 2014_
+<PostedBy />
 
 

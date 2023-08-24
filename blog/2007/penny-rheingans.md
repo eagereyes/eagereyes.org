@@ -23,6 +23,6 @@ I was going to describe <a href="http://www.csee.umbc.edu/~rheingan/">Penny Rhei
 - Connie Willis, <a href="http://www.amazon.com/Bellwether-Connie-Willis/dp/0553562967"><em>bellwether</em></a>, Bantam Books, 1996. <em>First example I’ve seen of information visualization in popular literature (introduced by a bratty little girl). This book also reminds me of the lurking absurdity of research, funding mechanisms, organizations, and people in general.</em>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 15, 2007. Filed under [Lists of Influences](/tag/influences)._
+<PostedBy />
 
 

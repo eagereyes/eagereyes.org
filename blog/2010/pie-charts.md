@@ -100,7 +100,7 @@ It is easy to pounce on people's incompetent uses of pie charts. But used the ri
 <a href="http://www.chocolate-editions.com/index.php?inc=s_pc">Chocolate Pie Chart by Mary&amp;Matt</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 12, 2010_
+<PostedBy />
 
 
 <aside class="comments">

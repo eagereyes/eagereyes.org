@@ -2,7 +2,7 @@
 title: "Site Changes Coming, How to Follow Sites, and Where I've Been"
 description: "This site has been around for over 16 years now, and a lot has changed in the world during that time. I'm currently working on an overhaul and wanted to give everybody an idea of what I'm thinking about and why there has been little activity. In light of recent developments, here are also some good ways to follow good old-fashioned blogs and an alternative to Twitter."
 date: 2022-11-06 19:36:02
-tags: Meta/Site News
+tags: meta
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg
 ---
 
@@ -53,7 +53,7 @@ I've been spending a lot more time on Discord lately, specifically some servers 
 It is nice to have this site to fall back on, even if it doesn't have the reach it once had. But it has been around for a while, and I hope to keep it around, and relevant, for a while longer.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 06, 2022_
+<PostedBy />
 
 
 <aside class="comments">

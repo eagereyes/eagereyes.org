@@ -33,7 +33,7 @@ The maps linked below are available as (large) PNGs and as PDFs for printing. Th
 Want more maps? I will keep collecting data (and I have data for a few more countries), and post new maps as sufficiently reliable and complete data becomes available. If you have data about postal codes that contains latitude/longitude information, or can somehow be linked to it, please <a href="/contact">let me know</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 07, 2007_
+<PostedBy />
 
 
 <aside class="comments">

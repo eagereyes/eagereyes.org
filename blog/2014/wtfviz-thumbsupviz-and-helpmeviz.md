@@ -25,6 +25,6 @@ Finally, <a href="https://twitter.com/jschwabish">Jon Schwabish</a> recently sta
 Where is this going? I have a feeling that we’re starting to see more interesting new websites dealing with visualization, both in terms of criticism (finally!) and in terms of hands-on help. It's heartening to see that, and I hope that these sites will thrive and attract lots of visitors and followers.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 05, 2014_
+<PostedBy />
 
 

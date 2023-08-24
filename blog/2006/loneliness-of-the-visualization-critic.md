@@ -24,7 +24,7 @@ What does all this mean for <a href="/VisCrit/VisualizationCriticism.html">visua
 The panel clearly was a success, though: we received the Best Panel Award, based on "attendance, the quality of presentation, the interaction with the audience, and the potential for impact on the field."
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 06, 2006. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

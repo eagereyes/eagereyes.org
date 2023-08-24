@@ -47,7 +47,7 @@ Finding good color scales remains a common problem.<em> <a href="http://vrl.cs.b
 There was more on Thursday, but I'm splitting things here to keep this posting to a reasonable length.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 30, 2016_
+<PostedBy />
 
 
 <aside class="comments">

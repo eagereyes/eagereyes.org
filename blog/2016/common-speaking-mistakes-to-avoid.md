@@ -81,7 +81,7 @@ Of course you also need to watch the good people and pick up tricks from them. B
 That's it. I'm done with my posting.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 23, 2016_
+<PostedBy />
 
 
 <aside class="comments">

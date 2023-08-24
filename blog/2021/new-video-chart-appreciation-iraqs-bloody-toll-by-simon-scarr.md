@@ -24,6 +24,6 @@ Also, if you like the video please give it a thumbs-up over there. That really h
 As in my <a href="https://www.youtube.com/watch?v=BW3YNLsmn8U&amp;t=2s" data-type="post">previous video</a>, there are numbered references in the video with the corresponding links in the notes below it. If you want to see more chart appreciations, I now have four that you can conveniently watch <a href="https://www.youtube.com/playlist?list=PLbzq0eVw_4Dkqd5kuwY3uMANPvVBQ292V">in this playlist</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 22, 2021. Filed under [eagereyesTV](/tag/eagereyestv)._
+<PostedBy />
 
 

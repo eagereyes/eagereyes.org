@@ -85,7 +85,7 @@ And why not make the costs part of the quiz? Guess how much you'll spend on acid
 Using visualization to make the data appear to be more complex and interesting than it is is kind of sad. Visual complexity should be used to help understand data, not to obfuscate it. Building a <a href="http://en.wikipedia.org/wiki/Potemkin_village">Potemkin Village</a> of colorful shapes is just as bad as <a href="/blog/2008/linear-vs-quadratic-change">scaling a circle by radius</a>: it's deceiving and visually dishonest.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 06, 2009. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

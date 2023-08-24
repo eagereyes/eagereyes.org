@@ -24,7 +24,7 @@ A common way of looking at data is to drop the top and bottom 5%, which leaves t
 Calculating percentiles requires additional data. With unemployment data, there is some on metro areas, sectors, and a number of demographic values. In other cases, that data is often not easy to find or simply not available. But whenever possible, we need to demand more context than a single number. A simple mean without such context is meaningless.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 06, 2013_
+<PostedBy />
 
 
 <aside class="comments">

@@ -45,6 +45,6 @@ The current structure of the VIS conference has developed over time, and many of
 This is an ongoing process, but the first changes are being made, and the members of the committee in charge of this held a well-attended and -structured meeting to solicit feedback at the conference. A few documents summarizing their work and thinking <a href="http://ieeevis.org/governance/restructuring">are available on the VIS website</a> for those interested.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 30, 2018_
+<PostedBy />
 
 

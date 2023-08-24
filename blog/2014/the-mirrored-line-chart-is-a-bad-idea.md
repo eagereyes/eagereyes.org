@@ -26,7 +26,7 @@ But what, you might ask, does it hurt? It's not made-up data, it's just the othe
 When the data is coming from polling results, at least there are undecided voters who add a bit of interest. Though even that is often <a title="Embracing Uncertainty in Two-Line Charts" href="/blog/2012/embracing-uncertainty-two-line-charts">misrepresented or downright hidden</a>. But here, there isn't even uncertainty. It's a simple sum of two numbers. It's redundant information.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 28, 2014_
+<PostedBy />
 
 
 <aside class="comments">

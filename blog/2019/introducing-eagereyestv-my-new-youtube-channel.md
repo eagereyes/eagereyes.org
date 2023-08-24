@@ -28,7 +28,7 @@ This is an experiment. I’m really curious what people think. Does it work? Is 
 <a href="https://youtu.be/RbHCeANCbW0">Watch it here</a> and see <a href="/eagereyestv/eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt">this post</a> for the show notes (those are also on YouTube)
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 16, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._
+<PostedBy />
 
 
 <aside class="comments">

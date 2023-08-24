@@ -20,7 +20,7 @@ Most of us have probably seen cases where a visualization made one point stand o
 I am interested in finding more examples of visualizations that make a point – political or not. Any pointers would be appreciated.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 30, 2007_
+<PostedBy />
 
 
 <aside class="comments">

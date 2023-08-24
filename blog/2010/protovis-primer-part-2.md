@@ -312,7 +312,7 @@ eq.render();
 Next: <a href="/tutorials/protovis-primer-part-3">A Protovis Primer, Part 3</a></p>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 10, 2010_
+<PostedBy />
 
 
 <aside class="comments">

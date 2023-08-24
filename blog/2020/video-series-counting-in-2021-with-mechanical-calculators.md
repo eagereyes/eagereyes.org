@@ -24,6 +24,6 @@ I won't post here about each individual one, but I will add links below and then
 This is a bit of a departure from the usual programming here, but I hope the folks reading my blog and following my channel will find it interesting.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 17, 2020_
+<PostedBy />
 
 

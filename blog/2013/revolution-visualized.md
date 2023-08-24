@@ -43,6 +43,6 @@ How do you make people notice an issue? How do you get them to care? What if weâ
 What if the new way to get us to care is with a visceral, raw display of data?
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 03, 2013_
+<PostedBy />
 
 

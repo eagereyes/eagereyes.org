@@ -12,6 +12,6 @@ outline: false
 An article in the <em>Publications of the American Statistical Association</em> by the <em>Joint Committee on Standards for Graphic Presentation</em> laid down some <a href="http://www.jstor.org/stable/pdfplus/2965153.pdf">standards for how to create good data visualizations</a>. In 1915. The chairman of that committee was none other than Willard C. Brinton, author of the highly opinionated (and much more complete) <em><a href="https://archive.org/details/graphicmethodsfo00brinrich">Graphic Methods for Presenting Facts</a></em>. Andy Cotgreave is collecting some tidbits and <a href="http://100yrsofbrinton.tumblr.com">highlights from Brinton's books</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 18, 2015_
+<PostedBy />
 
 

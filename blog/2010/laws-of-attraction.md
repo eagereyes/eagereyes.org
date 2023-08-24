@@ -39,6 +39,6 @@ Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-InfoVis-
 The paper will be presented at VisWeek 2010 in the <a href="http://vis.computer.org/VisWeek2010/schedule/thursday.html">first morning session on Thursday</a>, <em>Perception and Cognition</em>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 21, 2010_
+<PostedBy />
 
 

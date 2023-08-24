@@ -30,7 +30,7 @@ They have just opened the site for a public beta, and it is obviously a bit earl
 See also: <a href="/VisCrit/Swivel-vs-Many-Eyes.html">Swivel vs. Many Eyes</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 28, 2008_
+<PostedBy />
 
 
 <aside class="comments">

@@ -43,6 +43,6 @@ Dirk was a very friendly and funny guy: I remember talking to him at VisSym 1999
 There are two wonderful obituaries about Dirk, <a href="http://vgtc.org/wpmu/news/2010/04/06/dirk-bartz-–-an-obituary/">one written by Klaus Mueller</a> and <a href="http://vcbm.org/news/2010/03/30/dirk-bartz-in-memoriam/">another one by Bernhard Preim</a>. There is also <a href="http://www.facebook.com/pages/Dirk-Bartz-In-Memoriam/107084542655761">an in-memoriam page on facebook</a>, as well as <a href="http://de.wikipedia.org/wiki/Dirk_Bartz">a page about Dirk on the German Wikipedia</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 17, 2010_
+<PostedBy />
 
 

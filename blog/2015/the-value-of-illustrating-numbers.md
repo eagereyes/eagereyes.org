@@ -40,7 +40,7 @@ Among the many things we don't yet understand is the relationship and value of i
 The examples above give a bit of a sense of where I think things are headed. And I hope that we can be a bit clearer in distinguishing illustrations and visualization. Because both are important when trying to get a point across.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 08, 2015_
+<PostedBy />
 
 
 <aside class="comments">

@@ -26,6 +26,6 @@ Plus, there will be talks by the visualization faculty at UNCC, a visualized dan
 Videos and slides of the talks from the <a href="http://www.viscenter.uncc.edu/symposium06/">Symposium on the Future of Visualization</a> in May 2006 (as part of the Grand Opening of the Charlotte Visualization Center) are available online.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 11, 2008_
+<PostedBy />
 
 

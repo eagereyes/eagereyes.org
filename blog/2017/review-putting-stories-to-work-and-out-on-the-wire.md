@@ -33,6 +33,6 @@ She tells many stories about radio, in particular the NPR programs <em>This Amer
 The book is very nicely structured and Abel works in many little details while focusing on a number of important messages. Perhaps the most interesting to me were the two key ways of expressing a story’s point. There is the <em>story formula,</em> which is a good test for many data stories:
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 18, 2017_
+<PostedBy />
 
 

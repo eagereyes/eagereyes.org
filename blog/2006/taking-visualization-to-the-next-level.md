@@ -20,6 +20,6 @@ All this (and more) will eventually lead to a new approach for developing a foun
 We need to stop playing with visual toys and start asking tough questions. We need to actually understand what we are doing. We need to push this field to the next level.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 01, 2006_
+<PostedBy />
 
 

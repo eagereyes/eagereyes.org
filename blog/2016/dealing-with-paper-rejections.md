@@ -67,6 +67,6 @@ Is it perfect? No. But it’s pretty good. And while any individual rejection su
 So when you get your next rejection: read the summary, breathe, and then give it some time. It’s not the end of the world.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 13, 2016_
+<PostedBy />
 
 

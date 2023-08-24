@@ -54,7 +54,7 @@ Visual.ly was founded by the former Director of Marketing at Mint.com, Stew Lang
 I am honored to be an advisor for Visual.ly, together with <a href="http://angel.co/visually">an impressive roster of business folks from silicon valley and beyond</a>. Visual.ly could not have paid me for posting this, and they didn't. I also paid for my trip to San Francisco myself, with a well-timed visit on launch day being a nice side effect.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 13, 2011_
+<PostedBy />
 
 
 <aside class="comments">

@@ -20,7 +20,7 @@ Since the program is written in Java, it will run on a variety of platforms. Jus
 But, to be honest, most of the last few weeks was actually spent on one particular thing: picking the right font for the logo. I think it has paid off.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 29, 2009_
+<PostedBy />
 
 
 <aside class="comments">

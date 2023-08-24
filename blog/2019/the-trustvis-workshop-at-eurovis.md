@@ -26,6 +26,6 @@ The full call and details on how to submit are available on <a href="https://tru
 My co-chairs Kai Lawonn, Lars Linsen, Noeska Smit, and I are looking forward to your submissions! 
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 19, 2019_
+<PostedBy />
 
 

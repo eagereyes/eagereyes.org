@@ -28,6 +28,6 @@ I was going to write brief summaries of the postings, but it turns out Jerome ha
 </ol>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 05, 2016_
+<PostedBy />
 
 

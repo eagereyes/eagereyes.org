@@ -24,6 +24,6 @@ This is an invited piece for the <em>Graphically Speaking</em> column in CG&amp;
 Robert Kosara, <a href="/publications/Kosara-CGA-2023">Notebooks for Data Analysis and Visualization: Moving Beyond the Data</a>, <em>Computer Graphics &amp; Applications (CG&amp;A)</em>, vol. 43, no. 1, pp. 91-96, 2023.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 01, 2023_
+<PostedBy />
 
 

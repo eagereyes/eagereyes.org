@@ -32,7 +32,7 @@ The guiding principle is free speech, with the usual exceptions: child porn, hat
 
 The policy even provides some helpful common-sense advice for people about to publish potentially problematic data:
 
-_Posted by <a href="/about">Robert Kosara</a> on February 22, 2011_
+<PostedBy />
 
 
 <aside class="comments">

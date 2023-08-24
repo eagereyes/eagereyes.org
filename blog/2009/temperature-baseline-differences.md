@@ -22,7 +22,7 @@ You can pick years for the left and right displays below the map to compare diff
 <p align="center"><img src="https://media.eagereyes.org/media/2009/climate-dashboard.png" width="551" height="719" /></p>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 16, 2009_
+<PostedBy />
 
 
 <aside class="comments">

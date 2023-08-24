@@ -57,7 +57,7 @@ IEEE VIS 2017 will take place in Phoenix, AZ, October 1–6 (so a bit earlier th
 Benjamin Bach <a href="http://www.aviz.fr/~bbach/publicize_vis_2016/">has collected URLs from VIS papers</a>, including a SciVis paper or two, and a number of things I haven't discussed in my postings.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 01, 2016_
+<PostedBy />
 
 
 <aside class="comments">

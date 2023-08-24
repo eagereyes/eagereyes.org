@@ -18,6 +18,6 @@ The goal of this little series is to describe a few of the most fundamental pape
 A paper’s publication is only the beginning. Its value comes from the work that is built on top of it, questioning it, improving upon it – and, sometimes, proving it wrong.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 25, 2015_
+<PostedBy />
 
 

@@ -26,7 +26,7 @@ People all over the visualization (and in adjacent fields) are waking up and sta
 BTW, I was looking for another image that I saw somewhere recently, but can't find again. It's a black-and-white picture of a professor with a white beard in front of a much larger blackboard than the one in the image above (about four times the size). It's covered in dense math, and the professor has a slightly sheepish look on his face (unless I was imagining that). Does anybody know the picture and can perhaps provide a link?
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 24, 2010_
+<PostedBy />
 
 
 <aside class="comments">

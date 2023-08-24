@@ -2,7 +2,7 @@
 title: "Meet the New Logo and Theme!"
 description: "This site has gone through many different looks and designs. I haven't kept count, but I'd be surprised if it was fewer than ten. So far, they have all either been off-the-shelf generic designs or ones I had created myself. For its tenth birthday, I decided to splurge and get eagereyes a complete makeover: a new theme and a real, custom logo."
 date: 2016-09-28 04:17:25
-tags: Meta/Site News, A Decade of EagerEyes
+tags: meta, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/new-theme-teaser.jpg
 ---
 
@@ -55,7 +55,7 @@ So now there is an <a href="/pie-charts">updated pie charts page</a> that I will
 In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 28, 2016_
+<PostedBy />
 
 
 <aside class="comments">

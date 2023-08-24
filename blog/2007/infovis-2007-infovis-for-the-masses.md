@@ -55,6 +55,6 @@ Stephen has <a href="http://www.perceptualedge.com/blog/?p=174">posted his thoug
 I believe that we are seeing a paradigm shift in InfoVIs, away from the specialized user (who <a href="/blog/rethinking-the-user.html">may not exist, after all</a>) to a more general audience. This won't be easy &ndash; paradigm shifts are always painful &ndash;, but it's a good thing. It will make us more aware of what we are doing and why, and will greatly increase the impact of our field. There is certainly a danger of "dumbing things down" for untrained users, and we have to be careful about that. But most user studies are done with users who are not familiar with whatever tool they're supposed to use, and often not even with the application area, so we may already be halfway there. And also for those applications that are specialized and that only apply to a certain field, it will be healthy and helpful to be aware of the context and the usage scenarios in a broader context. It's all about the user, after all.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 24, 2007_
+<PostedBy />
 
 

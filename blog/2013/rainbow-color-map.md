@@ -78,7 +78,7 @@ When mapping a continuous value, a ramp with a single color is always a safe cho
 Despite its importance for perception and visualization, color continues to be a surprisingly little understood topic. People often seem to be content with default colors, or with an arbitrary selection that just happens to look good. But without great care when picking colors, you can do a lot of damage to your visualization.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 07, 2013_
+<PostedBy />
 
 
 <aside class="comments">

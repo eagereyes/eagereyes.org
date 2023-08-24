@@ -20,6 +20,6 @@ The other speakers are Augustin Armendariz and Michael Corey from the <a href="h
 If you’re in San Francisco or can get there on the 26th, don’t miss this event! For more information and where to sign up, see <a href="http://blog.visual.ly/data-visualization-and-journalism/">the posting on the Visual.ly blog</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 15, 2013_
+<PostedBy />
 
 

@@ -6,7 +6,7 @@ const { page } = useData()
 
 const date = new Date(page.value.frontmatter.date);
 
-const tagList = page.value.frontmatter.tags.split(',').map(d => (`<a href="/tag/${d}">${d}</a>`)).join(', ');
+const tagList = page.value.frontmatter.tags ? page.value.frontmatter.tags.split(', ').map(d => (`<a href="/tag/${d}">${d}</a>`)).join(', ') : null;
 
 </script>
 

@@ -24,6 +24,6 @@ The point is that there needs to be some kind of evidence that the tool is actua
 Yes, more installments of the Protovis Primer are coming. Stay tuned.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 01, 2010_
+<PostedBy />
 
 

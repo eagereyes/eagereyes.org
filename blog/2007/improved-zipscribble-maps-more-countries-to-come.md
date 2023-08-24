@@ -24,6 +24,6 @@ Maps for other countries are certainly high on my priority list, but this is mad
 For an interactive version of the map, I experimented a bit with Google Maps. The problem is that it just can't handle overlays with so many points, it only works reasonably well for very sparsely populated countries like Canada and Australia. I will therefore make my program into a Java applet, and put that on here. This is going to take a bit more time, but should happen before the end of January.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 03, 2007_
+<PostedBy />
 
 

@@ -24,7 +24,7 @@ There are two changes in the speakers as compared to the panel description in th
 Come see/listen to the statements of the panelists and take part in the discussion! <a href="http://vis.computer.org/vis2007/schedule/monday.html">Monday Oct 29, 2pm at Vis/InfoVis/VAST</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 18, 2007_
+<PostedBy />
 
 
 <aside class="comments">

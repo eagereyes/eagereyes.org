@@ -46,7 +46,7 @@ A similar effect can be seen in the <a href="http://chandoo.org/wp/2008/09/18/be
 The solution? Either use a better visualization (star glyphs in particular are very difficult to read) or scale your circles, squares, and other lengths by the square root of the value you want to represent. That makes the area scale linearly with the value that is to be represented.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 19, 2008_
+<PostedBy />
 
 
 <aside class="comments">

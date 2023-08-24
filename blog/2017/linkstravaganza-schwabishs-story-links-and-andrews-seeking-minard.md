@@ -39,6 +39,6 @@ RJ Andrews has written two great blog posts around an interesting discovery he m
 RJ has <a href="http://infowetrust.com/history/">a whole series of posts about the pre-history of visualization</a>, including a very nice poster with a timeline of some of the very early work.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 17, 2017_
+<PostedBy />
 
 

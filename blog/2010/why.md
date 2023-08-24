@@ -2,7 +2,7 @@
 title: "Why Am I Doing This, Again?"
 description: "Today marks the fourth anniversary of this humble little website. I've spent countless hours writing, designing, arguing, and thinking about the things that I publish here. What others may consider a waste of time has helped me tremendously to make new connections, meet new people, refine my thinking, and broaden my horizons. If you're not running a website (or blog), you're really losing out."
 date: 2010-10-01 15:32:48
-tags: Meta/Site News
+tags: meta
 featuredImage: 
 outline: false
 ---
@@ -28,7 +28,7 @@ The point of this exercise is reflection. Thinking things through to write about
 Don't just sit in your ivory tower. Get out and take a walk every once in a while. Blog.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 01, 2010_
+<PostedBy />
 
 
 <aside class="comments">

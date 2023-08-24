@@ -29,7 +29,7 @@ So this is really more a starting point than a finished visualization. I don't t
 Data: <a href="https://media.eagereyes.org/media/2008/Elections_1904-2004.zip">Elections_1904-2004.zip</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 29, 2008_
+<PostedBy />
 
 
 <aside class="comments">

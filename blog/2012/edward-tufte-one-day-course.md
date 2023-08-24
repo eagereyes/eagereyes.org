@@ -57,7 +57,7 @@ My advice? Buy his books. Read them. They’re good. Just realize that you’re 
 Once you’re done with Tufte’s books, read Stephen Few’s or Colin Ware’s or something else that’s recent. But by all means, skip the course.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 05, 2012. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

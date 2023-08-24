@@ -68,7 +68,7 @@ I don't care if you like or dislike pie charts. I really don't. But visualizatio
 If we can't trust the common wisdom on pie charts, what can we trust? What other assumptions are unfounded? There are many other areas in visualization where we think we know what's going on, but it hasn't been systematically studied at all. That's still lots of opportunity for truly fundamental research.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 30, 2016_
+<PostedBy />
 
 
 <aside class="comments">

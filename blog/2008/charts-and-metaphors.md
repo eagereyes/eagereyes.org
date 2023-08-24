@@ -28,7 +28,7 @@ But to capture people's imagination, we need to be a bit more metaphoric. Perhap
 Visualization is not doing a good job marketing itself, and the names of visualization techniques certainly don't help. While forcing a particular metaphor won't help us, perhaps we should invest a bit of thought into calling our next method something a bit more marketable than "parallel coordinates." Can we make visualization sound interesting and fun without being stupid?
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 08, 2008_
+<PostedBy />
 
 
 <aside class="comments">

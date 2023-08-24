@@ -2,7 +2,7 @@
 title: "New Posting Frequency for 2012"
 description: "In my enthusiasm about switching to WordPress, I made the mistake of tweeting about potentially increasing my posting frequency in 2012. While I have tried to stick to a roughly weekly schedule in the past, there have been weeks when I did not write anything. My hope is to increase the frequency to roughly twice a week and see how that goes. John Peltier and Jorge Camoes are planning on doing the same."
 date: 2012-01-08 21:33:09
-tags: Meta/Site News
+tags: meta
 featuredImage: 
 outline: false
 ---
@@ -16,7 +16,7 @@ Jorge has been on fire lately with his posting on <a href="http://www.excelchart
 Jon hasn't written anything so far this year, but perhaps this posting will give him a jump-start.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 08, 2012_
+<PostedBy />
 
 
 <aside class="comments">

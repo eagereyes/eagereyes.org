@@ -78,6 +78,6 @@ The most surprising talk to me was <a href="http://faculty.washington.edu/jhullm
 This is my selection, covering less than half the talks. Siena Duplan has written <a href="https://medium.com/@sienaduplan/10-takeaways-from-22-data-visualization-practitioners-at-openvisconf-a4a3a5b96fcd">a list that covers some other talks</a> as well. And you should <a href="https://openvisconf.com/#videos">check out the rest</a> yourself.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 18, 2016_
+<PostedBy />
 
 

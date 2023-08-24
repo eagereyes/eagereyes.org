@@ -166,6 +166,6 @@ Below are PDF versions of my redesigns for closer inspection.
 </table>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 29, 2007_
+<PostedBy />
 
 

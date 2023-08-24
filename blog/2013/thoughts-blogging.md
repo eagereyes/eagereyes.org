@@ -39,7 +39,7 @@ I have three pieces of advice.
 That’s it. Hopefully this has been useful. Now go forth and blog!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 27, 2013_
+<PostedBy />
 
 
 <aside class="comments">

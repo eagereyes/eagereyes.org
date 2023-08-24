@@ -83,7 +83,7 @@ Also, how do we make it easier to publish this kind of work? What makes for a go
 </ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 14, 2010_
+<PostedBy />
 
 
 <aside class="comments">

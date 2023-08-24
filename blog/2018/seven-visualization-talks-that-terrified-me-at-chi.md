@@ -93,7 +93,7 @@ CHI this year gave me a lot to think about. I think I’ve managed to get my exi
 Michael Correll is <a href="https://research.tableau.com/user/michael-correll">Research Scientist at Tableau Software</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 02, 2018_
+<PostedBy />
 
 
 <aside class="comments">

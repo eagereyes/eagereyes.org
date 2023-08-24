@@ -69,7 +69,7 @@ I’m not against novelty or big journal papers. The move to publishing conferen
 Smaller pieces of work are the lifeblood of many sciences. Visualization has moved up from workshops to conferences to journals. We now need to move down again, at least for some of our work, to allow that sort of research to happen and be published.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 26, 2017_
+<PostedBy />
 
 
 <aside class="comments">

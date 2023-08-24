@@ -67,7 +67,7 @@ The numbers differ, but this study from 2009 shows some of the same effects as o
 I have added the dataset for the study as well as the RMarkdown code used to create these images to the <a href="https://github.com/eagereyes/pie-summaries/">github repository I created for the pie chart study comparison</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 10, 2016_
+<PostedBy />
 
 
 <aside class="comments">

@@ -30,6 +30,6 @@ A bit of context to some of the things we talk about in the episode:
 But don't forget to <a href="http://datastori.es/episode-15-with-robert-kosara/">listen to the actual podcast</a>!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 09, 2012_
+<PostedBy />
 
 

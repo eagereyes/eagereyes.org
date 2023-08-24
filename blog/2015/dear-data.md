@@ -16,6 +16,6 @@ Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful ne
 <a href="http://giorgialupi.net">Giorgia</a> and <a href="http://www.stefanieposavec.co.uk">Stefanie</a> are two of the most interesting people working in data visualization/design/art right now. Both are also incredibly skilled and creative designers, well worth watching.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 01, 2015_
+<PostedBy />
 
 

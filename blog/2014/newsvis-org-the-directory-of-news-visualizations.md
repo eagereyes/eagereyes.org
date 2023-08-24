@@ -78,7 +78,7 @@ I built this site using WordPress, even though Drupal is probably a more logical
 <span style="line-height: 1.5em;">Either way, I will keep improving and growing the site, and I hope that you </span>will<span style="line-height: 1.5em;"> find it useful and contribute!</span>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 02, 2014_
+<PostedBy />
 
 
 <aside class="comments">

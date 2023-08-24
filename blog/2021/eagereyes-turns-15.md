@@ -2,7 +2,7 @@
 title: "EagerEyes Turns 15"
 description: "EagerEyes is 15 years old today! Rather than look back at 15 years of visualization and blogging (though I will do a little of that too), I want to reflect a bit on what blogging means today and where things are going."
 date: 2021-10-01 05:54:06
-tags: Meta/Site News
+tags: meta
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-xv.jpeg
 ---
 
@@ -65,6 +65,6 @@ But this blog has been incredibly helpful to get word out about my work and that
 To another 15?
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 01, 2021_
+<PostedBy />
 
 

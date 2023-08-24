@@ -47,7 +47,7 @@ This is a great example of how a few simple choices can make a big difference in
 While the data is simple and doesn't allow much deep analysis, there is still the question of how to present it: take a position and argue it, or present the data and leave the interpretation to the user. None of these graphs really do the latter (the original chart's title alone is a clear giveaway), but they provide different amounts of guidance and context, in particular to judge the percentage of women CEOs against a reasonable ideal.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 15, 2013_
+<PostedBy />
 
 
 <aside class="comments">

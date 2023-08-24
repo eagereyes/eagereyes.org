@@ -172,7 +172,7 @@ I have seen similar things in papers from that time and earlier. Some of this wo
 
 Anscombe also describes his preference for APL (an ancient programming language), but assures the reader who can program in FORTRAN or PL/1 that he'll be able to produce graphs. Mere users of statistical packages, however, were out of luck in the early '70s. The paper closes with a call for action:
 
-_Posted by <a href="/about">Robert Kosara</a> on February 13, 2011. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

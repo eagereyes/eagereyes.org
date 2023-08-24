@@ -20,6 +20,6 @@ The last two names should be familiar to people interested in InfoVis and data j
 >	Updates include current HCI design methods, new design examples, and totally revamped coverage of social media, search and voice interaction. Major revisions were made to EVERY chapter, changing almost every figure (170 new color figures) and substantially updating the references.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 15, 2016_
+<PostedBy />
 
 

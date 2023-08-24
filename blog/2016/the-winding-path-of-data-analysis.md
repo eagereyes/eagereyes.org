@@ -24,7 +24,7 @@ And while I get the idea of <a href="http://www.bitss.org/2014/06/13/preregistra
  
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 03, 2016_
+<PostedBy />
 
 
 <aside class="comments">

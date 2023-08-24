@@ -18,6 +18,6 @@ That piece was a key inspiration for a short paper I wrote for EuroVis a few yea
 And as I say in the video, let me know what you think! Post comments here or on YouTube. Do you have other favorite pieces of data journalism?
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 08, 2020. Filed under [eagereyesTV](/tag/eagereyestv)._
+<PostedBy />
 
 

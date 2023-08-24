@@ -59,7 +59,7 @@ But even when the comparison data is not perfect, some normalization is better t
 Teaser image: <a href="http://xkcd.com/1138/"><em>Heatmap</em></a>, by Randall Munroe/xkcd
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 23, 2014_
+<PostedBy />
 
 
 <aside class="comments">

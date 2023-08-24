@@ -18,7 +18,7 @@ They then go on to define some "rules of engagement" for a more reasonable appro
 The piece was originally written for the <em>Malofiej 22</em> book, and I'm glad that it has been published for a wider audience.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 15, 2015_
+<PostedBy />
 
 
 <aside class="comments">

@@ -2,7 +2,7 @@
 title: "Why I Do This"
 description: "Why spend countless hours writing a blog like this? What do I get out of it? What do I hope to accomplish? What is the purpose?"
 date: 2016-09-29 04:17:29
-tags: Meta/Site News, A Decade of EagerEyes
+tags: meta, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/why-teaser.jpg
 ---
 
@@ -63,7 +63,7 @@ This site may be a hobby, but it's a serious one. It's so tightly interwoven wit
 The teaser image is a painting by <a href="https://twitter.com/monteiro">Mike Monteiro</a>. You'll never guess <a href="http://www.grammarphobia.com/blog/2011/10/bridges.html">where that quote is from</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 29, 2016_
+<PostedBy />
 
 
 <aside class="comments">

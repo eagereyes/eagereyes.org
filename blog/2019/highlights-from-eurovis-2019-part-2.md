@@ -43,6 +43,6 @@ While I appreciate Anders Ynnerman’s enthusiasm for the concept, I’m not sur
 While I griped at some length in <a href="/blog/2019/highlights-from-eurovis-2019-part-1">the first part</a> about the conference program this year feeling a bit thin, I clearly did find enough to write about to fill two posts.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 02, 2019_
+<PostedBy />
 
 

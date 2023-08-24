@@ -49,7 +49,7 @@ What data journalism requires, then, is a broad mix of skills and instincts. Not
 But in a way, data journalism is the logical extension of what journalism has been all along: collecting facts and data, understanding the implications, finding the story, and reporting it. The tools and materials are changing. But soon, all journalism will be data journalism in one form or another.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 29, 2014_
+<PostedBy />
 
 
 <aside class="comments">

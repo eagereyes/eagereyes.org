@@ -58,6 +58,6 @@ See also:
 </ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 16, 2017_
+<PostedBy />
 
 

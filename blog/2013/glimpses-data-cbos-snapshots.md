@@ -36,7 +36,7 @@ It may well be true that many arguments in visualization are pointless and petty
 I’m honored to have been asked to provide input during the design phase of this effort. Like with all my secret government work, the CBO will neither confirm nor deny my involvement.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 24, 2013_
+<PostedBy />
 
 
 <aside class="comments">

@@ -24,6 +24,6 @@ Two pages I came across today might help explain the gap between technical visua
 Tutorials can be half-day or full-day, and usually involve several speakers. Tutorial speakers receive free registrations for VisWeek, and there is also a small honorarium. If you have not submitted to VisWeek before, you should get familiar with the SRM submission system used well before the deadline. Feel free to <a href="/contact">contact me</a> with any questions.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 19, 2009_
+<PostedBy />
 
 

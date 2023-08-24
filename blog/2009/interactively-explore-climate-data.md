@@ -23,7 +23,7 @@ The top view shows the monthly averages for the currently selected year (from th
 
 _This interactive was created in Protovis and isn't available anymore_
 
-_Posted by <a href="/about">Robert Kosara</a> on December 11, 2009_
+<PostedBy />
 
 
 <aside class="comments">

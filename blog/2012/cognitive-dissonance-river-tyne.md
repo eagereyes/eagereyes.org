@@ -32,7 +32,7 @@ How could this have been avoided? One obvious way of showing the data, <a href="
 It’s unfortunate that they ended up sticking so closely to the obvious metaphor, the flow. The other designs strike me as much more interesting, and would have avoided the confusion. As it is, the flow metaphor creates nice images, but to understand what is shown requires a lot of unnecessarily hard work.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 22, 2012. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

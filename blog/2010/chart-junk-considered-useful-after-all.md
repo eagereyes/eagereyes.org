@@ -59,7 +59,7 @@ But this clearly calls into question the role of "pure" visualization in communi
 Scott Bateman, Regan L. Mandryk, Carl Gutwin, Aaron Genest, David McDine, Christopher Brooks, <a href="http://hci.usask.ca/publications/view.php?id=173">Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts</a>. <em>ACM Conference on Human Factors in Computing Systems</em> (CHI), 2010.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 22, 2010. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

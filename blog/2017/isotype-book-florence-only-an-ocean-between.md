@@ -57,6 +57,6 @@ Despite the very numbers-heavy way of writing, however, the ISOTYPE charts are n
 
 <hr />
 
-_Posted by <a href="/about">Robert Kosara</a> on October 22, 2017. Filed under [ISOTYPE](/tag/isotype)._
+<PostedBy />
 
 

@@ -26,7 +26,7 @@ The plan is to write one ISOTYPE posting a month. With my current collection, th
 There is clearly a lot to explore that visualization folks don’t seem to be aware of. I hope to shed some light on this under-appreciated part of our history.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 15, 2017. Filed under [ISOTYPE](/tag/isotype)._
+<PostedBy />
 
 
 <aside class="comments">

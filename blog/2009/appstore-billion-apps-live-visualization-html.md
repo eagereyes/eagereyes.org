@@ -28,7 +28,7 @@ Instead of working this into the <a href="/vis/iTMS.html">billion downloads appl
 Another problem is that Google Charts does not degrade gracefully. When there is too much data, it simply gives you an error message or produces a completely useless image. I had to split the chart up at four full days, because it croaked at 117 data points. This does not seem to be a limitation of the URL length (it uses GET requests, not POST), but of the renderer.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 11, 2009_
+<PostedBy />
 
 
 <aside class="comments">

@@ -70,7 +70,7 @@ The following list is mostly taken from Apple's 500 million downloads page (whic
 </ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 02, 2006_
+<PostedBy />
 
 
 <aside class="comments">

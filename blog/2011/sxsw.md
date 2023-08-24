@@ -29,6 +29,6 @@ To vote, you will have to create an account on the PanelPicker website, but it's
 <a href="http://longlivedatavis.com/">Vote!</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 16, 2011_
+<PostedBy />
 
 

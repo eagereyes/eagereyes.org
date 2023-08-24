@@ -28,7 +28,7 @@ I’m torn about which piece I like best. The Mondrian-inspired one is the most 
 Treemap Art is unique in its approach, and I think it’s very interesting. Anything can be used to make art, so why not a visualization tool? The results speak for themselves.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 22, 2013_
+<PostedBy />
 
 
 <aside class="comments">

@@ -65,7 +65,7 @@ Conference dinners can be amazing or they can be uninspiring (like the last seve
 The bar is set high for next year. Speaking of which: EuroVis 2016 will take place June 6-10, 2016 in Groningen, The Netherlands.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 01, 2015_
+<PostedBy />
 
 
 <aside class="comments">

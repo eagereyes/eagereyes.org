@@ -21,6 +21,6 @@ For more on intent and the primary representation of data, check out <a href="/b
 This is going to be a series, so be sure to subscribe to <a href="https://www.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ?view_as=subscriber">the channel on YouTube</a>!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 06, 2019. Filed under [eagereyesTV](/tag/eagereyestv)._
+<PostedBy />
 
 

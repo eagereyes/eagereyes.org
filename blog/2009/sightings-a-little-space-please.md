@@ -20,7 +20,7 @@ But I also tried to make a broader point about scientific and information visual
 This is my last regular <em>Sightings</em>. I may contribute again in the future, but not on a regular schedule.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 04, 2009_
+<PostedBy />
 
 
 <aside class="comments">

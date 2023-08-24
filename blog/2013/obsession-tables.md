@@ -23,7 +23,7 @@ There are three short talks in this recorded webinar, which also go into some de
 
 [Edit: video no longer available]
 
-_Posted by <a href="/about">Robert Kosara</a> on May 01, 2013_
+<PostedBy />
 
 
 <aside class="comments">

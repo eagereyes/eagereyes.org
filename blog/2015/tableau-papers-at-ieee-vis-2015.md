@@ -43,6 +43,6 @@ These three papers make for a nice set that embodies what Tableau Research aims 
 More of our papers can be found on the <a href="https://research.tableau.com/papers">Tableau Research website</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 21, 2015_
+<PostedBy />
 
 

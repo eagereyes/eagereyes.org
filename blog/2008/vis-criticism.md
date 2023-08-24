@@ -17,7 +17,7 @@ The idea behind this article was to discuss the background of vis criticism a bi
 
 Robert Kosara, Fritz Drury, Lars Erik Holmquist, and David H. Laidlaw, <a href="/publications/Kosara-CGA-2008">Visualization Criticism</a>, _Computer Graphics and Applications (CG&A), Visualization Viewpoints_, vol. 28, no. 3, pp. 13–15, 2008.
 
-_Posted by <a href="/about">Robert Kosara</a> on May 01, 2008_
+<PostedBy />
 
 
 <aside class="comments">

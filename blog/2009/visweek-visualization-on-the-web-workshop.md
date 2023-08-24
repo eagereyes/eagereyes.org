@@ -16,7 +16,7 @@ The workshop <em><a href="/viswebworkshop.html">Putting Visualization on the Web
 The program for the workshop is still only preliminary, but check back later this week for more details. We will make the position papers and the results of the discussions available as a report after the workshop. If you want to shape the way the world sees visualization on the World Wide Web, drop by and join the discussion!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 05, 2009_
+<PostedBy />
 
 
 <aside class="comments">

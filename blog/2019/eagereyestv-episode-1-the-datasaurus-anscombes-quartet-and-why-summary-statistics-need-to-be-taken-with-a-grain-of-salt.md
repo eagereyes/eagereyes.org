@@ -22,7 +22,7 @@ Things I cover in the video:
 Let me know what you think! This is an experiment, and I want to know what people think works and what doesn’t. Please leave a comment below or on YouTube. And if you found it interesting, please consider subscribing on YouTube and giving it a ?.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 16, 2019_
+<PostedBy />
 
 
 <aside class="comments">

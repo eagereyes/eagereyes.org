@@ -2,7 +2,7 @@
 title: "The Ten Years of EagerEyes Blogstravaganza"
 description: "October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!"
 date: 2016-09-25 16:16:02
-tags: Meta/Site News, A Decade of EagerEyes
+tags: meta, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg
 outline: false
 ---
@@ -31,7 +31,7 @@ But back to the <em>blogstravaganza</em>! This week will see a posting every day
 Each of these will go live at 5:17am PDT (8:17am EDT, 2:17pm MET) if all goes well (scheduled postings are still a crapshoot with Wordpress, so I might have to revise this).
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 25, 2016_
+<PostedBy />
 
 
 <aside class="comments">

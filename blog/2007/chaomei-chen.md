@@ -27,7 +27,7 @@ Chaomei sent me not only a list, but also a very interesting introduction and co
 - Henry G. Small, <a href="http://links.jstor.org/sici?sici=0306-3127(197705)7%3A2%3C139%3AACMOAS%3E2.0.CO%3B2-J">A co-citation model of a scientific specialty: A longitudinal study of collagen research</a>, <em>Social Studies of Science</em>, vol. 7, pp. 139-166, 1977. <em>Co-citation clusters revealing the change of research focus. This article drew my attention to document co-citation analysis, which became an integral part of my approach to mapping scientific frontiers.</em>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 11, 2007. Filed under [Lists of Influences](/tag/influences)._
+<PostedBy />
 
 
 <aside class="comments">

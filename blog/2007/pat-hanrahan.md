@@ -33,6 +33,6 @@ Here is Pat's list, including his comments. I only added a few authors' first na
 </ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 03, 2007. Filed under [Lists of Influences](/tag/influences)._
+<PostedBy />
 
 

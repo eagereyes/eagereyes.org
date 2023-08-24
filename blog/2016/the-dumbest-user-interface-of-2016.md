@@ -36,7 +36,7 @@ The award is lovingly handmade from thousands of discarded “Please Swipe!” a
 <a href="https://www.flickr.com/photos/39160147@N03/15721764104/">Teaser image by JeepersMedia</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 26, 2016_
+<PostedBy />
 
 
 <aside class="comments">

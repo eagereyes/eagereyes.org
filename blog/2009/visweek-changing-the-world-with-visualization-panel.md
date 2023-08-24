@@ -24,7 +24,7 @@ This panel will require audience participation: at least half the session will b
 We will save the world on Wednesday, October 14, at 2pm.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 07, 2009_
+<PostedBy />
 
 
 <aside class="comments">

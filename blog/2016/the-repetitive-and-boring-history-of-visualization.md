@@ -60,7 +60,7 @@ This list is by no means meant to be complete. Instead, I want to know what else
 If we don’t know enough about their context and real importance, we’re dealing with a very shallow and limited understanding of our history. We’re doing ourselves a huge disservice by ignoring the truly important and impactful pieces. We need to change that.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 14, 2016_
+<PostedBy />
 
 
 <aside class="comments">

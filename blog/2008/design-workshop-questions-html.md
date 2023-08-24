@@ -23,7 +23,7 @@ The list is based on my notes and what I remember from the discussion, but I als
 - _What are fundamental skills for anybody in visualization?_ This was the most intriguing question in my humble opinion: What does everybody in visualization need to know? It still strikes me as odd how few people have any kind of background (or even just interest) in design, photography, or art. I think we need to learn a lot more about visual literacy and acquire more of an appreciation for how other disciplines communicate visually to improve our work. Others may well disagree, though…
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 09, 2008_
+<PostedBy />
 
 
 <aside class="comments">

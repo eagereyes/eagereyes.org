@@ -58,6 +58,6 @@ But more than that, I think his legacy is the inspiration to keep educating peop
 Teaser image credit and copyright: Rod Mar Photography, taken at Tableau Conference 2014.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 07, 2017_
+<PostedBy />
 
 

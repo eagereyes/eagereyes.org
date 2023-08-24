@@ -22,7 +22,7 @@ The classic café wall illusion was first spotted on a tiled wall, where the mis
 It looks like that zero line is angled up slightly. I wonder if this would cause people to be slightly biased in their reading of the data.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 30, 2016_
+<PostedBy />
 
 
 <aside class="comments">

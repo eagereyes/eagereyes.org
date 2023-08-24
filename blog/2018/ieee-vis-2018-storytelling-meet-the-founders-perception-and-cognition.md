@@ -57,7 +57,7 @@ Showing uncertainty in the data is still an issue with many visualization types 
 Next year’s VIS will be outside the U.S. once again: Vancouver, BC (Canada), October 20-25, 2019.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 31, 2018_
+<PostedBy />
 
 
 <aside class="comments">

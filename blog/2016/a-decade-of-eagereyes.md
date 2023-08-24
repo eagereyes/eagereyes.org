@@ -2,7 +2,7 @@
 title: "A Decade of EagerEyes"
 description: "So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one."
 date: 2016-10-01 04:17:46
-tags: Meta/Site News, A Decade of EagerEyes
+tags: meta, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png
 outline: false
 ---
@@ -34,7 +34,7 @@ There is a huge amount of work to be done here. There are many questions that ne
 So let's get started.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 01, 2016_
+<PostedBy />
 
 
 <aside class="comments">

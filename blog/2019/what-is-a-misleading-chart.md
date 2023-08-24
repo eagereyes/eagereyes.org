@@ -41,7 +41,7 @@ The problem is not the chart but the intent. The goal of this chart is to downpl
 When we discuss “bad” charts, we need to look beyond properties of the chart itself. If a pie chart doesn’t add up to 100%, that’s a bad chart. But the number of strict rules like this is actually quite small. Many charts we consider to be bad charts are perfectly correct charts that were made for a purpose or with a message we don’t agree with. We need to separate that from questions about the chart itself, however.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 23, 2019_
+<PostedBy />
 
 
 <aside class="comments">

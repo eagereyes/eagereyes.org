@@ -2,7 +2,7 @@
 title: "Five Years of EagerEyes"
 description: "In dog years, this website is now (almost) as old as I am. Over the years, it has changed both its direction and design several times; there have been times when I was overwhelmed with my readers' reactions and times when nobody seemed to read the stuff I wrote. While I generally hate “best of” postings and indulging in nostalgia, I want to look back at a few of the things that I believe have shaped this site and how I think about what I'm doing, and revisit a few of the more interesting and/or successful things I've managed to do and write over the years."
 date: 2011-09-30 22:18:36
-tags: Meta/Site News
+tags: meta
 featuredImage: https://media.eagereyes.org/media/2011/manyyearsago.png
 ---
 
@@ -53,7 +53,7 @@ The truth is, I have no idea. I certainly plan on continuing what I'm doing righ
 What I do know, however, is what I want to achieve with this site: provide deeper background about visualization that goes beyond the pretty pictures. I want people who look for the meaning behind the pixels to be able to find something. I want to provide an alternative to the general “oooh, shiny!” attitude towards visualization that is so prevalent on the web. And I want to push things forward by calling out things that ineffective, stupid, and wrong, and pointing out better ways of doing them.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 30, 2011_
+<PostedBy />
 
 
 <aside class="comments">

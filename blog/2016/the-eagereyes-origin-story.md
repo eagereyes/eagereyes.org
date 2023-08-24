@@ -2,7 +2,7 @@
 title: "The EagerEyes Origin Story"
 description: "Have you ever wondered where the weird name comes from, what the site was like before it was a blog, and how it all got started? This posting has all the answers."
 date: 2016-09-30 04:17:55
-tags: Meta/Site News, A Decade of EagerEyes
+tags: meta, A Decade of EagerEyes
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/origin-story.jpg
 ---
 
@@ -67,7 +67,7 @@ I was mostly too shy to hand them to people directly, unless I knew them. One in
 Promoting your site is important, and I'm glad I printed those business cards. I think they really helped establish the site with the visualization community.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 30, 2016_
+<PostedBy />
 
 
 <aside class="comments">

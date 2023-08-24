@@ -41,7 +41,7 @@ Data journalism will keep getting more interesting. I don't think that we have e
 The visualization field also needs to become smarter, work on more advanced techniques (rather than simply new ways of doing the same things), and organize more effectively around the key issues. We're doing fairly well so far, but we need to keep it up. The competition from the corporate world is increasing with more and more companies, including some of the biggest software makers, discovering visualization. We need to make sure that we're heard and that we are able to contribute meaningfully to what is being developed, and don't just work on our toy datasets and problems inside our ivory towers.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 22, 2012_
+<PostedBy />
 
 
 <aside class="comments">

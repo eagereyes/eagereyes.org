@@ -53,6 +53,6 @@ They also talked about a Google translation system that is able to translate lan
 They ended by saying that there is a lot of opportunity to do visualization for machine learning. Even many of the people working in the field don’t have good intuitions for how their systems work, and they need tools to inspect what they’re doing, debug, etc. It’s a challenging field as well, of course, but seems like a very promising area. <em>Marnanda</em> are trailblazers here, as usual, and I think many others will follow their lead.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 14, 2017_
+<PostedBy />
 
 

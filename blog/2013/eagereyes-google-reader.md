@@ -2,7 +2,7 @@
 title: "How to Keep Following eagereyes After the End of Google Reader"
 description: "With Google Reader shutting down July 1st, now is the time to find alternative ways to follow your favorite blogs. For this one, you can now get new postings on Facebook and through a dedicated Twitter feed, in addition to the RSS feed. See below for some RSS aggregator/reader alternatives to Google Reader."
 date: 2013-04-07 19:14:59
-tags: Meta/Site News
+tags: meta
 featuredImage: 
 ---
 
@@ -46,7 +46,7 @@ There is a lot of value in simple feeds and <em>Real Simple Syndication</em> (wh
 The end of Google Reader is unfortunate, but I think once we’ve all figured out what alternatives to use, it will be a good thing. Google pushed all the other RSS aggregators out of existence, and then mostly just sat there doing nothing. There is a good chance that the new crop of feed aggregators that is sprouting now will lead to some real innovation in this area.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 07, 2013_
+<PostedBy />
 
 
 <aside class="comments">

@@ -24,7 +24,7 @@ If you have these or other questions, submit a position statement! If you have i
 Go to the <a href="/viswebworkshop.html">Workshop Page</a> for more details and the submission form.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 26, 2009_
+<PostedBy />
 
 
 <aside class="comments">

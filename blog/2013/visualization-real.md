@@ -43,6 +43,6 @@ Visual representation gives numbers and concepts a reality they don’t otherwis
 Many thanks to Nigel Holmes for letting me use the cloning image and providing a considerable part of the explanatory text.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 10, 2013_
+<PostedBy />
 
 

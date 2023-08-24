@@ -32,7 +32,7 @@ For reading absolute values, we found that most embellishments had no effect, wi
 Drew Skau, Lane Harrison, Robert Kosara, <a href="/publications/Skau-EuroVis-2015">An Evaluation of the Impact of Visual Embellishments in Bar Charts</a>, <em>Computer Graphics Forum (Proceedings EuroVis)</em>, vol. 34, no. 3, pp. 221–230, 2015.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 25, 2015_
+<PostedBy />
 
 
 <aside class="comments">

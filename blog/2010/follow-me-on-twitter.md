@@ -24,6 +24,6 @@ And if you haven't tried Twitter, this is your chance! There are lots of interes
 So what are you waiting for? <a href="http://twitter.com/EagerEyes">Click the link!</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 02, 2010_
+<PostedBy />
 
 

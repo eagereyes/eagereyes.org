@@ -35,7 +35,7 @@ It's also a kind of lazy storytelling. Of course you can make people see a story
 We are so hard-wired for causality and stories that it's difficult to look at something like a map and not tell a story. We are incredibly creative at filling in the blanks. That can be useful when we are given hints and we revel in the creative act of making up a story (good photography evokes that kind of storytelling), but it can also lead to misinterpretation and wrong conclusions. The key to storytelling with data is not only to be able to convey a story, but to make sure that it's the intended one.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 13, 2012_
+<PostedBy />
 
 
 <aside class="comments">

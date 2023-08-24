@@ -37,6 +37,6 @@ The green groups seem to represent one million women in civil service (the group
 For an official ISOTYPE Institute chart (with the logo in the lower right), it seems strangely off. The legend is confusing, the layout is very messy, and the whole thing just doesn't work very well. Perhaps they didn't have enough time to prepare it. It's a rare misstep, I haven't seen anything as sloppy and confusing so far.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 05, 2017. Filed under [ISOTYPE](/tag/isotype)._
+<PostedBy />
 
 

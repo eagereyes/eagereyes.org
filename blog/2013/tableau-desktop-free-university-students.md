@@ -20,7 +20,7 @@ This has been in the works for a while, and I'm very happy to finally see it hap
 So if you've ever wanted to try Tableau, and you're a student, <a href="http://tableausoftware.com/freeforstudents">this is your chance now</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 13, 2013_
+<PostedBy />
 
 
 <aside class="comments">

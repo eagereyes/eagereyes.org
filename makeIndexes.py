@@ -129,6 +129,8 @@ writeIndex(tags['eagereyestv'], 'tag/eagereyestv.md', 'EagerEyes Videos')
 writeIndex(tags['peer-review'], 'tag/peer-review.md', 'Peer Review')
 writeIndex(tags['conference'], 'tag/conference.md', 'Conference Reports')
 writeIndex(tags['basics'], 'tag/basics.md', 'Visualization Basics')
+writeIndex(tags['journalism'], 'tag/journalism.md', 'Journalism')
+writeIndex(tags['meta'], 'tag/meta.md', 'Meta/Site News')
 
 
 allPosts = sorted(allPosts, key=lambda f: f['date'], reverse=True)

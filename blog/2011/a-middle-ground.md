@@ -51,7 +51,7 @@ Telling stories effectively is hard work and requires a lot of care. Many charts
 Visualization is still rapidly evolving and changing. Settling for what we have and insisting that it's the only way to do things will not help the cause. What we need to find is a way to use what we know while still being interesting. We need to be able to build on existing knowledge without being limited by it. We need to engage viewers and readers without selling out to flash and glitz. We need to find a middle ground.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 10, 2011_
+<PostedBy />
 
 
 <aside class="comments">

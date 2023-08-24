@@ -16,6 +16,6 @@ outline: false
 The poster is printed very nicely and makes for a great piece of wall art to stare at when thinking about data, and maybe to get an idea for what new visualization to try.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 25, 2015_
+<PostedBy />
 
 

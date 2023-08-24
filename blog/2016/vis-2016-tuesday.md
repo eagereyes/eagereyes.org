@@ -43,7 +43,7 @@ Vega is open source, and there is <a href="http://vega.github.io/vega-lite/">an 
 Since I'm a bit sick, I ended up only attending a handful of talks and had to skip VisLies and the Art Show opening. Hopefully this will get me back into shape for more extensive reporting tomorrow, though.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 25, 2016_
+<PostedBy />
 
 
 <aside class="comments">

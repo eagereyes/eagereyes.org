@@ -53,6 +53,6 @@ And if all else fails, you can always just print out this entire website.
 <a href="https://www.flickr.com/photos/paperpariah/3115431483/">Teaser image by Adam Foster</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on December 06, 2016_
+<PostedBy />
 
 

@@ -57,6 +57,6 @@ https://twitter.com/eleanorpd/status/377146027356082176
 If you want to see a demo of story points, check out <a href="http://www.ustream.tv/recorded/39494039">the TCC keynote video</a> and jump to 1:41:50 for my part.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 06, 2013_
+<PostedBy />
 
 

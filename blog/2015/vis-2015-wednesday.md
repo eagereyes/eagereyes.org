@@ -57,7 +57,7 @@ On balance, I think the panel did get people to think (and there was clearly int
 Unfortunately, I missed a paper I had wanted to see: <a href="http://idl.cs.washington.edu/papers/beyond-webers-law"><em>Beyond Weber’s Law: A Second Look at Ranking Visualizations of Correlation</em></a> by Matthew Kay and Jeffrey Heer. They reanalyzed the data from the <a href="/blog/2014/vis-2014-thursday">Weber’s Law paper at last year’s VIS</a> and came up with a refined model that comes to some different conclusions than the original paper. This is interesting both because it’s important in its own right, and because this is the way real science works. The paper also got a best paper honorable mention for its careful writing and reevaluation, so definitely worth checking out.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 28, 2015_
+<PostedBy />
 
 
 <aside class="comments">

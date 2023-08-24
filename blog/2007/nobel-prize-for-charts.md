@@ -18,7 +18,7 @@ The charts and the underlying data have of course been the subject of much scrut
 Visualization and information graphics are excellent tools for presentation, and their impact is being felt in the world. Visualization has to step out of the ivory tower and become aware of its power. <a href="/blog/we-need-a-world-visualization-day.html">We need to get the message out!</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 12, 2007_
+<PostedBy />
 
 
 <aside class="comments">

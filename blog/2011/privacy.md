@@ -39,6 +39,6 @@ Aritra Dasgupta, Robert Kosara, <a href="/publications/Dasgupta-InfoVis-2011">Ad
 The paper will be presented in the very first InfoVis session on Wednesday, October 26, 8:30-10:00am.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 16, 2011_
+<PostedBy />
 
 

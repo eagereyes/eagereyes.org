@@ -50,7 +50,7 @@ Interestingly, they cite <a href="/criticism/anscombes-quartet">Anscombe’s qua
 <em>Nodes, Paths, and Edges: Using Mental Maps to Augment Crime Data Analysis in Urban Spaces</em> by Alex Godwin and John Stasko combines crime data with our idea about cities, like where activity concentrates, how those places are connected, and how they are divided by structures like highways, bodies of water, etc. It’s an interesting way of looking at data in a way that goes beyond the usual mapping approaches.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 16, 2017_
+<PostedBy />
 
 
 <aside class="comments">

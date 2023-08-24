@@ -202,7 +202,7 @@ Next:
 </ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 02, 2010_
+<PostedBy />
 
 
 <aside class="comments">

@@ -15,6 +15,6 @@ He wrote an article for this year's Malofiej book, which he <a href="https://www
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/V_dgGbiSe8I?si=NSUGIKkCMMAXXiHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
-_Posted by <a href="/about">Robert Kosara</a> on April 06, 2016_
+<PostedBy />
 
 

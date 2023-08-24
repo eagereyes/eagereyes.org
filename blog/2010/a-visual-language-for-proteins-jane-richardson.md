@@ -32,7 +32,7 @@ This is my entry for <a href="http://findingada.com/">Ada Lovelace Day 2010</a>.
 Teaser image: left part by Jane S. Richardson, right part by <a href="http://commons.wikimedia.org/wiki/File:Spombe_Pop2p_protein_structure_rainbow.png">Wikipedia user Debstar</a>. Atoms-to-abstraction image by Wikipedia user <a href="http://en.wikipedia.org/wiki/File:Proteinviews-1tim.png">Opabinia regalis</a>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 24, 2010_
+<PostedBy />
 
 
 <aside class="comments">

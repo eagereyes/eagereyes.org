@@ -26,7 +26,7 @@ Now 22 years later, Yahoo! has picked that idea up, made it prettier, and made i
 While I don't think that this will lead to a revolution in how quickly companies pick up ideas from visualization and HCI research, it is a good thing that this is happening. Perhaps increased competition, expanded flexibility of programs in browsers, and the pressure to appear cutting-edge will turn more such flash-backs into useful products.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 08, 2008_
+<PostedBy />
 
 
 <aside class="comments">

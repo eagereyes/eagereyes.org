@@ -61,7 +61,7 @@ While the talks are all solid, I'm confused by the lack of online materials. Our
 There also isn't much going on on Twitter. My tweets <a href="https://twitter.com/eagereyes/timelines/733779814738317312">are collected here</a>, and there's some activity under the <a href="https://twitter.com/search?q=EuroVis%20OR%20EuroVis2016&amp;src=typd">EuroVis and EuroVis2016</a> hashtags (though I wish everybody would join forces under <em>#EuroVis</em>, which is shorter). But there's much less than I would have expected.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 08, 2016_
+<PostedBy />
 
 
 <aside class="comments">

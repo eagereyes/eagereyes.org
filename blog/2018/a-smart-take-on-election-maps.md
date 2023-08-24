@@ -31,6 +31,6 @@ Using fewer but larger symbols, it's possible to make them recognizable. There's
 It's a great map, and perhaps the most effective one I've seen showing this data so far, given the United States' vast area and enormous differences in population density.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 09, 2018_
+<PostedBy />
 
 

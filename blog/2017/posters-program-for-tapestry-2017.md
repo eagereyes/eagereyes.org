@@ -42,6 +42,6 @@ The submission process is a bit unusual, so here are the steps:
 Let me know if you have any questions!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 10, 2017_
+<PostedBy />
 
 

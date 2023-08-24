@@ -67,7 +67,7 @@ If we wanted to add another quantitative dimension, we might use size, though th
 Data types play an important role in visualization because they determine what visualization types can or should be used. That doesn't mean that there is only one chart for any combination of data types, but it does narrow down the possibilities.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 17, 2013_
+<PostedBy />
 
 
 <aside class="comments">

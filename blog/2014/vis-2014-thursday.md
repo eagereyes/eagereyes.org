@@ -39,6 +39,6 @@ Everybody talks about visual literacy in visualization, but nobody really does a
 Moritz and Enrico asked me to help them record a segment for the VIS review episode of the <a href="http://datastori.es">Data Stories podcast</a>. You can listen to that in all its raw, uncut glory by <a href="https://www.dropbox.com/s/avrrkxio3shd3pr/vis-02.m4a?dl=0">downloading the audio file</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 13, 2014_
+<PostedBy />
 
 

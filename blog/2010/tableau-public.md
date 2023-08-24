@@ -47,7 +47,7 @@ All the features and talk about public data aside, this is a genius marketing mo
 Investing in the development, server space, etc., should pay off for Tableau in terms of sales, but also for all of us in terms of getting a seriously powerful visualization tool out into the world for everybody to use.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 23, 2010_
+<PostedBy />
 
 
 <aside class="comments">

@@ -16,6 +16,6 @@ On the website, you can watch a brief video summary (click on <em>See what Tapes
 Time is running out to <a href="http://www.tapestryconference.com/request-invitation">apply for an invitation</a> if you want to attend. Attendance is limited, and we're trying to keep the event small and focused.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 28, 2015_
+<PostedBy />
 
 

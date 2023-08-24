@@ -2,7 +2,7 @@
 title: "The Seven Year Itch"
 description: "Eagereyes.org turned seven years old last week, on October 1st. Seven years is a long time on the web. In dog years, the site is almost fifty years old! Has it lost its edge? Have I gone soft? Where is the bite? Where is the fight?"
 date: 2013-10-09 20:13:38
-tags: Meta/Site News
+tags: meta
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/eagerpies1.png
 ---
 
@@ -39,7 +39,7 @@ Visualization is still treated like a joke by many people, including the people 
 To make a dent, if not in the universe, then at least in the way we think about visualization.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 09, 2013_
+<PostedBy />
 
 
 <aside class="comments">

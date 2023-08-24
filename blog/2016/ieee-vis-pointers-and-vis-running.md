@@ -65,7 +65,7 @@ As <a href="/tag/conference">in the past years</a>, <a href="https://twitter.com
 This will be my 16th Vis/VisWeek/VIS in a row. I'm looking forward to seeing everybody there!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 18, 2016_
+<PostedBy />
 
 
 <aside class="comments">

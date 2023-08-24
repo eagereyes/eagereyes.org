@@ -37,7 +37,7 @@ If you want to take a look at how it all works, <a href="https://github.com/eage
 If you're a Nike+ user, please give it a try and let me know if there are any issues. I want to make this useful, so if it doesn't work, or you think it could be done better, tell me!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 17, 2011_
+<PostedBy />
 
 
 <aside class="comments">

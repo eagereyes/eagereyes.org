@@ -94,4 +94,4 @@ if mail.is_multipart():
 			file.close()
 ```
 
-_Posted by <a href="/about">Robert Kosara</a> on November 19, 2008_
+<PostedBy />

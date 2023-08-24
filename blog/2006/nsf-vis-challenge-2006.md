@@ -22,7 +22,7 @@ But looking at the <a href="http://www.nsf.gov/news/special_reports/scivis/index
 I understand the need for pretty images to make people interested in science. But only looking at the shallow prettiness rather than more scientific depth cannot be the answer. Science images must be richer than the cover photo for a fashion magazine. <em>Science</em> and NSF need to apply higher standards, and look beyond the superficial appearance.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 08, 2006. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

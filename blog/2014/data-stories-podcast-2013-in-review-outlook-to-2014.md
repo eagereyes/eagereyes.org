@@ -22,6 +22,6 @@ Many of the things we discussed are also covered in my <em><a title="The State o
 <p align="center"><img class="aligncenter size-medium wp-image-3091" alt="Data Stories Screencap 2" src="https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap2-730x422.jpg" width="730" height="422" /></p>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 26, 2014_
+<PostedBy />
 
 

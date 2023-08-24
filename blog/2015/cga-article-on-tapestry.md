@@ -16,6 +16,6 @@ I've written <a href="http://online.qmags.com/CGA0315#pg14&amp;mode2">a short pi
 If you <a href="/publications/Kosara-CGA-2015">prefer a PDF</a> to the e-reader version, you can find that in my publications.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 18, 2015_
+<PostedBy />
 
 

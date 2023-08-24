@@ -53,7 +53,7 @@ Consider, for a moment, that there was a time when the novel was a new idea. Bef
 Standards change, ideas come and go, some stay and become the prevailing way of doing things. It's way too early to know how we will be looking at data in 20, 50, or 100 years. And we have to be careful when we just lump together anything visual that's based on data and apply the same small set of standards to it. That is not to say that anything goes, but we need to make an effort to understand the goals and ideas behind something before we attempt to make a judgment.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 21, 2012. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

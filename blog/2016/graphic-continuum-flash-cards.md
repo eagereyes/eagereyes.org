@@ -20,6 +20,6 @@ The cards are a bit larger than regular playing cards, but there are 52 of them,
 The cards are <a href="http://www.policyvizshop.com">available for $15</a>. If you have a Graphic Continuum poster, you can also <a href="http://policyviz.com/introducing-graphic-continuum-flash-cards/">participate in a drawing</a> to win a free set (until November 11).
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 09, 2016_
+<PostedBy />
 
 

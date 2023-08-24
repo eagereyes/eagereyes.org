@@ -47,7 +47,7 @@ Now the scale for the amount is independent of the scale for the change. This al
 Showing small changes in large values is a challenge, but it helps to ask, what do we care about here? What do we need to know? That should guide the way the data is shown.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 28, 2013_
+<PostedBy />
 
 
 <aside class="comments">

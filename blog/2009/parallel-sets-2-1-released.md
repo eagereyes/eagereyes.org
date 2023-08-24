@@ -38,7 +38,7 @@ The next release is tentatively scheduled for early September. This is not a str
 As always, we want to hear from you! Submit bug reports and feature requests using the <a href="http://code.google.com/p/parsets/issues/list">Google Code issue tracker</a>, and <a href="/contact">send us your comments and complaints</a>!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on August 03, 2009_
+<PostedBy />
 
 
 <aside class="comments">

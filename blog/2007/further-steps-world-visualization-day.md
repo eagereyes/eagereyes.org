@@ -19,6 +19,6 @@ I hope to get support from the vgtc, and for that your participation in the BOF 
 </p>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 21, 2007_
+<PostedBy />
 
 

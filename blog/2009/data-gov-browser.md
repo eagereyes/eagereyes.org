@@ -34,7 +34,7 @@ Update: Interestingly, they seem to have updated the categories. There are no mo
 While I believe that it was a good idea to get the site off the ground (and <a href="/data/dish-best-served-raw.html">make some raw data available</a>) rather than spend years to come up with the perfect taxonomy, this little experiment shows what happens when data from different sources is simply put into one place without too much though. If data.gov is really going to grow like expected (there were supposed to be 100,000 datasets there by the end of last week), this will become an ever bigger problem. The search and very limited browsing on the site will likely become entirely useless.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 15, 2009_
+<PostedBy />
 
 
 <aside class="comments">

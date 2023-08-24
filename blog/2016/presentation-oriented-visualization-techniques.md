@@ -34,7 +34,7 @@ If you prefer watching a video to reading: I also used an earlier version of the
 Robert Kosara, <a href="/publications/Kosara-CGA-2016">Presentation-Oriented Visualization Techniques</a>, <em>Computer Graphics and Applications</em>, vol. 36, vol. 1, pp. 80–85, 2016.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 07, 2016_
+<PostedBy />
 
 
 <aside class="comments">

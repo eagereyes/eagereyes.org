@@ -288,7 +288,7 @@ Previous:
 </ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 26, 2010_
+<PostedBy />
 
 
 <aside class="comments">

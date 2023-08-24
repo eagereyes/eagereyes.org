@@ -49,7 +49,7 @@ Relevant papers:
 </ul>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 08, 2011_
+<PostedBy />
 
 
 <aside class="comments">

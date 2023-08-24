@@ -41,6 +41,6 @@ I already mentioned the <em>Voyager: Exploratory Analysis via Faceted Browsing o
 Two more <a href="/blog/2015/tableau-papers-at-ieee-vis-2015">Tableau Research papers</a> were also presented in this session.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 01, 2015_
+<PostedBy />
 
 

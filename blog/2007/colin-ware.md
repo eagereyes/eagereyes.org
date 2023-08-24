@@ -25,6 +25,6 @@ Colin has degrees in both computer science and perceptual psychology. In additio
 - Christopher Ahlberg, Christopher Williamson, Ben Shneiderman, <a href="http://portal.acm.org/citation.cfm?doid=142750.143054"><em>Dynamic Queries for Information Exploration: An Implementation and Evaluation</em></a>, Proceedings of ACM CHI, pp. 619-626, 1992. <em>One of the first papers to clearly state the importance of tight coupling between the interface and the data.</em>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 16, 2007. Filed under [Lists of Influences](/tag/influences)._
+<PostedBy />
 
 

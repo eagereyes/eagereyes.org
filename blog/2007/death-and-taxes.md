@@ -22,7 +22,7 @@ That's actually a fairly heavy car, and probably more like two cars if you're th
 And lest this posting be misunderstood as libertarian or anti-government, let me quote <a href="http://en.wikipedia.org/wiki/Oliver_Wendell_Holmes%2C_Jr.">Oliver Wendell Holmes</a>, who said that <em>taxes are what we pay for a civilized society</em>. As I am preparing my tax returns (on the last day, as usual), I couldn't agree more.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 15, 2007_
+<PostedBy />
 
 
 <aside class="comments">

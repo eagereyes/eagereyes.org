@@ -38,7 +38,7 @@ This is work with Steve Haroz and Steven Franconeri, both at Northwestern Univer
 Steve Haroz, Robert Kosara, Steven L. Franconeri, <a href="/publications/Haroz-TVCG-2016">The Connected Scatterplot for Presenting Paired Time Series</a>, <em>Transactions on Visualization and Computer Graphics</em> (TVCG), vol. 22, no. 9, pp. 2174–2186, 2016. DOI: 10.1109/TVCG.2015.2502587
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 22, 2015_
+<PostedBy />
 
 
 <aside class="comments">

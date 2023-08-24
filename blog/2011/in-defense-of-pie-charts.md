@@ -47,7 +47,7 @@ Visualization people tend to dismiss the collected expertise of designers despit
 Ian Spence and Stephan Lewandowsky, <a href="http://psych.utoronto.ca/users/spence/Spence_Lewandowsky_1991.pdf" target="_blank">Displaying Proportions and Percentages</a>. <em>Applied Cognitive Psychology</em>, vol. 5, no. 1, pp. 61–77, 1991.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 13, 2011. Filed under [criticism](/section/criticism), [pie charts](/tag/pie-charts)._
+<PostedBy />
 
 
 <aside class="comments">

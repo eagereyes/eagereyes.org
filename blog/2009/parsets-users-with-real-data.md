@@ -20,6 +20,6 @@ The next version of Parallel Sets is in the works, and I hope to get it done thi
 In unrelated site news, comments are now moderated again. I am getting around 50 spam comments a day at the moment, so there is unfortunately no way around this. I am trying to moderate new comments quickly, but it can take some time for them to be published.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 07, 2009_
+<PostedBy />
 
 

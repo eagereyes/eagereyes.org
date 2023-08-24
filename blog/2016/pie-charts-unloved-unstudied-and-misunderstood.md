@@ -20,7 +20,7 @@ The video is focused a bit too much on me at the beginning, so you'll miss a few
 There were some really good talks at Information+ – I will post a selection of links to videos here in a bit.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 21, 2016_
+<PostedBy />
 
 
 <aside class="comments">

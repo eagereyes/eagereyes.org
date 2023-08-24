@@ -34,7 +34,7 @@ Thanks to Robert Morton, who pointed me to <a href="http://www.fec.gov/Disclosur
 The chart was made in Excel this time, because I had trouble getting Numbers to show me the right axis labels. I used the <a href="/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts.html">stacked bar chart idea</a> with three columns, two of which were zero in each row. This way, it was easy to get different colors for multiples of 5 and 10. If there is any interest, I can make the parsed data and the Excel file available.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 24, 2008_
+<PostedBy />
 
 
 <aside class="comments">

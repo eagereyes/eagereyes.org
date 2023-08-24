@@ -2,7 +2,7 @@
 title: "Eight Years of eagereyes"
 description: "What is the purpose of blogging about visualization? Is it to make fun of the bad stuff? Is it to point to pretty things? Is it to explain why things are good or bad? Is it to expand the landscape of ideas and break new ground? Or is it to discuss matters at great length that ultimately don't matter all that much?"
 date: 2014-10-01 21:20:51
-tags: Meta/Site News
+tags: meta
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/10/eight.png
 outline: false
 ---
@@ -24,7 +24,7 @@ It's encouraging to see the huge interest in visualization. And it's even more e
 Discussing visualization needs to matter too. But it can only do so if it comes from a place of understanding, respect, and an open mind.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 01, 2014_
+<PostedBy />
 
 
 <aside class="comments">

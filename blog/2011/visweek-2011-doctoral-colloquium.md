@@ -31,6 +31,6 @@ As for the how, go to <a href="http://visweek.org/visweek/2011/info/call-partici
 The deadline for submissions in Monday, June 27.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 21, 2011_
+<PostedBy />
 
 

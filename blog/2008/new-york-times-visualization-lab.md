@@ -22,7 +22,7 @@ But that is where the New York Times can offer a huge value-add: by supplying da
 The NY Times name will certainly drive traffic, but to make the site compelling and make people come back, an investment in good data will be needed.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 28, 2008_
+<PostedBy />
 
 
 <aside class="comments">

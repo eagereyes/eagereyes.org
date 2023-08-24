@@ -30,6 +30,6 @@ GED Viz is limited in its data and the kind of visualization it provides, but it
 The project was funded and run by the Bertelsmann Foundation, led by Jan Arpe and designed by <a href="http://www.esono.com">Boris Müller</a> of the University of Applied Sciences Potsdam (who some long-time readers of this blog may remember from the <a href="/blog/2006/visual-mapping-of-poetry-html"><em>Poetry in Motion</em> controversy</a>). Thanks to <a href="http://stefaner.eu">Moritz Stefaner</a> for making the connection. <a href="https://github.com/bertelsmannstift/GED-VIZ">The GED Viz source code is available on github</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on July 21, 2013_
+<PostedBy />
 
 

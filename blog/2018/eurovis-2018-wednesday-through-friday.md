@@ -64,6 +64,6 @@ This was the 20th EuroVis (though it started life as VisSym and only became Euro
 This year's conference also set new standards for associated events. The highlight clearly was the showing of a short movie about <a href="https://en.wikipedia.org/wiki/Gregor_Mendel">Gregor Mendel</a> (who discovered the rules of inheritance of traits and basically started the field of genetics) projected onto the wall of the monastery where he had grown his peas to study the colors of their buds and shapes of the seeds. This had been created by Drew Berry (<a href="/blog/2018/eurovis-2018-monday-and-tuesday">the keynote speaker</a>) for an event in 2015, and they basically repeated it for us. It's going to be pretty tough to top that kind of historical significance and perfect visualization tie-in in the future.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 08, 2018_
+<PostedBy />
 
 

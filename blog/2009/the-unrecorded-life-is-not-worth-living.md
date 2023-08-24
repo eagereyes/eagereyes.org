@@ -44,7 +44,7 @@ But the real beauty of all these systems is that they're visual. The visualizati
 <a href="http://www.flickr.com/photos/ldandersen/249465130/">Teaser image by Buzz Andersen</a> (cropped), used under creative commons.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 30, 2009_
+<PostedBy />
 
 
 <aside class="comments">

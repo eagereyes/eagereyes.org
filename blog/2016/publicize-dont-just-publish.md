@@ -45,7 +45,7 @@ There are always questions about putting the papers online. The major publishers
 It's so ridiculously easy with today's technology to reach a lot of people with your work. It's time academics figure out how to use that technology to tell the world about the cool stuff they do.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 21, 2016_
+<PostedBy />
 
 
 <aside class="comments">

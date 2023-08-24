@@ -18,7 +18,7 @@ In this video, I'm talking about indexing on the vertical, or value, axis. I'm s
 As usual, let me know what you think! And if you find this interesting at all, please subscribe to the channel and maybe give the video a thumbs-up!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 29, 2020. Filed under [eagereyesTV](/tag/eagereyestv)._
+<PostedBy />
 
 
 <aside class="comments">

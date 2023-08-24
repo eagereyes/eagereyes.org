@@ -27,6 +27,6 @@ To participate, you have to be a student at a U.S. institution and either a citi
 And while <a title="Hello from Tableau (and Seattle)!" href="/blog/2012/hello-tableau-and-seattle">I am working at Tableau this year</a>, I am in no way involved in this challenge; I actually only learned about it from an email that was sent to my university address. Still, if you live in the same household as me, you are not eligible to participate. (EDIT: I was just asked to be a judge for this contest)
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 04, 2012_
+<PostedBy />
 
 

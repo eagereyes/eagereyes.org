@@ -42,7 +42,7 @@ Radiohead's recent video for their song <em>House of Cards</em> <a href="http://
 
 The many meanings of the term <em>visualization</em> can cause confusion and loss of focus. We need to know what we are talking about when we are working in scientific or information visualization. The definition given above provides a baseline that all visualizations must fulfill to be considered part of this field. More work is clearly needed.
 
-_Posted by <a href="/about">Robert Kosara</a> on July 24, 2008. Filed under [criticism](/section/criticism)._
+<PostedBy />
 
 
 <aside class="comments">

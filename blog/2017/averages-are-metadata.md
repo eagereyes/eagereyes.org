@@ -52,7 +52,7 @@ The way to fix this is to treat derived values as metadata and not throw them in
 But what's more, data tables aren't like printed ones. They are the raw material for further processing, not the end result. <a href="/data/dish-best-served-raw">They need to be readable by machines, not humans</a>. Including averages and other derived values shows a fundamental misunderstanding of this basic fact.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 14, 2017_
+<PostedBy />
 
 
 <aside class="comments">

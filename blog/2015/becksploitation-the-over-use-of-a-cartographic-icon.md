@@ -18,7 +18,7 @@ Among the many interesting tidbits in the paper is this <a href="https://www.fl
 <p align="center"><a href="https://www.flickr.com/photos/jamiethemapquinn/8966983573/"><img class="aligncenter size-medium wp-image-8627" src="https://media.eagereyes.org/wp-content/uploads/2015/01/becksploitation-660x453.jpg" alt="Jamie Quinn" width="660" height="453" /></a></p>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on February 04, 2015_
+<PostedBy />
 
 
 <aside class="comments">

@@ -20,6 +20,6 @@ All of this is in my new video, which you can watch below or <a href="https://yo
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ePpSYA9deKA?si=_4qjdDmIe6AJ5TMf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 17, 2022_
+<PostedBy />
 
 

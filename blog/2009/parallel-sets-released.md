@@ -22,7 +22,7 @@ More features are certainly planned, and you can expect a few major updates over
 So go ahead and <a href="/parallel-sets">download it</a>, try it out, tell us if it works, and send us your feature requests (and bug reports)!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on June 01, 2009_
+<PostedBy />
 
 
 <aside class="comments">

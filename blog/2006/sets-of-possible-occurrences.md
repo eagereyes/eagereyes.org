@@ -61,6 +61,6 @@ It would of course be silly to criticize SOPOs as a visualization, since that is
 Unintuitive as they are, SOPOs help us break out of the usual way we look at time, and make us aware of the many assumptions we make about visual representations of the fourth dimension. That alone makes studying them worthwile, even if their role is that of the ladder in <a href="http://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus">Wittgenstein's metaphor</a>: after we have reached a higher point with their help, we can leave them behind.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 24, 2006_
+<PostedBy />
 
 

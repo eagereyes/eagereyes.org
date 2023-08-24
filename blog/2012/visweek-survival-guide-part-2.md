@@ -65,7 +65,7 @@ There are also at least two other parties, though I don’t know if those are in
 It will be awesome!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 03, 2012_
+<PostedBy />
 
 
 <aside class="comments">

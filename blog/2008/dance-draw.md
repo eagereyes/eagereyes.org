@@ -22,7 +22,7 @@ What is being visualized is data from the mice, which represents the dance, whic
 Be sure to watch the video, though the visualization is a bit washed out. The  performance usually takes place in an almost entirely dark room, where the visuals are much more dominant. The music is also quite catchy.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on May 15, 2008_
+<PostedBy />
 
 
 <aside class="comments">

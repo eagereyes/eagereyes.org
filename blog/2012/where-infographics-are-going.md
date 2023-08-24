@@ -33,7 +33,7 @@ For graphics to be truly informative, they have to be interactive. There is noth
 Visualization has developed the tools for rich exploration and interaction. So far, the focus is still largely on exploration and analysis. But there is a huge opportunity to apply these to the much broader area of informing people by presenting data. Visualization alone is not the solution, but neither are shiny, colorful graphics. The sweet spot is somewhere in the middle, and it will take the combined smarts of visualization people and designers to find it.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 26, 2012_
+<PostedBy />
 
 
 <aside class="comments">

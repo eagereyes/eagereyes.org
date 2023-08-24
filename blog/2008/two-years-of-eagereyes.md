@@ -2,7 +2,7 @@
 title: "Two Years of EagerEyes"
 description: "This site turns two today. There have been frantic periods of posting and periods of silence. There have been times when I thought nobody would read this and times when I had more than 50,000 visitors in a day. Here is a bit of history, some thoughts on what the site has accomplished, and what I am planning for the future."
 date: 2008-09-30 23:02:57
-tags: Meta/Site News
+tags: meta
 featuredImage: http://eagereyes.org/media/2008/MrEagerEyes.jpg
 outline: false
 ---
@@ -62,7 +62,7 @@ What has the site achieved? It has certainly helped me get recognized. As egotis
 That's a good start, but the next step is to get people to actually act on that, to ask questions and to demand more foundational work in InfoVis, more InfoVis for communication, and a deeper understanding of how it all works. All of that exists in one way or another, but it is not enough. We don't understand our own field, and we need to change that.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 30, 2008_
+<PostedBy />
 
 
 <aside class="comments">

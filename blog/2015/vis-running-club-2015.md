@@ -24,6 +24,6 @@ We did this the first time last year at <a href="/blog/2014/vis-2014-monday">VIS
 So pack your shoes and shorts (and maybe some warm running clothes and a beanie/tuque) and join us! I know it's early but it's really the only time that works with all the parties and dinners and things planned for the nights.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 15, 2015_
+<PostedBy />
 
 

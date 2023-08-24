@@ -36,7 +36,7 @@ Of course images, videos, etc. are data too. Of course it can be a good idea to 
 But the image already has an intent and a primary interpretation associated with it that works for the vast majority of people. The data file does not. That I think is the key difference between the two.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 26, 2019_
+<PostedBy />
 
 
 <aside class="comments">

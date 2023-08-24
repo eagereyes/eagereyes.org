@@ -22,7 +22,7 @@ First definition, first major difference: a lot of people in the visualization f
 
 In any case, <em>data visualization</em> has a particular slant, and is not the same as visualization in general, and certainly does not refer to charts or ‘interactives.'
 
-_Posted by <a href="/about">Robert Kosara</a> on October 02, 2011_
+<PostedBy />
 
 
 <aside class="comments">

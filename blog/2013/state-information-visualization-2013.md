@@ -47,7 +47,7 @@ There is plenty of opportunity, too. <a href="http://biovis.net/">BioVis</a> is 
 So let’s get started!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 21, 2013_
+<PostedBy />
 
 
 <aside class="comments">

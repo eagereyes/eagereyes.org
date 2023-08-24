@@ -30,7 +30,7 @@ In his article <em><a href="http://hybrid.ucsc.edu/SocialComputingLab/Publicatio
 Update: replaced the image with one that I ripped off <a href="http://www.gapminder.org/">gapminder</a>'s <a href="http://www.gapminder.org/downloads/presentations/flowerpowerpoint-2004.html">FlowerPoint</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on April 04, 2007_
+<PostedBy />
 
 
 <aside class="comments">

@@ -22,6 +22,6 @@ Why buy a book when you can just see all the postcards on the <a href="http://ww
 Confusingly, there are two versions of the book, one published by Princeton Architectural Press and one by Particular Books/Penguin. You can get the <a href="https://www.amazon.com/Dear-Data-Giorgia-Lupi/dp/1616895322/ref=sr_1_1?ie=UTF8&amp;qid=1473658730&amp;sr=8-1&amp;keywords=dear+data">U.S. version of the book on Amazon US</a> or the <a href="https://www.amazon.co.uk/Dear-Data-Giorgia-Stefanie-Posavec/dp/1846149061">U.K. version on Amazon UK</a> (or both).
 
 
-_Posted by <a href="/about">Robert Kosara</a> on September 11, 2016. Filed under [book reviews](/tag/book-reviews), [criticism](/section/criticism)._
+<PostedBy />
 
 

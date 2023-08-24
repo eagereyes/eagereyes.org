@@ -51,7 +51,7 @@ There is no contradiction between stories and exploration. Not only can they coe
 Teaser image by <a href="http://www.flickr.com/photos/anthonyalbright/">Anthony Albright</a>, used under creative commons.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on March 23, 2014_
+<PostedBy />
 
 
 <aside class="comments">

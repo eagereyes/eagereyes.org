@@ -57,7 +57,7 @@ Venn diagrams have their uses. They’re great for teaching basic set theory and
 All images from the <a href="http://en.wikipedia.org/wiki/Venn_diagram">Wikipedia page on Venn diagrams</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on January 29, 2012_
+<PostedBy />
 
 
 <aside class="comments">

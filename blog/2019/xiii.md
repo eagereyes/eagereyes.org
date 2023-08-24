@@ -1,8 +1,8 @@
 ---
 title: "XIII"
-description: "This website is nw thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things."
+description: "This website is now thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things."
 date: 2019-10-02 07:32:16
-tags: Meta/Site News
+tags: meta
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/10/number-437931_1920.jpg
 outline: false
 ---
@@ -26,7 +26,7 @@ It shouldn’t have come as a surprise that a YouTube channel is not a way to pr
 This is really what this blog has been about all along: doing my own thing, learning, thinking, exploring. And I’m glad that there are people out there willing to come along for the ride.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 02, 2019_
+<PostedBy />
 
 
 <aside class="comments">

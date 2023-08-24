@@ -18,6 +18,6 @@ There's no point in listing all the information here, since I also wrote <a href
 <a href="http://www.tapestryconference.com">Tapestry 2014</a> will take place on February 26, 2014, in Annapolis, Maryland. If you're interested in attending, <a href="http://www.tapestryconference.com/invitation">request an invitation</a>. We will again be limited to about 100 attendees, so don't wait too long!
 
 
-_Posted by <a href="/about">Robert Kosara</a> on November 06, 2013_
+<PostedBy />
 
 

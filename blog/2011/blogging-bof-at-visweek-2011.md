@@ -27,6 +27,6 @@ Enrico has started a <a href="https://groups.google.com/forum/#!forum/vis-bloggi
 Speaking of Blogging, I’m going to <a href="http://twitter.com/eagereyes">tweet</a> again from the conference, and I will try to write a few slightly longer posts on <a href="https://plus.google.com/105888953757264157781/posts">Google+</a>. The twitter hashtag is <a href="https://twitter.com/#!/search/%23VisWeek">#VisWeek</a>.
 
 
-_Posted by <a href="/about">Robert Kosara</a> on October 19, 2011_
+<PostedBy />
 
 
