@@ -32,7 +32,7 @@ export async function genFeed(config: SiteConfig) {
       id: `${baseUrl}${url}`,
       link: `${baseUrl}${url}`,
       description: frontmatter.description,
-      content: html?.split('<aside')[0],
+      content: html?.split('<aside')[0].replace(/<PostedBy ?\/>/, ''),
       author: [
         {
           name: "Robert Kosara",
