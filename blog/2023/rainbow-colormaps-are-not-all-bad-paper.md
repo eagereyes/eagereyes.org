@@ -33,16 +33,12 @@ The authors of this paper represent both the old and new guard in perceptual and
 
 They end the paper with a call to improve rainbow colormaps instead of dismissing them as always wrong:
 
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<blockquote class="wp-block-quote">
 <em>We understand well enough why rainbows can be bad; let us focus instead on finding out when and why they are good.</em>
-
-<!-- /wp:paragraph --></blockquote>
+</blockquote>
 
 <hr class="wp-block-separator alignwide has-alpha-channel-opacity"/>
 
 Ware, Stone, Albers Szafir, <a href="https://www.computer.org/csdl/magazine/cg/2023/03/10128890/1NdJMHqISnS?fbclid=IwAR2Aq4iRqdmeIUCw5_Oy4vjJDGVek23wNWEGlEJMML82BWyYGplFXqK8uqU">Rainbow Colormaps Are Not All Bad</a>, <em>Computer Graphics &amp; Applications</em>, 2023.
 
-
-_Posted by <a href="/about">Robert Kosara</a> on July 12, 2023_
-
-
+<PostedBy />
