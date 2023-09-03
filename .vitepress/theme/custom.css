@@ -2,9 +2,9 @@
 @import url(https://fonts.googleapis.com/css?family=Space+Grotesk:regular,italic,700,700italic);
 
 :root {
-	--vp-c-brand: rgb(142, 104, 160);
-	--vp-c-brand-light: rgb(176, 128, 198);
-	--vp-c-brand-lighter: rgba(175, 127, 197, 0.674);
+	--vp-c-brand-1: rgb(142, 104, 160);
+	--vp-c-brand-2: rgb(176, 128, 198);
+	--vp-c-brand-3: rgba(175, 127, 197, 0.674);
 	--vp-c-brand-dark: rgb(104, 73, 118);
 	--vp-c-brand-darker: rgb(64, 47, 72);
   
@@ -31,6 +31,27 @@
 	border-top: none;
 	margin: 0 0 0;
 	padding-top: 0;
+}
+
+.vp-doc a {
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.vp-doc a:hover {
+	text-decoration: underline;
+	color: var(--vp-c-brand-1);
+}
+
+.dark .vp-doc a {
+	text-decoration: none;
+	font-weight: 600;
+	color: var(--vp-c-brand-2);
+}
+
+.dark .vp-doc a:hover {
+	text-decoration: underline;
+	color: var(--vp-c-brand-2);
 }
 
 .dark {
