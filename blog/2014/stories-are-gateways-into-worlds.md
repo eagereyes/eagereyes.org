@@ -6,6 +6,8 @@ tags:
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg
 ---
 
+<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg" width="715" height="479" /></p>
+
 # Stories Are Gateways Into Worlds
 
 Moritz Stefaner recently wrote a posting titled <a href="http://well-formed-data.net/archives/1027/worlds-not-stories"><em>Worlds, not stories</em></a>. He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one.
