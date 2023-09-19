@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Canada"
 description: ""
 date: 2007-01-07 21:45:22
-tags: 
+tags: zipscribble
 featuredImage: 
 outline: false
 ---

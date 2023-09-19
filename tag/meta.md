@@ -14,7 +14,7 @@ This site has been around for over 16 years now, and a lot has changed in the wo
 EagerEyes is 15 years old today! Rather than look back at 15 years of visualization and blogging (though I will do a little of that too), I want to reflect a bit on what blogging means today and where things are going. _<a href="/blog/2021/eagereyes-turns-15">Read more…</a>_
 
 ### <a href="/blog/2019/xiii">XIII</a>
-This website is nw thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things. _<a href="/blog/2019/xiii">Read more…</a>_
+This website is now thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things. _<a href="/blog/2019/xiii">Read more…</a>_
 
 ### <a href="/blog/2016/a-decade-of-eagereyes">A Decade of EagerEyes</a>
 So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one. _<a href="/blog/2016/a-decade-of-eagereyes">Read more…</a>_

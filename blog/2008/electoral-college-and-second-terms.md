@@ -50,11 +50,11 @@ While Numbers doesn't have nearly the power of Excel, I really like its approach
 While both Excel and Numbers do provide a large variety of chart types and settings, a lot of manual work is still necessary to make a chart really informative. And many things that should be very simple to do in these programs (including such advanced features as histograms) still require a lot of tweaking and the use of tools like PhotoShop.
 
 <hr />
-See also: <a href="/Applications/PresidentialDemographics.html">Presidential Demographics</a>, <a href="/applications/PresidentialDemographicsII.html">Presidential Demographics II</a>
+See also: <a href="/blog/2007/presidential-demographics">Presidential Demographics</a>, <a href="/blog/2008/presidential-demographics-ii">Presidential Demographics II</a>
 
 The <a href="https://media.eagereyes.org/media/2008/popular-electoral-data.zip">source data</a> for these charts is available.
 
-A <a href="/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts.html">better version of the chart using stacked bar charts</a> is also available.
+A <a href="/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts">better version of the chart using stacked bar charts</a> is also available.
 
 
 <PostedBy />

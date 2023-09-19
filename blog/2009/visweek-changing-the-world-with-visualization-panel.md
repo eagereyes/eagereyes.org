@@ -37,7 +37,7 @@ Marianne says…
 
 Robert Kosara says…
 >	<p>I don't know a charting tool that can create this kind of chart, your best bet will be some kind of drawing/illustration program. On the Mac, there's Illustrator and Photoshop, or lower-priced (and often more modern) alternatives like Acorn, OmniGraffle, etc.</p>
->	<p>It's also a rather bad chart, though, due to the <a href="/basics/Linear-vs-Quadratic-Change.html">linear vs. quadratic change</a> problem.</p>
+>	<p>It's also a rather bad chart, though, due to the <a href="/blog/2008/linear-vs-quadratic-change">linear vs. quadratic change</a> problem.</p>
 
 </aside>
 

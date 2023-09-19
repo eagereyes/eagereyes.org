@@ -11,7 +11,7 @@ outline: false
 
 # Anybody interested in eagerears.org/.com?
 
-I got the domains EagerEars.org and EagerEars.com for my <a href="/blog/2009/new-sister-site-eagerears.html">April Fool's joke</a>. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.
+I got the domains EagerEars.org and EagerEars.com for my <a href="/blog/2009/new-sister-site-eagerears">April Fool's joke</a>. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.
 
 So there are some strings attached here, I will not simply hand the domain over. Neither will I tell you what to do (or provide hosting or any kind of infrastructure), I simply want to make sure the site that you are planning is really what shows up on EagerEars. So we will have to negotiate a hand-over date and conditions to be met. In return, you get a free domain for about eight months and some free advertising from this site.
 

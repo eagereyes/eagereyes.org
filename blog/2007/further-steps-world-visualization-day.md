@@ -9,7 +9,7 @@ outline: false
 
 # Further Steps Towards World Visualization Day
 
-Since my first posting about the <a href="/blog/we-need-a-world-visualization-day.html">need for a World Visualization Day</a>, I have started a basic <a href="http://worldvisualizationday.org/">website</a>, opened a <a href="http://facebook.com/group.php?gid=18677702960">Facebook group</a>, and taken a first shot at <a href="http://worldvisualizationday.org/blog/first-attempt-at-logo.html">designing a logo</a>. I have refined my ideas on the next steps as well as the support needed. Please support this idea by joining the facebook group, commenting here and on the WVD website, and most of all, by attending the <a href="/blog/we-need-a-world-visualization-day.html">BOF meeting at Vis</a>.
+Since my first posting about the <a href="/blog/2007/we-need-a-world-visualization-day">need for a World Visualization Day</a>, I have started a basic <a href="http://worldvisualizationday.org/">website</a>, opened a <a href="http://facebook.com/group.php?gid=18677702960">Facebook group</a>, and taken a first shot at <a href="http://worldvisualizationday.org/blog/first-attempt-at-logo.html">designing a logo</a>. I have refined my ideas on the next steps as well as the support needed. Please support this idea by joining the facebook group, commenting here and on the WVD website, and most of all, by attending the <a href="/blog/2007/we-need-a-world-visualization-day">BOF meeting at Vis</a>.
 
 <p>
 You may have noticed the little news feed below the bookmarks on the right. I will slowly move over discussions of this topic to the dedicated website, so I can again concentrate on other topics here.

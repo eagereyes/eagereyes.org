@@ -36,7 +36,7 @@ How we read pie charts is still an open question: is it angle? Is it area? Is it
 Charts usually show values as visual properties, like the length in a bar chart, the location in a scatterplot, the area in a bubble chart, etc. Unit charts show values as multiples instead. One famous example of these charts is called ISOTYPE, and you may have seen them in information graphics as well. They’re an interesting family of charts and they seem to have some unusual properties that most other charts don’t have. _<a href="/blog/2019/eagereyestv-episode-2-unit-charts-dot-plots-and-isotype-and-what-makes-them-special">Read more…</a>_
 
 ### <a href="/blog/2019/xiii">XIII</a>
-This website is nw thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things. _<a href="/blog/2019/xiii">Read more…</a>_
+This website is now thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things. _<a href="/blog/2019/xiii">Read more…</a>_
 
 ### <a href="/blog/2019/data-intent-and-primary-interpretation">Data: Intent and Primary Interpretation</a>
 Take a JPEG image file and a CSV file. Which of these two is data? Is one of them more obviously data than the other? I think the key difference is the intent behind the data and its primary interpretation. _<a href="/blog/2019/data-intent-and-primary-interpretation">Read more…</a>_

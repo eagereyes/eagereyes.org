@@ -48,7 +48,7 @@ def scanDirectory(directory):
                     else:
                         posts[postYear] = [o]
 
-                    if directory != 'blog/%d' % postYear:
+                    if directory != 'blog/%d' % postYear and directory != 'zipscribble-maps':
                         print('WRONG YEAR (should be %d): %s' % (postYear, directory+'/'+entry.name))
 
     return files
@@ -132,7 +132,6 @@ writeIndex(tags['basics'], 'tag/basics.md', 'Visualization Basics')
 writeIndex(tags['journalism'], 'tag/journalism.md', 'Journalism')
 writeIndex(tags['meta'], 'tag/meta.md', 'Meta/Site News')
 
-
 allPosts = sorted(allPosts, key=lambda f: f['date'], reverse=True)
 
 for p in allPosts:
@@ -141,5 +140,9 @@ for p in allPosts:
     p['path'] = p['path'][:-3]
 
 dump(allPosts[:20], open('home-feed.json', 'w'))
-
 print('%d posts' % len(allPosts))
+
+zipScribbles = scanDirectory('zipscribble-maps')
+writeIndex(zipScribbles, 'tag/zipscribble.md', 'ZIPScribble Maps')
+writeIndex(zipScribbles, 'zipscribble-maps/index.md', 'ZIPScribble Maps')
+print(f'{len(zipScribbles)} ZIPScribbles')

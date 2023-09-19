@@ -22,7 +22,7 @@ The term <a href="http://en.wikipedia.org/wiki/Cargo_cult">cargo cult</a> descri
 
 Richard Feynman coined the term <a href="http://en.wikipedia.org/wiki/Cargo_cult_science">cargo cult science</a>, by which he meant work that is using scientific methods but that still fails to produce science. This even includes scientists, when they are not honest about their biases and let them taint their work: just going through the motions without understanding the actual issues is not enough.
 
-Today, the term is used broadly for misappropriation and use of techniques without understanding what they are for. Just because they were successfully applied in one area does not mean they will also work in another (e.g., <a href="/blog/2009/visualization-is-not-periodic.html">periodic systems</a>).
+Today, the term is used broadly for misappropriation and use of techniques without understanding what they are for. Just because they were successfully applied in one area does not mean they will also work in another (e.g., <a href="/blog/2009/visualization-is-not-periodic">periodic systems</a>).
 
 ## Chart Fun
 
@@ -42,7 +42,7 @@ This is, quite simply, nonsense. There is a place for art, and there is a place 
 
 The discussion about the sublime and how it might apply to visualization is outside the scope of this little article. I wrote <a href="/publications/Kosara-IV-2007">a paper discussing this issue</a> a while ago in case you are interested, and I am planning a posting or two about this topic here.
 
-But the point is that the mountaintop images entirely obscure the data. This is not visualization. It may be art, but it's not some kind of hybrid of visualization and art. Just because data was involved at some point does not make this a visualization. The problem here is not that this was done, but that it claims to be something that it is not (unlike the <a href="/blog/visual-mapping-of-poetry.html">poetry "visualization"</a>, for example).
+But the point is that the mountaintop images entirely obscure the data. This is not visualization. It may be art, but it's not some kind of hybrid of visualization and art. Just because data was involved at some point does not make this a visualization. The problem here is not that this was done, but that it claims to be something that it is not (unlike the <a href="/blog/2006/visual-mapping-of-poetry-html">poetry "visualization"</a>, for example).
 
 ## Data Flow
 

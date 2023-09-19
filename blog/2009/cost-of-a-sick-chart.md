@@ -24,7 +24,7 @@ Communicating the cost of healthcare to the general public is certainly a great 
 
 We're obviously looking at some kind of pie chart. Different pie slices have different colors and sizes. There is a slider that selects the age to look at, from 18 to 79.
 
-Costs are encoded in the radius of each pie slice (the mapping takes <a href="/basics/Linear-vs-Quadratic-Change.html">the quadratic growth of area</a> into account, but see below). The angle of the slice is the number of cases in GE's dataset that covers around 500,000 people. Divided into individual ages and diseases, that still leads to fairly small numbers per pie slice, though.
+Costs are encoded in the radius of each pie slice (the mapping takes <a href="/blog/2008/linear-vs-quadratic-change">the quadratic growth of area</a> into account, but see below). The angle of the slice is the number of cases in GE's dataset that covers around 500,000 people. Divided into individual ages and diseases, that still leads to fairly small numbers per pie slice, though.
 
 The different shades show personal cost vs. insurer cost, with the personal cost closer to the center. As expected, the insurer cost tends to be much larger than the personal cost. The absolute numbers (though also the personal numbers) are still staggering, though. The numbers are shown next to the chart for the currently selected disease.
 

@@ -17,7 +17,7 @@ Unit charts are not common in visualization, and they are often considered a bad
 
 <p align="center"><img class="aligncenter size-full wp-image-8771" src="https://media.eagereyes.org/wp-content/uploads/2015/04/ISOTYPE-population-livestock.jpg" alt="ISOTYPE-population-livestock" width="620" height="789" /></p>
 
-For a <a href="/publications/Haroz_CHI_2015.html">paper presented this week</a> at <a href="http://chi2015.acm.org">CHI 2015</a>, <a href="http://steveharoz.com/">Steve Haroz</a>, <a href="http://www.psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html">Steven Franconeri</a> (both at Northwestern University), and I conducted a number of studies to gauge how well people could read these charts, how well they would remember what they had seen, and how engaging they found them. The different experiments had varying numbers of participants, mostly in the range of 20-50.
+For a <a href="/publications/Haroz-CHI-2015">paper presented this week</a> at <a href="http://chi2015.acm.org">CHI 2015</a>, <a href="http://steveharoz.com/">Steve Haroz</a>, <a href="http://www.psychology.northwestern.edu/people/faculty/core/profiles/steven-franconeri.html">Steven Franconeri</a> (both at Northwestern University), and I conducted a number of studies to gauge how well people could read these charts, how well they would remember what they had seen, and how engaging they found them. The different experiments had varying numbers of participants, mostly in the range of 20-50.
 
 Here is the kind of image we used in the study to represent the ISOTYPE style. We focus on just the idea of repeating small icons. Icon shapes were drawn from a large number of different types of things, animals, etc.
 

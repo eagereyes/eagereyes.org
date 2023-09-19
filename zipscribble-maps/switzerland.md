@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Switzerland"
 description: ""
 date: 2007-01-07 21:54:42
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Switzerland-color-names-borders.png
 outline: false
 ---

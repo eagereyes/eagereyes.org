@@ -36,7 +36,7 @@ Below is an interactive version of a spiral display (implemented using <a href="
 
 Move the slider to control the period of the spiral. Change the display type between spiral and bars with the radio buttons on the left.
 
-The two datasets available are: <em>births</em> is a dataset listing the <a href="http://www.dartmouth.edu/~chance/teaching_aids/data.html">number of people born each day in the U.S. during the year 1978</a>, <em>downloads</em> is the <a href="/applications/appstore-billion-apps-live-visualization.html">number of app downloads per hour from Apple's AppStore during the run-up to the billionth app download in April 2009</a>. They both show very clear periodic patterns, at different periods.
+The two datasets available are: <em>births</em> is a dataset listing the <a href="http://www.dartmouth.edu/~chance/teaching_aids/data.html">number of people born each day in the U.S. during the year 1978</a>, <em>downloads</em> is the <a href="/blog/2009/appstore-billion-apps-live-visualization-html">number of app downloads per hour from Apple's AppStore during the run-up to the billionth app download in April 2009</a>. They both show very clear periodic patterns, at different periods.
 
 I realize that showing the period as a number will bias the exploration, but try to ignore it and only look at the visualization at first. Also, this is a very simple prototype: in a real program, there would be a way to find out the actual numbers, what days/hours they correspond to, etc. But this should be sufficient to show the point I am interested in here, additional features can be added fairly easily.
 

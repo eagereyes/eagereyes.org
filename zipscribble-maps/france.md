@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: France"
 description: ""
 date: 2007-01-07 21:46:26
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-France-color-borders.png
 outline: false
 ---

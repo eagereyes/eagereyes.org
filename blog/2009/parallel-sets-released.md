@@ -11,7 +11,7 @@ outline: false
 
 # Parallel Sets Released!
 
-After <a href="/blog/2009/a-spike-of-interest-in-parallel-sets.html">an initial commitment</a>, <a href="/blog/2009/parallel-sets-release-date.html">an announcement</a>, and <a href="/blog/2009/parsets-delay.html">a delay</a>, we are proud to announce that the <a href="/parallel-sets">Parallel Sets</a> application has been released! Mac OS X and Windows versions are ready to be downloaded, and the source code is available for your enlightenment and/or entertainment.
+After <a href="/blog/2009/a-spike-of-interest-in-parallel-sets">an initial commitment</a>, <a href="/blog/2009/parallel-sets-release-date">an announcement</a>, and <a href="/blog/2009/parsets-delay">a delay</a>, we are proud to announce that the <a href="/parallel-sets">Parallel Sets</a> application has been released! Mac OS X and Windows versions are ready to be downloaded, and the source code is available for your enlightenment and/or entertainment.
 
 This initial release is mostly meant to provide a solid program that works well. It includes a few demo data sets, and it is possible to download additional ones from a repository or import your own. The program needs to pre-process the data and stores it in a local database for flexibility and quick access. While it can import numerical data, it currently only shows categorical data in the visualization.
 

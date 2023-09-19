@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: The Netherlands"
 description: ""
 date: 2007-01-07 21:50:08
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Netherlands-color-names-borders.png
 outline: false
 ---

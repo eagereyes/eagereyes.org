@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Australia"
 description: ""
 date: 2007-01-07 21:43:28
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Australia-color-borders.png
 outline: false
 ---

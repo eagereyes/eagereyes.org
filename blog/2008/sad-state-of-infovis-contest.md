@@ -14,7 +14,7 @@ In some fields, contests drive research and the entire field forward. Those cont
 
 I've been one of the InfoVis contest co-chairs for two years, and I wanted to make it more appealing by learning from past mistakes. My main point of reference was the <a href="http://sun.cs.lsus.edu/iv06/">US census data</a> that had been used in 2006. The data was in huge, fixed-width ASCII files that were difficult to parse. The encoding of values was explained in a large PDF, and needed to be extracted by hand. That year, the contest only got a handful of submissions, and I could understand why.
 
-So for the <a href="/InfoVisContest2007Data.html">IMDB movie data set last year</a>, I wrote a parser and Java classes so people could get started more quickly. There was also a way to connect the data to the <a href="http://www.netflixprize.com/">Netflix prize data</a>, which had to be downloaded separately. While we did get a nice number of submissions, nobody made use of the Netflix data.
+So for the <a href="/blog/2007/infovis-contest-2007-data">IMDB movie data set last year</a>, I wrote a parser and Java classes so people could get started more quickly. There was also a way to connect the data to the <a href="http://www.netflixprize.com/">Netflix prize data</a>, which had to be downloaded separately. While we did get a nice number of submissions, nobody made use of the Netflix data.
 
 ## Challenge or Exercise?
 
@@ -40,7 +40,7 @@ One goal that we did not meet up to now is to have the next year's data availabl
 
 Another question is finding data that people can relate to and that has some significance. The movie data sparked people's interest, but I felt bad about it being more popular than the census data. Undoubtedly, the census data had much more potential for us to learn something about the social structure of the US and perhaps even to find interesting new connections between say, poverty and the mix of ethnicities in different regions (or something a bit less obvious).
 
-But relevant data may not be the sexiest. I also feel that many people like toy data sets of one kind or another because they don't have to deal with results that might have implications other than what movie genres are more popular. InfoVis seems to be entirely opposed to political statements, even if grounded in sound data and visualization. And I think that's a <a href="/communication/Visual-Display-of-Relevant-Information.html">big problem in making InfoVis relevant</a>.
+But relevant data may not be the sexiest. I also feel that many people like toy data sets of one kind or another because they don't have to deal with results that might have implications other than what movie genres are more popular. InfoVis seems to be entirely opposed to political statements, even if grounded in sound data and visualization. And I think that's a <a href="/blog/2008/visual-display-of-relevant-information">big problem in making InfoVis relevant</a>.
 
 ## Quo Vadis, InfoVis Contest?
 

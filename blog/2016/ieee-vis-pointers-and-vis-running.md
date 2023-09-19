@@ -30,7 +30,7 @@ But enough about others, back to me. Here's my plan for the week so far.
 
 <ul>
     <li>Saturday: Doctoral Colloquium</li>
-    <li>Sunday morning: <a href="http://c4pgv.swansea.ac.uk">C4PGV workshop</a> (which, obviously, stands for <em>Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization</em>) to present a paper with Aritra Dasgupta and Enrico Bertini, <a href="/publications/Kosara-C4PGV-2016.html"><em>Reflecting on the Design Criteria for Explanatory Visualizations</em></a>.</li>
+    <li>Sunday morning: <a href="http://c4pgv.swansea.ac.uk">C4PGV workshop</a> (which, obviously, stands for <em>Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization</em>) to present a paper with Aritra Dasgupta and Enrico Bertini, <a href="/publications/Kosara-C4PGV-2016"><em>Reflecting on the Design Criteria for Explanatory Visualizations</em></a>.</li>
     <li>Monday: BELIV to present my paper, <a href="/papers/paper-an-empire-built-on-sand"><em>An Empire Built On Sand</em></a>.</li>
     <li>Also Monday: <a href="http://visinpractice.org"><em>Visualization in Practice</em> workshop</a>. Okay, I won't be there (I have to yell at people at BELIV), but my colleague Justin Talbot has done an amazing job organizing this workshop. Also, what do the initial letters of <em>Vis in Practice</em> spell? That's right: VIP!</li>
     <li>Wednesday: Blogging meetup, see below</li>

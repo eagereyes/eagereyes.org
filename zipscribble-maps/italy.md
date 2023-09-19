@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Italy"
 description: ""
 date: 2007-01-07 21:49:24
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Italy-color-names-borders.png
 outline: false
 ---

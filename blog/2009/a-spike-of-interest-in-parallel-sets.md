@@ -17,7 +17,7 @@ The article itself is concerned with the representation of risk, and is really i
 
 Parallel Sets is a technique for visualizing categorical data. The main idea was to get away from representing individual data points, and instead show sets and subsets of items with certain combinations of criteria. This works very well for data like customer surveys, census data, and many other kinds of purely categorical or mixed categorical and continuous data - like my standard example, the people on board the Titanic (see above). In a way, ParSets is a mix between parallel coordinates and treemaps/mosaic plots.
 
-The technique was developed a few years ago by my student Fabian Bendix, myself, and Helwig Hauser. We published a paper at InfoVis 2005, an expanded version of which appeared in TVCG, <em><a href="/publications/Kosara_TVCG_2006.html">Parallel Sets: Interactive Exploration and Visual Analysis of Categorical Data</a></em>.
+The technique was developed a few years ago by my student Fabian Bendix, myself, and Helwig Hauser. We published a paper at InfoVis 2005, an expanded version of which appeared in TVCG, <em><a href="/publications/Kosara-TVCG-2006">Parallel Sets: Interactive Exploration and Visual Analysis of Categorical Data</a></em>.
 
 I have done some further work on the technique as well as worked on a new implementation. Currently, I am working with a colleague and a student in bioinformatics on using ParSets (and other techniques) as a new way of looking at genomic data.
 

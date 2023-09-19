@@ -11,7 +11,7 @@ outline: false
 
 # Expressive Visualization, Updated Presidents Chart
 
-I used the <a href="/Applications/PresidentialDemographics.html">Presidential Demographics</a> chart in my talk at the <a href="/blog/panel-social-data-visualization.html">Impact of Social Data Visualization</a> panel at <a href="/blog/infovis-2007-infovis-for-the-masses.html">InfoVis 2007</a>, and got some interesting responses to that. There is some interest in printing this out, so I have made a new version of the chart that is now also <a href="/blog/infovis-2007-infovis-for-the-masses.html">available as a PDF</a>. Stephen Few used Joseph Berk's term "interocular traumatic impact" – a visualization that hits you between the eyes – to describe it. And this is exactly what visualization can do extremely effectively: visual communication, and not just of data.
+I used the <a href="/blog/2007/presidential-demographics">Presidential Demographics</a> chart in my talk at the <a href="/blog/2007/panel-social-data-visualization">Impact of Social Data Visualization</a> panel at <a href="/blog/2007/infovis-2007-infovis-for-the-masses">InfoVis 2007</a>, and got some interesting responses to that. There is some interest in printing this out, so I have made a new version of the chart that is now also <a href="/blog/2007/infovis-2007-infovis-for-the-masses">available as a PDF</a>. Stephen Few used Joseph Berk's term "interocular traumatic impact" – a visualization that hits you between the eyes – to describe it. And this is exactly what visualization can do extremely effectively: visual communication, and not just of data.
 
 Visualization can tell a story, just like a comic/graphic novel or a silent movie can. Expressive visualization takes the idea of visualization as visual communication further, and uses almost exclusively visual means to make a point. And it doesn't even have to be dumbed down or prettied up for that purpose: a simple chart can be much more effective in delivering such a message.
 
@@ -35,7 +35,7 @@ I am interested in finding more examples of visualizations that make a point –
 >	
 
 Robert Kosara says…
->	Of course, how could I forget my own <a href="/Techniques/SquarePieCharts.html">Women in IT</a> square pie charts? 
+>	Of course, how could I forget my own <a href="/blog/2006/square-pie-charts">Women in IT</a> square pie charts? 
 >	
 
 Robert Kosara says…

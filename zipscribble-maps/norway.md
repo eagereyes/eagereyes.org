@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Norway"
 description: ""
 date: 2007-01-07 21:51:31
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Norway-color-borders.png
 outline: false
 ---

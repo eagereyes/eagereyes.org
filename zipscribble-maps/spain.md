@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Spain"
 description: ""
 date: 2007-01-07 21:52:59
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Spain-color-names-borders.png
 outline: false
 ---
@@ -11,7 +11,7 @@ outline: false
 
 # ZIPScribble Map: Spain
 
-<a href="http://en.wikipedia.org/wiki/Spain">Spain</a> has an interesting internal structure in terms of postal codes. Rather than a lot of chaotic scribble, many of the lines do not cross over, a bit like on the <a href="/Applications/ZIPTPCMap.html">Travelling Presidential Candidate Map</a>. The only excaption is Galicia (GA), with its very dense scribble structure.
+<a href="http://en.wikipedia.org/wiki/Spain">Spain</a> has an interesting internal structure in terms of postal codes. Rather than a lot of chaotic scribble, many of the lines do not cross over, a bit like on the <a href="/blog/2006/travelling-presidential-candidate-map">Travelling Presidential Candidate Map</a>. The only excaption is Galicia (GA), with its very dense scribble structure.
 
 See also <a href="/zipscribble-maps/interactive-zipscribble-map#ES">the interactive version</a>!
 

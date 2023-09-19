@@ -44,13 +44,13 @@ Even if all that was possible, would that be desirable? What would be the point?
 
 This is what is commonly known as expression and communication. Assuming there has been no downright lying, we have to accept any interpretation of the data as valid, just as we have to accept any statistical measure. But by emphasizing different aspects of the data, by picking subsets, or by fiddling with settings, we can present different points of view. That may make things more complex, but also more interesting.
 
-Does that mean that anything goes? Any visualization is good and useful? Of course not, but we need to broaden our ideas and criteria for good visualizations. There is never only one truth about a data set, regardless of how it is analyzed or presented. This was a major point of discussion at the <a href="/blog/panel-social-data-visualization.html">Social Data Visualization Panel</a>, and perhaps the crucial one. Academics can't control visualization, nobody will ask us to sanction every visualization that is produced. We need to learn to let go.
+Does that mean that anything goes? Any visualization is good and useful? Of course not, but we need to broaden our ideas and criteria for good visualizations. There is never only one truth about a data set, regardless of how it is analyzed or presented. This was a major point of discussion at the <a href="/blog/2007/infovis-2007-infovis-for-the-masses">Social Data Visualization Panel</a>, and perhaps the crucial one. Academics can't control visualization, nobody will ask us to sanction every visualization that is produced. We need to learn to let go.
 
 ## Conclusions
 
 I don't disagree with van Wijk's points about subjectivity, but I think we are doing ourselves a disservice by trying to eliminate, control, or even just downplay it. Subjectivity is a great strength that may be daunting to the technically minded person, but that makes things like photography, email, language, etc. so powerful. Just like there is no central authority for which truths can be expressed in English, there is no central authority for visualization. Why would we want things to be different?
 
-2007 was the year of <a href="/blog/panel-social-data-visualization.html">social visualization</a>. With any luck, 2008 will be when people will start embracing the subjective nature of visualization and realize that visualization is communication.
+2007 was the year of <a href="/blog/2007/infovis-2007-infovis-for-the-masses">social visualization</a>. With any luck, 2008 will be when people will start embracing the subjective nature of visualization and realize that visualization is communication.
 
 <strong>Update:</strong> Jorge Camoes has posted an <a href="http://charts.jorgecamoes.com/minard-tufte-kosslyn-godin-napoleon/">interesting discussion of Minard's <em>Napoleon's March</em></a> that provides food for thought along similar lines.
 

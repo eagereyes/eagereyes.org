@@ -9,7 +9,7 @@ outline: false
 
 # List of Influences: Chaomei Chen
 
-The second <a href="/blog/series-lists-of-influences.html">list of influences</a> is by <a href="http://www.pages.drexel.edu/~cc345/">Chaomei Chen</a>. He is an associate professor at Drexel University and the editor-in-chief of the <em><a href="http://www.palgrave-journals.com/ivs/index.html">Information Visualization</a></em> journal. He has also authored or co-authored six books, the most recent of which is <em><a href="http://www.amazon.com/exec/obidos/ASIN/1852337893/">Information Visualization: Beyond the Horizon</a></em>. His research interests include the visualization of social networks in general and co-citation networks in scientific publications.
+The second <a href="/tag/influences">list of influences</a> is by <a href="http://www.pages.drexel.edu/~cc345/">Chaomei Chen</a>. He is an associate professor at Drexel University and the editor-in-chief of the <em><a href="http://www.palgrave-journals.com/ivs/index.html">Information Visualization</a></em> journal. He has also authored or co-authored six books, the most recent of which is <em><a href="http://www.amazon.com/exec/obidos/ASIN/1852337893/">Information Visualization: Beyond the Horizon</a></em>. His research interests include the visualization of social networks in general and co-citation networks in scientific publications.
 
 Chaomei sent me not only a list, but also a very interesting introduction and comments on each of the papers. Everything below this paragraph are his words. I have added links to online versions of the papers where possible. Some of the links require access to the ACM digital library or JSTOR. The book links go to Amazon.com.
 

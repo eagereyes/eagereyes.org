@@ -2,7 +2,7 @@
 title: "The Interactive ZIPScribble Map"
 description: "The idea behind the ZIPScribble Map is simple: Connect all the ZIP or postal codes in a country in ascending order. Does that produce chaos or some kind of pattern? Use this interactive map to explore."
 date: 2012-01-15 09:00:32
-tags: ZIPScribble Maps
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-teaser.png
 outline: false
 ---

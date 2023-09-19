@@ -15,7 +15,7 @@ This was my first experiment with live-blogging, and it was quite interesting. I
 
 The posting frequency reflected my level of interest and fatigue: I tend to need a break after three days of conference, which is why postings got sparse on Wednesday. It was also sometimes a challenge to write about the previous paper while listening to the next presentation, and I ended up only talking about one or two per session because of that. There were also some longer sessions that I attended (a workshop and a tutorial) during which I did not post anything.
 
-Writing while listening also didn't give me any time to review and reflect what I was writing. While that may be the way a lot of blogs work, it's certainly not my preferred way of writing (and <a href="/blog/2008/two-years-of-eagereyes.html">this is not a blog</a>, after all ;). I had to go back and correct typos and other mistakes a few times.
+Writing while listening also didn't give me any time to review and reflect what I was writing. While that may be the way a lot of blogs work, it's certainly not my preferred way of writing (and <a href="/blog/2008/two-years-of-eagereyes">this is not a blog</a>, after all ;). I had to go back and correct typos and other mistakes a few times.
 
 I only wrote about what was presented at the conference, I did not read the papers. The presentation certainly makes some things look more exciting than they really are, and may even hurt good work. Hadley commented on one entry that he was not excited about a paper I liked, and I've been contacted about another posting I made where I said that I found a paper less than exciting. Putting out my personal impressions opens the door for criticism, and also corrections.
 

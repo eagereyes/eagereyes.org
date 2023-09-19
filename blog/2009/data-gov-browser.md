@@ -31,7 +31,7 @@ Even with that, there are still a lot of obvious problems. The geographic covera
 
 Update: Interestingly, they seem to have updated the categories. There are no more contiguous US categories, and only three "entire US" ones. The frequency dimension is also reduced from 30 or so to only a few.
 
-While I believe that it was a good idea to get the site off the ground (and <a href="/data/dish-best-served-raw.html">make some raw data available</a>) rather than spend years to come up with the perfect taxonomy, this little experiment shows what happens when data from different sources is simply put into one place without too much though. If data.gov is really going to grow like expected (there were supposed to be 100,000 datasets there by the end of last week), this will become an ever bigger problem. The search and very limited browsing on the site will likely become entirely useless.
+While I believe that it was a good idea to get the site off the ground (and <a href="/blog/2009/dish-best-served-raw">make some raw data available</a>) rather than spend years to come up with the perfect taxonomy, this little experiment shows what happens when data from different sources is simply put into one place without too much though. If data.gov is really going to grow like expected (there were supposed to be 100,000 datasets there by the end of last week), this will become an ever bigger problem. The search and very limited browsing on the site will likely become entirely useless.
 
 
 <PostedBy />

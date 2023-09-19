@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Hungary"
 description: ""
 date: 2007-01-07 21:48:54
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Hungary-color-names-borders.png
 outline: false
 ---

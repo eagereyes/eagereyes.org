@@ -39,7 +39,7 @@ Representation is not only a topic in art, and certainly not confined to the vis
 >	Ghandi represents ("exemplifies") the spirit of nonviolent protest.
 >	Let a represent ("substitute" or "stand for") b.
 
-Clearly, not all of these will be relevant for visualization, but more are than would appear at first sight. Is a <a href="/criticism/ChernoffFaces.html">Chernoff face</a> a depiction, description, symbolization, caricature, or merely a substitute for the underlying data? How do we know which kind of representation we are using, and what does that mean for how we design visualizations? How do metaphors fit into the picture?
+Clearly, not all of these will be relevant for visualization, but more are than would appear at first sight. Is a <a href="/blog/2007/chernoff-faces">Chernoff face</a> a depiction, description, symbolization, caricature, or merely a substitute for the underlying data? How do we know which kind of representation we are using, and what does that mean for how we design visualizations? How do metaphors fit into the picture?
 
 ## Mimesis
 

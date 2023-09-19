@@ -85,7 +85,7 @@ In all other cases, do not use a pie chart. The pie chart is the wrong chart typ
 
 ## Alternative: Squaring the Pie
 
-A little-known alternative to the round pie chart is the square pie or waffle chart. It consists of a square that is divided into 10x10 cells, making it possible to read values precisely down to a single percent. Depending on how the areas are laid out (as square as possible seems to be the best idea), it is very easy to compare parts to the whole. The example below is from a redesign I did a while ago about <a href="/Techniques/SquarePieCharts.html">women and girls in IT and computing-related fields</a>.
+A little-known alternative to the round pie chart is the square pie or waffle chart. It consists of a square that is divided into 10x10 cells, making it possible to read values precisely down to a single percent. Depending on how the areas are laid out (as square as possible seems to be the best idea), it is very easy to compare parts to the whole. The example below is from a redesign I did a while ago about <a href="/blog/2006/square-pie-charts">women and girls in IT and computing-related fields</a>.
 
 <p align="center"><img src="https://media.eagereyes.org/media/attachments/NCWIT-AdvancedPlacement.png" alt="Girls in IT-related areas waffle chart" width="505" height="176" border="0" /></p>
 

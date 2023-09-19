@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/media/2009/printingpress.jpg
 
 # Starting Your Own Visualization Blog
 
-Getting started with your own blog is so easy today that many people never get to actually doing it. One of the goals of the <a href="/viswebworkshop.html"><em>Putting Visualization on the Web</em></a> workshop was to get more visualization blogs and websites going. So here are some pointers and a few tips on how to avoid some pitfalls that are especially dangerous for technical people. The goal is not to point to millions of resources, but to narrow down the choices so you can get started writing.
+Getting started with your own blog is so easy today that many people never get to actually doing it. One of the goals of the <em>Putting Visualization on the Web</em> workshop was to get more visualization blogs and websites going. So here are some pointers and a few tips on how to avoid some pitfalls that are especially dangerous for technical people. The goal is not to point to millions of resources, but to narrow down the choices so you can get started writing.
 
 ## The Danger of Knowing Too Much
 

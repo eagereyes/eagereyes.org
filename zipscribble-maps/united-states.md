@@ -2,7 +2,7 @@
 title: "The US ZIPScribble Map"
 description: "What would happen if you were to connect all the ZIP codes in the US in ascending order? Is there a system behind the assignment of ZIP codes? Are they organized in a grid? The result is surprising and much more interesting than expected."
 date: 2006-12-01 09:00:18
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders.png
 outline: false
 ---

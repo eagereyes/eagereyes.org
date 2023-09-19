@@ -13,7 +13,7 @@ The <a href="http://www.mcachicago.org/">Museum of Contemporary Art</a> (MCA) in
 
 In fact, the exhibit is highly frustrating. Expecting art, you suddenly feel like you stumbled into a museum of natural history, or of science and technology. There is nothing wrong with those, but that's not what I come to the MCA for. And the exhibit hardly even tries to be artistic – or daring, for that matter. If you have any idea of what is going on in the world in terms of energy use and trying to reduce it, you won't see much that is new here.
 
-This makes for a nice case study of how different art and information really are. See also my <a href="/VisCrit/InformativeArt.html">thoughts on Informative Art</a>, and there is also a forthcoming posting here on a related matter (coming soon). It is a big mistake to just treat them like they are one and the same. They're not.
+This makes for a nice case study of how different art and information really are. See also my <a href="/blog/2006/informative-art">thoughts on Informative Art</a>, and there is also a forthcoming posting here on a related matter (coming soon). It is a big mistake to just treat them like they are one and the same. They're not.
 
 
 <PostedBy />

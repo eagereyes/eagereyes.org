@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Sweden"
 description: ""
 date: 2007-01-07 21:53:29
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Sweden-color-borders.png
 outline: false
 ---

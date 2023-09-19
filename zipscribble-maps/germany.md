@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Germany"
 description: ""
 date: 2007-01-07 21:47:20
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Germany-color-names.png
 outline: false
 ---

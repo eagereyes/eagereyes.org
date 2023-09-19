@@ -50,7 +50,7 @@ One challenge is to separate the different tracks that are happening at the same
 >	<p>Cant' wait to read blogs and tweets!</p>
 
 Robert Kosara says…
->	<p>... are not what we are using ;) It's just a few folks with laptops and enough spare time on their hands. It might not be all that real-time (see <a href="/blog/2008/lessons-learned-from-live-blogging-visweek-2008.html">last year</a>), and we're not going to post pictures of new products the second they are revealed. But we'll do our best to provide pointers to people who are not there, comment on what's going on, and give you some idea what you're missing.</p>
+>	<p>... are not what we are using ;) It's just a few folks with laptops and enough spare time on their hands. It might not be all that real-time (see <a href="/blog/2008/lessons-learned-from-live-blogging-visweek-2008">last year</a>), and we're not going to post pictures of new products the second they are revealed. But we'll do our best to provide pointers to people who are not there, comment on what's going on, and give you some idea what you're missing.</p>
 
 <a href="http://cpbotha.net/" rel="nofollow noopener" target="_blank">Charl Botha</a> says…
 >	<p>Great effort summarising all live-blogging and twitter efforts in this post Robert!  I sure am looking forward to linking up with all of you next week, that is to say if I can find time between all that staring at my little netbook screen typing away. :P</p>

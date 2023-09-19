@@ -41,7 +41,7 @@ This map is a lot more technical and lacks the slightly artsy appearance of the 
 
 <hr />
 
-After a comment below, I <a href="/blog/2007/what-travelling-presidential-candidates-save.html">calculated the actual savings</a> of the TPC Map as compared to the standard ZIPScribble Map.
+After a comment below, I <a href="/blog/2007/what-travelling-presidential-candidates-save">calculated the actual savings</a> of the TPC Map as compared to the standard ZIPScribble Map.
 
 
 <PostedBy />
@@ -71,7 +71,7 @@ Anonymous says…
 >	You found the shortest path...but how long (or short) is it?  Frequent flyer miles hang in the balance...
 
 Robert Kosara says…
->	Thanks for asking, I <a href="/blog/what-travelling-presidential-candidates-save.html">did the math</a>.
+>	Thanks for asking, I <a href="/blog/what-travelling-presidential-candidates-save">did the math</a>.
 
 </aside>
 

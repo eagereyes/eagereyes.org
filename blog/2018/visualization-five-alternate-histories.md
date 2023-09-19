@@ -48,7 +48,7 @@ This may be a little optimistic, but there are many ideas in education that pres
 
 ## Journalism, Public Health, Information Design
 
-There’s a fine line between education and journalism. Where do <em>National Geographic</em> or <em>Popular Science</em> fall? If journalism didn’t invent visualization several times, it certainly embraced it. This has happened over the last ten years or so, but it goes back at least to the late 1800s. Scott Klein has <a href="/link/scott-klein-on-the-history-of-data-journalism">collected some great examples</a> and ran a (now seemingly defunct) newsletter documenting his finds. Perhaps the difference between education and journalism would be that the latter could be much more opinionated when that was called for.
+There’s a fine line between education and journalism. Where do <em>National Geographic</em> or <em>Popular Science</em> fall? If journalism didn’t invent visualization several times, it certainly embraced it. This has happened over the last ten years or so, but it goes back at least to the late 1800s. Scott Klein has <a href="/blog/2016/scott-klein-on-the-history-of-data-journalism">collected some great examples</a> and ran a (now seemingly defunct) newsletter documenting his finds. Perhaps the difference between education and journalism would be that the latter could be much more opinionated when that was called for.
 
 Public health is another obvious one, and it's easy to draw a line from Florence Nightingale to Hans Rosling. Oddly, it seems that communication has never been a priority in public health, or at least not one that got the attention it needed to churn out Nightingales and Roslings by the thousands, as it should have.
 

@@ -15,7 +15,7 @@ The recipients of the Nobel Peace Prize 2007 are <a href="http://www.nytimes.com
 
 The charts and the underlying data have of course been the subject of much scrutiny and ridicule, mostly from people who do not agree with the message of the movie. A thorough critique of these is certainly in order, but the fascinating thing is that these abstract charts help to further his story. Similar to <a href="http://video.google.com/videoplay?docid=2670820702819322251">Hans Rosling's talk</a> (which I will keep linking to until everybody has watched it at least five times), the visual presentation of abstract data is what gets the message across - even if the representation is itself rather abstract.
 
-Visualization and information graphics are excellent tools for presentation, and their impact is being felt in the world. Visualization has to step out of the ivory tower and become aware of its power. <a href="/blog/we-need-a-world-visualization-day.html">We need to get the message out!</a>
+Visualization and information graphics are excellent tools for presentation, and their impact is being felt in the world. Visualization has to step out of the ivory tower and become aware of its power. <a href="/blog/2007/we-need-a-world-visualization-day">We need to get the message out!</a>
 
 
 <PostedBy />

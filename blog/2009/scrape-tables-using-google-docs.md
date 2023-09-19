@@ -11,7 +11,7 @@ outline: false
 
 # The Simple Way to Scrape an HTML Table: Google Docs
 
-<a href="/data/dish-best-served-raw.html">Raw data is the best data</a>, but a lot of public data can still only be found in tables rather than as directly machine-readable files. One example is the FDIC's <a href="http://www.fdic.gov/bank/individual/failed/banklist.html">List of Failed Banks</a>. Here is a simple trick to scrape such data from a website: Use Google Docs.
+<a href="/blog/2009/dish-best-served-raw">Raw data is the best data</a>, but a lot of public data can still only be found in tables rather than as directly machine-readable files. One example is the FDIC's <a href="http://www.fdic.gov/bank/individual/failed/banklist.html">List of Failed Banks</a>. Here is a simple trick to scrape such data from a website: Use Google Docs.
 
 The table on that page is even relatively nice because it includes some JavaScript to sort it. But a large table with close to 200 entries is still not exactly the best way to analyze that data.
 

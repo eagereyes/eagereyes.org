@@ -96,7 +96,7 @@ There is not enough room in this microblog posting for a complete description of
 
 ## Shaping of Information
 
-I don't know if I've mentioned it, but <a href="/blog/2008/shaping-of-information-by-visual-metaphors.html">we had a paper</a> in the Design session today. Caroline did an excellent presentation, and we got six or seven questions (plus at least the same number again of people who walked up to us afterwards to ask questions and make suggestions). While the questions were largely focused on things we could have done differently (especially Ben Shneiderman's), they were all very constructive and certainly very valid. This is only a first step, and I think we're on to something here (and I'm not the only one who thinks that). So this could have hardly gone any better: a lot of people are going to think about this, and hopefully this will spark a bunch of similar experiments. We can certainly use more work on representation, metaphors, etc.
+I don't know if I've mentioned it, but <a href="/blog/2008/shaping-of-information-by-visual-metaphors">we had a paper</a> in the Design session today. Caroline did an excellent presentation, and we got six or seven questions (plus at least the same number again of people who walked up to us afterwards to ask questions and make suggestions). While the questions were largely focused on things we could have done differently (especially Ben Shneiderman's), they were all very constructive and certainly very valid. This is only a first step, and I think we're on to something here (and I'm not the only one who thinks that). So this could have hardly gone any better: a lot of people are going to think about this, and hopefully this will spark a bunch of similar experiments. We can certainly use more work on representation, metaphors, etc.
 
 ## Cerebral
 
@@ -128,11 +128,11 @@ The best poster this year is by <a href="http://www.caip.rutgers.edu/~mariacv/">
 
 ## InfoVis Contest 2.0
 
-When I complained some time ago about <a href="/blog/2008/sad-state-of-infovis-contest.html">the sad state of the InfoVis Contest</a>, I wasn't kidding. We just presented the single submission we got (Patrick Gage Kelley and Daniel R. Rashid), who got an Honorable Mention. I'm stepping down as a co-chair after my two years, and the team of Petra Isenberg (who is new), Bongshin Lee, and Jing Yang are changing the contest to an exhibit. They will no longer publish a dataset, but rather ask for submissions of interesting insights gained with visualization tools. They want to collect a portfolio of uses of InfoVis, which should be interesting.
+When I complained some time ago about <a href="/blog/2008/sad-state-of-infovis-contest">the sad state of the InfoVis Contest</a>, I wasn't kidding. We just presented the single submission we got (Patrick Gage Kelley and Daniel R. Rashid), who got an Honorable Mention. I'm stepping down as a co-chair after my two years, and the team of Petra Isenberg (who is new), Bongshin Lee, and Jing Yang are changing the contest to an exhibit. They will no longer publish a dataset, but rather ask for submissions of interesting insights gained with visualization tools. They want to collect a portfolio of uses of InfoVis, which should be interesting.
 
 ## Who Votes for Donut Charts?
 
-John Peltier would be jumping up and down if he were here, seeing Geoffrey Draper present <a href="http://www.cs.utah.edu/~draperg/research/">his work on visualizing exit poll data</a>. He's using what is essentially a donut chart for the data. The interaction is not bad, but the visualization is really close to useless. You can't see different subsets at the same time, and the donut makes comparing between different categories difficult. There are much better ways to show this kind of data, like <a href="/references/Kosara_TVCG_2006.html">Parallel Sets</a>. Their goal was for this to be useful for non-experts, which it undoubtedly was – but I wonder if a better visualization might get close in that regard and still be a better visualization.
+John Peltier would be jumping up and down if he were here, seeing Geoffrey Draper present <a href="http://www.cs.utah.edu/~draperg/research/">his work on visualizing exit poll data</a>. He's using what is essentially a donut chart for the data. The interaction is not bad, but the visualization is really close to useless. You can't see different subsets at the same time, and the donut makes comparing between different categories difficult. There are much better ways to show this kind of data, like <a href="/publications/Kosara-TVCG-2006">Parallel Sets</a>. Their goal was for this to be useful for non-experts, which it undoubtedly was – but I wonder if a better visualization might get close in that regard and still be a better visualization.
 
 ## Those Who Forget History ...
 
@@ -140,7 +140,7 @@ Heer's work on history management in Tableau is interesting. There seems to be a
 
 ## Distributed Cognition for InfoVis Theory
 
-Criticism of the sad state of theory in InfoVis. Yes! <a href="http://www.cc.gatech.edu/~zcliu/">Zhicheng Liu</a> presented work he has done with Nancy Nersessian, John Stasko. His take on internal and external knowledge and the way they can be applied in InfoVis is a great basis for further work. He also quoted from <a href="/blog/2008/shaping-of-information-by-visual-metaphors.html">our paper</a> (yes, another link to our stuff, but what can I do?). Stasko and his students have been doing some excellent foundational work in the last years, it's great to see that.
+Criticism of the sad state of theory in InfoVis. Yes! <a href="http://www.cc.gatech.edu/~zcliu/">Zhicheng Liu</a> presented work he has done with Nancy Nersessian, John Stasko. His take on internal and external knowledge and the way they can be applied in InfoVis is a great basis for further work. He also quoted from <a href="/blog/2008/shaping-of-information-by-visual-metaphors">our paper</a> (yes, another link to our stuff, but what can I do?). Stasko and his students have been doing some excellent foundational work in the last years, it's great to see that.
 
 ## Interaction with Probes
 
@@ -152,11 +152,11 @@ The Best Paper by Elmqvist, Dragicevic, and Fekete has an interesting take on us
 
 ## Yay! Best Paper Honorable Mention!
 
-I knew this was an <a href="/blog/2008/shaping-of-information-by-visual-metaphors.html">awesome paper</a>. We're one of three Honorable Mentions for the Best Paper Award. Miss Caroline's talk in the <a href="http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#design">Design session</a> tomorrow at your own peril!
+I knew this was an <a href="/blog/2008/shaping-of-information-by-visual-metaphors">awesome paper</a>. We're one of three Honorable Mentions for the Best Paper Award. Miss Caroline's talk in the <a href="http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#design">Design session</a> tomorrow at your own peril!
 
 ## Papers Fast Forward Starts with a Bang
 
-Wow, the Papers Fast Forward starts with a bang! Extremely well done "movie opening" for the <a href="http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#best_paper">best paper</a>, certainly the most elaborate paper preview I have ever seen. <a href="http://jheer.org/">Jeff Heer</a> also did a great job with his minimalist list of quotations (and no talking). Caroline also did a great cliffhanger-style preview of <a href="/blog/2008/shaping-of-information-by-visual-metaphors.html">our paper</a>. Looks like it's going to be an interesting few days.
+Wow, the Papers Fast Forward starts with a bang! Extremely well done "movie opening" for the <a href="http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#best_paper">best paper</a>, certainly the most elaborate paper preview I have ever seen. <a href="http://jheer.org/">Jeff Heer</a> also did a great job with his minimalist list of quotations (and no talking). Caroline also did a great cliffhanger-style preview of <a href="/blog/2008/shaping-of-information-by-visual-metaphors">our paper</a>. Looks like it's going to be an interesting few days.
 
 ## And so it begins ...
 

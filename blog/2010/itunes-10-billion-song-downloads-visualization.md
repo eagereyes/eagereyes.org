@@ -10,7 +10,7 @@ featuredImage: https://media.eagereyes.org/media/2010/iTunes10billion-teaser.png
 
 <p align="center"><img src="https://media.eagereyes.org/media/2010/iTunes10billion-teaser.png" width="522" height="175" alt="iTunes10billion-teaser" /></p>
 
-Apple's iTunes Store is <a href="http://www.apple.com/itunes/10-billion-song-countdown/">counting down</a> to the ten-billionth (10,000,000,000th) song download. As in <a href="/vis/iTMS.html">previous</a> <a href="/applications/appstore-billion-apps-live-visualization.html">cases</a> when they were running a download counter on their website, I am harvesting the data and visualizing it below.
+Apple's iTunes Store is <a href="http://www.apple.com/itunes/10-billion-song-countdown/">counting down</a> to the ten-billionth (10,000,000,000th) song download. As in <a href="/blog/2006/itunes-billion-song-downloads">previous</a> <a href="/blog/2009/appstore-billion-apps-live-visualization-html">cases</a> when they were running a download counter on their website, I am harvesting the data and visualizing it below.
 
 <p align="center"><img src="https://media.eagereyes.org/media/2010/iTunes10billion-ersatz3.png" width="550" height="675" alt="iTunes10billion ersatz image" /></p>
 

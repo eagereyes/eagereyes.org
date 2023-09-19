@@ -12,7 +12,7 @@ After covering some <a href="http://protovis.org/">Protovis</a> <a href="/tutori
 
 While Protovis requires more work to set up charts, it pays off when you want to do something beyond the typical chart types, or when you want to add interaction. You are not limited to any fixed set of charts, but can create any combination you want, or even something entirely new.
 
-In this part of the tutorial, we will create <a href="/applications/PresidentialDemographicsII.html">a chart showing the lives and office terms of all U.S. presidents</a>. The chart is a basic life lines "waterfall" chart, with a few small twists. A basic version of the chart can be created in your favorite spreadsheet, but making it look a particular way or being able to interact is a different matter.
+In this part of the tutorial, we will create <a href="/blog/2008/presidential-demographics-ii">a chart showing the lives and office terms of all U.S. presidents</a>. The chart is a basic life lines "waterfall" chart, with a few small twists. A basic version of the chart can be created in your favorite spreadsheet, but making it look a particular way or being able to interact is a different matter.
 
 Here is a small part of it, showing only the last few presidents. Again, if you are reading this in Internet Explorer or a news reader, you will only see static images and not be able to interact. Go to <a href="/tutorials/protovis-primer-part-3">the tutorial website</a> to get a better idea how it works.
 

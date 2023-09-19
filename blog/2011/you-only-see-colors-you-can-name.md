@@ -42,7 +42,7 @@ What the video unfortunately does not discuss is why they have these names for c
 
 The impact of language and higher-level concepts on visualization is the key to understanding how visualization actually works. Abstract concepts like color, shape, size, etc. seen in isolation elicit associations and embellishments that influence what we see and how we think about it.
 
-Caroline Ziemkiewicz's work on <a href="/blog/2008/shaping-of-information-by-visual-metaphors.html">visual and verbal metaphors in tree visualization</a> and <a href="/papers/2010/laws-of-attraction">the role of gravity in visualization</a> is a case in point. Even seemingly pure and abstract depictions of data are influenced by assumptions about the world and/or the way we think about the structure of the data.
+Caroline Ziemkiewicz's work on <a href="/blog/2008/shaping-of-information-by-visual-metaphors">visual and verbal metaphors in tree visualization</a> and <a href="/papers/2010/laws-of-attraction">the role of gravity in visualization</a> is a case in point. Even seemingly pure and abstract depictions of data are influenced by assumptions about the world and/or the way we think about the structure of the data.
 
 The beauty of visualization is not only its visual nature and all the complexity it brings with it, but especially the deep connections we're only discovering as we dive deeper into it.
 

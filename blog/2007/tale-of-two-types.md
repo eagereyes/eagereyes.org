@@ -12,7 +12,7 @@ featuredImage: https://media.eagereyes.org/media/attachments/salavon_american_va
 
 The term <em>visualization</em> is used to mean different things in different contexts, and even visualization that is based on data can be done for different reasons and with different goals. Mixing up these different types of visualization leads to misunderstandings and confusion. Here is an attempt at teasing apart the two major types of data-based visualization, and understanding the differences.
 
-This discussion is based on a <a href="/publications/Kosara_IV_2007.html">recent paper</a> by yours truly that deals with visualization in a larger context and how the different types are different. That paper will also be the subject of another posting in about a week.
+This discussion is based on a <a href="/publications/Kosara-IV-2007">recent paper</a> by yours truly that deals with visualization in a larger context and how the different types are different. That paper will also be the subject of another posting in about a week.
 
 ## Pragmatic Visualization
 

@@ -12,7 +12,7 @@ featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king
 
 Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.
 
-It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of <a href="/publications/Dasgupta-EuroVis-2015.html">a paper</a> we had first submitted to EuroVis 2012, which then went through several different journals and conferences, to finally end up at EuroVis 2015. That somebody would openly talk about that seemed to surprise people.
+It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of <a href="/publications/Dasgupta-EuroVis-2015">a paper</a> we had first submitted to EuroVis 2012, which then went through several different journals and conferences, to finally end up at EuroVis 2015. That somebody would openly talk about that seemed to surprise people.
 
 So here's more of that. Two stories of pairs of papers, one that didn't work and one that did.
 

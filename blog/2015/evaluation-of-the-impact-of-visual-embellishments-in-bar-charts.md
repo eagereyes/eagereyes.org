@@ -11,7 +11,7 @@ outline: false
 
 # Paper: An Evaluation of the Impact of Visual Embellishments in Bar Charts
 
-Information graphics often use variations and embellishments of standard charts that may distort the way people read the data. But how bad are these distortions really? In <a href="/publications/Skau-EuroVis-2015.html">a paper to be presented</a> at <a href="http://www.eurovis2015.it">EuroVis</a> this week, Drew Skau, Lane Harrison, and I tested their effects in an experiment.
+Information graphics often use variations and embellishments of standard charts that may distort the way people read the data. But how bad are these distortions really? In <a href="/publications/Skau-EuroVis-2015">a paper to be presented</a> at <a href="http://www.eurovis2015.it">EuroVis</a> this week, Drew Skau, Lane Harrison, and I tested their effects in an experiment.
 
 Based on a survey of common infographics tropes, we came up with a number of common patterns. We then simplified those to reduce them to just the embellishment type, removing many elements like color, complex patterns, external decorations, etc. We ended up with these six embellishment archetypes, which we tested against a standard bar chart.
 

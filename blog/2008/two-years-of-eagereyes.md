@@ -31,11 +31,11 @@ This is not a blog. When people call this site my blog, I usually argue with the
 
 <em>The round pegs in the square holes.</em>
 
-This site is also about original thought and projects, rather than rehashing or pointing at what other people do. Because, let's face it, that is exactly what most blogs do, including a few visualization blogs. I have no interest in that. Of course, this means that I can't update this site every day. Projects like the <a href="/Applications/ZIPScribbleMap.html">ZIPScribble</a> <a href="/Applications/MoreZIPScribbleMaps.html">Map</a>, the <a href="/vis/iTMS.html">iTunes Store Visualization</a>, the <a href="/Techniques/SquarePieCharts.html">square pie chart</a> redesign, <a href="/applications/PresidentialDemographicsII.html">Presidential Demographics</a>, etc. take time. Plus, I also have a <a href="http://cs.uncc.edu/~rkosara/">day job</a>.
+This site is also about original thought and projects, rather than rehashing or pointing at what other people do. Because, let's face it, that is exactly what most blogs do, including a few visualization blogs. I have no interest in that. Of course, this means that I can't update this site every day. Projects like the <a href="/zipscribble-maps/">ZIPScribble Map</a>, the <a href="/blog/2006/itunes-billion-song-downloads">iTunes Store Visualization</a>, the <a href="/blog/2006/square-pie-charts">square pie chart</a> redesign, <a href="/blog/2008/presidential-demographics-ii">Presidential Demographics</a>, etc. take time. Plus, I also have a <a href="http://cs.uncc.edu/~rkosara/">day job</a>.
 
 <em>The ones who see things differently.</em>
 
-This site is about passion. I <a href="/topics/VisCrit">criticize</a> what others do, and I can be very frank in my criticism. But I scare because I care. I want to get my readers' attention, and I want to point out things that I think are wrong. Some of my statements may be harsh, a bit more sweeping than is called for, and sometimes maybe wrong. But among reasonable adults, I think a frank and open discussion must be possible. And just as I am ready to dole out criticism, I am very receptive of what others have to say about my points of view.
+This site is about passion. I <a href="/tag/criticism">criticize</a> what others do, and I can be very frank in my criticism. But I scare because I care. I want to get my readers' attention, and I want to point out things that I think are wrong. Some of my statements may be harsh, a bit more sweeping than is called for, and sometimes maybe wrong. But among reasonable adults, I think a frank and open discussion must be possible. And just as I am ready to dole out criticism, I am very receptive of what others have to say about my points of view.
 
 <em>They're not fond of rules.</em>
 

@@ -22,7 +22,7 @@ While the original article is rather infuriating, the rejoinder is a great examp
 Here are the links to the articles:
 <ul>
 	<li>Andrew Gelman and Anthony Unwin, <em><a href="http://www.stat.columbia.edu/~gelman/research/published/vis14.pdf">Infovis and Statistical Graphics: Different Goals, Different Looks</a></em> (original article, PDF)</li>
-	<li>Robert Kosara, <em><a href="/publications/Kosara_JCGS_2013.html">InfoVis Is So Much More: A Comment on Gelman and Unwin and an Invitation to Consider the Opportunities</a></em> (my response)</li>
+	<li>Robert Kosara, <em><a href="/publications/Kosara-JCGS-2013">InfoVis Is So Much More: A Comment on Gelman and Unwin and an Invitation to Consider the Opportunities</a></em> (my response)</li>
 	<li>Andrew Gelman and Anthony Unwin, <em><a href="http://www.stat.columbia.edu/~gelman/research/published/visreply3.pdf">Tradeoffs in Information Graphics</a></em> (rejoinder, PDF)</li>
 </ul>
 The other responses are not available online yet, from what I can tell. I will link to them if/when I find them, or once the complete set is published in the journal.

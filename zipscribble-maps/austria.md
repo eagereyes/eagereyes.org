@@ -2,7 +2,7 @@
 title: "ZIPScribble Map: Austria"
 description: ""
 date: 2007-01-07 21:44:45
-tags: 
+tags: zipscribble
 featuredImage: https://media.eagereyes.org/media/attachments/ZIPScribbleMaps/ZIPScribbleMap-Austria-color-names.png
 outline: false
 ---
