@@ -20,8 +20,8 @@ async function loadPosts(numPosts:number, render:boolean) {
     // sort in reverse chronological order
     posts.sort(
       (a, b) =>
-        +new Date(a.frontmatter.date as string) -
-        +new Date(b.frontmatter.date as string)
+        +new Date(b.frontmatter.date as string) -
+        +new Date(a.frontmatter.date as string)
     )
   
     // remove index pages
