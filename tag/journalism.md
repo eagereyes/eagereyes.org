@@ -7,6 +7,9 @@ next: false
 
 # Journalism
 
+### <a href="/blog/2024/nytimes-web-flash-player">The New York Times now has a web Flash player</a>
+Before we had D3 and all this fancy web technology, interactive news pieces on the web were usually built using Adobe Flash. Since the demise of Flash, they have all benn broken, but now the NY Times has added a web-based Flash player to their archives so they can be experienced again in all their interactive glory! _<a href="/blog/2024/nytimes-web-flash-player">Read more…</a>_
+
 ### <a href="/blog/2015/data-journalism-in-the-19th-century">Link: Data Journalism in the 19th Century</a>
 Scott Klein of ProPublica has written a great story about an early use of data in journalism, and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today. _<a href="/blog/2015/data-journalism-in-the-19th-century">Read more…</a>_
 

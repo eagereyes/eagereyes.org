@@ -37,6 +37,7 @@ export default defineConfig({
 			{ text: 'Admin', items: [
 					{ text: 'About', link: '/about' },
 					{ text: 'Contact', link: '/contact' },
+					// { text: 'Follow & Subscribe', link: '/subscribe' },
 					{ text: 'License', link: '/license' },
 				] },
 		],

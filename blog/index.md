@@ -9,6 +9,10 @@ next: false
 
 <p></p>
 
+## <a href="/blog/2024/">Blog 2024</a>
+
+<p></p>
+
 ## <a href="/blog/2023/">Blog 2023</a>
 
 <p></p>

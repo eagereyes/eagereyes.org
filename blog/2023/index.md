@@ -1,7 +1,9 @@
 ---
 title: Index for Blog 2023
 outline: false
-next: false
+next:
+  text: Blog 2024
+  link: /blog/2024/
 prev:
   text: Blog 2022
   link: /blog/2022/
