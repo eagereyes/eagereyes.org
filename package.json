@@ -7,6 +7,6 @@
   },
   "devDependencies": {
     "feed": "^4.2.2",
-    "vitepress": "^1.0.0-rc.40"
+    "vitepress": "^1.0.0-rc.45"
   }
 }
