@@ -15,7 +15,7 @@ Remco Chang, Alvin Lee, Mohammad Ghoniem, Robert Kosara, William Ribarsky, Jing 
 	year = 2008,
 	title = {Scalable and Interactive Visual Analysis of Financial Wire Transactions for Fraud Detection},
 	author = {Remco Chang and Alvin Lee and Mohammad Ghoniem and Robert Kosara and William Ribarsky and Jing Yang and Evan Suma and Caroline Ziemkiewicz and Daniel Kern and Agus Sudjianto},
-	venue = {Information Visualization},
+	journal = {Information Visualization},
 	volume = {7},
 	number = {1},
 	pages = {63–76},

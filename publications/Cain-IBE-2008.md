@@ -12,7 +12,7 @@ Aurora Cain, Robert Kosara, and Cynthia Gibas, A Data Warehouse for Collection a
 	year = 2008,
 	title = {A Data Warehouse for Collection and Visual Analysis of Genomic Data},
 	author = {Aurora Cain and Robert Kosara and Cynthia Gibas},
-	venue = {Institute of Biological Engineering Annual Conference},
+	booktitle = {Institute of Biological Engineering Annual Conference},
 }
 ```
 

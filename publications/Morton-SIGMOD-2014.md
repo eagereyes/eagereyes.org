@@ -15,7 +15,7 @@ Kristi Morton, Magdalena Balazinska, Dan Grossman, Robert Kosara, and Jock Macki
 	year = 2014,
 	title = {Public Data and Visualizations: How are Many Eyes and Tableau Public Used for Collaborative Analytics?},
 	author = {Kristi Morton and Magdalena Balazinska and Dan Grossman and Robert Kosara and Jock Mackinlay},
-	venue = {SIGMOD Record},
+	journal = {SIGMOD Record},
 	volume = {43},
 	number = {2},
 	pages = {17–22},

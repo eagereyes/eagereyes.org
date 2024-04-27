@@ -15,7 +15,7 @@ Remco Chang, Ginette Wessel, Robert Kosara, Eric Sauda, and William Ribarsky, <a
 	year = 2007,
 	title = {Legible Cities: Multi-Resolution Visualization of Urban Relationships},
 	author = {Remco Chang and Ginette Wessel and Robert Kosara and Eric Sauda and William Ribarsky},
-	venue = {Transactions on Visualization and Computer Graphics (Proceedings InfoVis)},
+	journal = {Transactions on Visualization and Computer Graphics (Proceedings InfoVis)},
 	volume = {13},
 	number = {6},
 	pages = {1169–1175},

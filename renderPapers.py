@@ -99,7 +99,13 @@ for paper in papers:
         outFile.write('\tyear = %s,\n' % getYear(paper))
         for key in paper:
             if not key[0] == '_':
-                outFile.write('\t%s = {%s},\n' % (key, paper[key]))
+                if key == 'venue':
+                    if paper['_type'] == 'article':
+                        outFile.write('\tjournal = {%s},\n' % (paper[key]))
+                    else:
+                        outFile.write('\tbooktitle = {%s},\n' % (paper[key]))
+                else:
+                    outFile.write('\t%s = {%s},\n' % (key, paper[key]))
         outFile.write('}\n```\n')
 
 

@@ -15,7 +15,7 @@ Robert Kosara, Silvia Miksch, Helwig Hauser, Johann Schrammel, Verena Giller, an
 	year = 2002,
 	title = {Useful Properties of Semantic Depth of Field for Better F+C Visualization},
 	author = {Robert Kosara and Silvia Miksch and Helwig Hauser and Johann Schrammel and Verena Giller and Manfred Tscheligi},
-	venue = {Proceedings of the Joint Eurographics – IEEE TCVG Symposium on Visualization (VisSym)},
+	booktitle = {Proceedings of the Joint Eurographics – IEEE TCVG Symposium on Visualization (VisSym)},
 	pages = {205–210},
 	doi = {10.2312/VisSym.VisSym02.205-210},
 	abstract = {This paper presents the results of a thorough user study that was performed to assess some features and the general usefulness of Semantic Depth of Field (SDOF). Based on these results, concrete hints are given on how SDOF can be used for visualization. SDOF was found to be a very effective means for guiding the viewer’s attention and for giving him or her a quick overview of a data set. It can also very quickly be perceived, and therefore provides an efficient visual channel. Semantic Depth of Field is a focus+context (F+C) technique that uses blur to point the user to the most relevant objects. It was inspired by the depth of field (DOF) effect in photography, which serves a very similar purpose.},
