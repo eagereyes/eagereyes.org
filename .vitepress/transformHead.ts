@@ -24,12 +24,22 @@ export default async function transformHead(context: TransformContext) {
         ]);
     } else {
         head = head.concat([
-            [ 'meta', {property: 'og:title', content: fm.title } ],
-            [ 'meta', {property: 'og:description', content: fm.description } ],
-            [ 'meta', {property: 'og:image', content: fm.featuredImage} ],
             [ 'meta', {property: 'og:url', content: url } ],
             [ 'meta', {property: 'og:type', content: 'article' } ],
         ]);
+
+        if (fm.title && fm.title.length > 0) {
+            head = head.concat([ [ 'meta', {property: 'og:title', content: fm.title } ] ]);
+        }
+
+        if (fm.featuredImage && fm.featuredImage.length > 0) {
+            head = head.concat([ [ 'meta', {property: 'og:image', content: fm.featuredImage } ] ]);
+        }
+
+        if (fm.description && fm.description.length > 0) {
+            head = head.concat([ [ 'meta', {property: 'og:description', content: fm.description } ] ]);
+        }
+
     }
 
     // Twitter Cards
