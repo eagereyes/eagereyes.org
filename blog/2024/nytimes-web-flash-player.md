@@ -1,6 +1,6 @@
 ---
 title: "The New York Times now has a web Flash player"
-description: "Before we had D3 and all this fancy web technology, interactive news pieces on the web were usually built using Adobe Flash. Since the demise of Flash, they have all benn broken, but now the NY Times has added a web-based Flash player to their archives so they can be experienced again in all their interactive glory!"
+description: "Before we had D3 and all this fancy web technology, interactive news pieces on the web were usually built using Adobe Flash. Since the demise of Flash, they have all been broken, but now the NY Times has added a web-based Flash player to their archives so they can be experienced again in all their interactive glory!"
 date: 2024-01-08 20:07:34
 tags: journalism
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png
