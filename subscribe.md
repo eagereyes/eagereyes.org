@@ -6,4 +6,14 @@ next: false
 
 # How to follow or subscribe
 
-<iframe frameborder="0" id="iframewin" width="100%" height="100%" src="https://zcvmf-zgfm.maillist-manage.com/ua/Optin?od=11287ecc7b0fd5&zx=159db02&tD=110846cf4c117f3c1&sD=110846cf4c1181c94"></iframe>
+There are multiple ways to subscribe to get notified when I post new stuff here.
+
+## RSS
+
+If you're reading an RSS reader like Reeder or similar, use [this link](https://eagereyes.org/feed) to subscribe.
+
+## Email
+
+Fill in the form below to get an email when I post something new (name is optional). If you want to unsubscribe, you can just use the unsubscribe link at the bottom of each email.
+
+<div style="text-align: center" class="sender-form-field" data-sender-form-id="m0twyjsgdwp9zztl43v"></div>

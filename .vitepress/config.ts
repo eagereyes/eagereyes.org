@@ -37,7 +37,7 @@ export default defineConfig({
 			{ text: 'Admin', items: [
 					{ text: 'About', link: '/about' },
 					{ text: 'Contact', link: '/contact' },
-					// { text: 'Follow & Subscribe', link: '/subscribe' },
+					{ text: 'Follow & Subscribe', link: '/subscribe' },
 					{ text: 'License', link: '/license' },
 				] },
 		],
@@ -93,6 +93,23 @@ export default defineConfig({
 			gtag('js', new Date());
 			
 			gtag('config', 'G-PDJZL25VMX');`
+		],
+		[
+			'script',
+			{},
+			`(function (s, e, n, d, er) {
+    s['Sender'] = er;
+    s[er] = s[er] || function () {
+      (s[er].q = s[er].q || []).push(arguments)
+    }, s[er].l = 1 * new Date();
+    var a = e.createElement(n),
+        m = e.getElementsByTagName(n)[0];
+    a.async = 1;
+    a.src = d;
+    m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://cdn.sender.net/accounts_resources/universal.js', 'sender');
+  sender('358bda7d146916')
+`
 		]
 	],
 
