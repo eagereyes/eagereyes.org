@@ -11,8 +11,8 @@ const tagList = page.value.frontmatter.tags ? page.value.frontmatter.tags.split(
 </script>
 
 <template>
-    <p>Posted by <a href="/about">Robert Kosara</a> on {{ date.toLocaleString("en-US", {month: 'long'}) }} {{ date.getDate() }}, {{ date.getFullYear() }}.
-        <span v-if="page.frontmatter.tags" >Filed under <span v-html="tagList" />.
-        </span>
-    </p>
+	<p>Posted by <a href="/about">Robert Kosara</a> on {{ date.toLocaleString("en-US", {month: 'long'}) }} {{ date.getDate() }}, {{ date.getFullYear() }}.
+		<span v-if="page.frontmatter.tags" >Filed under <span v-html="tagList" />.
+		</span>
+	</p>
 </template>
