@@ -8,9 +8,13 @@ next: false
 
 There are multiple ways to subscribe to get notified when I post new stuff here.
 
+## Social media
+
+The easiest way to follow this blog is to [follow me on LinkedIn](https://linkedin.com/in/rkosara/) (where I only post professional news and blog updates) or [do the same on BlueSky](https://bsky.app/profile/eagereyes.org) (where I chat a lot more).
+
 ## RSS
 
-If you're reading an RSS reader like Reeder or similar, use [this link](https://eagereyes.org/feed) to subscribe.
+If you're using an RSS reader like Reeder, Feedly, or similar, use [this link](https://eagereyes.org/feed) to subscribe.
 
 ## Email
 
