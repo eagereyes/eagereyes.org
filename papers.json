@@ -1,5 +1,18 @@
 [
 	{
+		"_key": "Kosara:CGA:2024",
+		"_type": "article",
+		"title": "Business Data Visualization, Beyond the Boring",
+		"author": "Robert Kosara",
+		"venue": "Computer Graphics and Applications (CG&A)",
+		"volume": 44,
+		"number": 5,
+		"pages": "153-158",
+		"doi": "10.1109/MCG.2024.3407489",
+		"abstract": "Business uses of charts and visualizations, and by extension business users, are usually considered mundane and boring. But they, too, want to get their audience's attention, emphasize a point they're making, or simply break out of the monotony of the limited palette of common chart types. I believe that there is ample opportunity to develop new approaches and build better tools that go far beyond the current one-size-fits-all approach to creating charts - much more than is currently recognized in the visualization community. The first step is to reexamine our notions of who business users are, and what they actually want and need.",
+		"_thumb": "/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png"
+	},
+	{
 		"_key": "Kosara:CGA:2023",
 		"_type": "article",
 		"title": "Notebooks for Data Analysis and Visualization: Moving Beyond the Data",

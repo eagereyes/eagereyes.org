@@ -4,6 +4,10 @@ title: Robert Kosara's Publications
 
 # Robert Kosara's Publications
 
+## 2024
+
+- Robert Kosara, <a href="Kosara-CGA-2024">Business Data Visualization, Beyond the Boring</a>, _Computer Graphics and Applications (CG&A)_, vol. 44, no. 5, pp. 153-158, 2024.
+
 ## 2023
 
 - Robert Kosara, <a href="Kosara-CGA-2023">Notebooks for Data Analysis and Visualization: Moving Beyond the Data</a>, _Computer Graphics and Applications (CG&A)_, vol. 43, no. 1, pp. 91-96, 2023.
