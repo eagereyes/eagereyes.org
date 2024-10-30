@@ -1,6 +1,6 @@
 ---
 title: "Paper: Business Data Visualization, Beyond the Boring"
-description: "The words _business_ and _data visualization_ probably put you to sleep before you even reach the end of this sentence. But wake up! There's actually a lot of interesting work to be done in this area, if only we give it a chance."
+description: "The words 'business' and 'data visualization' probably put you to sleep before you even reach the end of this sentence. But wake up! There's actually a lot of interesting work to be done in this area, if only we give it a chance."
 date: 2024-10-29 21:14:33
 tags: paper
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png
