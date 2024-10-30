@@ -7,6 +7,9 @@ next: false
 
 # Papers
 
+### <a href="/blog/2024/paper-business-data-vis-beyond-boring">Paper: Business Data Visualization, Beyond the Boring</a>
+The words _business_ and _data visualization_ probably put you to sleep before you even reach the end of this sentence. But wake up! There's actually a lot of interesting work to be done in this area, if only we give it a chance. _<a href="/blog/2024/paper-business-data-vis-beyond-boring">Read more…</a>_
+
 ### <a href="/blog/2023/paper-notebooks-for-data-analysis-and-visualization">Paper: Notebooks for Data Analysis and Visualization</a>
 Computational notebooks offer an alternative to the common GUI-based tools used for data visualization and BI today. In this new paper, I talk about what they are, their pros and cons, and how research could fill in some important gaps. _<a href="/blog/2023/paper-notebooks-for-data-analysis-and-visualization">Read more…</a>_
 
