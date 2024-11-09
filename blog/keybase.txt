@@ -1,0 +1,87 @@
+==================================================================
+https://keybase.io/eagereyes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://eagereyes.org
+  * I am eagereyes (https://keybase.io/eagereyes) on keybase.
+  * I have a public key with fingerprint 2B70 D328 1EB5 B64D 2976  9D42 255F A76E A0BC 3AC1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010112e219b3d38e7ef40cc0890cf7af372f49ee8addb9002d6ca6f9c73e93f5a8a30a",
+      "fingerprint": "2b70d3281eb5b64d29769d42255fa76ea0bc3ac1",
+      "host": "keybase.io",
+      "key_id": "255fa76ea0bc3ac1",
+      "kid": "010112e219b3d38e7ef40cc0890cf7af372f49ee8addb9002d6ca6f9c73e93f5a8a30a",
+      "uid": "578af8c4e3a3b79642d66b7205519a00",
+      "username": "eagereyes"
+    },
+    "merkle_root": {
+      "ctime": 1731127344,
+      "hash_meta": "03cae2db69607d7668cecf1e759ff6091a25d4feebd0002d162453caba9ecacb",
+      "seqno": 26282694
+    },
+    "revoke": {
+      "sig_ids": [
+        "8170678eabd1deaf3a905711930cf15d67b193e8f2486fb6e1a24b0aa69f4e9a0f"
+      ]
+    },
+    "service": {
+      "hostname": "eagereyes.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1731127383,
+  "expire_in": 157680000,
+  "prev": "ff1a817376daac3fd8a7f0b5877b6f5465853f59b82cd243d13c8652d88df7a2",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMPSAnicrZNtbBRFGMfvoBCpWoogL+KHZrW20NLszu7O7B6iBEOoCoKiQoFymd2Z
+vS5tb69726NHPWhrUV5qsTQVDLFSIcA1CBUFpEGbkoYm1BoI7xqgYEGolXcpgYDO
+NkYT4kc/7e7s//k//+c3M21PDvQkelP9W4Mb9/tavR0HosWeQNblOaWcZpEo5yvl
+8mn/gxYQGnb8+SbhfBwv8IIAKBBUTSSiQhE1JF7XeUXldQNhQ0TAkFRKFUyIpvI8
+IFDH0FB1JFJVNGSsYJHHXCZnmMEAtUO2GXSYLdAQT0SgCFSTNSgRoCKoEgkAWTYw
+ghTzmi5iXWCFeVbYrWDhNBymWabF1tiHvz/ef+j/59zF/XYyUrCh6BIVsaghFUpM
+DzUEeFkWVMzzrjBM7SAupExNMRuVRmmYi2VyhdTOL6B+27Icl67umK5GQCLLh0RJ
+YhPicJ6/kDrYzS3qmAKiQRXyiCAIFZ3qhkCRrBoG5FUBA5lIBqUa4d3UAgSSzGo0
+rFId6xoLEqZFQYvzAQgUAFWJRbBpxMqnbvewGWDgwpxvPqcIiIdIoVgjAqGMCFZ5
+GQmCKjJCgkwg0tg7VQwgKdDQIGWtJY3HGKqGRNnQBpcbc7vZEVPvN3d36lECWZYd
+YJlCtuVYulXAfuU5Tijsc8k40ZCrXUw1/98ufs0MEnZQWEWE2mHTCjJSTPkINEXM
+5GhJyLSp33QVMoIKo8G7fWiEWRqGgNl8IoIEY100iIKRwWuygpAGDVmCsiKzTVY1
+BegESCIRRF2BMiCKQtjpAP9SFADLiQPMk6ELYqfYplzsQOuCBI830TN40AD3BnkS
+hyT/c6/ahj4YMW/0V8b5TWvbP0zKifz5y9OT54FV1dtHJserG6oKS68uGPy+0PjD
+kYdVBXOzIpVLY19+tDkpe2D5tPZDRfb58T9dXJ91qqIuftIzZeWinutph3cmdc5t
+mrY5zys8XL4mdu1Q93fDcWZpwYUddd6uvVdaZxTFux+L1C1srU8PJKMLQx4Hrcf7
+5GPTBz1zpiEpnpSc+tSP3J0R9Z1VAU/z2bcezL5d7Oy/Mealcb59Gb+bZE7w6JRe
+/b3PjkzaW1t4cexviR8f7iCzF0UT0u7f8I6YmKDtHjj83IF3V6sXX+3o611wdM+z
+++7XbBtVvK4yePJu2ZpvX1s8a0lLRWrChKJO7XY1P/VS7ueVez4tK7mZkrI6uyKr
+4fTrG9p7zk6fsLzrm/hzdMzpigx/58HCsq+3D3rx6PoZ066tuVO/sxHHtnkb0ku6
+P/k5Ovr6rlivL8/cuqHGOPJEg7e6Pbd2xzC9uFwBZCL//cx475maghXv1DafmHUf
+jLx5bE96x+Ubq+JT7jWuDC3b8nxb38xroS4hcvjgpg/G5T44Zi1JLn1zUXni5L62
+yWnOF7TlSlnzlmXXK3oGL91d09SdMmDh8spX0k/l3xvakzJ2RdUf6eH5L2w513R1
+6vH6tRm4dnyHf120vMezvuLgra7GUTl5uybNup1av7H+jV/JpcDLw9Jasje3Lrvr
+cDnDV1h1jRtOlE14u+lWxl8c3AuO
+=wGbW
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/eagereyes
+
+==================================================================
