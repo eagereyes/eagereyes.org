@@ -122,7 +122,7 @@ export default defineConfig({
 	// set titles for generated paper pages
 	transformPageData: (pageData) => {
 		if (pageData.params) {
-			pageData.title = pageData.params.title;
+			pageData.title = "Paper: " + pageData.params.title;
 			pageData.description = pageData.params.abstract;
 		}
 	},
