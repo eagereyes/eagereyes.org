@@ -1,4 +1,4 @@
-import papers from '../papers.json' 
+import papers from './papers.json' 
 
 function makeBibTeX(p) {
 	let s = "```bibtex\n";

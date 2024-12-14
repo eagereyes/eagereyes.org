@@ -2,7 +2,7 @@
 title: Robert Kosara's Publications
 ---
 <script setup>
-    import papers from '../papers.json';
+    import papers from './papers.json';
 
     function year(key) {
         return key.split(':')[2].substring(0, 4);
