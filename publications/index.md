@@ -24,9 +24,11 @@ title: Robert Kosara's Publications
 # Robert Kosara's Publications
 
 <template v-for="year of yearly">
-    <h1>{{ year.year }}</h1>
-    <p v-for="p of year.papers">
-        <Paper :bib="p" :list=true />
-    </p>
+    <h2>{{ year.year }}</h2>
+        <ul>
+            <li v-for="p of year.papers">
+                <Paper :bib="p" :list=true />
+            </li>
+        </ul>
 </template>
 
