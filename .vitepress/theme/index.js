@@ -2,6 +2,7 @@
 import DefaultTheme from 'vitepress/theme'
 import Homepage from './Homepage.vue'
 import PostedBy from './PostedBy.vue'
+import Paper from './Paper.vue'
 
 import "./custom.css";
 
@@ -12,6 +13,7 @@ export default {
 	Layout: Homepage,
 	// register our custom global components
 	enhanceApp(ctx) {
-		ctx.app.component('PostedBy', PostedBy)
+		ctx.app.component('PostedBy', PostedBy);
+		ctx.app.component('Paper', Paper);
 	}
 }

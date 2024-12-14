@@ -119,6 +119,14 @@ export default defineConfig({
 	// generate open-graph and Twitter card header fields
 	transformHead: transformHead,
 
+	// set titles for generated paper pages
+	transformPageData: (pageData) => {
+		if (pageData.params) {
+			pageData.title = pageData.params.title;
+			pageData.description = pageData.params.abstract;
+		}
+	},
+
 	// generate the RSS and Atom feeds
 	buildEnd: genFeed
 })

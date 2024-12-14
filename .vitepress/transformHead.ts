@@ -32,6 +32,11 @@ export default async function transformHead(context: TransformContext) {
             head = head.concat([ [ 'meta', {property: 'og:title', content: fm.title } ] ]);
         }
 
+        // paper titles for paper pages
+        if (context.pageData.params) {
+            head = head.concat([ [ 'meta', {property: 'og:title', content: context.pageData.params.title } ] ]);
+        }
+
         if (fm.featuredImage && fm.featuredImage.length > 0) {
             head = head.concat([ [ 'meta', {property: 'og:image', content: fm.featuredImage } ] ]);
         }
