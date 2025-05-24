@@ -80,14 +80,10 @@ def writeIndex(files, fileName, dirName):
         out.write('---\n\n')
         out.write('# %s\n\n' % dirName)
 
-        if parts[0] == 'Blog':
-            out.write('<BlogIndex year=%s />\n' % parts[1])
-        else:
-            out.write('<BlogIndex tag="%s" />\n' % fileName.split('/')[1].split('.')[0])
-
-            # for file in files:
-            #     out.write('### <a href="/%s">%s</a>\n' % (file['path'][:-3], file['title']))
-            #     out.write('%s _<a href="/%s">Read more…</a>_\n\n' % (file['description'], file['path'][:-3]))
+        for file in files:
+            out.write('### <a href="/%s">%s</a>\n' % (file['path'][:-3], file['title']))
+            if len(file['description']) > 0:
+                out.write('%s _<a href="/%s">Read more…</a>_\n\n' % (file['description'], file['path'][:-3]))
 
 def writeBlogIndex(fileName, kind, value, longName=None):
 
