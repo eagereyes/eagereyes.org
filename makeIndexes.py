@@ -80,9 +80,42 @@ def writeIndex(files, fileName, dirName):
         out.write('---\n\n')
         out.write('# %s\n\n' % dirName)
 
-        for file in files:
-            out.write('### <a href="/%s">%s</a>\n' % (file['path'][:-3], file['title']))
-            out.write('%s _<a href="/%s">Read more…</a>_\n\n' % (file['description'], file['path'][:-3]))
+        if parts[0] == 'Blog':
+            out.write('<BlogIndex year=%s />\n' % parts[1])
+        else:
+            out.write('<BlogIndex tag="%s" />\n' % fileName.split('/')[1].split('.')[0])
+
+            # for file in files:
+            #     out.write('### <a href="/%s">%s</a>\n' % (file['path'][:-3], file['title']))
+            #     out.write('%s _<a href="/%s">Read more…</a>_\n\n' % (file['description'], file['path'][:-3]))
+
+def writeBlogIndex(fileName, kind, value, longName=None):
+
+    longName = longName or value
+
+    with open(fileName, 'w') as out:
+        out.write('---\n')
+        out.write('title: Index for %s\n' % longName )
+        out.write('outline: false\n')
+        
+        # for Blog year indices, link between years!
+        if kind == 'year':
+            if year+1 in posts:
+                out.write('next:\n  text: Blog %d\n  link: /blog/%d/\n' % (value+1, value+1))
+            else:
+                out.write('next: false\n')
+            if year-1 in posts:
+                out.write('prev:\n  text: Blog %d\n  link: /blog/%d/\n' % (value-1, value-1))
+            else:
+                out.write('prev: false\n')
+        else:
+            out.write('prev: false\n')
+            out.write('next: false\n')
+
+        out.write('---\n\n')
+        out.write('# %s\n\n' % longName)
+
+        out.write('<BlogIndex %s=%s />\n' % (kind, value))
 
 
 tags = {}
@@ -97,7 +130,7 @@ with scandir('blog') as it:
             
 allPosts = []
 for year in posts:
-    writeIndex(posts[year], 'blog/%d/index.md' % year, 'Blog %d' % year)
+    writeBlogIndex('blog/%d/index.md' % year, 'year', year)
     allPosts += posts[year]
 
 sidebar = [];
@@ -119,19 +152,18 @@ sidebar = [{'text': 'Blog', 'items': sidebar}]
 
 dump(sidebar, open('sidebar.json', 'w'))
 
-writeIndex(tags['criticism'], 'tag/criticism.md', 'Criticism')
-writeIndex(tags['book-reviews'], 'tag/book-reviews.md', 'Book Reviews')
-writeIndex(tags['pie-charts'], 'tag/pie-charts.md', 'Pie Charts')
-writeIndex(tags['isotype'], 'tag/isotype.md', 'ISOTYPE')
-writeIndex(tags['influences'], 'tag/influences.md', 'Lists of Influences')
-writeIndex(tags['criticism'], 'tag/criticism.md', 'Criticism')
-writeIndex(tags['eagereyestv'], 'tag/eagereyestv.md', 'EagerEyes Videos')
-writeIndex(tags['peer-review'], 'tag/peer-review.md', 'Peer Review')
-writeIndex(tags['conference'], 'tag/conference.md', 'Conference Reports')
-writeIndex(tags['basics'], 'tag/basics.md', 'Visualization Basics')
-writeIndex(tags['journalism'], 'tag/journalism.md', 'Journalism')
-writeIndex(tags['meta'], 'tag/meta.md', 'Meta/Site News')
-writeIndex(tags['paper'], 'tag/paper.md', 'Papers')
+writeBlogIndex('tag/criticism.md', 'tag', 'criticism', 'Criticism')
+writeBlogIndex('tag/book-reviews.md', 'tag', 'book-reviews', 'Book Reviews')
+writeBlogIndex('tag/pie-charts.md', 'tag', 'pie-charts', 'Pie Charts')
+writeBlogIndex('tag/isotype.md', 'tag', 'isotype', 'ISOTYPE')
+writeBlogIndex('tag/influences.md', 'tag', 'influences', 'Lists of Influences')
+writeBlogIndex('tag/eagereyestv.md', 'tag', 'eagereyestv', 'EagerEyes Videos')
+writeBlogIndex('tag/peer-review.md', 'tag', 'peer-review', 'Peer Review')
+writeBlogIndex('tag/conference.md', 'tag', 'conference', 'Conference Reports')
+writeBlogIndex('tag/basics.md', 'tag', 'basics', 'Visualization Basics')
+writeBlogIndex('tag/journalism.md', 'tag', 'journalism', 'Journalism')
+writeBlogIndex('tag/meta.md', 'tag', 'meta', 'Meta/Site News')
+writeBlogIndex('tag/paper.md', 'tag', 'paper', 'Papers')
 
 allPosts = sorted(allPosts, key=lambda f: f['date'], reverse=True)
 

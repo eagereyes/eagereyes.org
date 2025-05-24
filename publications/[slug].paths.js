@@ -23,10 +23,11 @@ function makeBibTeX(p) {
 export default {
 	paths() {
 		return papers.map(p => ({
-				params: {...p,
-				slug: p._key.replaceAll(':', '-'),
-			},
-			content: makeBibTeX(p)
+				params: {
+					...p,
+					slug: p._key.replaceAll(':', '-'),
+					},
+				content: makeBibTeX(p)
 		}))
 	}
 }
