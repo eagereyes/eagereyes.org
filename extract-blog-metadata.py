@@ -64,7 +64,7 @@ for post in posts:
     meta_entry = {
         'year': post['year'],
         'slug': post['slug'],
-        'path': f"blog/{post['year']}/{post['slug']}",
+        'path': f"/blog/{post['year']}/{post['slug']}",
     }
     for key, value in post['meta'].items():
         meta_entry[key] = value
