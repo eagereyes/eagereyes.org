@@ -22,11 +22,11 @@ export const load: PageServerLoad = async ({ params }) => {
 
     let display = PageType.allPosts;
 
-    if (params.slug.length <= 5) {
+    if (params.slug.length > 0 && params.slug.length <= 5) {
         display = PageType.oneYear;
         const year = params.slug.substring(0, 4);
         allPosts = allPosts.filter(post => post.date.startsWith(year));
-    } else {
+    } else if (params.slug.length > 5) {
         metaIndex = (posts as Array<BlogPost>).findIndex(post => `/blog/${params.slug}` === post.path);
 
         try {
