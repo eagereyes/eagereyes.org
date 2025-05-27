@@ -33,7 +33,7 @@
         <h2><a href="/blog/{year}">{year}</a></h2>
         <ul>
             {#each data.allPosts.filter(post => post.date.startsWith(year)) as post}
-                <li><a href="{post.path}">{post.title}</a> ({formatDate(post.date)})</li>
+                <li><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a> ({formatDate(post.date)})</li>
             {/each}
         </ul>
     {/each}
@@ -42,7 +42,7 @@
     <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
     {#each data.allPosts as post}
         <article>
-            <h2><a href="{post.path}">{post.title}</a></h2>
+            <h2><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a></h2>
             <em>{@html post.description}</em> ({formatDate(post.date)})
         </article>
     {/each}

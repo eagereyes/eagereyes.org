@@ -4,11 +4,11 @@ import { PageType } from './blog-pages';
 
 interface BlogPost {
     slug: string,
-    path: string,
     title: string,
     description: string,
     date: string,
     tags: Array<string>,
+    archived: boolean,
     featuredImage: string,
 }
 
@@ -42,7 +42,7 @@ export const load: PageServerLoad = async ({ params }) => {
         meta: metaIndex >= 0 ? posts[metaIndex] : null,
         nextPost: metaIndex < posts.length ? posts[metaIndex + 1] : null,
         prevPost: metaIndex > 0 ? posts[metaIndex - 1] : null,
-        allPosts,
+        allPosts: display == PageType.singlePost ? [] : allPosts,
         content,
 		error
     };

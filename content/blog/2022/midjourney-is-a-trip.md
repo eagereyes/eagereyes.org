@@ -3,6 +3,7 @@ title: "Midjourney is a Trip"
 description: "Of the several AI-powered systems that can create images from text prompts, MidJourney is the most easily accessible one right now. I've had some fun playing with it."
 date: 2022-06-28 21:16:12
 tags: 
+archived: true
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/06/midjourney-teaser.jpg
 outline: false
 ---

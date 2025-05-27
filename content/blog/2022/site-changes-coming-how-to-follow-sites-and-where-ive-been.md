@@ -3,6 +3,7 @@ title: "Site Changes Coming, How to Follow Sites, and Where I've Been"
 description: "This site has been around for over 16 years now, and a lot has changed in the world during that time. I'm currently working on an overhaul and wanted to give everybody an idea of what I'm thinking about and why there has been little activity. In light of recent developments, here are also some good ways to follow good old-fashioned blogs and an alternative to Twitter."
 date: 2022-11-06 19:36:02
 tags: meta
+archived: true
 featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg
 ---
 

@@ -62,9 +62,9 @@ posts.sort(key=lambda post: post['meta'].get('date', ''), reverse=True)
 meta_data = []
 for post in posts:
     meta_entry = {
-        'year': post['year'],
         'slug': post['slug'],
-        'path': f"/blog/{post['year']}/{post['slug']}",
+        'archived': post['meta'].get('archived', False),
+        # 'path': f"/blog/{post['year']}/{post['slug']}",
     }
     for key, value in post['meta'].items():
         meta_entry[key] = value
