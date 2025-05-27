@@ -18,6 +18,8 @@
     }
 
     let years = new Set<string>(Array.from(data.allPosts, post => post.date.substring(0, 4)));
+
+    let archivedPosts = data.allPosts.filter(post => post.archived);
 </script>
 
 <svelte:head>
@@ -27,12 +29,12 @@
 
 {#if data.display === PageType.allPosts}
     <h1>Blog Index</h1>
-    <!-- <p>There are {data.allPosts.length} posts in the blog.</p> -->
+    <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p>
 
     {#each years as year}
         <h2><a href="/blog/{year}">{year}</a></h2>
         <ul>
-            {#each data.allPosts.filter(post => post.date.startsWith(year)) as post}
+            {#each data.allPosts.filter(post => post.date.startsWith(year) && !post.archived) as post}
                 <li><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a> ({formatDate(post.date)})</li>
             {/each}
         </ul>
@@ -40,7 +42,7 @@
 
 {:else if data.display === PageType.oneYear}
     <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
-    {#each data.allPosts as post}
+    {#each data.allPosts.filter(post => !post.archived) as post}
         <article>
             <h2><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a></h2>
             <em>{@html post.description}</em> ({formatDate(post.date)})
