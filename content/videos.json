@@ -1,0 +1,146 @@
+[
+    {
+        "slug": "2023-they-rule",
+        "title": "Exploring the connections between companies with They Rule by Josh On – A Chart Appreciation",
+        "description": "How do you turn the public – but boring – information about the board members of publicly-traded companies into a compelling interactive visualization?",
+        "ytslug": "wZUgbgdx6Sc",
+        "blogpost": "/blog/2023/new-video-exploring-the-connections-between-companies-with-they-rule",
+        "date": "2023-02-07"
+    },
+    {
+        "slug": "2022-gauges",
+        "title": "Gauges for Data Visualization, The NY Times Election Needle, and Circular Bar Charts",
+        "description": "Gauges (or dials) are used to show numerical values, but they're not very well regarded in visualization. I believe that they can work well when used the right way, though. They're also similar to circular bar charts, which also work best when used in a part-to-whole setup, like in the case of the exercise rings on the Apple Watch. Finally, I talk about the infamous New York Times election gauge, also known as \"The Needle,\" and why I think people reacted to it so poorly.",
+        "ytslug": "ePpSYA9deKA",
+        "blogpost": "/blog/2022/new-video-gauges-for-data-visualization-the-ny-times-election-needle-and-circular-bar-charts",
+        "date": "2022-05-17"
+    },
+    {
+        "slug": "2022-outlier",
+        "title": "Outlier 2022: This Should Have Been a Bar Chart",
+        "description": "Why was Nightingale's famous rose plot not simply a bar chart? How do you know which chart type to use? Robert discusses examples of specific data viz techniques, why they were used, and how that can help you.",
+        "ytslug": "GeRgED7LWr8",
+        "blogpost": "/blog/2022/watch-my-outlier-talk-this-should-have-been-a-bar-chart",
+        "date": "2022-04-26"
+    },
+    {
+        "slug": "2021-pies",
+        "title": "The Science of Pie Charts – Why We Don't Read them By Angle",
+        "description": "You've been told that we read pie charts by the central angle. But is that true? This video shows five reasons why we're not using angle, based on several studies on pie charts I've conducted over the years.",
+        "ytslug": "NxmHDNNTFyk",
+        "blogpost": "/blog/2021/new-video-the-science-of-pie-charts",
+        "date": "2021-11-16"
+    },
+    {
+        "slug": "2021-iraq",
+        "title": "Chart Appreciation: Iraq's Bloody Toll by Simon Scarr",
+        "description": "Simon Scarr's news graphic \"Iraq's Bloody Toll\" has become iconic. It's one of the few bar charts that don't just show number, but hurt. This is an appreciation of this incredible piece. I make connections with other charts and talk about relevant recent research.",
+        "ytslug": "zHfExUZKLwA",
+        "blogpost": "/blog/2021/new-video-chart-appreciation-iraqs-bloody-toll-by-simon-scarr",
+        "date": "2021-07-22"
+    },
+    {
+        "slug": "2021-linear-quadratic",
+        "title": "Linear vs. Quadratic Scaling: How it Distorts Infographic Bar Charts, And How to Get It Right",
+        "description": "Ever come across an infographic that looks wildly distorted? How does this happen? It can be obvious in some cases, but it's not always quite so apparent what is going wrong. In this video, I talk about the pitfalls of linear and quadratic change when dealing with pictorial bar charts and circular wedge shapes like the Nightingale rose plot.",
+        "ytslug": "BW3YNLsmn8U",
+        "blogpost": "/blog/2021/new-video-linear-vs-quadratic-change",
+        "date": "2021-06-15"
+    },
+    {
+        "slug": "",
+        "title": "Florence Nightingale's Famous Rose Chart (aka \"Coxcomb\")",
+        "description": "How does Nightingale's famous rose plot (often erroneously called 'coxcomb') work? What made her choose this strange chart shape? Did it work? And who was Florence Nightingale, anyway?",
+        "ytslug": "JZh8tUy_bnM",
+        "blogpost": "/blog/2021/new-video-florence-nightingales-famous-rose-chart-aka-coxcomb",
+        "date": "2021-05-11"
+    },
+    {
+        "slug": "2021-black-and-white-boys",
+        "title": "Chart Appreciation: Black vs White Boys and The Punishing Reach of Racism",
+        "description": "An appreciation of a few charts about the devastating impact of racism on the incomes, incarceration rates, etc., of Black men. They were part of a 2018 article in the New York Times by Emily Badger, Claire Cain Miller, Adam Pearce, and Kevin Quealy, titled: Extensive Data Shows Punishing Reach of Racism for Black Boys",
+        "ytslug": "VDXCYV7sbmw",
+        "blogpost": "/blog/2021/new-video-chart-appreciation-black-vs-white-boys-and-the-punishing-reach-of-racism",
+        "date": "2021-04-20"
+    },
+    {
+        "slug": "2021-minard",
+        "title": "Minard's Famous \"Napoleon's March\" Chart – What It Shows, What It Doesn't",
+        "description": "This chart is a staple in every visualization course and many visualization talks. But what does it show, and what does it leave out? There's a lot more to Napoleon's Russian Campaign and to Charles Minard's work than this one chart.",
+        "ytslug": "hlb1uM_SOcE",
+        "blogpost": "/blog/2021/eagereyestv-minards-famous-napoleons-march-chart-what-it-shows-what-it-doesnt",
+        "date": "2021-03-14"
+    },
+    {
+        "slug": "2020-warming",
+        "title": "Chart Appreciation: What's Really Warming the World?",
+        "description": "How do you turn line charts into a compelling argument? This piece by by Eric Roston and Black Migliozzi shows us how.",
+        "ytslug": "Bjrb_ErvvPs",
+        "blogpost": "/blog/2020/eagereyestv-chart-appreciation-whats-really-warming-the-world",
+        "date": "2020-12-08"
+    },
+    {
+        "slug": "2020-index-charts-pt2",
+        "title": "Index Charts, Part 2: Chopping Up and Folding the Time Axis",
+        "description": "Index Charts that transform the vertical axis are pretty common, but what about indexing on the time axis? That's actually done quite a bit too, even though it's not always obvious. I talk about what indexing on the time axis means, discuss regular and irregular time indexing, and show examples from home price data, camera sales, climate change, and more.",
+        "ytslug": "0Yy90fvusEw",
+        "blogpost": "/blog/2020/eagereyestv-index-charts-part-2-chopping-up-and-folding-the-time-axis",
+        "date": "2020-11-09"
+    },
+    {
+        "slug": "2020-index-charts-pt1",
+        "title": "Index Charts, Part 1: Making Time Series Data Comparable",
+        "description": "Index Charts show your time series relative to a reference point, which lets you more easily compare them. I describe how they work and show a few common examples, like the Case-Schiller Home Price Index, and how you can re-index them.",
+        "ytslug": "qs7h19vaqQc",
+        "blogpost": "/blog/2020/eagereyestv-index-charts-part-1-making-time-series-data-comparable",
+        "date": "2020-10-29"
+    },
+    {
+        "slug": "2020-driving-safety",
+        "title": "Chart Appreciation: Driving Safety, in Fits and Starts",
+        "description": "This is the first in a series of videos going into great detail on specific charts or news graphics. The first one is on a piece by Hannah Fairfield in the New York Times from 2012, called Driving Safety, in Fits and Starts. It uses a rather unusual visualization technique called the connected scatterplot and makes great use of it to show how cars have gotten safer over the years.",
+        "ytslug": "ftqNuw9H7h8",
+        "blogpost": "/blog/2020/new-eagereyestv-video-and-series-chart-appreciation",
+        "date": "2020-09-23"
+    },
+    {
+        "slug": "2019-what-is-data-pt2",
+        "title": "What Is Data? Part 2, Are Images Data?",
+        "description": "Visualization turns data into images, but are images themselves data? There are often claims that they are, but then you mostly see the images themselves without much additional data. In this video, I look at image browsers, a project classifying selfies along a number of criteria, and the additional information stored in HEIC that makes things like portrait mode and relighting possible.",
+        "ytslug": "xKfpBmuZkWU",
+        "blogpost": "/blog/2019/eagereyestv-what-is-data-part-2-are-images-data",
+        "date": "2019-12-16"
+    },
+    {
+        "slug": "2019-what-is-data-pt1",
+        "title": "What is Data? Part 1, File Formats and Intent",
+        "description": "We all use data all the time, but what exactly is data? How do different programs know what to do with our data? How is visualizing data different from other uses of data? And isn’t everything inside a computer data in the end?",
+        "ytslug": "pdVTaBGSddg",
+        "blogpost": "/blog/2019/eagereyestv-what-is-data-part-1-file-formats-and-intent",
+        "date": "2019-11-06"
+    },
+    {
+        "slug": "2019-3d-pies",
+        "title": "3D Pie Charts for Science! How do we read pie charts? I ran a study to find out",
+        "description": "How do we read pie charts? This seems like a straightforward question to answer, but it turns out that most of what you’ve probably heard is wrong. We don’t actually know whether we use angle, area, or arc length. In a short paper at the VIS conference this week I’m presenting a study I ran to answer this question – a study using 3D pie charts!",
+        "ytslug": "WF-HWFf-UNc",
+        "blogpost": "/blog/2019/eagereyestv-episode-3-3d-pie-charts-for-science",
+        "date": "2019-10-20"
+    },
+    {
+        "slug": "2019-unit-charts",
+        "title": "Unit Charts, Dot Plots, ISOTYPE, and What Makes Them Special",
+        "description": "Charts usually show values as visual properties, like the length in a bar chart, the location in a scatterplot, the area in a bubble chart, etc. Unit charts show values as multiples instead. One famous example of these charts is called ISOTYPE, and you may have seen them in information graphics as well. They’re an interesting family of charts and they seem to have some unusual properties that most other charts don’t have.",
+        "ytslug": "xXOK-K2m6A0",
+        "blogpost": "/blog/2019/eagereyestv-episode-2-unit-charts-dot-plots-and-isotype-and-what-makes-them-special",
+        "date": "2019-10-08"
+    },
+    {
+        "slug": "2019-datasaurus",
+        "title": "The DataSaurus, Anscombe’s Quartet, and why summary statistics need to be taken with a grain of salt",
+        "description": "When dealing with large amounts of data, we often use summary statistics like average, median, standard deviation, sum, etc. They’re useful because they actually hide data, they reduce the amount of information we need to look at to give us a sense of the data. But the same averages and can describe datasets that look vastly different.",
+        "ytslug": "RbHCeANCbW0",
+        "blogpost": "/blog/2019/eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt",
+        "date": "2019-09-16"
+    }
+]
