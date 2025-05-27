@@ -15,6 +15,7 @@
     <meta property="og:image" content={`https://media.eagereyes.org/video-thumbs/${data.video.slug}.jpg`} />
 </svelte:head>
 
+{#if data.video.title}
 <div class="video-page">
     <h1>{data.video.title}</h1>
 
@@ -24,3 +25,12 @@
 
     <p>See also <a href="{data.video.blogpost}">the related blog post</a>!</p>
 </div>
+{:else}
+
+{#each data.videos as video}
+    <h2><a href="/video/{video.slug}">{video.title}</a></h2>
+    <img src={`https://media.eagereyes.org/video-thumbs/${video.slug}.jpg`}
+            alt="{video.title} thumbnail"
+            width="192" />
+{/each}
+{/if}
