@@ -1,11 +1,3 @@
----
-title: "VIS 2015 – Friday"
-description: "The final day of the conference was much shorter, only one full session and then the closing with the capstone. Here is a report on a few more papers, the capstone, a panel left over from Thursday, and a few random tidbits."
-date: 2015-11-02 21:11:39
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser.jpg" alt="" width="825" height="510" /></p>
 
 # VIS 2015 – Friday
@@ -57,8 +49,3 @@ The capstone meshed really well with <a href="/blog/2015/vis-2015-tuesday">the k
 Besides the obvious announcement of next year’s conference, there was also some unexpected news in the closing session: VIS is coming back to Europe in 2018; it will take place in Berlin. Last year’s conference in Paris apparently made a big enough impression on the executive committee to take that step.
 
 <a href="http://ieeevis.org">Next year’s conference</a> will take place in Baltimore, from October 23–28. Among the changes from this year is that BioVis will be coming back after being attached to a bioinformatics conference for the last few years, and there will be another BELIV workshop.
-
-
-<PostedBy />
-
-

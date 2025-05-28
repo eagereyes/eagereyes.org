@@ -1,11 +1,3 @@
----
-title: "List of Influences: Nigel Holmes"
-description: "Few people have influenced the face of information graphics like Nigel Holmes. I am honored to not only present his very extensive and detailed list of influences here, but also do so on the occasion of his upcoming 70th birthday on June 15, 2012."
-date: 2012-06-10 20:30:09
-tags: influences
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/06/holmes-artistic-license.png
----
-
 # List of Influences: Nigel Holmes
 
 Few people have influenced the face of information graphics like Nigel Holmes. I am honored to not only present his very extensive and detailed <a title="Series: Lists of Influences" href="/influences/series-introduction">list of influences</a> here, but also do so on the occasion of his upcoming 70<sup>th</sup> birthday on June 15, 2012.
@@ -69,25 +61,3 @@ Steven Pinker, <em><a href="http://amzn.to/Hx6SrE">How the Mind Works</a></em>, 
 ## 10. An Atlas
 
 A book that I stole from my older brother, <em>A Pictorial Atlas of The British Isles</em>, published in 1937. As a child this book showed me (in admittedly childish ways) how to combine pictures and geography in lively, but informative ways. I loved this atlas without knowing that later in life I would make maps with pictures on them. At the time of this writing, there are two <a href="http://amzn.to/Hbv59j">used copies for sale at Amazon</a>.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://understandinggraphics.com" rel="nofollow noopener" target="_blank">Connie Malamed</a> says…
->	Great idea for an article, Robert. Nigel is a hero to many, so his influences are fascinating.
->	
->	And with those blue glasses, he's totally kool.
-
-Al says…
->	Does anyone know a good place to browse the best of Nigel Holmes' work? 
->	
->	His own website's examples really don't do him justice. I've seen various isolated examples in books and articles, and many of them are great, but I can't find a clear way to find more of the good stuff.
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "VisWeek 2012 Digest, Part 1"
-description: "I gorged myself on talks, panels, and tutorials last week. And parties, oh the parties. Time to digest all of it and, um, extract the most important bits. Since there is so much to talk about, I have split this up into three parts. Parts 1 and 2 will discuss individual papers and events, part 3 will add some more general observations."
-date: 2012-10-25 22:37:45
-tags: VisWeek, conference
-featuredImage: 
----
-
 # VisWeek 2012 Digest, Part 1
 
 I gorged myself on talks, panels, and tutorials last week. And parties, oh the parties. Time to digest all of it and, um, extract the most important bits. Since there is so much to talk about, I have split this up into three parts. Parts 1 and 2 will discuss individual papers and events, part 3 will add some more general observations.
@@ -63,30 +55,3 @@ There was some discussion about the fact that the criticism was anonymous, but I
 There were some very thought-provoking papers and discussions at VisWeek this year. It’s difficult to compare, but I found the good parts to be better than in previous years. There were some really unique papers, which hopefully will be taken up as models for further work in the future.
 
 Lane Harrison, Roman Pyzh, and Drew Skau have written up <a href="https://docs.google.com/document/d/1wYjaJqlN1m12_ST-TC8lPAMEY4AmB_JA-30HRnm8GgQ/edit">some great notes</a> for many of the sessions, with additional comments and links.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://people.cs.clemson.edu/~levinej/" rel="nofollow noopener" target="_blank">Joshua Levine</a> says…
->	Happened to find this post randomly on a google of "ieee visweek 2012 best papers", figured better late than never to comment. 
->	
->	Given that neither you nor I were privy to the entire LDAV submission and review process, I really couldn't say/defend/argue on the full rationalization for choosing it as best paper.  I'm not sure that aspect is ever fair to be on the table (although systemic issues such as submission and review quality should always be).
->	
->	The main goal of this paper, in my mind, is modeling and visualizing uncertainty.  Much of the criticism against rainbow color maps has to do with the associated dangers of trying to reverse map colors back to individual values.  In this case, we use high-frequency banded color maps (examples of both rainbow and others are in the paper) to help highlight where there were large regions of high variance.  Individual colors mapped to values is explicitly not the goal.  A single rainbow color map would have in fact been terrible: even though one could argue individual values would be clearer, seeing variation with nearby values with our approach would be made worse.
->	
->	There are also interesting questions (which we didn't pursue) as to what frequency of the banding will be most effective.  Instead, we allow the user to set and control this using fairly standard transfer function design tools.  Users naturally shift the banding to explore variation.
->	
->	What is perhaps more novel is trying to aid the user in understanding (through both animation and color variation) regions where the data is less certain.  In hindsight, we could do better: for example, working with more sophisticated statistical quantities such as data entropy.  On the other hand, I think there's something impressive about pushing the limits of GPUs to look at a few hundred brain scans or an ensemble of dozens of climate simulations---in real time---using a fairly "basic" volume rendering interface.
->	
->	Nevertheless, you were not the first or only person to make a similar comment.  Another strong critique relates to the fact that the colors used have little to do with a physical meaning for the data---a common goal in volume rendering (esp. for medical fields where realism is important).  And of course the inherent challenges with using animation to convey just about anything.
->	
->	Thanks for the post.
-
-</aside>
-

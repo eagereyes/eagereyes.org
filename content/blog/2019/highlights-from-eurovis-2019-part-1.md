@@ -1,11 +1,3 @@
----
-title: "Highlights from EuroVis 2019, Part 1"
-description: "The EuroVis 2019 conference took place in early June this year in Porto, Portugal. While I enjoyed the city and conference venue, I found the program a bit underwhelming this time around. I’ve kept pushing off writing this report because I found myself griping rather than talking about the content."
-date: 2019-08-26 19:51:37
-tags: conference
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg" width="1024" height="768" /></p>
 
 # Highlights from EuroVis 2019, Part 1
@@ -42,8 +34,3 @@ I had two short papers on pie chart variations, <a href="/blog/2019/two-short-pa
 It’s kind of an odd paper because it seems like an obvious thing to define, but they apparently got a lot of push-back from reviewers. I complained on Twitter that exploration is overly emphasized in the academic literature <a href="https://medium.com/@eytanadar/banning-exploration-in-my-infovis-class-9578676a4705">and in visualization courses</a>, which led to <a href="https://twitter.com/eagereyes/status/1136225646722650114">an interesting little exchange with Jeff Heer</a>.
 
 This concludes the first part, the rest will be covered in <a href="/blog/2019/highlights-from-eurovis-2019-part-2">Part 2</a>.
-
-
-<PostedBy />
-
-

@@ -1,12 +1,3 @@
----
-title: "Beyond Bertin: Seeing the Forest despite the Trees"
-description: "Visualization needs a new theory. Bertin's ideas about marks and retinal variables have provided a great starting point, but we are now seeing their limitations. We need to turn a new page and move beyond those cosy, familiar ideas, into new territory. A recent paper by Caroline Ziemkiewicz and myself makes an argument why, and provides some possible directions."
-date: 2010-09-16 22:27:21
-tags: papers
-featuredImage: https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png" alt="" width="560" height="152" /></p>
 
 # Beyond Bertin: Seeing the Forest despite the Trees
@@ -29,8 +20,3 @@ Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-CGA-2010
 <em>Computer Graphics and Applications (CG&amp;A), Visualization Viewpoints</em>, vol. 30, no. 5, pp. 7–11, 2010.
 
 See also: <a href="/blog/2010/visweek-preview-infovis-theory-workshop-and-panel">Workshop <em>The Role of Theory in Information Visualization</em></a> at VisWeek 2010
-
-
-<PostedBy />
-
-

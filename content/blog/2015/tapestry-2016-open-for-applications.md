@@ -1,11 +1,3 @@
----
-title: "Tapestry 2016 Open For Applications"
-description: "Tapestry 2016 will take place March 9 next year in a historic hotel near Denver, CO. We have put together another exciting line-up of keynote speakers and are looking for applications from people who want to attend or speak."
-date: 2015-11-15 23:06:49
-tags: tapestry
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/11/tapestry16-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tapestry16-teaser.jpg" alt="" width="810" height="500" /></p>
 
 # Tapestry 2016 Open For Applications
@@ -35,8 +27,3 @@ Nick Sousanis is a post-doc at the University of Calgary, and the author of the 
 An important part of Tapestry are the breaks and happy hours. We have a reception the night before the actual conference, which helps break the ice and get people acquainted so there is more interaction during the actual event. We also have generous breaks and a happy hour after all the talks. The latter is mainly for the people who are staying the night and not taking off to go to NICAR (we provide transportation for those who do).
 
 Need more details and only trust what’s written in peer-reviewed journals? I wrote a <a href="/link/cga-article-on-tapestry">CG&amp;A <em>Vis Viewpoints</em> article on Tapestry</a> earlier this year.
-
-
-<PostedBy />
-
-

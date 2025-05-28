@@ -1,11 +1,3 @@
----
-title: "JavaScript: The Key to In-Browser Visualization"
-description: "Most data visualization on the web consists of static images. Typical interactive visualizations use Flash or Java, both of which have drawbacks and require plugins, don't work on mobile devices, etc. A number of recent visualization tools based on JavaScript promise to finally bring visualization to life on the web. The ways they work differ, but they all profit from recent advances in JavaScript performance across all modern browsers."
-date: 2010-02-11 00:05:25
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/protovis-code.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-code.png" width="560" height="144" alt="Some Protovis code" /></p>
 
 # JavaScript: The Key to In-Browser Visualization
@@ -53,23 +45,3 @@ JavaScript for visualization is clearly the way to go. It's fast, versatile, wor
 Its unique language features, if used in the right way, can also be the basis for some very innovative and powerful ideas about how to prototype new visualization techniques.
 
 JavaScript is the tool for finally bringing visualization to the masses.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.javiertordable.com" rel="nofollow noopener" target="_blank">Javier Tordable</a> says…
->	Great post. I just wrote a post myself about the new Google Chart Tools, as a nice example of Javascript visualizations that are easy to create and I took a quote from here:
->	<a href="http://www.javiertordable.com/blog/2010/02/17/new-google-chart-tools">
->	http://www.javiertordable.com/blog/2010/02/17/new-google-chart-tools
->	</a>
->	
->	
-
-</aside>
-

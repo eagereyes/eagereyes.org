@@ -1,12 +1,3 @@
----
-title: "Vizable, data worlds for iPad"
-description: "Tableau today released a new visualization tool for iPad, called Vizable. This is a completely new app built specifically for exploring data using touch. It is based on a new approach to visual analysis that focuses on the data and task, rather than providing a chart toolbox."
-date: 2015-10-20 09:34:13
-tags: Tableau
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/10/vizable-teaser.jpg
-outline: false
----
-
 # Vizable, data worlds for iPad
 
 Tableau today released a new visualization tool for iPad, called <em><a href="http://vizable.tableau.com">Vizable</a></em>. This is a completely new app built specifically for exploring data using touch. It is based on a new approach to visual analysis that focuses on the data and task, rather than providing a chart toolbox.
@@ -26,8 +17,3 @@ Vizable was built specifically for touch. How do you filter using touch? How abo
 The beauty of the seeming simplicity is that it makes a lot of complex features very approachable. You can almost literally touch your data to interact with it, it's pretty cool.
 
 <a href="http://vizable.tableau.com">Vizable</a> is available now, for free, on Apple's App Store.
-
-
-<PostedBy />
-
-

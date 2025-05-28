@@ -1,11 +1,3 @@
----
-title: "The (Possible) Stratagem Behind the Biden Bar"
-description: "A bar chart with a distorted vertical axis isn't very unusual. But what if that chart was posted by the White House and what if it was done on purpose – not to overstate the number shown, but rather to evoke a particular kind of response?"
-date: 2022-01-30 20:47:25
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/01/economic-growth-1.jpeg
----
-
 # The (Possible) Stratagem Behind the Biden Bar
 
 A bar chart with a distorted vertical axis isn't very unusual. But what if that chart was posted by the White House and what if it was done on purpose – not to overstate the number shown, but rather to evoke a particular kind of response?
@@ -35,18 +27,3 @@ It seems more likely that this was done on purpose, and there are two possible w
 The other theory is more interesting: what if this was intended to be noticed, to give it more exposure as people make fun of the mistake? And more than that, they would tsk-tsk the chart while pointing out that it wasn't even necessary to distort the scale since the number was always going to be better than any in the 2000s so far anyway! That seems like a fun theory because it feels more like the kind of stratagem you'd expect from the kinds of people working in Washington.
 
 Manipulating a chart is kind of boring, but the idea of somebody designing this as a sort of social engineering attack that would get people to discuss it in a particular way appeals to me. That doesn't mean it's true, of course, but it is a lot more fun than somebody trying to impress the boss by making a bar taller.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.icem7.fr" rel="nofollow noopener" target="_blank">eric mauviere</a> says…
->	Clever analysis! Note that your second image looks exactly like the first one, making it difficult to compare
-
-</aside>
-

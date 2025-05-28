@@ -1,12 +1,3 @@
----
-title: "Link: Jérôme Cukier's Series on Visualization with React"
-description: "While D3 is the standard way of doing visualization on the web right now, there's a lot of interesting stuff happening in the world of JavaScript framework React. And it turns out, you can do some really interesting visualization stuff with React, once you understand the basics. In a series of very thorough postings, Jérôme Cukier takes you through the fundamentals of React and how to use it by itself or together with D3."
-date: 2016-09-05 17:10:39
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/react-teaser.png
-outline: false
----
-
 # Link: Jérôme Cukier's Series on Visualization with React
 
 While D3 is the standard way of doing visualization on the web right now, there's a lot of interesting stuff happening in the world of JavaScript framework React. And it turns out, you can do some really interesting visualization stuff with React, once you understand the basics. In <a href="http://www.jeromecukier.net/blog/2016/08/09/visualization-with-react/">a series of very thorough postings</a>, Jérôme Cukier takes you through the fundamentals of React and how to use it by itself or together with D3.
@@ -26,8 +17,3 @@ I was going to write brief summaries of the postings, but it turns out Jerome ha
     <li><a href="http://wp.me/po630-st">Creating a React visualization web app</a> – using what we’ve seen, and two libraries – Facebook’s <a href="https://github.com/facebookincubator/create-react-app">create-react-app</a> and Uber’s <a href="https://github.com/uber/react-vis/">React-vis</a>, we’ll create a small standalone React visualization that can be deployed on its own website.</li>
     <li><a href="http://wp.me/po630-st">The big leagues</a> – in that last part, we’ll write together a more complex visualization with live data and several components interacting with one another.</li>
 </ol>
-
-
-<PostedBy />
-
-

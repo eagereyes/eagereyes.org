@@ -1,11 +1,3 @@
----
-title: "ISOTYPE Book: Priestley, British Women Go To War"
-description: "This is perhaps the oddest book with an ISOTYPE illustration, certainly of the ones I have seen so far. It also contains the most confusing chart produced by the ISOTYPE Institute I am aware of."
-date: 2017-03-05 21:50:27
-tags: isotype, isotope-books
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0302.jpg
----
-
 # ISOTYPE Book: Priestley, British Women Go To War
 
 This is perhaps the oddest book with an ISOTYPE illustration, certainly of the ones I have seen so far. It also contains the most confusing chart produced by the ISOTYPE Institute I am aware of.
@@ -35,8 +27,3 @@ The drawings on the right are much less clear. What do the four individual red f
 The green groups seem to represent one million women in civil service (the group next to the adorable double-decker bus), and half a million in agriculture. The rest simply don't seem to have numbers attached.
 
 For an official ISOTYPE Institute chart (with the logo in the lower right), it seems strangely off. The legend is confusing, the layout is very messy, and the whole thing just doesn't work very well. Perhaps they didn't have enough time to prepare it. It's a rare misstep, I haven't seen anything as sloppy and confusing so far.
-
-
-<PostedBy />
-
-

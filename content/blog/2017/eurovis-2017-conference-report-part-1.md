@@ -1,11 +1,3 @@
----
-title: "EuroVis 2017 Conference Report, Part 1"
-description: "EuroVis is currently taking place in Barcelona. In the interest of shorter postings, I’m breaking this report up into three parts. This first part covers the EuroRVVV workshop as well as the opening session and keynote."
-date: 2017-06-14 12:18:52
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/dragon-gate.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/dragon-gate.jpg" width="720" height="500" /></p>
 
 # EuroVis 2017 Conference Report, Part 1
@@ -51,8 +43,3 @@ A more recent piece is the <a href="http://projector.tensorflow.org">Embedding P
 They also talked about a Google translation system that is able to translate language pairs it has not seen before, and there are some claims that it is building a sort of universal language internally. I’m a bit skeptical about that part, but it was impressive to see their embedding projections show how the system was embedding sentences and words close together, rather than languages.
 
 They ended by saying that there is a lot of opportunity to do visualization for machine learning. Even many of the people working in the field don’t have good intuitions for how their systems work, and they need tools to inspect what they’re doing, debug, etc. It’s a challenging field as well, of course, but seems like a very promising area. <em>Marnanda</em> are trailblazers here, as usual, and I think many others will follow their lead.
-
-
-<PostedBy />
-
-

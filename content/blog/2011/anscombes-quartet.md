@@ -1,11 +1,3 @@
----
-title: "Anscombe's Quartet"
-description: "Visualization may not be as precise as statistics, but it provides a unique view onto data that can make it much easier to discover interesting structures than numerical methods. Visualization also provides the context necessary to make better choices and to be more careful when fitting models. Anscombe's Quartet is a case in point, showing that four datasets that have identical statistical properties can indeed be very different."
-date: 2011-02-13 20:32:16
-tags: criticism
-featuredImage: https://media.eagereyes.org/media/2011/anscombe_teaser.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2011/anscombe_teaser.png" alt="" width="600" height="207" /></p>
 
 # Anscombe's Quartet
@@ -171,30 +163,3 @@ Besides the content, what is remarkable about the paper is its tone: Anscombe st
 I have seen similar things in papers from that time and earlier. Some of this would be shot down by reviewers today, and never make it into a published paper. It's almost as if these papers were partly scientific paper, partly blog posting to vent some steam or argue a position.
 
 Anscombe also describes his preference for APL (an ancient programming language), but assures the reader who can program in FORTRAN or PL/1 that he'll be able to produce graphs. Mere users of statistical packages, however, were out of luck in the early '70s. The paper closes with a call for action:
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.theusRus.de/blog" rel="nofollow noopener" target="_blank">Martin Theus</a> says…
->	<br>
->	"<em>Anscombe argues that the correct answer is to show both the regression with Alaska, but also how much it contributes and what happens when it is removed</em>"
->	
->	<br>
->	This is maybe the most important concept one has to understand. Using graphical means to understand data - preferable interactive - will make the optional choice more natural. If you are (only) looking for THE one correct/optimal model, you will probably miss a lot which contributes to the dataset.
-
-<a href="http://dboptimizer.com" rel="nofollow noopener" target="_blank">Kyle Hailey</a> says…
->	Good write up on an important example of the power of visualizing of quantitative data graphically. The concept of using graphics was actually a hard sell 10-15 years ago. At the time Anscombe’s quartet was the most important example I had when arguing for graphics in performance analytics and dashboards. Now days the tides are changing with graphical visualizations everywhere. I now have engineers now chastising me when I provide textual data without any graphics! It's a refreshing change.
->	Even though tides are changing for the better, Anscombe’s Quartet will always be a powerful example of the insights that can be gleamed from  graphical visualization of quantitative data.  Thanks for the write up.
->	
->	- Kyle Hailey
-
-Gurbaksh says…
->	if we have to find any relationship or correlation between these variable that differentiate all four. which one do you think will be better?
-
-</aside>
-

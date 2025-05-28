@@ -1,12 +1,3 @@
----
-title: "New Video: The Science of Pie Charts"
-description: "The common explanation for how pie charts work is that we read them by angle. That of course would mean that donut charts would be bad, because you can't see the angle when you take away the center of the pie. Changing the radius of a slice wouldn't matter though, because that doesn't change the angle. But there is no evidence that angle is how we read pie charts, quite the opposite actually. In this new video, I walk through five reasons why angle is not how we read pies, and what that means for other things we like to assume about them."
-date: 2021-11-16 19:51:16
-tags: pie-charts, eagereyestv
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/11/Thumbnail-4x3-1.jpeg
-outline: false
----
-
 # New Video: The Science of Pie Charts
 
 The common explanation for how pie charts work is that we read them by angle. That of course would mean that donut charts would be bad, because you can't see the angle when you take away the center of the pie. Changing the radius of a slice wouldn't matter though, because that doesn't change the angle. But there is no evidence that angle is how we read pie charts, quite the opposite actually. In this new video, I walk through five reasons why angle is not how we read pies, and what that means for other things we like to assume about them.
@@ -20,8 +11,3 @@ The video covers four different studies, which I've written about here before. I
 As always, I'm curious to hear what you think! If you want to support the channel, please <a href="https://youtu.be/NxmHDNNTFyk">head over to YouTube</a> to like the video and subscribe if you haven't already. This is free of course, but it gives YouTube a signal to show the video to more people.
 
 Also, <a href="https://dataliteracy.com/vote-for-the-2021-data-literacy-awards/">my YouTube channel has been kindly shortlisted for a <em>Data Literacy Award</em></a>. If you enjoy my videos, please consider voting for me (and for other great folks in the other categories too!).
-
-
-<PostedBy />
-
-

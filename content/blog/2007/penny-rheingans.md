@@ -1,12 +1,3 @@
----
-title: "List of Influences: Penny Rheingans"
-description: "I was going to describe Penny Rheingans as the first purely scientific visualization person on this list, but that would have been a gross oversimplification. Penny has done groundbreaking work in volume illustration, perception, and uncertainty in visualization. One project of particular interest to me is an experimental evaluation of Chernoff Faces.  Penny is also the only person I ever saw knitting at a conference &ndash; but after a look at her list of influences (in alphabetical order of the authors below), it all make sense."
-date: 2007-05-15 07:00:51
-tags: influences
-featuredImage: 
-outline: false
----
-
 # List of Influences: Penny Rheingans
 
 I was going to describe <a href="http://www.csee.umbc.edu/~rheingan/">Penny Rheingans</a> as the first purely scientific visualization person on this list, but that would have been a gross oversimplification. Penny has done groundbreaking work in <a href="http://www.csee.umbc.edu/~ebert/npr/">volume illustration</a>, perception, and <a href="http://www.cs.umbc.edu/~rheingan/research/vivd.html">uncertainty in visualization</a>. One project of particular interest to me is her <a href="http://www.research.ibm.com/people/c/cjmorris/publications/Chernoff_990402.pdf">experimental evaluation</a> of <a href="/blog/2007/chernoff-faces">Chernoff Faces</a>. Penny is also the only person I ever saw knitting at a conference – but after a look at her <a href="/tag/influences">list of influences</a> (in alphabetical order of the authors below), it all makes sense.
@@ -21,8 +12,3 @@ I was going to describe <a href="http://www.csee.umbc.edu/~rheingan/">Penny Rhei
 - Colin Ware, Color Sequences for Univariate Maps: Theory, Experiments and Principles, <em>IEEE Computer Graphics and Applications</em>, vol. 8, no. 5, pp. 41–49, September 1988. <em>This article got me thinking concretely about how color and task interact and how their relationship can be evaluated.</em>
 - Lee Westover, <a href="http://portal.acm.org/citation.cfm?id=97919&amp;dl=ACM&amp;coll=GUIDE">Footprint Evaluation for Volume Rendering</a>, <em>Computer Graphics</em>, vol. 24, no. 4, pp. 367-376, 1990. Condensed from his dissertation <em>Splatting: A Feed-Forward Volume Rendering Algorithm</em>, Ph. D. Dissertation, University of North Carolina, 1991. <em>I was impressed by the careful distillation of sampling theory that lays the foundation for the algorithm. I still find myself referring students back to this (usually the dissertation form).</em>
 - Connie Willis, <a href="http://www.amazon.com/Bellwether-Connie-Willis/dp/0553562967"><em>bellwether</em></a>, Bantam Books, 1996. <em>First example I’ve seen of information visualization in popular literature (introduced by a bratty little girl). This book also reminds me of the lurking absurdity of research, funding mechanisms, organizations, and people in general.</em>
-
-
-<PostedBy />
-
-

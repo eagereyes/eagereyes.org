@@ -1,0 +1,2 @@
+<a href="http://flowingdata.com" rel="nofollow noopener" target="_blank">Nathan</a> says…
+>	I don't think the objectivity of Statistics is only skin deep, and the choice of measure and parameters can be (and usually is) very objective. An initial choice of "parameters" might come from a gut feeling, but it is only meant as a starting point. Analysis is going to go through many iterations; those parameters (as well as the derived models) change and are dictated by the data via statistical laws, rules, etc.

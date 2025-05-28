@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2017: Perception, Evaluation, Vision Science"
-description: "Questions of how visualization is read and understood are a common topic in research, and this year was no exception. This part of my IEEE VIS 2017 report covers papers dealing with perceptual issues, the match between visualization and tasks, statistical reasoning, as well as a panel on vision science."
-date: 2017-10-11 18:17:16
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/imagining-replications.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/imagining-replications.png" width="750" height="405" /></p>
 
 # IEEE VIS 2017: Perception, Evaluation, Vision Science
@@ -50,8 +42,3 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
     <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
-
-
-<PostedBy />
-
-

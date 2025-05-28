@@ -1,12 +1,3 @@
----
-title: "Looking for Parallel Sets Users with Real Data"
-description: "We are looking for people who use Parallel Sets with real-world data and who would be interested in taking part in writing up a case study for the InfoVis Discovery Exhibition. You don't have to share your data, and the images can be anonymized, but it has to be real data (and you have to be able to describe what it is and what you learned in a way that is not too general)."
-date: 2009-07-07 07:00:09
-tags: 
-featuredImage: 
-outline: false
----
-
 # Looking for Parallel Sets Users with Real Data
 
 We are looking for people who use <a href="/parallel-sets">Parallel Sets</a> with real-world data and who would be interested in taking part in writing up a case study for the InfoVis <a href="http://www.discoveryexhibition.org/">Discovery Exhibition</a>. You don't have to share your data, and the images can be anonymized, but it has to be real data (and you have to be able to describe what it is and what you learned in a way that is not too general).
@@ -18,8 +9,3 @@ If you are interested, please <a href="/contact">drop me a line</a> with a brief
 The next version of Parallel Sets is in the works, and I hope to get it done this week. Things are fairly busy right now with proposal writing, and I have a few bugs to fix before I can release 2.1. But it will have a few new useful features, and be able to deal better with very high-dimensional data.
 
 In unrelated site news, comments are now moderated again. I am getting around 50 spam comments a day at the moment, so there is unfortunately no way around this. I am trying to moderate new comments quickly, but it can take some time for them to be published.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "We Need a World Visualization Day!"
-description: "Visualization is still mostly done by academics, who are notoriously bad at communicating their work to the world. This is why we need a World Visualization Day: to show the world what visualization can do, and to get some attention from the public and the media. If you're attending the Vis/InfoVis conference, come to the BOF meeting (Mon, Oct 29 at 6pm) to discuss further steps!"
-date: 2007-10-06 09:20:28
-tags: 
-featuredImage: 
----
-
 # We Need a World Visualization Day!
 
 Visualization is still mostly done by academics, who are notoriously bad at communicating their work to the world. This is why we need a World Visualization Day: to show the world what visualization can do, and to get some attention from the public and the media. If you're attending the Vis/InfoVis conference, come to the BOF meeting (Mon, Oct 29 at 6pm) to discuss further steps!
@@ -38,28 +30,3 @@ But there are a few things that are self-evident, and I want to at least get sta
 	<li>Collect ideas</li>
 </ul>
 If you're attending the <a href="http://vis.computer.org/vis2007/">Vis/InfoVis conference</a> in Sacramento, come to the BOF on Monday, October 29 at 6pm!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://diuf.unifr.ch/people/bertinie/visuale/" rel="nofollow noopener" target="_blank">Enrico Bertini</a> says…
->	Hi Robert!
->	
->	I will be at Vis/InfoVis/VAST the whole week. I like the idea and I am ready to help, I will be at the BOF.
->	
->	I hope to meet you there.
->	
->	Best,
->	Enrico.
-
-Cheryl Morris says…
->	I, too, will be at Vis/InfoVis/VAST and will come to the BOF. Look forward to meeting you.
-
-</aside>
-

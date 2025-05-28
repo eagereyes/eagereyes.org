@@ -1,11 +1,3 @@
----
-title: "The Sad State of the InfoVis Contest"
-description: "In some fields, contests drive research and the entire field forward. Those contests are prestigious, and people list the fact that they won the contest in their CVs. In InfoVis, the contest is trying to appeal to researchers, but is getting little attention. What should the role of the contest be? And how can we make it more interesting?"
-date: 2008-09-01 10:09:16
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/gladiator.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" border="0" alt="Gladiators" /></p>
 
 # The Sad State of the InfoVis Contest
@@ -47,36 +39,3 @@ But relevant data may not be the sexiest. I also feel that many people like toy 
 So where do we go from here? Unless our plans change, the data for next year will have something for everybody. It's large but can be broken down into smaller pieces in a logical way, it has a temporal component, and it can be seen as a network or multi-dimensional data (or both). It is also something everybody should be able to relate to, and it will be available at the conference.
 
 This could be a good way to get a lot of submissions to then turn up the heat the year after with a more difficult data set. We'll see if that works.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Ian Turton says…
->	I suspect the problem in recent years has been that some groups have been split by trying to compete in the VAST contest as well as the Info-Vis contest. There really is no way to do a good job of entering both competitions unless info-vis was to release it's data much earlier in the year, then it might be possible.
->	
->	Ian
-
-Robert Kosara says…
->	What's a good time to release the data? Is the conference early enough? As I said above, we're going to do that this year.
-
-<a href="http://had.co.nz" rel="nofollow noopener" target="_blank">Hadley Wickham</a> says…
->	You might want to draw some inspiration from the long-running American Statistical Association Data Expo competitions, http://stat-computing.org/dataexpo/.  These have been running every 2-3 years (or thereabouts) since 1983.  Some of the things that we do to encourage entries include organising a special journal issue for the top papers and giving generous prizes (e.g. $1000 for first place).  This year the challenge is to analyse, summarise and visualise airline on-time performance data for the last 20 years - http://stat-computing.org/dataexpo/2009/.  The data set is large (120 million records, 11 gig of data) but the website provides some support to get up and running, including shell scripts to filter and sort the data, some code to load the data into an sql database linked to R (the lingua franca of statistics).  So far this seems to be successful in encouraging people with a wide range of skills to take part.
->	
->	As someone who has entered the infovis challenge in the past, one of the reasons that we didn't enter this year is because the data is so low level.  It seemed like too much effort to get the data into a format that was actually interesting - say, time series of spatial locations for individuals.  The data is also rather specific and not very interesting to me - I'd rather analyse data that has some bearing on my everyday life.  As a statistics group, we have also been rather put off by the emphasis on developing flashy single use applications, rather than trying to fully understand the data or reusing existing tools in imaginative ways.
->	
-
-Petra Isenberg says…
->	I have followed the infovis contest closely since its beginning and I have wanted to submit to but I have never done so for a couple of reasons.<br>
->	First of all, as a grad student, I can relate very much to the point you're making about incentives. It seems that I would get little credit for participation in the contest. There is no real publication of it and the website is in a pretty obscure place (actually, it seems that there isn't even a common site anymore) so it can't even be referred to. I liked the initial idea of the contest - you could enter your solution in a repository of solutions of the particular dataset - even if you reused the dataset years later, but that seems to have been dropped (why?). However, even back then the website, wasn't ever too visible. <br>
->	Secondly, I have had some issues with the past datasets as well. The Census dataset did miss some parsers or at least a released parsed subset of it to work from. The data was not uninteresting but it was huge and for a submission that would often only be a side project (thesis work usually has to come first),  spending days on learning and parsing the data is not justifiable (I acknowledge that with the proper tools someone could have done the parsing quickly but I do believe it wasn't obvious to everyone and has lowerered submissions). I think you did a good job with the movie dataset. This year's dataset to me wasn't as appealing because the work already seems to have a good solution that was well researched and presented in last year's best paper. I know there are always other interesting ways to do it differently but it is just way more appealing to work on problems that at least don't have a very recent solution presented.<br>
->	What I really liked about the first infovis contest (2003) is that it had sub challenges (e.g. tree comparison, show the temporal history, etc.). The goal of the current challenge is pretty vague although I like the idea that you don't have to solve a particular set of tasks for a submission. If the research <strong>challenges</strong> would be more clearly pointed out that may make the contest also more appealing (e.g. visualizing uncertainty, ...).<br>
->	Lastly, I can second the comments that said that the contest was released too late. As a TA for an infovis course I would have liked to give people at least a subset of the data as a challenge. Entering a contest with a course project could be a great incentive for students. However, if the contest isn't released by the start of a particular semester (either September or January) then it cannot be used as a course project. 
-
-</aside>
-

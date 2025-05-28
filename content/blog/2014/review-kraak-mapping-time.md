@@ -1,11 +1,3 @@
----
-title: "Review: Kraak, Mapping Time"
-description: "Can you write an entire book about a single chart? Even if that chart is supposedly the best one ever? Menno-Jan Kraak's new book, Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812, discusses the historical context of Minard's work, his, life, and walks through a number of design exercises to show the same or similar data in different ways."
-date: 2014-06-25 21:01:07
-tags: book-reviews
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTime_lg.jpg
----
-
 <p align="center"><img class="aligncenter size-full wp-image-8242" src="https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTime_lg.jpg" alt="Kraak, Mapping Time" width="500" height="500" /></p>
 
 # Review: Kraak, Mapping Time
@@ -43,8 +35,3 @@ That makes this book successful not just as a description of one of the most fam
 <hr />
 
 Menno-Jan Kraak, <a href="http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0"><em>Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812</em></a>. Esri Press, 2014.
-
-
-<PostedBy />
-
-

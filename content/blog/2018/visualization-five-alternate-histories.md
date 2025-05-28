@@ -1,11 +1,3 @@
----
-title: "Visualization: Three Alternate Histories"
-description: "The academic visualization community largely comes from computer science: most of the professors teach in computer science (or similar) departments, most of the students doing research are computer science students of some flavor or other. It's interesting to consider how the field might be different if visualization had emerged from a different discipline."
-date: 2018-05-22 12:23:37
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg" width="700" height="679" /></p>
 
 # Visualization: Three Alternate Histories
@@ -61,34 +53,3 @@ The reason for computer science playing the role it does in visualization is pre
 Computer science has its own ideas about doing things, of course, which strongly bias what is considered good and valid research. One of them is the idea of algorithms and general solutions: what you do should work for any data, or at least across a large range of data and situations. That's [quite contrary to ideas in art](https://twitter.com/giorgialupi/status/994278364323221504), information graphics, even journalism, where making something bespoke and unique is an important consideration.
 
 Computing does bring a lot to the table too, though. Tools like Tableau, libraries like D3, the ability to store and process virtually any amount of data, etc. – those don't just come out of nowhere. If visualization had emerged from another field, we probably wouldn't have any of those things. That isn't to say that this is the best possible reality, but it's the one we're in. Considering the alternatives is helpful to understand our biases that come out of that, and hopefully start to address those. This is happening slowly with researchers embracing (or at least recognizing the value of) sketching, using data journalism pieces to understand how data can communicate, and even making the occasional piece of data art.
-
- 
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamarierhyne.com/" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Hi Robert:
->	
->	Thank you for preparing a fun and informative discussion on the field of computer generated visualization.  As you wisely note, statistical graphics and cartography were examining the concepts of "visualization" prior to the evolution of compute generated solutions. It could also be said that hand drawn animation and story telling was doing it as well. Then we could also include the contributions of architects and engineers when it came to designing buildings and mechanical structures - they were doing "visualization".  
->	
->	Beyond computer generated visualization, there is also a kind of mental visualization that athletes, dancers, and others in the performing arts use. Some people in the area of "mind power" speak of visualization as " a mental rehearsal where you create images in your mind of having or doing a desired objective". This kind visualization has been around for a long time and does not require computer science. Happily, computer generated visualization has been very helpful in expanding the horizons of mental visualization.
->	
->	Smiles..... Theresa-Marie
-
-<a href="http://jindal.utdallas.edu/som/faculty/judd-bradbury" rel="nofollow noopener" target="_blank">Judd D. Bradbury</a> says…
->	This is a really good post Robert. I have always considered Bertin and Tukey proceeding down equivalent paths having many of the same ideas about analysis. There are lots of advancements that have value beyond boiling them into the next software feature. The statement on taking bespoke examples and learning from them is an idea that our field needs to embrace. Many fields of research learn from taking a very high quality example of something and dissecting it to understand why it works so well. We can learn a lot by studying a single Rosling. The ten thousand knock-offs that came after it are not going to tell us any more than the original. Your post provides and reminds how wide and rich the field is if we open our mind and take a look around.
->	
->	You are really good at that BTW.
-
-Bilal says…
->	A very thoughtful and insightful read, thank you Robert!
-
-</aside>
-

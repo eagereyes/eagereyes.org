@@ -1,11 +1,3 @@
----
-title: "Joy Plots"
-description: "Let’s talk about plots and joy. The Joy of Plots, if you will. Also, Joy Plots."
-date: 2017-07-10 20:41:08
-tags: horizon plot, bar chart
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/07/joy-plot.jpg
----
-
 # Joy Plots
 
 Let’s talk about plots and joy. The Joy of Plots, if you will. Also, Joy Plots.
@@ -41,37 +33,3 @@ What this chart and the Joy Plot have in common is that they’re the more uncom
 What they both have in common is also that they show the value and fun in exploring slightly unusual chart types for relatively mundane data. It can be a joy to plot data. Joy plotting data. Joy plots. I’ll just keep saying that because it’s fun to say. Joy plots.
 
 (Also it’s vacation time and nobody’s reading anything I write here anyway)
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.ii.UiB.no/vis/" rel="nofollow noopener" target="_blank">Helwig Hauser</a> says…
->	Fishing (at the very end; for compliments, I mean), right?  :-)     
->	With success, as it seems! :-)
->	Nice post with an interesting reflection:  correct, but joyless -- who prefers what?
-
-<a href="http://boraberan.wordpress.com" rel="nofollow noopener" target="_blank">Bora Beran</a> says…
->	Here is a Tableau version of Joy Division's Unknown Pleasures with a rotation parameter to manipulate viewing angle/depth
->	
->	https://public.tableau.com/views/3DChartsinTableau/VizArt-UnknownPleasures?:embed=y&amp;:showVizHome=no
-
-<a href="http://twitter.com/missleigh" rel="nofollow noopener" target="_blank">Leigh Fonseca (@missleigh)</a> says…
->	Robert, I like your bar chart redesign.  The white space nicely underscores the differences between the values.  It's a nice reminder to promote simplicity for clarity's sake.  I think I'll add a similar example to my Tableau class this week.
-
-Michael Griffiths says…
->	Minor note -- I believe Jenny Bryan coined the term. See here for Henrik Tweet referring to the event: https://twitter.com/hnrklndbrg/status/884536221371949058
-
-<a href="https://acadgild.com/big-data/big-data-development-training-certification" rel="nofollow noopener" target="_blank">Kuldeep Sharma</a> says…
->	Great analysis ....the Russian thing is so true :D
-
-Avantika Thapa says…
->	how can we make this graph?
-
-</aside>
-

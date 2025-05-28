@@ -1,0 +1,9 @@
+T.J. Jankun-Kelly says…
+>	<p>Visualization and graphics (statistical or otherwise) are as much of a tool as is the simple lever. One may seem more "technological" due to its physicality, but both are technology in the sense they are tools that assist us accomplish tasks. To say that Nightingale's work was a technological advancement is to say that the "invention" of the calculus was not a technological advance. So, no streching at all.<br /><br />Good article, BTW. To be fair to Playfair (or make the case for Nightingale more complete), <a title="Pie Chart: History" href="http://en.wikipedia.org/wiki/Pie_chart#History&quot;">he did also "invent" the (non-polar area) pie-chart</a> as well. Nightingale's version (supposedly <a title="Florence Nightingale's statistical diagrams" href="http://www.york.ac.uk/depts/maths/histstat/small.htm">not called coxcomb by her</a>, that refered to something else) addressed the compairson problem you mentioned directly in contrast to pie charts.</p>
+
+Robert Kosara says…
+>	<p>I'm not sure I would want technology to subsume maths, so I still think it is a stretch. But because Nightingale's graphs involved more than just the numbers, I think it's no too bad.</p>
+>	<p>Thanks for that link, that's a very interesting article! I know about the pie chart and who invented it, but I didn't want to make this too complicated. There's certainly more to be said about the early history of visual communication of numbers, and that article has some good information on that, too.</p>
+
+T.J. Jankun-Kelly says…
+>	<p>It appears the Small article is part of a much larger collection of documents by the U. of York: <a title="Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualization" href="http://www.math.yorku.ca/SCS/Gallery/milestone/">Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualization</a>. A few day's reading...</p>

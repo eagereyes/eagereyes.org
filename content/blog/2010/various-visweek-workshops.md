@@ -1,11 +1,3 @@
----
-title: "Various VisWeek Workshops"
-description: "I want to call your attention to three interesting workshops that will be held at VisWeek 2010 in October in Salt Lake City. One is on storytelling in visualization, another on visual analytics in healthcare, and a third one on theory in infovis. The deadlines for two of them are coming up soon."
-date: 2010-07-27 11:00:10
-tags: 
-featuredImage: 
----
-
 # Various VisWeek Workshops
 
 I want to call your attention to three interesting workshops that will be held at <a href="http://vis.computer.org/VisWeek2010/">VisWeek 2010</a> in October in Salt Lake City. One is on storytelling in visualization, another on visual analytics in healthcare, and a third one on theory in infovis. The deadlines for two of them are coming up soon.
@@ -35,21 +27,3 @@ The deadline for submissions for this workshop is <strong>August 2</strong>, wit
 <hr />
 
 These are just the three workshops I know of. Feel free to post pointers to others below.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Carlos Scheidegger says…
->	(The first paragraph is missing an ending)
-
-Robert Kosara says…
->	I fixed it, thanks ;)
-
-</aside>
-

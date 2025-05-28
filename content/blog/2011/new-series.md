@@ -1,11 +1,3 @@
----
-title: "New Series: Watchlist"
-description: "Some of the most exciting work in our field is done by up-and-coming doctoral students, post-docs, and junior faculty members. In a new semi-regular series, I will highlight some of the people whose work I find particularly interesting and promising. The goal is to get their names onto people's radars earlier than this would have otherwise happened, in particular for those individuals who don't make a lot of noise about their work."
-date: 2011-11-08 22:10:19
-tags: meta, journalism
-featuredImage: 
----
-
 # New Series: Watchlist
 
 Some of the most exciting work in our field is done by up-and-coming doctoral students, post-docs, and junior faculty members. In a new semi-regular series, I will highlight some of the people whose work I find particularly interesting and promising. The goal is to get their names onto people's radars earlier than this would have otherwise happened, in particular for those individuals who don't make a lot of noise about their work.
@@ -23,8 +15,3 @@ Since I am currently serving on my college's review committee, I am keenly aware
 In a way, this is the opposite to my <a href="/influences">Lists of Influences series</a>, which hasn't seen any updates recently, despite my efforts. Since the Watchlist doesn't require cooperation from the individuals who are being discussed, this should be easier and quicker to write.
 
 The plan is to write one entry per month for the next few months, and then whenever somebody's work strikes my fancy.
-
-
-<PostedBy />
-
-

@@ -1,12 +1,3 @@
----
-title: "IEEE VIS 2017: A SciVis Perspective"
-description: "Since my (Robert)'s conference reports are almost entirely focused on InfoVis (and a bit of VAST), I have asked Noeska Smit, medical visualization professor and my collaborator in the Vis Potpourri postings, to write about VIS from the SciVis perspective. Everything below are Noeska's words."
-date: 2017-10-16 08:33:46
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg" width="720" height="480" /></p>
 
 # IEEE VIS 2017: A SciVis Perspective
@@ -56,8 +47,3 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
     <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
-
-
-<PostedBy />
-
-

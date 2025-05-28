@@ -1,12 +1,3 @@
----
-title: "List of Influences: Jock Mackinlay"
-description: "Jock D. Mackinlay was working on information visualization long before the field or the term even existed. His Ph.D. thesis on the automatic visual representation of data translated Bertin's semiological texts into a useful piece of software (and badly-needed visualization theory). His work also includes Cone Trees, the Perspective Wall, an analysis of the visualization design space, as well as the Readings in Information Visualization (together with Stuart Card and Ben Shneiderman). Mackinlay worked at PARC from 1986 to 2004, when he joined Tableau Software &ndash; a company based on a Ph.D. thesis inspired by his work 15 years earlier."
-date: 2008-07-29 22:31:58
-tags: influences
-featuredImage: 
-outline: false
----
-
 # List of Influences: Jock Mackinlay
 
 <a href="http://en.wikipedia.org/wiki/Jock_D._Mackinlay">Jock D. Mackinlay</a> was working on information visualization long before the field or the term even existed. His Ph.D. thesis on the automatic visual representation of data translated Bertin's semiological texts into a useful piece of software (and badly-needed visualization theory). His work also includes Cone Trees, the Perspective Wall, an analysis of the visualization design space, as well as the <a href="http://www.amazon.com/Readings-Information-Visualization-Interactive-Technologies/dp/1558605339"><em>Readings in Information Visualization</em></a> (together with Stuart Card and Ben Shneiderman). Mackinlay worked at PARC from 1986 to 2004, when he joined <a href="http://www.tableausoftware.com/">Tableau Software</a> – a company based on a Ph.D. thesis inspired by his work 15 years earlier.
@@ -23,8 +14,3 @@ outline: false
 - Christopher Ahlberg, Christopher Williamson, Ben Shneiderman, <a href="http://portal.acm.org/citation.cfm?id=143054">Dynamic Queries for Information Exploration: An Implementation and Evaluation</a>, <em>Proceedings of ACM CHI</em>, pp. 619-626, 1992. <em> This influential paper describes the power of interactive animation for data analysis.</em>
 - Colin Ware, <a href="http://www.amazon.com/Information-Visualization-Second-Interactive-Technologies/dp/1558608192/"><em>Information Visualization: Perception for Design</em></a> (2000) <em> This book describes how knowledge about human perception can be used to design effective visualizations.</em>
 - Chris Stolte, Diane Tang, Pat Hanrahan, <a href="http://www.graphics.stanford.edu/projects/polaris/#pubs">Polaris: A System for Query, Analysis, and Visualization of Multi-Dimensional Relational Databases</a>. <em>IEEE Transactions on Visualization and Computer Graphics</em>, 8(1), pp. 52-65, 2002. <em>This paper describes how information visualization can be connected to databases with an intuitive drag-and-drop user interface, thus connecting visualization research to the practical world of computer-based data. After reading this paper, I accepted with interest and enthusiasm Chris’s invitation to be a member of his dissertation committee. Turned out his dissertation was built directly on ideas from my dissertation. When he later invited me to join him at Tableau Software to commercialize these ideas, I jumped at the chance to bring visual analysis to everyone.</em>
-
-
-<PostedBy />
-
-

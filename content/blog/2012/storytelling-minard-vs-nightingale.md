@@ -1,11 +1,3 @@
----
-title: "Storytelling: Minard vs. Nightingale"
-description: "There is a lot of confusion about storytelling and what tells a story. I have argued previously that stories do not tell themselves. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it."
-date: 2012-08-13 20:34:40
-tags: blog/2013
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/06/Minard-Napoleon.png
----
-
 # Storytelling: Minard vs. Nightingale
 
 There is a lot of confusion about storytelling and what tells a story. I have <a title="Stories Don’t Tell Themselves" href="/blog/2010/stories-dont-tell-themselves">argued previously that stories do not tell themselves</a>. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it.
@@ -33,21 +25,3 @@ The key difference, I believe, is the map. It makes it easy for us to turn the t
 It's also a kind of lazy storytelling. Of course you can make people see a story when you give them a map. But what if there is no map? What if location doesn't mean anything? I don't know if Minard was interested in telling a story, or if he considered not using a map. I do know that Nightingale's goal was not to tell a story, but to convince an audience that had barely heard of statistics, much less understood what numbers could tell them. But whether those decisions were based on the intent to tell stories or not, the outcomes are vastly different.
 
 We are so hard-wired for causality and stories that it's difficult to look at something like a map and not tell a story. We are incredibly creative at filling in the blanks. That can be useful when we are given hints and we revel in the creative act of making up a story (good photography evokes that kind of storytelling), but it can also lead to misinterpretation and wrong conclusions. The key to storytelling with data is not only to be able to convey a story, but to make sure that it's the intended one.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.annettesimmons.com" rel="nofollow noopener" target="_blank">Annette Simmons</a> says…
->	Thank you for reminding me how much maps and charts tell stories, or activate us to make up our own stories.  I will be working with some doctors soon and I need to remember that.
-
-derek says…
->	The key dimension in a story is not space, but time. For some reason Nightingale chose to bury the time. A Playfair-style bar chart would have been much more compelling, but I think cartesian time-series charts were already thought "boring" and "conventional" even then.
-
-</aside>
-

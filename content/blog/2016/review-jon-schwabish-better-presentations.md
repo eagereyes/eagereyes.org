@@ -1,12 +1,3 @@
----
-title: "Review: Jon Schwabish, Better Presentations"
-description: "Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she’d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began)."
-date: 2016-11-30 08:19:57
-tags: book-reviews, criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg" width="720" height="500" /></p>
 
 # Review: Jon Schwabish, Better Presentations
@@ -36,8 +27,3 @@ While much of the book talks about slides, Jon suggests creating the structure a
 <hr />
 
 Jonathan Schwabish, <a href="https://www.amazon.com/gp/product/0231175213/"><em>Better Presentations: A Guide for Scholars, Researchers, and Wonks</em></a>. Columbia University Press, 2016.
-
-
-<PostedBy />
-
-

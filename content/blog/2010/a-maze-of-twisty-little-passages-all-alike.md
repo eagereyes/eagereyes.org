@@ -1,12 +1,3 @@
----
-title: "A Maze of Twisty Little Passages, All Alike"
-description: "Theoretical research is a tough sell, and not just in computer science. Not only are we expected to produce things we can demo, it's also hard to tell beforehand what exactly the results will be. But that is exactly why we need to do research: because we don't know. Applied research is obviously important, but the current trend towards only applied work is worrying."
-date: 2010-08-12 21:34:44
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/proof-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/proof-teaser.png" alt="" width="560" height="139" /></p>
 
 # A Maze of Twisty Little Passages, All Alike
@@ -36,8 +27,3 @@ To add insult to injury, the results often seem obvious and easy. Few people rea
 As a final illustration of the point, here's a comic from <a href="http://abstrusegoose.com/230">abstruse goose</a> that I think is incredibly accurate (click for a slightly larger version). Give it a bit of time, trust me. Like all fundamental things, it takes a bit to sink in.
 
 <a href="http://abstrusegoose.com/strips/it_is_obvious.PNG" rel="lightbox"><img src="https://media.eagereyes.org/media/2010/proof_560.png" alt="" width="560" height="464" /></a>
-
-
-<PostedBy />
-
-

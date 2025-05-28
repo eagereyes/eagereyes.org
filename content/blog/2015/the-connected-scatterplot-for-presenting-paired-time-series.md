@@ -1,12 +1,3 @@
----
-title: "Paper: The Connected Scatterplot for Presenting Paired Time Series"
-description: "I’m very happy to finally be able to announce our paper on the connected scatterplot technique. It describes the technique, provides some historical perspective, and most of all looks into how easy to understand and engaging the technique actually is."
-date: 2015-11-22 21:04:50
-tags: paper, papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg" alt="" width="825" height="428" /></p>
 
 # Paper: The Connected Scatterplot for Presenting Paired Time Series
@@ -36,25 +27,3 @@ This is work with Steve Haroz and Steven Franconeri, both at Northwestern Univer
 <hr />
 
 Steve Haroz, Robert Kosara, Steven L. Franconeri, <a href="/publications/Haroz-TVCG-2016">The Connected Scatterplot for Presenting Paired Time Series</a>, <em>Transactions on Visualization and Computer Graphics</em> (TVCG), vol. 22, no. 9, pp. 2174–2186, 2016. DOI: 10.1109/TVCG.2015.2502587
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://sanamojdehauthor.wordpress.com" rel="nofollow noopener" target="_blank">sanamojdeh</a> says…
->	Informative. Thanks.
-
-Judd Bradbury says…
->	A great body of work Robert. Before this paper I had viewed the CS as simply defining time on the Z axis. Figure 6 a-d was a very helpful review of static, variable change, and correlations. Once solid in the mind, quick assessments can be made.
->	
->	In reviewing these examples this semester with my class, the major challenge seems to be with our bias regarding the arrow of time. My students describe having to fight through their preconceived notions that time belongs on the X. I also feel myself over riding my bias when reviewing the CS. Some preliminary work I have done on the temporal bias suggests that the biases found in the research regarding the East and Middle East alternate bias of right to left is falling away. (further deepening the left to right bias)
->	
->	I like Ms. Cox courage in bringing these forward. As always, your work is a very informative read.
-
-</aside>
-

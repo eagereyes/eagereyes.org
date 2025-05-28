@@ -1,11 +1,3 @@
----
-title: "An Outsider’s Guide to the IEEE VIS Conference 2020"
-description: "Want to watch a keynote by a Nobel laureate, catch the presentations of the best papers, or attend a workshop on visualization for communication? The IEEE VIS conference is taking place online in two weeks, October 25 to 30, and is free to attend this year. Here are a few starting points if you’ve never been to VIS and don't know why you should attend or what to watch."
-date: 2020-10-11 19:34:14
-tags: IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020-why.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020-why.png" width="527" height="396" /></p>
 
 # An Outsider’s Guide to the IEEE VIS Conference 2020
@@ -61,21 +53,3 @@ And then there’s everything else. I picked the items above because I think the
 Paper talks can be hit and miss, but if one of the above has piqued your interest, look around the program and pick a session or two to attend. Don’t be put off by a single talk that’s boring or impossible to understand, you’ll find another one that’s amazing and easy to follow.
 
 There’s a lot of great work at VIS every year, and one of the few advantages of the situation we’re in is that you’re able to see much more of it for yourself for free. So give it a shot!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Randy Rohrer says…
->	Thanks for the advice and info Robert. Several of my colleagues will be attending IEEE VIS for the first time.Your recommendations will be quite useful to them.. But mostly I want to thank you and recognize you for proper and correct use of time zones and daylight savings time (i.e. MDT). It drives me crazy when people and particularly learned organizations don't use daylight saving time and time zones correctly. (I'm looking at you ACM and IEEE.) Yes it's a pet peeve of mine. :-)
-
-Mirela Reljan-Delaney says…
->	Thank you for the summary Robert. We are hoping that our Data Visualisation students will follow the proceedings this year and this is fantastic introduction. Also, I absolutely second your observations re Tina the virtual assistant. I absolutely hated the experience.
-
-</aside>
-

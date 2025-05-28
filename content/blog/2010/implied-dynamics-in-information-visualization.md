@@ -1,12 +1,3 @@
----
-title: "Paper: Implied Dynamics in Information Visualization"
-description: "Design is usually considered a minor point in visualization. Does it make a difference what color scheme you use (as long as it's not an atrocious one), how thick your lines are, whether you put a background behind your chart, etc.? Caroline Ziemkiewicz and I presented a paper at Advanced Visual Interfaces (AVI) where we reported on a study we had performed to find out."
-date: 2010-05-30 21:06:57
-tags: papers
-featuredImage: https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png" alt="" width="560" height="362" /></p>
 
 # Paper: Implied Dynamics in Information Visualization
@@ -30,8 +21,3 @@ In work that is currently under review, we took these findings further to see wh
 <hr />
 
 Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-AVI-2010">Implied Dynamics in Information Visualization</a>, <em>Proceedings Advanced Visual Interfaces (AVI)</em>, pp. 215–222, 2010.
-
-
-<PostedBy />
-
-

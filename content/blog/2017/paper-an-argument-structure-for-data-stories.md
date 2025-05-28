@@ -1,12 +1,3 @@
----
-title: "Paper: An Argument Structure for Data Stories"
-description: "There is talk about stories having a beginning, middle, and end, but what does that mean for data stories? How do you create the overall structure for those? In a paper to be presented at EuroVis next week, I discuss a simple but very useful structure that I have found \"in the wild,\" and that I believe to be useful and generalizable."
-date: 2017-06-07 18:17:48
-tags: paper, papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/Kosara-EuroVis-2017.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg" width="850" height="745" /></p>
 
 # Paper: An Argument Structure for Data Stories
@@ -26,18 +17,3 @@ BTW, the reviewers complained that the paper didn't contain any visualizations, 
 <hr />
 
 Robert Kosara, <a href="/publications/Kosara-EuroVis-2017">An Argument Structure for Data Stories</a>, <em>Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)</em>, 2017.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Rick Gill says…
->	A quick read of your paper gives me the impression that your argument structure appears to closely resemble that offered by Dr. Tim van Gelder in Australia. He uses his CASE model (Contention, Argument(s), Source(s) and Evidence) as the basis for his method of argument mapping, and together with his business partners, Dr. Paul Monk and Dr. Richard de Rosario, offers online courses on argument mapping using the CASE model.  See TimvanGelder.com and learn.vangeldermonk.com
-
-</aside>
-

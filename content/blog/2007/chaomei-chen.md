@@ -1,12 +1,3 @@
----
-title: "List of Influences: Chaomei Chen"
-description: "The second list of influences is by Chaomei Chen. He is an associate professor at Drexel University and the editor-in-chief of the Information Visualization journal. He has also authored or co-authored six books, the most recent of which is Information Visualization: Beyond the Horizon. His research interests include the visualization of social networks in general and co-citation networks in scientific publications."
-date: 2007-02-11 13:55:55
-tags: influences
-featuredImage: 
-outline: false
----
-
 # List of Influences: Chaomei Chen
 
 The second <a href="/tag/influences">list of influences</a> is by <a href="http://www.pages.drexel.edu/~cc345/">Chaomei Chen</a>. He is an associate professor at Drexel University and the editor-in-chief of the <em><a href="http://www.palgrave-journals.com/ivs/index.html">Information Visualization</a></em> journal. He has also authored or co-authored six books, the most recent of which is <em><a href="http://www.amazon.com/exec/obidos/ASIN/1852337893/">Information Visualization: Beyond the Horizon</a></em>. His research interests include the visualization of social networks in general and co-citation networks in scientific publications.
@@ -25,18 +16,3 @@ Chaomei sent me not only a list, but also a very interesting introduction and co
 - R. W. Schvaneveldt, F. T. Durso, and D. W. Dearholt, Network structures in proximity data. <em>The Psychology of Learning and Motivation: Advances in Research and Theory</em>, vol. 24, pp. 249-284, 1989. <em>Pathfinder network scaling. I was able to generalize the use of this procedure to a wide variety of networks as a means of reducing the complexity of link structures in networks.</em>
 - Howard D. White, and Katherine W. McCain. <a href="http://www.asis.org/Publications/JASIS/Best_Jasist/1998WhiteandMcCain.pdf">Visualizing a discipline: An author co-citation analysis of information science, 1972-1995</a>. <em>Journal of the American Society for Information Science</em>, 49(4), 327-355, 1998. <em> Author co-citation analysis with multidimensional scaling. This article inspired me to introduce Pathfinder network scaling and VRML-rendered citation landscape models into author co-citation analysis and the later development of knowledge domain visualization.</em>
 - Henry G. Small, <a href="http://links.jstor.org/sici?sici=0306-3127(197705)7%3A2%3C139%3AACMOAS%3E2.0.CO%3B2-J">A co-citation model of a scientific specialty: A longitudinal study of collagen research</a>, <em>Social Studies of Science</em>, vol. 7, pp. 139-166, 1977. <em>Co-citation clusters revealing the change of research focus. This article drew my attention to document co-citation analysis, which became an integral part of my approach to mapping scientific frontiers.</em>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-oddmilk says…
->	Hi Robert, you might want to update the link to Information Visualization as its publisher has been changed to Sage.
-
-</aside>
-

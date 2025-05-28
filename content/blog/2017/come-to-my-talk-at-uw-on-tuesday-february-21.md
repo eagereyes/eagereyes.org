@@ -1,12 +1,3 @@
----
-title: "Come To My Talk At UW On Tuesday, February 21"
-description: "I'm giving a public lecture next Tuesday, February 21, at the University of Washington (UW). This is at the invitation of Professor Karen Cheng at the School of Art + Art History + Design. I will talk about what we know and what we don't know about visualization, and how we can expand our knowledge."
-date: 2017-02-15 07:17:35
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png" width="577" height="307" /></p>
 
 # Come To My Talk At UW On Tuesday, February 21
@@ -24,18 +15,3 @@ The talk I'm preparing is an extended version of my <em><a href="/papers/an-empi
 This talk is free and open to anybody who is interested. If you are, please indicate that on the <a href="https://www.facebook.com/events/357247961328763/">Facebook page</a>. There's also <a href="https://art.washington.edu/calendar?trumbaEmbed=view%3Devent%26eventid%3D122224872">the university's event calendar page</a>.
 
 There will be no live stream, but I believe the talk will be recorded. Should you be one of those unfortunate people who are not in or near Seattle, you will be able to watch it at some later point.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Sam Foo says…
->	Do you have the slides available from the lecture? Great talk by the way, I will associate effective data visualizations with monsters and spinach for a while.
-
-</aside>
-

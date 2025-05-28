@@ -1,11 +1,3 @@
----
-title: "VisWeek 2012 Digest, Part 2"
-description: "In this second installment, I pick some of the more noteworthy papers and events from Wednesday, Thursday, and Friday at VisWeek 2012. There was some remarkable work, which I think and hope will shape the future of visualization research."
-date: 2012-11-12 23:33:23
-tags: VisWeek, conference
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/11/sketchy-world.png
----
-
 # VisWeek 2012 Digest, Part 2
 
 In this second installment, I pick some of the more noteworthy papers and events from Wednesday, Thursday, and Friday at VisWeek 2012. There was some remarkable work, which I think and hope will shape the future of visualization research.
@@ -63,8 +55,3 @@ As part of the closing session, the details for next year were announced. The co
 All of that was met with cheers and applause. The part that had people scratch their heads a bit was another name change: next year’s event will be called IEEE VIS, which is supposedly an acronym for VAST, InfoVis, and SciVis. Not only is that a step back to ’60s style acronyms (UNIVAC, IBM, etc.), the change also doesn’t seem to have quite made its way through the entire organization. The <a href="http://visweek.org">VisWeek website</a> is announcing <em>VisWeek 2013</em>, and the <a href="http://ieeevis.org">supposed new website</a>, which originally pointed to the 3DUI conference, now just redirects there.
 
 I have to say that I hated the name “VisWeek” initially too, but at least it’s fairly distinctive (if ugly and weird to have the <em>week</em> part in it). Good luck googling for “VIS” in the future, or using a meaningful Twitter hashtag. Something tells me that we will end up at VisWeek 2013, though, not VIS 2013.
-
-
-<PostedBy />
-
-

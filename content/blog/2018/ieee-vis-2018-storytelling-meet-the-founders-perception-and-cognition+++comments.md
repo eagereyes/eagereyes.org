@@ -1,0 +1,6 @@
+<a href="http://theresamarierhyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
+>	HI Robert:
+>	
+>	I enjoyed reading your 3 posts on IEEE VIS 2018,  I wanted to add another perspective from the SciVis Contest and VAST Challenge side.  There were some very strong entries both of these contests that show the creative and hard work of many teams in the visualization community.  The Sci Vis Contest involved examine deep water asteroid impact ensemble data sets and the 8 finalist teams produced compelling SciVis implementations - see (http://ieeevis.org/year/2018/info/scivis-contest).  The VAST Challenge involved identifying patterns and discovering anomalies in bird migrations that were effected by water contamination in a wild life preserve.  Again, the breath and depth on the contributions were compelling with one of the winning entries being from a team of undergraduates. See these results at (http://ieeevis.org/year/2018/info/vast-challenge-program).  Although this is not the papers or panel presentation sides of the IEEE VIS event, it is a very important part of the particle of our field.  Each of the contributions shown at these two sessions represented hours of work in the discovery to patterns in SciVis and VAST data sets.  Very impressive indeed. 
+>	
+>	Theresa-Marie Rhyne

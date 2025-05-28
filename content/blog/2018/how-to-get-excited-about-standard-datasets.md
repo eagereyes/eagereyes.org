@@ -1,11 +1,3 @@
----
-title: "How to Get Excited About Standard Datasets"
-description: "It can be hard to get excited about the standard datasets that we keep using to show how visualization and statistics work. But if that's the case for you, it's not the datasets's fault, it's you! Here’s how to keep that spark going!"
-date: 2018-03-21 21:18:20
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/03/iris.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/03/iris.jpg" width="700" height="500" /></p>
 
 # How to Get Excited About Standard Datasets
@@ -41,8 +33,3 @@ Isn't it amazing how much you can learn from just four variables, though! It doe
 ## Love the Classics
 
 The classic datasets are <em>fine</em>. If they bore you, maybe it’s you who’s boring? If they don’t interest you, maybe you have the wrong interests? Generations of students have learned to love them, and so will you!
-
-
-<PostedBy />
-
-

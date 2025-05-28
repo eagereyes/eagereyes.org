@@ -1,11 +1,3 @@
----
-title: "EuroVis 2018, Monday and Tuesday"
-description: "EuroVis 2018 in Brno, Czechia, is in full swing. The first two days included workshops, the opening with a very fun and interesting keynote, and some good papers."
-date: 2018-06-05 07:49:01
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/06/Berry-Nucleosomes-cropped.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/Berry-Nucleosomes-cropped.jpg" width="720" height="480" /></p>
 
 # EuroVis 2018, Monday and Tuesday
@@ -59,21 +51,3 @@ James Scott-Brown has put together a great <a href="http://oa-eurovis.jamesscott
 <hr />
 
 <a href="https://www.wehi.edu.au/wehi-tv/nucleosomes">Teaser image by Drew Berry</a>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamarierhyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Thank you for providing an onsite update at EuroVIs 2018.
-
-<a href="http://bckwon.wordpress.com" rel="nofollow noopener" target="_blank">bckwon</a> says…
->	Thank you very much!
-
-</aside>
-

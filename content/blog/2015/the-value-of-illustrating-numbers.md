@@ -1,11 +1,3 @@
----
-title: "The Value of Illustrating Numbers"
-description: "Showing data isn't always about trying to convey an insight, or giving people the means to understand the intricacies of data. It can also be a tool to communicate a fact, an amount, or an issue beyond just the sheer numbers. Data illustration is poorly understood, but it can be very powerful."
-date: 2015-03-08 20:37:45
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/03/flights-europe.jpg
----
-
 # The Value of Illustrating Numbers
 
 Showing data isn't always about trying to convey an insight, or giving people the means to understand the intricacies of data. It can also be a tool to communicate a fact, an amount, or an issue beyond just the sheer numbers. Data illustration is poorly understood, but it can be very powerful.
@@ -38,24 +30,3 @@ What the gun deaths and drone strikes pieces (and, to an extent, the flights in 
 Among the many things we don't yet understand is the relationship and value of illustration compared to visualization. Illustrating a number is a noble endeavor, and one that needs to be done with thought and care. It's not an easy decision to make, and it's often hard to tell what a particular piece was built to achieve (and whether its creator had a clear enough idea).
 
 The examples above give a bit of a sense of where I think things are headed. And I hope that we can be a bit clearer in distinguishing illustrations and visualization. Because both are important when trying to get a point across.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://plus.google.com/+AndyCotgreave" rel="nofollow noopener" target="_blank">Andy Cotgreave</a> says…
->	Excellent post. Yr original tweet was an oversimplification and I think this post elaborates the differences nicely. 
->	
->	An illustration can inform though. Each of your examples informs me about something. 
->	
->	I get frustrated when people use the word 'visualization' as a proxy for something else. If I take data and visualize it it doesn't matter if I have informed,  illustrated,  sculpted,  educated,  the end result is visualization. 
->	
->	Ascribing a deeper purpose the word 'visualization' itself is wrong, though. For example you say the flight data was considered a viz even though you didn't get any insight. It is still a visualization.
-
-</aside>
-

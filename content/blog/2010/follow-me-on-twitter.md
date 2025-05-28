@@ -1,12 +1,3 @@
----
-title: "Follow Me on Twitter!"
-description: "If you enjoy reading my website, why not follow me on Twitter, too? So click the birdie above to get to my Twitter page!"
-date: 2010-08-02 20:44:26
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/bird.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384" /></p>
 
 # Follow Me on Twitter!
@@ -22,8 +13,3 @@ I'm probably also going to stop doing my own little microblog for VisWeek this y
 And if you haven't tried Twitter, this is your chance! There are lots of interesting people to follow, like the people on my <a href="http://twitter.com/EagerEyes/visualization/members">Visualization Twitter List</a>.
 
 So what are you waiting for? <a href="http://twitter.com/EagerEyes">Click the link!</a>
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "VIS 2015 – Thursday"
-description: "Between the sessions, parties, discussions, running, and the occasional short sleep break, I fell a bit behind on the blogging about VIS 2015. After separate postings for Tuesday and Wednesday, this part covers Thursday. The posting about Friday will be short, but squeezing both days into one felt like a bit too much."
-date: 2015-11-01 21:40:23
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser2.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser2.jpg" alt="" width="825" height="510" /></p>
 
 # VIS 2015 – Thursday
@@ -39,8 +31,3 @@ I already mentioned the <em>Voyager: Exploratory Analysis via Faceted Browsing o
 <a href="http://keshif.me/AggreSet/"><em>AggreSet: Rich and Scalable Set Exploration using Visualizations of Element Aggregations</em></a> by M. Adil Yalcin, Niklas Elmqvist, Benjamin B. Bederson is an interactive technique for exploring data items that can belong to many overlapping sets. You can play with it online at the paper URL linked in the previous sentence.
 
 Two more <a href="/blog/2015/tableau-papers-at-ieee-vis-2015">Tableau Research papers</a> were also presented in this session.
-
-
-<PostedBy />
-
-

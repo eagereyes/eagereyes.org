@@ -1,11 +1,3 @@
----
-title: "Sets of Possible Occurrences"
-description: "Visual representations of time are particularly interesting, because they seem so logical. A point in time is a point in the visualization, an interval is a line. But things are not always that simple: planning and temporal uncertainty require more powerful visual tools. Sets of Possible Occurrences (SOPOs) are an example of a visual representation of time that is very flexible and powerful – and totally unintuitive."
-date: 2006-10-24 07:17:22
-tags: techniques
-featuredImage: https://media.eagereyes.org/media/attachments/SOPOViewShot1.png
----
-
 # Sets of Possible Occurrences
 
 <p align="center"><img class="aligncenter" title="SOPOView Screenshot - Peter Messner" src="https://media.eagereyes.org/media/attachments/SOPOViewShot1.png" alt="SOPOView Screenshot - Peter Messner" width="555" height="341" /></p>
@@ -59,8 +51,3 @@ SOPOs represent something of a lost art, that of visual problem solving. By draw
 It would of course be silly to criticize SOPOs as a visualization, since that is not what they were intended to be. While they would ultimately be read visually, it was not Rit's intention to require a significant paradigm shift to simply explain sets of six numbers. SOPOs are almost write-only, they exist solely as an analytical tool, that draws its power from the peculiar way it represents the data visually. That way is very likely not useful as a general way of visualizing time, but it shows how specific problems can be solved using specific means.
 
 Unintuitive as they are, SOPOs help us break out of the usual way we look at time, and make us aware of the many assumptions we make about visual representations of the fourth dimension. That alone makes studying them worthwile, even if their role is that of the ladder in <a href="http://en.wikipedia.org/wiki/Tractatus_Logico-Philosophicus">Wittgenstein's metaphor</a>: after we have reached a higher point with their help, we can leave them behind.
-
-
-<PostedBy />
-
-

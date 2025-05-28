@@ -1,11 +1,3 @@
----
-title: "The Two-Paper Package"
-description: "Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers."
-date: 2016-03-20 21:50:44
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg" width="825" height="510" /></p>
 
 # The Two-Paper Package
@@ -49,20 +41,3 @@ It's also good strategy to avoid the <em><a href="https://en.wikipedia.org/wiki/
 <hr>
 
 <a href="https://commons.wikimedia.org/wiki/File:Chess-king.JPG">Teaser image by David Lapetina</a>, used under Creative Commons
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Alexander Rind says…
->	If these two papers are strongly coupled, the long+short paper strategy is not sustainable for the community. Then our future work on that topic will often need to cite both papers, which costs valuable page real estate. 
->	
->	A better strategy (for the community) would be to submit a regular journal paper, which usually allow for more space (e.g., 14 pages in TVCG).
-
-</aside>
-

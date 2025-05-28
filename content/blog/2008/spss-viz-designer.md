@@ -1,12 +1,3 @@
----
-title: "SPSS Viz Designer"
-description: "SPSS recently released their new Viz Designer, a visualization engine built on Leland Wilkinson's work (The Grammar of Graphics and nViZn). The comparison with Tableau is unavoidable since both are based on the same underlying ideas. Right now, Viz Designer does not look good in that comparison. "
-date: 2008-09-13 20:30:40
-tags: criticism
-featuredImage: https://media.eagereyes.org/media/2008/vizdesigner.jpg
-outline: false
----
-
 # SPSS Viz Designer
 
 <p align="center"><img src="https://media.eagereyes.org/media/2008/vizdesigner.jpg" border="0" alt="SPSS Viz Designer" /></p>
@@ -26,8 +17,3 @@ Viz Designer was made for producing graphics as the result of statistical analys
 One area were Viz Designer is clearly ahead is its integration with SPSS. While that might seem obvious, it offers a vast array of data analysis capabilities and of course also allows them to tap into their existing user base. SPSS is also planning on hosting a repository of user-contributed templates on its website, so they will be able to learn from others and presumably discuss their creations. That is undoubtedly a good idea, and one that even Tableau could learn from (though to be fair, they have <a href="http://www.tableaucustomerconference.com/">their own user conference</a>).
 
 Exposing the underlying engine and definition language is also interesting and might lead to some really interesting things. Involving their users is also a good thing and will certainly get people interested. In terms of features and interaction they still have a long way to go, though, and time will tell if Viz Designer can be more than a static back end to the actual (non-visual) analysis.
-
-
-<PostedBy />
-
-

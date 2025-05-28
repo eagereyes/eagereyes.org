@@ -1,11 +1,3 @@
----
-title: "Vote for our SxSW Panel on Visualization!"
-description: "It's that time of year again when annoying hipsters and wannabes start bugging you about their stupid SxSW panels. The panel proposal that Irene Ros has put together (and that includes yours truly) is different though, and well worth your time to vote."
-date: 2011-08-16 22:49:19
-tags: 
-featuredImage: https://media.eagereyes.org/media/2011/sxsw.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2011/sxsw.png" alt="" width="600" height="148" /></p>
 
 # Vote for our SxSW Panel on Visualization!
@@ -27,8 +19,3 @@ What's going to happen at the panel? Who knows! I'm usually the non-confrontatio
 To vote, you will have to create an account on the PanelPicker website, but it's quick and painless.
 
 <a href="http://longlivedatavis.com/">Vote!</a>
-
-
-<PostedBy />
-
-

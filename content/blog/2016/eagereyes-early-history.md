@@ -1,11 +1,3 @@
----
-title: "Eagereyes' Early History"
-description: "Just ahead of the first decade of this website's history clicking over, here's a look back at where things started. Some of those postings were terrible, some of them were quite prescient or are even still popular."
-date: 2016-09-26 04:17:27
-tags: A Decade of EagerEyes
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg" width="720" height="500" /></p>
 
 # Eagereyes' Early History
@@ -40,8 +32,3 @@ Things happened quickly in those early days! I didn't realize that within a few 
 Want to guess who left the first comment on eagereyes? Well, I'll tell you: it was Hadley Wickham! He argued with me in the comment section of <a href="/techniques/square-pie-charts">this article about square pie charts</a> that they're really the same thing as treemaps. Some of the earlier postings have comments, but those actually came later.
 
 I have a posting for later this week that will look at the time before October 1, 2006 – those days before, um, recorded history.
-
-
-<PostedBy />
-
-

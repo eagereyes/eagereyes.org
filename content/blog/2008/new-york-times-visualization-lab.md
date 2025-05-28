@@ -1,12 +1,3 @@
----
-title: "The New York Times Visualization Lab"
-description: "The New York Times' new Visualization Lab uses IBM's Many Eyes technology. While it provides easy access to a wealth of visualization techniques and the possibility to comment, there is one major difference: only data provided by the NY Times can be used. The kind and quality of that data will determine the success of this new site."
-date: 2008-10-28 23:26:23
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/nytimes-vizlab.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" border="0" alt="NYTimes VizLab" width="451" height="248" /></p>
 
 # The New York Times Visualization Lab
@@ -20,22 +11,3 @@ The big difference between Many Eyes and the NY Times VizLab is that users canno
 But that is where the New York Times can offer a huge value-add: by supplying data that cannot be easily found on the web, but that is collected by (or on behalf of) the NY Times. I'm specifically thinking of data like exit poll results, where usually only a small number of cross-sections are published. It would be excellent to have such data available to find some interesting comparisons of voters based on a number of criteria.
 
 The NY Times name will certainly drive traffic, but to make the site compelling and make people come back, an investment in good data will be needed.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.pdxsmiles.com/dental-implants-portland/" rel="nofollow noopener" target="_blank">Dr. Roger Portland</a> says…
->	<p>The Obama Acceptance Speech Wordle is pretty interesting. I wonder if this schematic is also used by psychologists.</p>
-
-<a href="http://mkredyty.net" rel="nofollow noopener" target="_blank">Pozyczki</a> says…
->	<p>Very nice write up. Thank for yours work.</p>
->	<p> </p>
-
-</aside>
-

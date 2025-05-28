@@ -1,11 +1,3 @@
----
-title: "The Camera Metaphor of Visualization Use"
-description: "A metaphor I've seen used to describe visualization a few times now is a camera: like a camera, visualization can be used to do good and bad things; like a camera, it requires skill to use well; like a camera, it allows you to discover new ways of seeing the world. It's actually quite a useful metaphor, and one that merits some exploration."
-date: 2011-06-12 21:37:52
-tags: 
-featuredImage: 
----
-
 # The Camera Metaphor of Visualization Use
 
 A metaphor I've seen used to describe visualization a few times now is a camera: like a camera, visualization can be used to do good and bad things; like a camera, it requires skill to use well; like a camera, it allows you to discover new ways of seeing the world. It's actually quite a useful metaphor, and one that merits some exploration.
@@ -37,18 +29,3 @@ Visualization does the same thing. Talk to somebody about patterns in data, and 
 But beyond that, your thinking changes. Being able to see your data and to directly interact with it gives you a much more immediate understanding. You also realize that very simple techniques can give you tremendous power to learn something about your data very quickly.
 
 But just like with cameras, we need to show people where the value is. It's not the cute picture frames or the kitschy star filter, it's opening your eyes and seeing what you can do with the tools you have on hand.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Lori Williams says…
->	I like the comparisons you draw here.  But I wonder if, for interactive vizzes, the better comparison is to video cameras rather than regular cameras.  The equivalent to "learning to see" could be "learning to tell a visual story". 
-
-</aside>
-

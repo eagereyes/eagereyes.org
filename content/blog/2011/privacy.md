@@ -1,11 +1,3 @@
----
-title: "Paper: Privacy-Preserving Visualization"
-description: "The point of visualization is usually to reveal as much of the structure of a dataset as possible. But what if the data is sensitive or proprietary, and the person doing the analysis is not supposed to be able to know everything about it? In a paper to be presented next week at InfoVis, my Ph.D. student Aritra Dasgupta and I describe the issues involved in privacy-preserving visualization, and propose a variation of parallel coordinates that controls the amount of information shown to the user."
-date: 2011-10-16 21:34:01
-tags: VisWeek, papers
-featuredImage: https://media.eagereyes.org/media/2011/privacy-teaser.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2011/privacy-teaser.png" alt="" width="600" height="388" /></p>
 
 # Paper: Privacy-Preserving Visualization
@@ -37,8 +29,3 @@ The key to all this is approaching the problem from a visual point of view, rath
 Aritra Dasgupta, Robert Kosara, <a href="/publications/Dasgupta-InfoVis-2011">Adaptive Privacy-Preserving Visualization Using Parallel Coordinates</a>, <em>Transactions on Visualization and Computer Graphics (Proceedings InfoVis)</em>, 2011.
 
 The paper will be presented in the very first InfoVis session on Wednesday, October 26, 8:30-10:00am.
-
-
-<PostedBy />
-
-

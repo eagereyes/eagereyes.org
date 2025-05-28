@@ -1,11 +1,3 @@
----
-title: "What Means Mean"
-description: "Data is often reported as a single number. Unemployment rates, housing prices, crime, etc. are all boiled down to single numbers that average over a large population. But averages, or means, hide much of the richness of the underlying data, and without at least a sense of the spread of the data values, are largely meaningless."
-date: 2013-08-06 20:27:21
-tags: attention
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/08/means-teaser.png
----
-
 # What Means Mean
 
 
@@ -22,30 +14,3 @@ Percentiles are one of the simplest ideas in statistics: sort the data values, t
 A common way of looking at data is to drop the top and bottom 5%, which leaves the range from <a href="javascript:switchToPercentile(2);">5% to 95%</a> (clicking these links will change the settings of the visualization above). That removes quite a bit of the range, though. Is <a href="javascript:switchToPercentile(1);">1% to 99%</a> better? How about the <a href="javascript:switchToPercentile(6);">interquartile range</a>? Talking about percentiles in the abstract is one thing, but seeing how much data, and how much of the range of values, that ignores, is quite another.
 
 Calculating percentiles requires additional data. With unemployment data, there is some on metro areas, sectors, and a number of demographic values. In other cases, that data is often not easy to find or simply not available. But whenever possible, we need to demand more context than a single number. A simple mean without such context is meaningless.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://gravatar.com/debbiemccullough" rel="nofollow noopener" target="_blank">debbiemccullough</a> says…
->	Wonderful writeup here.  I think it is important, as a statistician, to understand when using a mean is appropriate (versus say the median), and also how to include additional information that will put that mean into context (such as standard deviation, confidence intervals, etc.).  I also think that the recent advances in data visualization solves some of the problem here.  We no longer have to constrain ourselves to a few statistics to tell a story... why not paint a picture using the data?
-
-<a href="http://www.florianbrucker.de" rel="nofollow noopener" target="_blank">Florian</a> says…
->	A good introduction on how to deal with variation! In addition, people should be aware that there are multiple ways to determine a dataset's "center" (mean, median, etc.). Here's a small tool to play around with different definitions: http://www.florianbrucker.de/index.php?p=byallmeans
-
-<a href="http://geoanalytics.net" rel="nofollow noopener" target="_blank">Gennady</a> says…
->	Nice applet - works fine even on my phone. We've used a similar technique in our 2005 paper http://doi.ieeecomputersociety.org/10.1109/IV.2005.135
-
-lalaa says…
->	There's nothing to see but text :-(
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Fixed, thanks!
-
-</aside>
-

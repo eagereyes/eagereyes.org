@@ -1,11 +1,3 @@
----
-title: "Posters Program for Tapestry 2017"
-description: "The Fifth Tapestry conference for storytelling with data is only about six weeks away. To make it easier for academics and students to attend, we are adding a more formal posters program this year."
-date: 2017-01-10 23:17:19
-tags: tapestry
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/01/DSCF0541.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/DSCF0541.jpg" width="720" height="500" /></p>
 
 # Posters Program for Tapestry 2017
@@ -40,8 +32,3 @@ The submission process is a bit unusual, so here are the steps:
 </ul>
 
 Let me know if you have any questions!
-
-
-<PostedBy />
-
-

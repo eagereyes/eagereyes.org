@@ -1,11 +1,3 @@
----
-title: "ISOTYPE Book: Young, Prager, There’s Work for All"
-description: "This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz’s famous unemployed man icon."
-date: 2019-12-01 17:54:26
-tags: isotype, isotope-books
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/12/Work4All-teaser.jpg
----
-
 # ISOTYPE Book: Young, Prager, There’s Work for All
 
 This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz’s famous unemployed man icon.
@@ -75,21 +67,3 @@ The most interesting chart in the book, and the least ISOTYPE-y, shows the distr
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/Work4All-06.jpg" width="660" class="wp-image-12512"/></p>
 
 This is perhaps the most interesting ISOTYPE book I’ve seen so far. The subject matter strikes close to Otto Neurath‘s interests, and he was still alive when this book came out (he died at the end of 1945), so perhaps that led to the variety of different charts here. Though it may also have been mostly or entirely Marie Neurath’s work, like the later books illustrated by the ISOTYPE Institute.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.koponen-hilden.fi" rel="nofollow noopener" target="_blank">Juuso Koponen</a> says…
->	The burden of taxation chart is not mislabeled: The “Gross income” label refers to the £ sums at the bottom, not to the green circles. Also, if I read the chart correctly, the tax burden has *increased*, not decreased: blue represents the old level of taxation and red the added tax burden since 1937/38. (I guess this would have been easier to read at the time, when the recent tax increase was probably very well known by most readers.) It can also be seen that taxation has become less progressive, as taxes have risen more in the lower income brackets.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Okay, I see your point about the label applying to the numbers and you’re probably also right about which way the tax increased. But it shouldn’t be necessary to be familiar with the data or situation to understand the chart, especially with ISOTYPE! All of this is confusing: what the labels apply to, whether the tax bubbles are stacked or overlap, and what the overall message of the chart even is. So in the world of ISOTYPE charts, this one is still the most confusing and least informative, IMHO.
-
-</aside>
-

@@ -1,12 +1,3 @@
----
-title: "Data Stories Podcast: 2013 in Review, Outlook to 2014"
-description: "The Data Stories podcast starts the new year with Andy Kirk and me as guests. With the hosts, Enrico Bertini and Moritz Stefaner, we discuss the major developments of 2013 and look ahead to what 2014 has in store."
-date: 2014-01-26 21:12:15
-tags: Data Stories
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap1.jpg
-outline: false
----
-
 # Data Stories Podcast: 2013 in Review, Outlook to 2014
 
 The <a href="http://datastori.es/">Data Stories podcast</a> starts the new year with <a href="http://www.visualisingdata.com">Andy Kirk</a> and me as guests. With the hosts, <a href="http://fellinlovewithdata.com">Enrico Bertini</a> and <a href="http://stefaner.eu">Moritz Stefaner</a>, we discuss the major developments of 2013 and look ahead to what 2014 has in store.
@@ -20,8 +11,3 @@ Andy and I are Data Stories veterans, with Andy having appeared four times now, 
 Many of the things we discussed are also covered in my <em><a title="The State of Information Visualization, 2014" href="/blog/2014/the-state-of-information-visualization-2014">State of Information Visualization</a></em> posting from two weeks ago. And while we were obviously discussing matters of great seriousness, there were also some lighter moments.
 
 <p align="center"><img class="aligncenter size-medium wp-image-3091" alt="Data Stories Screencap 2" src="https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap2-730x422.jpg" width="730" height="422" /></p>
-
-
-<PostedBy />
-
-

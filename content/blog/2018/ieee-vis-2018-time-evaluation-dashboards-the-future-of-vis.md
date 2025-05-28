@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2018, Part 2: Time, Evaluation, Dashboards, The Future of VIS"
-description: "While the first part of this report covered mostly workshops and other events, it's all papers from now on. Plus a session on the future of the VIS conference."
-date: 2018-10-30 20:00:38
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/dashboard-clusters.png
----
-
 # IEEE VIS 2018, Part 2: Time, Evaluation, Dashboards, The Future of VIS
 
 While <a href="/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">the first part of this report</a> covered mostly workshops and other events, it's all papers from now on. Plus a session on the future of the VIS conference. 
@@ -43,8 +35,3 @@ Figuring out which visualizations and charts work for what data and purpose is a
 The current structure of the VIS conference has developed over time, and many of the distinctions and ways of doing things are based on <em>we’ve always done it like this</em> rather than real reasons. Over the last year, a number of people have worked on identifying issues and looking at ways to structure the conference in ways that make more sense for the way things work today.
 
 This is an ongoing process, but the first changes are being made, and the members of the committee in charge of this held a well-attended and -structured meeting to solicit feedback at the conference. A few documents summarizing their work and thinking <a href="http://ieeevis.org/governance/restructuring">are available on the VIS website</a> for those interested.
-
-
-<PostedBy />
-
-

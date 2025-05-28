@@ -1,12 +1,3 @@
----
-title: "Taking Visualization to the Next Level"
-description: "Visualization is the visual communication of information - at least the way the term is understood in computer science. But in many ways, visualization is today mostly technical, empirical, and there is practically no theoretical foundation for what we are doing. There are also obvious connections with psychology, design, art, aesthetics, etc. This website tries to pull them all together and start making connections to push visualization to the next level."
-date: 2006-10-01 21:44:58
-tags: 
-featuredImage: 
-outline: false
----
-
 # Taking Visualization to the Next Level
 
 Visualization is the visual communication of information - at least the way the term is understood in computer science. But in many ways, visualization is today mostly technical, empirical, and there is practically no theoretical foundation for what we are doing. There are also obvious connections with psychology, design, art, aesthetics, etc. This website tries to pull them all together and start making connections to push visualization to the next level.
@@ -18,8 +9,3 @@ But apart from that, there is a blatant lack of reflection in the field. We do t
 All this (and more) will eventually lead to a new approach for developing a foundational theory of visualization, an actual science of visualization. And this one will not just take pieces from psychology, statistics, and computer graphics (though that will certainly be necessary, too), but be a science in its own right.
 
 We need to stop playing with visual toys and start asking tough questions. We need to actually understand what we are doing. We need to push this field to the next level.
-
-
-<PostedBy />
-
-

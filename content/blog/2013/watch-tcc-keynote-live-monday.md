@@ -1,12 +1,3 @@
----
-title: "Watch the TCC Keynote Live on Monday"
-description: "The Tableau Customer Conference (TCC) starts tomorrow with a big keynote that includes demos of upcoming features. Watch it live at this link, and see me demo something new and exciting."
-date: 2013-09-08 19:41:15
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/09/tcc-devs-on-stage.jpg
-outline: false
----
-
 # Watch the TCC Keynote Live on Monday
 
 The <a href="http://tcc13.tableauconference.com/"><em>Tableau Customer Conference</em></a> (TCC) starts tomorrow with a big keynote that includes demos of upcoming features. <a href="http://www.ustream.tv/recorded/39494039">Watch it live at this link,</a> and see me demo something new and exciting.
@@ -35,41 +26,3 @@ What you won’t be getting in the live stream is the amazing 200ft (70m) wide s
 Photo from our rehearsal tonight, courtesy of Brian Lockhart.
 
 Update: I've replaced the links with ones that lead to the recorded stream. My part starts at 1:41:50, with the introduction by Chris Stolte and then my demo.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://gravatar.com/myschizobuddy" rel="nofollow noopener" target="_blank">MySchizoBuddy</a> says…
->	Tableau has become so popular that it needs it's own conference?
-
-<a href="https://plus.google.com/114156875901089210081" rel="nofollow noopener" target="_blank">Alex De Lara</a> says…
->	Aw drats... I missed it. Is there going to have a link for the event ? Of course, I'm assuming it's been recorded...
-
-Naveen Michaud-Agrawal says…
->	Will the keynote be available to watch later?
-
-<a href="http://theresamarierhyne.com/Theresa-Marie_Rhynes_Viewpoint/Welcome.html" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Short Summary of Robert's presentation:  Storypoints will be available in an upcoming version of Tableau to aid in storytelling of data with Tableau visual analytics.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Yes, I've replaced the links to point directly to the recorded stream.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Yep, I've replaced the links to point to the recording.
-
-Gregor says…
->	Hi Robert,
->	
->	the link http://www.ustream.tv/recorded/38509301 is pointing to a video that "was made private by the owner", so I can't see it. Any idea about that?
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Looks like it was replaced with an edited version. I've replaced the links and the timing info above. Thanks for letting me know!
-
-</aside>
-

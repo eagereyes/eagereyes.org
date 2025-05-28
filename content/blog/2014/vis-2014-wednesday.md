@@ -1,11 +1,3 @@
----
-title: "VIS 2014 – Wednesday"
-description: "Wednesday is more than the halfway point of the conference, and was clearly the high point so far. There were some great papers, the arts program, and I got to see the Bertin exhibit."
-date: 2014-11-13 06:29:26
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/11/bertin-reorderable-matrix-2.jpg
----
-
 # VIS 2014 – Wednesday
 
 Wednesday is more than the halfway point of the conference, and was clearly the high point so far. There were some great papers, the arts program, and I got to see the Bertin exhibit.
@@ -65,8 +57,3 @@ In addition to being interesting because of Bertin's influence and foresight, th
 ## Running and Partying
 
 The <a href="http://www.strava.com/activities/218365383">second VIS Run in recorded history</a> took place on Wednesday, and that night also saw the West Coast Party, which is becoming a real tradition. The first session on Thursday morning was consequently quite sparsely attended.
-
-
-<PostedBy />
-
-

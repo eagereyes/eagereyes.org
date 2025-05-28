@@ -1,12 +1,3 @@
----
-title: "Paper: An Empire Built On Sand"
-description: "It's not a secret that I think that we need to ask some harder questions about the foundations that we're building visualization on. In a paper to be presented at the BELIV workshop at VIS next week, I'm making the case for that more extensively than I have so far. The full title of the paper is An Empire Built On Sand: Reexamining What We Think We Know About Visualization."
-date: 2016-10-16 19:17:11
-tags: IEEEVIS, papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg" width="720" height="500" /></p>
 
 # Paper: An Empire Built On Sand
@@ -28,8 +19,3 @@ Anyway, I'm happy that BELIV accepted this rather opinionated paper (it's a posi
 <hr />
 
 Robert Kosara, <em><a href="/publications/Kosara-BELIV-2016">An Empire Built On Sand: Reexamining What We Think We Know About Visualization</a>,</em> Beyond Time And Errors: Novel Evaluation Methods For Visualization (BELIV), 2016
-
-
-<PostedBy />
-
-

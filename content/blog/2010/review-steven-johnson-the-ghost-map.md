@@ -1,11 +1,3 @@
----
-title: "Review: Steven Johnson, The Ghost Map"
-description: "John Snow's map of the cholera dead after London's 1854 epidemic is often heralded as one of the earliest examples of graphical data analysis. Steven Johnson's The Ghost Map gives a lot of background about the London of the 1850s, Snow's work, and how central the map really was."
-date: 2010-11-28 18:55:14
-tags: book-reviews, criticism
-featuredImage: https://media.eagereyes.org/media/2010/broadstreetmap.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/broadstreetmap.png" alt="Snow's Broad Street Map (detail)" width="560" height="283" /></p>
 
 # Review: Steven Johnson, The Ghost Map
@@ -39,18 +31,3 @@ Besides a bit of repetitiveness here and there, as well as the epilogue, it's an
 Steven Johnson, <em><a href="http://www.amazon.com/Ghost-Map-Londons-Terrifying-Epidemic/dp/1594482691/" target="_blank">The Ghost Map</a></em>. Riverhead Trade, 320 pages (paperback, also available as hardcover, audiobook, and on Kindle), 2007.
 
 Johnson has <a href="http://www.theghostmap.com/" target="_blank">a website with several videos of him talking about topics from the book</a>. A fantastic source on the map is also <a href="http://www.ph.ucla.edu/epi/snow.html" target="_blank">Ralph R. Frerichs's website on John Snow</a>, despite the rather horrific navigation (the little squares are the links, not the text).
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://i-ocean.blogspot.com/" rel="nofollow noopener" target="_blank">derek</a> says…
->	I enjoyed the book, but thought the lack of maps hurt it. All that text, in a book about the value of diagrams, and so few diagrams. I agree that the epilogue looked forced (see how relevant this is!). 
-
-</aside>
-

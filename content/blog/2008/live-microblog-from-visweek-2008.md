@@ -1,12 +1,3 @@
----
-title: "Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008"
-description: "As promised earlier, I will be live-blogging VisWeek 2008, which will take place next week in Columbus, OH. I will mostly attend InfoVis and VAST, with the odd Vis session and workshop thrown in. The live-blog will appear in a box at the top of the frontpage, and there will be a separate RSS feed for these posts. Coverage should start Sunday (October 19) morning, and there will also be pictures."
-date: 2008-10-16 19:23:41
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/mispronouncing-cropped.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/mispronouncing-cropped.png" alt="Blag" width="241" height="136" border="0" /></p>
 
 # Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008
@@ -26,18 +17,3 @@ To those of you going to Columbus, I hope to meet many of you! And to the rest: 
 <hr />
 
 Teaser image from the always brilliant <a href="http://xkcd.com/148/">xkcd</a> (used under creative commons).
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://carlosscheidegger.wordpress.com" rel="nofollow noopener" target="_blank">Carlos Scheidegger</a> says…
->	I'll be trying to blog Vis from my end - good to know about the InfoVis coverage :)
-
-</aside>
-

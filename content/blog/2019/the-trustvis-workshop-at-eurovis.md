@@ -1,12 +1,3 @@
----
-title: "The TrustVis Workshop at EuroVis"
-description: "I'm one of the organizers of the new TrustVis Workshop at EuroVis this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5!"
-date: 2019-03-19 21:58:19
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg" width="660" height="995" /></p>
 
 # The TrustVis Workshop at EuroVis
@@ -23,9 +14,4 @@ This even goes into matters of policy. For example, for a long time, doctors had
 
 The full call and details on how to submit are available on <a href="https://trustvis.org">the TrustVis website</a>. But the gist of it is: deadline is April 5, we're looking for short/position papers, the workshop will be held at EuroVis in Porto in early June.
 
-My co-chairs Kai Lawonn, Lars Linsen, Noeska Smit, and I are looking forward to your submissions! 
-
-
-<PostedBy />
-
-
+My co-chairs Kai Lawonn, Lars Linsen, Noeska Smit, and I are looking forward to your submissions!

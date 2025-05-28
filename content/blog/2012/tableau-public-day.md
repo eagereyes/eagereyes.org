@@ -1,12 +1,3 @@
----
-title: "Tableau Public Viz of the Day"
-description: "There is no shortage of sites and twitter accounts that point to a new visualization every day, some even more often than that. So why start another one? Tableau's Viz of the Day is unique in that it draws from the wealth of Tableau Public, and all its picks are interactive visualizations with multiple, linked views."
-date: 2012-05-14 20:30:00
-tags: 
-featuredImage: 
-outline: false
----
-
 # Tableau Public Viz of the Day
 
 There is no shortage of sites and twitter accounts that point to a new visualization every day, some even more often than that. So why start another one? Tableau's <em>Viz of the Day</em> is unique in that it draws from the wealth of Tableau Public, and all its picks are interactive visualizations with multiple, linked views.
@@ -20,8 +11,3 @@ You can follow <a href="https://twitter.com/#!/Vizoftheday"><em>Viz of the Day</
 <hr />
 
 Disclosure: This posting blatantly promotes a service by <a title="Hello from Tableau (and Seattle)!" href="/blog/2012/hello-tableau-and-seattle">Tableau Software, where I am currently doing my sabbatical</a>. I was involved in the creation of the idea and the subsequent discussions. Sometimes, I walk over to the folks who are running Tableau Public and <em>Viz of the Day</em> just because I can.
-
-
-<PostedBy />
-
-

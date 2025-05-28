@@ -1,12 +1,3 @@
----
-title: "Let’s Crowd-Fund the Data Stories Podcast!"
-description: "Enrico and Moritz, the two hosts of the only visualization podcast in the known universe, are trying to crowd-fund their work rather than rely on advertising. If we all chip in a few dollars or euros per show, this will be easy to accomplish."
-date: 2017-01-25 07:17:00
-tags: Data Stories
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg" width="720" height="450" /></p>
 
 # Let’s Crowd-Fund the Data Stories Podcast!
@@ -20,8 +11,3 @@ The way this works is through Patreon, a crowdfunding platform used by lots of w
 This starts with as little as $3 for a <em>Data Stories Affiliate</em>, up to <em>OMG! Can we hug you now?</em> for $50. Clearly, nobody wants the latter, but I’ve signed up for the <em>Data Stories Fellow</em> ($10) level, even if I <a href="/tag/data-stories">already am a superstar</a> (the $20 level is called <em>Data Stories Super Star</em>).
 
 There are <a href="http://datastori.es/data-stories-crowdfunding/">more exciting details about this on their blog</a>, or you can just head over to their <a href="https://www.patreon.com/datastories">Patreon page</a> and give them your money there.
-
-
-<PostedBy />
-
-

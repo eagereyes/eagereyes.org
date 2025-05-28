@@ -1,11 +1,3 @@
----
-title: "Review: Putting Stories to Work and Out On the Wire"
-description: "Two books I’ve read recently make good points about stories that apply to data stories, without the books being about data: Shawn Callahan’s Putting Stories to Work and Jessica Abel’s Out On the Wire."
-date: 2017-09-18 18:57:44
-tags: book-reviews, storytelling
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/09/abel-callahan.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/abel-callahan.jpg" width="760" height="487" /></p>
 
 # Review: Putting Stories to Work and Out On the Wire
@@ -31,8 +23,3 @@ This is a business book, but like <em>Made to Stick</em> it’s equal parts fasc
 She tells many stories about radio, in particular the NPR programs <em>This American Life</em> and <em>Snap Judgment</em>. There are many interesting insights into how they find and shape stories, how stories change as they develop, and how the agonizing creative process is playing out even in these well-known radio programs that have been going on for many years.
 
 The book is very nicely structured and Abel works in many little details while focusing on a number of important messages. Perhaps the most interesting to me were the two key ways of expressing a story’s point. There is the <em>story formula,</em> which is a good test for many data stories:
-
-
-<PostedBy />
-
-

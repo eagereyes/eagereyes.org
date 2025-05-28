@@ -1,12 +1,3 @@
----
-title: "EuroRVVV Call For Papers!"
-description: "I'm delighted to be one of the co-chairs of the workshop on reproducibility, verification, and validation in visualization (EuroRVVV – quite possibly the worst-acronymed workshop in visualization) at EuroVis. The topic this year is uncertainty, and we're looking for all kinds of contributions to this important topic."
-date: 2018-01-25 08:17:46
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png" width="560" height="198" /></p>
 
 # EuroRVVV Call For Papers!
@@ -22,8 +13,3 @@ We accept regular (4-page) research papers about new ideas and approaches, as we
 If you have something interesting to say about how to deal with uncertainty in your data or your research, how to analyze data without ignoring uncertainty, how to present data with its uncertainties but without getting distracted by them, how to better think about uncertainty in visualization, or anything related, submit your paper to EuroRVVV!
 
 For more details, see the <a href="http://www.eurorvvv.org/call-for-papers/">Call for Papers</a>! Submission deadline is March 5.
-
-
-<PostedBy />
-
-

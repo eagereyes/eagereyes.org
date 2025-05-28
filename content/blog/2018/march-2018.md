@@ -1,12 +1,3 @@
----
-title: "Visualization Potpourri, March 2018"
-description: "Time to wake up from the eagereyes winter hibernation with an aromatic potpourri! This time, we have news about pies, stippling, colors, sorting algorithms, and a few more. Also a video of my collaborator Noeska singing the praises of medical visualization."
-date: 2018-03-11 17:27:07
-tags: vis-potpourri
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/01/eagereyes.png
-outline: false
----
-
 # Visualization Potpourri, March 2018
 
 Time to wake up from the eagereyes winter hibernation with an aromatic potpourri! This time, we have news about pies, stippling, colors, sorting algorithms, and a few more. Also a video of my collaborator Noeska singing the praises of medical visualization.
@@ -29,24 +20,3 @@ Domingo Martín et al. recently released <a href="https://tobias.isenberg.cc/Vid
 Morolin has made some some lovely short videos <a href="https://imgur.com/gallery/GD5gi">visualizing the behavior of sorting algorithms</a>. They started out doing this <a href="https://imgur.com/a/voutF">in a rainbow colormap</a> that was burning my eyes, but redid it <a href="https://bids.github.io/colormap/">in Viridis</a> later, and the people rejoiced.
 
 Speaking of colors, <a href="http://elijahmeeks.com/">Elijah Meeks</a> has written up some great advice for people on <a href="https://medium.com/@Elijah_Meeks/color-advice-for-data-visualization-with-d3-js-33b5adc41c90">picking good colors for data visualization in D3</a>. The recent release of D3 v5 killed the (often wrongly used) <em>category20</em> colorscale, and Elija discusses good options for what to use instead.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Tom says…
->	Small typo on "Elija"
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Fixed, thanks!
-
-<a href="http://pages.cpsc.ucalgary.ca/~acarocha/" rel="nofollow noopener" target="_blank">Allan Rocha</a> says…
->	Wow since I am here in Calgary I do feel waking up from the Winter hibernation. Nice post! Also really nice overview of medical Visualization by Noeska. Like a true fan of NPR I do enjoy the stippling shop and this survey paper. Really considering to follow the shop trend in the next years!
-
-</aside>
-

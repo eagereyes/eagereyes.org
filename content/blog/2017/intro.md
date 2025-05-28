@@ -1,12 +1,3 @@
----
-title: "New Series: ISOTYPE Books"
-description: "Presenting facts through data is not a recent idea. Otto and Marie Neurath created ISOTYPE in the 1920s and then ran their ISOTYPE Institute for more than two decades. During that time, they created charts for a wide variety of publications. In this series, I will show a number of these charts that I have found, and discuss the context they appeared in."
-date: 2017-01-15 20:40:32
-tags: isotype
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg" width="720" height="500" /></p>
 
 # New Series: ISOTYPE Books
@@ -24,31 +15,3 @@ In addition to the charts, these books are also fascinating time documents. Some
 The plan is to write one ISOTYPE posting a month. With my current collection, that should give me enough material through this year at least (depending on how I group them, since some of them are series). In addition, I also want to talk about Neurath’s own writing, in particular <em>Modern Man in the Making</em> and his autobiography, <em>From Hieroglyphics to ISOTYPE</em>. Marie Neurath’s books after the war will also make an appearance at some point (they’re less numbers-based, but a similar style). I’m also starting to discover some of the other players in this space, like Rudolf Modley, who used ISOTYPE-style charts for various purposes.
 
 There is clearly a lot to explore that visualization folks don’t seem to be aware of. I hope to shed some light on this under-appreciated part of our history.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-J. van der Ree says…
->	Dear Sir,
->	
->	With interest I have read your remarks on both isotype books. I do think you are right; these aren't the 
->	very best ones and no, they aren't really illustrating the full and right scope of the isotype way of approach. I've noticed; you do have already better ones in your collection.
->	
->	I was for many years the assistant and confident of mr. Peter Arntz (now deceased), being the only son of Gerd Arntz (1900-1988). I'm quite familiar with this material; also being a former curator of the Municipal Museum,The Hague, which does hold the complete oeuvre of Gerd Arntz. Unfortunately not in this respect on the pictorial statistics / isotype features.
->	
->	If you are planning a series on this topic; I probably could provide some 'in depth' advise to you. Please do realise: 'there are no good (design-wise), structured, readable and strict recognizable'  pictorial statistics / isotype symbols / icons present without the specific works in this field by Gerd Arntz. His very specific role at an extremely high level in the development of this field of design is very often underplayed by several institutions internationally. Otto Neurath, nor his later wife Marie Neurath-Reidemeister aren't much of designers of symbols / icons. The early designs of charts by them do fully illustrate my point of view: unreadable matter. I could elaborate extensively on this particular topic.
->	
->	For copy-rights on this material please do refer to the Arntz family / Estate; they do possess all the rights on the complete oeuvre of Gerd Arntz (free and / or applied - including all pictorial statistics / isotype designs).
->	
->	Best regards,
->	
->	John van der Ree
-
-</aside>
-

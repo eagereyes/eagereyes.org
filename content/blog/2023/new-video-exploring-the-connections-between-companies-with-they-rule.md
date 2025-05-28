@@ -1,12 +1,3 @@
----
-title: "New video: Exploring the connections between companies with They Rule"
-description: "Josh On's They Rule is back, and I've made a video about it."
-date: 2023-02-09 07:41:22
-tags: eagereyestv
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2023/02/they-rule-thumb-4x3-1.jpeg
-outline: false
----
-
 # New video: Exploring the connections between companies with They Rule
 
 <a href="https://theyrule.net">Josh On's <em>They Rule</em></a> is back, and I've made a video about it.
@@ -20,8 +11,3 @@ By web standards, <em>They Rule</em> is quite ancient. It has been around since 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/wZUgbgdx6Sc?si=g0PUacZVKQm8ez3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 This is my first video with a continuous music bed. Let me know what you think! And as always, I'd appreciate it if you could like the video and <a href="https://www.youtube.com/@eagereyes">subscribe to the channel</a> over on YouTube.
-
-
-<PostedBy />
-
-

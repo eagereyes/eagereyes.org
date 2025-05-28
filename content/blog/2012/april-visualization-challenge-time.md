@@ -1,11 +1,3 @@
----
-title: "April is Visualization Challenge Time!"
-description: "While there has been some criticism of a particular type of visualization challenge recently, there are many other challenges that are organized well and provide good opportunities for people to work on their skills. Two challenges in particular have caught my attention, and are presented here with the official EagerEyes Quality Seal and Stamp of Approval."
-date: 2012-04-04 21:14:24
-tags: 
-featuredImage: 
----
-
 # April is Visualization Challenge Time!
 
 While there has been <a href="http://fellinlovewithdata.com/reflections/vis-marathons">some criticism of a particular type of visualization challenge recently</a>, there are many other challenges that are organized well and provide good opportunities for people to work on their skills. Two challenges in particular have caught my attention, and are presented here with the official <em>EagerEyes Quality Seal and Stamp of Approval</em>.
@@ -25,8 +17,3 @@ This challenge is more like a visualization "marathon," where everybody is given
 To participate, you have to be a student at a U.S. institution and either a citizen or permanent resident (international students in the U.S. or students at institutions outside the U.S. cannot take part). For more information, plus the full conditions, see the <a href="http://www.tableausoftware.com/public/datachallenge">Student Data Challenge website</a>. The winner receives $1250 in "cold hard cash" (yes, that's a quote from the website), the second place gets $750, and there is also a <em>crowd favorite</em> category that is worth $500.
 
 And while <a title="Hello from Tableau (and Seattle)!" href="/blog/2012/hello-tableau-and-seattle">I am working at Tableau this year</a>, I am in no way involved in this challenge; I actually only learned about it from an email that was sent to my university address. Still, if you live in the same household as me, you are not eligible to participate. (EDIT: I was just asked to be a judge for this contest)
-
-
-<PostedBy />
-
-

@@ -1,12 +1,3 @@
----
-title: "Glimpses of Data: The CBO's Snapshots"
-description: "Arguments in data visualization are so fierce because the stakes are so low is a great zinger that I’ve heard a few times recently. But it’s not always true. Data visualization influences important decisions every day. The Congressional Budget Office’s new snapshots are but one example."
-date: 2013-03-24 03:00:17
-tags: government
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/03/43983-land-UI.png
-outline: false
----
-
 # Glimpses of Data: The CBO's Snapshots
 
 <em>Arguments in data visualization are so fierce because the stakes are so low</em> is a great zinger that I’ve heard a few times recently. But it’s not always true. Data visualization influences important decisions every day. The Congressional Budget Office’s new <em>snapshots</em> are but one example.
@@ -34,30 +25,3 @@ It may well be true that many arguments in visualization are pointless and petty
 <hr />
 
 I’m honored to have been asked to provide input during the design phase of this effort. Like with all my secret government work, the CBO will neither confirm nor deny my involvement.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-jlbriggs says…
->	Nice post.
->	
->	I would argue that the stakes are (almost) always high.
->	
->	Arguments about proper approaches to data visualization may be spawned by charts that don't actually matter.  But having those arguments is important at any level, because terrible charts are made at every level.
->	
->	Imagine if this data was being presented for such high level decision making on such important topics, and in the form of mulitlevel donut charts, or mcandles-esque block/bubble/treemap abominations.
->	
->	It's not much of a stretch at all to picture.
->	
->	Popular techniques for data visualization often drive how things get done at higher levels, precisely because it's viewed as something that is petty and unimportant.
->	
->	Good design counts.  Whether we're talking about an airplane, a website, or a chart.
-
-</aside>
-

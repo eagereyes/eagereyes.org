@@ -1,11 +1,3 @@
----
-title: "InfoVis Papers at CHI 2017"
-description: "The two main conferences in visualization are VIS and EuroVis, but recently CHI has also gotten some very interesting submissions (CHI is technically a conference about human-computer interaction, or HCI). This year looked particularly strong,"
-date: 2017-05-22 20:50:33
-tags: conference
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-teasr.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-teasr.png" width="720" height="500" /></p>
 
 # InfoVis Papers at CHI 2017
@@ -49,8 +41,3 @@ Showing pictures of people is a good thing, right? Certainly when it comes to ne
 The paper asked an interesting question about something that is not often studied so far: how do different charts impact (potential) decisions, like whether to donate money? The comparison with anthropomorphic shapes also meshes well with my interest in <a href="/techniques/isotype">ISOTYPE</a>, which often used pictures of people to depict data (though usually to inform rather than to elicit a particular response).
 
 CHI covers a lot more ground than just visualization, but it's certainly a conference to keep an eye on for exciting new developments. It is known to be tough to get work accepted into, but it also sometimes accepts work that seems too daring or unusual to make it into InfoVis or EuroVis. It's definitely a conference to keep an eye on.
-
-
-<PostedBy />
-
-

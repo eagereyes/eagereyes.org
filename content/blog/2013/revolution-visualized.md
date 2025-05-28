@@ -1,11 +1,3 @@
----
-title: "The Revolution Will Be Visualized"
-description: "In the 1970s, it was the protest songs. In the 1980s, it was the anti-war movies. Today, the protest is no longer happening in songs or movies. Today, it’s online, based on data, and using visualization."
-date: 2013-04-03 20:11:35
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/04/drone-victims.png
----
-
 # The Revolution Will Be Visualized
 
 In the 1970s, it was the protest songs. In the 1980s, it was the anti-war movies. Today, the protest is no longer happening in songs or movies. Today, it’s online, based on data, and using visualization.
@@ -41,8 +33,3 @@ Hovering over the bars also gives you something else: names. These are not just 
 How do you make people notice an issue? How do you get them to care? What if we’re no longer moved by songs (and the artists too comfy and reluctant to take sides) and no longer want to see movies about real issues (and Hollywood won’t take the risk of offending anybody)?
 
 What if the new way to get us to care is with a visceral, raw display of data?
-
-
-<PostedBy />
-
-

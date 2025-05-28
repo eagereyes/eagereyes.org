@@ -1,12 +1,3 @@
----
-title: "I Want to BELIV"
-description: "Evaluation of visualization systems and techniques is a vital part of visualization research, but is often neglected. While there are established methods for basic perception studies, many other kinds of questions are much more difficult to answer in a controlled study. The CHI workshop BELIV (BEyond time and errors: novel evaLuation methods for Information Visualization) is the place to discuss new ideas about evaluating visualization."
-date: 2009-11-09 22:39:52
-tags: 
-featuredImage: 
-outline: false
----
-
 # I Want to BELIV
 
 Evaluation of visualization systems and techniques is a vital part of visualization research, but is often neglected. While there are established methods for basic perception studies, many other kinds of questions are much more difficult to answer in a controlled study. The CHI workshop <a href="http://www.beliv.org/beliv2010/">BELIV (BEyond time and errors: novel evaLuation methods for Information Visualization)</a> is the place to discuss new ideas about evaluating visualization.
@@ -18,8 +9,3 @@ How do we know that these systems are useful? How can we compare them? Can we me
 BELIV accepts two kinds of submissions: research papers and position papers. The workshop is part of <a href="http://chi2010.org/">CHI 2010</a>, which will take place in Atlanta, GA, April 10&ndash;15, 2010. The deadline for submissions is November 30, at 5pm PST.
 
 (See also Enrico Bertini's <a href="http://diuf.unifr.ch/people/bertinie/visuale/">interesting discussion of the history of and ideas behind the workshop</a>.)
-
-
-<PostedBy />
-
-

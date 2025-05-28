@@ -1,12 +1,3 @@
----
-title: "Shining a Light on Data: Florence Nightingale"
-description: "Florence Nightingale invented modern nursing, and established its importance based on data she collected during the Crimean War in the 19th century. She was not only the first one to realize the role of hygiene and care for wounded soldiers to prevent the spread of disease and death, she also was the first to understand that sound decisions can only be made on data. Not only did she collect that data, she also devised ways to communicate it to decision makers who lacked knowledge of statistics or math."
-date: 2009-03-24 10:07:11
-tags: 
-featuredImage: https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg" alt="Nightingale's Coxcomb plot (from Wikipedia)" width="500" height="332" /></p>
 
 # Shining a Light on Data: Florence Nightingale
@@ -31,25 +22,3 @@ During her time in the Crimea, Nightingale would tirelessly walk the halls of th
 
 <hr />
 This is my humble contribution to <a href="http://findingada.com/">Ada Lovelace Day</a> (though I may be stretching the definition of "technology" a bit). There is also a <a href="http://ada.pint.org.uk/">list of other postings about great women in technology</a>.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-T.J. Jankun-Kelly says…
->	<p>Visualization and graphics (statistical or otherwise) are as much of a tool as is the simple lever. One may seem more "technological" due to its physicality, but both are technology in the sense they are tools that assist us accomplish tasks. To say that Nightingale's work was a technological advancement is to say that the "invention" of the calculus was not a technological advance. So, no streching at all.<br /><br />Good article, BTW. To be fair to Playfair (or make the case for Nightingale more complete), <a title="Pie Chart: History" href="http://en.wikipedia.org/wiki/Pie_chart#History&quot;">he did also "invent" the (non-polar area) pie-chart</a> as well. Nightingale's version (supposedly <a title="Florence Nightingale's statistical diagrams" href="http://www.york.ac.uk/depts/maths/histstat/small.htm">not called coxcomb by her</a>, that refered to something else) addressed the compairson problem you mentioned directly in contrast to pie charts.</p>
-
-Robert Kosara says…
->	<p>I'm not sure I would want technology to subsume maths, so I still think it is a stretch. But because Nightingale's graphs involved more than just the numbers, I think it's no too bad.</p>
->	<p>Thanks for that link, that's a very interesting article! I know about the pie chart and who invented it, but I didn't want to make this too complicated. There's certainly more to be said about the early history of visual communication of numbers, and that article has some good information on that, too.</p>
-
-T.J. Jankun-Kelly says…
->	<p>It appears the Small article is part of a much larger collection of documents by the U. of York: <a title="Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualization" href="http://www.math.yorku.ca/SCS/Gallery/milestone/">Milestones in the History of Thematic Cartography, Statistical Graphics, and Data Visualization</a>. A few day's reading...</p>
-
-</aside>
-

@@ -1,0 +1,16 @@
+<a href="http://blog.semanticvoid.com" rel="nofollow noopener" target="_blank">semanticvoid</a> says…
+>	<p>the applet fails to load.</p>
+
+Robert Kosara says…
+>	<p>Odd, it was showing correctly on my machine. It's fixed now, please try again.</p>
+
+<a href="http://www.ithoughts.de" rel="nofollow noopener" target="_blank">ithoughts.de</a> says…
+>	<p>It worked here ...</p>
+
+Robert Kosara says…
+>	<p>There was an odd caching issue in Safari - it cached the jar file from testing on a different page, even though the relative path wasn't working anymore. But it definitely should work now.</p>
+
+Robert Morton says…
+>	<p>Hi Robert,</p>
+>	<p>Cool applet, thanks for sharing!  I've posted <a href="http://www.tableausoftware.com/files/DataGov%20browser.twbx">a Tableau workbook I built</a> for browsing Data.gov for files that work well with Tableau (at this point only .csv/.xls).  It was most recently updated on 6/15/2009, so it will need occasional refreshes from the latest metadata.</p>
+>	<p>-Robert</p>

@@ -1,11 +1,3 @@
----
-title: "A VisWeek Survival Guide, Part 2"
-description: "Less than two weeks to go until VisWeek 2012, so it’s time for the crucial second part of the survival guide. There are tons of things to see and do in Seattle, it’s easy to get distracted."
-date: 2012-10-03 08:26:41
-tags: VisWeek, conference
-featuredImage: 
----
-
 # A VisWeek Survival Guide, Part 2
 
 Less than two weeks to go until <a href="http://visweek.org/">VisWeek 2012</a>, so it’s time for the crucial second part of the survival guide. There are tons of things to see and do in Seattle, it’s easy to get distracted.
@@ -63,18 +55,3 @@ There are also at least two other parties, though I don’t know if those are in
 ## Enjoy!
 
 It will be awesome!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://civilstat.com/" rel="nofollow noopener" target="_blank">Jerzy</a> says…
->	I wish I were going to VisWeek! But re: things to see in Seattle, the Central Library is also worth a visit -- amazing architecture (supported by some intense engineering) and great views from the top floor.
-
-</aside>
-

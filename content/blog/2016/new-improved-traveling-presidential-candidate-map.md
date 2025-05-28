@@ -1,12 +1,3 @@
----
-title: "New, Improved Traveling Presidential Candidate Map"
-description: "Many years ago, when this website was still young, I created a map of all the ZIP codes in the U.S. in numeric order and then wondered about the shortest path through all of them. I dubbed that The Traveling Presidential Candidate Map. Here is an improved version that's interactive and much more efficient than the old one."
-date: 2016-07-04 20:49:45
-tags: ZIPScribble Maps
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png" width="825" height="510" /></p>
 
 # New, Improved Traveling Presidential Candidate Map
@@ -28,32 +19,3 @@ It is possible that running both programs for longer would yield both a larger l
 I have added the new TPC map to the <a href="/zipscribble-maps/interactive-zipscribble-map">interactive ZIPScribble maps page</a> for your enjoyment. On the way, I rewrote that map to be based on a new maps backend and fixed a few issues. I'm still working on updating the individual country pages I made many years ago as well, but more on that later.
 
 The code for the interactive map and the data files for the TPC map are <a href="https://github.com/eagereyes/zipscribble">available in a github repository</a>. In particular, <a href="https://github.com/eagereyes/zipscribble/blob/master/ZIPTPCMap/USTPCmap.csv">this file</a> contains the tour in easily-digested CSV format.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://3danim8.wordpress.com/" rel="nofollow noopener" target="_blank">3danim8 (aka Ken Black)</a> says…
->	Hi Robert,
->	
->	Very nice work and thanks very much for sharing! You have achieved a very impressive result.
->	
->	Are you willing to share the data set that was created by LKH to produce the The Traveling Presidential Candidate Map? I'd be very interested in seeing and working with this file. 
->	
->	I first encountered the traveling salesman problem in 1984 or so. Ever since then, I have been fascinated by the computational difficulties of approximating the optimal solution.
->	
->	Thanks,
->	
->	
->	Ken
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Yes, they're available! The repository was linked from the interactive map page, but not from here. I've added a paragraph at the end above with the links.
-
-</aside>
-

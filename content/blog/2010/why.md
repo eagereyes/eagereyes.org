@@ -1,12 +1,3 @@
----
-title: "Why Am I Doing This, Again?"
-description: "Today marks the fourth anniversary of this humble little website. I've spent countless hours writing, designing, arguing, and thinking about the things that I publish here. What others may consider a waste of time has helped me tremendously to make new connections, meet new people, refine my thinking, and broaden my horizons. If you're not running a website (or blog), you're really losing out."
-date: 2010-10-01 15:32:48
-tags: meta
-featuredImage: 
-outline: false
----
-
 # Why Am I Doing This, Again?
 
 Today marks the fourth anniversary of this humble little website. I've spent countless hours writing, designing, arguing, and thinking about the things that I publish here. What others may consider a waste of time has helped me tremendously to make new connections, meet new people, refine my thinking, and broaden my horizons. If you're not running a website (or blog), you're really losing out.
@@ -26,24 +17,3 @@ So what else? Telling people about what you're thinking about and getting scoope
 The point of this exercise is reflection. Thinking things through to write about them really helps to structure your thoughts. It's also a great tool for coming up with new ideas, and finding connections with others you might not have otherwise thought about.
 
 Don't just sit in your ivory tower. Get out and take a walk every once in a while. Blog.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.theusRus.de/blog" rel="nofollow noopener" target="_blank">Martin Theus</a> says…
->	... and keep on blogging!
-
-<a href="http://www.visualisingdata.com" rel="nofollow noopener" target="_blank">Andy Kirk</a> says…
->	Happy 4th birthday Robert, great post as ever
-
-Darryl Parker says…
->	Thought provoking...
-
-</aside>
-

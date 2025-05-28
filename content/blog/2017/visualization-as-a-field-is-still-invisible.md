@@ -1,11 +1,3 @@
----
-title: "Visualization as a Field Is Still Invisible"
-description: "A new series by the New York Times is equally exciting and painful: it presents visualizations for discussion in class, but the outside help they are getting is coming from statistics rather than visualization. It’s another reminder of just how far we still have to go to even be noticed as a research field."
-date: 2017-09-25 19:53:39
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg" width="750" height="500" /></p>
 
 # Visualization as a Field Is Still Invisible
@@ -55,31 +47,3 @@ ASA has been around for a while longer (founded in 1839) than the visualization 
 Visualization as an academic community has made some big strides over the last decade, but as a social community with any sort of societal impact, it is nowhere to be seen.
 
 Next week’s <a href="http://ieeevis.org">VIS conference</a> is the place the entire field gathers. Let’s make it the starting point of a era of visualization. An era of reaching out and making visualization visible and relevant in the world.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://bckwon.wordpress.com" rel="nofollow noopener" target="_blank">bckwon</a> says…
->	Thank you very much for a thoughtful post. I am here to read an example before I write my first *blog article* after our VIS blog meetup on Thursday.
->	
->	I agree that we need community efforts to make our voice heard by the rest of the world. I sometimes feel that many people outside the VIS community are looking for solutions that our VIS community already has (or has been working on for a while). My question is how we can bridge this gap. How can we make our VIS community more visible?
->	
->	I would like to conclude my reply by adding two of my visualization literacy and education articles to this thread. The first paper studies how to measure visualization literacy and the other paper investigates how to educate non-experts an unknown visualization online (parallel coordinates was used in this particular paper). I feel that I should write blog articles on this topic, too.
->	
->	1. "VLAT: Development of a Visualization Literacy Assessment Test"
->	https://www.bckwon.com/publication/vlat/
->	
->	2. "A Comparative Evaluation on Online Learning Approaches using Parallel Coordinate Visualization"
->	https://www.bckwon.com/publication/tivy/
-
-Noeska Smit says…
->	Hi! I am looking forward to reading your blog, please let me know when it is up!
-
-</aside>
-

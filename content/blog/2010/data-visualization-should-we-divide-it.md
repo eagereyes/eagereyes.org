@@ -1,12 +1,3 @@
----
-title: "Data Visualization: Should We Divide It?"
-description: "For some time now there has been some discussion about finding a new terminology for the Data Visualization field. The intention is to find names that reflects the two main different directions that are seen today on Dataviz: visual data analysis and data driven aesthetics images. The concern is that Data Visualization might lose its ‘serious’ role as an analytic tool by including works that, without doubt, praise aesthetics before clarity."
-date: 2010-01-17 20:56:59
-tags: criticism
-featuredImage: https://media.eagereyes.org/media/2010/roadtoC.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/roadtoC.jpg" width="560" height="332" alt="Road to Copenhagen (detail)" /></p>
 
 # Data Visualization: Should We Divide It?
@@ -45,21 +36,3 @@ I do agree with this statement by Manuel Lima on his Manifesto: <em>I don’t te
 I would like to take this opportunity to thank Robert for allowing me to post my ideas on his blog. Robert gives us the best example that greater growth is only achieved trough discussion, even if this means allowing me to publish my contrary opinion on his blog. Robert, you rock!
 
 About the author: Pedro Monteiro is a Portuguese graphic designer working for Portugal’s best selling newsmagazine <a href="http://www.visao.pt/">Visão</a> and as a consultant for <a href="http://www.innovation-mediaconsulting.com/">INNOVATION MEDIA CONSULTING</a>. He also runs <a href="http://www.whatype.com/">Whatype</a>, a blog with personal projects where he has done some experiments with Data Visualization, among other things. Pedro has been choosen to be included in <a href="http://images.businessweek.com/ss/09/08/0812_data_visualization_heroes/14.htm">Business Week’s list of 21 Heroes of Data Visualization</a> and has shared some of his views about Data Visualization on <a href="http://www.brainpickings.org/index.php/2009/12/08/pedro-monteiro-interview/">Brain Pickings</a>. He can be contacted at psesinando@gmail.com
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://crisismaven.wordpress.com/" rel="nofollow noopener" target="_blank">CrisisMaven</a> says…
->	This is a great site along the lines of Edward Tufte. Will feature it in my Reference List plus list it there permanently. Keep up the good work! For all students or researchers: I have just added an (http://crisismaven.wordpress.com/references/ "Economics Reference List") to my economics blog with economic and statistical data series, history, bibliographies etc. for students & researchers, probably the most comprehensive on the Internet. Currently over 200 meta sources, it will soon grow to over a thousand. Check it out and if you miss something, feel free to leave a comment.
-
-<a href="http://datamarket.com" rel="nofollow noopener" target="_blank">Thorlakur Ludviksson</a> says…
->	Very good! I agree with your opinion and conclusion in this post, Pedro.
-
-</aside>
-

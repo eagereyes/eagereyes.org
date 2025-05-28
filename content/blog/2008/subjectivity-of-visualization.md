@@ -1,11 +1,3 @@
----
-title: "The Unbearable Subjectivity of Visualization"
-description: "While reading Jarke van Wijk's Views on Visualization(ref), I could not help but notice the negative references he makes to the subjectivity of visualization. A visualization science on par with statistics would certainly require the elimination of any and all subjectivity. I do not think that visualization is such a science, or that it being that is even all that desirable."
-date: 2008-01-17 20:48:13
-tags: 
-featuredImage: https://media.eagereyes.org/media/attachments/vis-is-communication.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230" /></p>
 
 # The Unbearable Subjectivity of Visualization
@@ -57,18 +49,3 @@ I don't disagree with van Wijk's points about subjectivity, but I think we are d
 <hr />
 
 Image credits: Left half taken from the cited paper; right part from <a href="http://en.wikipedia.org/wiki/Image:Encoding_communication.jpg">illustration</a> for the <a href="http://en.wikipedia.org/wiki/Communication">Wikipedia entry on communication</a> by Luis Javier Rodriguez Lopez.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://flowingdata.com" rel="nofollow noopener" target="_blank">Nathan</a> says…
->	I don't think the objectivity of Statistics is only skin deep, and the choice of measure and parameters can be (and usually is) very objective. An initial choice of "parameters" might come from a gut feeling, but it is only meant as a starting point. Analysis is going to go through many iterations; those parameters (as well as the derived models) change and are dictated by the data via statistical laws, rules, etc.
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "What is Data Journalism?"
-description: "Is a data journalist one who unearths the data, who finds the insights in the data, who finds the right way to visually communicate the data? The answer is, of course, all three. But let's tease them apart and look at each separately."
-date: 2014-07-29 21:03:05
-tags: data-journalism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/07/nytimes-jealous-dog.png
----
-
 # What is Data Journalism?
 
 Is a data journalist one who unearths the data, who finds the insights in the data, who finds the right way to visually communicate the data? The answer is, of course, all three. But let's tease them apart and look at each separately.
@@ -47,28 +39,3 @@ All these examples are pieces of data journalism. Not all involve visualization.
 What data journalism requires, then, is a broad mix of skills and instincts. Not all are necessarily needed in all cases. But you never know which ones a story will require. Many of the technical and math skills are still rather unusual among the people typically working in journalism. That makes this new direction so interesting but also so problematic: how do we know if we can trust the work produced? Alberto Cairo <a href="http://www.niemanlab.org/2014/07/alberto-cairo-data-journalism-needs-to-up-its-own-standards/">is skeptical, and wants data journalism to up its standards</a>.
 
 But in a way, data journalism is the logical extension of what journalism has been all along: collecting facts and data, understanding the implications, finding the story, and reporting it. The tools and materials are changing. But soon, all journalism will be data journalism in one form or another.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://twitter.com/chezvoila" rel="nofollow noopener" target="_blank">Voilà Info Design (@chezvoila)</a> says…
->	Good article, but it didn't quite solve the question.
->	
->	Alex Graul tweeted yesterday (https://twitter.com/alexgraul/status/494112383522971649) that "this is what real data journalism looks like" referring to this New York Times article (http://atwar.blogs.nytimes.com/2014/07/24/in-ukraine-spent-cartridges-offer-clues-to-violence-fueled-by-soviet-surplus) where journalists collected and analyzed samples of cartridges used in Ukraine combats.
->	
->	I greatly appreciate the collection of primary data. Original data journalism can come out of it, and you hint at it in the middle of your blog post. I wonder though at which point we enter "data journalism" territory. This sample (less than 80 cartridges) seems quite small and inconclusive, as the author repeats several times. The analysis is barely numerical. Is it the size of the data set what will make an article "data journalism"? Is it the analytical methods applied to any data set?
->	
->	At the other extreme, there is a call for rigorous methods of data analysis. I'm all for rigor, but we can't hold data journalism to the standards of scientific research. The scientific journals already exist and they are read by a tiny audience, require massive resources, and often produce arcane findings. It seems to me that we need to be more lenient with journalism, not to expect the highest standards of data and statistical analysis.
->	
->	In short, a definition of data journalism needs to say what is enough and what is too much to qualify.
->	
->	- Francis
-
-</aside>
-

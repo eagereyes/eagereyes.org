@@ -1,12 +1,3 @@
----
-title: "Review: Alberto Cairo, How Charts Lie"
-description: "Alberto Cairo’s new book, How Charts Lie, takes readers on a tour of how charts are used and misused, and teaches them how to not be misled. It’s a useful book for both makers and consumers of charts, in the news, business, and pretty much anywhere else."
-date: 2019-11-11 21:07:05
-tags: book-reviews
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg" width="800" height="569" /></p>
 
 # Review: Alberto Cairo, How Charts Lie
@@ -30,8 +21,3 @@ Charts don’t lie, people do. The book is really about how charts are being mis
 It's a great book about what to do and not do with charts, but <em>How Charts Lie</em> is also a testament to the awful state of today’s political discourse. I worry that the people who would most need to read it, like <a href="http://www.thefunctionalart.com/2019/09/that-damn-mapagain.html">the president Cairo sent a copy</a>, won’t.
 
 But everybody else should.
-
-
-<PostedBy />
-
-

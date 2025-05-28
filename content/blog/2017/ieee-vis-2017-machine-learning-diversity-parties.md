@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2017: Machine Learning, Diversity, Parties"
-description: "I've ignored the major new topic this year so far: machine learning. Another new thing this year, though way overdue, was that we finally started to talk about diversity. And then there were the parties."
-date: 2017-10-12 17:56:41
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg" width="720" height="480" /></p>
 
 # IEEE VIS 2017: Machine Learning, Diversity, Parties
@@ -57,21 +49,3 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-word-clouds-sparklines-stories-interaction">Word Clouds, Stories, Interaction</a></li>
     <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
 </ul>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.facebook.com/app_scoped_user_id/510781175923605/" rel="nofollow noopener" target="_blank">Yao Ming</a> says…
->	There was another panel related to the VIS+ML: How do Recent Machine Learning Advances Impact the Data Visualization Research Agenda? Not sure if you have attended it. The panelists also output some interesting thoughts on the topic of VIS+ML. I've took some notes on their opinions in my blog (http://blog.myaooo.com/vis2017) if you are interested.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Ah, right! Thanks! I did an amazing job missing all of these this year…
-
-</aside>
-

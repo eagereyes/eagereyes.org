@@ -1,12 +1,3 @@
----
-title: "Multi-touch Brushing for Parallel Coordinates"
-description: "Interaction in visualization is incredibly important, but often more tedious than it needs to be. I have developed a new way of brushing in parallel coordinates that uses the multi-touch trackpads on Apple's MacBook and MacBook Pro laptops for faster interaction. The video below demonstrates the technique, and the source code is available."
-date: 2010-07-20 20:49:55
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/multitouch-brushing.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"></p>
 
 # Multi-touch Brushing for Parallel Coordinates
@@ -31,37 +22,3 @@ The video below demonstrates the technique. It's still quite a different thing t
 You can watch the <a href="http://vimeo.com/13437693">video in HD</a> on the vimeo site. The inset in the lower right is meant as a guide to show what the fingers are doing, not as a part of the actual user interface. People have suggested showing the location of the fingers as an overlay, but when you watch the video you will see why this would be a bad idea: the fingers don't have to line up with the axes, plus the floating dots would be distracting.
 
 I have also posted the <a href="http://github.com/eagereyes/ParVisMT">source code</a> and there's an executable under the downloads tab if you want to play with it. Be advised, though, that this is a pure research prototype that demonstrates the technique but doesn't do anything useful. The data is hardcoded and the program only lets you brush and rearrange axes, nothing else. The program requires Mac OS X 10.6 "Snow Leopard" and a recent MacBook or MacBook Pro.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://kcptech.com/datagames" rel="nofollow noopener" target="_blank">Vishakha Parvate</a> says…
->	Is there any chance that I can lay my hands on the related paper? I am working on a team that is creating the next version of data exploration tool for high schools students called Fathom. As we gear to create this next version, I am scouting for any and all research in the field of data visualization and am really interested in what you are doing.
->	
->	Thanks in advance,
->	
->	Vishakha Parvate
-
-<a href="http://had.co.nz" rel="nofollow noopener" target="_blank">Hadley Wickham</a> says…
->	Did you consider drawing the finger placement under the data and axes? It seems like it would help with calibrating your finger position on the trackpad with the interaction position on the plot.
-
-Li Tan says…
->	I am very interested in such multi-touch interaction for parallel coordinates. Simultaneously, I am curious about that why you choose parallel coordinates. Is there some general rationale to design the multi-touch interaction for visualization forms? Look forward to have chance to read above mention paper.
->	
->	Greets
->	Li
-
-Robert Kosara says…
->	That might work, but I'm not sure if it really would help. The placement is actually quite easy to figure out by just moving your fingers around on the trackpad. I think any visual aid is going to end up being more confusing and distracting than helpful. But I haven't done a user study, I'll definitely need to try out a few variations.
-
-Robert Kosara says…
->	The main reason is that I find most existing parallel coordinates tools cumbersome and slow to use. I also had the idea first when thinking about parcoords. Plus, they are a very well-studied and common technique in visualization, so they kind of present themselves as a testbed. But I definitely want to extend this idea to other kinds of visualization and other interactions as well.
-
-</aside>
-

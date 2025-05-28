@@ -1,12 +1,3 @@
----
-title: "The NY Times COVID Spiral Is Off-Center"
-description: "An opinion piece in the New York Times last week got a lot of attention in visualization circles for its use of a spiral chart as its opener. While the choice of chart and color scheme can be debated, I want to discuss the fact that the spiral is disconcertingly off-center."
-date: 2022-01-09 23:24:57
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/01/spirals-overlaid.png
-outline: false
----
-
 # The NY Times COVID Spiral Is Off-Center
 
 An opinion piece in the New York Times last week got a lot of attention in visualization circles for its use of a spiral chart as its opener. While the choice of chart and color scheme can be debated, I want to discuss the fact that the spiral is disconcertingly off-center.
@@ -30,18 +21,3 @@ When you look at where my overlaid spiral crosses the vertical axis, you will no
 Even when it's shifted, it looks like the lower right quadrant in both 2020 and 2021 is flattened relative to my overlay. That adds to the impression of the shift and wobbliness, I think.
 
 I don't think the spiral was a bad choice here, but I do question the decision to shift it over like that. Perhaps using a different spiral would have worked better, or just accepting the beginning of the year to not be on a horizontal part of the spiral.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Jon says…
->	I noticed it as well but I suppose one could look at it as a metaphor for how the pandemic really threw everything out of balance for the past few years.
-
-</aside>
-

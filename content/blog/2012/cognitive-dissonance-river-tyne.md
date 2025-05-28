@@ -1,12 +1,3 @@
----
-title: "Cognitive Dissonance on the River Tyne"
-description: "Moritz Stefaner and Stephan Thiel have created a visualization of sensor data acquired by a floating mill on the river Tyne in Newcastle upon Tyne, Great Britain. Their choice of a flow metaphor for non-flow data creates a cognitive dissonance that makes the visualization difficult to understand."
-date: 2012-07-22 21:47:30
-tags: criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/07/tyne.png
-outline: false
----
-
 # Cognitive Dissonance on the River Tyne
 
 Moritz Stefaner and Stephan Thiel have created <a href="http://www.flowmill.org/tyne">a visualization of sensor data</a> acquired by a floating mill on the river Tyne in <a href="http://en.wikipedia.org/wiki/Newcastle_upon_Tyne">Newcastle upon Tyne</a>, Great Britain. Their choice of a flow metaphor for non-flow data creates a cognitive dissonance that makes the visualization difficult to understand.
@@ -30,21 +21,3 @@ While there is no principle reason why flow can’t be used to visualize abstrac
 How could this have been avoided? One obvious way of showing the data, <a href="http://www.flowmill.org/streaming">boring line charts</a>, was probably not what they had in mind. Simply changing the flow to not be so linear, but maybe go around a circular area would have helped. That would also perhaps have created some more complex patterns. There are many other possibilities, and Moritz and Stefan show <a href="http://well-formed-data.net/archives/782/tyne-simulation-as-visualization">a few early sketches</a> in <a href="http://www.nand.io/visualisation/tyne">their blog postings</a>.
 
 It’s unfortunate that they ended up sticking so closely to the obvious metaphor, the flow. The other designs strike me as much more interesting, and would have avoided the confusion. As it is, the flow metaphor creates nice images, but to understand what is shown requires a lot of unnecessarily hard work.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Nigel says…
->	Good analysis Robert. I agree with what you say, when I first looked at this I found it very hard to get away from the flow NOT being the flow of water, making my reading of the data quite difficult to understand. Going back to it now I still find it hard to take in exactly what I am looking at
-
-<a href="http://marine.rutgers.edu/cool/maracoos/imagery/" rel="nofollow noopener" target="_blank">Hugh Roarty</a> says…
->	Would you be interested in animating our ocean surface current data?
-
-</aside>
-

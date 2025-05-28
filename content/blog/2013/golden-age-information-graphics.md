@@ -1,12 +1,3 @@
----
-title: "The Golden Age of Information Graphics"
-description: "Infographics today are mostly pointless decorations around a few simple facts that add nothing meaningful. But information graphics once deserved their name with dense, meticulously-drawn, well-researched information. Here is an example from 1944."
-date: 2013-08-12 20:50:58
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-teaser.jpg
-outline: false
----
-
 # The Golden Age of Information Graphics
 
 Infographics today are mostly pointless decorations around a few simple facts that add nothing meaningful. But information graphics once deserved their name with dense, meticulously-drawn, well-researched information. Here is an example from 1944.
@@ -38,38 +29,3 @@ But I'm not convinced that things have to be this way. A well-researched and inf
 <hr />
 
 Check out <a href="http://www.flickr.com/photos/llnl/9403051123/">the original chart in all its 70 megapixels glory</a> for yourself, or use <a href="http://zoom.it/IwPh">this zoom.it version</a> to navigate it more easily.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-nirmal sharma says…
->	A great piece, and I agree with the author completely. I suspect, the dumbing down of the art and science of information graphics started after internet and social media became so popular. But on the brighter side, we find a new crop of designers who are using technology and making mind blowing stuff in motion and interactive
-
-<a href="http://vislives.wordpress.com" rel="nofollow noopener" target="_blank">Chris Pudney</a> says…
->	Perhaps the key difference is whether the graphic is intended to inform or advertise.
-
-<a href="http://understandinggraphics.com" rel="nofollow noopener" target="_blank">Connie Malamed</a> says…
->	These are just beautiful, Robert. Thanks for finding them and sharing. I guess we'll just have to keep educating people about "real" infographics and until then, shut our eyes.
->	Connie
-
-Christy Barr says…
->	My husband's grandfather, Dwight Barr, was the person who created this chart.  There is a wonderful article in Physics Central about the making of the chart:  http://physicsbuzz.physicscentral.com/2013/09/making-chart-of-electromagnetic.html
->	My father-in-law and his siblings can vividly remember all the parts of the chart laid out on the living room floor of their home while Dwight worked on it. We have audio tapes of Grandpa Barr talking about making the chart.
-
-Kiki Cyr says…
->	This is just beautiful: the story, the graphics and the personal connection found. To Christy Barr, do preserve that heritage for humanity.
-
-bassplayer247 says…
->	I love this.
-
-<a href="https://plus.google.com/108477314352558454633" rel="nofollow noopener" target="_blank">AJ Dy</a> says…
->	Any hi-res sources for the other graphics? Are there more of these? This is my field and I'm willing to pay to have these in my house! :)
-
-</aside>
-

@@ -1,12 +1,3 @@
----
-title: "The Visual Display of Relevant Information"
-description: "When Al Gore talks about global warming, Hans Rosling shows the relationship between health and wealth, and the New York Times visualizes primary results and American consumer debt, they communicate visually. But they only use visual representation to get their point across, as a means to an end. When we want to show why visualization is effective, we have to care about the message, too &ndash; not just the method."
-date: 2008-07-21 19:43:20
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/wallstats-energy.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" border="0" alt="Budget" /></p>
 
 # The Visual Display of Relevant Information
@@ -27,22 +18,3 @@ But a compelling visualization needs a compelling story about interesting data. 
 Teaser image from the <a href="http://www.wallstats.com/blog/">WallStats blog</a>, used with permission.
 
 For a similar problem in statistics, see <a href="http://statisticalgraphics.blog.com/3338440/">"I don't care about the data ..."</a>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-bob says…
->	It appears that you have the same URL behind both the link to unemployment rates in Minnesota and the link to the Death and Taxes poster - so clicking either one takes the viewer to the Minnesota unemployment rate page.
->	
-
-Robert Kosara says…
->	Thanks!
-
-</aside>
-

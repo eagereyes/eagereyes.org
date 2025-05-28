@@ -1,12 +1,3 @@
----
-title: "A Visual Language for Proteins: Jane Richardson"
-description: "Proteins are among the most complex structures we know. They consist of thousands of atoms, and fold into complex shapes to perform a variety of functions. Understanding how they work is not possible from looking at single atoms, but rather at the overall, three-dimensional structure. The visual language for doing this was developed by Jane Richardson."
-date: 2010-03-24 14:39:18
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/richardson-protein.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/richardson-protein.jpg" width="560" height="275" alt="Proteins" /></p>
 
 # A Visual Language for Proteins: Jane Richardson
@@ -30,24 +21,3 @@ I <a href="/blog/2008/sightings-structures-smaller-than-light">interviewed Richa
 This is my entry for <a href="http://findingada.com/">Ada Lovelace Day 2010</a>.
 
 Teaser image: left part by Jane S. Richardson, right part by <a href="http://commons.wikimedia.org/wiki/File:Spombe_Pop2p_protein_structure_rainbow.png">Wikipedia user Debstar</a>. Atoms-to-abstraction image by Wikipedia user <a href="http://en.wikipedia.org/wiki/File:Proteinviews-1tim.png">Opabinia regalis</a>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://had.co.nz" rel="nofollow noopener" target="_blank">Hadley Wickham</a> says…
->	Does anyone else find the hand drawn version to be far more aesthetically appealing?  I don't like the heavily saturation and high gloss of the computer generated examples.
-
-Robert Kosara says…
->	I completely agree. I actually spent some time googling for better computer-generated images, but couldn't find any. I also implemented a ribbon visualization a while ago for a company, and used less saturated colors there. But they were still a bit on the glossy side and didn't have the charm of the hand-drawn ones. It would take using some more advanced CG techniques to make these things look better, but it's definitely doable. Glossy, high-contrast, primary colors are definitely easier to do, though.
-
-<a href="http://flowingdata.com" rel="nofollow noopener" target="_blank">Nathan</a> says…
->	the hand-drawn ones look way better. that's often the case, i think. i mean, if a person can draw well in the first place, i'd always put my money on him/her vs a programmer.
-
-</aside>
-

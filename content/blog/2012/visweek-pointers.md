@@ -1,11 +1,3 @@
----
-title: "A Few VisWeek Pointers"
-description: "What good is a blog if it doesn’t serve the noble goal of self-promotion? Here are a few pointers to papers I’m involved in at VisWeek, as well a job posting that’s kind of my fault."
-date: 2012-10-10 20:41:11
-tags: VisWeek
-featuredImage: 
----
-
 # A Few VisWeek Pointers
 
 What good is a blog if it doesn’t serve the noble goal of self-promotion? Here are a few pointers to papers I’m involved in at VisWeek, as well a job posting that’s kind of my fault.
@@ -27,8 +19,3 @@ So apparently <a title="Goodbye, Academia; Hello (Again), Tableau!" href="/blog/
 I will be <a href="http://twitter.com/eagereyes">tweeting</a> from VisWeek a bit, but only occasionally and only real highlights. It's really difficult to tweet and follow what's going in any meaningful way, and I also know that tweet torrents can be annoying to read (because of the lack of context, among other reasons).
 
 <a title="EuroVis 2012, Day 1" href="/blog/2012/eurovis-2012-day-1">Just</a> <a title="EuroVis 2012, Day 2" href="/blog/2012/eurovis-2012-day-2">like</a> <a title="EuroVis 2012, Day 3" href="/blog/2012/eurovis-2012-day-3">with</a> <a title="EuroVis 2012, Last Day and Wrap-Up" href="/blog/2012/eurovis-2012-wrap-up">EuroVis</a>, I will try to write daily summaries here. Given the number of parties and other events planned at night, I might skip a day or two, but I will do my best to keep you informed about the most important stuff.
-
-
-<PostedBy />
-
-

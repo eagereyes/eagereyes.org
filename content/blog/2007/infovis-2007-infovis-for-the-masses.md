@@ -1,11 +1,3 @@
----
-title: "InfoVis 2007: InfoVis for the Masses"
-description: "The InfoVis conference this year had a theme that was not planned, but that made it even more impressive. That theme was InfoVis for the Masses, or Visualization for the People, and it was present throughout the keynote, many paper presentations, the panel, the World Visualization Day BOF, and the capstone. This is the beginning of a new era in visualization, and it is exciting to watch it happen."
-date: 2007-11-24 22:35:39
-tags: conference
-featuredImage: https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg" border="0" alt="Visualization for the People - Fernanda Viegas" width="258" height="338" /></p>
 
 # InfoVis 2007: InfoVis for the Masses
@@ -53,8 +45,3 @@ Stephen has <a href="http://www.perceptualedge.com/blog/?p=174">posted his thoug
 ## Quo Vadis, InfoVis?
 
 I believe that we are seeing a paradigm shift in InfoVIs, away from the specialized user (who <a href="/blog/2007/rethinking-the-user">may not exist, after all</a>) to a more general audience. This won't be easy &ndash; paradigm shifts are always painful &ndash;, but it's a good thing. It will make us more aware of what we are doing and why, and will greatly increase the impact of our field. There is certainly a danger of "dumbing things down" for untrained users, and we have to be careful about that. But most user studies are done with users who are not familiar with whatever tool they're supposed to use, and often not even with the application area, so we may already be halfway there. And also for those applications that are specialized and that only apply to a certain field, it will be healthy and helpful to be aware of the context and the usage scenarios in a broader context. It's all about the user, after all.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2018, Part 1: VisComm, VisInPractice, BELIV, Best Papers"
-description: "The IEEE VIS conference is the most important outlet for academic research. This year's conference took place in Berlin, Germany. Here is a report on some of the most interesting (to me, anyway) papers, events, and developments, in three parts. "
-date: 2018-10-29 19:40:02
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0271.jpg
----
-
 # IEEE VIS 2018, Part 1: VisComm, VisInPractice, BELIV, Best Papers
 
 The <a href="https://ieeevis.org/">IEEE VIS conference</a> is the most important outlet for academic research. This year's conference took place in Berlin, Germany. Here is a report on some of the most interesting (to me, anyway) papers, events, and developments, in three parts. 
@@ -57,23 +49,3 @@ I have to say that I was not terribly impressed with this year’s VAST or SciVi
 What makes Draco interesting is not only the novel approach, but also the fact that this is the first really new way of creating visualizations (at least in terms of being usable for normal end users) in a while. Another one is <em>Charticulator</em>, which I’ll cover in one of the other VIS postings.
 
 The opening session also included a number of test of time awards, which I will cover in a separate posting.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Gabriela Molina says…
->	Hi, thank you for the great posts about VIS!
->	Just wanted to let you know: 
->	The link to the Gaia website has an error - there is a "%20" that shouldn't be there.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Fixed, thank you!
-
-</aside>
-

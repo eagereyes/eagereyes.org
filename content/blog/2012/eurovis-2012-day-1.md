@@ -1,11 +1,3 @@
----
-title: "EuroVis 2012, Day 1"
-description: "EuroVis 2012 has officially begun, so here is a brief recap of some of the things I found interesting. Today, that included the EuroRVVV workshop and two papers."
-date: 2012-06-05 12:09:48
-tags: conference, eurovis
-featuredImage: 
----
-
 # EuroVis 2012, Day 1
 
 EuroVis 2012 has officially begun, so here is a brief recap of some of the things I found interesting. Today, that included the EuroRVVV workshop and two papers.
@@ -37,8 +29,3 @@ Two great papers saved the afternoon, though: <em>Computing Voronoi Treemaps: Fa
 A new addition to the collection of techniques to save us from the horrors of Euler diagrams was presented in <em>Kelp Diagrams: Point Set Membership Visualization</em> by Kasper Dinkla, Marc van Kreveld, Bettina Speckmann, and Michel Westenberg. The technique is a bit of a mix of LineSets and BubbleSets, with some visual linking thrown in. It shows set memberships for points with a given layout, like on a map. There are some limitations, but they are no worse than the other techniques, and the visual appearance is very clear and readable.
 
 All in all, this was a good start to what promises to be a good conference.
-
-
-<PostedBy />
-
-

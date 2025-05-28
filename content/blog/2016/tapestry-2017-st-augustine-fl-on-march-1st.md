@@ -1,11 +1,3 @@
----
-title: "Tapestry 2017: St. Augustine, FL on March 1st"
-description: "We just announced next year's Tapestry Conference – the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos!"
-date: 2016-09-19 18:12:48
-tags: tapestry
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/14061151590_547435d61f_o.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/14061151590_547435d61f_o.jpg" width="772" height="512" /></p>
 
 # Tapestry 2017: St. Augustine, FL on March 1st
@@ -51,8 +43,3 @@ There's more information on the <a href="http://www.tapestryconference.com">Tape
 <hr />
 
 <a href="https://www.flickr.com/photos/stevenm_61/14061151590/">Teaser image by Steven Martin</a>
-
-
-<PostedBy />
-
-

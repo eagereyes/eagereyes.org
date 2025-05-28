@@ -1,0 +1,6 @@
+bob says…
+>	It appears that you have the same URL behind both the link to unemployment rates in Minnesota and the link to the Death and Taxes poster - so clicking either one takes the viewer to the Minnesota unemployment rate page.
+>	
+
+Robert Kosara says…
+>	Thanks!

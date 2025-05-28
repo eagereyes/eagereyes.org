@@ -1,12 +1,3 @@
----
-title: "Data Is A Dish Best Served Raw"
-description: "The recent opening of Data.gov has led to a number of discussions on data formats, feeds, what kinds of data, which agencies are or are not participating, etc. One key aspect that gets overlooked very easily, but that is really essential, is that what is being published is actual data: original, raw, unprocessed, undigested, naked data. Everything else is secondary."
-date: 2009-06-04 21:06:53
-tags: data
-featuredImage: https://media.eagereyes.org/media/2009/data-zoom.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/data-zoom.jpg" border="0" alt="Data Zoom" width="550" height="140" /></p>
 
 # Data Is A Dish Best Served Raw
@@ -32,27 +23,3 @@ Another question that has come up is whether such a site should be an index or a
 We all have our data models and ideas about the data, so any overarching be-all-end-all data model data.gov would choose would match nobody else's. It really makes more sense to leave that to the user. Of course, it would be great to be able to query all the data in one central place. I just don't think it's going to happen. And given the choice between the current data.gov and the perfect model in five years, I know what I would pick.
 
 But despite all the flaws, the inconsistencies, and things that could be done but haven't been, there is one key component that makes it all viable: it's data. Real, raw, original data. Data we can use and <a href="http://had.co.nz/thesis/">melt and recast</a> and analyze. That's the kind of data that is worth going to all the trouble for. If we don't get that kind of data, all the other issues are moot.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://jeromecukier.net" rel="nofollow noopener" target="_blank">Jerome Cukier</a> says…
->	<p>From a data visualization expert point of view, you can't beat raw data. </p>
->	<p>But one ambition of data.gov was to make data available to new audiences.</p>
->	<p>My guess is that a person who only needs a data-backed answer to a simple question won't be too happy to get raw data only. </p>
->	<p>don't get me wrong, I think it's great that raw data is becoming easier to obtain, but it's shouldn't be the one and only way to publish data.</p>
-
-Robert Kosara says…
->	<p>I agree, and data.gov is really only usable for a small minority of people. But the raw data is where it all begins. Now people can start building interesting applications and new ways to disseminate the data. But without that raw data, none of that is possible: nobody's going to read endless PDFs with pre-digested tables, and nobody is going to be able to build anything more interesting from them.</p>
-
-Kinray says…
->	<p>Without the raw data, you can not even verify the research by reporducing the published results...</p>
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "More Things To Do at VIS: BELIV, VisLies, Social Media Meetup, Etc."
-description: "For next week's IEEE VIS conference, here are some more pointers to things that I think are worth checking out in addition to my previous list. This includes a few of the major events as well as some meetups you might otherwise have missed."
-date: 2020-10-21 19:20:46
-tags: IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020_v2.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020_v2.jpg" width="528" height="403" /></p>
 
 # More Things To Do at VIS: BELIV, VisLies, Social Media Meetup, Etc.
@@ -35,8 +27,3 @@ The idea is to cover all aspects of social media and publicizing your work on to
 <a href="https://virtual.ieeevis.org/session_m-publish.html">The meetup page on the virtual VIS website</a> currently doesn't have much information, though it does have the zoom link.
 
 There's a lot to see and do, so check out VIS! This might be the only time you can do that from the comfort of your home, and completely free!
-
-
-<PostedBy />
-
-

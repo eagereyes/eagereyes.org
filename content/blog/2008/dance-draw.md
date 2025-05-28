@@ -1,12 +1,3 @@
----
-title: "Dance.Draw"
-description: "My colleague Celine Latulipe has made a nice website about her Dance.Draw project. In what she calls Exquisite Interaction, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful."
-date: 2008-05-15 22:51:37
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw" /></p>
 
 # Dance.Draw
@@ -20,21 +11,3 @@ Each dancer has a mouse in each hand. The mice track motion (similar to a Wii-mo
 What is being visualized is data from the mice, which represents the dance, which in turn is an interpretation of the music. So in a sense, we are seeing a visualization of the music. Of course, the goal is not a readable visualization, but a more abstract, artistic representation.
 
 Be sure to watch the video, though the visualization is a bit washed out. The  performance usually takes place in an almost entirely dark room, where the visuals are much more dominant. The music is also quite catchy.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.teacupsandtutus.com/stprtu.html" rel="nofollow noopener" target="_blank">Jill Smeetch</a> says…
->	That's cool.  I agree that more data would not necessarily help.  It is beautiful as it is.
-
-<a href="http://www.pdxsmiles.com/cosmetic-dentist-portland/" rel="nofollow noopener" target="_blank">Dr. Roger Portland</a> says…
->	<p>This is interesting. It's the first time I saw a merge of dancing and drawing as one art form. Truly, art is a boundless realm. I wonder if Wii actually got inspiration from this.</p>
-
-</aside>
-

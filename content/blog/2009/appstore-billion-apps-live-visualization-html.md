@@ -1,12 +1,3 @@
----
-title: "AppStore Billion Apps Live Visualization"
-description: "Apple's AppStore for iPhone and iPod touch is about to sell its billionth application. You can watch Apple's pretty counter webpage, or you can see the downloads piling up and the rate of downloads visualized below. Unlike the billionth song download a few years ago, this is in (almost) real-time. The collected data and the Python script that generates the images using Google Charts is included."
-date: 2009-04-11 10:01:19
-tags: applications
-featuredImage: https://media.eagereyes.org/media/2009/billionapps.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/billionapps.png" border="0" alt="We're about to hit a billion" width="503" height="140" /></p>
 
 # AppStore Billion Apps Live Visualization
@@ -26,21 +17,3 @@ The data for this is scraped from the same source Apple's webpage uses. I'm maki
 Instead of working this into the <a href="/blog/2006/itunes-billion-song-downloads">billion downloads applet</a>, I decided to try out <a href="http://code.google.com/apis/chart/">Google Charts</a>. While the API is pretty good for basic charts, it does have its limitations. Perhaps the most annoying is that images are limited to 300,000 pixels: I would have liked to make the large version of this quite a bit larger. Getting a combined line and bar chart also involves some trickery (which is documented, though). This could be a bit easier. Transparency would be another useful feature, to make the stripes visible through the bars.
 
 Another problem is that Google Charts does not degrade gracefully. When there is too much data, it simply gives you an error message or produces a completely useless image. I had to split the chart up at four full days, because it croaked at 117 data points. This does not seem to be a limitation of the URL length (it uses GET requests, not POST), but of the renderer.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Anonymous says…
->	<p>Nice work! However, I wish Apple would update the counter far more often. Real-time up until only a million apps remain, then let those who extrapolate the best win.</p>
-
-Michael B says…
->	<p>It will be interesting to see the spike at the end, when everyone is going for the billionth download!</p>
-
-</aside>
-

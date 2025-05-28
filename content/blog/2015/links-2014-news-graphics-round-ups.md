@@ -1,12 +1,3 @@
----
-title: "Links: 2014 News Graphics Round-Ups"
-description: "In the past, it used to be difficult to find news graphics from the main news organizations. In the last few years, they have started to post year-end lists of their work, which are always a treat to walk through. With the new year a few weeks behind us, this is a good time to look at these as collections of news graphics."
-date: 2015-01-14 07:17:00
-tags: blog/2015
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/01/nzz-chronik.png
-outline: false
----
-
 # Links: 2014 News Graphics Round-Ups
 
 In the past, it used to be difficult to find news graphics from the main news organizations. In the last few years, they have started to post year-end lists of their work, which are always a treat to walk through. With the new year a few weeks behind us, this is a good time to look at these as collections of news graphics.
@@ -24,8 +15,3 @@ In the past, it used to be difficult to find news graphics from the main news or
 </ul>
 
 Slightly different, but worth a special mention, is NZZ's amazing visualization of all their articles from the year, <a href="http://2014.nzz.ch/"><em>Das Jahr 2014 in der «Neuen Zürcher Zeitung»</em></a> (in German).
-
-
-<PostedBy />
-
-

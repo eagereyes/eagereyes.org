@@ -1,12 +1,3 @@
----
-title: "Paper: Finding a Clear Path: Structuring Strategies for Visualization Sequences"
-description: "How should you sequence information in a data story so it makes the most sense? Are some sequences better than others? Does time have to move forward or does it not matter? In a paper to be published at EuroVis next week, with Jessica Hullman at UW and my Tableau Research colleague Heidi Lam, we report on a pair of studies that looked into this."
-date: 2017-06-04 20:52:46
-tags: paper, storytelling, papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg" width="720" height="408" /></p>
 
 # Paper: Finding a Clear Path: Structuring Strategies for Visualization Sequences
@@ -41,8 +32,3 @@ This is one of the first papers to look at sequence and how people structure inf
 <hr />
 
 Jessica Hullman, Robert Kosara, Heidi Lam, <a href="/publications/Hullman-EuroVis-2017">Finding a Clear Path: Structuring Strategies for Visualization Sequences</a>, <em>Computer Graphics Forum (Proceedings EuroVis)</em>, vol. 36, no. 3, 2017.
-
-
-<PostedBy />
-
-

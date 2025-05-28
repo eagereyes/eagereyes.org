@@ -1,11 +1,3 @@
----
-title: "Pargnostics: Screen-Space Metrics for Parallel Coordinates"
-description: "Parallel coordinates are a very popular visualization technique for multi-dimensional numerical data. In this paper, we propose a set of metrics to better understand the types of visual structures users commonly look for using this technique. Based on the metrics, we can optimize the display to make it more readable, and allow the user to select dimensions based on their visual structures, rather than their existing ideas about the data."
-date: 2010-10-21 12:18:22
-tags: VisWeek, papers
-featuredImage: https://media.eagereyes.org/media/2010/Dasgupta-InfoVis-2010.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/Dasgupta-InfoVis-2010.png" alt="" width="560" height="290" /></p>
 
 # Pargnostics: Screen-Space Metrics for Parallel Coordinates
@@ -36,8 +28,3 @@ Aritra Dasgupta, Robert Kosara, <a href="/publications/Dasgupta-InfoVis-2010">Pa
 <em>Transactions on Visualization and Computer Graphics (Proceedings InfoVis)</em>, 2010.
 
 The paper will be presented at VisWeek 2010 in the <a href="http://vis.computer.org/VisWeek2010/schedule/thursday.html">second morning session on Thursday</a>, <em>Multi-dimensional Visualization</em>.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "Row-Level Thinking vs. Cube Thinking"
-description: "Our mental model of a dataset changes the way we ask questions. One aspect of that is the shape of the data (long or wide); an equally important issue is whether we think of the data as a collection of rows of numbers that we can aggregate bottom-up, or as a complete dataset that we can slice top-down to ask questions."
-date: 2016-05-22 19:19:12
-tags: data, attention
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/05/rubik_cube.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/rubik_cube.png" width="413" height="425" /></p>
 
 # Row-Level Thinking vs. Cube Thinking
@@ -45,8 +37,3 @@ Sure, you <em>could</em> look at the rows in a database just like in a spreadshe
 <hr />
 
 <a href="https://commons.wikimedia.org/wiki/File:Rubik%27s_cube.svg">Teaser image</a> by <a title="User:Booyabazooka" href="https://commons.wikimedia.org/wiki/User:Booyabazooka">Booyabazooka</a>, used under Creative Commons.
-
-
-<PostedBy />
-
-

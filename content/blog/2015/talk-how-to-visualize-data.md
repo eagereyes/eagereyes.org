@@ -1,12 +1,3 @@
----
-title: "Talk: How to Visualize Data"
-description: "Last week, I gave one of the visualization primer talks at BioVis in Dublin. My goal was to show people some examples, but also criticize the rather poor visualization culture in bioinformatics and challenge people to do better. Here is a write-up of that talk."
-date: 2015-07-14 21:54:53
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/07/biovis-talk45.png
-outline: false
----
-
 # Talk: How to Visualize Data
 
 Last week, I gave one of the visualization primer talks at <a href="http://biovis.net">BioVis</a> in Dublin. My goal was to show people some examples, but also criticize the rather poor visualization culture in bioinformatics and challenge people to do better. Here is a write-up of that talk.
@@ -242,23 +233,3 @@ I like to end my talks with pointers, so I showed these three books. I’ve revi
 And with that, I thank you for your attention and I’m happy to answer any questions!
 
 I actually got some questions and got into a little argument with Raghu Machiraju about what self-illustrating phenomena really are. I also had a few people talk to me afterwards who said they liked the talk. And to my great satisfaction, [somebody tweeted the key take-away](https://twitter.com/ryodejaneiro/status/619506342307479552), giving me some confidence that I did succeed in getting my point across.
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://3danim8.wordpress.com" rel="nofollow noopener" target="_blank">Ken Black</a> says…
->	Robert,
->	
->	It's 2:35 am and I should be asleep, but this blog post is too good to stop reading.  You do this to me all the time.  I think I'm going to have to stop reading your posts at night!
->	
->	Thanks,
->	
->	Ken
-
-</aside>
-

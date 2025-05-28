@@ -1,11 +1,3 @@
----
-title: "Review: Alberto Cairo, The Functional Art"
-description: "When Alberto Cairo first told me about the book he was writing, called The Functional Art, he warned me that only a small part of it was going to be about visualization. I have no idea what he was talking about, the book I read was a visualization book from start to finish. It is one of the most interesting and insightful books on the topic I have read in a while."
-date: 2012-10-08 23:01:02
-tags: book-reviews, criticism
-featuredImage: 
----
-
 # Review: Alberto Cairo, The Functional Art
 
 When Alberto Cairo first told me about the book he was writing, called <em>The Functional Art</em>, he warned me that only a small part of it was going to be about visualization. I have no idea what he was talking about, the book I read was a visualization book from start to finish. It is one of the most interesting and insightful books on the topic I have read in a while.
@@ -59,25 +51,3 @@ Don’t trust my opinion? Nick Diakopoulos thinks <a href="http://www.nickdiakop
 <hr />
 
 Alberto Cairo, <a href="http://www.amazon.com/The-Functional-Art-introduction-visualization/dp/0321834739/"><em>The Functional Art</em></a>. New Riders Press, 2012. Cairo has <a href="http://www.thefunctionalart.com">a website and blog related to the book</a>, <a href="https://twitter.com/albertocairo">is incredibly active on Twitter</a>, and is going to teach the <a href="http://open.journalismcourses.org">first massive online course on infographics and visualization</a>.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Al says…
->	I read the Spanish original several months ago and the Lamarckian evolution bit totally derailed me too. I must have re-read that section half a dozen times, thinking I must have been reading it wrong or mis-translating it in my head. Very odd, glad it wasn't just me who was puzzled by it. Otherwise, great book.
-
-Erin Mastrantonio says…
->	I am a student in Prof. Cairo's second installment of Introduction to Infographics and Data Visualization MOOC, and based on the reading I have done so far from Functional Art (required for the course), I would have to wholeheartedly agree that it is an excellent resource, both theoretical and practical, on how good visualizations are made.  Your review has convinced me to take the plunge and buy the book, in order to access the interview materials you mentioned (can't miss Cairo and Rosling bantering about what makes a good graphic!).  
->	
->	I am similarly relieved, as was the other reviewer, that the stuff on Lamarckian evolutionary theory was abstruse to someone else.  I, too, read it over several times and realized that he was contradicting himself by warning against the dangers of assuming form should always be constrained by function in biological terms... but then embracing that very same notion at the end as a principle of good design!  
->	
->	But let's not quibble-- he has obviously produced a fantastic piece of work for which I'm more than willing to lay down the green stuff!
-
-</aside>
-

@@ -1,12 +1,3 @@
----
-title: "The Bits Are Rotting in the State of Data Journalism"
-description: "News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today."
-date: 2016-07-13 20:43:48
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png" width="825" height="510" /></p>
 
 # The Bits Are Rotting in the State of Data Journalism
@@ -30,34 +21,3 @@ If the Washington Post and the New York Times can't keep their interactive piece
 Perhaps the WaPo and NY Times can fix these things now. But when will they break again? How long will there be a way to run Flash at all? I can only see Flash pieces on my laptop now (not on my iPad or iPhone), and only in Chrome (it just causes too many issues in Safari and I have no use for it other than the occasional old news piece). How much longer will Flash even be around? What then?
 
 News are not just relevant in the moment, they become historical record. In the shorter term, they're also valuable because they represent highly interesting experiments in visualization. I don't care about the unemployment rate seven years ago, but I do think that <em>The Jobless Rate for People Like You</em> is a reference for how to present data and make people understand something about statistics. Losing these is very painful.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.facebook.com/app_scoped_user_id/1121036637926538/" rel="nofollow noopener" target="_blank">Bella Gotie</a> says…
->	You are so right and it is so sad!
-
-<a href="http://www.bmj.com/infographics" rel="nofollow noopener" target="_blank">Will Stahl-Timmins</a> says…
->	As interactive data graphics designer for The BMJ (formerly The British Medical Journal), this is something that plagues me all the time. It's a particularly acute problem for scientific journals, as the things we publish become part of the scientific record, and losing them is perhaps even more painful. I don't have any good answers to the problem, but you are right on the money with this.
->	
->	I'm guessing that the future for historians that have had to find things with microfiche readers and suchlike will be to keep a vast selection of old computers / browsers / versions of javascript running, to be able to decipher old code.
-
-<a href="http://cs.wisc.edu/~sarikaya/" rel="nofollow noopener" target="_blank">Alper Sarikaya</a> says…
->	I wonder how prudent it would be to make everything static after a set amount of time as shared resources start evolving.  Perhaps after a period of six months and strong traffic dies down to a particular visualization, all linked content (css, javascript, data, etc.) are archived alongside the visualization.  Maybe wedge this process into the retention policy workflow?
->	
->	This is not to ignore that linkrot is a real issue.  Try looking up any Wired article online older than 2012, their styles are completely borked.
-
-<a href="http://twitter.com/alexcookson" rel="nofollow noopener" target="_blank">Alex Cookson (@alexcookson)</a> says…
->	It's certainly an interesting issue. My partner is a librarian, so she deals a lot with cataloguing and archiving, and she runs across "bit rot" constantly. It's frustrating for her day-to-day, but also quite sad, knowing that so much information is so ephemeral these days.
-
-<a href="http://www.rjionline.org/jdna" rel="nofollow noopener" target="_blank">Edward</a> says…
->	Thanks, Robert, for bringing this critial issue up. It's something I've been working on for the past several years as digital curator of journalism here at the University of Missouri (we take journalism pretty seriously here). For those interested in making a difference please visit the Journalism Digital News Archive (JDNA) site at www.rjionline.org/jdna and sign up for our newsletter. We are also hosting a national forum on preserving online news at UCLA from October 13-14, 2016. Sign up here: https://www.rjionline.org/events/dodging-the-memory-hole-2016-saving-online-news.
-
-</aside>
-

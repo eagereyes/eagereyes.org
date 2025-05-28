@@ -1,12 +1,3 @@
----
-title: "List of Influences: Alan MacEachren"
-description: "The first time I saw Alan MacEachren speak was as the keynote speaker at the Diagrams 2000 conference in Edinburgh. Because of his background in geography, he was introduced as \"a practitioner\" of diagrams &ndash; a designation which he immediately resisted. His work is clearly much more than that, connecting cartography, information visualization/design, semiotics, and perception. Alan's book How Maps Work has considerably changed the way representation and communication are understood when it comes to maps."
-date: 2007-04-02 23:11:10
-tags: influences
-featuredImage: 
-outline: false
----
-
 # List of Influences: Alan MacEachren
 
 The first time I saw <a href="http://www.geovista.psu.edu/members/maceachren/">Alan MacEachren</a> speak was as the keynote speaker at the <a href="http://www.cl.cam.ac.uk/Diag2000/">Diagrams 2000</a> conference in Edinburgh. Because of his background in geography, he was introduced as "a practitioner" of diagrams – a designation which he immediately resisted. His work is clearly much more than that, connecting cartography, information visualization/design, semiotics, and perception. Alan's book <a href="http://www.amazon.com/How-Maps-Work-Representation-Visualization/dp/157230040X"><em>How Maps Work</em></a> has considerably changed the way representation and communication are understood when it comes to maps.
@@ -25,20 +16,3 @@ Here is Alan's list of books in the order in which he read them.
 - George Lakoff, <em>Women, Fire, and Dangerous Things: What Categories Reveal about the Mind</em>. Chicago: University of Chicago Press, 1987. <em>This book, and other work by Lakoff, provides a stimulating perspective on the concept of mental categories and their role in all forms of thinking.</em>
 - Stephen M. Kosslyn, <a href="http://www.amazon.com/Image-Mind-Stephen-M-Kosslyn/dp/0674443667"><em>Image and Mind</em></a>. Cambridge, MA: Harvard University Press, 1980. <em>One of several important contributions by Kosslyn relevant to understanding the interaction between human cognition and visual representations.</em>
 - Edwin Hutchins, <em><a href="http://www.amazon.com/Cognition-Bradford-Books-Edwin-Hutchins/dp/0262581469/">Cognition in the Wild</a></em>. Cambridge, Mass: MIT Press, 1995. <em>This book provides a fascinating account of how cognition happens in groups and is externalized to artifacts. The real world observation of teams doing shipboard navigation is, to me, particularly compelling.</em>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://tshwi.blogspot.com" rel="nofollow noopener" target="_blank">Lynn Marentette</a> says…
->	I enjoyed Alan MacEachran's presentation last Thursday.  His list of books looks very interesting.  
->	
->	Lynn
-
-</aside>
-

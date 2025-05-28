@@ -1,11 +1,3 @@
----
-title: "VIS Tutorials and the Industry and Government Experiences Track"
-description: "The deadline for tutorial proposals for VIS 2013 is coming up. There are a few changes from last year. Also, there is a new Industry and Government Experiences Track at the conference this year."
-date: 2013-06-05 20:52:54
-tags: 
-featuredImage: 
----
-
 # VIS Tutorials and the Industry and Government Experiences Track
 
 The deadline for tutorial proposals for <a href="http://ieeevis.org">VIS 2013</a> is coming up. There are a few changes from last year. Also, there is a new <em>Industry and Government Experiences Track</em> at the conference this year.
@@ -31,8 +23,3 @@ From the CFP:
 >	Posters should present case studies of success, failure, experimentation, design, development, methodology, best practice lessons and other topics relevant to a commercial context. Discussion could include one or more of what were the business objectives, who were the users, what were their needs, what were the design objectives, what technology was developed, what was the result, how did it perform, what were the lessons learned and what are the next steps?
 
 Understanding how visualization is used in practice, what problems people solve with it, but also what challenges there are, is very valuable. So if you have anything to say about these topics, please submit a poster.
-
-
-<PostedBy />
-
-

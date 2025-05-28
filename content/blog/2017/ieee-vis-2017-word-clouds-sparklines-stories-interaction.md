@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2017: Word Clouds, Stories, Interaction"
-description: "I usually stick to the InfoVis track at VIS, and that was also the case this time. The papers in this part of my report from VIS 2017 cover text, small visualizations like sparklines and glyphs, tools for showing story structure, and multi-device interaction with data."
-date: 2017-10-10 18:17:40
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg" width="700" height="377" /></p>
 
 # IEEE VIS 2017: Word Clouds, Stories, Interaction
@@ -57,8 +49,3 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
     <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
-
-
-<PostedBy />
-
-

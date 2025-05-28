@@ -1,11 +1,3 @@
----
-title: "Report: EuroVis 2015"
-description: "I attended EuroVis 2015 last week in Cagliari, Sardinia. This is the second-most important conference in the academic visualization world, and there were plenty of good sessions to choose from (full and short papers, state-of-the-art reports, and industry sessions)."
-date: 2015-06-01 18:17:39
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/06/DSCF5939.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/06/DSCF5939.jpg" alt="" width="825" height="510" /></p>
 
 # Report: EuroVis 2015
@@ -63,21 +55,3 @@ Perhaps my favorite short paper was <em>Interaction with uncertainty in visualis
 Conference dinners can be amazing or they can be uninspiring (like the last several years at VIS). The EuroVis dinner at <a href="http://www.conventosangiuseppe.com">Convento San Giuseppe</a> set some new standards. The people there made all the food fresh, by hand, including gnocchi, lots of grilled meat, and <a href="http://en.wikipedia.org/wiki/Nougat">nougat</a>. The latter was particularly amazing, as it was soft and warm and just insanely good. There was also pottery, weaving, and a number of other things. The place was also beautiful, dating back to the Middle Ages.
 
 The bar is set high for next year. Speaking of which: EuroVis 2016 will take place June 6-10, 2016 in Groningen, The Netherlands.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.facebook.com/app_scoped_user_id/599499386854096/" rel="nofollow noopener" target="_blank">Bahador Saket</a> says…
->	Thanks for putting effort and writing this report.
-
-<a href="http://www.jamesscottbrown.com" rel="nofollow noopener" target="_blank">James Scott-Brown</a> says…
->	Acceptance rates seem to be tabulated online: https://www.eg.org/index.php/about-eg/working-groups/67-about-eg/working-groups/273-working-group-on-data-visualization-events
-
-</aside>
-

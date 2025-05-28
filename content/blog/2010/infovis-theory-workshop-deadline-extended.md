@@ -1,12 +1,3 @@
----
-title: "InfoVis Theory Workshop Deadline Extended"
-description: "We have received a few good submissions for the InfoVis Theory Workshop at VisWeek, but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance."
-date: 2010-08-24 22:24:32
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/maths.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/maths.jpg" alt="" width="560" height="401" /></p>
 
 # InfoVis Theory Workshop Deadline Extended
@@ -24,23 +15,3 @@ People all over the visualization (and in adjacent fields) are waking up and sta
 <hr />
 
 BTW, I was looking for another image that I saw somewhere recently, but can't find again. It's a black-and-white picture of a professor with a white beard in front of a much larger blackboard than the one in the image above (about four times the size). It's covered in dense math, and the professor has a slightly sheepish look on his face (unless I was imagining that). Does anybody know the picture and can perhaps provide a link?
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://flowingdata.com" rel="nofollow noopener" target="_blank">Nathan</a> says…
->	doesn't quite fit the description, but maybe this is the pic:
->	
->	http://www.flickr.com/photos/maisonbisson/201844037/
-
-Robert Kosara says…
->	Thanks!
-
-</aside>
-

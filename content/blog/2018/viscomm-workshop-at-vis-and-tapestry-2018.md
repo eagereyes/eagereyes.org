@@ -1,11 +1,3 @@
----
-title: "VisComm Workshop at VIS and Tapestry 2018"
-description: "If you're into visualization for communication and storytelling, these two events should be on your radar: the Visualization for Communication Workshop (VisComm) at VIS and Tapestry 2018."
-date: 2018-05-29 06:17:35
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/05/Tapestry_01.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/Tapestry_01.png" width="1283" height="710" /></p>
 
 # VisComm Workshop at VIS and Tapestry 2018
@@ -27,8 +19,3 @@ There is a little form on the <a href="http://www.tapestryconference.com">Tapest
 <hr />
 
 Thanks to <a href="http://catherinemaddenrelay.com/">Catherine Madden</a> for the great Tapestry announcement artwork!
-
-
-<PostedBy />
-
-

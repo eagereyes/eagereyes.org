@@ -1,11 +1,3 @@
----
-title: "Tapestry 2018, Details and Keynote Speakers"
-description: "We recently announced the speakers for Tapestry 2018, which takes place November 29 and 30 at the University of Miami. It will again be focused on telling stories with data, but we're also making a few changes."
-date: 2018-09-26 09:21:14
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/09/tapestry18-speakers.jpg
----
-
 # Tapestry 2018, Details and Keynote Speakers
 
 We recently announced the speakers for <a href="http://www.tapestryconference.com">Tapestry 2018</a>, which takes place November 29 and 30 at the University of Miami. It will again be focused on telling stories with data, but we're also making a few changes.
@@ -30,8 +22,3 @@ https://www.youtube.com/watch?v=_DTQTbccfAk
 </div></figure>
 
 Excited? We certainly are! Head on over to <a href="http://www.tapestryconference.com">the Tapestry website</a> and register!
-
-
-<PostedBy />
-
-

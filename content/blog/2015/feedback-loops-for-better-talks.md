@@ -1,12 +1,3 @@
----
-title: "Feedback Loops for Better Talks"
-description: "Feedback loops are a common concept in engineering. When it comes to giving talks, academics would do well to apply some of the thinking behind them to improve their output by observing how it deviates from the desired one, and making changes to adjust it."
-date: 2015-05-17 18:14:42
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png" alt="" width="825" height="510" /></p>
 
 # Feedback Loops for Better Talks
@@ -34,22 +25,3 @@ It also means responding to the audience. Listening for cues from the audience, 
 And it simply means being aware. Watching other people giving talks and noticing what they’re doing well or not so well is very educational. When you're suffering through the next terrible talk, take note of all the things that make it terrible. Now watch yourself and see how many of those things you do. You'll be surprised.
 
 There is no reason academic talks need to be bad. Just applying some of the principles we know would make a huge difference. It’s not rocket science.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://quinmoto.com" rel="nofollow noopener" target="_blank">John Hellier</a> says…
->	Spot on with the characterization of academic talks!! Any talk should be a sales pitch of your ideas, your work and/or your agenda.  Sounds bad to call it a sales pitch but a talk is about convincing your audience that what you have to say is worth listening to. Not to trivialize it, but being entertaining is huge part. A boring presentation is a lost opportunity.  This carries over in a big way to the visualization world too. If it is not engaging then few will use it and only under duress. 
->	
->	The feedback loop is something I think about a lot whether for talks, meetings or visualizations. Having a more formalized mechanism that can track interest and engagement whether in a talk, a meeting or a visualization is key. 
->	
->	Thanks for the post!
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "HTML5 and Visualization on the Web"
-description: "HTML5 is an upcoming new standard not just for web markup, but also new graphical features. It will make it possible to build interactive visualizations right in the web browser, written in JavaScript. And despite what you might think about JavaScript, they will be fast."
-date: 2010-12-21 20:53:59
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/canvas.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/canvas.png" alt="" width="560" height="168" /></p>
 
 # HTML5 and Visualization on the Web
@@ -49,26 +41,3 @@ Mobile browsers already support SVG and canvas, since they are all based on Webk
 While there is a lot of information about SVG out there, things are a bit more difficult to find for canvas. Mozilla has <a href="https://developer.mozilla.org/en/canvas_tutorial" target="_blank">a nice, basic tutorial</a>, and Mark Pilgrim <a href="http://diveintohtml5.org/canvas.html" target="_blank">covers some additional ground in his online book</a>. Hakim El Hattab has <a href="http://hakim.se/experiments/">some really impressive game demos</a>.
 
 I am also working on some things involving JavaScript and canvas right now, and will write a tutorial or two on how to use it for visualization.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-KAM Tin Seong says…
->	Hi Robert, nice posting.  
->	
->	There is another interesting article on [Interactive mapping with HTML5, JavaScript, and Canvas](http://indiemaps.com/blog/2010/06/interactive-mapping-with-html5-javascript-and-canvas/) for those who are interested to find out more on HTML5 for mapping.
-
-<a href="http://interactivemultimediatechnology.blogspot.com" rel="nofollow noopener" target="_blank">Anonymous</a> says…
->	I can't wait to play with this stuff while I relax on my vacation!
-
-<a href="http://www.nerdgranny.com" rel="nofollow noopener" target="_blank">simone</a> says…
->	i hope to see more compatibility on html5 new features... for example ie9 seems so bad at the moment :(
-
-</aside>
-

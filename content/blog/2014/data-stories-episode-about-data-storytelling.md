@@ -1,12 +1,3 @@
----
-title: "Data Stories Episode About Data Storytelling"
-description: "How is it possible that it has taken a podcast called Data Stories 35 episodes to get to the topic of data storytelling? Alberto Cairo and I helped get the topic straightened out, and I think we even convinced Moritz that stories are not the enemy of exploration. It was a fun episode to record, and it touches on many interesting topics."
-date: 2014-04-16 20:35:49
-tags: Data Stories
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/04/ds35.jpg
-outline: false
----
-
 # Data Stories Episode About Data Storytelling
 
 How is it possible that it has taken a podcast called <a href="http://well-formed-data.net/archives/1027/worlds-not-stories"><em>Data Stories</em></a> 35 episodes to get to the topic of data storytelling? Alberto Cairo and I helped get the topic straightened out, and I think we even convinced Moritz that stories are not the enemy of exploration. It was a fun episode to record, and it touches on many interesting topics.
@@ -28,18 +19,3 @@ https://twitter.com/dr_tj/status/453222401288208385
 What can I say? First, Andy Kirk is has been on the podcast more often than I have, so there. Also, if those people who complain blogged more, perhaps they would be asked to be on podcasts, too! Just sayin'.
 
 Now go and <a href="http://datastori.es/data-stories-35-visual-storytelling-w-alberto-cairo-and-robert-kosara/">listen to <em>Data Stories</em> about data storytelling</a>.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.thefunctionalart.com" rel="nofollow noopener" target="_blank">Alberto Cairo</a> says…
->	I steal like an artist!
-
-</aside>
-

@@ -1,12 +1,3 @@
----
-title: "Tapestry 2018 Program, Call for Demos"
-description: "The Tapestry 2018 program is complete, including the three keynotes and eight newly-added short stories. We are now looking for proposals for demos and will send out a call for PechaKucha-style talks to attendees soon, too."
-date: 2018-11-05 23:25:18
-tags: tapestry
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png" width="1283" height="710" /></p>
 
 # Tapestry 2018 Program, Call for Demos
@@ -22,8 +13,3 @@ We're excited to also have a great selection of awesome speakers and topics:
 The conference takes place November 29 and 30 at the University of Miami – so if you've been on the fence about going, now is the time <a href="https://tapestry2018.eventbrite.com/">to register</a> and book your travel!
 
 To submit a demo proposal, use <a href="https://goo.gl/forms/oEaspM9cltYgNkpe2">this demo submission form</a>. We're still working out logistics and aren't sure how many demos we'll be able to accommodate. We should know early next week, so get your proposal in by Friday (November 9)!
-
-
-<PostedBy />
-
-

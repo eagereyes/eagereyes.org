@@ -1,12 +1,3 @@
----
-title: "NY Times looks at Presidents and the Economy"
-description: "The New York Times has an interesting interactive visualization on the influence of presidents on the economy. They ask, Can a President Tame the Business Cycle? The visualization they use is not bad, but would be much more readable if it used a better color scale."
-date: 2008-10-18 23:17:58
-tags: Politics
-featuredImage: https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png" alt="NY Times, Can a President Tame the Business Cycle?" width="407" height="170" border="0" /></p>
 
 # NY Times looks at Presidents and the Economy
@@ -22,8 +13,3 @@ The answer here is a diverging color scale with two colors that are different en
 What is good about the graphic is its interactivity and the amount of data: almost 60 years of data, and seven dimensions is quite a bit of stuff to work with. There is also quite a bit of level-of-detail, with a mouse-over tooltip and a way to "drill in" for the bar/line chart.
 
 Of course, it would be great if all of the data they collected for graphics like this were immediately available through <a href="http://developer.nytimes.com/">their API</a> ...
-
-
-<PostedBy />
-
-

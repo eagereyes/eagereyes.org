@@ -1,12 +1,3 @@
----
-title: "A Decade of EagerEyes"
-description: "So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one."
-date: 2016-10-01 04:17:46
-tags: meta, A Decade of EagerEyes
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png" width="720" height="500" /></p>
 
 # A Decade of EagerEyes
@@ -32,18 +23,3 @@ This is not just a transfer going in one direction, either. What people actually
 There is a huge amount of work to be done here. There are many questions that need to be answered, only to lead to more questions. There are many interesting ideas coming out of those questions that could lead to interesting new work. And there is no end to the many different things to discuss, criticize, cheer on, present, reframe, explain, or defend – even after ten years.
 
 So let's get started.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamariehyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Best Wishes as you move forward.
-
-</aside>
-

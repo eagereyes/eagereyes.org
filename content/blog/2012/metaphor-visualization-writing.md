@@ -1,11 +1,3 @@
----
-title: "Another Metaphor for Visualization: Writing"
-description: "Andrew Gelman recently wrote a blog posting in which he draws an interesting comparison between writing styles and graphics styles. I think he's on to something, and the comparison can be taken a bit further to illustrate some common misunderstandings around visualization."
-date: 2012-02-21 21:36:26
-tags: criticism
-featuredImage: 
----
-
 # Another Metaphor for Visualization: Writing
 
 Andrew Gelman recently wrote a blog posting in which he <a href="http://andrewgelman.com/2012/02/at-some-point-the-graph-is-so-bad-that-it-doesnt-convey-the-information/">draws an interesting comparison between writing styles and graphics styles</a>. I think he's on to something, and the comparison can be taken a bit further to illustrate some common misunderstandings around visualization.
@@ -51,36 +43,3 @@ Gelman's point about the wide variety of writing styles in the early days of aca
 Consider, for a moment, that there was a time when the novel was a new idea. Before the 18th century, there were early  versions of it, but <a href="http://en.wikipedia.org/wiki/Novel#From_dubious_history_to_literature:_The_18th-century_market_reform">the novel as we know it today did not exist</a>. Yet the vast majority of fiction written in the last 200 years or so is novels. Shakespeare did not write novels, and the idea to write one likely didn't occur to him. He may even have dismissed novels, had somebody shown him one, as crude and unrefined writing that lacked purpose.
 
 Standards change, ideas come and go, some stay and become the prevailing way of doing things. It's way too early to know how we will be looking at data in 20, 50, or 100 years. And we have to be careful when we just lump together anything visual that's based on data and apply the same small set of standards to it. That is not to say that anything goes, but we need to make an effort to understand the goals and ideas behind something before we attempt to make a judgment.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Al says…
->	Good article. Re. "...A high data-ink ratio is equivalent to ... an information-words ratio: the number of words (or amount of ink) on a page that do not carry unique information should be minimal." Sounds like the signal-noise ratio (of which data-ink ratios are one specific example). 
->	
->	From the chapter on it in Rockport Press's Universal Principles of Design (which cites visual display of quantitative info as one source among others): "The goal of good design is to maximise signal and minimise noise... Maximising signal means clearly communicating information with minimal degradation".
->	
->	Sounds obvious, but the key difference with some people's interpretation of data-ink is that success is defined by the amount of signal successfully passed from the author to the audience by the whole communication act itself, not by the amount of data that technically speaking is locked away by the author onto the page. 
->	
->	Taking your example of a good psychology paper dipping into philosophical flourishes: these are non-unique information, so by a measure based purely on ink on the page, the ratio gets worse. However, parts of the signal are more fully understood by a reader in a philosophical frame of mind, parts by a more rigidly analytical frame of mind, so, within this discipline, adding certain well placed non-information flourishes that stimulate the appropriate mindset minimises the actual degradation of the signal. By a signal-noise ratio based on minimising the actual degradation of the signal going from the author to the reader, it improves.
->	
->	(I imagine that among serious mathematicians, a somewhat incomplete signal that forces the recipient to do  calculations and piece the pieces together themselves results in a more complete transmission of the idea - so more signal, less noise - than an elaborate description would)
-
-Jonathan says…
->	I'm not sure the writing analogy works when applied to data viz. At last, prose and poetry can communicate any information in some way, while data viz is only supposed to be communicating numbers, isn't it? So when you say, "We need to be aware of our expectations when we judge a data visualization or infographic." are you implying that the expectation may *not* be to gain some understanding of the data? That's... rather hard to understand without completely breaking the definition of what data visualization is.
->	
->	BTW I totally agree that we're in the infancy of data viz though.
-
-Jonathan says…
->	Ah, woop - just seen your definition: http://eagereyes.org/criticism/definition-of-visualization
->	
->	OK it's a very (very) broad definition, and I can see how the writing analogy fits within it. I'm still struggling to understand the premises here though.
-
-</aside>
-

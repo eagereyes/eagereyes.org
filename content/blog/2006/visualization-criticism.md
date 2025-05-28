@@ -1,11 +1,3 @@
----
-title: "Visualization Criticism - A New Way of Thinking about Visualization"
-description: "The main means of communication in science is the (printed) journal article or conference paper, which only contains text and static images. This limits the way we can illustrate change, interaction, and dynamics. We do not have the appropriate language to effectively describe our work not only in terms of what it shows, but how and why it works. We also lack a means of talking about our own and others' work in ways that critically reflect on what has been done. We need to learn from art criticism, where this is all possible."
-date: 2006-10-10 21:32:06
-tags: criticism
-featuredImage: 
----
-
 # Visualization Criticism - A New Way of Thinking about Visualization
 
 The main means of communication in science is the (printed) journal article or conference paper, which only contains text and static images. This limits the way we can illustrate change, interaction, and dynamics. We do not have the appropriate language to effectively describe our work not only in terms of what it shows, but how and why it works. We also lack a means of talking about our own and others' work in ways that critically reflect on what has been done. We need to learn from art criticism, where this is all possible.
@@ -39,24 +31,3 @@ A stronger focus on reflection will also make it possible to publish more theore
 Can we copy art theory? No, and nor should we. There are many differences between art and visualization, and visualization needs a very different kind of theory than art. Art critics are usually not artists, and art theory certainly works in a very different way, and has very different goals than a theory of visualization. Artists also do not usually use criticism to improve their work, or work directly with critics. This would be necessary and useful for visualization, and we certainly do not want to split the field into visualizaiton practitioners and visualization critics (though to an extent, this might be useful). But there are many ideas in art theory that could be directly applied to visualization, and that would provide useful new perspectives on what we do.
 
 Visualization also offers the perfect basis for a culture of criticism. Most researchers are young and there are few authorities that can dictate opinions. And even those are willing to engage in discussions and question their views. We are not dealing with steep hierarchies, doctrine, and unquestionable authorities like some other fields. Any new publication could turn our world upside down, any new model of how things are done could make everything that had been published before irrelevant. We are in a truly unique position to define and redefine our field in an unprecedented way. We need to seize this opportunity.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-T.J. Jankun-Kelly says…
->	I think a very important step in this direction is the integration of "criticism" in Visualization education. Many visualization courses are "If you have this data and this task, do this." I think, a toolbox approach with *honest* and *grounded* evaluation is pedagogically more sound and beneficial to our students. 
->	
->	I have experimented with this structure in my recent Vis classes, and I think I have had some success with it. Many of my assignments (and much of my midterm) were based upon questions like "Given our knowledge of human perception and cognition, does this choice of visualization work? Why?"
->	
-
-Sheila Levrant de Bretteville says…
->	<p>I am  just trolling the net today for gowell argued articles with finely made visual on visualization, and the aesthetics of branding</p>
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "Tableau Public's New Data Policy"
-description: "Tableau made a huge mistake when they pulled a visualization of WikiLeaks statistics from their Tableau Public website a few months ago. But they've used the opportunity to develop a new policy for content posted there that is very clear and based on the idea of free speech. This removes a big obstacle for journalists who want to use the service: they no longer have to fear that their hard work might be destroyed because somebody does not like it."
-date: 2011-02-22 22:55:18
-tags: 
-featuredImage: 
----
-
 # Tableau Public's New Data Policy
 
 Tableau made a huge mistake when they pulled a visualization of WikiLeaks statistics from their <a href="http://www.tableausoftware.com/public/" target="_blank">Tableau Public</a> website a few months ago. But they've used the opportunity to develop a new policy for content posted there that is very clear and based on the idea of free speech. This removes a big obstacle for journalists who want to use the service: they no longer have to fear that their hard work might be destroyed because somebody does not like it.
@@ -31,27 +23,3 @@ Just like the DMCA, Tableau Public's policy defines rules for what content is of
 The guiding principle is free speech, with the usual exceptions: child porn, hate speech, illegal content. For cases where the policy does not provide a clear answer, an advisory board of three external experts has been appointed, who will determine whether a visualization needs to be removed. The policy does not name them, but the <a href="http://www.tableausoftware.com/public/blog/2011/02/new-data-policy" target="_blank">accompanying blog post</a> does.
 
 The policy even provides some helpful common-sense advice for people about to publish potentially problematic data:
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://twitter.com/#!/acotgreave" rel="nofollow noopener" target="_blank">Andy Cotgreave</a> says…
->	I'm impressed with the new policy. Tableau have taken a positive step by reviewing a decision they made and moving forward. As a result, the rightness or wrongness of the decision they made in the past is now irrelevant: the situation today is better for all. Sadly, I expect that all the Tableau haters won't be so willing to tweet about this turn of events. 
->	
->	I always liked to think the real reason they pulled the vizzes was that they were really poorly designed and an embarrassment to all data geeks out there. 
-
-steve white says…
->	Tableau made their policy clear when the took down the visualation of a collection of words, now there going to try and shift the blame, they'd do it again i heartbeat, that is America means in 2010.
-
-B Trafficlight says…
->	"The answer is quite simple: that data would not be taken down under the new policy." - sounds like wishful thinking.
->	
->	If it was true, what stopped Tableau from re-listing the data when the new policy was put in place?
-
-</aside>
-

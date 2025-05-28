@@ -1,12 +1,3 @@
----
-title: "Four Values Can Still Be Worth A Chart"
-description: "A while ago, Kaiser Fung criticized a chart for its uselessness because it only showed four numbers. The chart appeared on the smart web comic Abstruse Goose (which, as of this writing, is down for a site reorganization)."
-date: 2012-12-30 22:18:15
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/12/perception-teaser.png
-outline: false
----
-
 # Four Values Can Still Be Worth A Chart
 
 A while ago, <a href="http://junkcharts.typepad.com/junk_charts/2012/12/four-numbers-say-little-even-on-a-busy-chart.html">Kaiser Fung criticized a chart</a> for its uselessness because it only showed four numbers. The chart appeared on the smart web comic <a href="http://abstrusegoose.com/">Abstruse Goose</a> (which, as of this writing, is down for a site reorganization).
@@ -30,21 +21,3 @@ But that misses the point. Of course there are many signals around us that we do
 The point, though, is to demonstrate how little of the world we see, whether there is something to be seen there or not. Without lots of machinery, we would not know. And because this is such a, well, blind spot, that we need to be reminded of it. That’s what this chart does. It makes us stop for a moment and consider. In that sense, it works like <a title="A Tale of Two Types of Visualization and Much Confusion" href="/criticism/tale-of-two-types">artistic visualization</a>.
 
 It’s a clever little image, and quite effective. Despite its simplicity, some good thinking went into its design. And even though its message can be summed up in a sentence or two, as Kaiser Fung points out, I think the image still makes for a much more impressive expression of that information than a few words would do.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.birdie-song.com" rel="nofollow noopener" target="_blank">Alan Russell</a> says…
->	There's another clever musical/visual reference in there too - the "all you hear and all you see..." caption I think is a reference to "And all you touch and all you see is all your life will ever be" from Pink Floyd's 'Breathe', which was on Dark Side Of The Moon (the album with the black cover showing light refracting through a prism) - which is what this chart reminded meof before I'd even read the caption.
-
-Adin Vashi says…
->	There's just so much references within references.  I thought of the cover art of Dark Side Of The Moon as well, but I didn't catch that lyric.  Well done.
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "VisWeek 2008 Live-Microblog Archive"
-description: "During VisWeek 2008, I wrote short updates on my website, which I called glimpses (a little pun on tweet). This is an archive of all of those, in reverse chronological order. In my transition to WordPress, I had to get rid of the comments, unfortunately. There were only a small number of those attached to these postings, though."
-date: 2008-10-28 14:34:24
-tags: conference, events
-featuredImage: 
----
-
 # VisWeek 2008 Live-Microblog Archive
 
 During VisWeek 2008, I wrote short updates on my website, which I called <em>glimpses</em> (a little pun on tweet). This is an archive of all of those, in reverse chronological order. In my transition to WordPress, I had to get rid of the comments, unfortunately. There were only a small number of those attached to these postings, though.
@@ -161,8 +153,3 @@ Wow, the Papers Fast Forward starts with a bang! Extremely well done "movie open
 ## And so it begins ...
 
 The annual gathering of the InfoVis family has begun. Lots of familiar faces. One change from the previous years: there is no conference bag. I actually think that that's a good thing, because I tend to not use them (they're usually small and not the prettiest or sturdiest) and just throw them away after a year – when I get the next one.
-
-
-<PostedBy />
-
-

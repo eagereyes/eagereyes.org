@@ -1,11 +1,3 @@
----
-title: "NewsVis.org, The Directory of News Visualizations"
-description: "When I was in Portland over the holidays a few weeks ago, I noticed a visualization in the local newspaper, The Oregonian. I had never heard of that before, nor of Mark Friesen, who created it. Wondering how many visualizations I might be missing, I decided to build a website that would collect them all: newsvis.org."
-date: 2014-03-02 20:49:33
-tags: blog/2013
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-4.29.49-PM.png
----
-
 # NewsVis.org, The Directory of News Visualizations
 
 When I was in Portland over the holidays a few weeks ago, I noticed <a href="http://newsvis.org/graphic/2013-12-trimets-long-days">a visualization</a> in the local newspaper, <em>The Oregonian</em>. I had never heard of that before, nor of Mark Friesen, who created it. Wondering how many visualizations I might be missing, I decided to build a website that would collect them all: <a href="http://newsvis.org/">newsvis.org</a>.
@@ -76,46 +68,3 @@ While the visualizations are their own content type on the site, there is also a
 I built this site using WordPress, even though Drupal is probably a more logical choice for this sort of database-centric site. After discovering <a href="http://www.gravityforms.com">Gravity Forms</a> and seeing some documentation on Custom Post Types in WordPress, I decided to go with that, though. It wasn't exactly a walk in the park, the WordPress documentation can easily compete with Drupal in terms of disorganization and lack of reasonable navigation. There is also an incredible amount of noise when searching for answers, with lots of people simply repeating the same bits of information but never digging any deeper. But I think overall the model is still simpler, even if also much more limited than in Drupal.
 
 <span style="line-height: 1.5em;">Either way, I will keep improving and growing the site, and I hope that you </span>will<span style="line-height: 1.5em;"> find it useful and contribute!</span>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamarierhyne.com/Theresa-Marie_Rhynes_Viewpoint/Welcome.html" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Terrific!
-
-Gregor says…
->	Marije Rooze's wonderful collection of news graphics is around for a while, too: http://collection.marijerooze.nl/
-
-<a href="http://twitter.com/trinachi" rel="nofollow noopener" target="_blank">Trina Chiasson (@trinachi)</a> says…
->	This is fantastic! Thank you so much for making it happen.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Ah, yes! I had seen it before, but forgotten where it was. I may have built newsvis after hers unconsciously. Marije's site is limited to just The New York Times and The Guardian though, and also includes some less data-based graphics; her filters are much sleeker, though.
-
-Gregor says…
->	I think it would be perfect to merge the databases. Could get you in contact with Marije if you are interested at all.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Yes, can you email me? Merging the databases might be a challenge (different categories, etc.), but it's worth exploring.
-
-<a href="http://twitter.com/mfriesen" rel="nofollow noopener" target="_blank">Mark Friesen (@mfriesen)</a> says…
->	Outstanding. And thanks for the shoutout!
-
-<a href="http://twitter.com/seanboon" rel="nofollow noopener" target="_blank">Sean Boon (@seanboon)</a> says…
->	Great Idea Robert!  This is a great list.
-
-<a href="http://www.dutchnewsdesign.com" rel="nofollow noopener" target="_blank">Stijn (@twitjournalist)</a> says…
->	Absolutely love it! You are definitely not the only one finding beautiful visualisations in the local newspaper during holiday. Now we never have to miss a fantastic infographic ever again.
->	Also love that you subdivide the chart categories. This calls for a weekly curated top three, or so.
-
-<a href="http://www.datarecoverynederland.nl/data-recovery-utrecht.html" rel="nofollow noopener" target="_blank">Data Recovery Utrecht</a> says…
->	Love it! All those visualizations just speak to me and I can get why they need to be so different. Great :)
-
-</aside>
-

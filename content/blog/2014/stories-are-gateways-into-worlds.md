@@ -1,11 +1,3 @@
----
-title: "Stories Are Gateways Into Worlds"
-description: "Moritz Stefaner recently wrote a posting titled Worlds, not stories. He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one."
-date: 2014-03-23 19:58:31
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg" width="715" height="479" /></p>
 
 # Stories Are Gateways Into Worlds
@@ -51,31 +43,3 @@ There is no contradiction between stories and exploration. Not only can they coe
 <hr />
 
 Teaser image by <a href="http://www.flickr.com/photos/anthonyalbright/">Anthony Albright</a>, used under creative commons.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.rafelsberger.at" rel="nofollow noopener" target="_blank">walterrater</a> says…
->	Great thoughts and I'm with you here. There's definitely room for both. I think basically the "stories" meme is a buzzy way to decribe one aspect of the applications of data visualization. I see them as a) Knowledge Transfer focused visualization (static infographics, pre-rendered animation, videos — stories) and b) Data Exploration focused applications (interactive tools, software — worlds). And of course there's overlap between the both like the gapminder examples (which is good :)).
-
-<a href="http://twitter.com/Tellmaps" rel="nofollow noopener" target="_blank">Tellmaps (@Tellmaps)</a> says…
->	Robert, I agree as well, you need something like a story to kickstart attention.and exploration. With our new e-atlas concept www.tellmaps.com we try to offer a publishing template to do just that (not everyone has a charismatic presenter at hand..). Narrative content and visual data exploration in one interface. 
->	
->	Desmond Spruijt
->	(Mapping Worlds, Tellmaps)
-
-<a href="http://moebio.com" rel="nofollow noopener" target="_blank">Santiago</a> says…
->	Moritz has such a poor idea of what a story is: "consumers, who just passively listen to all the exiting stories", "pre-digested narrative with a surprise at the end", and this: “'tell a story' — whatever that means, anyways), carries the risk to throw us back into linear, author-driven, leanback media formats (think 'TV')". 
->	
->	I find Moritz' article brilliant and in a way necessary, it's just that I don't see any dichotomy on it, stories and worlds are two words for the same thing (as Robert also seems to suggest), both being as non-linear and complex as the author's skills and will can produce. I haven't seen any interactive explorative data visualization that is more complex, deep, brain demanding or non-linear as a good novel.
->	
->	The "narrative trick" of starting with two characters' conflict, didn't worked for me, and still, I loved the story!
-
-</aside>
-

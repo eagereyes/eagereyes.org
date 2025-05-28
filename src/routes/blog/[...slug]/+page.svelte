@@ -29,10 +29,10 @@
 <article>
     <p>{data?.error}</p>
     <p>{data.prevPost?.title} – {data.nextPost?.title}</p>
-    {@html parse(data?.content.split('---\n')[2])}
+    {@html parse(data?.content)}
 
     Posted by <a href="/about">Robert Kosara</a> on {formatDate(data.meta?.date)}.
-    {#if data.meta?.tags}
+    {#if data.meta?.tags && data.meta.tags.length > 0}
         Filed under {@html data.meta.tags.map(tag => `<a href="/tag/${tag}">${tagNames[tag]}</a>`).join(', ')}.
     {/if}
 </article>

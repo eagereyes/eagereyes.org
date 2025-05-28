@@ -1,12 +1,3 @@
----
-title: "List of Influences: Pat Hanrahan"
-description: "Since Pat Hanrahan was part of the reason for starting this project, it was only fair to ask him first. I also didn't get all the titles written down that he mentioned, so there is also a practical reason ..."
-date: 2007-01-03 10:19:36
-tags: influences
-featuredImage: 
-outline: false
----
-
 # List of Influences: Pat Hanrahan
 
 Since Pat Hanrahan was part of the reason for starting <a href="/tag/influences">this project</a>, it was only fair to ask him first. I also didn't get all the titles written down that he mentioned, so there is also a practical reason ...
@@ -31,8 +22,3 @@ Here is Pat's list, including his comments. I only added a few authors' first na
 	<li><a href="http://www.amazon.com/Things-That-Make-Smart-Attributes/dp/0201626950/"><em>Things that Make Us Smart</em></a>, Donald Norman (most of it has to do with visualization!)</li>
 	<li><a href="http://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191/"><em>Inner Vision</em></a>, Semir Zeki (artists as neuroscientists?)</li>
 </ul>
-
-
-<PostedBy />
-
-

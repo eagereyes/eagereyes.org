@@ -1,11 +1,3 @@
----
-title: "Playable Data"
-description: "How do you engage people with data? How do you make them care and pay attention and remember anything about a particular piece of data? One way is dressing the data up as an information graphic. Another might be to get people to play a little game with the data. Nick Diakopoulos and colleagues have built a fascinating research prototype of what this might look like."
-date: 2012-04-29 20:30:10
-tags:
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/salubrious.png
----
-
 # Playable Data
 
 How do you engage people with data? How do you make them care and pay attention and remember anything about a particular piece of data? One way is dressing the data up as an information graphic. Another might be to get people to play a little game with the data. Nick Diakopoulos and colleagues have built a fascinating research prototype of what this might look like.
@@ -37,18 +29,3 @@ Both of these are relatively minor points though, and don't take away from a ver
 ## Conclusions
 
 Finding ways to communicate data is a very interesting problem, and one that <a title="What Does It Mean to Inform?" href="/journalism/what-does-it-mean-to-inform">visualization can definitely help with</a>. Besides making <a title="Want to Make A Chart Memorable? Add Junk" href="/blog/2011/want-to-make-chart-memorable-add-junk">interesting information graphics</a>, turning the presentation into a game is a good idea to get people more engaged. Of course, the goals of the visualization have to be carefully weighed against the effort and distraction of the game. There is probably also a negative effect here, because some people just won't want to play a game and rather see a more serious presentation. But with more research into which approaches may or may not work, and the more widespread acceptance of gamification from social apps, this seems like a good approach.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.juiceanalytics.com" rel="nofollow noopener" target="_blank">James Lytle</a> says…
->	My interaction/aesthetic criticisms aside on this app (and there are many), I appreciate you touching on this study. I agree there is much potential in gamification and much ground yet to be covered. Particularly interesting is how this gaming lends itself well to bite-size stages of progress - an adventure game teaches you how to interact with the world and explore the landscape before it assumes you can make predictions, take risks, and save a damsel in distress. This controlled information output perhaps could be seen in data visualization that rewards a user with more complexity as they've demonstrated understanding simplicity. Would be curious to see if anyone is trying this.
-
-</aside>
-

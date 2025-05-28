@@ -1,11 +1,3 @@
----
-title: "The State of Information Visualization, 2016"
-description: "Oh hello, new year! I almost didn't see you there! Lots of interesting things happened last year: Dear Data, deceptive visualization, storytelling research, new tools and ideas, etc. And this year is already shaping up to be quite strong, too."
-date: 2016-02-08 14:05:20
-tags: state-of-infovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/02/dear-data.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/02/dear-data.jpg" width="825" height="510" /></p>
 
 # The State of Information Visualization, 2016
@@ -49,20 +41,3 @@ I was one of the authors of <a href="/papers/isotype-visualization">the paper on
 On the academic side, I expect to see a lot more work storytelling at the conferences, hopefully enough to finally get entire sessions. There is a lot of energy here at Dagstuhl right now, and many topics and issues to tackle. My hope is also that we can involve practitioners in this work more than we usually do.
 
 A big driver of data visualization in the news will be the elections in the U.S. in November. There will be polls, predictions, lots of data-centric news stories, and just generally a fever pitch of data presentation. Exciting times!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://workingvis.wordpress.com" rel="nofollow noopener" target="_blank">workingvis</a> says…
->	Thanks for the mention of Brunel; like you, we also lament the loss of Many Eyes, but we did want to clarify a couple of points. Most importantly is that despite having some people in common, Brunel is completely separate from RAVE — it’s a 100% Open Source tool for making D3 easier to use by people who love data, but don’t want to spend time tweaking D3 code. Basically it’s a language that generates D3 code, which you can then use any way you want (including ignoring Brunel and just using the generated JavaScript). So it’s not a D3 alternative — it’s a D3 enhancer! It may end up in IBM products, but right now it’s being used by online bloggers and most heavily in notebooks like Jupyter (iPython).  http://brunelvis.org/index.php/brunel/ is the “About Brunel” page that fills in the details.
->	
->	Completely agree with the emphasis on Storytelling — it has been in the top 3 most talked about topics for the last 3 years and needs more core vis research focus. Exciting times indeed!
-
-</aside>
-

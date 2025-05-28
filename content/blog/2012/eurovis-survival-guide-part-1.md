@@ -1,11 +1,3 @@
----
-title: "A EuroVis Survival Guide, Part 1"
-description: "EuroVis 2012 is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc."
-date: 2012-04-25 21:30:26
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-2012.png
----
-
 # A EuroVis Survival Guide, Part 1
 
 <a href="http://eurovis.org/">EuroVis 2012</a> is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc.
@@ -37,33 +29,3 @@ If you are a citizen of an E.U. country, the U.S., or Canada, you do not need a 
 <hr />
 
 Feel free to ask questions in the comments you want me to address in the second part.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.simvis.at/" rel="nofollow noopener" target="_blank">Helmut</a> says…
->	Hi Robert, 
->	
->	I just read your Survival Guide ;-) 
->	
->	You are perfectly right and give very good advice with two exceptions:
->	"Early June should not be very hot in Vienna" - we have now end of April, and today we have set a new record temperature for April, all time high of more than 31°C with rising temps expected, so don't be too sure about your assumption ;-)
->	
->	"The closest hotels are in the Second District, Leopoldstadt" - there are three very close hotels right next to Techgate, although they are probably expensive I assume, one is the "Arcotel Kaiserwasser" (~100ms) as mentioned on the EuroVis Page, the second one is the "Park Inn by Radisson Uno City" also very close (~200ms) and the third one is the "NH Danube City" also approx. 200ms away (also mentioned on the Conference Webpage). 
->	
->	at least by this afternoon booking.com has much better prices for these hotels than the conference rate (~115 Euro per night) for example. 
->	
->	I hope I could add valuable information, looking forward to seeing you all in Vienna, 
->	Helmut
-
-Dan says…
->	Damn, I thought you were talking about Eurovision 2012, which is also a few weeks away. I was excited for a moment, now feeling a bit deflated. Do some charts on that and that.
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "iTunes (Music) Store Billion Downloads Visualization"
-description: "On February 23rd, 2006, Apple's iTunes Music Store (iTMS, now called the iTunes Store) sold its one billionth song. In the days leading up that event, Apple had a countdown on its webpages, which provided interesting information about the download habits of its customers. This page provides a visualization of the collected data, as well as of data that others collected leading up to the 100 millionth and 500 millionth downloads."
-date: 2006-10-02 11:39:31
-tags: applications
-featuredImage: 
----
-
 # iTunes (Music) Store Billion Downloads Visualization
 
 On February 23rd, 2006, Apple's <a href="http://www.apple.com/itunes/">iTunes Music Store</a> (iTMS, now called the iTunes Store) sold its one billionth song. In the days leading up that event, Apple had a countdown on its webpages, which provided interesting information about the download habits of its customers. This page provides a visualization of the collected data, as well as of data that others collected leading up to the 100 millionth and 500 millionth downloads.
@@ -68,30 +60,3 @@ The following list is mostly taken from Apple's 500 million downloads page (whic
 	<li><a href="http://www.anders.com/cms/149/iTunes/1.billionth.song/Apple">Timing Apple's 1 Billionth iTunes Sale</a>. Blog entry with link to harvested sales data.</li>
 	<li><a href="http://www.apple.com/itunes/">Apple's iTunes Store</a>. The source of everything.</li>
 </ul>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-LizZ says…
->	Can anyone tell me where I might find Ireland-specific sales figures for iPods, iTunes, or both? The longer the time frame covered, the better, of course.  Thank you for making this site! 
-
-Robert Kosara says…
->	<p>Apple is very secretive about sales, and only announces overall iPod sales worldwide - not even broken down by type. You might have better luck looking for industry surveys of mp3 players in general (though those might not include iPods ...).</p>
-
-Angelo Vargas says…
->	<ul>
->	<li>January 15, 208. Steve Jobs reports 4 billion songs sold "as of last week."</li>
->	</ul>
->	<p>supposed to be 2008 -- right ? unless time capsule actually works ...</p>
-
-Robert Kosara says…
->	<p>Jobs has been around - but not that long. Thanks for pointing that out.</p>
-
-</aside>
-

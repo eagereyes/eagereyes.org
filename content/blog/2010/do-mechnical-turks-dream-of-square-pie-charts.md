@@ -1,12 +1,3 @@
----
-title: "Do Mechanical Turks Dream of Square Pie Charts?"
-description: "User studies are an important part of visualization, but they also require a considerable amount of effort and time. In a paper presented at the BELIV workshop (part of CHI 2010), we discussed our experiences with running a number of visualization studies using Amazon's Mechanical Turk (MTurk) service. Using MTurk, we are able to run large studies in much less time than usual, and at very low cost. We also show how to avoid gaming the system, which had been reported in earlier work using MTurk."
-date: 2010-04-18 19:33:26
-tags: papers
-featuredImage: https://media.eagereyes.org/media/2010/mturk-paper.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/mturk-paper.jpg" width="560" height="362" alt="MTurk Paper" /></p>
 
 # Do Mechanical Turks Dream of Square Pie Charts?
@@ -32,8 +23,3 @@ We hope that this paper (as well as Heer and Bostock's) helps pave the way for m
 <hr>
 
 Robert Kosara, Caroline Ziemkiewicz, <a href="/publications/Kosara-BELIV-2010">Do Mechanical Turks Dream of Square Pie Charts?</a> <em>Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)</em>, ACM Press, 2010.
-
-
-<PostedBy />
-
-

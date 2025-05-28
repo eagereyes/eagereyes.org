@@ -1,0 +1,2 @@
+Rick Gill says…
+>	A quick read of your paper gives me the impression that your argument structure appears to closely resemble that offered by Dr. Tim van Gelder in Australia. He uses his CASE model (Contention, Argument(s), Source(s) and Evidence) as the basis for his method of argument mapping, and together with his business partners, Dr. Paul Monk and Dr. Richard de Rosario, offers online courses on argument mapping using the CASE model.  See TimvanGelder.com and learn.vangeldermonk.com

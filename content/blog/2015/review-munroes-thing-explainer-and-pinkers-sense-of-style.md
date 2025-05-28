@@ -1,11 +1,3 @@
----
-title: "Review: Munroe's Thing Explainer and Pinker's Sense of Style"
-description: "Bad writing and the inability to explain in terms normal people can understand are the hallmarks of academic writing. Here are two books every academic should read and take to heart to be able to recognize bad prose and learn how to fix it."
-date: 2015-12-01 23:21:57
-tags: book-reviews
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png" alt="" width="690" height="485" /></p>
 
 # Review: Munroe's Thing Explainer and Pinker's Sense of Style
@@ -39,23 +31,3 @@ Pinker is very respectful, but he’s also clear in his criticism. While he keep
 The two books are very different, which makes them such a beautifully complementary pair. One explains grammar and good writing in great detail, the other puts it into practice in a fun and engaging way. Both are very insightful and can teach you a lot about what it means to communicate well.
 
 Both also make great gifts. No academic can be offended to be given a book written by Steven Pinker, and no nerd(y academic) can object to a book from Mr. xkcd.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://twitter.com/Borgendorf" rel="nofollow noopener" target="_blank">Ian Roberts (@Borgendorf)</a> says…
->	Thank you for this. I've been interested in Thing Explainer and I hadn't heard about the other one. I'm writing more user help guides now and these both look useful.
-
-Harold says…
->	Thanks for the reviews.
->	
->	Did you mean he talks about Strunk and White in a reverential, rather than referential, tone?
-
-</aside>
-

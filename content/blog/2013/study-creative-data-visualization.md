@@ -1,12 +1,3 @@
----
-title: "Study on Creative Data Visualization"
-description: "To explore how we can make it easier to create new visualization designs, we are running a study based on a new approach, called visualization primitives. It lets you map data to the properties of objects like rectangles and ellipses. Build something with data, have fun, and help us figure out if it works!"
-date: 2013-03-22 03:05:01
-tags: study
-featuredImage: 
-outline: false
----
-
 # Study on Creative Data Visualization
 
 To explore how we can make it easier to create new visualization designs, we are <a href="http://visualizationprimitives.net">running a study</a> based on a new approach, called <em>visualization primitives</em>. It lets you map data to the properties of objects like rectangles and ellipses. Build something with data, have fun, and help us figure out if it works!
@@ -16,8 +7,3 @@ This being a study, it asks you a few questions before you start, but that takes
 Don't forget to hit <em>Done</em> when you don't want to play any more. You then get asked a few more questions that also won't take much time, but that are crucial for the study. Once you're done with those, you can continue building or just close the window.
 
 Here's the link to the study: <a href="http://visualizationprimitives.net">Visualization Creativity Study</a>
-
-
-<PostedBy />
-
-

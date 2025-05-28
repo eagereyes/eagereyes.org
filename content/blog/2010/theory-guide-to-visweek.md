@@ -1,11 +1,3 @@
----
-title: "The Theory Guide to VisWeek 2010"
-description: "Theory is a big topic at VisWeek this year. You can get through almost the entire conference purely on theory papers. Whether that's a good idea is another question of course, but here's a guide how to do it."
-date: 2010-10-23 22:12:56
-tags: VisWeek
-featuredImage: https://media.eagereyes.org/media/2010/visweekwordle.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/visweekwordle.png" alt="VisWeek Wordle" width="560" height="234" /></p>
 
 # The Theory Guide to VisWeek 2010
@@ -61,8 +53,3 @@ And that's it: An entire week of (almost) non-stop theory papers at VisWeek!
 <hr />
 
 Since I'm running out of clever pictures about theory, the above is a <a href="http://www.wordle.net/" target="_blank">Wordle</a> of all the Vis, InfoVis, and VAST paper and poster titles and authors for 2010. Draw your own conclusions from it.
-
-
-<PostedBy />
-
-

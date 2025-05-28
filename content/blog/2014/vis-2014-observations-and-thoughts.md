@@ -1,11 +1,3 @@
----
-title: "VIS 2014 Observations and Thoughts"
-description: "While I’ve covered individual talks and events at IEEE VIS 2014, there are also some overall observations – positive and negative – I thought would be interesting to write down to see what others were thinking."
-date: 2014-11-17 19:19:38
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/11/Eiffel-Tower-Rotated.jpg
----
-
 # VIS 2014 Observations and Thoughts
 
 While I’ve covered individual talks and events at <a href="http://ieeevis.org">IEEE VIS 2014</a>, there are also some overall observations – positive and negative – I thought would be interesting to write down to see what others were thinking.
@@ -41,24 +33,3 @@ The number of systems that are implemented in JavaScript and run in the browser 
 VIS remains a very friendly and healthy community. There are no warring schools of thought, and nobody tries to tear down somebody else’s work in the questions after a talk. The social aspect is also getting ever stronger with the increasing number of parties. That might sound trivial, but the main point of a conference are communication and the connections that are made, not the paper presentations.
 
 There is also a vibrant community on Twitter, at least for InfoVis and VAST talks. I wonder what it will take to get some SciVis people onto Twitter, though, or help them figure out how to use WordPress.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://twitter.com/dr_tj" rel="nofollow noopener" target="_blank">T.J. Jankun-Kelly (@dr_tj)</a> says…
->	I mostly agree, but a few points:
->	- I like the TVCG in VIS, but I agree this can be hit or miss. It raises the visibility of these papers a lot, and a good number of these are "didn't make it last year due to sampling error." That said, there are still lemons and the process needs to smoothed out
->	- @medvisorg was tweeting SciVis sporadically. That's about it.
->	- The whole archiving of presentations is a mess right now w/ VGTC; hopefully that'll clear up for good archiving.
->	- Very crowded w/ only half-day workshops/tutorials. Some full days would be preferred.
->	
->	Overall, though, it was a great time.
-
-</aside>
-

@@ -1,12 +1,3 @@
----
-title: "EuroVis 2012, Day 2"
-description: "Day 2 of EuroVis was a long series of paper presentations, occasionally interrupted with copious amounts of food. Here are some of the highlights."
-date: 2012-06-06 23:25:44
-tags: conference, eurovis
-featuredImage: 
-outline: false
----
-
 # EuroVis 2012, Day 2
 
 Day 2 of EuroVis was a long series of paper presentations, occasionally interrupted with copious amounts of food. Here are some of the highlights.
@@ -26,31 +17,3 @@ Aigner and colleagues have also put together <a href="http://survey.timeviz.net/
 Aritra Dasgupta also presented our paper <em><a href="/papers/conceptualizing-visual-uncertainty-in-parallel-coordinates">Conceptualizing Visual Uncertainty in Parallel Coordinates</a></em>, which unfortunately was part of a session on uncertainty where the other papers were all from SciVis and dealt with data uncertainty rather than visual uncertainty. That’s understandable, of course, given the small amount of work on visual uncertainty so far, and perhaps it helped get some people interested in the topic.
 
 While there was no huge highlight, there were a lot of solid papers and some good discussions during the Q&amp;A.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://tillnagel.com" rel="nofollow noopener" target="_blank">Till Nagel</a> says…
->	Thanks for your crit on Sankey Arcs, Robert.
->	
->	I agree to your comment regarding Wattenberg. I hope I used the word "introduced" and not "invented" in my talk. At least in our paper we refer to his paper as him having "introduced arc diagrams as a visualization technique [...]".
-
-<a href="http://www.aviz.fr/~isenberg" rel="nofollow noopener" target="_blank">Petra Isenberg</a> says…
->	Here is a link to a 16th century arc diagram I found a long time ago for my Diplom-thesis research on ArcTrees:
->	http://www.chmtl.indiana.edu/tml/16th/SALMUS3_08GF.gif
->	
->	My thesis has a proper reference...
-
-Chris Culy says…
->	Linguists have also been using a type of arc diagram since the 1980s for a type of syntactic structure (dependency structure).
->	
->	Our project for linguistic dependency structures, available <a href="http://www.eurac.edu/en/research/institutes/multilingualism/Projects/LInfoVis/ExtendedLinguisticDependencyDiagrams.html" rel="nofollow">here</a>, might be relevant, since it also uses non-circular, elliptical arcs (discussed in the paper).
-
-</aside>
-

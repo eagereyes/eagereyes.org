@@ -1,0 +1,9 @@
+<a href="http://webtorque.org" rel="nofollow noopener" target="_blank">Jonathan</a> says…
+>	For the DIY-minded, I've had a look at some self-hosted alternatives and have started using Selfoss (http://selfoss.aditu.de/). It's bit buggy here and there (tags not working right now for instance), but it's in active development. Has a mobile client and an API as well. I just have it running on my home PC on my DSL line and it works pretty good.
+
+Chris says…
+>	I looked around a bit after Google's announcement, and have been using Brief, a Foxfire plug-in. I like it, but so far no Android app
+
+<a href="http://gravatar.com/machineryhealth" rel="nofollow noopener" target="_blank">machineryhealth</a> says…
+>	Robert - thanks for the timly post. big help.
+>	Chris - thanks for info about brief. I've installed it and like it.

@@ -1,12 +1,3 @@
----
-title: "Schloß Dagstuhl"
-description: "For many computer science researchers, the name Dagstuhl rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?"
-date: 2013-05-26 20:19:51
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-teaser.jpg
-outline: false
----
-
 # Schloß Dagstuhl
 
 For many computer science researchers, the name <em>Dagstuhl</em> rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?
@@ -42,8 +33,3 @@ While the castle is located in Germany, and so the location is always the same, 
 If you ever get a chance to go, you should definitely do it. Fly into Frankfurt, take the train to Türkismühle (about 2.5 hours) and then get taken to the Schloß by the local taxi company, Taxi Martin (another 30 minutes or so). Depending on where you're coming from, it can be a long journey. But it's worth it.
 
 <p align="center"><img class="aligncenter size-full wp-image-2372" alt="Türkismühle" src="https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-tuerkismuehle.jpg" width="600" height="402" /></p>
-
-
-<PostedBy />
-
-

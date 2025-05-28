@@ -1,12 +1,3 @@
----
-title: "VIS Proceedings now in the January Issue of TVCG"
-description: "There has been a change in the way papers presented at IEEE VIS are published in the TVCG journal. It used to be the last issue of the year, but starting in 2015, it's now the January issue of the next year. So all VIS 2015 papers have a publication date of 2016."
-date: 2015-11-04 21:22:42
-tags: IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png" alt="" width="825" height="510" /></p>
 
 # VIS Proceedings now in the January Issue of TVCG
@@ -34,27 +25,3 @@ Update: I hadn't connected the dots before, but there was another announcement t
 Also, I did not mean to imply that there was a conspiracy at play here. But I found it confusing that nobody bothered mentioning such a significant change.
 
 https://twitter.com/tamaramunzner/status/662161031758647296
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Bilal says…
->	They did actually announce that early this year in the calls sent by email or on the website: http://ieeevis.org/year/2015/info/call-participation/infovis-papers
->	
->	Thanks for the post, I now understand the reason behind it. I do not find it really problematic for reporting publications (submitted in March), there are journals which take 2-3 years to publish a manuscript.
-
-<a href="http://www.aviz.fr/~fekete" rel="nofollow noopener" target="_blank">Jean-Daniel Fekete</a> says…
->	The impact factor (IF) race has huge impacts on the VIS conference(s). Too numberous to describe here in details, but see how VIS conference papers in the past became TVCG journal articles, journal articles can now present at VIS (to increase their visibility).
->	According to Google, TVCG ranks #2 in the "Computer Graphics" category:
->	https://scholar.google.com/citations?view_op=top_venues&amp;hl=en&amp;vq=eng_computergraphics
->	after TOG (IF=4.096), and before CGF.
->	It seems like a healthy idea to try to increase the IF of TVCG in general. And not only with the one-month-later trick, but why not.
-
-</aside>
-

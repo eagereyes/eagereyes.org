@@ -1,11 +1,3 @@
----
-title: "Felix Auerbach, Die Graphische Darstellung (Graphical Representation, 1914)"
-description: "This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data “from all areas of science and practice.” It’s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools."
-date: 2021-02-07 22:13:56
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0012.jpg
----
-
 # Felix Auerbach, Die Graphische Darstellung (Graphical Representation, 1914)
 
 This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data “from all areas of science and practice.” It’s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools.
@@ -80,21 +72,3 @@ The final example I’m going to show here is a more diagrammatic one, what we�
 In the conclusion, Auerbach argues that graphical methods are important because they cater to the universal human urge to see things – the German <em>Anschauungsbedürfnis</em> he uses is hard to fully capture in English. They also help to popularize science, which he clearly thinks is important, but even help science itself by making phenomena visible and thus easier to derive laws from them.
 
 This may not be the best-known book about graphical representation, or even a particularly important one. But it’s interesting to see how well understood graphical methods were 100 years ago. Auerbach’s book also nicely complements Brinton’s by filling in the natural sciences side of things, while Brinton focuses more on statistics and business uses.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Helwig Hauser says…
->	Really nice post, Robert -- many thanks for sharing this story from earlier times -- clearly interesting to see some of the older roots of our current visualization "business"! :-)
-
-<a href="http://richardbrath.wordpress.com" rel="nofollow noopener" target="_blank">richardbrath</a> says…
->	Nice find. I am unfamiliar with Felix Auerbach. 1. I've had some real-world business applications needing several orders of magnitude, the extreme log and the wrapped bars both have potential application. 2. Regarding the tight cropping right-aligned text is less common than left-aligned text - I wonder if the layout was flipped and the text left-aligned it would be received better.
-
-</aside>
-

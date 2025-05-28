@@ -1,11 +1,3 @@
----
-title: "The Joy of Representation"
-description: "When peanuts are bombs, clown-shaped cake ornaments are muzzle fires, and young guys are skateboards, we are talking about representation. We take it for granted that words can refer to things or abstract concepts, and colored spots on a piece of paper can depict data. Representation is really quite remarkable, and a better understanding of it will make a big difference in how we build visualizations."
-date: 2007-05-25 05:03:35
-tags: criticism
-featuredImage: 
----
-
 # The Joy of Representation
 
 <p align="center"><img title="Kaboom! by PES" src="https://media.eagereyes.org/media/attachments/kaboom.jpg" alt="Kaboom! by PES" width="600" height="221" /></p>
@@ -76,18 +68,3 @@ These examples are interesting because they cover the gamut from close to realis
 ## Conclusions
 
 Representation is a complex topic with many facets. Theories of representation abound, and not all of them are useful for visualization. But visualization can bring a new, interesting perspective into this field: how do we represent abstract information in a way that is useful, readable, and that allows us to understand the underlying data? How can a model of representation help us connect the different points of view in art and visualization? And how can the choice of representation become a topic in visualization in itself, so that we can understand how we can make the best use of it?
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Darren Brown says…
->	Does anyone know what the Third Picture represents? (The one with the stick figures and all the small to medium to large circles. Thanks.
-
-</aside>
-

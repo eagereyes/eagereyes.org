@@ -9,7 +9,7 @@ posts = []
 
 # Loop through years 2006 to 2025
 for year in range(2006, 2026):
-    year_dir = f"blog/{year}"
+    year_dir = f"blog-src/{year}"
     
     # Check if the year directory exists
     if os.path.exists(year_dir):
@@ -38,10 +38,14 @@ for post in posts:
     
     if len(parts) >= 3:
         post['frontmatter'] = parts[1].strip()
-        post['content'] = parts[2].strip()
+        post['content'] = parts[2].replace('<PostedBy />', '').replace('<aside class="comments">', '').strip()
     else:
         post['frontmatter'] = ''
         post['content'] = content.strip()
+
+    # handle comments
+    if len(parts) > 3:
+        post['comments'] = parts[3].replace('## Comments', '').replace('</aside>', '').strip()
 
 # Parse frontmatter as YAML and add to meta field
 for post in posts:
@@ -61,11 +65,17 @@ posts.sort(key=lambda post: post['meta'].get('date', ''), reverse=True)
 # Extract meta fields from all posts and write to YAML file
 meta_data = []
 for post in posts:
+    numComments = 0;
+    if 'comments' in post:
+        # Count the number of comments
+        numComments = post['comments'].count('\n\n') + 1
+
     meta_entry = {
         'slug': post['slug'],
         'archived': post['meta'].get('archived', False),
-        # 'path': f"/blog/{post['year']}/{post['slug']}",
+        'comments': numComments
     }
+
     for key, value in post['meta'].items():
         meta_entry[key] = value
 
@@ -85,5 +95,17 @@ for post in posts:
 # Write meta fields to JSON file
 with open('blog-meta.json', 'w', encoding='utf-8') as f:
     json.dump(meta_data, f, indent=2, ensure_ascii=False)
+
+# Write post content to Markdown files
+for post in posts:
+    filename = f"blog/{post['year']}/{post['slug']}.md"
+    
+    with open(filename, 'w', encoding='utf-8') as f:
+        f.write(f"{post['content']}\n")
+
+    if 'comments' in post:
+        comments_filename = f"blog/{post['year']}/{post['slug']}+++comments.md"
+        with open(comments_filename, 'w', encoding='utf-8') as cf:
+            cf.write(f"{post['comments']}\n")
 
 print(f"Converted {len(posts)} posts")

@@ -1,12 +1,3 @@
----
-title: "Watch My Outlier Talk: This Should Have Been A Bar Chart!"
-description: "I gave a talk at the Outlier conference earlier this year, with the somewhat elaborate title, The Joys – and Dangers – of Bespoke and Unusual Chart Types. Though I eventually decided to go with the much shorter, This Should Have Been A Bar Chart! You can watch it on YouTube now."
-date: 2022-04-26 06:38:30
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png" width="897" height="673" /></p>
 
 # Watch My Outlier Talk: This Should Have Been A Bar Chart!
@@ -24,8 +15,3 @@ I end the talk with a bit of a taxonomy of more elaborate charts along two axes,
 You can watch the talk below or <a href="https://www.youtube.com/watch?v=GeRgED7LWr8">over on YouTube</a>. Like in my other videos, this one also has numbered references throughout, which are collected on <a href="/outlier22" data-type="page" data-id="98215">this references page</a>.
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/GeRgED7LWr8?si=7P3aH_AklDpb2FAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-
-<PostedBy />
-
-

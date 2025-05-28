@@ -1,12 +1,3 @@
----
-title: "A Smart Take on Election Maps"
-description: "When maps are used to display data, there is often a discrepancy between the data being shown, which almost never relates to area, and the area of the different parts of the map. This is particularly common in election maps. This new map of votes in the 2016 U.S. Presidential election cleverly combines geography and data in a clear and compelling way."
-date: 2018-01-09 20:40:49
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/01/2016_election_map_2x.png
-outline: false
----
-
 # A Smart Take on Election Maps
 
 When maps are used to display data, there is often a discrepancy between the data being shown, which almost never relates to area, and the area of the different parts of the map. This is <a href="/blog/2016/all-those-misleading-election-maps">particularly common in election maps</a>. This new <a href="https://xkcd.com/1939/">map of votes in the 2016 U.S. Presidential election</a> cleverly combines geography and data in a clear and compelling way.
@@ -29,8 +20,3 @@ Using fewer but larger symbols, it's possible to make them recognizable. There's
 <p align="center"><img class="aligncenter size-full wp-image-10393" src="https://media.eagereyes.org/wp-content/uploads/2018/01/2016_election_map_2x.png" alt="" width="1480" height="1124" /></p>
 
 It's a great map, and perhaps the most effective one I've seen showing this data so far, given the United States' vast area and enormous differences in population density.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "Seminal InfoVis Paper: Treisman, Preattentive Processing"
-description: "A paper on a specific cognitive mechanism may seems like an odd choice as the first paper in this series, but it is the one that sparked the idea for it. It is also the one that has its 30th birthday this year, having been published in August 1985. And it is an important paper, and could play an even bigger role in visualization if properly understood and used."
-date: 2015-01-25 20:26:11
-tags: isotype
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif" width="825" height="510" /></p>
 
 # Seminal InfoVis Paper: Treisman, Preattentive Processing
@@ -49,8 +41,3 @@ But more than that, it's about restraint. Most visualization systems have way to
 I don't believe that we have seen the real power of preattentive processing in visualization yet. What about using it to help people look for clusters in scatterplots? How about dense representations like heat maps? Perhaps there are even specific new techniques that could capitalize on these properties in ways existing ones can't.
 
 Thirty years after the discovery of the effect, there is still tremendous opportunity to unpack it, understand it, and make use of it in visualization.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "Linkstravaganza: Schwabish's Story Links and Andrews' Seeking Minard"
-description: "I don't normally do link dumps, but since I'm behind on blogging and have been meaning to link to these things for a while… here are some articles for you to check out. The first set is on what storytelling means with data, the second about an interesting discovery around Charles Minard."
-date: 2017-05-17 06:17:24
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/DataViz-History_RJ-Andrews_2592.jpg
----
-
 # Linkstravaganza: Schwabish's Story Links and Andrews' Seeking Minard
 
 I don't normally do link dumps, but since I'm behind on blogging and have been meaning to link to these things for a while… here are some articles for you to check out. The first set is on what storytelling means with data, the second about an interesting discovery around Charles Minard.
@@ -37,8 +29,3 @@ RJ Andrews has written two great blog posts around an interesting discovery he m
 </ul>
 
 RJ has <a href="http://infowetrust.com/history/">a whole series of posts about the pre-history of visualization</a>, including a very nice poster with a timeline of some of the very early work.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "Meet the New Logo and Theme!"
-description: "This site has gone through many different looks and designs. I haven't kept count, but I'd be surprised if it was fewer than ten. So far, they have all either been off-the-shelf generic designs or ones I had created myself. For its tenth birthday, I decided to splurge and get eagereyes a complete makeover: a new theme and a real, custom logo."
-date: 2016-09-28 04:17:25
-tags: meta, A Decade of EagerEyes
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/new-theme-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/new-theme-teaser.jpg" width="720" height="500" /></p>
 
 # Meet the New Logo and Theme!
@@ -53,18 +45,3 @@ I'm slowly replacing a number of postings that get a lot of traffic with more st
 So now there is an <a href="/pie-charts">updated pie charts page</a> that I will start pointing people to and that I hope will become the destination when people search. I don't want to remove the old posting, because it's interesting to me to see how things evolve. It's also important to keep things fresh and up to date, though, and not give people outdated information.
 
 In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://livingdata.us" rel="nofollow noopener" target="_blank">Leigh Fonseca</a> says…
->	Love your new logo and theme! Nicely executed.
-
-</aside>
-

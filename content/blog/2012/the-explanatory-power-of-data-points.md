@@ -1,11 +1,3 @@
----
-title: "The Explanatory Power of Data Points"
-description: "As newspaper graphics go, scatterplots are a fairly advanced technique. They tend to show a reasonably large amount of data as single points, and they require the reader to have an idea what to look for. Most newspapers never bother using scatterplots for that reason, which is really too bad. With some explanation, a scatterplot can be a very effective means of displaying data, and in particular to allow the user to drill into the data a little bit."
-date: 2012-04-22 20:55:20
-tags: blog/2013
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes.png
----
-
 # The Explanatory Power of Data Points
 
 As newspaper graphics go, scatterplots are a fairly advanced technique. They tend to show a reasonably large amount of data as single points, and they require the reader to have an idea what to look for. Most newspapers never bother using scatterplots for that reason, which is really too bad. With some explanation, a scatterplot can be a very effective means of displaying data, and in particular to allow the user to drill into the data a little bit.
@@ -37,20 +29,3 @@ What this shows is not only the difference between analysis and presentation, bu
 In analysis, it is typically desirable to have as much data as possible to work with; in presentation, less is often more. The selection of interesting groups of occupations, so the focus on a particular year when there is no clear temporal story makes sense. Perhaps the saying about design being complete when nothing can be removed is also true of focused storytelling.
 
 What is remarkable about this chart is how little needs to be added to turn a fairly difficult analytical chart into a tool for explaining facts based on data.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://jhullman.people.si.umich.edu" rel="nofollow noopener" target="_blank">Jessica H.</a> says…
->	Nice post, and important topic. I agree that scatterplots might be put to use more often, and that annotations can be crucial in easing understanding of data-heavy charts. 
->	
->	On the potential usefulness of visualization tools that allow easy annotation - it occurs to me that a general area that tool designers might explore more concerns techniques for visually representing the null hypothesis directly on a graph. Many visualizations, including storytelling visualizations, are analyzed with the user mentally comparing the visualized data with some implicit idea of what 'no effect' looks like. Yet, rarely do you see the null hypothesis actually represented on the graph. Another common type of visualization that comes to mind for this type of annotation are bar graphs, wherever the goal is to show a difference between groups. Error bars tend to be misinterpreted, but small marks next to each bar could show the point above/below which that bar's value represents a significant difference given another bar's value.
-
-</aside>
-

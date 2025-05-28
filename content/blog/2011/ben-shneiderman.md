@@ -1,11 +1,3 @@
----
-title: "List of Influences: Ben Shneiderman"
-description: "Ben Shneiderman’s name has been with me through my entire computing life. In high school, we used to draw Nassi-Shneiderman diagrams to understand structured programming. In the HCI course at my university, his name was on the papers and book chapters we read. When I got into information visualization, he was still everywhere, with treemaps, the visual information seeking mantra, and many other greatly influential pieces of work. What follows below is Ben’s list of influences, in his own words."
-date: 2011-12-18 20:44:01
-tags: influences
-featuredImage: 
----
-
 # List of Influences: Ben Shneiderman
 
 <a href="http://www.cs.umd.edu/~ben/">Ben Shneiderman</a>’s name has been with me through my entire computing life. In high school, we used to draw <a href="http://en.wikipedia.org/wiki/Nassi–Shneiderman_diagram">Nassi-Shneiderman diagrams</a> to understand structured programming. In the HCI course at my university, his name was on the papers and book chapters we read. When I got into information visualization, he was still everywhere, with <a href="http://www.cs.umd.edu/hcil/treemap-history/">treemaps</a>, the visual information seeking mantra, and many other greatly influential pieces of work. What follows below is Ben’s list of influences, in his own words.
@@ -54,8 +46,3 @@ I was also entranced by <a href="http://en.wikipedia.org/wiki/Arthur_C._Clarke">
 <hr />
 
 Ben Shneiderman, December 16, 2011
-
-
-<PostedBy />
-
-

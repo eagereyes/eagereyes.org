@@ -1,11 +1,3 @@
----
-title: "Autism Diagnosis Accuracy - Visualization Redesign"
-description: "Kaiser at Junk Charts has posted an interesting challenge based on the question how to visualize an Autism diagnosis dataset in a better way (originally posted by Igor Carron at Nuit Blanche). I'm offering my own redesign of the data below, and discuss my different approach and what it tells us about the visualization of sets in general."
-date: 2007-09-29 20:51:32
-tags: criticism
-featuredImage: https://media.eagereyes.org/media/attachments/Autism-redesign.png
----
-
 # Autism Diagnosis Accuracy - Visualization Redesign
 
 <p align="center"><img src="https://media.eagereyes.org/media/attachments/Autism-redesign.png" alt="Autism Teaser" border="0" /></p>
@@ -164,8 +156,3 @@ Below are PDF versions of my redesigns for closer inspection.
 </tr>
 </tbody>
 </table>
-
-
-<PostedBy />
-
-

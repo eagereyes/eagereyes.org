@@ -1,12 +1,3 @@
----
-title: "Critiquing and Redesigning"
-description: "Criticizing visualizations is a cottage industry of sorts, and an activity I have indulged in in the past as well. Redesigning those charts is also not uncommon, though it's usually other people's charts, and that isn't always welcome. Sarah Leo of The Economist has redesigned some of the charts made by that publication, and not only do her redesigns work better, her thoughts around some of the design issues are also very insightful."
-date: 2019-04-17 21:12:27
-tags: criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png
-outline: false
----
-
 # Critiquing and Redesigning
 
 Criticizing visualizations is a cottage industry of sorts, and an activity I have indulged in in the past as well. Redesigning those charts is also not uncommon, though it's usually other people's charts, and that <a href="https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9">isn't always welcome</a>. Sarah Leo of <em>The Economist</em> <a href="https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368">has redesigned some of the charts made by that publication</a>, and not only do her redesigns work better, her thoughts around some of the design issues are also very insightful.
@@ -28,22 +19,3 @@ What's extremely confusing here, and frankly not very well done in the original,
 The redesign is clearly much better, and I particularly like that Leo chose bars here to connect the points to the axis. This way, there's no way to miss that the numbers are negative. <a href="/journalism/when-bars-point-down">I'm partial to downwards-pointing bars</a> and think they should be used a lot more; but they need to be done in a way that's clear and easy to understand, or risk being misread.
 
 This kind of reflection and redesign of your own charts (even if Leo didn't actually make all of those original charts, but they're done by the people around her) is a great exercise. It allows you to flex your design muscles and think in terms of more general design rules and guidelines that will inform and improve future work. And doing this with your own work means you're not stepping on people's toes, even when you're doing this in public.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://plus.google.com/+JonathanBakerBates" rel="nofollow noopener" target="_blank">Jonathan Baker-Bates</a> says…
->	For the second example, I assume the intention of the original is to show that as manufacturing employment in the US went down, the trade deficit with China went up. That is, it became more negative.
->	
->	So while I agree the re-design does a better job in using downward-pointing bars for the deficit (the original being rather amazingly confusing), would it have been better to overlay the manufacturing employment trend onto the bars? The employment trend could then be easily seen against the deficit. The y-axis scale for the employment trend could also be removed (or simplified as max/min), because knowing the employment numbers seems redundant to the point being made.
->	
->	As an aside, while there are also some good subtle graphical design improvements in the re-designs, I am left wondering about the re-orientation of the red heading marker.  It seems to inhibit readability by compressing the title and lending false emphasis to the word "Free".
-
-</aside>
-

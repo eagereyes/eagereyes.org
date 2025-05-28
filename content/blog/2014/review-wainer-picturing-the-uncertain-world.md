@@ -1,11 +1,3 @@
----
-title: "Review: Wainer, Picturing the Uncertain World"
-description: "Picturing the Uncertain World by Howard Wainer is a book about statistics and statistical thinking, aided by visual depictions of data. Each article in the collection starts by stating a question or phenomenon, which is then investigated further using some clever statistics."
-date: 2014-12-22 22:01:53
-tags: criticism, book reviews
-featuredImage: 
----
-
 # Review: Wainer, Picturing the Uncertain World
 
 <a href="http://press.princeton.edu/titles/8863.html"><em>Picturing the Uncertain World</em></a> by Howard Wainer is a book about statistics and statistical thinking, aided by visual depictions of data. Each article in the collection starts by stating a question or phenomenon, which is then investigated further using some clever statistics.
@@ -39,21 +31,3 @@ The final chapter, <em>The Remembrance of Things Past</em>, is probably the best
 The book is really a collection of articles Wainer wrote for <a href="http://chance.amstat.org/"><em>Chance Magazine</em></a> and <a href="http://www.tandfonline.com/toc/utas20/current"><em>American Statistician</em></a> in the mid–2000s (with one exception from 1996). As a result, it isn’t really more than the sum of its parts: it doesn’t have any cohesion between the chapters. But on the other hand, each chapter is a nicely self-contained piece, easy to read, and it's easy to pick the book up to read a chapter or two. Wainer also writes very well. The chapters are easy to read, and his explanations of statistical phenomena and procedures are very good and easy to follow even if you don’t know much about statistics.
 
 Ultimately, my question about the blurry dots was not answered, because Wainer points to Alan MacEachren's book <em>How Maps Work</em> as the source of the blurriness argument. I can't find my copy of that book at the moment though, so following this lead further will have to wait for another day.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.knowvis.com" rel="nofollow noopener" target="_blank">Annette Hexelschneider</a> says…
->	Thank you for pointing out this book as I did not come across it so far. 
->	I think it may contain some interesting and moving - the final chapter - examples of charts usage for my students. So I will put it onto my reading list.
->	
->	But next on the reading list is the Tableau cookbook :-)
-
-</aside>
-

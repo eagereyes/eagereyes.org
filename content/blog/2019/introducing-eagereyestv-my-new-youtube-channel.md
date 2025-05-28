@@ -1,12 +1,3 @@
----
-title: "Introducing eagereyesTV, My New YouTube Channel"
-description: "After writing about visualization for over a decade, it’s time to mix things up a bit and try a new medium: video. I just uploaded the first video to my new YouTube channel, which I’m calling eagereyesTV. Take a look and tell me what you think!"
-date: 2019-09-16 22:21:36
-tags: eagereyestv
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg" width="1194" height="672" /></p>
 
 # Introducing eagereyesTV, My New YouTube Channel
@@ -26,18 +17,3 @@ The topics I’m planning on so far include visualization of course, including u
 This is an experiment. I’m really curious what people think. Does it work? Is it interesting? What’s working, what isn’t? Feel free to leave comments here or on YouTube. And if you think it’s worthwhile, please subscribe on YouTube and maybe give the video a like.
 
 <a href="https://youtu.be/RbHCeANCbW0">Watch it here</a> and see <a href="/eagereyestv/eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt">this post</a> for the show notes (those are also on YouTube)
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamarierhyne.com/" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Enjoyed the video.
-
-</aside>
-

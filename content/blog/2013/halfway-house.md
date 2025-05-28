@@ -1,12 +1,3 @@
----
-title: "The Halfway House To Nowhere"
-description: "What is visualization for? Is it a tool help us understand data and the world, and to make better decisions because of that? Or is it just a debugging tool, a stepping stone towards intelligent machines?"
-date: 2013-02-20 22:22:19
-tags: 
-featuredImage: 
-outline: false
----
-
 # The Halfway House To Nowhere
 
 What is visualization for? Is it a tool help us understand data and the world, and to make better decisions because of that? Or is it just a debugging tool, a stepping stone towards intelligent machines?
@@ -22,7 +13,3 @@ Michael Driscoll says that <em><a href="http://medriscoll.com/post/39791380287/v
 >	But data visualizations still require human analysts to react and kick off another action, if they are to be useful.
 
 Tim O'Reilly picks up the story (which is based on a comment he made) and <a href="https://plus.google.com/+TimOReilly/posts/9SjTD1rCuVy">describes visualization as debugging and exception-handling</a>:
-
-<PostedBy />
-
-

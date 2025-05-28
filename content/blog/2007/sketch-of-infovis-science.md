@@ -1,12 +1,3 @@
----
-title: "The Science of Information Visualization: A Sketch"
-description: "According to one definition(ref), engineering is making things based on scientific principles &ndash; as opposed to the intuitive making that defines a craft. Information visualization (InfoVis) is practiced like a craft today, based mostly on practical examples, but not on theoretical basics. Here is a sketch of not only InfoVis as an engineering field, but InfoVis as a science."
-date: 2007-07-11 15:17:19
-tags: criticism
-featuredImage: 
-outline: false
----
-
 # The Science of Information Visualization: A Sketch
 
 According to Carl Mitcham's book <em>Thinking through Technology: The Path between Engineering and Philosophy</em> (University of Chicago Press, 1994), engineering is making things based on scientific principles – as opposed to the intuitive making that defines a craft. Information visualization (InfoVis) is practiced like a craft today, based mostly on practical examples, but not on theoretical basics. Here is a sketch of not only InfoVis as an engineering field, but InfoVis as a science.
@@ -30,18 +21,3 @@ One specific difficulty in visualization (as opposed to physics and other hard s
 Some of the above certainly also applies to scientific visualization and visual analytics, and theoretical work would hopefully lead to a much better understanding of the considerable overlap between these fields.
 
 InfoVis will not be able to survive as a field without becoming a proper science. The methods for this science still need to be developed, and we need to do more than just copying other fields (like we do to an extent right now with perception, computer graphics, etc.). But the field needs to move beyong being a craft.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.facebook.com/profile.php?id=100003407025397" rel="nofollow noopener" target="_blank">Keith</a> says…
->	I'd like to see  how to  information about what one needs to learn to even get sttraed creating data visualizations: a syllabus for wannabe visualizers. I love looking at them would like to be able to create some myself!Thanks! :)
-
-</aside>
-

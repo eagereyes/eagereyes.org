@@ -1,12 +1,3 @@
----
-title: "Listen To Me Dispense My Wisdom on the Data Stories Podcast!"
-description: "Last week, I recorded a guest appearance on the Data Stories podcast with Enrico Bertini and Moritz Stefaner. Find out if the voice you imagine when reading this blog sounds like my voice (spoiler: it doesn't), and how my Austrian accent meshes with Moritz' German and Enrico's Italian ones (spoiler: very well)."
-date: 2012-12-09 21:30:58
-tags: self-promotion, Data Stories
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png
-outline: false
----
-
 # Listen To Me Dispense My Wisdom on the Data Stories Podcast!
 
 Last week, I recorded a guest appearance on the Data Stories podcast with Enrico Bertini and Moritz Stefaner. Find out if the voice you imagine when reading this blog sounds like my voice (spoiler: it doesn't), and how my Austrian accent meshes with Moritz' German and Enrico's Italian ones (spoiler: very well).
@@ -28,8 +19,3 @@ A bit of context to some of the things we talk about in the episode:
 <a href="http://xkcd.com/386/"><img class="aligncenter size-full wp-image-2107" title="xkcd: Duty Calls" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png" width="300" height="330" /></a>
 
 But don't forget to <a href="http://datastori.es/episode-15-with-robert-kosara/">listen to the actual podcast</a>!
-
-
-<PostedBy />
-
-

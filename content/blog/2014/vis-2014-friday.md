@@ -1,11 +1,3 @@
----
-title: "VIS 2014 – Friday"
-description: "Wow, that was fast! VIS 2014 is already over. This year’s last day was shorter than in previous years, with just one morning session and then the closing session with the capstone talk."
-date: 2014-11-14 07:46:11
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/11/Eiffel-Tower.jpg
----
-
 # VIS 2014 – Friday
 
 Wow, that was fast! VIS 2014 is already over. This year’s last day was shorter than in previous years, with just one morning session and then the closing session with the capstone talk.
@@ -39,8 +31,3 @@ It was a very fast talk, packed with lots of interesting thoughts and informatio
 IEEE VIS 2015 will be held in Chicago, October 25–30. The following years had already been announced last year (2016: Washington, DC; 2017: Santa Fe, NM), but it was interesting to see them publicly say that 2018 might see VIS in Europe again.
 
 This concludes the individual day summaries. I will also post some more general thoughts on VIS 2014 in the next few days.
-
-
-<PostedBy />
-
-

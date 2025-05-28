@@ -1,12 +1,3 @@
----
-title: "Paper: ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs"
-description: "Unit charts are not common in visualization, and they are often considered a bad idea. The same is true for using shapes other than rectangles. Neither is based on much actual research, however. In a new paper, we look at the specific example of ISOTYPE-style charts – and find them to be quite effective."
-date: 2015-04-19 22:15:26
-tags: isotype, papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser.jpg" alt="" width="825" height="467" /></p>
 
 # Paper: ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs
@@ -38,24 +29,3 @@ These are just some of the results, there are many more in the paper. Steve Haro
 <hr />
 
 Steve Haroz, Robert Kosara, Steven L. Franconeri, <a href="/publications/Haroz-CHI-2015"><em>ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs</em></a>; Proceedings CHI, pp. 1191–1200, 2015
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://projecthamster.wordpress.com/" rel="nofollow noopener" target="_blank">Toms</a> says…
->	As the study was using very simple imagery, I wonder how plain figures (4 couches / 5 lamps / 3 desks) would have performed.
-
-<a href="http://twitter.com/ainvienna" rel="nofollow noopener" target="_blank">A. Hexelschneider (@ainvienna)</a> says…
->	Interesting test. 
->	
->	I love it as Viennese - one of Otto Neurath's main places of action.
->	And as stats-viz teacher. Will ask my students next term to prepare a small input on the basis of your results before we embark on stats-infographics.
-
-</aside>
-

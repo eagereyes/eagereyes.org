@@ -1,11 +1,3 @@
----
-title: "Review: Isabel Meirelles, Design for Information"
-description: "When I’m asked for a good book about visualization, I usually try to change the subject. There is no book I really love, they all have their issues. But thanks to Isabel Meirelles, I can now give a straight answer: Design for Information."
-date: 2013-10-20 20:12:31
-tags: book-reviews, criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg
----
-
 <p align="center"><img class="aligncenter size-full wp-image-2675" src="https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg" alt="Treemap explanation by Isabel Meirelles" width="416" height="250" /></p>
 
 # Review: Isabel Meirelles, Design for Information
@@ -63,21 +55,3 @@ She also nicely covers a broad range of current examples, including many from ne
 Meirelles’ book is a great overview of visualization. It’s a beautiful coffee-table book. It covers a lot of ground. It provides enough depth to let the reader dig deeper. It has references to papers and books throughout for further reading. It explains. It explains!
 
 A book that explains visualization. What a concept.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-derek says…
->	Looks like an update of <i>Semiologie Graphique</i> for our era; about time.
-
-<a href="http://interactivemultimediatechnology.blogspot.com" rel="nofollow noopener" target="_blank">Lynn Marentette</a> says…
->	Thanks, Robert.  I have a small collection of information visualization books, and I will add this to my collection. I'm due for a new one!
-
-</aside>
-

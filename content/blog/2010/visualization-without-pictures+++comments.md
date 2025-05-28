@@ -1,0 +1,3 @@
+butch1507 says…
+>	 A interesting question but I think we have other factors involved that are not mentioned.It's my belief that a form of visualization templet does exist even without vison being present .Its a older known proven strategy used for teaching letter formation that by closing the eyes and tracing the tactile outline of alphabetical letter ,that the child is able to form the letter more effectively on pencil and paper afterwords as if a visual templet is formed in the mind .I'm not sure who discovered the technique but Barbara Vittalle mentions it in  Unicorns are Real ,and I believe Eric Jenson-author  and Sally Smith -owner of the Lab School used it .
+>	Butch1507

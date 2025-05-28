@@ -1,12 +1,3 @@
----
-title: "EuroVis Running Club"
-description: "I'm organizing a very informal running club at EuroVis next week. If you're attending the conference, don't forget to bring your running shoes and leave your excuses at home."
-date: 2015-05-20 08:20:39
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg" alt="" width="640" height="480" /></p>
 
 # EuroVis Running Club
@@ -25,20 +16,3 @@ I know you're wondering: <em>what if I'm not running, will there be opportunitie
     <li>I'm giving the Tableau industrial/sponsor talk on Thursday afternoon (session IND2). No, that will not be a sales pitch but there will be actual content and bad jokes. Lots of them.</li>
     <li>Finally, Drew Skau will give the talk on Wednesday morning (session FP6) on our paper with Lane Harrison, <i>An Evaluation of the Impact of Visual Embellishments in Bar Charts</i>. There will be a separate posting about this paper on Sunday.</li>
 </ul>
-
- 
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-WANG Qichao ; WANG Lisha says…
->	We would love to join in your running club! see you on monday!
-
-</aside>
-

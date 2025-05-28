@@ -1,11 +1,3 @@
----
-title: "The Seven Year Itch"
-description: "Eagereyes.org turned seven years old last week, on October 1st. Seven years is a long time on the web. In dog years, the site is almost fifty years old! Has it lost its edge? Have I gone soft? Where is the bite? Where is the fight?"
-date: 2013-10-09 20:13:38
-tags: meta
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/eagerpies1.png
----
-
 # The Seven Year Itch
 
 Eagereyes.org turned seven years old last week, on October 1st. Seven years is a long time on the web. In dog years, the site is almost fifty years old! Has it lost its edge? Have I gone soft? Where is the bite? Where is the fight?
@@ -37,21 +29,3 @@ And it still does. People got upset by <a title="Quo Vadis, Many Eyes?" href="/c
 Visualization is still treated like a joke by many people, including the people in the field. And with all the pretty pictures, <a title="It’s Just Too Easy" href="/criticism/its-just-too-easy">it's just too easy</a>. Which is exactly why a site like this is needed: to punch you in the face every once in a while, to shake you out of your comfy little dream world.
 
 To make a dent, if not in the universe, then at least in the way we think about visualization.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.nbr-graphs.com" rel="nofollow noopener" target="_blank">nbrgraphs (Naomi B. Robbins)</a> says…
->	The field of data visualization includes a number of communities. Each of them would benefit from better communication with the others. I do not consider John Tukey, Bill Cleveland, Edward Tufte and many too many others to list individually to be outside the “core visualization community.”
-
-<a href="http://twitter.com/thewhyaxis" rel="nofollow noopener" target="_blank">Bryan Connor (@thewhyaxis)</a> says…
->	I love posts like these much more than angry wake up calls. I think writing directly and with a personal tone is the new edge and something I want to incorporate more into The Why Axis. Building empathy and community can be more impactful than a call to arms. Honored to be mentioned as one of the good ones out there and I love the idea of a viz blogger establishment. Blogging is a tough game so congratulations on 7 years. Just keep writing, I know I will.
-
-</aside>
-

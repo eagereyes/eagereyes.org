@@ -1,11 +1,3 @@
----
-title: "ISOTYPE Book: Mackenzie, The Vital Flame"
-description: "The first book in the new series on ISOTYPE books is The Vital Flame by Compton Mackenzie, published by The British Gas Council in 1947. It contains 42 color photographs and five ISOTYPE charts, with a nice variety of different topics and styles."
-date: 2017-01-17 20:35:05
-tags: isotype, history, isotope-books
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype1.jpg
----
-
 # ISOTYPE Book: Mackenzie, The Vital Flame
 
 The first book in the <a href="/isotope-books/intro">new series on ISOTYPE books</a> is <em>The Vital Flame</em> by Compton Mackenzie, published by The British Gas Council in 1947. It contains 42 color photographs and five ISOTYPE charts, with a nice variety of different topics and styles.
@@ -67,21 +59,3 @@ The final chart shows a bit of a twist on ISOTYPE. The flames represent the amou
 From what I have seen so far, <em>The Vital Flame</em> strikes me as a typical ISOTYPE-containing book from around the middle of the last century. It aims to inform the reader about a topic, but mostly stays away from numbers in the text (there are few here and there). The ISOTYPE charts are separate and – I'm guessing – were commissioned and created after the text had been written. Other than on the title page and on in the list of charts, they are never mentioned. Other books advertise them on their covers, though this one doesn't. Including them must have come at significant cost though, not just to pay for the charts to be made, but also for the more complicated printing process in color.
 
 Given the photographs (in color! quite a remarkable for 1947), the book didn't need the charts to be less dry or more approachable. I wonder if they were meant to make the book appear more authoritative and data-based.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Jason Forrest says…
->	Marie Neurath did a great job with this one! It might be good to add her name to the post maybe?
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	I don’t think she’s credited anywhere in the book, though. I have another ISOTYPE post coming pretty soon of a book from around the same time, I’ll mention her there.
-
-</aside>
-

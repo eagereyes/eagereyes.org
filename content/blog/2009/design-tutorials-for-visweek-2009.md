@@ -1,12 +1,3 @@
----
-title: "Design Tutorials for VisWeek 2009"
-description: "As one of the Tutorials Chairs at this year's VisWeek (which is the combination of the IEEE Vis and InfoVis conferences, and the VAST symposium), I want to make you aware of the upcoming deadline for submitting tutorial proposals: April 28. We are looking for a wide variety of ideas, but I want to especially encourage the submission of tutorials on design for visualization. VisWeek will take place October 10&ndash;16 in Atlantic City, NJ."
-date: 2009-04-19 22:27:38
-tags: 
-featuredImage: https://media.eagereyes.org/media/2009/VisWeekTutorials.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/VisWeekTutorials.png" alt="VisWeek Tutorials" width="568" height="309" /></p>
 
 # Design Tutorials for VisWeek 2009
@@ -22,8 +13,3 @@ A difficult question is what level to target. While I don't think that a lot of 
 Two pages I came across today might help explain the gap between technical visualization folks and designers: <a href="http://www.betaversion.org/~stefano/linotype/news/108/">Why Programmers Suck at Picking Colors</a> and <a href="http://www.betaversion.org/~stefano/linotype/news/169/">Why Programmers Suck at CSS Design</a>. These are not specific to visualization, but they do discuss a lot of issues I would also expect to find among visualization reseachers.
 
 Tutorials can be half-day or full-day, and usually involve several speakers. Tutorial speakers receive free registrations for VisWeek, and there is also a small honorarium. If you have not submitted to VisWeek before, you should get familiar with the SRM submission system used well before the deadline. Feel free to <a href="/contact">contact me</a> with any questions.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "Workshop: The Role of Theory in Information Visualization"
-description: "Information visualization is a very applied field that prides itself on its practical applications and real-world scenarios. Ignoring the theoretical side is dangerous, however, because it limits our ability to distill useful information about the foundations of the field from the practical work being done, and limits our understanding of how and why our own creations work. The goal of this workshop at VisWeek 2010 is to bring together researchers interested in the theoretical aspects of visualization, define the field, discuss ideas and approaches, and get the word out about the importance of theoretical research in information visualization."
-date: 2010-07-14 22:51:21
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/infovistheory-teaser.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/infovistheory-teaser.png" width="560" height="311" alt="InfoVisTheory Teaser"></p>
 
 # Workshop: The Role of Theory in Information Visualization
@@ -81,18 +73,3 @@ Also, how do we make it easier to publish this kind of work? What makes for a go
 <li><a href="http://www.cse.msstate.edu/~tjk/">T.J. Jankun-Kelly</a>, Mississippi State University</li>
 <li><a href="http://www.cs.ou.edu/~weaver/academic/">Chris Weaver</a>, University of Oklahoma</li>
 </ul>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.personal.psu.edu/acr181/" rel="nofollow noopener" target="_blank">Anthony Robinson</a> says…
->	I'm very happy to see a focus on this area - I won't be able to attend visweek this year (my theory paper was rejected... ha!) but I will be very interested to see the results from this workshop that you're able to publish in the not too distant future. I think that for the good of the field there will need to be vibrant community of theoreticians who can advance/challenge the science. There are very good reasons why tool/application papers are abundant (funders like to see stuff, we like to make stuff), but I think the reasons why theory hasn't moved as quickly are less understood. At least part of the problem is that it's not easy to conceptualize what constitutes a significant advance in theoretical pursuit. 
-
-</aside>
-

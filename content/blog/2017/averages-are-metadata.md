@@ -1,11 +1,3 @@
----
-title: "Averages Are Metadata"
-description: "When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake."
-date: 2017-05-14 19:07:00
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg" width="624" height="305" /></p>
 
 
@@ -50,27 +42,3 @@ The reason for including these values, convenience, now becomes an obstacle. And
 The way to fix this is to treat derived values as metadata and not throw them into the main table. Spreadsheets have lots of features for this, like tabs. Files can be separated out. Spreadsheets (and in particular CSV files) don't have to exactly mirror the structure of a printed table – in fact, that's usually a terrible way of releasing data.
 
 But what's more, data tables aren't like printed ones. They are the raw material for further processing, not the end result. <a href="/data/dish-best-served-raw">They need to be readable by machines, not humans</a>. Including averages and other derived values shows a fundamental misunderstanding of this basic fact.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Gregor says…
->	the quick redesign isn't helpful because it excludes all the things that made the chart readable. the long titles, the unit descriptions, the bar labels, the value labels, the grid labels, etc. if you leave everything that matters out there is suddenly a lot of empty space to put in average lines and yet another label to explain what the line is.
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	It's unfinished, I'll give you that. But I don't see why labeling that extra line would be all that difficult. The bars are the same as before.
-
-<a href="http://steveharoz.com" rel="nofollow noopener" target="_blank">Steve Haroz</a> says…
->	Cool post, Robert. As much as I agree subjectively, I wonder if we can make this idea falsifiable. In a visualization, what kind of imprecision or judgement error or even speed difference would you expect with avg-as-bar vs avg-as-grid-line?
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	I would expect it to be much easier to see how far away from the average you are with a line than a bar, especially with more bars. Perhaps the more important thing would be confidence, though: can I easily find the average and how sure do I feel about the difference? I'd be surprised if the line wasn't better at both.
-
-</aside>
-

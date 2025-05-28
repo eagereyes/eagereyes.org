@@ -1,12 +1,3 @@
----
-title: "Charts and Metaphors"
-description: "What do pies, waffles, and donuts have in common? They're charts, or rather metaphors for popular charts. Why do we need to name charts after food? And what can we learn from this for getting the idea of visualization across more effectively?"
-date: 2008-12-08 23:21:46
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/chocolatepiechart.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart (by Mary &amp; Matt)" width="490" height="320" border="0" /></p>
 
 # Charts and Metaphors
@@ -26,26 +17,3 @@ Metaphors are also dangerous. They can become overly cute and we can get lost in
 But to capture people's imagination, we need to be a bit more metaphoric. Perhaps we should rename the scatterplot into the <em>salt'n'pepper plot</em>. Or call parallel coordinates the <em>spaghetti plot</em>. That might even lead to new ideas: what would a <em>sushi plot</em> look like? Or a <em>cupcake plot</em>? What about the new <em>tea leaf plot</em>?
 
 Visualization is not doing a good job marketing itself, and the names of visualization techniques certainly don't help. While forcing a particular metaphor won't help us, perhaps we should invest a bit of thought into calling our next method something a bit more marketable than "parallel coordinates." Can we make visualization sound interesting and fun without being stupid?
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://prototype.thmvmnt.com" rel="nofollow noopener" target="_blank">Patrick</a> says…
->	<p>You seem to have hit on something more than poetic. Our inclination for metaphors seems to be more of a use of our instinct or natural perseption, rather than a cute way to understand complex data.</p>
->	<p>We see shadows and implicitly know the time. We taste fruit and know if its poison due to bitterness. We pay attention to the moon, the stars, and the seasons.</p>
->	<p>In our world now, it seems we are void of ambient indicators, something that these metaphors my be offering. We may not be able to replace our instincts, but we can adapt our environment to give us appropriate clues.</p>
->	<p>Great thoughts, keep it up.</p>
-
-<a href="http://charts.jorgecamoes.com" rel="nofollow noopener" target="_blank">Jorge Camoes</a> says…
->	<p>Robert, are you reading your Calvin &amp; Hobbes again? :)</p>
->	<p>In one strip, Calvin says to Hobbes, "I've been reading about the beginning of the universe. They call it 'The Big Bang.' Isn't it weird how scientists can imagine all the matter of the universe exploding out of a dot smaller than the head of a pin, but they can't come up with a more evocative name for it than 'the Big Bang'? That's the whole problem with science. You've got a bunch of empiricists trying to describe things of unimaginable wonder."<br /><br />Hobbes asks, "What would you call the creation of the universe?"<br /><br />Calvin replies, "The Horrendous Space Kablooie!"</p>
->	<p> </p>
-
-</aside>
-

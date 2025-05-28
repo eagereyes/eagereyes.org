@@ -1,11 +1,3 @@
----
-title: "Scaling An Axis to Make A Point"
-description: "A clever chart redesign last week got a lot of people talking about which one is “right.” What is more interesting to me is not which one is (supposedly) the better representation of the truth, but which purpose each one serves."
-date: 2013-12-15 20:56:30
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/12/female-ceos-keller.jpg
----
-
 # Scaling An Axis to Make A Point
 
 A clever chart redesign last week got a lot of people talking about which one is “right.” What is more interesting to me is not which one is (supposedly) the better representation of the truth, but which purpose each one serves.
@@ -45,38 +37,3 @@ The only thing that is still bugging me is the pretense that the percentage actu
 This is a great example of how a few simple choices can make a big difference in the message a graphic conveys. All these charts show the data, and none is obviously flawed. But while the first shows the numbers in a way that makes the most use of the area, the second and third ones actually make a point.
 
 While the data is simple and doesn't allow much deep analysis, there is still the question of how to present it: take a position and argue it, or present the data and leave the interpretation to the user. None of these graphs really do the latter (the original chart's title alone is a clear giveaway), but they provide different amounts of guidance and context, in particular to judge the percentage of women CEOs against a reasonable ideal.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Olga Collins says…
->	Every analyst needs to read this.
-
-<a href="http://twitter.com/chezvoila" rel="nofollow noopener" target="_blank">Voilà Info Design (@chezvoila)</a> says…
->	Thanks a lot for including my graph in your review; it's very interesting to have your opinion on this.
->	
->	I'm curious to know what a neutral graph ("present the data and leave the interpretation to the user") would look like? Do I understand that to you the original Reuters graph is neutral, excluding its title, that a reader would not be drawn to a conclusion by its appearance?
->	
->	Also, I thought the second graph (women by level) was also interesting to analyze, but I understand that it doesn't have the built-in outrage of the first one. I can't understand how Reuters chose the order of the data. Putting CEOs at the end seems unhelpful given that Boards of directors are above CEOs. Also, this is a hierarchy and seems better represented in a vertical format, with the top job being on top. To me, the data suggests that it's still more common to include women as an agent of diversity, since Boards have several members, than to be truly neutral and recruit an equal number of men and women. The vertical redesign made me see this.
-
-banaokuYilmaz says…
->	Great Sample, thanks!
-
-KK Molugu says…
->	Interesting points. As an analyst, everyone has to look into what is being presented and how it is perceived by the eyes of the audience. Always set the area chart scaling to 100% to send a clear message.
->	
->	I am sure somewhere we have Do's and Don't's for every graph type and every analyst has to have it in their cube.
->	
->	..kk
-
-Truth Speaker says…
->	Why do we need 50% female and 50% male? Why can't it be 80% female and 20% male. Or vise versa. In my opinion we do not need an equal amount of Female to male CEO's, but CEO's that are good and fit the requirements.
-
-</aside>
-

@@ -1,13 +1,3 @@
----
-title: "My Favorite Charts"
-description: "There are many charts I hate, because they're badly done, sloppy, meaningless, deceiving, ugly, or for any number of other reasons. But then there are the ones I keep coming back to because they're just so clear, well-designed, and effective.
-
-All of these are a few years old. Like a fine wine analogy that I could insert here, it probably takes a while for a chart to come up again and again in conversation and when looking for examples to realize how good it is."
-date: 2014-09-03 20:38:37
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap.png
----
-
 # My Favorite Charts
 
 There are many charts I hate, because they're badly done, sloppy, meaningless, deceiving, ugly, or for any number of other reasons. But then there are the ones I keep coming back to because they're just so clear, well-designed, and effective.
@@ -73,38 +63,3 @@ Rosling's video, and the gapminder software, not only introduced millions of peo
 ## Appreciating Good Work
 
 It's easy to find, and make fun of, bad charts. But between all the pie chart bashing and general criticism of bad charts, it is equally important to find the good examples and try to figure out what makes them work so well. Even if it may be more fun to beat up the bad examples, we will ultimately learn more from understanding the design choices and ideas that went into the good ones.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://got-data.blogspot.com" rel="nofollow noopener" target="_blank">KK Molugu</a> says…
->	Robert:
->	
->	Interesting article. Personally, I think all charts are good (even Pie's IMHO) and only people with bad design choice, or color, etc. make them look bad or even worse.
->	
->	When charts and graphs were designed and created, I am sure there was a reason and purpose behind it. Understanding the purpose of the chart and the requirements of the user, if everyone creates a right chart to deliver the right message, we will end up with less bad charts. 
->	
->	I totally agree with you on appreciating the good ones instead of bashing the bad ones, as it helps newbies and also pro's by educating them with the best practices. 
->	
->	My 2 cents.. 
->	
->	..kk
-
-<a href="http://lisacharlotterost.de" rel="nofollow noopener" target="_blank">Lisa</a> says…
->	I couldn't disagree more. Not all charts are good – sure there is always a reason behind it ("we have to fill the space!"), but not always a purpose. And the reason can be "bad" too, as well as the statistical skills of the designer in charge. There are so many reasons why a graph can turn out bad. SO MANY. 
->	
->	@Robert: Really appreciate the article and especially agree with what you said in the last paragraph. One can learn more from good examples than from bad ones. Thank you.
-
-Wilson Jenkrich says…
->	That said, the bar chart example is an nice example of propaganda. The Labor Force Participation rate, according to the BLS, is at record lows for the modern era; part-time, low-wage jobs are being added as full-time, high-wage jobs are dropped; and the Census Department is said to have manipulated employment data prior to the 2012 election for political reasons.
->	
->	Lies, damn lies, and...
-
-</aside>
-

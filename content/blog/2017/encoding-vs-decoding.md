@@ -1,11 +1,3 @@
----
-title: "Encoding vs. Decoding"
-description: "Visualization techniques encode data into visual shapes and colors. We assume that what the user of a visualization does is decode those values, but things aren’t that simple."
-date: 2017-02-20 21:25:18
-tags: attention
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/02/vispipeline-teaser.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/vispipeline-teaser.png" alt="" width="720" height="500" /></p>
 
 # Encoding vs. Decoding
@@ -43,41 +35,3 @@ If visualization were about decoding values from charts, things like aspect rati
 If it were about decoding values, we would not be getting anywhere as much out of visualization as we do. We would not be getting correlation or clusters or outliers from a scatterplot. There would be little point in drawing pictures from data at all.
 
 What makes visualization powerful is our ability to go beyond the mere decoding of values from a chart. That makes it interesting, but it also makes it complicated. So far, we have focused our understanding largely on the encoding side of visualization. We need to learn much more about the complex and powerful decoding side.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Bilal says…
->	Very good point, thank you Robert
-
-<a href="http://twitter.com/rybesh" rel="nofollow noopener" target="_blank">Ryan Shaw (@rybesh)</a> says…
->	One good way to start understanding the value of visualization better might be to choose a new metaphor: https://goo.gl/zhZKgh
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Ryan, that link doesn't appear to be working. I'm just getting an Access Denied error.
-
-<a href="http://glasbrint.com" rel="nofollow noopener" target="_blank">Alex Cookson</a> says…
->	I had the same issue. Here's a working link: 
->	
->	http://www.academia.edu/6290150/The_Conduit_Metaphor_A_Case_of_Frame_Conflict_in_Our_Language_about_Languag
-
-<a href="http://glasbrint.com" rel="nofollow noopener" target="_blank">Alex Cookson</a> says…
->	I'll also follow up with a link to the Wikipedia article. As a layman, I found the article difficult to follow.
->	
->	https://en.wikipedia.org/wiki/Conduit_metaphor
-
-<a href="http://www.culturerover.com" rel="nofollow noopener" target="_blank">Michael Kramer</a> says…
->	This brought to mind the famous essay by Stuart Hall, https://faculty.georgetown.edu/irvinem/theory/SH-Encoding-Decoding.pdf
->	https://en.wikipedia.org/wiki/Encoding/decoding_model_of_communication
-
-Stephen Hampshire says…
->	Excellent blog post, and an excellent article too. I particularly like "Human communication will almost always go astray unless real energy is expended" p. 295
-
-</aside>
-

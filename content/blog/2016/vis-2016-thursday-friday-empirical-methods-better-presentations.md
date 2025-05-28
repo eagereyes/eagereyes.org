@@ -1,11 +1,3 @@
----
-title: "VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations"
-description: "A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday."
-date: 2016-11-01 20:26:20
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4512.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4512.jpg" width="720" height="540" /></p>
 
 # VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations
@@ -55,28 +47,3 @@ IEEE VIS 2017 will take place in Phoenix, AZ, October 1–6 (so a bit earlier th
 <hr />
 
 Benjamin Bach <a href="http://www.aviz.fr/~bbach/publicize_vis_2016/">has collected URLs from VIS papers</a>, including a SciVis paper or two, and a number of things I haven't discussed in my postings.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Jo Wood says…
->	[sorry for a bit of a long one..]
->	
->	Thanks Robert for your commentary; I always enjoy your write-up of VIS(week). I'd like to comment on one theme that emerges from comments on your two favourite presentations - Jean-luc Doumont's capstone on effective presentation ("perhaps the best ever capstone at VIS") and Correll and Heer's Surprise Maps ("possibly my favourite paper").
->	
->	I agree that these were two first class presentations that enhanced the programme at VIS this year. I too thought the Surprise Maps paper was a great one, although possibly for different reasons to you. Both have inspired me and have led to me working on a couple of ideas that may lead to future papers – surely a good sign for any academic presentation. But in addition to being well delivered, they had something else in common: the presentations in themselves contained little that was academically new (even if for a proportion of the audience it was new to them).
->	
->	For a capstone perhaps that is not a problem – engaging a tired audience at the end of hard week's conferencing is exactly what a capstone should do. And he did this exceptionally well both in what he said and how he said it. Yet I couldn't help but feel that if the highlight of the word's premier visualization conference is a talk about how to deliver powerpoint presentations, we are punching well below our weight. There is a role for 'knowledge transfer' at conferences where what is discussed is not necessarily new, but maybe new to the audience. We saw this in the keynote too where many of us where introduced to Ricardo Hausmann's economic model of complexity - well established and debated in economics but new to most of us at VIS. I thought Hausmann's talk worked, not only as a fine example of first class academic story telling, but because it made connections between established theory outside of our discipline and those within it. I was less sure the capstone did this.
->	
->	Correll and Heer's Surprise Maps presentation also raised questions about the role of the new in VIS presentations. I do like the work, the paper is the first I've read that makes the case for routinely incorporating Bayesian reasoning as part of an iterative model building and visualization cycle. The Bayesian philosophy is highly compatible with exploratory visualization and this link is an under-researched area of our discipline. The paper offers plenty of promise for an exciting strand of future work. Where I felt a little uneasy was that the focus of the presentation, which you picked up on, was the idea of 'surprise maps' for showing difference from expectation rather than raw counts or simplistic rates that are unduly influenced by sample size. These are entirely sound justifications for thematic map design and represent good practice. But that alone does not represent new academic thought. At least as long ago as the 1970s, cartographers were recommending thematic difference from expectation maps as good practice. I mentioned mapping of the signed Chi statistic as a way of achieving this as an aside (because it was already established practice) in my first Infovis paper in 2007. We ran workshops at VisWeek in 2007 and 2008 that showed people how to create such maps with Google technologies. Many vis people map difference from expectation routinely in their work. To be clear, Correll and Heer's paper does contain exciting and innovative work and is one of the stronger papers I've read at VIS this year, but my unease is the favourable reception being based on those aspects of the work that we as a discipline should already have been aware of.
->	
->	Like the regular Vis Lies session and the capstone, much of the entertainment value derived from the presentation comes from contrasting good practice with others' work that is evidently flawed (logo 'n' bullet laden powerpoints; rainbow colour maps; count-based choropleths). Even if the result is to encourage the audience to avoid poor practice I think if Vis is really to progress as a discipline we need to be more ambitious in building on prior work.
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "A EuroVis Survival Guide, Part 2"
-description: "Only a few more sleeps until EuroVis! As we approach the big date, here are some practical tips and tricks about Vienna, the local culture and the exotic customs of the natives."
-date: 2012-05-28 20:30:00
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-2012.png
----
-
 # A EuroVis Survival Guide, Part 2
 
 Only a few more sleeps until <a href="http://eurovis.org/">EuroVis</a>! As we approach the big date, here are some practical tips and tricks about Vienna, the local culture and the exotic customs of the natives.
@@ -53,28 +45,3 @@ As you walk over there from the conference venue, you will pass the world's larg
 Another fun part of Vienna is the <a href="http://en.wikipedia.org/wiki/Prater">Prater</a>. It consists of a large park, with a permanent fairground in one part. Yes, that's where you will find the <a href="http://en.wikipedia.org/wiki/Wiener_Riesenrad">Riesenrad</a>. The fairground (also called <em>Wurstelprater</em>) has a certain morbid flair to it, in particular when you walk through it on a rainy day and you run into the Hieronymus Bosch-style statues of clowns that are all attached to each other with heads and hands sticking out everywhere.
 
 It's pointless to attempt to list everything here, just go with the flow. There will be lots of things to do, and the locals will be able to guide you. Have fun, enjoy, and let me know if you've found this guide useful!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://ieg.ifs.tuwien.ac.at/" rel="nofollow noopener" target="_blank">Alex</a> says…
->	Some more details on public transport:
->	1 single trip (with transfers) 2€
->	24 hours 6,70€
->	72 hours 14,50€
->	1 week (valid Monday 0:00 - Monday 9:00) 15€
->	fine for traveling without ticket 100€ (I get checked once per month on average)
->	
->	Tickets are valid on all subways, trams, public buses, and trains in Vienna. 
->	
->	See you next week,
->	Alex
-
-</aside>
-

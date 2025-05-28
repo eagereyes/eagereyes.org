@@ -1,11 +1,3 @@
----
-title: "Five Years of EagerEyes"
-description: "In dog years, this website is now (almost) as old as I am. Over the years, it has changed both its direction and design several times; there have been times when I was overwhelmed with my readers' reactions and times when nobody seemed to read the stuff I wrote. While I generally hate “best of” postings and indulging in nostalgia, I want to look back at a few of the things that I believe have shaped this site and how I think about what I'm doing, and revisit a few of the more interesting and/or successful things I've managed to do and write over the years."
-date: 2011-09-30 22:18:36
-tags: meta
-featuredImage: https://media.eagereyes.org/media/2011/manyyearsago.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2011/manyyearsago.png" alt="" width="600" height="168" /></p>
 
 # Five Years of EagerEyes
@@ -51,26 +43,3 @@ No self-indulgent, redundant posting like this is complete without a cursory loo
 The truth is, I have no idea. I certainly plan on continuing what I'm doing right now, and I have a long list of ideas for things I want to do, most of which I probably will never get to.
 
 What I do know, however, is what I want to achieve with this site: provide deeper background about visualization that goes beyond the pretty pictures. I want people who look for the meaning behind the pixels to be able to find something. I want to provide an alternative to the general “oooh, shiny!” attitude towards visualization that is so prevalent on the web. And I want to push things forward by calling out things that ineffective, stupid, and wrong, and pointing out better ways of doing them.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.janwillemtulp.com" rel="nofollow noopener" target="_blank">Jan Willem Tulp</a> says…
->	Congrats with this achievement, Robert. Looking forward to read your blog the next 5 years!
-
-<a href="Http://www.FlyingBinary.com" rel="nofollow noopener" target="_blank">Jacqui Taylor</a> says…
->	A huge schievement Robert, always interested in the insights and debate. Looking forward to travelling on the journey with you for many years to come.
-
-<a href="http://www.userjourneys.com" rel="nofollow noopener" target="_blank">Michael Heraghty</a> says…
->	Thanks for the pointers to some fantastic articles Robert. I especially enjoyed "The End of Verifiable.com" and "The Rise and Fall of Swivel.com".
->	
->	Keep up the excellent work :) 
-
-</aside>
-

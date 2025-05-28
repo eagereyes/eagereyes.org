@@ -1,11 +1,3 @@
----
-title: "Review: Manuel Lima, The Book of Trees"
-description: "Trees. They’re everywhere. And not just in the physical world, but in data visualization and knowledge representation as well. This is not a new phenomenon, it goes back thousands of years. Manuel Lima’s new book, The Book of Trees, gives an overview."
-date: 2014-04-13 19:57:09
-tags: book-reviews, criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/04/DSCF1448.jpg
----
-
 # Review: Manuel Lima, The Book of Trees
 
 Trees. They’re everywhere. And not just in the physical world, but in data visualization and knowledge representation as well. This is not a new phenomenon, it goes back thousands of years. Manuel Lima’s new book, <em>The Book of Trees</em>, gives an overview.
@@ -65,8 +57,3 @@ The book succeeds as a coffee-table book, and I mean that in the best possible w
 Manuel Lima, <em>The Book of Trees</em>. Princeton Architectural Press, 2014.
 
 The publisher sent me a free copy of the book for this review.
-
-
-<PostedBy />
-
-

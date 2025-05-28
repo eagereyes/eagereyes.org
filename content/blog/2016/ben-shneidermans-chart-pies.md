@@ -1,12 +1,3 @@
----
-title: "Ben Shneiderman's Chart Pies"
-description: "So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form of charts. Rather than, you know, the other way around. Feast your eyes on delicious-looking chart pies!"
-date: 2016-09-15 21:00:47
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg" width="816" height="612" /></p>
 
 # Ben Shneiderman's Chart Pies
@@ -26,21 +17,3 @@ Anyway, Ben is not the only one. Moritz Stefaner and others have turned data int
 Food and vision clearly go together. In one of my more ludicrous postings, I once <a href="/blog/2008/charts-and-metaphors">wondered what other foods could inspire chart types</a>.
 
 I, for one, am looking forward to the treemap pie – delicious metaphor confusion and all.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.noeskasmit.com" rel="nofollow noopener" target="_blank">Noeska Smit</a> says…
->	Wow, thanks for the mention! I haven't baked a game-themed cake in a while though. Maybe I should pick it up again, change direction to medical visualization themed cakes ^^. So we'll have some baking at VIS this year?
-
-Katherine Peterson says…
->	"I once wondered what other foods could inspire chart types."  Need I say, spaghetti and network maps?
-
-</aside>
-

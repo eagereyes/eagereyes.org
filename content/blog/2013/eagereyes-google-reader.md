@@ -1,11 +1,3 @@
----
-title: "How to Keep Following eagereyes After the End of Google Reader"
-description: "With Google Reader shutting down July 1st, now is the time to find alternative ways to follow your favorite blogs. For this one, you can now get new postings on Facebook and through a dedicated Twitter feed, in addition to the RSS feed. See below for some RSS aggregator/reader alternatives to Google Reader."
-date: 2013-04-07 19:14:59
-tags: meta
-featuredImage: 
----
-
 # How to Keep Following eagereyes After the End of Google Reader
 
 With Google Reader shutting down July 1st, now is the time to find alternative ways to follow your favorite blogs. For this one, you can now get new postings <a href="https://www.facebook.com/eagereyes.org">on Facebook</a> and through <a href="https://twitter.com/eagereyes_feed">a dedicated Twitter feed</a>, in addition to <a href="/feed">the RSS feed</a>. See below for some RSS aggregator/reader alternatives to Google Reader.
@@ -44,25 +36,3 @@ Other services worth mentioning are <a href="http://theoldreader.com/">The Old R
 There is a lot of value in simple feeds and <em>Real Simple Syndication</em> (which is what RSS stands for). I love Twitter, it’s incredibly useful and fun, and I spend way too much time there. But it doesn’t do what RSS does.
 
 The end of Google Reader is unfortunate, but I think once we’ve all figured out what alternatives to use, it will be a good thing. Google pushed all the other RSS aggregators out of existence, and then mostly just sat there doing nothing. There is a good chance that the new crop of feed aggregators that is sprouting now will lead to some real innovation in this area.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://webtorque.org" rel="nofollow noopener" target="_blank">Jonathan</a> says…
->	For the DIY-minded, I've had a look at some self-hosted alternatives and have started using Selfoss (http://selfoss.aditu.de/). It's bit buggy here and there (tags not working right now for instance), but it's in active development. Has a mobile client and an API as well. I just have it running on my home PC on my DSL line and it works pretty good.
-
-Chris says…
->	I looked around a bit after Google's announcement, and have been using Brief, a Foxfire plug-in. I like it, but so far no Android app
-
-<a href="http://gravatar.com/machineryhealth" rel="nofollow noopener" target="_blank">machineryhealth</a> says…
->	Robert - thanks for the timly post. big help.
->	Chris - thanks for info about brief. I've installed it and like it.
-
-</aside>
-

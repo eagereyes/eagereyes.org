@@ -1,11 +1,3 @@
----
-title: "EuroVis 2017 Conference Report, Part 2"
-description: "On the first full day of the main EuroVis conference, we learned that estimating correlation from scatterplots may not be as great as we thought, saw a number of new ways to show what is and is not in the data, and got some new tools for making browser-based visualization fast."
-date: 2017-06-16 01:38:57
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona.jpg" width="720" height="500" /></p>
 
 # EuroVis 2017 Conference Report, Part 2
@@ -48,24 +40,3 @@ Interestingly, they cite <a href="/criticism/anscombes-quartet">Anscombe’s qua
 ## Multidimensional and Geospatial Vis
 
 <em>Nodes, Paths, and Edges: Using Mental Maps to Augment Crime Data Analysis in Urban Spaces</em> by Alex Godwin and John Stasko combines crime data with our idea about cities, like where activity concentrates, how those places are connected, and how they are divided by structures like highways, bodies of water, etc. It’s an interesting way of looking at data in a way that goes beyond the usual mapping approaches.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.crcpress.com/Applying-Color-Theory-to-Digital-Media-and-Visualization/Rhyne/p/book/9781498765497" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Thank you for sharing your observations at the conferences. It is really helpful to those of us in the VIS community not attending.  I agree that other perspectives would be insightful as well.
-
-<a href="http://mckennapsean.com" rel="nofollow noopener" target="_blank">Sean McKenna</a> says…
->	Indeed, great updates! You inspired me to start tweeting at the conference, so I tried to do that for most every paper I saw. Thanks, Robert!
->	
->	Peace,
->	-Sean McKenna
-
-</aside>
-

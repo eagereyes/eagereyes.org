@@ -1,12 +1,3 @@
----
-title: "Presidential Demographics, Part II"
-description: "Would McCain be the oldest US President? Would Obama be the youngest? Who was the youngest president? Were presidents younger in the past or older? What is the highest number of years a former president lived after leaving office? Who served the longest? Whose term was the shortest? The interactive visualization below lets you answer these and a few other questions."
-date: 2008-08-23 18:41:03
-tags: applications
-featuredImage: https://media.eagereyes.org/media/2008/presdemo.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/presdemo.png" border="0" alt="Presidential Demographics" /></p>
 
 # Presidential Demographics, Part II
@@ -26,8 +17,3 @@ You will perhaps notice the one timeline that is broken into two. <a href="http:
 <hr />
 
 The <a href="https://github.com/eagereyes/PresidentialDemographics">source code of this applet is available</a>.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "Ten Great Talks at Information+ 2016"
-description: "The Information+ Conference took place in Vancouver earlier this year. It brought together people from information visualization and information design (and design more in general). All of the talk videos are online on the website, but since there were a lot and it's kind of hard to decide where to start watching, I'm listing my favorites below."
-date: 2016-11-06 19:32:56
-tags: 
-featuredImage: 
----
-
 # Ten Great Talks at Information+ 2016
 
 The <a href="http://informationplusconference.com">Information+ Conference</a> took place in Vancouver earlier this year. It brought together people from information visualization and information design (and design more in general). All of the talk videos are online on the website, but since there were a lot and it's kind of hard to decide where to start watching, I'm listing my favorites below.
@@ -89,8 +81,3 @@ Gregor delivers the big downer at the end of the conference. He discusses the di
 There were many more talks, and you should <a href="http://informationplusconference.com/">check out the program</a> and watch them.
 
 This was the first Information+ conference, but the organizers are planning in co-locating the next one with VIS 2018 in Berlin.
-
-
-<PostedBy />
-
-

@@ -1,12 +1,3 @@
----
-title: "List of Influences: Jarke \"Jack\" van Wijk"
-description: "A colleague of mine describes Jarke van Wijk as \"somebody who has not just worked in several areas of visualization, but also written the landmark papers in each of them.\" His contributions include spot noise and image-based flow visualization, cushion treemaps (with Huub van de Wetering), optimal zooming and panning (with Wim A. A. Nuij), as well as reflections on the value of visualization. His sense of humor is also notable, and his talks are always very enjoyable. Reason enough, therefore, to consider him influential enough to ask him for a list of things  that influenced him."
-date: 2007-03-03 09:36:36
-tags: influences
-featuredImage: 
-outline: false
----
-
 # List of Influences: Jarke "Jack" van Wijk
 
 A colleague of mine describes <a href="http://www.win.tue.nl/~vanwijk/">Jarke van Wijk</a> as "somebody who has not just worked in several areas of visualization, but also written the landmark papers in each of them." His contributions include spot noise and image-based flow visualization, cushion treemaps (with Huub van de Wetering), optimal zooming and panning (with Wim A. A. Nuij), as well as reflections on the value of visualization. His sense of humor is also notable, and his talks are always very enjoyable. Reason enough, therefore, to consider him influential enough to ask him for a <a href="/blog/2007/series-introduction">list of things that influenced</a> him.
@@ -23,8 +14,3 @@ A colleague of mine describes <a href="http://www.win.tue.nl/~vanwijk/">Jarke va
 - Robert L. Harris, <a href="http://www.amazon.com/Information-Graphics-Comprehensive-Illustrated-Reference/dp/0195135326/"><em>Information Graphics: A Comprehensive Illustrated Reference</em></a>, Oxford University Press, 2000 <em>A truly amazing book, known too little in our community. An encyclopedic overview of all kinds of information graphics is given, with an incredible number of examples. I use this often as a check to see what has been done in the world outside our community.</em>
 - <a href="http://www.dk.com/">Dorling Kindersley Publishing</a> <em>The books of this publisher excel in their graphical quality. The mix of short articles with rich illustrations works very well, and I already have had much fun and pleasure with their travel guides, but also for instance with their books on geology. Their formula should work very well for explaining graphics or visualization ...</em>
 - Terry A. Slocum et al., <a href="http://www.amazon.com/Thematic-Cartography-Geographic-Visualization-Second/dp/0130351237/"><em>Thematic Cartography and Geographic Visualization</em></a>, Prentice Hall, 2003 <em>InfoVis and SciVis are just two kinds of Vis, there is much more Vis around. Cartography has a history of 2000 years, and in several senses this field is much further than our field. At least, Slocum et al. clearly point out how to make a clear and useful map. </em>
-
-
-<PostedBy />
-
-

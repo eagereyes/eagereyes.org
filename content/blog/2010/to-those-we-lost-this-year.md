@@ -1,11 +1,3 @@
----
-title: "To Those We Lost This Year"
-description: "2010 has not been a kind year for visualization. Three key people who have made a large impact in the field have passed away this year (in decreasing order of age): Jacques Bertin, Jim Thomas, and Dirk Bartz. They will be sorely missed."
-date: 2010-10-17 22:09:01
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg" alt="Jim Thomas, Dirk Bartz, Jacques Bertin" width="560" height="300" /></p>
 
 # To Those We Lost This Year
@@ -41,8 +33,3 @@ Dirk was a Professor of Computer-Assisted Surgery in Leipzig, where he was build
 Dirk was a very friendly and funny guy: I remember talking to him at VisSym 1999 (the conference is now called EuroVis) in Vienna. I was still a student back then, and was impressed with how easy it was to talk to him, and how much time he'd spend explaining things I asked him about.
 
 There are two wonderful obituaries about Dirk, <a href="http://vgtc.org/wpmu/news/2010/04/06/dirk-bartz-–-an-obituary/">one written by Klaus Mueller</a> and <a href="http://vcbm.org/news/2010/03/30/dirk-bartz-in-memoriam/">another one by Bernhard Preim</a>. There is also <a href="http://www.facebook.com/pages/Dirk-Bartz-In-Memoriam/107084542655761">an in-memoriam page on facebook</a>, as well as <a href="http://de.wikipedia.org/wiki/Dirk_Bartz">a page about Dirk on the German Wikipedia</a>.
-
-
-<PostedBy />
-
-

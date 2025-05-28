@@ -1,12 +1,3 @@
----
-title: "Bring Out Your Dreadful Charts!"
-description: "There are many terrible charts out there, whether visually ugly and cluttered, or pretty but empty or even misleading (like this beautiful pie chart example featured on Fox News recently). Andrew Vande Moere at infosthetics is hosting a competition to find the ugliest and most useless charts."
-date: 2009-11-24 23:10:25
-tags: 
-featuredImage: https://media.eagereyes.org/media/2009/foxpie.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/foxpie.jpg" border="0" alt="Pie Chart adding up to 193% on Fox News" width="548" height="411" /></p>
 
 # Bring Out Your Dreadful Charts!
@@ -25,18 +16,3 @@ Of course, ugliness is easy to detect. Just like beauty, it's only skin-deep. Th
 So the chart at the top of this posting does not qualify, even though it is obviously wrong: the percentages sum up to 193%, which makes no sense. The poll presumably asked people to name one or more candidates they would back, so there is an overlap between the opinions. The pie chart is clearly the wrong way of showing this information.
 
 It would be interesting to start teasing apart the usefulness and prettiness dimensions separately, but an ugly charts contest is a start.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://peltiertech.com/WordPress/" rel="nofollow noopener" target="_blank">Jon Peltier</a> says…
->	<p>Actually, the percentages listed in the chart are actually the approval ratings for these potential candidates among Republican voters. If you wanted a fourth wedge, so the numbers added to 251%, you could add Newt Gingrich and his 58% approval rating.</p>
-
-</aside>
-

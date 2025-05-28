@@ -1,12 +1,3 @@
----
-title: "A Browser for Data.gov"
-description: "Data.gov's selection of data is slowly growing, but even with less than 300 datasets, it is difficult to keep an overview of what is there. Below is a little Java applet that provides a way to drill down into data.gov's catalog using a variety of categories: reporting agency, geographic coverage, frequency, data type, etc. Besides giving a better idea what is there, it also shows a number of inconsistencies that make finding data more difficult."
-date: 2009-06-15 07:53:27
-tags: data
-featuredImage: https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png
-outline: false
----
-
 # A Browser for Data.gov
 
 <p align="center"><img src="https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png" border="0" alt="An Explorer for Data.gov" width="540" height="293" /></p>
@@ -32,32 +23,3 @@ Even with that, there are still a lot of obvious problems. The geographic covera
 Update: Interestingly, they seem to have updated the categories. There are no more contiguous US categories, and only three "entire US" ones. The frequency dimension is also reduced from 30 or so to only a few.
 
 While I believe that it was a good idea to get the site off the ground (and <a href="/blog/2009/dish-best-served-raw">make some raw data available</a>) rather than spend years to come up with the perfect taxonomy, this little experiment shows what happens when data from different sources is simply put into one place without too much though. If data.gov is really going to grow like expected (there were supposed to be 100,000 datasets there by the end of last week), this will become an ever bigger problem. The search and very limited browsing on the site will likely become entirely useless.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://blog.semanticvoid.com" rel="nofollow noopener" target="_blank">semanticvoid</a> says…
->	<p>the applet fails to load.</p>
-
-Robert Kosara says…
->	<p>Odd, it was showing correctly on my machine. It's fixed now, please try again.</p>
-
-<a href="http://www.ithoughts.de" rel="nofollow noopener" target="_blank">ithoughts.de</a> says…
->	<p>It worked here ...</p>
-
-Robert Kosara says…
->	<p>There was an odd caching issue in Safari - it cached the jar file from testing on a different page, even though the relative path wasn't working anymore. But it definitely should work now.</p>
-
-Robert Morton says…
->	<p>Hi Robert,</p>
->	<p>Cool applet, thanks for sharing!  I've posted <a href="http://www.tableausoftware.com/files/DataGov%20browser.twbx">a Tableau workbook I built</a> for browsing Data.gov for files that work well with Tableau (at this point only .csv/.xls).  It was most recently updated on 6/15/2009, so it will need occasional refreshes from the latest metadata.</p>
->	<p>-Robert</p>
-
-</aside>
-

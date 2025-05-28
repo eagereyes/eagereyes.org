@@ -1,11 +1,3 @@
----
-title: "VisWeek 2012 Digest, Part 3"
-description: "This final installment of the digest sums up a few more thoughts on this year's VisWeek. Inside: SciVis, BioVis, and parties!"
-date: 2012-11-18 21:30:11
-tags: VisWeek, conference
-featuredImage: 
----
-
 # VisWeek 2012 Digest, Part 3
 
 This final installment of the digest sums up a few more thoughts on this year's VisWeek. Inside: SciVis, BioVis, and parties!
@@ -41,30 +33,3 @@ All the SciVis blogs I’m aware of have been dead for years or have switched ov
 ## VIS 2013
 
 After I wrote <a href="/blog/2012/visweek-2012-digest-part-2">last week</a> that I didn’t believe in the name change from VisWeek to VIS, <a href="http://visweek.org">the website</a> was updated and it now announces VIS 2013. It’s still under the visweek.org domain, though, and in my heart, it will live forever as <em>VisWeek</em> (or for another few months or so, anyway).
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://cscheid.net" rel="nofollow noopener" target="_blank">Carlos</a> says…
->	For whatever's worth, my favorite SciVis paper was Ahmed, Zheng and Müller's work on adapting Luis von Ahn's human computation program to the evaluation and design of a better compositing operator. That was pretty cool: http://www.cs.sunysb.edu/%7Emueller/papers/HPU_vis_2012.pdf
->	
->	I also want to mention the cultural difference between InfoVis and SciVis. It accounts for some of the blogging discrepancy, since not all CS fields blog equally as much. There are better ways to measure the relative popularity of the fields, such as historical paper submission and acceptance rates. I know you have these ;)
-
-Petra Isenberg says…
->	Here a report of 4 highlighted papers about medical visualization from SciVis this year (by Steffen Oelze):
->	http://medvis.org/2012/11/19/report-on-the-medical-visualization-highlights-of-visweek-2012/
-
-<a href="http://ComplexDiagrams.com" rel="nofollow noopener" target="_blank">Noah Iliinsky</a> says…
->	Thanks for the shout out! For those interested in the Seattle Visualization meetup, please join the group at http://bit.ly/seavis
->	
->	Cheers, Noah 
->	@noahi
-
-</aside>
-

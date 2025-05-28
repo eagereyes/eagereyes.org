@@ -1,12 +1,3 @@
----
-title: "Hello from Tableau (and Seattle)!"
-description: "I am spending the entire year 2012 in Seattle, working with Tableau Software. The topics I will be working on include storytelling and Tableau Public, plus some super-secret projects even I don't know yet (mostly because we haven't decided on them)."
-date: 2012-01-18 22:07:00
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg
-outline: false
----
-
 <p align="center"><img title="Tableau Software" src="https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg" alt="" width="600" height="287" /></p>
 
 # Hello from Tableau (and Seattle)!
@@ -26,37 +17,3 @@ Try that in Excel. All of these features are also available in <a href="http://w
 Among the things most people don't know about Tableau is how successful they are. Yes, I sound like a marketing drone, but it is impressive. At the beginning of this year, the company was at over 350 employees, and they have been roughly doubling in size every year for the past few years. This year is no exception, Tableau is looking to hire a lot of people. They're working on a spiffy new careers website, though for now you can <a href="http://www.tableausoftware.com/about/jobs">check out their current offerings</a> on the old one and learn a bit more about the company. It's a very pleasant place to work, with lots of interesting people and a very friendly and open atmosphere.
 
 So despite the terminology, this is not punishment but rather a fantastic opportunity to work on some projects that are not only of current academic interest, but that will eventually make their way into a real product used by real people.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://dataremixed.com" rel="nofollow noopener" target="_blank">Ben Jones</a> says…
->	Hi Robert - Congrats! Very few "reassignments" as cool as yours, I would imagine. Also, looking forward to seeing how Tableau Public gets even better as a result of your year in Seattle!
-
-Jeffrey says…
->	Western Washington is totally miserable this week: snow, ice, falling trees, no electricity . . . Hope the rest of your year here is better!
-
-John says…
->	Sabbatical &lt; sabbath
->	
->	So once every 7 years. If your place gives them more frequently, congrats!
-
-<a href="http://www.flyingbinary.com" rel="nofollow noopener" target="_blank">Jacqui Taylor</a> says…
->	Truly great news Robert, looking forward to seeing what you and the team create. Will we see you in Barcelona?
->	
->	Jacqui
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Thanks! I won't be in Barcelona, I've already got more travel planned for this year than I should. I will be in Europe for EuroVis and Malofiej, though.
-
-<a href="http://jamescampbell.us" rel="nofollow noopener" target="_blank">James Campbell</a> says…
->	Very cool. Always wanted to try Tableau but I have a mac.
-
-</aside>
-

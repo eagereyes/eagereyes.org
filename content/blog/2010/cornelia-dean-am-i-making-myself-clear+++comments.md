@@ -1,0 +1,4 @@
+Rick Walker says…
+>	I'm not sure that visualisation is a story in itself - it's more what we find out by using it that helps form the message. That's the same in other sciences. There're some great stories you can tell about how people have used visualisation, and they're very useful in explaining the value of our work, but a lot of results aren't a very interesting story in themselves.
+>	
+>	I do agree that visualisation is poorly defined (it's not the same as graphics!), and I can't see any good way of talking about it on radio. It's hard enough trying to explain it in person at a pub (napkins and pens help a lot). On the plus side, a short video (as in, for example, your parallel coordinates multi-touch work) can make everything clear, and we're now at the stage where it's not unusual to be watching a clip to help understand something.

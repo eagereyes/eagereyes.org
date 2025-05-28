@@ -1,11 +1,3 @@
----
-title: "Blogging BOF at VisWeek 2011"
-description: "Enrico Bertini and I are organizing a birds-of-a-feather meeting on blogging. Due to some miscommunication, this has turned into two venues, one being the BOF, the other a dinner or drinks or a dinner with drinks or something. Anyway, if you're going to VisWeek, you should definitely attend."
-date: 2011-10-19 14:23:40
-tags: VisWeek
-featuredImage: 
----
-
 # Blogging BOF at VisWeek 2011
 
 Enrico Bertini and I are organizing a birds-of-a-feather meeting on blogging. Due to some miscommunication, this has turned into two venues, one being the BOF, the other a dinner or drinks or a dinner with drinks or something. Anyway, if you’re going to VisWeek, you should definitely attend.
@@ -25,8 +17,3 @@ Enrico has started a <a href="https://groups.google.com/forum/#!forum/vis-bloggi
 ## VisWeek Coverage
 
 Speaking of Blogging, I’m going to <a href="http://twitter.com/eagereyes">tweet</a> again from the conference, and I will try to write a few slightly longer posts on <a href="https://plus.google.com/105888953757264157781/posts">Google+</a>. The twitter hashtag is <a href="https://twitter.com/#!/search/%23VisWeek">#VisWeek</a>.
-
-
-<PostedBy />
-
-

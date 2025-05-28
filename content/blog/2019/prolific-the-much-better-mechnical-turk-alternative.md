@@ -1,12 +1,3 @@
----
-title: "Prolific, the (Much Better) Mechnical Turk Alternative"
-description: "Prolific is a crowd-sourcing platform for running studies. In contrast to the widely-used Mechanical Turk, it’s specific to studies, has a much better interface, pricing that’s fair to participants, and useful filters to find the right people for your study."
-date: 2019-11-04 23:17:08
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/11/prolific-teaser.png
-outline: false
----
-
 # Prolific, the (Much Better) Mechnical Turk Alternative
 
 Prolific is a crowd-sourcing platform for running studies. In contrast to the widely-used Mechanical Turk, it’s specific to studies, has a much better interface, pricing that’s fair to participants, and useful filters to find the right people for your study.
@@ -20,8 +11,3 @@ Amazon's <em>Mechanical Turk</em> is used for many empirical studies published i
 It’s really easiest if you just sign up and check it out yourself. If you’re not convinced, see some of the responses to <a href="https://twitter.com/eagereyes/status/1187773534745088000">my tweet about Prolific during VIS</a>, including from people who participate in studies.
 
 Mechanical Turk may be a good general platform for crowdsourcing, but for running studies, Prolific is far superior.
-
-
-<PostedBy />
-
-

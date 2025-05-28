@@ -1,11 +1,3 @@
----
-title: "VisWeek Preview: InfoVis Theory Workshop and Panel"
-description: "This year's VisWeek conference has a distinct theory scent. It starts with the workshop, The Role of Theory in Information Visualization on Monday, and ends with a panel on theory on Friday. There is also a related BOF and a paper session at Vis."
-date: 2010-10-19 22:10:31
-tags: VisWeek
-featuredImage: https://media.eagereyes.org/media/2010/math.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389" /></p>
 
 # VisWeek Preview: InfoVis Theory Workshop and Panel
@@ -45,8 +37,3 @@ Finally, the <a href="http://vis.computer.org/VisWeek2010/vis/sessions_papers.ht
 <hr />
 
 If you're on Twitter, <a href="http://lanyrd.com/2010/visweek/">sign up for VisWeek on Lanyrd</a> to see who else is there.
-
-
-<PostedBy />
-
-

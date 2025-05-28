@@ -1,12 +1,3 @@
----
-title: "2015 Year in Graphics Links"
-description: "A bit late, but here are links to a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year."
-date: 2016-02-01 22:47:38
-tags: blog/2015
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/02/yearingraphics2015.png
-outline: false
----
-
 # 2015 Year in Graphics Links
 
 A bit late, but here are links to a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year.
@@ -20,8 +11,3 @@ A bit late, but here are links to a few round-ups of graphical journalism work 
 </ul>
 
 And as a little palate cleanser, don't miss Quartz's <em><a href="http://qz.com/580859/the-most-misleading-charts-of-2015-fixed/">most misleading charts of 2015, fixed</a></em> and Fivethirtyeight's <em><a href="http://fivethirtyeight.com/features/our-47-weirdest-charts-from-2015/">47 Weirdest Charts From 2015</a></em>.
-
-
-<PostedBy />
-
-

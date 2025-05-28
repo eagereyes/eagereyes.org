@@ -1,11 +1,3 @@
----
-title: "Visualization Without Pictures"
-description: "A question that I have been asked a few times recently is: what about visualization for the blind? Would it make sense to provide a textual representation? What about a representation that you can feel and touch, isn't that a visualization? And is there perhaps more to visualization than just the pictures?"
-date: 2010-10-10 22:52:06
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/empty-frame.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/empty-frame.jpg" alt="" width="560" height="374" /></p>
 
 # Visualization Without Pictures
@@ -37,19 +29,3 @@ Such a description requires an understanding of the underlying properties of dif
 I am convinced that there is more to visualization than just the pictures. But that does not mean that visualization can be done without pictures; quite the opposite. What we lack is an idea of the different levels at which visualization can be understood, and an effective way to communicate that. As we develop a clearer view of all the things that visualization is, we will be able to make a better case for it, and make people see the value of this field, even if they don't (and don't want to) know all the little details.
 
 We can already do some of this: talking about visual structures in a visualization is nothing new. Perhaps one of the ways to get a deeper understanding of visualization is to put the images away for a while while we think about visualization without actually doing it.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-butch1507 says…
->	 A interesting question but I think we have other factors involved that are not mentioned.It's my belief that a form of visualization templet does exist even without vison being present .Its a older known proven strategy used for teaching letter formation that by closing the eyes and tracing the tactile outline of alphabetical letter ,that the child is able to form the letter more effectively on pencil and paper afterwords as if a visual templet is formed in the mind .I'm not sure who discovered the technique but Barbara Vittalle mentions it in  Unicorns are Real ,and I believe Eric Jenson-author  and Sally Smith -owner of the Lab School used it .
->	Butch1507
-
-</aside>
-

@@ -1,12 +1,3 @@
----
-title: "My Journey to the Kingdom of NIPS"
-description: "Over the weekend, I had the opportunity to visit the strange land of NIPS (Neural Information Processing Systems), a kingdom in the far corners of the West, where the Machine Learners dwell. Some of the noblemen there had invited me so that the locals could get a close-up look at one of us Visualization People at one of their workshops."
-date: 2010-12-12 23:32:51
-tags: 
-featuredImage: 
-outline: false
----
-
 # My Journey to the Kingdom of NIPS
 
 Over the weekend, I had the opportunity to visit the strange land of NIPS (<a href="http://nips.cc/Conferences/2010/">Neural Information Processing Systems</a>), a kingdom in the far corners of the West, where the Machine Learners dwell. Some of the noblemen there had invited me so that the locals could get a close-up look at one of us Visualization People at <a href="http://cseweb.ucsd.edu/~lvdmaaten/workshops/nips2010/">one of their workshops</a>.
@@ -24,22 +15,3 @@ NIPS is a rich and beautiful place, their king must be a proud man. When I arriv
 While he does not seem to encourage his own subjects to travel, their king does welcome outsiders into his empire. The Machine Learners I met showed a general curiosity towards visitors, if not a lot of knowledge of the happenings beyond their borders. To thank them for their hospitality, I shall speak to our Council of Elders to invite a delegation from NIPS to one of our next gatherings.
 
 As I was bidding my farewells after night had already fallen, the king's servants were preparing a lavish feast. Riding back to my humble inn, I could hear the Machine Learners' songs for many miles.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://northumbria.academia.edu/JoeFaith" rel="nofollow noopener" target="_blank">Joe Faith</a> says…
->	Great post -- dialogue with the Machine Learning (and statistics) community is vital if visualisation is going to realise its long term potential for exploratory data analysis, as well as communication. The problem is, how do you convince a member of the machine learning community that human visualisation can uncover information that algorithmic methods can't? The best answer I know is to show them Anscombe's Quartets (http://en.wikipedia.org/wiki/Anscombe's_quartet).
->	
->	Although these examples were invented to show the limits of linear regression, the lesson is bigger than that: whatever statistical test (or machine learner) someone can come up with, we can come up with examples like these -- ie that have the same statistical properties but are clearly different when visualised. (I'm pretty sure that this is a corollary of the No-Free Lunch thereom http://en.wikipedia.org/wiki/No_free_lunch_theorem, but haven't managed to prove it yet)
->	
->	joe
-
-</aside>
-

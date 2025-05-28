@@ -1,12 +1,3 @@
----
-title: "Paper: Skipping the Replication Crisis in Visualization"
-description: "Visualization doesn't have the replication issues that some other fields are struggling with right now, but is that because our science is so strong or because nobody actually bothers with replications? And what can we do to get ahead of potential problems before we run into a full-on crisis? In a paper to be presented at BELIV, Steve Haroz and I list potential pitfalls and present possible solutions."
-date: 2018-10-16 18:38:27
-tags: paper, papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg" width="772" height="250" /></p>
 
 # Paper: Skipping the Replication Crisis in Visualization
@@ -26,8 +17,3 @@ The paper will be presented at <a href="https://beliv-workshop.github.io">BELIV<
 <hr class="wp-block-separator is-style-wide"/>
 
 Robert Kosara, Steve Haroz, <a href="/publications/Kosara-BELIV-2018"><em>Skipping the Replication Crisis in Visualization: Threats to Study Validity and How to Address Them</em></a>, BELIV 2018.
-
-
-<PostedBy />
-
-

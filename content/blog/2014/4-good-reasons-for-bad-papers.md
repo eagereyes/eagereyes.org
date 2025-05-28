@@ -1,11 +1,3 @@
----
-title: "Peer Review, Part 4: Good Reasons for Bad Papers"
-description: "As a reviewer, you might sometimes ask yourself why people write so many bad papers. And why they bother submitting them. I certainly do. But where do they come from? Who submits bad papers? And why? It may come as a surprise, but there are good reasons to submit bad papers for review."
-date: 2014-01-22 20:22:30
-tags: peer-review
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/01/spam.jpg
----
-
 <p align="center"><img class="aligncenter size-medium wp-image-3080" alt="Spam" src="https://media.eagereyes.org/wp-content/uploads/2014/01/spam-730x400.jpg" width="730" height="400" /></p>
 
 # Peer Review, Part 4: Good Reasons for Bad Papers
@@ -49,8 +41,3 @@ Ultimately, there are still valid, if not always very good, reasons to submit pa
 This is part of <a href="/tag/peer-review">a five-part series on peer review in visualization</a>. One posting a day will be posted throughout this week.
 
 <a href="http://www.flickr.com/photos/bubbletea/7737891162/">Teaser image by bubbletea1</a>, used under Creative Commons.
-
-
-<PostedBy />
-
-

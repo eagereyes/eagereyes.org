@@ -1,12 +1,3 @@
----
-title: "Paper: More Than Meets the Eye: A Closer Look at Encodings in Visualization"
-description: "Encodings play a central role in visualization, but I believe our thinking about them is too simplistic. In a new paper, I argue that we need to distinguish between the encodings that specify how a visualization is drawn and the ones that are readable or actually read by an observer. While they largely or entirely overlap in some charts (like bar charts or scatterplots) they don't in others (pie charts, line charts, etc.). And what exactly do you even specify in more complex visualizations like treemaps?"
-date: 2022-04-19 18:59:44
-tags: paper
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png" width="800" height="383" /></p>
 
 # Paper: More Than Meets the Eye: A Closer Look at Encodings in Visualization
@@ -28,21 +19,3 @@ I've clearly only scratched the surface here, but I think it's an interesting to
 <hr class="wp-block-separator"/>
 
 Robert Kosara, <a href="/publications/Kosara-CGA-2022">More Than Meets the Eye: A Closer Look at Encodings in Visualization</a>, <em>Computer Graphics and Applications (CG&amp;A)</em>, vol. 42, no. 2, pp. 110-114, 2022.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamarierhyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Thank you for writing this article for the  IEEE CG&amp;A Visualization Viewpoints Department - the department I edit. Smiles, Theresa-Marie
-
-daniel jiménez says…
->	Now after having read books like those by Tufte, M.Wong, Nussbaumer Knaflic or recently Schwabish (great books) I feel that teaching dataviz is much more complex, how do we make the specific and the observable coexist in the teaching of dataviz?
-
-</aside>
-

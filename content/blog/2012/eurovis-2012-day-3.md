@@ -1,12 +1,3 @@
----
-title: "EuroVis 2012, Day 3"
-description: "I missed a few of the papers I wanted to see today, but there were again some interesting ones. The big event of the day was of course the social event at a Heuriger."
-date: 2012-06-07 23:02:56
-tags: conference, eurovis
-featuredImage: 
-outline: false
----
-
 # EuroVis 2012, Day 3
 
 I missed a few of the papers I wanted to see today, but there were again some interesting ones. The big event of the day was of course the social event <a href="http://en.wikipedia.org/wiki/Heuriger">at a Heuriger</a>.
@@ -20,18 +11,3 @@ One of the papers that I absolutely wanted to see and actually got to see is <em
 The final paper was <em>Perception of Animated Node-Link Diagrams for Dynamic Graphs</em> by Sohaib Ghani, Niklas Elmqvist, and Ji Soo Yi. They studied the difference in how well people would remember changes in graphs depending on whether the graph layout was static or changed in response to node additions or deletions. Not surprisingly, the dynamic layout caused distraction, so people did better with the static layout in all cases. The study was very well done, they even came up with a long list of metric of what could be causing distractions (edges crossing, nodes crossing edges, amount of movement, etc.). However, subjects were staring at the screen during the change; a more realistic scenario would have been somebody fiddling with a filter and missing changes in the static case, and perhaps having a chance of seeing them in the dynamic one.
 
 The day was ended with copious amounts of wine and food at a Heuriger, which is a typical Austrian thing where people go to eat and drink (a lot). Friday is going to be short, but the capstone at the end promises to be highly interesting and thought-provoking.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://web.engr.oregonstate.edu/~pham/" rel="nofollow noopener" target="_blank">Tuan Pham</a> says…
->	Dr. Kosara, thank you for your interest in our paper. I've put the links to the paper and supplemental document on <a href='http://web.engr.oregonstate.edu/~pham/projects/pulse/' rel="nofollow">the project website</a>.
-
-</aside>
-

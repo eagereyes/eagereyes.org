@@ -1,11 +1,3 @@
----
-title: "VisWeek 2012, Day One"
-description: "VisWeek 2012 started today, and it started with quite a bang. Here are some observations and highlights from the first day."
-date: 2012-10-14 22:48:53
-tags: VisWeek, conference
-featuredImage: 
----
-
 # VisWeek 2012, Day One
 
 VisWeek 2012 started today, and it started with quite a bang. Here are some observations and highlights from the first day.
@@ -25,8 +17,3 @@ There were some good discussions in the BELIV sessions today, on a variety of di
 ## BioVis
 
 I only saw a small number of papers in BioVis today. What I found really interesting are the short primers at the beginning of every session. Since a large part of the audience have little or no background in microbiology, genomics, etc., these provide some background to understand what many of the papers are about. Even in other sessions, I can imagine a brief introduction being useful to provide some context, in particular ones on evaluation, etc.
-
-
-<PostedBy />
-
-

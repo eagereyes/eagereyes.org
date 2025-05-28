@@ -1,12 +1,3 @@
----
-title: "Paper: Storytelling, The Next Step for Visualization"
-description: "Visualization is often considered to consist of three phases: exploration, analysis, and presentation. While the former two topics are covered well in the literature, there has been very little work specifically on presentation. In an upcoming paper, Jock Mackinlay and I argue that presentation, and in particular storytelling and communication of data, are the logical next step for the field, and provide some research directions."
-date: 2013-02-03 21:38:30
-tags: papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg" width="600" height="259" /></p>
 
 # Paper: Storytelling, The Next Step for Visualization
@@ -26,19 +17,3 @@ In related news, I was on a panel on storytelling with Alberto Cairo last week a
 <hr />
 
 Robert Kosara, Jock Mackinlay, <a href="/publications/Kosara-Computer-2013">Storytelling: The Next Step for Visualization</a>. <em>Computer (Special Issue on Cutting-Edge Research in Visualization)</em>, May 2013. (to appear)
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.ii.UiB.no/vis/" rel="nofollow noopener" target="_blank">Helwig Hauser</a> says…
->	Nice contribution to Computer, congratulations!  :-)  I see that you also address this interesting question of how to integrate interaction in storytelling.  In [1], we related this question to the "narrative paradox" (according to Aylett, 1999) and discussed (1) passive story consumption, (2) story playback with interactive approval, (3) semi-interactive story playback, and (4) total separation from the story in the terms of how the story decouples from its original line during telling.  Maybe that's something you find interestingly fitting to your ideas about how to make storytelling interactive?  
->	[1] Michael Wohlfart and Helwig Hauser: Story Telling for Presentation in Volume Visualization. Proceedings of the 9th Joint EUROGRAPHICS - IEEE vgtc Symposium on Visualization (EuroVis 2007), May 23-25, 2007, in Norrköping, Sweden, pp. 91-98.
-
-</aside>
-

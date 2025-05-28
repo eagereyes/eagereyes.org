@@ -1,11 +1,3 @@
----
-title: "Huge Percentages Are Meaningless"
-description: "Percentages are incredibly useful when talking about how something is a part of something larger: this many percent tax, that many percent of people are unemployed, etc. When percentages are much larger than 100, however, they lose their meaning and their usefulness. Unfortunately, they seem to be increasingly common."
-date: 2017-04-12 06:55:20
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/04/percent-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/04/percent-teaser.jpg" width="720" height="500" /></p>
 
 # Huge Percentages Are Meaningless
@@ -70,25 +62,3 @@ Numbers need to be framed in terms that make sense. Huge percentages don't. Usin
 <hr />
 
 <a href="https://www.flickr.com/photos/jeremybrooks/3195078043/">Teaser image by Jeremy Brooks</a>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-JG42 says…
->	Some companies want to avoid the percentage problems and use Basis Points instead: http://www.investopedia.com/terms/b/basispoint.asp
-
-<a href="http://richardbrath.wordpress.com" rel="nofollow noopener" target="_blank">richardbrath</a> says…
->	Even small percentages can be confusing to an average user in practice. If a stock gains 25%, you lose that gain if it falls 20%. If a stock loses 33%, you need a gain of 50% to regain where you were at.
->	 
->	In practice, log-based axes on scatterplots and linecharts can correct for the math-perception error. With a log-based axis, the length associated with the percentage gain/loss is consistent rather than using percentages. 
->	
->	Instead of labeling the log base axis in normal units, it may be interesting to label a log axis using a ratio. With such an axis, the interval from 5:1 to 1:1 is the same size as the interval from 1:1 to 1:5. Or, even big ratios can be compared 50:1 to 1:1 will be the same size as 1:1 to 1:50.
-
-</aside>
-

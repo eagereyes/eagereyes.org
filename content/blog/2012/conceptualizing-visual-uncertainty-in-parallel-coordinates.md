@@ -1,12 +1,3 @@
----
-title: "Paper: Conceptualizing Visual Uncertainty in Parallel Coordinates"
-description: "Visualization is largely defined as the transformation of data into images. Visualization tools don't have a way of assessing their output, though: were there enough pixels to represent all the data? Are there too many overlapping lines? In a paper to be presented at EuroVis next week, Aritra Dasgupta, Min Chen, and I propose a taxonomy of the different sources of uncertainty when working with parallel coordinates."
-date: 2012-05-30 20:30:00
-tags: papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/05/uncertainty-taxonomy.png
-outline: false
----
-
 # Paper: Conceptualizing Visual Uncertainty in Parallel Coordinates
 
 Visualization is largely defined as the transformation of data into images. Visualization tools don't have a way of assessing their output, though: were there enough pixels to represent all the data? Are there too many overlapping lines? In <a href="/publications/Dasgupta-EuroVis-2012" target="_blank">a paper to be presented at EuroVis next week</a>, Aritra Dasgupta, Min Chen, and I propose a taxonomy of the different sources of uncertainty when working with parallel coordinates.
@@ -26,8 +17,3 @@ The paper will be presented in <a href="http://www.cg.tuwien.ac.at/eurovis2012/p
 <hr />
 
 Aritra Dasgupta, Min Chen, Robert Kosara, <a href="/publications/Dasgupta-EuroVis-2012">Conceptualizing Visual Uncertainty in Parallel Coordinates</a>, <em>Computer Graphics Forum (Proceedings EuroVis)</em>, 2012.
-
-
-<PostedBy />
-
-

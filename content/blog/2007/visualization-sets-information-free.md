@@ -1,12 +1,3 @@
----
-title: "Visualization Sets Information Free"
-description: "Enormous amounts of information are technically freely available, but are hard to access in practice. A lot of that data comes from data collection funded by taxpayers, or from data that needs to be reported for legal reasons. While much of that data has been lying around on the Internet for some time, only recently have people started building tools that make it easy (and often even fun) to play with it. Even though the types of data are very different, all these tools have one thing in common: they are primarily visual."
-date: 2007-04-04 21:43:42
-tags: 
-featuredImage: https://media.eagereyes.org/media/attachments/flowerpoint6.gif
-outline: false
----
-
 <p align="center"><img title="FlowerPoint - gapminder.org" src="https://media.eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376" border="0" /></p>
 
 # Visualization Sets Information Free
@@ -28,20 +19,3 @@ In his article <em><a href="http://hybrid.ucsc.edu/SocialComputingLab/Publicatio
 <hr />
 
 Update: replaced the image with one that I ripped off <a href="http://www.gapminder.org/">gapminder</a>'s <a href="http://www.gapminder.org/downloads/presentations/flowerpowerpoint-2004.html">FlowerPoint</a>.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.scriptcloud.com" rel="nofollow noopener" target="_blank">Stewart McKie</a> says…
->	Robert
->	
->	Thought you might be interested in my use of content clouds to visualize screenplays at www.scriptcloud.com. Next step is to figure out how to use these visualizations for more interactive exploration of the data.
-
-</aside>
-

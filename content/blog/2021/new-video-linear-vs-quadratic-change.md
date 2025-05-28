@@ -1,12 +1,3 @@
----
-title: "New Video: Linear vs. Quadratic Change"
-description: "Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE."
-date: 2021-06-15 07:29:42
-tags: eagereyestv
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/06/LvQ-Thumbnail.jpeg
-outline: false
----
-
 # New Video: Linear vs. Quadratic Change
 
 Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE.
@@ -22,30 +13,3 @@ Below is the teaser, <a href="https://youtu.be/BW3YNLsmn8U">watch the full video
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Z9IibfqOEt4?si=LnmSVx-F4SDMkU2a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 As always, let me know what you think! This is a different approach than my other videos, does it work?
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Helwig Hauser says…
->	Dear Robert, thank you for this video!  
->	
->	I'm glad to see that you point your finger at this topic and, as you, also I find myself irritated when seeing charts that depict a linear data relationsship as a quadratic area relationsship.  It's pretty clear that this is wrong.  But what's right?  
->	
->	After some exchange with others, I find this question much harder to answer, actually.  Li et al.'s work from 2010 [1], for ex., suggests that the truth is somewhere in the middle.  
->	
->	If you'd consider the following three sequences: https://folk.uib.no/hha109/LinVsArea/Ruf.PNG https://folk.uib.no/hha109/LinVsArea/Sir.PNG https://folk.uib.no/hha109/LinVsArea/Tau.PNG -- which one, would you say, corresponds, perceptually, to a linear data sequence?  
->	
->	Do you know of other studies that attempted to actually derive the right mapping?  
->	
->	I'd expect that it easily may depend on the aspect ratio of the scaled area, as well.  
->	
->	[1] J. Li, J.-B. Martens, J. J. van Wijk: A model of symbol size discrimination in scatterplots; Proc. of CHI 2010, pp. 2553–2562
-
-</aside>
-

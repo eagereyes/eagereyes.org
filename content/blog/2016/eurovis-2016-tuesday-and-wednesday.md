@@ -1,11 +1,3 @@
----
-title: "EuroVis 2016, Tuesday and Wednesday"
-description: "EuroVis 2016 is happening this week in Groningen, The Netherlands. This is the report from the first two-and-a-half days,  which saw some symposia, a keynote, and many paper presentations."
-date: 2016-06-08 13:22:30
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg" width="825" height="510" /></p>
 
 # EuroVis 2016, Tuesday and Wednesday
@@ -59,28 +51,3 @@ EuroVis feels kind of low-key this year. The large room, even though it's called
 While the talks are all solid, I'm confused by the lack of online materials. Our pie charts paper was the only talk with links to materials, and there was only one other talk that had a link to the paper. This was quite different at InfoVis, where many talks had links to landing pages for their papers.
 
 There also isn't much going on on Twitter. My tweets <a href="https://twitter.com/eagereyes/timelines/733779814738317312">are collected here</a>, and there's some activity under the <a href="https://twitter.com/search?q=EuroVis%20OR%20EuroVis2016&amp;src=typd">EuroVis and EuroVis2016</a> hashtags (though I wish everybody would join forces under <em>#EuroVis</em>, which is shorter). But there's much less than I would have expected.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamariehyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Thanks for the summary of your first days at EuroVis 2016.
-
-<a href="http://randomstratum.wordpress.com" rel="nofollow noopener" target="_blank">Boris Gorelik</a> says…
->	&gt; Comparing Bar Chart Authoring with Microsoft Excel and Tangible Tiles by Tiffany Wun, Jennifer Payne, Samuel Huron, and Sheelagh Carpendale had people create and modify bar charts either in Excel or using little physical tiles. They found some interesting differences, like the fact that it’s faster to create charts in Excel than with tiles, but modifying them takes longer. The comparison clearly has its limits, but their aim is to look for hybrid models of interacting with visualizations.
->	
->	What a nice comparison. I also enjoyed reading (some of) the linked paper.
-
-Alexander Rind says…
->	Thanks a lot for your coverage, Robert.
->	
->	I think one reason why few EuroVis pages are available online is that EuroGraphics publishing agreement allows copies on author's websites only AFTER official publication, whereas IEEE VIS has no such embargo period. Quite out-of-time as IMHO the openness will raise interest in the conference.
-
-</aside>
-

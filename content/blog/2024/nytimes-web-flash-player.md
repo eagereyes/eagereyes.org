@@ -1,12 +1,3 @@
----
-title: "The New York Times now has a web Flash player"
-description: "Before we had D3 and all this fancy web technology, interactive news pieces on the web were usually built using Adobe Flash. Since the demise of Flash, they have all been broken, but now the NY Times has added a web-based Flash player to their archives so they can be experienced again in all their interactive glory!"
-date: 2024-01-08 20:07:34
-tags: journalism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png" width="646" height="485" alt="screenshot of the last step of the NY Times pieces titled, Turning A Corner" /></p>
 
 # The New York Times now has a web Flash player
@@ -31,5 +22,3 @@ Edit: a few more, suggested by people on Bluesky:
 And there are many more I can't think of right now. What's kind of funny is that now that the Flash pieces are working again, it's even more painful to see some other pieces be broken that don't even use Flash (like [this one, where a few of the steps don't work](https://archive.nytimes.com/www.nytimes.com/interactive/2013/04/16/science/disease-overlap-in-elderly.html))
 
 It's a great move, and I really hope that more news outlets will follow suit – looking at you, Washington Post!
-
-<PostedBy />

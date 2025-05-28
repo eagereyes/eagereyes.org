@@ -1,11 +1,3 @@
----
-title: "Peer Review, Part 2: How It Works"
-description: "Peer review is one of the central pillars of academic publishing. But how does it actually work? What is blind review, and what is it good for? This part will answer those questions, and then tell you how to be a good reviewer yourself."
-date: 2014-01-20 21:12:30
-tags: peer-review
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/01/justitia-cropped.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/justitia-cropped.jpg" width="730" height="430" ></p>
 
 # Peer Review, Part 2: How It Works
@@ -51,18 +43,3 @@ Reviewing can be interesting and it can be annoying. But either way, it’s an i
 This is part of <a href="/tag/peer-review">a five-part series on peer review in visualization</a>. One posting a day will be posted throughout this week.
 
 <a href="http://flic.kr/p/5xHEiQ">Teaser image by Dirk Schaefer</a>, used under Creative Commons.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Sean McKenna says…
->	To share an experience: a paper that I recently submitted to TVCG only came back with two reviewers on it. I was informed that this is a rare case, but it can happen.
-
-</aside>
-

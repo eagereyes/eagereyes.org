@@ -1,12 +1,3 @@
----
-title: "Review: Chabris, Simons, The Invisible Gorilla"
-description: "Inattentional and change blindness are two fascinating phenomena that more people should be aware of. The Invisible Gorilla describes them as well as some other interesting and surprising psychological research."
-date: 2013-06-12 21:17:35
-tags: book-reviews, cognition, attention, criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg
-outline: false
----
-
 # Review: Chabris, Simons, The Invisible Gorilla
 
 <p align="center"><img class="aligncenter size-full wp-image-2408" alt="The Invisible Gorilla" src="https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg" width="600" height="301" /></p>
@@ -26,18 +17,3 @@ Regarding cell phones and other tasks, Chabris and Simons describe a study from 
 >	To explore the effects of cell phone conversations on inattention directly, Brian Scholl and his students at Yale used a variant of the “red gorilla” computerized task described earlier and compared a group who performed the task as usual with one that performed it while simultaneously carrying on a cell phone conversation. In their particular variant of the task, about 30 percent of the participants missed the unexpected object when they were just doing the tracking task. However, participants who performed the task while talking on a phone missed the unexpected object 90 percent of the time!
 
 People want to be increasingly connected, but their ability to attend to all that information does not change. Chabris and Simons' work is becoming more relevant as the number of distractions increases.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-E says…
->	it was a woman in the gorilla suit
-
-</aside>
-

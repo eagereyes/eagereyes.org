@@ -1,11 +1,3 @@
----
-title: "The State of Information Visualization"
-description: "Information Visualization (InfoVis) is an exciting field to watch grow and expand into ever new areas. Last year brought some interesting developments that point towards changes in how we do and see visualization. What does 2010 hold in store? Here is a look back and some ideas where we're heading."
-date: 2010-01-06 08:25:53
-tags: state-of-infovis
-featuredImage: https://media.eagereyes.org/media/2010/minard.jpg
----
-
 <p align="center"><img alt="Minard's &quot;Napoleon's March to Moscow&quot;, Protovis demo" src="https://media.eagereyes.org/media/2010/minard.jpg" width="560" height="173" /></p>
 
 # The State of Information Visualization
@@ -47,38 +39,3 @@ Bioinformatics will keep us busy for some time. There is a lot of data there, an
 Another very promising area is journalism. As it is increasingly based on data, InfoVis will play a bigger role in the analysis that leads to a story, as well as its presentation. At the moment, charts are only done to support a story and to give people something to play with. But why not make the visualization the central element, and only provide textual explanations as needed? To make that feasible, much better tools for creating visualizations will be needed that do not require programming but still enable the user to create new types of highly specific visualizations.
 
 It's safe to say that we will not run out of interesting work anytime soon. We will need to break out of the ivory tower more if we want to stay relevant, though. Given the visual nature of our field, that should not be too difficult, though.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.thetimoneygroup.com" rel="nofollow noopener" target="_blank">Brian Timoney</a> says…
->	<p> </p>
->	<p>Tools and scripting languages are certainly worthy of discussion, but the larger challenge is/has always been reaching an audience with the tools to grasp intuitively the messages being communicated.</p>
->	<p><br />So while the cognoscenti may rail against pie charts, it's a visual grammar that is familiar and comfortable, no matter how misleading.</p>
->	<p>As someone from the mapping community, I joke that CNN's election maps were the best thing to happen to my business (sure, they can be simplistic and misleading as well).</p>
->	<p>What excites me is not necessarily the toolsets but rather that through the work of folks such as the NY Times, Google Finance, etc., there's a much broader exposure to advanced ways of looking at data.</p>
->	<p>I'll end with the declaration that we techies get too hung up on products and in-crowd debates (e.g. JavaScript vs. Flash vs. Java).  Rather the common enemy is the static screen capture from Excel ("Next --&gt; Next --&gt; Finish") embedded in a Power Point slide on which are based million-dollar decisions every day.</p>
->	<p>Brian Timoney</p>
->	<p> </p>
-
-<a href="http://spotfireblog.tibco.com/" rel="nofollow noopener" target="_blank">@Brett2point0</a> says…
->	<p>An ever evolving conversation, for certain!  Here's to 2010 and the road ahead...</p>
-
-Li Tan says…
->	<p>It is really a very wonderful summary of the state of visualization.</p>
->	<p>The Protovis make a big leap for web-based visualizaton site from visualization provider to function-provider. Maybe we can look forward for aother leap ... :-)</p>
->	<p>The emergence of "<span class="SubTitle">Models and Theories" session turn visualization from creative technique to a theory based science. Although there are some guideline for visualiztion design varing from Ben </span>Shneiderman's mantros to Tuft<span class="SubTitle">'s principle,  I believe everyone has their own guidelines for information visualiztion design decision. It is a good time to put them together to discuss and purify.</span></p>
->	<p><span class="SubTitle">There are indeed a lot of excellent works on bioinformatics, but I prefer the visualiztion on general problem in our daily life and hope the visualization can aid general user by facilitating the their communicative an analytical activities. <br /></span></p>
-
-<a href="http://marlenacompton.com" rel="nofollow noopener" target="_blank">Marlena Compton</a> says…
->	<p>So where does this leave Processing?  I've been writing an application in Processing so that I could bring in functional programming with Scala.  If Protovis integrates with javascript, how will it address the need for concurrency?  The reason I'm concerned is that my data gathering step took 3 hours with the java I wrote this Summer.  My inferior programming skills aside, is there a concurrent way to do the "suck up the data" step if I'm using ProtoVis?  Just curious.</p>
->	<p>Nice review :o)</p>
-
-</aside>
-

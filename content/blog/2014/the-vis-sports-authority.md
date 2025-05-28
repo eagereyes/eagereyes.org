@@ -1,11 +1,3 @@
----
-title: "The VIS Sports Authority"
-description: "When you think of a conference, does sitting around a lot come to mind? Lots of food? Bad coffee? No time to work out? For the first time in VIS history, there will be a way to exercise your body, not just your mind. The VIS Sports Authority, which is totally an official thing that I didn’t just make up, will kick your ass at VIS 2014."
-date: 2014-10-19 15:35:44
-tags: IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/10/le-tour-de-vis.png
----
-
 <p align="center"><img class="aligncenter size-medium wp-image-8407" src="https://media.eagereyes.org/wp-content/uploads/2014/10/le-tour-de-vis-730x131.png" alt="Le Tour de VIS" width="730" height="131" /></p>
 
 # The VIS Sports Authority
@@ -34,8 +26,3 @@ The course should be different every day to get some variety, and will depend on
 I’m embedding a form below (<a href="https://docs.google.com/forms/d/1FfhDito5WFw_LOL9bEaIC7wo0Kd0ZmmSrWzbIoXhy4w/viewform?usp=send_form">also available here</a>) to collect some information about when and how far people want to go, and to get people’s names so I can follow up later.
 
 <iframe src="https://docs.google.com/forms/d/1FfhDito5WFw_LOL9bEaIC7wo0Kd0ZmmSrWzbIoXhy4w/viewform?embedded=true" width="700" height="1040" frameborder="0" marginwidth="0" marginheight="0">Loading…</iframe>
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "Highlights from EuroVis 2019, Part 2"
-description: "This is the second part of my highlights from EuroVis earlier this year in Porto, Portugal. There are papers about decision making and interaction, as well as a report on the capstone talk and a look to next year’s conference, which will be a bit different."
-date: 2019-09-02 17:00:28
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/09/11526F34-8208-4DAB-B21B-A25A99A199E6.jpeg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/11526F34-8208-4DAB-B21B-A25A99A199E6.jpeg" width="1024" height="768" /></p>
 
 # Highlights from EuroVis 2019, Part 2
@@ -41,8 +33,3 @@ Next year’s conference will take place May 25–29 in Norrköping, Sweden. The
 While I appreciate Anders Ynnerman’s enthusiasm for the concept, I’m not sure there really is all that much overlap between the graphics and visualization communities, at least in information visualization. The scientific visualization folks might find they have more in common. But then, this could be a good way to inspire some interesting and unexpected new work if they can get the attendees of the two conferences to mix.
 
 While I griped at some length in <a href="/blog/2019/highlights-from-eurovis-2019-part-1">the first part</a> about the conference program this year feeling a bit thin, I clearly did find enough to write about to fill two posts.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "My Review of Visualize This and Visual Complexity for Science Magazine"
-description: "I was asked to write a review of two recent visualization books for Science: Nathan Yau's Visualize This and Manuel Lima's Visual Complexity. The piece appeared in the last issue of 2011, right before Christmas. Below is a link and some additional comments on the review and the two books."
-date: 2012-01-04 21:33:54
-tags: book-reviews, criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png
----
-
 <p align="center"><img title="Book review for Science Magazine" src="https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png" alt="" width="600" height="381" /></p>
 
 # My Review of Visualize This and Visual Complexity for Science Magazine
@@ -41,21 +33,3 @@ You can read the review by following the link below to my vanity website and the
 <hr />
 
 Robert Kosara, <a href="/publications/Kosara-Science-2011">The Art and Craft of Portraying Data</a>. <em>Science</em>, vol. 334, no. 6063, pp. 1643–1644, 2011.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.scatterbrain.nl" rel="nofollow noopener" target="_blank">Marilyn</a> says…
->	You can visualize all your ideas and concepts with mindmapping! I use this extremely simple tool http://www.scatterbrain.nl you don't need an account. Scatterbrain is pretty cool.
-
-IW says…
->	That site contains malware. My browser blocked me from going to it, lol.
-
-</aside>
-

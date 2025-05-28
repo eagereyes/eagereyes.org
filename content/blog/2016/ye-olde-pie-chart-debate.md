@@ -1,11 +1,3 @@
----
-title: "Ye Olde Pie Chart Debate"
-description: "You may think that the debate over pie charts was a new one, but it has raged on for at least 100 years. Brinton started it in 1914, and great drama unfolded in the pages of the Journal of the American Statistical Association in the 1920s."
-date: 2016-03-14 20:20:42
-tags: pie-charts, history
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/04/brinton-pie.gif
----
-
 # Ye Olde Pie Chart Debate
 
 You may think that the debate over pie charts was a new one, but it has raged on for at least 100 years. Brinton started it in 1914, and great drama unfolded in the pages of the <em>Journal of the American Statistical Association</em> in the 1920s.
@@ -58,21 +50,3 @@ What also hasn't changed is the intense debate. Many studies have been run in th
 When Cole Nussbaumer declares <em><a href="http://www.storytellingwithdata.com/2015/03/the-great-pie-debate.html">Death to Pie Charts</a>,</em> or Kaiser Fung criticizes a pie chart in <a href="http://junkcharts.typepad.com/junk_charts/2016/03/which-way-to-die-the-bard-asked-onelesspie.html">his Pi Day posting</a>, they are following an old tradition. Despite all that, though, pie charts do not appear to be going away anytime soon.
 
 Happy Pi(e) Day!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.lri.fr/~dragice/" rel="nofollow noopener" target="_blank">Pierre Dragicevic</a> says…
->	Thanks for the post. The work of these precursors shouldn't be forgotten and deserves to be more frequently acknowledged in infovis. I also recommend this nice survey: Macdonald-Ross, Michael. "How Numbers are Shown: A Review of Research on the Presentation of Quantitative Data in Texts." AV Communication Review 25.4 (1977): 359-409.
-
-<a href="http://civilstatistician.wordpress.com/" rel="nofollow noopener" target="_blank">Jerzy</a> says…
->	Thanks for the history lesson! Cleveland's "Elements of Graphing Data" mentions this ancient debate (on the last page, at least in 1st edition), but I had not seen the actual contents of the debate.
-
-</aside>
-

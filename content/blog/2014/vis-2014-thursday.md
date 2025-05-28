@@ -1,11 +1,3 @@
----
-title: "VIS 2014 – Thursday"
-description: "Thursday was the penultimate day of VIS 2014. I ended up only going to InfoVis sessions, and unfortunately missed a panel I had been planning to see. The papers were a bit more mixed, but there were agains some really good ones."
-date: 2014-11-13 23:16:04
-tags: conference, IEEEVIS
-featuredImage: 
----
-
 # VIS 2014 – Thursday
 
 Thursday was the penultimate day of VIS 2014. I ended up only going to InfoVis sessions, and unfortunately missed a panel I had been planning to see. The papers were a bit more mixed, but there were agains some really good ones.
@@ -37,8 +29,3 @@ Everybody talks about visual literacy in visualization, but nobody really does a
 ## The Podcasting Life
 
 Moritz and Enrico asked me to help them record a segment for the VIS review episode of the <a href="http://datastori.es">Data Stories podcast</a>. You can listen to that in all its raw, uncut glory by <a href="https://www.dropbox.com/s/avrrkxio3shd3pr/vis-02.m4a?dl=0">downloading the audio file</a>.
-
-
-<PostedBy />
-
-

@@ -1,0 +1,6 @@
+Theresa-Marie Rhyne says…
+>	Thanks Robert for all of your efforts in preparing this Visualization Viewpoints article.
+>	Smiles... Theresa-Marie Rhyne, Visualization Viewpoints Editor
+
+<a href="http://datavisualised.com/" rel="nofollow noopener" target="_blank">Rabii Bouhestine</a> says…
+>	I just started a blog about data visualisation and this article was realy helpful for me, thanks !

@@ -1,11 +1,3 @@
----
-title: "VisWeek Bingo, Interactive Edition 2011"
-description: "Last year's VisWeek Bingo was a big success, but it was also conceived of and created in such a rush that I'm embarrassed to even link to it now. For this year, I have created an interactive version of it for your perusal and amusement. It uses code Steve Streza developed for his Apple Keynote Bingo."
-date: 2011-10-10 21:28:38
-tags: VisWeek
-featuredImage: https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170" /></p>
 
 # VisWeek Bingo, Interactive Edition 2011
@@ -28,27 +20,3 @@ I already received a few good suggestions from Wolfgang Freiler, Jérôme Cukier
 
 Just click on the image below:
 <p class="img"><img src="https://media.eagereyes.org/media/2011/visweek-bingo.png" alt="" width="600" height="400" /></p>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.theusRus.de/blog" rel="nofollow noopener" target="_blank">Martin Theus</a> says…
->	... great post, is there anything more to say? Given all the ingredients, we now could simulate visweek altogether. Or vice versa, if something at visweek does not match enough of the above points, it must be a really interesting presentation - maybe. Isn't it good to have models for everything!
-
-<a href="http://vislives.com" rel="nofollow noopener" target="_blank">Chris Pudney</a> says…
->	Great list of squares.  You might consider adding:
->	
->	+ screen saver kicks in during presentation
->	+ animated transitions between slides
->	+ use of clipart
->	+ chair allows speaker to overrun allotted time
->	+ use of Excel charts (with default colours)
-
-</aside>
-

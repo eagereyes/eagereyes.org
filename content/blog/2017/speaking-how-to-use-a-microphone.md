@@ -1,12 +1,3 @@
----
-title: "Speaking: How to Use A Microphone"
-description: "When you’re speaking in front of an audience, you’re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can’t do that if you don’t know how to use it or if you actively work against it."
-date: 2017-11-09 14:57:59
-tags: speaking
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg" width="720" height="480" /></p>
 
 # Speaking: How to Use A Microphone
@@ -34,26 +25,3 @@ What’s the point of giving a talk if people can’t hear you? If they’re str
 See also <a href="/blog/2016/common-speaking-mistakes-to-avoid">my other posting about common speaking mistakes</a>!
 
 <a href="https://www.flickr.com/photos/lincolnblues/6262298600">Teaser image by Craig Piersma</a>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://www.mmontoyaconsultancylimited.co.uk/" rel="nofollow noopener" target="_blank">Marie</a> says…
->	Thank you Robert
->	This seems so obvious when you read it,  but as an intermittent speaker I forget things like the microphone are just as important as all the effort I have put into the presentation.
-
-Wayne says…
->	Great article! I would also add that "lapel" or "lav" mic placement can be a little tricky. For best sound, they should be located over your sternum -- say between the second and third buttons down a collared shirt. Higher might seem better -- closer to your mouth -- but that can also place it in the shadow of your chin and cause it to be harder to understand. Similarly, if you literally attach it to a jacket lapel on one side, try to place it on the side you'll be looking towards most often -- the audience, the screen -- since a lecturer is often not symmetrically placed and only looking straight out into the audience.
->	
->	At a conference, don't worry about trying to hide the mic -- that increases the odds that clothing will rub on it every time you move. 
->	
->	(On a side note, professional speakers now-a-days will often use those small boom-like mics that run along their cheeks: it guarantees the mic is close to your mouth no matter what way you turn, but not in front of your mouth so that you won't have popping sounds from percussives ("p", "t", etc). They're expensive and easily damaged and not necessary for a parade of conference speakers. But to some degree "lapel" mics are outdated. For actors on stage, they'll often place the mic at the front of their hairline, hidden in their hair.)
-
-</aside>
-

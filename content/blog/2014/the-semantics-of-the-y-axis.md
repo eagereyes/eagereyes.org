@@ -1,11 +1,3 @@
----
-title: "The Semantics of the Y Axis"
-description: "The vertical axis is not just important because it embodies one of the most important visual properties, but also because it is much more semantically loaded than the horizontal. Not only does the right choice of mapping help with reading a chart, it can also be confuse people if done wrong."
-date: 2014-09-07 19:53:04
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/09/up-worldcup.png
----
-
 # The Semantics of the Y Axis
 
 The vertical axis is not just important because it embodies one of the most important visual properties, but also because it is much more semantically loaded than the horizontal. Not only does the right choice of mapping help with reading a chart, it can also be confuse people if done wrong.
@@ -43,24 +35,3 @@ I already wrote about <a href="/journalism/when-bars-point-down">this topic in t
 <p align="center"><img class="aligncenter size-medium wp-image-8319" src="https://media.eagereyes.org/wp-content/uploads/2014/09/obama-job-loss-chart-730x407.png" alt="obama job loss chart" width="730" height="407" /></p>
 
 Larger numbers being up in line charts, bar charts, scatterplots, etc., may be the default in practically all visualization tools (and that makes sense), but it should not just be accepted without thinking about it. The vertical direction should be chosen with care, because it communicates a lot about how to read a chart. And getting it wrong can cause considerable confusion.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-gilgongo says…
->	As to Jawbone, do we really need a chart to reveal to us the fact that the closer people were to the epicentre of an earthquake in the middle of the night, the more likely they were to wake up?
-
-Stefano says…
->	Speaking of up making good, the a few exceptions (as is usually the case with the English language). "Breaking down" is bad but so is "breaking up". And how can "downhill" and "uphill" both be negative? "It's all downhill from here" vs an "uphill struggle". What about "messed up" and "hold up"? Any more? What about positive "down" terms?
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Well, it's not that simple. Not every use of "up" has that sort of meaning, "breaking up" and "messed up" are clearly examples of that. Your "uphill battle" example is wrong, though: what's negative about it is that it's hard to fight when you're also moving up a hill (think carrying heavy weapons up a hill), while the enemy can throw and roll things down at you. This isn't purely metaphorical, this comes from actual use in the past. There is some context here beyond just the direction.
-
-</aside>
-

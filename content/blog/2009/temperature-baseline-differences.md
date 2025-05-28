@@ -1,12 +1,3 @@
----
-title: "Temperature Baseline Differences"
-description: "Tableau started the beta of its Tableau Public program today, and what better way to kick the tires than to run some more climate data through it? Below, you can look at temperature data from 343 weather stations over twenty years (77172 obervations) to compare the difference from the baseline numbers in the 1970s and 2000s."
-date: 2009-12-16 21:03:02
-tags: data
-featuredImage: https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png" alt="Climate Differences" width="536" height="232" /></p>
 
 # Temperature Baseline Differences
@@ -20,24 +11,3 @@ After the discussion about baseline data in <a href="/data/a-look-at-climate-dat
 You can pick years for the left and right displays below the map to compare different years. While you can select any years you like, the idea is to compare years from the 70s to years from the 00s. Doing that, you will notice that while temperatures tended to vary around a difference of 0&ordm; from the baseline in the 1970s, they are now mostly above 0. It's getting warmer.
 
 <p align="center"><img src="https://media.eagereyes.org/media/2009/climate-dashboard.png" width="551" height="719" /></p>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Anonymous says…
->	<p>Interesting graphics etc.</p>
->	<p>Your "It's getting warmer" is not really a surprise, since it was the 1970s (when some people, including scientists but especially the popular media) were reporting on the threat of global cooling.</p>
->	<p>I know the anomaly baseline only provides a relative key for comparison and previous commentators explain that whatever is chosen is arbitrary which is mathematically true, the psychology of seeing a graph with a straight baseline with anything deviating from it called an anomaly (<strong>Anomaly</strong>: DEVIATION OR DEPARTURE FROM THE NORMAL) is one of the many sleights of hand of the climate alarmists.</p>
->	<p>When they can plot a rolling anomaly curve with 1998 El Nino +.3 and the current flatline on it, then they might be able call it an anomaly.</p>
-
-Pamela Gray says…
->	<p>The above single year 1969 compared to the single year 1999 is comparing weather years, not climate years.  The conclusion, "It's getting warmer." cannot be made based on the data selected.  Rather it can be observationally summarized that the year 1999 was warmer than the year 1969.  It is better for you to say that you have collected an observation and made a summary statement.  As this is only the first step in your scientific method, you have a long way to go before such a conclusion has you have postulated can be made.  Do you have an hypothesis as to why there is this difference between these two years?</p>
-
-</aside>
-

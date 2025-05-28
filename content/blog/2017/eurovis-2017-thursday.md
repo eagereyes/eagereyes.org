@@ -1,11 +1,3 @@
----
-title: "EuroVis 2017 Conference Report, Part 3"
-description: "Thursday and Friday at EuroVis brought a few papers on storytelling, a new toolkit for running online studies, a better way to put your list of publications online, and a lot more."
-date: 2017-06-18 18:17:34
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona-sunset.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona-sunset.jpg" width="720" height="500" /></p>
 
 # EuroVis 2017 Conference Report, Part 3
@@ -63,8 +55,3 @@ EuroVis is a good conference, and its a good addition to VIS. There were some go
 A few years ago, EuroVis started to provide lunch to attendees. I think that’s a really good idea, since it means that people can mingle and chat, rather than disperse to find food. It also means that people are more likely to show up for the afternoon sessions on time.
 
 Next year, the conference will take place in Brno, Czech Republic, June 4 to 8.
-
-
-<PostedBy />
-
-

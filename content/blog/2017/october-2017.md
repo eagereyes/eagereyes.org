@@ -1,11 +1,3 @@
----
-title: "Vis Potpourri, October 2017"
-description: "A potpourri isn't usually structured, since it's supposed to be thrown together and mixed. But this one has a section on reports from this year's VIS conference, plus various miscellaneous items like a tool to explore a brain atlas, some history on spreadsheets, and a celebration of Archer, among other things."
-date: 2017-10-25 03:07:15
-tags: vis-potpourri
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/archer-vis.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/archer-vis.jpg" width="720" height="500" /></p>
 
 # Vis Potpourri, October 2017
@@ -37,8 +29,3 @@ If you're a fan of the tv series <em>Archer</em>, head over to the aptly titled 
 <hr />
 
 <a href="/section/vis-potpourri">Vis Potpourri</a> is a monthly series, put together in collaboration with <a href="http://noeskasmit.com/about/">Noeska Smit</a>.
-
-
-<PostedBy />
-
-

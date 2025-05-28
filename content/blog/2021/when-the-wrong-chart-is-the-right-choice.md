@@ -1,11 +1,3 @@
----
-title: "When the Wrong Chart Is the Right Choice"
-description: "We all agree that the direction of the bars in a bar chart should correspond to the direction in which the values grow. Or do we? When it comes to running or audio recording and processing, it turns out that the seemingly wrong choice can be the right one – because a more semantically meaningful representation can help us understand and use the data much more easily."
-date: 2021-06-27 18:05:14
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2021/06/undeararmour-bars.jpeg
----
-
 # When the Wrong Chart Is the Right Choice
 
 We all agree that the direction of the bars in a bar chart should correspond to the direction in which the values grow. Or do we? When it comes to running or audio recording and processing, it turns out that the seemingly wrong choice can be the right one – because a more semantically meaningful representation can help us understand and use the data much more easily.
@@ -65,8 +57,3 @@ Visualization dogma of course does not allow such unevenly-spaced axes. But many
 I think this little discussion highlighted something important about how we need to think about charts in the context of expertise and use. We aren’t chart-reading machines that mechanically follow supposed chart rules when working with charts. We can adapt. We can use our intelligence. We can read axis labels. We can understand context.
 
 Distorted axes can be a problem, no doubt. But distortion isn’t always wrong, and in fact sometimes is the better way to go. Use case, convention, and expertise trump visualization rules any day. And I think these two examples, in particular the one about running, is one that many people can relate to who otherwise would scoff at the outrageously bad charts used by experts in some field they don’t understand.
-
-
-<PostedBy />
-
-

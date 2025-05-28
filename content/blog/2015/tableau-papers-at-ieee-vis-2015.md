@@ -1,11 +1,3 @@
----
-title: "Tableau Papers at IEEE VIS 2015"
-description: "My colleagues at Tableau Research have three papers at InfoVis next week. They cover guided data exploration, color theory, and data partitioning. Here's a little preview."
-date: 2015-10-21 17:30:06
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/10/tableau-vis-papers-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/tableau-vis-papers-teaser.jpg" alt="" width="825" height="360" /></p>
 
 # Tableau Papers at IEEE VIS 2015
@@ -41,8 +33,3 @@ This requires some advanced statistics that I won't go into (even though I total
 These three papers make for a nice set that embodies what Tableau Research aims to do: deep, innovative work that is also practical and that you can imagine being built into visualization systems.
 
 More of our papers can be found on the <a href="https://research.tableau.com/papers">Tableau Research website</a>.
-
-
-<PostedBy />
-
-

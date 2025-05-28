@@ -1,12 +1,3 @@
----
-title: "WTFViz, ThumbsUpViz, and HelpMeViz"
-description: "I have complained, repeatedly, about the lack of good online resources for visualization; in particular, when it comes to discussion and critical reflection. Also, where can you go to get help with a visualization project? A few recent websites are tackling these issues in different ways."
-date: 2014-01-05 21:31:23
-tags: web
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz.jpg
-outline: false
----
-
 <p align="center"><img class="aligncenter size-medium wp-image-2973" alt="WTFViz" src="https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz-730x280.jpg" width="730" height="280" /></p>
 
 # WTFViz, ThumbsUpViz, and HelpMeViz
@@ -23,8 +14,3 @@ A slight variation on this is <a href="http://accidental-art.tumblr.com">acciden
 Finally, <a href="https://twitter.com/jschwabish">Jon Schwabish</a> recently started <a href="http://helpmeviz.com">HelpMeViz</a>, which is meant to provide feedback and inspiration. You can <a href="http://helpmeviz.com/howitworks/">send him</a> a description of your data and your attempts, and readers can then suggest alternatives and even create visualizations for you. It’s a good idea, and the interaction so far is very promising, considering that the site is only a month old or so.
 
 Where is this going? I have a feeling that we’re starting to see more interesting new websites dealing with visualization, both in terms of criticism (finally!) and in terms of hands-on help. It's heartening to see that, and I hope that these sites will thrive and attract lots of visitors and followers.
-
-
-<PostedBy />
-
-

@@ -1,12 +1,3 @@
----
-title: "Review: Cornelia Dean, Am I Making Myself Clear?"
-description: "The first episode of season 4 of Mad Men opens with Don Draper being interviewed by a journalist. He doesn't tell him anything that's of interest and then dodges the question Who is Don Draper? by claiming that he was taught as a child not to talk about himself. Scientists do an equally terrible job at communication, and for many of the same reasons. Cornelia Dean's book Am I Making Myself Clear? offers fascinating insights into both journalism and science, and provides concrete ideas for how to do better."
-date: 2010-08-01 20:18:26
-tags: book-reviews, criticism
-featuredImage: https://media.eagereyes.org/media/2009/changeWorldPanel.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/changeWorldPanel.jpg" alt="" width="560" height="527" /></p>
 
 # Review: Cornelia Dean, Am I Making Myself Clear?
@@ -30,20 +21,3 @@ Why am I telling you all this? I think we're lacking a message in visualization.
 But that's just part of the problem. How do you convey visualization as a story (and not just by showing pretty pictures)?. Say you're supposed to explain visualization on the radio, how do you do that? And how do you tell a story in which visualization plays a role but that is not primarily about a particular visualization?
 
 I don't have answers to those questions, but I think we need to figure them out. And we need to do it quickly, before there's even more confusion and visualization turns into a completely diffuse mess of stuff nobody understands.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Rick Walker says…
->	I'm not sure that visualisation is a story in itself - it's more what we find out by using it that helps form the message. That's the same in other sciences. There're some great stories you can tell about how people have used visualisation, and they're very useful in explaining the value of our work, but a lot of results aren't a very interesting story in themselves.
->	
->	I do agree that visualisation is poorly defined (it's not the same as graphics!), and I can't see any good way of talking about it on radio. It's hard enough trying to explain it in person at a pub (napkins and pens help a lot). On the plus side, a short video (as in, for example, your parallel coordinates multi-touch work) can make everything clear, and we're now at the stage where it's not unusual to be watching a clip to help understand something.
-
-</aside>
-

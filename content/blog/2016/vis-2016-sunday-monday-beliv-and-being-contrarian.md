@@ -1,11 +1,3 @@
----
-title: "VIS 2016 – Sunday, Monday: BELIV and Being Contrarian"
-description: "The early part of IEEE VIS 2016 is already behind us. This includes many workshops, tutorials, as well as the Doctoral Colloquium. It has been an interesting three days (considering Saturday here as well). This posting is less a report as a number of observations from a several discussions and talks."
-date: 2016-10-24 19:57:55
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg" width="720" height="540" /></p>
 
 # VIS 2016 – Sunday, Monday: BELIV and Being Contrarian
@@ -63,8 +55,3 @@ Being contrarian is really easy in visualization. The community is open to new i
 We can’t just let the field stagnate. To push it ahead, it’s not enough to just keep doing little bits of work – we need to question our assumptions and try out the opposite of many of our positions.
 
 Being contrarian is the only way.
-
-
-<PostedBy />
-
-

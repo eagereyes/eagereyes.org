@@ -1,11 +1,3 @@
----
-title: "The Changing Goals of Data Visualization"
-description: "The visual representation of data has gone through a number of phases, with its goals switching back and forth between analysis and presentation over time. Many introductions to visualization tend to portray historical examples as all being done for the same purpose. That, I argue in this short, incomplete, and cherry-picked history, is not true."
-date: 2012-11-25 22:29:10
-tags: criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/11/playfair-denmark-exports.png
----
-
 # The Changing Goals of Data Visualization
 
 The visual representation of data has gone through a number of phases, with its goals switching back and forth between analysis and presentation over time. Many introductions to visualization tend to portray historical examples as all being done for the same purpose. That, I argue in this short, incomplete, and cherry-picked history, is not true.
@@ -57,25 +49,3 @@ At the same time, the academic visualization community is all about analysis and
 ## Conclusion
 
 In its roughly 200 years of history, our idea of visualization has changed considerably, and work has been done for different purposes. Visual representations are very malleable, and can often serve different purposes reasonably (or even equally) well. To properly understand why things were done a certain way, we have to look at the work based on what we know about its creator's goals and ideas. If we ignore this context, we are doing a disservice to the people we inherit from, as well as limit our own ability to build on their work.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.markwaldo.com" rel="nofollow noopener" target="_blank">Mark Waldo</a> says…
->	Robert,
->	Thanks so much for this overview. IT must have taken a while to put together.
->	I'm deep into doing visual representations of workflows for clients in both the medical and financial worlds and needed this historical review. It has been great to look across several strategies for helping people grok new concepts of how they work and for seeing the details within their workflows. I also appreciated the many links to other references. 
->	Best
->	-Mark
-
-<a href="http://www.adailymuse.com" rel="nofollow noopener" target="_blank">Ken Thompson</a> says…
->	While I am only beginning use of info graphics and vis I am finding that a "visual diagnostic glance" can provide a great intro and stimulate further interest.
-
-</aside>
-

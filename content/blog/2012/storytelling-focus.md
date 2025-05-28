@@ -1,12 +1,3 @@
----
-title: "Storytelling and Focus"
-description: "There are many differences between data analysis and presentation. One that is often overlooked is the need to focus a story to just the essential points, and not overload it with unnecessary detail. Minard’s famous map is a great example of reduction to the bare minimum."
-date: 2012-09-09 20:30:15
-tags: storytelling
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/09/1000px-Patriotic_War_of_1812_ENG_map1.svg_.png
-outline: false
----
-
 # Storytelling and Focus
 
 There are many differences between data analysis and presentation. One that is often overlooked is the need to focus a story to just the essential points, and not overload it with unnecessary detail. Minard’s famous map is a great example of reduction to the bare minimum.
@@ -28,37 +19,3 @@ And now compare to Minard:
 Minard, having lived during the Russian campaign (though he created the map much later), certainly knew quite a bit about it and the wars that followed. However, he chose to focus on one particular issue and on essentially one measure that he apparently felt told the core of the story. That is also helped by the graphical style: compare Volkov’s much more detailed maps that not only show a lot more troop movements and other data, but also much more geographical detail.
 
 When analyzing data, focus is not typically the first thing. Quite the opposite, when exploring data, you want to go broad, ask many different questions, and try out many different approaches. While it can sometimes be useful to present a lot of data (a historian would have little use for Minard’s simplified view), it is usually much more compelling to figure out the key message and focus on that.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://texty.org.ua" rel="nofollow noopener" target="_blank">Anatoly</a> says…
->	Nice examples, Robert! BTW, "Petrovich" is not a surname for the "Volkov Vladimir Petrovich", correct order will be "Vladimir Volkov"
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Ah, thanks! Fixed.
-
-<a href="http://offenhuber.net" rel="nofollow noopener" target="_blank">dietmar</a> says…
->	Great - I think that the rhetorical aspect is often underestimated in infoviz (perhaps due to the obsession with perception and cognition). I have called this focus the visual anecdote - http://bit.ly/P835Zd
->	
->	The point is that even the classics like Minard and John Snow, that are always used as examples for the analytical power of infoviz, were first of all rhetorical devices.
-
-<a href="http://troyworman.com" rel="nofollow noopener" target="_blank">Troy Worman</a> says…
->	Very nice examples.
-
-Al says…
->	Four step process.
->	
->	1. <i>Exploratory</i> data analysis. Number crunching, data processing.
->	2. <i>Creative</i> idea generation. Data sketches, experiments. (not necessary if you're simply tasked with producing some figures or simple charts)
->	3. <i>Journalistic</i> application of analytic focus. Paring down to a clear story, message or view. (not necessary if you're simply preparing data for interested, committed and able others to analyse)
->	4. Finishing. Design refinement, checking, proofing.
-
-</aside>
-

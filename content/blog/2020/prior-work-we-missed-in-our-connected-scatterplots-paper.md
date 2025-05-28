@@ -1,11 +1,3 @@
----
-title: "Prior Work We Missed In Our Connected Scatterplots Paper"
-description: "In 2016, Steve Haroz, Steven Franconeri, and I published a paper on a technique commonly called the Connected Scatterplot. It turns out that somebody else had research on essentially the same chart 15 years earlier, which we were not aware of. Our work is quite different, but it’s interesting context and it’s also worth reflecting on how we missed this piece of relevant prior work."
-date: 2020-08-31 19:45:12
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2020/08/teasers.png
----
-
 # Prior Work We Missed In Our Connected Scatterplots Paper
 
 In 2016, Steve Haroz, Steven Franconeri, and I published <a href="/papers/the-connected-scatterplot-for-presenting-paired-time-series" data-type="post" data-id="9076">a paper on a technique commonly called the Connected Scatterplot</a>. It turns out that somebody else had research on essentially the same chart 15 years earlier, which we were not aware of. Our work is quite different, but it’s interesting context and it’s also worth reflecting on how we missed this piece of relevant prior work.
@@ -53,8 +45,3 @@ Peebles, D., &amp; Cheng, P. C.-H. (2001). <a href="https://peebles.sdfeu.org/pa
 Peebles, D., &amp; Cheng, P. C.-H. (2002). <a href="https://peebles.sdfeu.org/papers/pee_che2002.pdf">Extending task analytic models of graph-based reasoning: A cognitive model of problem solving with Cartesian graphs in ACT-R/PM</a>. <em>Cognitive Systems Research</em>, 3, 77-86. 
 
 Peebles, D., &amp; Cheng, P. C.-H. (2003). <a href="https://peebles.sdfeu.org/papers/pee_che2003.pdf">Modeling the effect of task and graphical representation on response latency in a graph reading task</a>. <em>Human Factors</em>, 45, 28-46.
-
-
-<PostedBy />
-
-

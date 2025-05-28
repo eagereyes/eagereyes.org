@@ -1,12 +1,3 @@
----
-title: "InfoVis Panel: The Impact of Social Data Visualization"
-description: "Visualization for the masses is a powerful means of communication, in an age where we have access to incredible amounts of data, but still little understanding based of what it all means. I have argued that visualization sets information free, I have criticized Swivel and Many-Eyes, and I have argued for reassessing who our users are. At Vis/InfoVis, I am organizing a panel with people from Many-Eyes, Swivel, and Gapminder."
-date: 2007-10-18 08:02:58
-tags: conference
-featuredImage: https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png" height="247" width="615" /></p>
 
 # InfoVis Panel: The Impact of Social Data Visualization
@@ -22,32 +13,3 @@ While visualization for domain experts deals with the data they know about and t
 There are two changes in the speakers as compared to the panel description in the program: Ola Rosling will stand in for his father Hans Rosling, who cannot make it to the conference. Warren Sack won't be able to make it to the conference either, so I asked Martin Wattenberg to talk about visualization and journalism. I had tried to keep this panel balanced between the different websites/companies, so Martin will not be allowed to talk about Many-Eyes. ;) His topic is more overarching, and a worthy alternative to Warren Sack's theories. 
 
 Come see/listen to the statements of the panelists and take part in the discussion! <a href="http://vis.computer.org/vis2007/schedule/monday.html">Monday Oct 29, 2pm at Vis/InfoVis/VAST</a>.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.orgnet.com" rel="nofollow noopener" target="_blank">Valdis</a> says…
->	<p>
->	Other popular data visualizations using data freely available on the WWW...
->	</p>
->	<p>
->	<a href="http://www.orgnet.com/divided.html">http://www.orgnet.com/divided.html</a><a href="http://www.firstmonday.org/issues/issue7_4/krebs/"><br />
->	http://www.firstmonday.org/issues/issue7_4/krebs/</a>
->	</p>
->	<p>
->	The second link walks you through the process of data gathering and mapping.
->	One thing to keep in mind -- a map is useful based on what it includes AND what it leaves out.  Therefore knowledge of the space being mapped and how people read/use maps is important.  Context is key in making a map and reading map.
->	</p>
->	
-
-<a href="http://www.constantskeptic.com" rel="nofollow noopener" target="_blank">the constant skeptic</a> says…
->	Many Eyes is good, but maybe the next step is a way to massage the data into the correct format for you by just providing the spreadsheet and the script does the rest.
-
-</aside>
-

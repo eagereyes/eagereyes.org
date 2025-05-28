@@ -1,11 +1,3 @@
----
-title: "Open Positions at PNNL"
-description: "Pacific Northwest National Laboratory (PNNL) is looking to fill three positions related to visualization and visual analytics. If you are interested, see their jobs website for more information and to apply. All positions require the ability to obtain a future security clearance, which requires U.S. citizenship. They're all located in Richland, Washington."
-date: 2010-10-20 22:33:36
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/pnnl-jobs.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127" /></p>
 
 # Open Positions at PNNL
@@ -29,8 +21,3 @@ PNNL will also have a booth at VisWeek, so if you are interested in any of these
 <hr />
 
 Even though I regularly get emails about posting job offers, I don't usually do that. This is an exception, because these jobs are particularly relevant for the people reading this website.
-
-
-<PostedBy />
-
-

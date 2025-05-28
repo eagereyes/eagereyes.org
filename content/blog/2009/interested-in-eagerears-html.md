@@ -1,12 +1,3 @@
----
-title: "Anybody interested in eagerears.org/.com?"
-description: "I got the domains EagerEars.org and EagerEars.com for my April Fool's joke. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site."
-date: 2009-05-02 21:29:32
-tags: 
-featuredImage: https://media.eagereyes.org/media/2009/imallears.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/imallears.png" border="0" alt="I'm all Ears" width="560" height="250" /></p>
 
 # Anybody interested in eagerears.org/.com?
@@ -18,8 +9,3 @@ So there are some strings attached here, I will not simply hand the domain over.
 It's very easy to register a domain, but there is no simple way to discard it. While I can jump through some hoops to get it deleted, it will almost certainly be picked up by a spammer. So I'd rather try to find somebody who can put it to some use, and maybe even help get an interesting website started.
 
 So if you are interested, <a href="/contact">contact me</a>, and we'll discuss this via email.
-
-
-<PostedBy />
-
-

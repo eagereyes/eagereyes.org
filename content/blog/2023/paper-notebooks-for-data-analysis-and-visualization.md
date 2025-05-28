@@ -1,12 +1,3 @@
----
-title: "Paper: Notebooks for Data Analysis and Visualization"
-description: "Computational notebooks offer an alternative to the common GUI-based tools used for data visualization and BI today. In this new paper, I talk about what they are, their pros and cons, and how research could fill in some important gaps."
-date: 2023-05-01 07:52:48
-tags: paper
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png" width="600" height="547" /></p>
 
 # Paper: Notebooks for Data Analysis and Visualization
@@ -22,8 +13,3 @@ This is an invited piece for the <em>Graphically Speaking</em> column in CG&amp;
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 Robert Kosara, <a href="/publications/Kosara-CGA-2023">Notebooks for Data Analysis and Visualization: Moving Beyond the Data</a>, <em>Computer Graphics &amp; Applications (CG&amp;A)</em>, vol. 43, no. 1, pp. 91-96, 2023.
-
-
-<PostedBy />
-
-

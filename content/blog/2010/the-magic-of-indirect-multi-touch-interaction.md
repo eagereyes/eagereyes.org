@@ -1,11 +1,3 @@
----
-title: "The Magic of Indirect Multi-Touch Interaction"
-description: "Direct multi-touch interaction is all the rage right now on mobile devices like iPhones and iPads. Apple is working on a lesser-known variation that is just as useful, but used in their less glamorous laptop computers. The latest development has been their Magic Trackpad, which brings that type of interaction (with some new twists) to the desktop."
-date: 2010-08-04 22:41:21
-tags: 
-featuredImage: https://media.eagereyes.org/media/2010/magic-trackpad.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/magic-trackpad.jpg" alt="" width="560" height="202" /></p>
 
 # The Magic of Indirect Multi-Touch Interaction
@@ -49,37 +41,3 @@ The reason indirect multi-touch works especially well in this case is because th
 The common interactions described earlier are similar in that they don't map to a direct display interaction, either. The useful thing about two-finger scrolling (just like scroll wheels on mice) is that you don't have to find the scroll bar first to be able to scroll, you simply scroll the active view. Doing this on a separate touch surface rather than directly on the display is actually a good idea when there is more than one view visible (as is usually the case on phones). Indirect multi-touch interaction in visualization is similar in that some interactions don't necessarily affect only specific regions (like angular brushing), and those that do can be connected to the geometry of the trackpad using visual feedback.
 
 We tend to throw as much technology as we can at every problem. But the example of indirect multi-touch interaction shows how some restraint can lead to a simpler solution that is much more useable and flexible. Going forward, we will need to let go of some of our ideas for how interaction is done right now, in order to be able to explore what is possible. Just like my phones-with-mice example above, I think we're still stuck in thinking that one particular way of doing things will work across all uses and devices. But that is just not the case.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.multiblah.com/" rel="nofollow noopener" target="_blank">Kevin Cannon</a> says…
->	I think saying people lack imagination is a bit harsh. Yes, touching a screen in it's current location would be difficult.
->	
->	However, if you had an ipad, or similar display sitting flat on your desk like a notepad, it would be quite easy to interact with it via touch many times a day. Where's _your_ imagination then? :)
->	
->	Also, how can you argue that touching a button directly, is more difficult than using a mouse to touch it? Using a mouse requires far more hand-eye coordination than touching something directly.
-
-<a href="http://i-ocean.blogspot.com/" rel="nofollow noopener" target="_blank">derek</a> says…
->	If anything, I'd say it was the critics of large touch screen technology that lacked imagination.  For what is so set in stone about the vertical position of the large monitor? Isn't it just a hangover from the design of the typewriter (horizontal keyboard under hands, displayed text behind), and later the heavy and long cathode ray tube (that would probably have bumped the users' knees if set into a desk)? 
->	
->	Why should the large computer displays of the future not be on the desk, as small pieces of paper were and still are? The traditional "pen pusher" or clerk looked down on his work as he wrote with a stylus and pushed things around with his fingers, and certainly didn't have a reputation for large arm muscles.  For even larger displays, consider the traditional draftsman and his board, or the artist and his easel.  None of these trades seemed to have developed gorilla arms.  
->	
->	I don't want to seem to be cheerleading for large multitouch monitors, I'm sure they have other problems, and maybe they'll always be insoluble ones. But "gorilla arms" doesn't convince me as fundamental problem.  It just sounds like someone isn't thinking through why they would still have a vertical screen at arm's length on a desk when the input technology changed.  Work displays themselves only <em>became</em> vertical because the input technology changed, and fairly quickly and recently too. 
-
-Robert Kosara says…
->	Of course, touching a button is much more direct than using a mouse or other pointing device. Many other things are easier done this way though. We've had touchscreens for a while, but they've only recently made any impact in the real world, and almost exclusively in handheld devices. I think there's a reason for that. 
->	
->	The lack of imagination comment was about the short-sighted way I see a lot if people simply combine touch interaction with current screens and UIs and think that'll work. The considerable design work in iOS and also the upcoming Windows Phone 7 (and the complete failure of dozens of tablet PCs running plain vanilla Windows without that) show how different these UIs have to be to work with touch, for example. 
-
-john decard says…
->	Years ago I read the same kind of article about Uhura's earpiece on Star Trek and all the reasons it wouldn't work or make *design* sense and now look at us!, Never say never.
-
-</aside>
-

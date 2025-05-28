@@ -1,11 +1,3 @@
----
-title: "EuroVis 2016, Thursday and Friday"
-description: "After Tuesday and Wednesday, EuroVis continued for the rest of the week. There were papers about visualization, interaction, networks, and other stuff, a dinner in a former church, and finally the capstone."
-date: 2016-06-10 04:39:59
-tags: conference, eurovis
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/06/DSCF2799.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/DSCF2799.jpg" width="825" height="510" /></p>
 
 # EuroVis 2016, Thursday and Friday
@@ -65,8 +57,3 @@ It was a good conference. Somehow, it just didn't excite me as much as last year
 It was well organized and went very smoothly. The only thing I didn't like was that the opening and closing sessions were just too long. The analysis of keywords used in reviews went on for way too long and was of little value. The awards ceremony part at the end could also be much shorter and more fun, rather than the awkward affair they almost universally are.
 
 Groningen is a beautiful little town. It's also quite lively, due to the large number of university students (about a third of the population). The conference dinner this time took place in a former church, with fantastic food. It couldn't quite compete with the <a href="/blog/2015/report-eurovis-2015">convent last year</a> where they made our food by hand, but that's a tough one to follow. The deserts were out of this world, though.
-
-
-<PostedBy />
-
-

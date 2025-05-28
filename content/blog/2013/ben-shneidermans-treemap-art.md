@@ -1,12 +1,3 @@
----
-title: "Ben Shneiderman's Treemap Art"
-description: "Art imitates life, and sometimes art is inspired by research. Ben Shneiderman’s Treemap Art is unique in that it is the researcher himself (with Kazi Minhazur Rahman), rather than an artist, who has created the art pieces."
-date: 2013-12-22 20:45:41
-tags: art, treemaps
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian.png
-outline: false
----
-
 # Ben Shneiderman's Treemap Art
 
 Art imitates life, and sometimes art is inspired by research. Ben Shneiderman’s <em><a href="http://treemapart.wordpress.com/">Treemap Art</a></em> is unique in that it is the researcher himself (with <a href="http://www.minhazur.com">Kazi Minhazur Rahman</a>), rather than an artist, who has created the art pieces.
@@ -26,23 +17,3 @@ The pieces are <a href="http://treemapart.wordpress.com/full-views/">available a
 I’m torn about which piece I like best. The Mondrian-inspired one is the most obviously appealing one, no doubt because of its familiarity and the bold colors. But I also like <em>Green Terps</em> for its much more chaotic layout (reminiscent of a Jazz performance), and <em>Blooming Businesses</em> for its beautiful color palette (inspired by Josef Albers, no less) and vaguely flower-like structure.
 
 Treemap Art is unique in its approach, and I think it’s very interesting. Anything can be used to make art, so why not a visualization tool? The results speak for themselves.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.cvast.tuwien.ac.at/~bilal" rel="nofollow noopener" target="_blank">Bilal Alsallakh</a> says…
->	Here is a recent interview with Ben about the Treemap Art. It also gives nicer historical background on the development of Treemaps
->	
->	http://datastori.es/data-stories-29-treemaps-w-ben-shneiderman/
->	
->	
->	Robert, you should think of creating ParSets Art too! They are also aesthetically pleasing.
-
-</aside>
-

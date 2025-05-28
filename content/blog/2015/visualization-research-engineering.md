@@ -1,11 +1,3 @@
----
-title: "Visualization Research, Part I: Engineering"
-description: "Conventions in visualization can seem arbitrary, and quite a few are. But there is also a vast body of research, and it is growing every day. Just how does visualization research work? How do we learn new things about visualization and how it can and should be used?"
-date: 2015-09-29 18:02:44
-tags: attention
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/09/finviz-sep2015.png
----
-
 # Visualization Research, Part I: Engineering
 
 Conventions in visualization can seem arbitrary, and quite a few are. But there is also a vast body of research, and it is growing every day. Just how does visualization research work? How do we learn new things about visualization and how it can and should be used?
@@ -43,8 +35,3 @@ What everybody uses today is not the original treemap, but a squarified one. Mos
 The key to this is making things. The fundamental technique had to be invented and turned into a piece of software. Only then was it possible to try it out, find shortcomings, and invent new ways to address them. In the process, new things were thought up. Visualization is a field that not only studies, but also creates.
 
 What has been created needs to be evaluated though, and we need to understand the underlying perception and thinking processes that we use when working with visualization. This will be the subject of Part II.
-
-
-<PostedBy />
-
-

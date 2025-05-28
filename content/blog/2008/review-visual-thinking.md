@@ -1,11 +1,3 @@
----
-title: "Book Review: Visual Thinking for Design, by Colin Ware"
-description: "Colin Ware's latest book Visual Thinking for Design has a promising subtitle: active vision, attention, visual queries, gist, visual skills, color, narrative, design. That's covering quite a bit of ground, and also a lot of things not usually considered in visualization. While this is a book about design, I was interested in what it could teach people in InfoVis, and I review it from that point of view."
-date: 2008-06-08 20:07:25
-tags: book-reviews, criticism
-featuredImage: 
----
-
 # Book Review: Visual Thinking for Design, by Colin Ware
 
 <p align="center"><img src="https://media.eagereyes.org/media/2008/WareVisualThinking.png" border="0" width="218" height="266" /></p>
@@ -67,21 +59,3 @@ The book is listed as having 256 pages on Amazon, but it's really only about 185
 As an introductory text that covers a lot of ground on perception and cognition, and that draws connections with practical design issues, this book is hard to beat. If you have not read Ware's previous book, I would strongly recommend this one as a starter to whet your appetite. <em>Perception for Design</em> goes into a lot more detail on many of the topics covered (but does not cover all of them), but is also a lot more technical.
 
 In addition to Ware's background, what makes this book relevant for InfoVis are the examples and the fact that most (if not all) the covered topics are directly relevant and applicable to visualization. In addition to the perceptual and cognitive topics, that is also true for the design issues that are mentioned. This book will provide a lot of thought-provoking and useful material, and many starting points for future research.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-George says…
->	Nice review.  I believe the correct expression is "whet your appetite" not "wet your appetite" ;-)
-
-<a href="http://adobephotoshopsecrets.blogspot.com/" rel="nofollow noopener" target="_blank">Bojan Živković</a> says…
->	Excellent review, I read a book which is exactly as described here.
-
-</aside>
-

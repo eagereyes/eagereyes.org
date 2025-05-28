@@ -1,11 +1,3 @@
----
-title: "Upcoming Travel: SxSW and Malofiej"
-description: "I will be at South-by-Southwest (SxSW) this year to speak on a panel, and also take part in the Malofiej awards and summit, where I will be a judge and speaker. Here are some pointers for those of you who might be at one (or both!) of those events."
-date: 2012-03-08 23:19:12
-tags: 
-featuredImage: 
----
-
 # Upcoming Travel: SxSW and Malofiej
 
 I will be at South-by-Southwest (SxSW) this year to speak on a panel, and also take part in the Malofiej awards and summit, where I will be a judge and speaker. Here are some pointers for those of you who might be at one (or both!) of those events.
@@ -21,8 +13,3 @@ The panel I am on has the straight-forward title, <em><a href="http://longliveda
 Otherwise known as the <em><a href="http://www.malofiej20.com/">Pulitzer Prize of Information Graphics</a></em>, the Malofiej Awards are an exciting place for journalists, designers, and visual communicators to show their work and get recognized. There are two parts to this: the awards themselves, which are judged by an international group of practitioners and academics in a variety of fields, and the summit where a number of interesting people are going to speak. The <a href="http://www.malofiej20.com/wp-content/uploads/2012/02/malofiej20_programa_ONLINE.pdf">program for the latter (PDF)</a> is online, and the lineup is very impressive. It includes the likes of Alberto Cairo, John Grimwade, Nigel Holmes, Simon Rogers, Andrew Vande Moere, to name just a few.
 
 I will certainly write about my impressions and lessons learned from Malofiej, and I expect it to be extremely inspiring and thought-provoking.
-
-
-<PostedBy />
-
-

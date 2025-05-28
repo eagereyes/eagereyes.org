@@ -1,11 +1,3 @@
----
-title: "Laws of Attraction: From Perceived Forces to Conceptual Similarity"
-description: "Can gravity have an influence on how the data in a chart is perceived? How do different kinds of connections between circles change our perception of the distance between them? And what does that mean for how strongly we perceive them to be connected? We conducted some user studies to find out."
-date: 2010-10-21 21:03:55
-tags: VisWeek, papers
-featuredImage: https://media.eagereyes.org/media/2010/attraction.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/attraction.png" alt="" width="560" height="362" /></p>
 
 # Laws of Attraction: From Perceived Forces to Conceptual Similarity
@@ -37,8 +29,3 @@ This opens up new possibilities, like being able to test and measure how clearly
 Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-InfoVis-2010">Laws of Attraction: From Perceived Forces to Conceptual Similarity</a>, <em>Transactions on Visualization and Computer Graphics (Proceedings InfoVis)</em>, 2010.
 
 The paper will be presented at VisWeek 2010 in the <a href="http://vis.computer.org/VisWeek2010/schedule/thursday.html">first morning session on Thursday</a>, <em>Perception and Cognition</em>.
-
-
-<PostedBy />
-
-

@@ -1,11 +1,3 @@
----
-title: "VIS 2014 – Tuesday"
-description: "The big opening day of the conference, Tuesday, brought us a keynote, talks, and panels. Also, a new trend I really like: many talks end with the URL of a webpage that contains a brief summary of the paper, the PDF, and often even a link to the source code of the tool they developed."
-date: 2014-11-12 00:46:27
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/11/namredienhs.jpg
----
-
 # VIS 2014 – Tuesday
 
 The big opening day of the conference, Tuesday, brought us a keynote, talks, and panels. Also, a new trend I really like: many talks end with the URL of a webpage that contains a brief summary of the paper, the PDF, and often even a link to the source code of the tool they developed.
@@ -71,8 +63,3 @@ This was much funnier the way Stef van Elzen did it of course, and in particular
 It remains a crime that VisLies is not a regular session, but a meetup that is tacked on and usually at a time when everybody is at dinner. I think it’s a really great idea, and there should be room for it in the regular program. It deserves a lot more attention and attendance. I missed it this year again.
 
 There were also two new parties, the Austrian Party and the NYU Party. I really like this new tradition of parties to connect people and reinforce the community aspect of the conference. It does mean even less sleep than before, though.
-
-
-<PostedBy />
-
-

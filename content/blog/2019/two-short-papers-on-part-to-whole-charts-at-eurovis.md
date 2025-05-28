@@ -1,12 +1,3 @@
----
-title: "Two Short Papers on Part-to-Whole Charts at EuroVis"
-description: "Why do pie charts look the way they do? What makes this particular way of slicing up a circle the preferred way of showing part-to-whole relationships? In two short papers that I’m presenting this week at EuroVis, I looked at the design space of circular part-to-whole charts, including pie charts."
-date: 2019-06-03 01:08:43
-tags: paper, pie charts
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png" width="660" height="454" /></p>
 
 # Two Short Papers on Part-to-Whole Charts at EuroVis
@@ -30,18 +21,3 @@ The two papers very much belong together, you could almost call them two parts o
 Robert Kosara, <a href="/publications/Kosara-EuroVis-2019a">Circular Part-to-Whole Charts Using the Area Visual Cue</a>, <em>EuroVis Short Papers</em>, 2019
 
 Robert Kosara, <a href="/publications/Kosara-EuroVis-2019b">The Impact of Distribution and Chart Type on Part-to-Whole Comparisons</a>, <em>EuroVis Short Papers</em>, 2019
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Bella Gotie says…
->	Very interesting. Have you ever checked the connection between a pie graph perception and an analog clock perception?
-
-</aside>
-

@@ -1,11 +1,3 @@
----
-title: "Conference Report: CHI 2015"
-description: "Last week, I had the pleasure of attending the CHI 2015 conference in Seoul, South Korea. CHI technically stands for Computer-Human Interaction, but it has become a name rather than an acronym in recent years. And CHI’s scope is very broad, it covers many areas that are not strictly part of HCI (Human-Computer Interaction – why use one acronym when you can have two?)."
-date: 2015-04-26 18:17:23
-tags: conference
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/04/chi-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/chi-teaser.jpg" alt="" width="825" height="510" /></p>
 
 # Conference Report: CHI 2015
@@ -53,20 +45,3 @@ CHI is a large conference (almost 3000 attendees), but it follows the standard f
 I found the quality of the visualization papers quite good. I was a bit underwhelmed at first (perhaps partly because last year’s InfoVis had upped my expectations quite a bit), but I saw some really good ones.
 
 It's still a bit unclear to me what gets accepted and why, and the extreme breadth of the conference can be a challenge. CHI is definitely a conference to follow if you're interested in visualization, and will stay on my radar for publishing papers in the future.
-
- 
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.klewel.com" rel="nofollow noopener" target="_blank">Maël Guillemot</a> says…
->	Great conference report, you can now link the talks and papers you were interested in directly to the videos of the presentations, the webasts are now online on the CHI website: http://chi2015.acm.org/program/keynotes/ and http://chi2015.acm.org/program/full-schedule/
-
-</aside>
-

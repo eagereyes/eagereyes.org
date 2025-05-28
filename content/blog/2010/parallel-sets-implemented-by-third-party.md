@@ -1,12 +1,3 @@
----
-title: "Parallel Sets Implemented By Third Party"
-description: "It's nice to see an idea evolve and get picked up by other people. Which is why I'm excited to have spotted the first third-party implementation of Parallel Sets in the wild: a (Windows-only) program called Knowledge Blocks that allows you to visually piece together a query and show the results in a table or a Parallel Sets display."
-date: 2010-08-22 21:44:06
-tags: Parallel Sets
-featuredImage: https://media.eagereyes.org/media/2010/ResultBlocks.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/ResultBlocks.jpg" alt="" width="381" height="339" /></p>
 
 # Parallel Sets Implemented By Third Party
@@ -22,8 +13,3 @@ I have collected a number of important issues that need to be addressed, and I a
 Next week, I will also be speaking on a panel at the <a href="http://nvac.pnl.gov/meeting_2010/">iVAC Consortium Meeting</a>. That panel will be about getting tools out into the hands of users, so unsurprisingly Parallel Sets will be my topic there.
 
 Beyond the next release, I am hoping to connect the program a lot more to Parallel Coordinates, and we actually might be getting funding to do that soon. I can't talk about specifics right now, but it looks promising. So keep your fingers crossed, and I will keep you posted on any and all developments.
-
-
-<PostedBy />
-
-

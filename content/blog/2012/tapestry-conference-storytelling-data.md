@@ -1,11 +1,3 @@
----
-title: "Tapestry, The Conference About Storytelling With Data"
-description: "Tapestry is a new conference on storytelling with data. While it focuses on visual ways of telling stories in journalism, there will be a broad range of topics, and a line-up of amazing speakers."
-date: 2012-12-17 21:53:28
-tags: conference
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png
----
-
 <p align="center"><img class="aligncenter size-full wp-image-2116" title="Tapestry Conference" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png" width="600" height="180" /></p>
 
 # Tapestry, The Conference About Storytelling With Data
@@ -42,8 +34,3 @@ Let’s face it: most conference hotels are boring, interchangeable, faceless ch
 The conference is limited to 100 participants, and invite-only. We have already filled a good number of seats, but we are looking for more people who are interested in storytelling with data. In particular, if you are a journalist, work for a non-profit or government agency that wants to (or already does) communicate with data, or are an academic interested in this topic, click the <em>request invite</em> link on the <a href="http://www.tapestryconference.com">Tapestry website</a>. Tell us a bit about why you are interested in attending.
 
 A limited number of travel sponsorships are available for journalists, administered through IRE. If you are interested in one, please include that in your invite request.
-
-
-<PostedBy />
-
-

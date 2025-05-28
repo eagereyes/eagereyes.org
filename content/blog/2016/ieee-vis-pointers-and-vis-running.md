@@ -1,11 +1,3 @@
----
-title: "IEEE VIS Pointers and Running"
-description: "VIS is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup – plus a reminder to bring your running shoes!"
-date: 2016-10-18 06:17:36
-tags: IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/baltimore-teaser.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/baltimore-teaser.jpg" width="720" height="540" /></p>
 
 # IEEE VIS Pointers and Running
@@ -63,18 +55,3 @@ Speaking of which, my new website has a <a href="/blogroll">blogroll</a>! You sh
 As <a href="/tag/conference">in the past years</a>, <a href="https://twitter.com/eagereyes">I will be tweeting</a> about papers being presented and write a few blog posts during the week or right after. I don't have a clear idea yet how many postings and when they will go live, it's going to depend on how many things there are that I feel are worth writing about.
 
 This will be my 16th Vis/VisWeek/VIS in a row. I'm looking forward to seeing everybody there!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="https://benbernardblog.com" rel="nofollow noopener" target="_blank">Benoit Bernard</a> says…
->	Too bad that I live so far from Baltimore! I would have liked to attend your session about blogging. Do you intend to write up a summary or something about it? Since you've been blogging for several years, it would be an extremely interesting read!
-
-</aside>
-

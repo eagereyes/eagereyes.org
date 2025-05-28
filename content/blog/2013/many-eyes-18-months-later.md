@@ -1,11 +1,3 @@
----
-title: "Another Look at Many Eyes, 18 Months Later"
-description: "In February of last year, I wrote a posting based on some data I had scraped from Many Eyes, and criticizing where I thought it was going (or not going). Here is an update, eighteen months later, of some of the things that have happened in the meantime, and some new data."
-date: 2013-09-03 20:27:59
-tags: many-eyes, criticism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/09/many-eyes-teaser.png
----
-
 # Another Look at Many Eyes, 18 Months Later
 
 In February of last year, I wrote <a href="/criticism/quo-vadis-many-eyes">a posting based on some data I had scraped from Many Eyes</a>, and criticizing where I thought it was going (or not going). Here is an update, eighteen months later, of some of the things that have happened in the meantime, and some new data.
@@ -79,24 +71,3 @@ The timing of Many Eyes’ second incarnation is also interesting. <a href="/cri
 I was also attacked last year for writing my posting while on Sabbatical at Tableau Software (also, using Tableau Public for the charts probably rubbed a few people the wrong way, but that was mostly done out of convenience). Now that I am a full-time employee at Tableau, why don’t I publish the same data about Tableau’s Many Eyes competitor, <a href="http://www.tableausoftware.com/public/community">Tableau Public</a>?
 
 I’m so glad you asked! We had a paper submission at InfoVis earlier this year, which was unfortunately rejected. The paper is now under review elsewhere and I will post a note here once it is published. The paper draws a detailed comparison between Tableau Public and Many Eyes, based on the data I’ve collected and what we have available for Tableau Public.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://gravatar.com/nimh2" rel="nofollow noopener" target="_blank">nimh</a> says…
->	As an amateur blogger who likes visualizations, I used Many Eyes a few times in the past, and always thought the results were beautiful and effective, if slow to load. I went back yesterday and today, though, and ran into a problem which, who knows, might explain your observation about the number of data sheets per visualization increasing. (I actually ran into this blog post when googling for solutions/explanations, though your whole blog looks interesting and I'll stick around to read a few more!)
->	
->	I uploaded a data set and wanted to create a map/visualization of it, but ran into trouble with Java, but the map won't materialize because Java is blocking the applet: a pop-up "Application Blocked by Security Settings" warning notes that "your security settings have blocked an untrusted application from running". The visualization is then replaced with an "Error. Click for details" message which, when clicked, again shows an "application blocked/untrusted application" warning, which actually seems one of Java's (red) more serious warnings. I recently updated Java and my security settings are simply the default ones, so I imagine others might run into this too..
->	
->	I tried loading one of my older visualizations and ran into the same problem. I could of course add the site to Java's whitelist, but if any visitors to my blog can't see the visualization either, for the same problem, what would be the point?
->	
->	Creating a geomap visualization within a Google Drive/Spreadsheet (which you can then embed as either interactive or plain image) seems like a promising alternative, though it appears to be a bit wonky still at times and there are hardly any customization options. In the past I used OpenHeatMap as a really low-threshold quick web tool to create an embeddable map, but it's a very plain tool, only for maps, and I think is just kept up as a legacy project by the creator as a favour. Infogr.am doesn't do maps, I think. So I'm always looking for alternative online visualization tools that are.easy to use for a non-programming amateur.
-
-</aside>
-

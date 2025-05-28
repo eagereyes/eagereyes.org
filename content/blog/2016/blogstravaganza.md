@@ -1,12 +1,3 @@
----
-title: "The Ten Years of EagerEyes Blogstravaganza"
-description: "October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!"
-date: 2016-09-25 16:16:02
-tags: meta, A Decade of EagerEyes
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg" width="720" height="500" /></p>
 
 # The Ten Years of EagerEyes Blogstravaganza
@@ -29,30 +20,3 @@ But back to the <em>blogstravaganza</em>! This week will see a posting every day
 </ul>
 
 Each of these will go live at 5:17am PDT (8:17am EDT, 2:17pm MET) if all goes well (scheduled postings are still a crapshoot with Wordpress, so I might have to revise this).
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Bilal says…
->	Congratulations, Robert! This blog has been a wonderful companion through my journey in visualization, your articles are often more useful than academic papers
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Thanks, Bilal!
-
-<a href="http://theresamariehyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Congratulations on 10 years of Eagereyes !!
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Thanks, Theresa-Marie!
-
-Ulrik says…
->	Congrats Robert! I have learned a lot by following your blog, and look forward to learning more.
-
-</aside>
-

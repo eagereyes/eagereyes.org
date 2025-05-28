@@ -1,11 +1,3 @@
----
-title: "Story Points"
-description: "I consider presentation and storytelling the next step in visualization, after most of the focus has been on exploration and analysis so far. An upcoming version of Tableau will include a feature called Story Points, which supports presentation directly in the visualization tool."
-date: 2013-10-06 20:12:25
-tags: Tableau, storytelling
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/10/storypoints-capture-button1.png
----
-
 # Story Points
 
 I consider presentation and storytelling <a href="/papers/paper-storytelling-step-visualization">the next step in visualization</a>, after most of the focus has been on exploration and analysis so far. An upcoming version of Tableau will include a feature called Story Points, which supports presentation directly in the visualization tool.
@@ -55,8 +47,3 @@ https://twitter.com/KatieBlye/status/377146203496267776
 https://twitter.com/eleanorpd/status/377146027356082176
 
 If you want to see a demo of story points, check out <a href="http://www.ustream.tv/recorded/39494039">the TCC keynote video</a> and jump to 1:41:50 for my part.
-
-
-<PostedBy />
-
-

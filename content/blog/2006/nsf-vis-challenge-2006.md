@@ -1,12 +1,3 @@
----
-title: "She Blinded Me with Eye Candy"
-description: "The winner of the  2006 Science and Engineering Visualization Challenge (organized by Science and the National Science Foundation, NSF) shows \"five well-known mathematical surfaces, rendered as glass objects in a highly realistic 'Still Life.'\" Using reflection, colored lighting, and otherwise unstructured sufaces makes for an image that does not convey the actual shapes particularly well. But it sure is pretty."
-date: 2006-10-08 22:08:05
-tags: criticism
-featuredImage: 
-outline: false
----
-
 # She Blinded Me with Eye Candy
 
 The <a href="http://www.sciencemag.org/cgi/content/full/313/5794/1730#article3">winner</a> of the <a href="http://www.sciencemag.org/sciext/vis2006/">2006 Science and Engineering Visualization Challenge</a> (organized by <em><a href="http://www.sciencemag.org/">Science</a></em> and the <a href="http://nsf.gov/">National Science Foundation</a>, NSF) shows "five well-known mathematical surfaces, rendered as glass objects in a highly realistic 'Still Life.'" Using reflection, colored lighting, and otherwise unstructured sufaces makes for an image that does not convey the actual shapes particularly well. But it sure is pretty.
@@ -20,21 +11,3 @@ Now I may be wrong about the intentions of the contest. The contest web page quo
 But looking at the <a href="http://www.nsf.gov/news/special_reports/scivis/index.jsp?id=evaluation">evaluation criteria</a> for the challenge, entries are supposed to have "scientific significance, freshness and originality, as well as have an aesthetically pleasing composition and drama." Under <em>visual impact</em>, the first sentence requires entries to "successfully [convey] the research to its intended audience enabling new scientific insight." So this is not (just) about marketing, but about communication – and visualization. Being able to read the image and gain insight from it is just as important as being visually compelling.
 
 I understand the need for pretty images to make people interested in science. But only looking at the shallow prettiness rather than more scientific depth cannot be the answer. Science images must be richer than the cover photo for a fashion magazine. <em>Science</em> and NSF need to apply higher standards, and look beyond the superficial appearance.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.synapse9.com/drwork.htm" rel="nofollow noopener" target="_blank">Phil Henshaw</a> says…
->	It's natural growth systems that underlie emerging patterns of change, and you could show some of them.  There's a cultural barrier to cross though.   The usual assumption is that curves of change are driven by the equation that fits them, or by unnamed remote forces or spirits.  What actually drives them is actually right there in the middle of what's happening, the animating feedback loops that are discovering a path through their environment.  THAT is the thing worth looking for in change, and visualization of their dynamics can help a lot.   
->	
->	Try it!   Take the life history of a business, any business, or a social movement, and mark each turning point in its development with the hot issues that were becoming ascendant at the time.  It adds a lot to the story as it draws you right into the actual working of the creative process that built it.
->	
-
-</aside>
-

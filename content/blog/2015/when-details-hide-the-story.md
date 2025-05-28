@@ -1,12 +1,3 @@
----
-title: "When Details Hide the Story"
-description: "Kaiser Fung doesn't like this graphic that accompanied a recent story about the bird flu in the Wall Street Journal. His redesign shows a lot less overlap and a lot more detail; so much, in fact, that it obscures the point of the chart."
-date: 2015-10-25 19:05:16
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/10/avian-flu-wsj.jpg
-outline: false
----
-
 # When Details Hide the Story
 
 <a href="http://junkcharts.typepad.com/junk_charts/2015/10/is-it-worth-the-drama.html">Kaiser Fung doesn't like this graphic</a> that accompanied a <a href="http://www.wsj.com/articles/u-s-readies-for-a-return-of-bird-flu-1444665965">recent story about the bird flu in the Wall Street Journal</a>. His redesign shows a lot less overlap and a lot more detail; so much, in fact, that it obscures the point of the chart.
@@ -40,25 +31,3 @@ This view is also more similar to the original than Fung's. Perhaps that could h
 It's easy to jump on charts that hide parts of the data, and often those are poorly done. But insisting on showing more data does not always lead to a better solution. That is particularly true when the data is as noisy as in this case, and when there are artifacts that only distract from the actual point.
 
 We always need to ask why the chart was made, <a href="/blog/2015/the-point-of-a-chart">for what purpose</a>, to what end.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.vasantahealth.com" rel="nofollow noopener" target="_blank">Monika Wahi</a> says…
->	Hi there!  Not sure if you realized you essentially made an epicurve - what epidemiologists use to visualize outbreaks. Here's a link to the CDC's tutorial on Epicurves: http://www.cdc.gov/training/quicklearns/exposure/
->	
->	It's like we went from fancy Tufte charts back to square one.  Very interesting evolution!  Thanks for this post.
-
-galkamax says…
->	Good post. I like the WSJ graphic. You make a good point about the smoothing issue, but that aside, I think it does a great job communicating the information. In sone respects your bar chart is better. It captures the growth trend well, but it misses the growing frequency of outbreaks. Those small orange circles leading up to the big explosion are an important piece of the story.
->	
->	Coulnt agree more with your last statement.
-
-</aside>
-

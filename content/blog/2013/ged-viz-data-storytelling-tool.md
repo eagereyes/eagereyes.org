@@ -1,12 +1,3 @@
----
-title: "GED Viz, A Data Storytelling Tool"
-description: "I had the honor and pleasure to keynote an event in Berlin recently that introduced a new visualization tool to the world, GED Viz. What makes it stand out from other web-based visualization tools is its focus on particular data, and the ability to create not just individual views, but little stories."
-date: 2013-07-21 20:42:55
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/07/ged-viz.png
-outline: false
----
-
 # GED Viz, A Data Storytelling Tool
 
 I had the honor and pleasure to keynote an event in Berlin recently that introduced a new visualization tool to the world, <a href="http://viz.ged-project.de">GED Viz</a>. What makes it stand out from other web-based visualization tools is its focus on particular data, and the ability to create not just individual views, but little stories.
@@ -28,8 +19,3 @@ GED Viz is limited in its data and the kind of visualization it provides, but it
 <hr />
 
 The project was funded and run by the Bertelsmann Foundation, led by Jan Arpe and designed by <a href="http://www.esono.com">Boris Müller</a> of the University of Applied Sciences Potsdam (who some long-time readers of this blog may remember from the <a href="/blog/2006/visual-mapping-of-poetry-html"><em>Poetry in Motion</em> controversy</a>). Thanks to <a href="http://stefaner.eu">Moritz Stefaner</a> for making the connection. <a href="https://github.com/bertelsmannstift/GED-VIZ">The GED Viz source code is available on github</a>.
-
-
-<PostedBy />
-
-

@@ -1,12 +1,3 @@
----
-title: "The YouTube Screening Room"
-description: "I'm not generally a big YouTube fan. Sure, I've watched all the funny cat movies and seen people dump Mentos into bottles of Diet Coke. But little else has made me go there in some months. This has changed, though, with a new feature of the website: The YouTube Screen Room. Twice a month, four independent short films are added to the site, and the quality is amazing."
-date: 2008-07-14 22:31:32
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" border="0" alt="YouTube Screening Room" /></p>
 
 # The YouTube Screening Room
@@ -21,18 +12,3 @@ Here are my favorites so far. They're all really good though.
 <li><a href="http://youtube.com/ytscreeningroom?v=jiSu3YCDEuw">Love and War</a>. This one takes the cake. This is a stop-motion opera. And not just a reenactment of some existing opera, this is an original opera for a bunny and a bear, with all the usual ingredients of a proper opera: singing in Italian, one-dimensional characters, an overdramatic story about love and death, air raids, and pigs that fry bacon. The production values on this one are incredible, and the main theme is very catchy. This film has won scores of awards, and also has its <a href="http://loveandwar.se/">own website</a>, where you can pay $3.99 to download it in almost any format and size imaginable (up to 1080p), plus the soundtrack, high-resolution stills, etc.</li>
 </ul>
 <div>The films aren't all animated, but my favorites so far are. There are also interviews with filmmakers, and more stuff will soon be added.</div>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://techengage.com" rel="nofollow noopener" target="_blank">Modern Technologies</a> says…
->	<p>I met the walrus is one of my favorites also.</p>
-
-</aside>
-

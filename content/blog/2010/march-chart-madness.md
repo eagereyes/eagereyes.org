@@ -1,11 +1,3 @@
----
-title: "March Chart Madness"
-description: "Terrible charts seem to be in season. Rarely have I come across so many incredibly bad charts in such a short time: information graphics that don't actually depict data, distorted representations, useless color schemes, and the worst pie chart ever."
-date: 2010-03-03 09:15:27
-tags: criticism
-featuredImage: https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg" width="500" height="254" alt="Worst Pie Chart Ever" /></p>
 
 # March Chart Madness
@@ -105,38 +97,3 @@ Enough with the bad examples. Kevin Fox created this <a href="http://fury.com/20
 <p align="center"><a href="http://robcham.tumblr.com/post/297693217/thats-not-how-graphs-work-dont-tell-me-what"><img src="https://media.eagereyes.org/media/2010/mathjokes.png" width="225" height="225" alt="A Chart Joke" /></a></p>
 
 <a href="http://robcham.tumblr.com/post/297693217/thats-not-how-graphs-work-dont-tell-me-what">Found here</a>.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-JL says…
->	I agree with almost everything you've said here. But wrt the transit graph - Chicago and LA are similar?? More than twice as many people use transit in Chicago as LA, roughly 2/3 the number drive, and roughly twice as many people walk! I actually found the graphic quite readable despite some of the concerns you brought up - especially for making quick, rough comparisons on transit patterns (which is the intention). Some small numbers might have helped. But perhaps the distortion is worse than I thought if you are seeing Chicago and LA as similar - 50-100% difference is not a small differentiation!
-
-Robert Kosara says…
->	That was a typo, I meant to refer to ATL, not CHI. They're harder to compare because they're not on the same line, and the different letter shapes provide little reference. The only thing you can go by is comparing to the horizontal bar in the A.
-
-wds says…
->	I'm not so sure about the second problem you found with the waves of colour graph. Making everything above 20 the same colour could well have been intentional, since it's mostly just noise. They probably should have made a scale that says 20-100 -> this colour, but then you lose the sense of proportion.
-
-Robert Kosara says…
->	That may be the reason, but it's still the usual terrible rainbow color scale. The colors aren't equally far from each other perceptually, so you see all kinds of boundaries that aren't actually there. The colors' perceived brightness increases and decreases without any clear direction (which makes telling values apart harder). The legend is only a part of the problem here.
->	
->	I guess I'll need to write something about color to show you what the problems here are and why these things are important.
-
-<a href="http://www.design2express.com/" rel="nofollow noopener" target="_blank">Gilroy</a> says…
->	Nice Share it shows that people should use their mind before displaying statistical information with charts.
-
-Rahul says…
->	With the plots you criticize though it would be nice if you posted a better alternative. The Mozilla rings for example. The huge magnitude range poses some real visualization challenges.
-
-Olga says…
->	I agree, I loved the transit chart. It gives a quick feel of different cities. Its very visual and you can draw quick conclusions easily!
-
-</aside>
-

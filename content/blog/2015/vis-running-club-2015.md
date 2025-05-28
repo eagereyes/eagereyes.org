@@ -1,12 +1,3 @@
----
-title: "VIS Running Club 2015"
-description: "I will organize runs again at IEEE VIS in Chicago two weeks from now. As with previous years, organization will be minimal: just show up ready to run. I will prepare routes in the 3-6mi (5-10km) range."
-date: 2015-10-15 21:25:00
-tags: IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/10/running-teaser.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/running-teaser.jpg" alt="" width="825" height="510" /></p>
 
 # VIS Running Club 2015
@@ -22,8 +13,3 @@ For the routes, I will look at where people run on Strava. However, I suspect th
 We did this the first time last year at <a href="/blog/2014/vis-2014-monday">VIS</a>, and it was a lot of fun to run around Paris in the dark. I also tried it at <a href="/blog/2015/report-eurovis-2015">EuroVis</a>, but it was mostly just Stephen Kobourov and me. It was a great way to see some more of Cagliari though.
 
 So pack your shoes and shorts (and maybe some warm running clothes and a beanie/tuque) and join us! I know it's early but it's really the only time that works with all the parties and dinners and things planned for the nights.
-
-
-<PostedBy />
-
-

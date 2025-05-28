@@ -1,0 +1,13 @@
+mwjohnson says…
+>	I just started reading this blog after a talk you gave last Friday, thanks for the great talk by the way. Ironically I was just talking to a friend about reducing the amount of opacity in a mark for cases where some dimension has a lot of variance. Although not exactly the same as blur, I think the affect would be pretty similar. I would question our abilities to measure levels of opacity in vertices in a graph, and be able to compare them, ie. one vertex has more variance in some dimension than another.
+>	
+>	Thanks for the very helpful post, and even more thanks for the great timing!
+
+chansen says…
+>	For uncertainty quantification, I agree with your reflections.  Blur does not really help with uncertainty information.  However, it does help with spatial relationships of 3D space in a 2D projected image (similar to how photography uses it).  Look for our (hopefully accepted) EuroVis paper on blur for volume rendering!
+
+Robert Kosara says…
+>	It's certainly useful for purposes like these, which are essentially mimicking photography (sounds like an interesting paper!). Also, as I said, it works well for guiding attention. What blur is useless for is displaying quantitative data.
+
+chansen says…
+>	We agree!

@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2018, Part 3: New Approaches, Meet the Founders, Perception and Cognition"
-description: "The final report from VIS 2018 (see previously here and here) again covers papers, papers, and more papers. There are new ways to specify visualizations, a panel, perception research, as well as new work on how to deal with uncertainty in data."
-date: 2018-10-31 19:26:15
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2018/10/litvis.jpg
----
-
 # IEEE VIS 2018, Part 3: New Approaches, Meet the Founders, Perception and Cognition
 
 The final report from VIS 2018 (see previously <a href="/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers">here</a> and <a href="/blog/2018/ieee-vis-2018-time-evaluation-dashboards-the-future-of-vis">here</a>) again covers papers, papers, and more papers. There are new ways to specify visualizations, a panel, perception research, as well as new work on how to deal with uncertainty in data.
@@ -55,22 +47,3 @@ Showing uncertainty in the data is still an issue with many visualization types 
 ## Next Year: Vancouver
 
 Next year’s VIS will be outside the U.S. once again: Vancouver, BC (Canada), October 20-25, 2019.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamarierhyne.com" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	HI Robert:
->	
->	I enjoyed reading your 3 posts on IEEE VIS 2018,  I wanted to add another perspective from the SciVis Contest and VAST Challenge side.  There were some very strong entries both of these contests that show the creative and hard work of many teams in the visualization community.  The Sci Vis Contest involved examine deep water asteroid impact ensemble data sets and the 8 finalist teams produced compelling SciVis implementations - see (http://ieeevis.org/year/2018/info/scivis-contest).  The VAST Challenge involved identifying patterns and discovering anomalies in bird migrations that were effected by water contamination in a wild life preserve.  Again, the breath and depth on the contributions were compelling with one of the winning entries being from a team of undergraduates. See these results at (http://ieeevis.org/year/2018/info/vast-challenge-program).  Although this is not the papers or panel presentation sides of the IEEE VIS event, it is a very important part of the particle of our field.  Each of the contributions shown at these two sessions represented hours of work in the discovery to patterns in SciVis and VAST data sets.  Very impressive indeed. 
->	
->	Theresa-Marie Rhyne
-
-</aside>
-

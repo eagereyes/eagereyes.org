@@ -1,12 +1,3 @@
----
-title: "The Travelling Presidential Candidate Map"
-description: "While working on the ZIPScribble map, I started to wonder how to untangle the beautifully scribbly lines, and finding the shortest path through all ZIP codes. In computer science, this is called the Travelling Salesman Problem (TSP), and so I decided to make this the Travelling Presidential Candidate Map."
-date: 2006-12-04 09:38:26
-tags: 
-featuredImage: https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png
-outline: false
----
-
 <p align="center"><img title="Travelling Presidential Candidate Map" src="https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png" alt="Travelling Presidential Candidate Map" width="600" height="338" border="0" /></p>
 
 # The Travelling Presidential Candidate Map
@@ -42,36 +33,3 @@ This map is a lot more technical and lacks the slightly artsy appearance of the 
 <hr />
 
 After a comment below, I <a href="/blog/2007/what-travelling-presidential-candidates-save">calculated the actual savings</a> of the TPC Map as compared to the standard ZIPScribble Map.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-fatbear says…
->	Another great one!
->	
->	This time there are a few more straight line artefacts:
->	
->	VT/NH border into MA then CT - Connecticut River
->	
->	Eastern NY - Hudson River
->	
->	Biggest one: line starting in eastern OH (on Lake Erie), going down through WV, VA, NC, SC and ending in SC
->	
->	Surprisingly you x-crossed the other IL/IN, KY, TN line - just shows that travel broadens the mind
->	
->	btw, one other thing I didn't see in the other map - the WV/OH combination also includes western MD - those hill people are weird
-
-Anonymous says…
->	You found the shortest path...but how long (or short) is it?  Frequent flyer miles hang in the balance...
-
-Robert Kosara says…
->	Thanks for asking, I <a href="/blog/what-travelling-presidential-candidates-save">did the math</a>.
-
-</aside>
-

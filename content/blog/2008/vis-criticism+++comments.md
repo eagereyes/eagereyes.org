@@ -1,0 +1,2 @@
+<a href="http://www.q4sales.com" rel="nofollow noopener" target="_blank">TJ McCue</a> says…
+>	Hello, I just found your site, while researching Excel Data Visualization Experts.    I really liked your post.  Have you seen any other Excel data tool sites?  I'd enjoy connecting by email if you do.  My client's site is http://www.tableausoftware.com/fast-analytics if you're interested.  Good blog, I intend to come back.

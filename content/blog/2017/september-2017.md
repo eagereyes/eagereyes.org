@@ -1,12 +1,3 @@
----
-title: "Vis Potpourri, September 2017"
-description: "A potpourri is a collection of spices and plants that create a pleasant aroma together. This new series assembles a list of links to recently interesting things in visualization, from both information visualization (InfoVis, which I normally cover on this site) and scientific visualization (SciVis) – the latter covered by new blog collaborator and medical visualization assistant professor, Noeska Smit."
-date: 2017-09-21 06:32:12
-tags: vis-potpourri
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg" width="755" height="600" /></p>
 
 # Vis Potpourri, September 2017
@@ -32,8 +23,3 @@ The <a href="http://www.dear-data.com/theproject">Dear Data</a> project made hug
 The short video <em><a href="https://www.youtube.com/watch?v=UTdhq3cbY00">Unendurable Line</a></em> is a fascinating exercise in showing a sort of <strong>data together with the phenomenon it's based on</strong>, plus sound, in real time. It's impossible to explain, you have to watch it. It's worth two minutes of your time, though, and I don't say that lightly about videos.
 
 And that's a wrap for the first Vis Potpourri! Let us know if you like the format and if there's anything you think we should change.
-
-
-<PostedBy />
-
-

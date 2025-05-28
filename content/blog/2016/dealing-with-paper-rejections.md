@@ -1,11 +1,3 @@
----
-title: "Dealing with Paper Rejections"
-description: "For some reason, the topic of reviewing and getting papers rejected came up several times in conversations at VIS recently. Getting your work rejected and learning to deal with rejection is part of life as an academic, and it’s worthwhile to think about the process a bit."
-date: 2016-11-13 19:17:19
-tags: peer-review
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/11/shneiderman-reject.jpg
----
-
 # Dealing with Paper Rejections
 
 For some reason, the topic of reviewing and getting papers rejected came up several times in conversations at VIS recently. Getting your work rejected and learning to deal with rejection is part of life as an academic, and it’s worthwhile to think about the process a bit.
@@ -65,8 +57,3 @@ All of the above focuses on the negative. Yes, there are poor reviews. Yes, ther
 Is it perfect? No. But it’s pretty good. And while any individual rejection sucks, it still happens in the context of a system that largely works.
 
 So when you get your next rejection: read the summary, breathe, and then give it some time. It’s not the end of the world.
-
-
-<PostedBy />
-
-

@@ -1,12 +1,3 @@
----
-title: "eagereyes will be bloggier in 2015"
-description: "I always mess with my site around the new year, and this year is no exception. In addition to a new theme, I've also been thinking about content. Here are some thoughts on what I want to do in 2015."
-date: 2014-12-29 20:17:05
-tags: meta
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/12/ballard-olympics.jpg
-outline: false
----
-
 # eagereyes will be bloggier in 2015
 
 I always mess with my site around the new year, and this year is no exception. In addition to a new theme, I've also been thinking about content. Here are some thoughts on what I want to do in 2015.
@@ -24,8 +15,3 @@ As for the other content, my plan is to make a clearer distinction between blog 
 Link titles will start with "Link:" from now on, but I don't want to do that for blog postings or articles. I'm not sure yet how I will indicate the distinction, but it should at least be clear from the length and maybe the tone.
 
 The goal is to make the content easier to consume, since I know that anything beyond a few paragraphs is much less likely to be read in its entirety (or at all). And perhaps I'll even find a use for those other post types, like <em>quote</em>, <em>image</em>, and <em>aside</em>.
-
-
-<PostedBy />
-
-

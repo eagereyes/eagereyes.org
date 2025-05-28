@@ -1,12 +1,3 @@
----
-title: "The Dumbest User Interface of 2016"
-description: "It is my great honor and pleasure to announce the winner of the Worst User Interface Award 2016: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved."
-date: 2016-12-26 17:26:57
-tags: user interfaces
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg" width="720" height="500" /></p>
 
 # The Dumbest User Interface of 2016
@@ -34,41 +25,3 @@ The award is lovingly handmade from thousands of discarded “Please Swipe!” a
 <hr />
 
 <a href="https://www.flickr.com/photos/39160147@N03/15721764104/">Teaser image by JeepersMedia</a>
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Tobey says…
->	A totally deserved award!! Those things work only half the time, too. It also goes to show how far behind we are from other countries. I am currently working in Beijing, and their chip card readers are more portable, take a few seconds, make no noise and are easy and fast. And while ApplePay is lagging behind here, most stores accept AliPay and WeChat Pay, which work the same way. I think the U.S. got all the other countries' old, annoying chip readers they wanted to get rid of so they could use the nice, fast, quiet ones. Haha.
-
-<a href="http://ktest098.wordpress.com" rel="nofollow noopener" target="_blank">ktest098</a> says…
->	Still many a non-functional card slot out there, or no slot at all.  Also a shout-out to whatever companies managed to break ApplePay with the new terminals so you can try to use ApplePay only to fail and have to use the slow slot.
-
-<a href="http://www.dethwench.com" rel="nofollow noopener" target="_blank">Monika M. Wahi, MPH, CPH</a> says…
->	Thank you about all these observations! You catalog them nicely. What really stood out to me were the inappropriate sounds - you describe this better than I could!
-
-Christopher Majka says…
->	I would gladly give up a few extra seconds for additional card security!  Also, I haven't found the issues that you speak of around any terminals in MA.
-
-<a href="http://visualoverflow.wordpress.com" rel="nofollow noopener" target="_blank">visualoverflow</a> says…
->	I am not sure why does the user need a message ' DO NOT REMOVE CARD ' blinking at you . It is terribly confusing and at times I have actually removed the card just looking at the word REMOVE . 
->	
->	The consequence is waiting until the whole transaction reboots itself which is really slow.
-
-Leonard says…
->	Thankfully the US saw how Europe uses chip &amp; PIN, and decided to dispense with the PIN part. Because, you know, if someone goes to the effort of physically taking your card, they should get to treat themselves.
-
-Ben B says…
->	I feel rather sheepish to admit that I neglected to notice the "swipe" and "do not use" decor has been removed at various retailers.  I still haven't activated the new chip card my bank sent me.  Apparently I haven't missed much.
-
-<a href="https://www.facebook.com/app_scoped_user_id/571092988/" rel="nofollow noopener" target="_blank">Gary Bisaga</a> says…
->	I like how in one store, I CANNOT use the chip (must swipe) with my debit card, while at another store down the street, I MUST use the chip with that same card. It could be worse - it used to be that at the latter store, in some checkout lanes you had to use the chip while in other checkout lanes you had to swipe.
-
-</aside>
-

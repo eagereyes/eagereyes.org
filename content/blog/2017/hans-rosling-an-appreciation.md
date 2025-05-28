@@ -1,11 +1,3 @@
----
-title: "Hans Rosling: An Appreciation"
-description: "Hans Rosling died earlier today (Tuesday, February 7). He championed the idea of showing people what the world was really like – and how it was different from their preconceptions – using data and visualization. And he did it with enthusiasm and humor. This is a brief appreciation of his work and legacy."
-date: 2017-02-07 21:22:17
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/02/hans-rosling-tc14.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/hans-rosling-tc14.jpg" width="720" height="500" /></p>
 
 # Hans Rosling: An Appreciation
@@ -56,8 +48,3 @@ But more than that, I think his legacy is the inspiration to keep educating peop
 <hr />
 
 Teaser image credit and copyright: Rod Mar Photography, taken at Tableau Conference 2014.
-
-
-<PostedBy />
-
-

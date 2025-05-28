@@ -1,11 +1,3 @@
----
-title: "An Interactive Version of the ZIPScribble Map"
-description: "For more than five years, the ZIPScribble Map and its related pages have been the most popular feature on my website. To freshen things up a bit, I am adding an interactive version that runs in your browser. I have also added a few more countries, for a new total of 38."
-date: 2012-01-15 21:32:42
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png
----
-
 <p align="center"><img class="alignnone size-full wp-image-1624" title="ZIPScribble Map, interactive version" src="https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390" /></p>
 
 # An Interactive Version of the ZIPScribble Map
@@ -39,8 +31,3 @@ I have also updated all the data, which has caused some of the maps to improve c
 As a final note, the source code for all of this <a href="https://github.com/eagereyes/zipscribble">is available on github</a>.
 
 And here's the link again: <a href="/zipscribble-maps/interactive-zipscribble-map">The Interactive ZIPScribble Map</a>
-
-
-<PostedBy />
-
-

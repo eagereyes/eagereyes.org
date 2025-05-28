@@ -1,12 +1,3 @@
----
-title: "Rainbow Colormaps Are Not All Bad (Paper)"
-description: "Rainbow colormaps are among the most derided ideas in data visualization, second only to pie charts. And yet, people use them. Why? A recent paper looks at some of the reasons why they are so popular and points to research showing that they might not be so bad if used for the right tasks. There's even opportunity for interesting research in rainbow colormaps!"
-date: 2023-07-12 21:21:02
-tags: basics
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2023/07/rainbow-comparison.jpeg
-outline: false
----
-
 # Rainbow Colormaps Are Not All Bad (Paper)
 
 Rainbow colormaps are among the most derided ideas in data visualization, second only to pie charts. And yet, people use them. Why? <a href="https://www.computer.org/csdl/magazine/cg/2023/03/10128890/1NdJMHqISnS?fbclid=IwAR2Aq4iRqdmeIUCw5_Oy4vjJDGVek23wNWEGlEJMML82BWyYGplFXqK8uqU">A recent paper</a> looks at some of the reasons why they are so popular and points to research showing that they might not be so bad if used for the right tasks. There's even opportunity for interesting research in rainbow colormaps!
@@ -40,5 +31,3 @@ They end the paper with a call to improve rainbow colormaps instead of dismissin
 <hr class="wp-block-separator alignwide has-alpha-channel-opacity"/>
 
 Ware, Stone, Albers Szafir, <a href="https://www.computer.org/csdl/magazine/cg/2023/03/10128890/1NdJMHqISnS?fbclid=IwAR2Aq4iRqdmeIUCw5_Oy4vjJDGVek23wNWEGlEJMML82BWyYGplFXqK8uqU">Rainbow Colormaps Are Not All Bad</a>, <em>Computer Graphics &amp; Applications</em>, 2023.
-
-<PostedBy />

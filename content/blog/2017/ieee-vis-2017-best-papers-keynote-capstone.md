@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2017: Best Papers and Other Awards"
-description: "The IEEE VIS 2017 conference took place last week in Phoenix, AZ. I’m slower to write about it than in previous years, but to make up for that I’m not going in chronological order this time, but will break this report up in a more logical manner. This first part covers the opening, which included presentations of the best papers from all three tracks plus a new Test of Time award category."
-date: 2017-10-08 18:17:48
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png" width="750" height="409" /></p>
 
 # IEEE VIS 2017: Best Papers and Other Awards
@@ -74,8 +66,3 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
     <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
-
-
-<PostedBy />
-
-

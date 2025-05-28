@@ -1,11 +1,3 @@
----
-title: "The Island of Knowledge and the Shoreline of Wonder"
-description: "In his keynote at IEEE VIS in Paris two months ago, Alberto Cairo talked about journalism, visual explanations, and what makes a good news visualization. But mostly, he talked about curiosity."
-date: 2015-01-04 20:17:43
-tags: IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-teaser.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-teaser.png" alt="" width="825" height="510" /></p>
 
 # The Island of Knowledge and the Shoreline of Wonder
@@ -51,23 +43,3 @@ Another part of this section was my final take-away, another great little senten
 <hr />
 
 Images from Alberto Cairo’s slides, which he kindly allowed me to use.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://www.manaskriti.com" rel="nofollow noopener" target="_blank">Vani Murarka</a> says…
->	It is interesting that Alberto marks the shoreline of wonder as the edge of the island in the diagram. When I first read only the title of your post, I immediately visualized myself standing at the edge of the sea - the shoreline of wonder - and the island of knowledge is somewhere there in the middle of the sea. Marking the shoreline of wonder as the edge of the  island itself indicates that reaching the shoreline of wonder one has already reached the island of knowledge!
->	Both perspectives are fascinating.
->	First, where one perceives two different landmasses - raises some further questions - maybe the two different landmasses is simply only just a perception and there *aren't* two landmasses.
->	Second, as in the diagram above is simply beautiful - reaching the shoreline of wonder, you have reached the island of knowledge. And the more you focus on something, the more it grows (the island).
->	Thanks for sharing a beautiful phrase.
->	Am also so glad about Alberto's requirement of beauty. Beauty has its own way of creating pathways through membranes that separate perceptions / mindsets thereby adding tremendous power to the communication of the message.
-
-</aside>
-

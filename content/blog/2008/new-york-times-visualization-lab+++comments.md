@@ -1,0 +1,6 @@
+<a href="http://www.pdxsmiles.com/dental-implants-portland/" rel="nofollow noopener" target="_blank">Dr. Roger Portland</a> says…
+>	<p>The Obama Acceptance Speech Wordle is pretty interesting. I wonder if this schematic is also used by psychologists.</p>
+
+<a href="http://mkredyty.net" rel="nofollow noopener" target="_blank">Pozyczki</a> says…
+>	<p>Very nice write up. Thank for yours work.</p>
+>	<p> </p>

@@ -1,12 +1,3 @@
----
-title: "Paper: Presentation-Oriented Visualization Techniques"
-description: "Presentation is often considered a part of visualization, but what does that mean for the kinds of techniques we use? Are they the same as used for analysis? What criteria should we use to pick them? In a new paper, I discuss a class of techniques I call presentation-only."
-date: 2016-01-07 12:59:27
-tags: papers
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg" width="850" height="745" /></p>
 
 # Paper: Presentation-Oriented Visualization Techniques
@@ -32,22 +23,3 @@ If you prefer watching a video to reading: I also used an earlier version of the
 <hr />
 
 Robert Kosara, <a href="/publications/Kosara-CGA-2016">Presentation-Oriented Visualization Techniques</a>, <em>Computer Graphics and Applications</em>, vol. 36, vol. 1, pp. 80–85, 2016.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Theresa-Marie Rhyne says…
->	Thanks Robert for all of your efforts in preparing this Visualization Viewpoints article.
->	Smiles... Theresa-Marie Rhyne, Visualization Viewpoints Editor
-
-<a href="http://datavisualised.com/" rel="nofollow noopener" target="_blank">Rabii Bouhestine</a> says…
->	I just started a blog about data visualisation and this article was realy helpful for me, thanks !
-
-</aside>
-

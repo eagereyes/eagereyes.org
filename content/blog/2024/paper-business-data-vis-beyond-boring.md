@@ -1,12 +1,3 @@
----
-title: "Paper: Business Data Visualization, Beyond the Boring"
-description: "The words 'business' and 'data visualization' probably put you to sleep before you even reach the end of this sentence. But wake up! There's actually a lot of interesting work to be done in this area, if only we give it a chance."
-date: 2024-10-29 21:14:33
-tags: paper
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png" width="600" height="547" /></p>
 
 # Paper: Business Data Visualization, Beyond the Boring
@@ -24,7 +15,3 @@ I hope that this paper will serve as a bit of a provocation, and to get more peo
 <hr />
 
 Robert Kosara, <a href="/publications/Kosara-CGA-2024">Business Data Visualization, Beyond the Boring</a>, <em>Computer Graphics &amp; Applications (CG&amp;A)</em>, vol. 44, no. 5, pp. 153-158, 2024.
-
-
-<PostedBy />
-

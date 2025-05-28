@@ -1,11 +1,3 @@
----
-title: "Conference Report: Tapestry 2013"
-description: "About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the Tapestry conference for storytelling with data took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014."
-date: 2013-07-14 20:05:53
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-scott-mccloud.jpg
----
-
 # Conference Report: Tapestry 2013
 
 About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the <a href="http://tapestryconference.com">Tapestry conference for storytelling with data</a> took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014.
@@ -107,8 +99,3 @@ Throughout the day, and already on the evening before, where we had a little rec
 ## Tapestry 2014
 
 Many people have asked us whether there will be another event next year. And the good news is: yes, there will be a Tapestry 2014. Details will be announced soon. It will take place around the same time as this year, and again on the East Coast. To stay posted, follow <a href="http://blog.tapestryconference.com">the Tapestry Blog</a> and/or <a href="https://twitter.com/tapestryconf">the Tapestry Twitter account</a>. The <a href="http://tapestryconference.com">Tapestry website</a>, which embarrassingly still talks about this year's conference, will also be updated soon.
-
-
-<PostedBy />
-
-

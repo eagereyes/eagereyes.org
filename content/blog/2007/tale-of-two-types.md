@@ -1,11 +1,3 @@
----
-title: "A Tale of Two Types of Visualization and Much Confusion"
-description: "The term visualization is used to mean different things in different contexts, and even visualization that is based on data can be done for different reasons and with different goals. Mixing up these different types of visualization leads to misunderstandings and confusion. Here is an attempt at teasing apart the two major types of data-based visualization, and understanding the differences."
-date: 2007-10-10 22:39:46
-tags: criticism
-featuredImage: https://media.eagereyes.org/media/attachments/salavon_american_varietal_38.jpg
----
-
 <p align="center"><img class="aligncenter" alt="" src="https://media.eagereyes.org/media/attachments/salavon_american_varietal_38.jpg" width="600" height="150" /></p>
 
 # A Tale of Two Types of Visualization and Much Confusion
@@ -52,18 +44,3 @@ Artistic visualization is almost the exact opposite.
 </ul>
 
 Looking at one type of visualization expecting the other will lead to disappointment and misunderstandings. While there is undoubtedly an argument to be made about the two types of visualization being able to learn from each other, the first step is recognizing and appreciating the differences. Web sites like <a href="http://infosthetics.com/">infosthetics</a> blur the line and lead to confusion. That is not to say that there is no place for aesthetics in visualization (quite the opposite!), but that it is important to understand the different possible goals that can be served by visualization, and measuring the results using the right yardsticks.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://charts.jorgecamoes.com" rel="nofollow noopener" target="_blank">Jorge Camoes</a> says…
->	Too often misunderstandings originate in the designer himself that prefers a self-serving "artistic" visualization in a context where a "pragmatic" visualization is be expected by the user/reader.
-
-</aside>
-

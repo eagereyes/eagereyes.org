@@ -1,0 +1,6 @@
+Marianne says…
+>	<p>Hello, I was wondering if you could identify what is the most obvious tool to create a chart like <a href="http://www.myclimatechange.net/UserImage/3/ArroundTheWorld/CO2PerCapita.jpg" target="_blank">this one</a>, ie with custom graphics. I am not a visual professional, I work with Excel and Numbers  &amp; Keynote (Mac), but I do share your view that the presentation of data is crucial  to pass a message to an audience. Very good blog tough. Marianne</p>
+
+Robert Kosara says…
+>	<p>I don't know a charting tool that can create this kind of chart, your best bet will be some kind of drawing/illustration program. On the Mac, there's Illustrator and Photoshop, or lower-priced (and often more modern) alternatives like Acorn, OmniGraffle, etc.</p>
+>	<p>It's also a rather bad chart, though, due to the <a href="/blog/2008/linear-vs-quadratic-change">linear vs. quadratic change</a> problem.</p>

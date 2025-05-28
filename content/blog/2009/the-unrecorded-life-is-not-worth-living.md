@@ -1,12 +1,3 @@
----
-title: "The Unrecorded Life is Not Worth Living"
-description: "It has never been easier to record your daily activities. The data is all well and good, but the real value comes from visualizing it. Why visualize your mundane, boring life? Because it helps you track what you are doing, and provides motivation to get your ass to the gym."
-date: 2009-11-30 22:50:11
-tags: 
-featuredImage: https://media.eagereyes.org/media/2009/nikeplus.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240" /></p>
 
 # The Unrecorded Life is Not Worth Living
@@ -39,21 +30,4 @@ I don't generally buy into the self-surveillance thing, and I'm simply too lazy 
 
 But the real beauty of all these systems is that they're visual. The visualization is what makes them possible in the first place. Nobody wants to look at a table of data, even if it's their own. But even a simple visualization of your own real data provides a lot of motivation and keeps you interested in tracking your goals. Images are a powerful thing.
 
-----
-
-<a href="http://www.flickr.com/photos/ldandersen/249465130/">Teaser image by Buzz Andersen</a> (cropped), used under creative commons.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Joe says…
->	<p>You should check out the data and visualizations at Runkeeper.com</p>
-
-</aside>
-
+-

@@ -1,12 +1,3 @@
----
-title: "NY Times: The Best and Worst of Data Visualization"
-description: "The New York Times uses some of the best information graphics and visualizations on its web site and in the printed paper. But there is also a strange undercurrent of bad graphics, many of which commissioned from other sources, and often published in the New York Times Magazine. It almost feels like between all the good graphs, they need an outlet for the crazy stuff. "
-date: 2008-09-23 23:04:01
-tags: 
-featuredImage: https://media.eagereyes.org/media/2008/nytimes_graphs.png
-outline: false
----
-
 <p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes_graphs.png" border="0" alt="Recent NYTimes graphs" /></p>
 
 # NY Times: The Best and Worst of Data Visualization
@@ -32,8 +23,3 @@ Exhibit B is from September 21, and is an example of the ever popular pie chart,
 <p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/nytimes-callings.jpg" border="0" alt="New York Times Magazine, 21-Sep-2008" width="350" /></p>
 
 With great power comes great responsibility. The NYTimes is breaking new ground with their use of visualization and interaction, and I am grateful that they are really paying attention to what is happening in information visualization. But I wish they could reign in the their <a href="http://en.wikipedia.org/wiki/The_Ministry_of_Silly_Walks">Department of Silly Charts</a> and integrate it with the rest of the paper.
-
-
-<PostedBy />
-
-

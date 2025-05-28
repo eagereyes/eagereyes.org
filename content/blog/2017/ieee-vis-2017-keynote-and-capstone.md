@@ -1,11 +1,3 @@
----
-title: "IEEE VIS 2017: Keynote and Capstone"
-description: "Part 2 of my IEEE VIS 2017 report covers the keynote and capstone talks at the conference. They were not just at opposite ends of the conference, but also about as different as they can be in terms of content and delivery."
-date: 2017-10-09 18:17:22
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/10/giorgia-lupi-talking.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/giorgia-lupi-talking.jpg" width="720" height="480" /></p>
 
 # IEEE VIS 2017: Keynote and Capstone
@@ -47,8 +39,3 @@ See also:
     <li><a href="/blog/2017/ieee-vis-2017-perception-evaluation-vision">Perception, Evaluation, Vision Science</a></li>
     <li><a href="/blog/2017/ieee-vis-2017-machine-learning-diversity-parties">Machine Learning, Diversity, Parties</a></li>
 </ul>
-
-
-<PostedBy />
-
-

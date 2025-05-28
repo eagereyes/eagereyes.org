@@ -1,11 +1,3 @@
----
-title: "Thoughts on Blogging"
-description: "I was recently asked some questions via email about blogging. Rather than respond via email, I’ve decided to do a Gelman and post my response here."
-date: 2013-08-27 20:42:26
-tags: 
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2013/08/1280px-Hoes_one_cylinder_printing_press.png
----
-
 <p align="center"><img alt="Tapestry Triptych" src="https://media.eagereyes.org/wp-content/uploads/2013/08/1280px-Hoes_one_cylinder_printing_press.png" width="640" height="450" /></p>
 
 # Thoughts on Blogging
@@ -37,31 +29,3 @@ I have three pieces of advice.
 	<li>Hang in there. Nobody will read your blog at first. Nobody. After a year, you might have a few readers. Don’t give up. A blog doesn’t just explode onto the Internet (unless you’re incredibly lucky). It’s going to take time. If you give up after a few months with just a few readers, you will never get more.</li>
 </ol>
 That’s it. Hopefully this has been useful. Now go forth and blog!
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-<a href="http://theresamarierhyne.com/" rel="nofollow noopener" target="_blank">Theresa-Marie Rhyne</a> says…
->	Your Efforts are much appreciated.  Smiles... Theresa-Marie
-
-<a href="http://www.fortunecookiebi.com" rel="nofollow noopener" target="_blank">Mike</a> says…
->	Could I add a couple pieces of advice?
->	
->	Tell people... post your updates to Facebook, LinkedIn, Twitter, etc. 
->	Make sure that you add it to your comments on other blogs, like I shamelessly did here...
-
-<a href="http://makeapowerfulpoint.com" rel="nofollow noopener" target="_blank">Gavin</a> says…
->	Robert,
->	
->	Although I've followed your blog for a long time, this (weirdly enough) is the first post I've commented on. The to do lists and too much to write about, keep writing, all hit home.
->	
->	The comment, "I’m still not sure where this thing is going" made me smile. I've been blogging for only two years, and I’m still not sure where this thing is going. Its reassuring to think there is no end in sight. One less thing to worry about...
-
-</aside>
-

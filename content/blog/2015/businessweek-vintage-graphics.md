@@ -1,12 +1,3 @@
----
-title: "Link: Businessweek Vintage Graphics"
-description: "The BizWeekGraphics tumblr (well worth following in general) has a series of postings with a beautiful collection of graphics from the very early days of Businessweek, and also some more recent ones."
-date: 2015-01-07 07:13:16
-tags: journalism
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2014/12/flow-of-production.jpg
-outline: false
----
-
 # Link: Businessweek Vintage Graphics
 
 The <a href="http://bizweekgraphics.tumblr.com/post/105369006776/">BizWeekGraphics tumblr</a> (well worth following in general) has a series of postings with a beautiful collection of graphics from the very early days of Businessweek, and also some more recent ones:
@@ -20,8 +11,3 @@ The <a href="http://bizweekgraphics.tumblr.com/post/105369006776/">BizWeekGraphi
 </ul>
 
 If you're on Twitter, follow <a href="https://twitter.com/bizweekgraphics">bizweekgraphics</a> and its mastermind, <a href="https://twitter.com/tophtucker">Toph Tucker</a>.
-
-
-<PostedBy />
-
-

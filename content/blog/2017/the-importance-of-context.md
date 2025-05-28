@@ -1,11 +1,3 @@
----
-title: "The Importance of Context"
-description: "I use a Misfit activity tracker to count my steps. The Misfit app does a decent job of showing me step counts per day and every month, misfit also sends me a summary of the previous month’s activity. Unfortunately, the numbers in that summary are presented without any context, making that summary almost entirely useless."
-date: 2017-07-17 18:17:51
-tags: running, activity tracking, context
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png" width="600" height="486" /></p>
 
 # The Importance of Context
@@ -49,8 +41,3 @@ Even this could be improved (and I’ll have more to say about data display in f
 All of this is context, and it’s important if I’m supposed to get any value out of these numbers. Just throwing digits at me without an idea what would be good or bad (should I aim to sleep 15 hours more this month?) doesn’t help me. Numbers need to be stated in units I can understand (like hours of sleep per night), and I need some context to understand what’s good or bad – and ideally, how I’m doing relative to others or just myself.
 
 If you expect me to understand numbers, you need to give me context.
-
-
-<PostedBy />
-
-

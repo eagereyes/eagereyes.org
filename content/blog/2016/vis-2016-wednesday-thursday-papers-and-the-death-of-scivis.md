@@ -1,11 +1,3 @@
----
-title: "VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis"
-description: "Two more postings about VIS 2016 last week! Wednesday got a lot of us talking, with the Death of SciVis panel. There were also more papers on a variety of topics."
-date: 2016-10-30 19:17:06
-tags: conference, IEEEVIS
-featuredImage: https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4473.jpg
----
-
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4473.jpg" width="720" height="540" /></p>
 
 # VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis
@@ -45,22 +37,3 @@ Back to papers! It's fairly common that people create basic visual representatio
 Finding good color scales remains a common problem.<em> <a href="http://vrl.cs.brown.edu/color">Colorgorical: Creating discriminable and preferable color palettes for information visualization</a></em> by Connor C. Gramazio, David H. Laidlaw, and Karen B. Schloss is a new tool that lets designers create a new palette based on a number of criteria. It helps move beyond the classic ColorBrewer scales, not least because it lets you specify a starting color. In addition to some of the usual parameters like perceptual distance, Colorgorical also has some more unusual features, like using the name distance (how different the words for the colors are) to pick out colors that are clearly distinct. It's also worth pointing out that they compared their colors not just against other academic work, but against colors used in Microsoft Office and Tableau.
 
 There was more on Thursday, but I'm splitting things here to keep this posting to a reasonable length.
-
-
-<PostedBy />
-
-
-<aside class="comments">
-
----
-## Comments
-
-Evan says…
->	Excellent - thanks for the summary. 
->	One question: Is it really that common for people to use D3 to generate a chart that they edit in Illustrator? If so, why? D3 is not too hard once you get the hang of it, but it still seems like overkill just to generate the bones of something that you are going to modify in Illustrator. Also, what clean up can be done in Illustrator that can't be done in D3?
-
-<a href="/about" rel="nofollow noopener" target="_blank">Robert Kosara</a> says…
->	Yes, in the data journalism and infographics worlds, this is a very common workflow. There's <em>a lot</em> you can do much faster and more easily in Illustrator than in code. In principle most or all of that can be done in D3 directly, but it's way more effort and takes much longer.
-
-</aside>
-
