@@ -1,16 +1,7 @@
 import type { PageServerLoad} from './$types';
 import { readFile } from 'node:fs/promises';
-import { PageType } from './blog-pages';
-
-interface BlogPost {
-    slug: string,
-    title: string,
-    description: string,
-    date: string,
-    tags: Array<string>,
-    archived: boolean,
-    featuredImage: string,
-}
+import { PageType } from '$lib/blog-pages';
+import type { BlogPost } from '$lib/blog-pages';
 
 import posts from '../../../../content/blog-meta.json';
 

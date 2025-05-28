@@ -1,21 +1,11 @@
 <script lang="ts">
 	import type { PageProps } from './$types';
-    import { PageType, tagNames } from './blog-pages';
+    import { PageType, tagNames, formatDate } from '$lib/blog-pages';
+    import BlogList from '$lib/BlogList.svelte';
 
     import { parse } from 'marked';
 
 	let { data }: PageProps = $props();
-
-    function formatDate(date: Date | string | undefined): string {
-        if (!date) return '';
-        const d = typeof date === 'string' ? new Date(date) : date;
-
-        return d.toLocaleDateString('en-US', {
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric'
-        });
-    }
 
     let years = new Set<string>(Array.from(data.allPosts, post => post.date.substring(0, 4)));
 
@@ -29,7 +19,7 @@
 
 {#if data.display === PageType.allPosts}
     <h1>Blog Index</h1>
-    <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p>
+    <!-- <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p>
 
     {#each years as year}
         <h2><a href="/blog/{year}">{year}</a></h2>
@@ -38,16 +28,14 @@
                 <li><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a> ({formatDate(post.date)})</li>
             {/each}
         </ul>
-    {/each}
+    {/each} -->
+
+    <BlogList posts={data.allPosts} archived={false} byYear={true} />
 
 {:else if data.display === PageType.oneYear}
     <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
-    {#each data.allPosts.filter(post => !post.archived) as post}
-        <article>
-            <h2><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a></h2>
-            <em>{@html post.description}</em> ({formatDate(post.date)})
-        </article>
-    {/each}
+
+    <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
 {:else }
 <article>        
     <p>{data?.error}</p>
