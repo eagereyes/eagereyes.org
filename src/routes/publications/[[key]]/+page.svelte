@@ -31,7 +31,7 @@
 
 {#each data.papers as paper}
     <article>
-        <h2><a href="/publication/{paper._key.replaceAll(':', '-')}">{paper.title}</a></h2>
+        <h2><a href="/publications/{paper._key.replaceAll(':', '-')}">{paper.title}</a></h2>
         <p><strong>Authors:</strong> {paper.author.split(' and ').join(', ')}</p>
         <p><em>{paper.abstract}</em></p>
     </article>
