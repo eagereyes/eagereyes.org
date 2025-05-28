@@ -13,7 +13,7 @@ export interface BlogPost {
     featuredImage: string,
 }
 
-export const tagNames = {
+export const tagNames : {[key: string]: string} = {
 		"basics": "Visualization Basics",
 		"criticism": "Criticism",
 		"isotype": "ISOTYPE",
