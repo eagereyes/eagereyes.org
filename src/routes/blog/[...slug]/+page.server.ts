@@ -1,7 +1,7 @@
 import type { PageServerLoad} from './$types';
 import { readFile } from 'node:fs/promises';
-import { PageType } from '$lib/blog-pages';
-import type { BlogPost } from '$lib/blog-pages';
+import { PageType } from '$lib/blog-utils';
+import type { BlogPost } from '$lib/blog-utils';
 
 import posts from '../../../../content/blog-meta.json';
 
@@ -18,7 +18,8 @@ export const load: PageServerLoad = async ({ params }) => {
         const year = params.slug.substring(0, 4);
         allPosts = allPosts.filter(post => post.date.startsWith(year));
     } else if (params.slug.length > 5) {
-        metaIndex = (posts as Array<BlogPost>).findIndex(post => `/blog/${params.slug}` === post.path);
+        const shortSlug = params.slug.split('/')[1];
+        metaIndex = (posts as Array<BlogPost>).findIndex(post => shortSlug === post.slug);
 
         try {
             content = await readFile(`content/blog/${params.slug}.md`, 'utf-8');

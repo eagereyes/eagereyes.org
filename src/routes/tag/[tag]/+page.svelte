@@ -1,6 +1,6 @@
 <script lang="ts">
 	import type { PageProps } from './$types';
-    import { PageType, tagNames, formatDate } from '$lib/blog-pages';
+    import { PageType, tagNames, formatDate } from '$lib/blog-utils';
     import BlogList from '$lib/BlogList.svelte';
 
 	let { data }: PageProps = $props();

@@ -1,6 +1,6 @@
 import type { PageServerLoad} from './$types';
-import type { BlogPost } from '$lib/blog-pages';
-import { tagNames } from '$lib/blog-pages';
+import type { BlogPost } from '$lib/blog-utils';
+import { tagNames } from '$lib/blog-utils';
 
 import posts from '../../../../content/blog-meta.json';
 

@@ -1,7 +1,7 @@
 <script lang="ts">
 
-import type { BlogPost } from '$lib/blog-pages';
-import { formatDate } from '$lib/blog-pages';
+import type { BlogPost } from '$lib/blog-utils';
+import { formatDate } from '$lib/blog-utils';
 
 let {
         year = undefined,

@@ -1,13 +1,11 @@
 <script lang="ts">
 	import type { PageProps } from './$types';
-    import { PageType, tagNames, formatDate } from '$lib/blog-pages';
+    import { PageType, tagNames, formatDate } from '$lib/blog-utils';
     import BlogList from '$lib/BlogList.svelte';
 
     import { parse } from 'marked';
 
 	let { data }: PageProps = $props();
-
-    let years = new Set<string>(Array.from(data.allPosts, post => post.date.substring(0, 4)));
 
     let archivedPosts = data.allPosts.filter(post => post.archived);
 </script>
@@ -19,16 +17,7 @@
 
 {#if data.display === PageType.allPosts}
     <h1>Blog Index</h1>
-    <!-- <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p>
-
-    {#each years as year}
-        <h2><a href="/blog/{year}">{year}</a></h2>
-        <ul>
-            {#each data.allPosts.filter(post => post.date.startsWith(year) && !post.archived) as post}
-                <li><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a> ({formatDate(post.date)})</li>
-            {/each}
-        </ul>
-    {/each} -->
+    <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p>
 
     <BlogList posts={data.allPosts} archived={false} byYear={true} />
 
@@ -37,9 +26,8 @@
 
     <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
 {:else }
-<article>        
+<article>
     <p>{data?.error}</p>
-    <p>{data.meta?.title}</p>
     <p>{data.prevPost?.title} – {data.nextPost?.title}</p>
     {@html parse(data?.content.split('---\n')[2])}
 
