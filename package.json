@@ -17,13 +17,14 @@
 		"@sveltejs/adapter-auto": "^6.0.1",
 		"@sveltejs/kit": "^2.21.1",
 		"@sveltejs/vite-plugin-svelte": "^5.0.3",
-		"@types/node": "^22.15.21",
-		"svelte": "^5.33.2",
+		"@types/node": "^22.15.24",
+		"svelte": "^5.33.6",
 		"svelte-check": "^4.2.1",
 		"typescript": "^5.8.3",
 		"vite": "^6.3.5"
 	},
 	"dependencies": {
+		"@fontsource-variable/raleway": "^5.2.5",
 		"marked": "^15.0.12"
 	}
 }
