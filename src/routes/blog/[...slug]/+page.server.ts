@@ -7,6 +7,7 @@ import posts from '../../../../content/blog-meta.json';
 
 export const load: PageServerLoad = async ({ params }) => {
     let content = '';
+    let comments = '';
 	let error = null;
     let metaIndex = -1;
     let allPosts: Array<BlogPost> = posts as Array<BlogPost>;
@@ -27,6 +28,14 @@ export const load: PageServerLoad = async ({ params }) => {
         } catch (err: any) {
             error = String(err);
         }
+
+        if (posts[metaIndex] && posts[metaIndex].comments > 0) {
+            try {
+                comments = await readFile(`content/blog/${params.slug}+++comments.md`, 'utf-8');
+            } catch (err: any) {
+                error = String(err);
+            }
+        }
     }
 
     return {
@@ -35,6 +44,8 @@ export const load: PageServerLoad = async ({ params }) => {
         nextPost: metaIndex < posts.length ? posts[metaIndex + 1] : null,
         prevPost: metaIndex > 0 ? posts[metaIndex - 1] : null,
         allPosts: display == PageType.singlePost ? [] : allPosts,
+        numComments: posts[metaIndex] ? posts[metaIndex].comments : 0,
+        comments,
         content,
 		error
     };

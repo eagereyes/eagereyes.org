@@ -36,6 +36,13 @@
         Filed under {@html data.meta.tags.map(tag => `<a href="/tag/${tag}">${tagNames[tag]}</a>`).join(', ')}.
     {/if}
 </article>
+
+    {#if data.numComments > 0}
+        <hr>
+        <aside>
+            <h2>Comments</h2>
+            {@html parse(data.comments)}
+        </aside>
+    {/if}
+
 {/if}
-
-
