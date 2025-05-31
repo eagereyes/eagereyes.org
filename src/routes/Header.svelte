@@ -1,13 +1,12 @@
 <script lang="ts">
 	import { page } from '$app/state';
-	import logo from '$lib/images/svelte-logo.svg';
 	import github from '$lib/images/github.svg';
 </script>
 
 <header>
 	<div class="corner">
-		<a href="https://svelte.dev/docs/kit">
-			<img src={logo} alt="SvelteKit" />
+		<a href="/">
+			<img src="https://media.eagereyes.org/eagereyes-logo-dark.svg" class="logo" alt="eagereyes" />
 		</a>
 	</div>
 
@@ -38,7 +37,7 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
+		<a href="https://github.com/eagereyes">
 			<img src={github} alt="GitHub" />
 		</a>
 	</div>
@@ -51,7 +50,7 @@
 	}
 
 	.corner {
-		width: 3em;
+		width: 8em;
 		height: 3em;
 	}
 
@@ -67,12 +66,17 @@
 		width: 2em;
 		height: 2em;
 		object-fit: contain;
+		margin-left: 1em;
+	}
+
+	.corner img.logo {
+		width: 100%;
 	}
 
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
+		--background: rgb(232, 232, 232);
 	}
 
 	svg {

@@ -8,7 +8,15 @@ let {
         tag = undefined,
         archived = false,
         byYear = false,
+        numPosts = -1,
         posts
+    } : {
+        year?: string,
+        tag?: string,
+        archived?: boolean,
+        byYear?: boolean,
+        numPosts?: number,
+        posts: BlogPost[]
     } = $props();
 
 let filteredPosts = posts.filter(post => {
@@ -18,7 +26,7 @@ let filteredPosts = posts.filter(post => {
     include &&= (tag === undefined) || post.tags.includes(tag);
 
     return include;
-});
+}).slice(0, numPosts === -1 ? posts.length : numPosts);
 
 let postsByYear: Array<{year: string, posts: BlogPost[]}> = $state([]);
 

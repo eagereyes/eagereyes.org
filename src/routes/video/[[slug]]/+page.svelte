@@ -1,5 +1,6 @@
 <script lang="ts">
 	import type { PageProps } from './$types';
+    import VideoList from '$lib/VideoList.svelte';
 
 	let { data }: PageProps = $props();
 
@@ -27,10 +28,6 @@
 </div>
 {:else}
 
-{#each data.videos as video}
-    <h2><a href="/video/{video.slug}">{video.title}</a></h2>
-    <img src={`https://media.eagereyes.org/video-thumbs/${video.slug}.jpg`}
-            alt="{video.title} thumbnail"
-            width="192" />
-{/each}
+    <VideoList videos={data.videos} />
+
 {/if}

@@ -39,3 +39,4 @@ export function formatDate(date: Date | string | undefined): string {
 		day: 'numeric'
 	});
 }
+

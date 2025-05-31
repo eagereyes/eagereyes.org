@@ -1,59 +1,74 @@
 <script lang="ts">
-	import Counter from './Counter.svelte';
-	import welcome from '$lib/images/svelte-welcome.webp';
-	import welcomeFallback from '$lib/images/svelte-welcome.png';
+
+import BlogList from "$lib/BlogList.svelte";
+import VideoList from "$lib/VideoList.svelte";
+
+import type { PageProps } from './$types';
+
+let { data }: PageProps = $props();
+
 </script>
 
 <svelte:head>
 	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<meta name="description" content="eagereyes – Visualization and Visual Communication" />
 </svelte:head>
 
-<section>
-	<h1>
-		<span class="welcome">
-			<picture>
-				<source srcset={welcome} type="image/webp" />
-				<img src={welcomeFallback} alt="Welcome" />
-			</picture>
-		</span>
+<main>
+	<section class="blog">
+		<h2>Blog</h2>
+		<p>
+			<BlogList posts={data.posts} numPosts={5} />
+		</p>
+	</section>
 
-		to your new<br />SvelteKit app
-	</h1>
+	<section class="videos">
+		<h2>Videos</h2>
+		<p>
+			<VideoList videos={data.videos} numVideos={5} />
+		</p>
+	</section>
 
-	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
-	</h2>
-
-	<Counter />
-</section>
+	<!-- <section class="apps">
+		<h2>Apps</h2>
+	</section> -->
+</main>
 
 <style>
+
+	main {
+		display: flex;
+		flex-direction: row;
+		justify-content: top;
+		flex-wrap: wrap;
+		gap: 2em;
+		padding: 2em;
+	}
+
 	section {
 		display: flex;
 		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		flex: 0.6;
+		justify-content: top;
 	}
 
-	h1 {
+	h2 {
 		width: 100%;
+		margin-bottom: 0px;
 	}
 
-	.welcome {
-		display: block;
-		position: relative;
-		width: 100%;
-		height: 0;
-		padding: 0 0 calc(100% * 495 / 2048) 0;
+	p {
+		margin-top: 0px;
 	}
 
-	.welcome img {
-		position: absolute;
-		width: 100%;
-		height: 100%;
-		top: 0;
-		display: block;
+	.blog {
+		flex: 0.66;
+		width: 66%;
 	}
+
+	.videos {
+		flex: 0.34;
+		width: 34%;
+		height: 12em;
+	}
+
 </style>

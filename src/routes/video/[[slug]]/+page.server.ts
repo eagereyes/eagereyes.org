@@ -1,22 +1,7 @@
 import type { PageServerLoad } from './$types';
 
-interface Video {
-    slug: string,
-    title: string,
-    description: string,
-    ytslug: string,
-    blogpost: string,
-    date: string,
-}
-
-const blankVideo: Video = {
-    slug: '',
-    title: '',
-    description: '',
-    ytslug: '',
-    blogpost: '',
-    date: ''
-};
+import type { Video } from '$lib/video-utils';
+import { blankVideo } from '$lib/video-utils';
 
 import videos from '../../../../content/videos.json';
 
