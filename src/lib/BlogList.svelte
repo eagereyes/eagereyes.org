@@ -8,14 +8,14 @@ let {
         tag = undefined,
         archived = false,
         byYear = false,
-        numPosts = -1,
+        maxPosts = -1,
         posts
     } : {
         year?: string,
         tag?: string,
         archived?: boolean,
         byYear?: boolean,
-        numPosts?: number,
+        maxPosts?: number,
         posts: BlogPost[]
     } = $props();
 
@@ -26,7 +26,7 @@ let filteredPosts = posts.filter(post => {
     include &&= (tag === undefined) || post.tags.includes(tag);
 
     return include;
-}).slice(0, numPosts === -1 ? posts.length : numPosts);
+}).slice(0, maxPosts === -1 ? posts.length : maxPosts);
 
 let postsByYear: Array<{year: string, posts: BlogPost[]}> = $state([]);
 
@@ -55,7 +55,6 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
     {/if}
 
     {#each posts as post}
-
             <h3><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a></h3>
             <p><em>{@html post.description}</em> ({formatDate(post.date)})</p>
     {/each}

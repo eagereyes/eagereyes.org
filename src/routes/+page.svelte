@@ -10,7 +10,7 @@ let { data }: PageProps = $props();
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>eagereyes.org – Visualization and Visual Communication</title>
 	<meta name="description" content="eagereyes – Visualization and Visual Communication" />
 </svelte:head>
 
@@ -18,7 +18,7 @@ let { data }: PageProps = $props();
 	<section class="blog">
 		<h2>Blog</h2>
 		<p>
-			<BlogList posts={data.posts} numPosts={5} />
+			<BlogList posts={data.posts} maxPosts={5} />
 		</p>
 	</section>
 

@@ -36,13 +36,16 @@ export const load: PageServerLoad = async ({ params }) => {
                 error = String(err);
             }
         }
+
     }
+    const nextIndex = posts.findIndex((post, index) => index > metaIndex && ! post.archived);
+    const prevIndex = posts.findLastIndex((post, index) => index < metaIndex && ! post.archived);
 
     return {
         display,
         meta: metaIndex >= 0 ? posts[metaIndex] : null,
-        nextPost: metaIndex < posts.length ? posts[metaIndex + 1] : null,
-        prevPost: metaIndex > 0 ? posts[metaIndex - 1] : null,
+        nextPost: nextIndex < posts.length ? posts[nextIndex] : null,
+        prevPost: prevIndex >= 0 ? posts[prevIndex] : null,
         allPosts: display == PageType.singlePost ? [] : allPosts,
         numComments: posts[metaIndex] ? posts[metaIndex].comments : 0,
         comments,

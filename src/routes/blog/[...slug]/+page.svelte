@@ -11,8 +11,8 @@
 </script>
 
 <svelte:head>
-    <!-- <title>{data.metadata.title}</title>
-    <meta name="description" content={data.description} /> -->
+    <title>{data.meta?.title} – eagereyes</title>
+    <meta name="description" content={data.meta?.description} />
 </svelte:head>
 
 {#if data.display === PageType.allPosts}
@@ -27,8 +27,6 @@
     <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
 {:else }
 <article>
-    <p>{data?.error}</p>
-    <p>{data.prevPost?.title} – {data.nextPost?.title}</p>
     {@html parse(data?.content)}
 
     Posted by <a href="/about">Robert Kosara</a> on {formatDate(data.meta?.date)}.
@@ -37,12 +35,65 @@
     {/if}
 </article>
 
-    {#if data.numComments > 0}
-        <hr>
-        <aside>
-            <h2>Comments</h2>
-            {@html parse(data.comments)}
-        </aside>
-    {/if}
+{#if data.prevPost || data.nextPost}
+    <hr />
+    <div class="navigation">
+        <div class="prevnext">
+            {#if data.prevPost}
+                <p><em><a href="/blog/{data.prevPost.date.substring(0, 4)}/{data.prevPost.slug}">{data.prevPost.title}</a></em></p>
+            {/if}
+        </div>
+        <div class="prevnext next">
+            {#if data.nextPost}
+                <p class="nextpost"><em><a href="/blog/{data.nextPost.date.substring(0, 4)}/{data.nextPost.slug}">{data.nextPost.title}</a></em></p>
+            {/if}
+        </div>
+    </div>
+{/if}
+
+{#if data.numComments > 0}
+    <hr />
+    <h2 class="comments">Comments</h2>
+    <aside>
+        <p class="commentscomment">There are {data.numComments} comments on this post. Posting new comments was disabled in 2020.</p>
+        {@html parse(data.comments)}
+    </aside>
+{/if}
 
 {/if}
+
+<style>
+
+    .navigation {
+        width: 100%;
+    }
+
+    .prevnext {
+        display: inline-block;
+        width: 40%;
+        vertical-align: top;
+    }
+
+    .next {
+        float: right;
+        text-align: right;
+    }
+
+    hr {
+        margin: 2em auto 1em;
+        width: 50%;
+        border: none;
+        border-top: 1px solid #ccc;
+    }
+
+    .comments {
+        margin-bottom: 0;
+    }
+
+    .commentscomment {
+        margin-top: 0;
+        font-style: italic;
+        color: #999;
+    }
+
+</style>

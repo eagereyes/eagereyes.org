@@ -53,7 +53,7 @@
   },
   {
     "slug": "course-on-data-vis-fundamentals-and-best-practices",
-    "archived": false,
+    "archived": true,
     "comments": 2,
     "title": "Course on Data Vis Fundamentals and Best Practices",
     "description": "I'm teaching a short course on data visualization for Observable. It's free, and you should join! Starts March 7.",
