@@ -29,14 +29,15 @@
 <article>
     {@html parse(data?.content)}
 
+    <hr />
+    
     Posted by <a href="/about">Robert Kosara</a> on {formatDate(data.meta?.date)}.
     {#if data.meta?.tags && data.meta.tags.length > 0}
-        Filed under {@html data.meta.tags.map(tag => `<a href="/tag/${tag}">${tagNames[tag]}</a>`).join(', ')}.
+    Filed under {@html data.meta.tags.map(tag => `<a href="/tag/${tag}">${tagNames[tag]}</a>`).join(', ')}.
     {/if}
 </article>
 
 {#if data.prevPost || data.nextPost}
-    <hr />
     <div class="navigation">
         <div class="prevnext">
             {#if data.prevPost}
@@ -66,6 +67,7 @@
 
     .navigation {
         width: 100%;
+        margin-top: 2em;
     }
 
     .prevnext {
@@ -77,13 +79,6 @@
     .next {
         float: right;
         text-align: right;
-    }
-
-    hr {
-        margin: 2em auto 1em;
-        width: 50%;
-        border: none;
-        border-top: 1px solid #ccc;
     }
 
     .comments {
