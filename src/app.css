@@ -14,6 +14,7 @@
 	--color-text: rgba(0, 0, 0, 0.7);
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
+	--color-border: rgba(0, 0, 0, 0.1);
 	font-family: var(--font-body);
 	color: var(--color-text);
 }
@@ -26,6 +27,7 @@
 		--color-theme-1: rgb(176, 128, 198);
 		--color-theme-2: #4075a6;
 		--color-text: #ccc;
+		--color-border: rgba(255, 255, 255, 0.1);
 	}
 }
 

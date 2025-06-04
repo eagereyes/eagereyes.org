@@ -63,6 +63,8 @@ let { data }: PageProps = $props();
 	.blog {
 		flex: 0.66;
 		width: 66%;
+		border-right: 1px solid var(--color-border);
+		padding-right: 1em;
 	}
 
 	.videos {

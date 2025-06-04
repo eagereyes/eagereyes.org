@@ -11,29 +11,23 @@
 	</div>
 
 	<nav>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L1,2 C1.5,3 1.5,3 2,3 L2,0 Z" />
-		</svg>
 		<ul>
-			<li aria-current={page.url.pathname.startsWith('/blog') ? 'page' : undefined}>
+			<li aria-current={page.url.pathname.startsWith('/blog') ? 'page' : undefined} class="even narrow">
 				<a href="/blog/">Blog</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
+			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined} class="odd">
 				<a href="/video/">Videos</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined}>
+			<li aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined} class="even narrow">
 				<a href="/">Apps</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined}>
+			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined} class="odd">
 				<a href="/publications/">Papers</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined}>
+			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined} class="even">
 				<a href="/about/">About</a>
 			</li>
 		</ul>
-		<svg viewBox="0 0 2 3" aria-hidden="true">
-			<path d="M0,0 L0,3 C0.5,3 0.5,3 1,2 L2,0 Z" />
-		</svg>
 	</nav>
 
 	<div class="corner">
@@ -47,10 +41,13 @@
 	header {
 		display: flex;
 		justify-content: space-between;
+		max-width: 64rem;
+		width: 100%;
+		margin: 0 auto;
 	}
 
 	.corner {
-		width: 8em;
+		width: 10em;
 		height: 3em;
 	}
 
@@ -67,33 +64,26 @@
 		height: 2em;
 		object-fit: contain;
 		margin-left: 1em;
+		margin-top: 1em;
 	}
 
 	.corner img.logo {
 		width: 100%;
+		padding-left: 2em;
 	}
 
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgb(232, 232, 232);
-	}
-
-	svg {
-		width: 2em;
-		height: 3em;
-		display: block;
-	}
-
-	path {
-		fill: var(--background);
+		/* --background: rgb(232, 232, 232); */
 	}
 
 	ul {
 		position: relative;
 		padding: 0;
+		padding-top: 1em;
 		margin: 0;
-		height: 3em;
+		height: 2em;
 		display: flex;
 		justify-content: center;
 		align-items: center;
@@ -107,16 +97,41 @@
 		height: 100%;
 	}
 
+	li[aria-current='page'] a {
+		color: black;
+	}
+
 	li[aria-current='page']::before {
-		--size: 6px;
 		content: '';
-		width: 0;
-		height: 0;
+		width: 4em;
+		height: 2em;
+		left: 50%;
+		background: rgb(255, 239, 202);
+		transform: translateX(-50%) rotate(-5deg);
+		border-radius: 2px;
 		position: absolute;
-		top: 0;
-		left: calc(50% - var(--size));
-		border: var(--size) solid transparent;
-		border-top: var(--size) solid var(--color-theme-1);
+		mix-blend-mode: darken;
+		pointer-events: none;
+	}
+
+	li[aria-current='page'].narrow::before {
+		width: 3.5em;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		li[aria-current='page']::before {
+			background: rgb(171, 120, 0);
+			mix-blend-mode: lighten;
+		}
+
+		li[aria-current='page'] a {
+			color: white;
+		}
+
+	}
+
+	li[aria-current='page'].even::before {
+		transform: translateX(-50%) rotate(5deg);
 	}
 
 	nav a {
@@ -135,5 +150,8 @@
 
 	a:hover {
 		color: var(--color-theme-1);
+		text-decoration-line: underline;
+		text-decoration-style: wavy;
+		text-decoration-thickness: from-font;
 	}
 </style>
