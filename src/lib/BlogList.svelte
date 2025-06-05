@@ -55,6 +55,7 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
     {/if}
 
     {#each posts as post}
+            <a href="/blog/{post.date.substring(0, 4)}/{post.slug}"><img src={post.featuredImage} alt={post.title} loading="lazy" /></a>
             <h3><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a></h3>
             <p><em>{@html post.description}</em> ({formatDate(post.date)})</p>
     {/each}
@@ -63,9 +64,18 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
 <style>
     h3 {
         margin-bottom: 0em;
+        margin-top: 0em;
     }
 
     p {
         margin-top: 0em;
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 300px;
+        height: auto;
+        margin: 0 auto;
+        text-align: center;
     }
 </style>
