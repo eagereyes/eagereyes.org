@@ -15,6 +15,6 @@ Jonathan says…
 >	BTW I totally agree that we're in the infancy of data viz though.
 
 Jonathan says…
->	Ah, woop - just seen your definition: http://eagereyes.org/criticism/definition-of-visualization
+>	Ah, woop - just seen your definition: https://eagereyes.org/criticism/definition-of-visualization
 >	
 >	OK it's a very (very) broad definition, and I can see how the writing analogy fits within it. I'm still struggling to understand the premises here though.

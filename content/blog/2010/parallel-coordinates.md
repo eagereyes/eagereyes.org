@@ -14,7 +14,7 @@ Now imagine each of these columns being mapped onto a vertical axis in the image
 
 To make some sense out of this, the easiest way is to forget the part about records that span the entire width, and look at the space between each pair of axes. Mouse over the image below to focus on just one pair of axes (this likely will not work in your newsreader, you'll have to <a href="/techniques/parallel-coordinates">visit the website</a>). Look at the patterns in each of the spaces between the axes.
 
-<div style="background:url(http://eagereyes.org/media/2010/parcoords-faded.png);width:560px;height:364px;">
+<div style="background:url(https://media.eagereyes.org/media/2010/parcoords-faded.png);width:560px;height:364px;">
 <img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords1.png" style="margin-left:23px;opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords2.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords3.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords4.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;">
 </div>
 

@@ -48,7 +48,7 @@ Here is another attempt, this time looking at what a story _does_, rather than w
 - **provides a narrative path through those facts.** In other words, it guides the viewer/reader through the world, rather than just throwing them in there.
 - **presents a particular interpretation of those facts.** A story is always a particular path through a world, so it favors one way of seeing things over all others.
 
-That last point will surely get people up in arms, but give it a moment: the point is not that the story misleads or is biased, but it’s simply one point of view. The strength of visualization is not just to give you a story, but <a href="http://eagereyes.org/blog/2014/stories-are-gateways-into-worlds">also give you a world</a>. If you don’t agree with the story, or if you want to explore further, you can. Take the visualization and the data and explore for yourself.
+That last point will surely get people up in arms, but give it a moment: the point is not that the story misleads or is biased, but it’s simply one point of view. The strength of visualization is not just to give you a story, but <a href="/blog/2014/stories-are-gateways-into-worlds">also give you a world</a>. If you don’t agree with the story, or if you want to explore further, you can. Take the visualization and the data and explore for yourself.
 
 <hr />
 

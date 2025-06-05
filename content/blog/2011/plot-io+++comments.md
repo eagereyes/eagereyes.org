@@ -20,7 +20,7 @@
 >	You failed to directly respond to Robert's observation that plot.io looks a lot like Tableau. You appear to have copied what Tableau does, at least superficially (colors, shelves, panels, tabular model, basic chart attributes, etc.). If you want your product to be taken seriously, you should acknowledge your respect for Tableau and your attempt to emulate what it does. Tell us how your product is different.
 
 Alex says…
->	<blockquote cite="http://eagereyes.org/blog/2011/plot-io#comment-2607">If you want your product to be taken seriously, you should acknowledge your respect for Tableau and your attempt to emulate what it does.</blockquote>
+>	<blockquote cite="/blog/2011/plot-io#comment-2607">If you want your product to be taken seriously, you should acknowledge your respect for Tableau and your attempt to emulate what it does.</blockquote>
 >	
 >	Seriously? Have you never heard of competition?
 >	Your request for a bow-of-respect is comical.
