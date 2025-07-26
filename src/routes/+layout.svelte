@@ -2,6 +2,8 @@
 	import Header from './Header.svelte';
 	import '../app.css';
 
+	export const prerender = true;
+	
 	let { children } = $props();
 </script>
 
