@@ -28,6 +28,7 @@
 </div>
 {:else}
 
+    <h1>Videos</h1>
     <VideoList videos={data.videos} />
 
 {/if}

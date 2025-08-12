@@ -6,6 +6,8 @@ import videos from '../../content/videos.json';
 import type { BlogPost } from '$lib/blog-utils';
 import type { Video } from '$lib/video-utils';
 
+export const prerender = true;
+
 export const load: PageServerLoad = async ({ params }) => {
 
     return {

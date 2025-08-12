@@ -17,16 +17,16 @@ let { data }: PageProps = $props();
 <main>
 	<section class="blog">
 		<h2>Blog</h2>
-		<p>
+		<div>
 			<BlogList posts={data.posts} maxPosts={5} />
-		</p>
+		</div>
 	</section>
 
 	<section class="videos">
 		<h2>Videos</h2>
-		<p>
+		<div>
 			<VideoList videos={data.videos} numVideos={5} />
-		</p>
+		</div>
 	</section>
 
 	<!-- <section class="apps">
@@ -54,10 +54,6 @@ let { data }: PageProps = $props();
 	h2 {
 		width: 100%;
 		margin-bottom: 0px;
-	}
-
-	p {
-		margin-top: 0px;
 	}
 
 	.blog {
