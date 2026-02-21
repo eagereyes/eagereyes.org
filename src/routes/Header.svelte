@@ -12,19 +12,25 @@
 
 	<nav>
 		<ul>
+			<li aria-current={page.url.pathname === '/' ? 'page' : undefined} class="odd">
+				<a href="/">Home</a>
+			</li>
 			<li aria-current={page.url.pathname.startsWith('/blog') ? 'page' : undefined} class="even narrow">
 				<a href="/blog/">Blog</a>
 			</li>
 			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined} class="odd">
 				<a href="/video/">Videos</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined} class="even narrow">
+			<li aria-current={page.url.pathname.startsWith('/photo') ? 'page' : undefined} class="even">
+				<a href="/photo/">Photos</a>
+			</li>
+			<li aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined} class="odd narrow">
 				<a href="/">Apps</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined} class="odd">
+			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined} class="even">
 				<a href="/publications/">Papers</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined} class="even">
+			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined} class="odd">
 				<a href="/about/">About</a>
 			</li>
 		</ul>
