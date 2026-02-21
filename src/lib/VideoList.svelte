@@ -9,7 +9,7 @@ let {   videos,
         numVideos?: number
     } = $props();
 
-let filteredVideos = videos.slice(0, numVideos === -1 ? videos.length : numVideos);
+let filteredVideos = $derived(videos.slice(0, numVideos === -1 ? videos.length : numVideos));
 
 </script>
 

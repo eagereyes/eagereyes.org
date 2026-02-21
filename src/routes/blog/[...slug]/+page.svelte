@@ -7,7 +7,7 @@
 
 	let { data }: PageProps = $props();
 
-    let archivedPosts = data.allPosts.filter(post => post.archived);
+    let archivedPosts = $derived(data.allPosts.filter(post => post.archived));
 </script>
 
 <svelte:head>

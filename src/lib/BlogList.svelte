@@ -19,14 +19,14 @@ let {
         posts: BlogPost[]
     } = $props();
 
-let filteredPosts = posts.filter(post => {
+let filteredPosts = $derived(posts.filter(post => {
     let include = true;
     include &&= archived || !post.archived;
     include &&= (year === undefined) || post.date.startsWith(year);
     include &&= (tag === undefined) || post.tags.includes(tag);
 
     return include;
-}).slice(0, maxPosts === -1 ? posts.length : maxPosts);
+}).slice(0, maxPosts === -1 ? posts.length : maxPosts));
 
 let postsByYear: Array<{year: string, posts: BlogPost[]}> = $state([]);
 
