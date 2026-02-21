@@ -56,7 +56,7 @@
     <hr />
     <h2 class="comments">Comments</h2>
     <aside>
-        <p class="commentscomment">There are {data.numComments} comments on this post. Posting new comments was disabled in 2020.</p>
+        <p class="commentscomment">There {#if data.numComments === 1}is 1 comment{:else}are {data.numComments} comments{/if} on this post. Posting new comments was disabled in 2020.</p>
         {@html parse(data.comments)}
     </aside>
 {/if}
