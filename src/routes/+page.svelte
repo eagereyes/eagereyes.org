@@ -16,14 +16,14 @@ let { data }: PageProps = $props();
 
 <main>
 	<section class="blog">
-		<h2>Blog</h2>
+		<h1 class="section-header">Blog</h1>
 		<div>
 			<BlogList posts={data.posts} maxPosts={5} />
 		</div>
 	</section>
 
 	<section class="videos">
-		<h2>Videos</h2>
+		<h1 class="section-header">Videos</h1>
 		<div>
 			<VideoList videos={data.videos} numVideos={5} />
 		</div>

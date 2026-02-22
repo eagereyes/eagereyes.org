@@ -45,6 +45,12 @@ p {
 	font-weight: 400;
 }
 
+@media (prefers-color-scheme: dark) {
+	p {
+		font-weight: 300;
+	}
+}
+
 p {
 	line-height: 1.5;
 	font-size: 18px;
@@ -63,6 +69,11 @@ h1 {
 	font-size: 32px;
 	font-weight: 600;
 	text-align: left;
+}
+
+h1.section-header {
+	font-size: 28px;
+	letter-spacing: 0.05em;
 }
 
 h2 {
