@@ -52,12 +52,14 @@ let postsByYear = $derived.by(() => {
     {/if}
 
     {#each posts as post}
-        <article class="post-card">
+        <article class="post-card" class:no-image={!post.featuredImage}>
+            {#if post.featuredImage}
             <a class="card-image-link" href="/blog/{post.date.substring(0, 4)}/{post.slug}" tabindex="-1" aria-hidden="true">
                 <div class="card-image">
                     <img src={post.featuredImage} alt={post.title} loading="lazy" />
                 </div>
             </a>
+            {/if}
             <div class="card-body">
                 <h2 class="card-title">
                     <a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a>
@@ -173,6 +175,10 @@ let postsByYear = $derived.by(() => {
         font-size: 0.95rem;
         line-height: 1.55;
         color: var(--color-text);
+    }
+
+    .no-image .card-body {
+        padding-top: 1.25rem;
     }
 
 </style>
