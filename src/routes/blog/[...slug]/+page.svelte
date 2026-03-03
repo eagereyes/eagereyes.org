@@ -30,11 +30,13 @@
     {@html parse(data?.content)}
 
     <hr />
-    
-    Posted by <a href="/about">Robert Kosara</a> on {formatDate(data.meta?.date)}.
-    {#if data.meta?.tags && data.meta.tags.length > 0}
-    Filed under {@html data.meta.tags.map(tag => `<a href="/tag/${tag}">${tagNames[tag]}</a>`).join(', ')}.
-    {/if}
+
+    <p class="post-meta">
+        Posted by <a href="/about">Robert Kosara</a> on {formatDate(data.meta?.date)}.
+        {#if data.meta?.tags && data.meta.tags.length > 0}
+        Filed under {@html data.meta.tags.map(tag => `<a href="/tag/${tag}">${tagNames[tag]}</a>`).join(', ')}.
+        {/if}
+    </p>
 </article>
 
 {#if data.prevPost || data.nextPost}
@@ -46,7 +48,7 @@
         </div>
         <div class="prevnext next">
             {#if data.nextPost}
-                <p class="nextpost"><em><a href="/blog/{data.nextPost.date.substring(0, 4)}/{data.nextPost.slug}">{data.nextPost.title}</a></em></p>
+                <p><em><a href="/blog/{data.nextPost.date.substring(0, 4)}/{data.nextPost.slug}">{data.nextPost.title}</a></em></p>
             {/if}
         </div>
     </div>
@@ -65,22 +67,73 @@
 
 <style>
 
-    .navigation {
+    /* Blog post article */
+    article {
+        max-width: 48rem;
+        margin: 2rem auto 0;
         width: 100%;
-        margin-top: 2em;
+    }
+
+    article :global(h1) {
+        font-size: 2.6rem;
+        font-weight: 700;
+        line-height: 1.2;
+        letter-spacing: -0.02em;
+        margin-bottom: 1.75rem;
+    }
+
+    article :global(h2) {
+        font-size: 1.4rem;
+        font-weight: 700;
+        margin-top: 2.5rem;
+        margin-bottom: 0.5rem;
+    }
+
+    article :global(h3) {
+        font-size: 1.1rem;
+        font-weight: 600;
+        margin-top: 2rem;
+        margin-bottom: 0.35rem;
+    }
+
+    article :global(p) {
+        line-height: 1.7;
+    }
+
+    article :global(img) {
+        width: 100%;
+        height: auto;
+        border-radius: 4px;
+        display: block;
+        margin: 2rem 0;
+    }
+
+    /* Post metadata line */
+    .post-meta {
+        font-size: 0.88rem;
+        opacity: 0.7;
+        margin-top: 1rem;
+    }
+
+    /* Prev/next navigation */
+    .navigation {
+        max-width: 48rem;
+        margin: 2rem auto 0;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        gap: 1rem;
     }
 
     .prevnext {
-        display: inline-block;
-        width: 40%;
-        vertical-align: top;
+        flex: 1;
     }
 
     .next {
-        float: right;
         text-align: right;
     }
 
+    /* Comments */
     .comments {
         margin-bottom: 0;
     }
