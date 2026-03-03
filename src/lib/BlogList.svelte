@@ -51,30 +51,140 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
 {#each postsByYear as { year, posts }}
 
     {#if byYear}
-        <h2><a href="/blog/{year}">{year}</a></h2>
+        <h2 class="year-header"><a href="/blog/{year}">{year}</a></h2>
     {/if}
 
     {#each posts as post}
-        <a href="/blog/{post.date.substring(0, 4)}/{post.slug}"><img src={post.featuredImage} alt={post.title} loading="lazy" /></a>
-        <h2><a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a></h2>
-        <p>{@html post.description} ({formatDate(post.date)})</p>
+        <article class="post-card">
+            <a class="card-image-link" href="/blog/{post.date.substring(0, 4)}/{post.slug}" tabindex="-1" aria-hidden="true">
+                <div class="card-image">
+                    <img src={post.featuredImage} alt={post.title} loading="lazy" />
+                </div>
+            </a>
+            <div class="card-body">
+                <h2 class="card-title">
+                    <a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a>
+                </h2>
+                <p class="card-description">{@html post.description}</p>
+                <time class="card-date" datetime={post.date}>{formatDate(post.date)}</time>
+            </div>
+        </article>
     {/each}
+
 {/each}
 
 <style>
-    h2 {
-        margin-bottom: 0;
+    /* Year grouping header */
+    .year-header {
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin: 2rem 0 1rem;
+        padding-bottom: 0.4rem;
+        border-bottom: 2px solid var(--color-border);
+        letter-spacing: 0.03em;
+    }
+
+    .year-header:first-child {
         margin-top: 0;
     }
 
-    p {
-        margin-top: 0;
+    .year-header a {
+        color: var(--color-text);
+        text-decoration: none;
     }
 
-    img {
-        max-width: 100%;
-        max-height: 300px;
-        height: auto;
-        margin: 0 auto;
+    .year-header a:hover {
+        color: var(--color-theme-1);
+        text-decoration: none;
+    }
+
+    /* Card */
+    .post-card {
+        display: flex;
+        flex-direction: column;
+        border: 1px solid var(--color-border);
+        border-radius: 6px;
+        overflow: hidden;
+        margin-bottom: 2rem;
+        background-color: var(--color-bg-1);
+        transition: box-shadow 0.2s ease, transform 0.2s ease;
+    }
+
+    .post-card:hover {
+        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
+        transform: translateY(-2px);
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .post-card:hover {
+            box-shadow: 0 6px 24px rgba(0, 0, 0, 0.5);
+        }
+    }
+
+    /* Image container: forces 16:9 */
+    .card-image {
+        aspect-ratio: 16 / 9;
+        overflow: hidden;
+        width: 100%;
+        background-color: var(--color-bg-0);
+    }
+
+    .card-image-link {
+        display: block;
+        width: 100%;
+        line-height: 0;
+    }
+
+    .card-image img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform 0.3s ease;
+    }
+
+    .post-card:hover .card-image img {
+        transform: scale(1.04);
+    }
+
+    /* Text area */
+    .card-body {
+        padding: 1rem 1.25rem 1.25rem;
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+    }
+
+    .card-title {
+        font-size: 1.15rem;
+        font-weight: 700;
+        margin: 0;
+        line-height: 1.35;
+    }
+
+    .card-title a {
+        color: var(--color-text);
+        text-decoration: none;
+    }
+
+    .card-title a:hover {
+        color: var(--color-theme-1);
+        text-decoration: none;
+    }
+
+    .card-description {
+        margin: 0;
+        font-size: 0.95rem;
+        line-height: 1.55;
+        color: var(--color-text);
+    }
+
+    .card-date {
+        display: block;
+        font-size: 0.82rem;
+        color: var(--color-theme-2);
+        letter-spacing: 0.02em;
+        margin-top: 0.2rem;
+        opacity: 0.85;
     }
 </style>
