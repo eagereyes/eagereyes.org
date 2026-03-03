@@ -28,23 +28,20 @@ let filteredPosts = $derived(posts.filter(post => {
     return include;
 }).slice(0, maxPosts === -1 ? posts.length : maxPosts));
 
-let postsByYear: Array<{year: string, posts: BlogPost[]}> = $state([]);
-
-let tempPosts : {[key: string]: BlogPost[]} = {};
-
-filteredPosts.forEach(post => {
-    const postYear = post.date.substring(0, 4);
-    if (!tempPosts[postYear]) {
-        tempPosts[postYear] = [];
-    }
-    tempPosts[postYear].push(post);
+let postsByYear = $derived.by(() => {
+    const tempPosts: {[key: string]: BlogPost[]} = {};
+    filteredPosts.forEach(post => {
+        const postYear = post.date.substring(0, 4);
+        if (!tempPosts[postYear]) {
+            tempPosts[postYear] = [];
+        }
+        tempPosts[postYear].push(post);
+    });
+    return Object.entries(tempPosts).reverse().map(([year, posts]) => ({
+        year,
+        posts
+    }));
 });
-
-postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
-    year,
-    posts
-}));
-
 
 </script>
 
