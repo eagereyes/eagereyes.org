@@ -88,7 +88,7 @@
     .commentscomment {
         margin-top: 0;
         font-style: italic;
-        color: #999;
+        color: var(--color-text);
     }
 
 </style>

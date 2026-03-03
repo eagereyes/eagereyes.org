@@ -131,8 +131,8 @@ button:focus:not(:focus-visible) {
 
 .visually-hidden {
 	border: 0;
-	clip: rect(0 0 0 0);
-	height: auto;
+	clip-path: inset(50%);
+	height: 1px;
 	margin: 0;
 	overflow: hidden;
 	padding: 0;

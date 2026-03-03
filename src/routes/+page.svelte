@@ -39,7 +39,7 @@ let { data }: PageProps = $props();
 	main {
 		display: flex;
 		flex-direction: row;
-		justify-content: top;
+		justify-content: flex-start;
 		flex-wrap: wrap;
 		gap: 2em;
 		padding: 2em;
@@ -48,7 +48,7 @@ let { data }: PageProps = $props();
 	section {
 		display: flex;
 		flex-direction: column;
-		justify-content: top;
+		justify-content: flex-start;
 	}
 
 	h2 {

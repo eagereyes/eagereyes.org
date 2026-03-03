@@ -62,13 +62,13 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
 {/each}
 
 <style>
-    h3 {
-        margin-bottom: 0em;
-        margin-top: 0em;
+    h2 {
+        margin-bottom: 0;
+        margin-top: 0;
     }
 
     p {
-        margin-top: 0em;
+        margin-top: 0;
     }
 
     img {
@@ -76,6 +76,5 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
         max-height: 300px;
         height: auto;
         margin: 0 auto;
-        text-align: center;
     }
 </style>

@@ -81,7 +81,6 @@
 	nav {
 		display: flex;
 		justify-content: center;
-		/* --background: rgb(232, 232, 232); */
 	}
 
 	ul {
@@ -94,8 +93,6 @@
 		justify-content: center;
 		align-items: center;
 		list-style: none;
-		background: var(--background);
-		background-size: contain;
 	}
 
 	li {
