@@ -29,6 +29,6 @@
 {:else}
 
     <h1>Videos</h1>
-    <VideoList videos={data.videos} />
+    <VideoList videos={data.videos} showDescriptions={true} />
 
 {/if}
