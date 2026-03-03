@@ -11,6 +11,12 @@
 		return author.split(' and ').join(', ');
 	}
 
+	function truncate(text: string, max = 500) {
+		if (text.length <= max) return text;
+		const cut = text.lastIndexOf(' ', max);
+		return text.slice(0, cut > 0 ? cut : max).trimEnd() + '…';
+	}
+
 </script>
 
 <svelte:head>
@@ -56,7 +62,9 @@
                 <a href="/publications/{paper._key.replaceAll(':', '-')}">{paper.title}</a>
             </h2>
             <p class="card-byline">{authors(paper.author)} &mdash; <em>{paper.venue}</em>, {year(paper._key)}</p>
-            <p class="card-abstract">{paper.abstract}</p>
+            {#if paper.abstract}
+                <p class="card-abstract">{truncate(paper.abstract)}{#if paper.abstract.length > 500} &nbsp;<a href="/publications/{paper._key.replaceAll(':', '-')}">[More]</a>{/if}</p>
+            {/if}
         </div>
     </article>
 {/each}
