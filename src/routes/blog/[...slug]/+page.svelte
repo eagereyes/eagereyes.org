@@ -8,6 +8,7 @@
 	let { data }: PageProps = $props();
 
     let archivedPosts = $derived(data.allPosts.filter(post => post.archived));
+    let years = $derived(data.allYears ?? []);
 </script>
 
 <svelte:head>
@@ -19,10 +20,22 @@
     <h1>Blog Index</h1>
     <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p>
 
+    <nav class="year-nav">
+        {#each years as year}
+            <a href="/blog/{year}">{year}</a>
+        {/each}
+    </nav>
+
     <BlogList posts={data.allPosts} archived={false} byYear={true} />
 
 {:else if data.display === PageType.oneYear}
     <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
+
+    <nav class="year-nav">
+        {#each years as year}
+            <a href="/blog/{year}" class:current={year === data.allPosts[0].date.substring(0, 4)}>{year}</a>
+        {/each}
+    </nav>
 
     <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
 {:else }
@@ -66,6 +79,29 @@
 {/if}
 
 <style>
+
+    .year-nav {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        margin: 1rem 0 2rem;
+    }
+
+    .year-nav a {
+        padding: 0.25rem 0.6rem;
+        border: 1px solid var(--color-border);
+        border-radius: 4px;
+        font-size: 0.9rem;
+        text-decoration: none;
+        color: var(--color-text);
+    }
+
+    .year-nav a:hover,
+    .year-nav a.current {
+        background: var(--color-theme-1);
+        border-color: var(--color-theme-1);
+        color: white;
+    }
 
     /* Blog post article */
     article {

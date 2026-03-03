@@ -1,7 +1,7 @@
 <script lang="ts">
 
 import type { BlogPost } from '$lib/blog-utils';
-import { formatDate } from '$lib/blog-utils';
+import { formatDate, tagNames } from '$lib/blog-utils';
 
 let {
         year = undefined,
@@ -65,6 +65,13 @@ let postsByYear = $derived.by(() => {
                     <a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a>
                 </h2>
                 <p class="card-description">{@html post.description}</p>
+                {#if post.tags && post.tags.length > 0}
+                <div class="card-tags">
+                    {#each post.tags as t}
+                        <a href="/tag/{t}" class="tag">{tagNames[t] ?? t}</a>
+                    {/each}
+                </div>
+                {/if}
             </div>
         </article>
     {/each}
@@ -179,6 +186,30 @@ let postsByYear = $derived.by(() => {
 
     .no-image .card-body {
         padding-top: 1.25rem;
+    }
+
+    .card-tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.35rem;
+        margin-top: 0.4rem;
+    }
+
+    .tag {
+        font-size: 0.78rem;
+        padding: 0.15rem 0.5rem;
+        border-radius: 3px;
+        background: var(--color-bg-0);
+        border: 1px solid var(--color-border);
+        color: var(--color-text);
+        text-decoration: none;
+        opacity: 0.8;
+    }
+
+    .tag:hover {
+        opacity: 1;
+        border-color: var(--color-theme-1);
+        color: var(--color-theme-1);
     }
 
 </style>
