@@ -36,12 +36,21 @@ let filteredVideos = $derived(videos.slice(0, numVideos === -1 ? videos.length :
 
     .video-item img {
         width: 100%;
+        max-width: 350px;
+        filter: brightness(0.6);
         height: auto;
         display: block;
+    }
+    .video-item a:hover img {
+        filter: brightness(1);
+    }
+    .video-item img:hover {
+        filter: brightness(1);
     }
 
     .video-title {
         position: absolute;
+        max-width: 350px;
         bottom: 0;
         left: 0;
         right: 0;
