@@ -11,6 +11,9 @@ interface Paper {
 	pages?: string,
 	doi?: string,
 	abstract: string,
+	publisher?: string,
+	editor?: string,
+	note?: string,
 	_thumb?: string
 }
 

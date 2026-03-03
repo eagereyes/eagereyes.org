@@ -4,7 +4,7 @@
 	let { data }: PageProps = $props();
 
 	function year(key: string) {
-		return key.slice(-4);
+		return key.split(':').at(-1)!.slice(0, 4);
 	}
 
 	function authors(author: string) {
@@ -15,6 +15,70 @@
 		if (text.length <= max) return text;
 		const cut = text.lastIndexOf(' ', max);
 		return text.slice(0, cut > 0 ? cut : max).trimEnd() + '…';
+	}
+
+	function formatCitation(paper: typeof data.paper): string {
+		const yr = year(paper._key);
+		const names = paper.author.split(' and ').map(s => s.trim());
+		const authorStr = names.length === 1
+			? names[0]
+			: names.slice(0, -1).join(', ') + ', &amp; ' + names[names.length - 1];
+
+		let cite = `${authorStr} (${yr}). ${paper.title}. `;
+
+		if (paper._type === 'article') {
+			cite += `<em>${paper.venue}</em>`;
+			if (paper.volume) {
+				cite += `, <em>${paper.volume}</em>`;
+				if (paper.number) cite += `(${paper.number})`;
+			}
+			if (paper.pages) cite += `, ${paper.pages}`;
+			cite += '.';
+		} else {
+			if (paper._type === 'inbook' && paper.editor) {
+				cite += `In ${paper.editor} (Ed.), `;
+			} else {
+				cite += 'In ';
+			}
+			cite += `<em>${paper.venue}</em>`;
+			if (paper.pages) cite += ` (pp. ${paper.pages})`;
+			if (paper.publisher) cite += `. ${paper.publisher}`;
+			cite += '.';
+		}
+
+		if (paper.doi) {
+			cite += ` <a href="https://doi.org/${paper.doi}">https://doi.org/${paper.doi}</a>`;
+		}
+
+		return cite;
+	}
+
+	function toBibtex(paper: typeof data.paper): string {
+		const type = paper._type;
+		const key = paper._key;
+		const yr = year(key);
+		const venueField = type === 'article' ? 'journal' : 'booktitle';
+
+		const fields: [string, string | number | undefined][] = [
+			['author',    paper.author],
+			['title',     paper.title],
+			[venueField,  paper.venue],
+			['year',      yr],
+			['volume',    paper.volume],
+			['number',    paper.number],
+			['pages',     typeof paper.pages === 'string' ? paper.pages.replace('-', '--') : paper.pages],
+			['publisher', paper.publisher],
+			['editor',    paper.editor],
+			['doi',       paper.doi],
+			['note',      paper.note],
+		];
+
+		const body = fields
+			.filter(([, v]) => v !== undefined && v !== null && v !== '')
+			.map(([k, v]) => `  ${k} = {${v}}`)
+			.join(',\n');
+
+		return `@${type}{${key},\n${body}\n}`;
 	}
 
 </script>
@@ -34,16 +98,16 @@
             <img class="paper-thumb" src="https://media.eagereyes.org{data.paper._thumb}" alt="Thumbnail for {data.paper.title}" />
         {/if}
 
-        <div class="paper-meta">
-            <p class="meta-authors"><strong>Authors:</strong> {authors(data.paper.author)}</p>
-            <p class="meta-venue"><em>{data.paper.venue}</em>, {year(data.paper._key)}</p>
-            {#if data.paper.doi}
-                <p class="meta-doi"><strong>DOI:</strong> <a href="https://doi.org/{data.paper.doi}">{data.paper.doi}</a></p>
-            {/if}
-        </div>
+        <p class="paper-citation">{@html formatCitation(data.paper)}</p>
     </div>
 
+    <details class="bibtex-block">
+        <summary>BibTeX</summary>
+        <pre><code>{toBibtex(data.paper)}</code></pre>
+    </details>
+    
     <p class="paper-abstract">{data.paper.abstract}</p>
+
 </div>
 
 {:else}
@@ -108,22 +172,43 @@
         display: block;
     }
 
-    .paper-meta {
-        display: flex;
-        flex-direction: column;
-        gap: 0.35rem;
-    }
-
-    .paper-meta p {
+    .paper-citation {
         margin: 0;
-        line-height: 1.5;
         font-size: 0.95rem;
+        line-height: 1.6;
     }
 
     .paper-abstract {
         font-style: italic;
         line-height: 1.7;
         color: var(--color-text);
+    }
+
+    .bibtex-block {
+        margin-top: 1.5rem;
+    }
+
+    .bibtex-block summary {
+        cursor: pointer;
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: var(--color-theme-1);
+        user-select: none;
+    }
+
+    .bibtex-block pre {
+        margin-top: 0.75rem;
+        padding: 1rem;
+        background: var(--color-bg-2, var(--color-bg-1));
+        border: 1px solid var(--color-border);
+        border-radius: 4px;
+        overflow-x: auto;
+        font-size: 0.85rem;
+        line-height: 1.5;
+    }
+
+    .bibtex-block code {
+        font-family: monospace;
     }
 
     /* ── Publications list ─────────────────────────── */
