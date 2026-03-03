@@ -66,7 +66,6 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
                     <a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a>
                 </h2>
                 <p class="card-description">{@html post.description}</p>
-                <time class="card-date" datetime={post.date}>{formatDate(post.date)}</time>
             </div>
         </article>
     {/each}
@@ -179,12 +178,4 @@ postsByYear = Object.entries(tempPosts).reverse().map(([year, posts]) => ({
         color: var(--color-text);
     }
 
-    .card-date {
-        display: block;
-        font-size: 0.82rem;
-        color: var(--color-theme-2);
-        letter-spacing: 0.02em;
-        margin-top: 0.2rem;
-        opacity: 0.85;
-    }
 </style>

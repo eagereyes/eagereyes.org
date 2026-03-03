@@ -69,4 +69,22 @@ let { data }: PageProps = $props();
 		height: 12em;
 	}
 
+	@media (max-width: 768px) {
+		main {
+			flex-direction: column;
+			padding: 1em;
+		}
+
+		.blog {
+			width: 100%;
+			border-right: none;
+			padding-right: 0;
+		}
+
+		.videos {
+			width: 100%;
+			height: auto;
+		}
+	}
+
 </style>
