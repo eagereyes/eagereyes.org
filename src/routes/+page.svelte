@@ -51,11 +51,6 @@ let { data }: PageProps = $props();
 		justify-content: flex-start;
 	}
 
-	h2 {
-		width: 100%;
-		margin-bottom: 0px;
-	}
-
 	.blog {
 		flex: 0.66;
 		width: 66%;
