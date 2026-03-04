@@ -29,6 +29,20 @@
 {:else}
 
     <h1>Videos</h1>
-    <VideoList videos={data.videos} showDescriptions={true} />
+    <div class="video-grid">
+        <VideoList videos={data.videos} showDescriptions={true} />
+    </div>
 
 {/if}
+
+<style>
+    .video-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .video-grid :global(.video-card) {
+        margin-bottom: 0;
+    }
+</style>

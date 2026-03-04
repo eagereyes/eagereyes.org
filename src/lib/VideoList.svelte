@@ -4,11 +4,13 @@ import type { Video } from '$lib/video-utils';
 
 let {   videos,
         numVideos = -1,
-        showDescriptions = false
+        showDescriptions = false,
+        useHeading = true
     }: {
         videos: Video[],
         numVideos?: number,
-        showDescriptions?: boolean
+        showDescriptions?: boolean,
+        useHeading?: boolean
     } = $props();
 
 let filteredVideos = $derived(videos.slice(0, numVideos === -1 ? videos.length : numVideos));
@@ -24,9 +26,15 @@ let filteredVideos = $derived(videos.slice(0, numVideos === -1 ? videos.length :
             </div>
         </a>
         <div class="card-body">
-            <h2 class="card-title">
-                <a href="/video/{video.slug}">{video.title}</a>
-            </h2>
+            {#if useHeading}
+                <h2 class="card-title">
+                    <a href="/video/{video.slug}">{video.title}</a>
+                </h2>
+            {:else}
+                <p class="card-title">
+                    <a href="/video/{video.slug}">{video.title}</a>
+                </p>
+            {/if}
             {#if showDescriptions}
                 <p class="card-description">{video.description}</p>
             {/if}
@@ -93,8 +101,7 @@ let filteredVideos = $derived(videos.slice(0, numVideos === -1 ? videos.length :
     }
 
     .card-title {
-        font-size: 1.15rem;
-        font-weight: 700;
+        font-size: 1rem;
         margin: 0;
         line-height: 1.35;
     }

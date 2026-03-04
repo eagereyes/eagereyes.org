@@ -25,7 +25,7 @@ let { data }: PageProps = $props();
 	<section class="videos">
 		<h1 class="section-header">Videos</h1>
 		<div>
-			<VideoList videos={data.videos} numVideos={5} />
+			<VideoList videos={data.videos} numVideos={5} useHeading={false} />
 		</div>
 	</section>
 
