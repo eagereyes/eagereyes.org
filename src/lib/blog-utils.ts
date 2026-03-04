@@ -27,6 +27,8 @@ export const tagNames : {[key: string]: string} = {
 		"influences": "Lists of Influences",
 		"meta": "Meta/Site News",
 		"pie-charts": "Pie Charts",
+		"ieeevis": "IEEE VIS",
+		"eurovis": "EuroVis",
 }
 
 export function formatDate(date: Date | string | undefined): string {

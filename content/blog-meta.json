@@ -556,7 +556,7 @@
     "date": "2019-10-17T07:52:12",
     "tags": [
       "paper",
-      "pie charts"
+      "pie-charts"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VISShort-2019.png",
     "outline": false
@@ -682,7 +682,7 @@
     "date": "2019-06-03T01:08:43",
     "tags": [
       "paper",
-      "pie charts"
+      "pie-charts"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png",
     "outline": false
@@ -718,9 +718,7 @@
     "title": "Link: Maarten Lambrecht's List of 2018 Visualization Lists",
     "description": "I'm not generally a fan of year-end lists, but they do provide a great way to see many fantastic pieces of work in one place. And if a simple list already does that, what might a list of lists do? Check out Maarten Lambrecht's List of 2018 Visualization Lists to find out!",
     "date": "2019-01-02T18:29:00",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/01/image.png",
     "outline": false
   },
@@ -1286,9 +1284,7 @@
     "title": "How Do We Know That? – Video of My Talk at UW",
     "description": "I gave a talk at the University of Washington a few weeks ago. This is an extended version of my BELIV paper An Empire Built on Sand from last year, with more examples and a lot more jokes. You'll learn about various things we know and don't know about visualization, and also whether spinach and carrots actually are good for you.",
     "date": "2017-04-04T20:04:30",
-    "tags": [
-      "blog/2016"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/04/uw-talk.png",
     "outline": false
   },
@@ -1753,8 +1749,7 @@
     "description": "I gave a talk at Information+ earlier this year that has now been posted. It's about pie charts! And it was a fun talk, too.",
     "date": "2016-09-21T18:48:40",
     "tags": [
-      "pie charts",
-      "blog/2016"
+      "pie-charts"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png",
     "outline": false
@@ -1789,9 +1784,7 @@
     "title": "Link: xkcd's Earth Temperature Timeline",
     "description": "Randall Munroe has done it again. His latest xkcd comic is an enormous timeline of the Earth's temperature, showing the enormously long time we have temperature estimates for, and how little it has changed until very, very recently.",
     "date": "2016-09-12T21:29:52",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/xkcd-temperature.png",
     "outline": false
   },
@@ -1878,9 +1871,7 @@
     "title": "Link: Our World in Data",
     "description": "Our World in Data looks at a wide variety of data about the world: health, population, energy, growth, inequality, etc. Max Roser and his colleagues dig through the vast amounts of open data to find many interesting connections and insights.",
     "date": "2016-08-10T07:32:20",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/owid-teaser.png",
     "outline": false
   },
@@ -1914,9 +1905,7 @@
     "title": "Link: Mona Chalabi's Data Sketches on Instagram",
     "description": "Mona Chalabi has one of the most interesting Instagram feeds for people interested in data visualization. She draws data by hand. It's interesting data, too, and her approach is accessible and inspiring.",
     "date": "2016-07-07T07:17:22",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/07/chalabi-teaser2.jpg",
     "outline": false
   },
@@ -1955,7 +1944,7 @@
     "date": "2016-06-27T19:37:26",
     "tags": [
       "study",
-      "pie charts"
+      "pie-charts"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/06/variations-error-relative.png"
   },
@@ -2017,7 +2006,7 @@
     "tags": [
       "paper",
       "eurovis",
-      "pie charts",
+      "pie-charts",
       "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/pie-package-teaser.png"
@@ -2137,9 +2126,7 @@
     "title": "Links: Scott Klein on the History of Data Journalism",
     "description": "The history of data journalism goes back much farther than most people assume. Long before computers or punch cards, and before even the first newspapers the way we know them today, data was being published. ProPublica's Scott Klein has been digging up a lot of interesting history.",
     "date": "2016-04-06T21:06:35",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/04/20160316-cholera-graphic-630.jpg",
     "outline": false
   },
@@ -2185,9 +2172,7 @@
     "title": "2015 Year in Graphics Links",
     "description": "A bit late, but here are links to a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year.",
     "date": "2016-02-01T22:47:38",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/02/yearingraphics2015.png",
     "outline": false
   },
@@ -2198,9 +2183,7 @@
     "title": "Link: Tamara Munzner Has A Blog!",
     "description": "Late last year, Tamara Munzner started a blog, called Vis &amp; More. So far, she mostly writes in response to Stephen Few's postings late last year about some recent visualization papers. Her style is quite academic (most of her posting titles start with \"On\"…), but very readable and she has lots of interesting things to say.",
     "date": "2016-01-27T20:16:26",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/TamaraMunzner.jpg",
     "outline": false
   },
@@ -2282,9 +2265,7 @@
     "title": "Link: The NIPS Experiment",
     "description": "The conference on Neural Information Processing Systems (NIPS) has conducted a fascinating experiment: split the program committee into two and get 10% of submissions reviewed by both. The article I'm linking to above has a great analysis of what they found (and it's not encouraging).",
     "date": "2015-11-17T22:54:02",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/nips-teaser.png",
     "outline": false
   },
@@ -2433,9 +2414,7 @@
     "title": "Link: PolicyViz Blog and Podcast",
     "description": "Jon Schwabish is running a blog and podcast called PolicyViz. In both, he talks about communicating data and how to deal with numbers for the general public. He recently had two interesting guests back-to-back on his podcast: Nigel Holmes and Edward Tufte. Both episodes are well worth listening to.",
     "date": "2015-10-13T19:53:29",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/policyviz-teaser.jpg",
     "outline": false
   },
@@ -2469,9 +2448,7 @@
     "title": "Encounters with HCI Pioneers",
     "description": "Ben Shneiderman has put together a series of postings about the Pioneers of Human-Computer Interaction (HCI). Each includes a brief biography, some personal notes by Ben, as well as Ben's photos of them. The latter are particularly remarkable, often going back to the 1980s – like the gem at the top of this page, showing the man himself in 1986.",
     "date": "2015-09-01T20:14:09",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/09/shneider-man.jpg",
     "outline": false
   },
@@ -2504,9 +2481,7 @@
     "title": "Link: Visualization Publication Data Collection",
     "description": "People from Georgia Tech, INRIA, University of Stuttgart, and other institutions have put together a comprehensive dataset of all papers presented at Vis/VisWeek/VIS since 1990. This was first collected for a set of visualizations last year, but has been updated with the 2014 data. They intend on keeping it up to date.",
     "date": "2015-06-17T07:43:08",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/06/vispubdata.jpg",
     "outline": false
   },
@@ -2599,9 +2574,7 @@
     "title": "Link: The Power of Wee Things",
     "description": "Lena Groeger (of ProPublica) has written a beautiful piece about the Power of Wee Things. She talks about using small things, multiples, and units to display data and get people interested. The article goes through many, many examples covering many different areas and ideas. She also gave a great talk on the topic at OpenVis 2014.",
     "date": "2015-04-22T06:17:53",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/waldo.jpg",
     "outline": false
   },
@@ -2693,9 +2666,7 @@
     "title": "Link: The Graphic Continuum",
     "description": "The Graphic Continuum is a poster created by Jon Schwabish and Severino Ribecca (the man behind the Data Visualisation Catalogue). It lists almost 90 different chart types and organizes them into five large groups: distribution, time, comparing categories, geospatial, part-to-whole, and relationships. Some of them are connected across groups where there are further similarities.\nThe poster is printed very nicely and makes for a great piece of wall art to stare at when thinking about data, and maybe to get an idea for what new visualization to try.",
     "date": "2015-02-25T07:17:10",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/graphic-continuum-cropped.jpg",
     "outline": false
   },
@@ -2706,9 +2677,7 @@
     "title": "Link: Joint Committee on Standards for Graphic Presentation (1915)",
     "description": "An article in the Publications of the American Statistical Association by the Joint Committee on Standards for Graphic Presentation laid down some standards for how to create good data visualizations. In 1915.",
     "date": "2015-02-18T07:17:47",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/standards-teaser.gif",
     "outline": false
   },
@@ -2797,9 +2766,7 @@
     "title": "Link: Data Viz Done Right",
     "description": "Andy Kriebel's Data Viz Done Right is a remarkable little website. He collects good examples of data visualization and talks about what works and what doesn't. He does have bits of criticism sometimes, but he always has more positive than negative things to say about his picks. Good stuff.",
     "date": "2015-01-21T07:17:48",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/data-viz-done-right.png",
     "outline": false
   },
@@ -2820,9 +2787,7 @@
     "title": "Links: 2014 News Graphics Round-Ups",
     "description": "In the past, it used to be difficult to find news graphics from the main news organizations. In the last few years, they have started to post year-end lists of their work, which are always a treat to walk through. With the new year a few weeks behind us, this is a good time to look at these as collections of news graphics.",
     "date": "2015-01-14T07:17:00",
-    "tags": [
-      "blog/2015"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/nzz-chronik.png",
     "outline": false
   },
@@ -3146,9 +3111,7 @@
     "title": "NewsVis.org, The Directory of News Visualizations",
     "description": "When I was in Portland over the holidays a few weeks ago, I noticed a visualization in the local newspaper, The Oregonian. I had never heard of that before, nor of Mark Friesen, who created it. Wondering how many visualizations I might be missing, I decided to build a website that would collect them all: newsvis.org.",
     "date": "2014-03-02T20:49:33",
-    "tags": [
-      "blog/2013"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-4.29.49-PM.png"
   },
   {
@@ -3998,9 +3961,7 @@
     "title": "Storytelling: Minard vs. Nightingale",
     "description": "There is a lot of confusion about storytelling and what tells a story. I have argued previously that stories do not tell themselves. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it.",
     "date": "2012-08-13T20:34:40",
-    "tags": [
-      "blog/2013"
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/06/Minard-Napoleon.png"
   },
   {
@@ -4231,7 +4192,7 @@
     "description": "As newspaper graphics go, scatterplots are a fairly advanced technique. They tend to show a reasonably large amount of data as single points, and they require the reader to have an idea what to look for. Most newspapers never bother using scatterplots for that reason, which is really too bad. With some explanation, a scatterplot can be a very effective means of displaying data, and in particular to allow the user to drill into the data a little bit.",
     "date": "2012-04-22T20:55:20",
     "tags": [
-      "blog/2013"
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes.png"
   },
@@ -4262,9 +4223,7 @@
     "title": "What Does It Mean to Inform?",
     "description": "Information graphics are meant to carry meaning, so that readers can learn something about data, facts, or processes. But what does it mean to inform? And how does the goal of informing in information graphics differ from analytical visualization?",
     "date": "2012-04-01T20:30:39",
-    "tags": [
-      "blog/2013"
-    ],
+    "tags": [],
     "featuredImage": null,
     "outline": false
   },
