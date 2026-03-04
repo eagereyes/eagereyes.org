@@ -14,4 +14,18 @@
 
 <h1>Blog posts filed under <em>{data.tagName}</em></h1>
 
-<BlogList posts={data.posts} tag={data.tag} />
+<div class="post-grid">
+    <BlogList posts={data.posts} tag={data.tag} />
+</div>
+
+<style>
+    .post-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .post-grid :global(.post-card) {
+        margin-bottom: 0;
+    }
+</style>

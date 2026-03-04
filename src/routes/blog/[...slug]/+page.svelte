@@ -26,7 +26,9 @@
         {/each}
     </nav>
 
-    <BlogList posts={data.allPosts} archived={false} byYear={true} />
+    <div class="post-grid">
+        <BlogList posts={data.allPosts} archived={false} byYear={true} />
+    </div>
 
 {:else if data.display === PageType.oneYear}
     <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
@@ -37,7 +39,9 @@
         {/each}
     </nav>
 
-    <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
+    <div class="post-grid">
+        <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
+    </div>
 {:else }
 <article>
     {@html parse(data?.content)}
@@ -79,6 +83,16 @@
 {/if}
 
 <style>
+
+    .post-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+
+    .post-grid :global(.post-card) {
+        margin-bottom: 0;
+    }
 
     .year-nav {
         display: flex;
