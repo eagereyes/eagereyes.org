@@ -47,7 +47,7 @@
 		}
 
 		if (paper.doi) {
-			cite += ` <a href="https://doi.org/${paper.doi}">https://doi.org/${paper.doi}</a>`;
+			cite += ` <a href="https://doi.org/${paper.doi}">DOI: ${paper.doi}</a>`;
 		}
 
 		return cite;
