@@ -26,9 +26,12 @@
         {/each}
     </nav>
 
-    <div class="post-grid">
-        <BlogList posts={data.allPosts} archived={false} byYear={true} />
-    </div>
+    {#each years as y}
+        <h2 class="year-header"><a href="/blog/{y}">{y}</a></h2>
+        <div class="post-grid">
+            <BlogList year={y} posts={data.allPosts} archived={false} />
+        </div>
+    {/each}
 
 {:else if data.display === PageType.oneYear}
     <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
@@ -83,6 +86,29 @@
 {/if}
 
 <style>
+
+    .year-header {
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin: 2rem 0 1rem;
+        padding-bottom: 0.4rem;
+        border-bottom: 2px solid var(--color-border);
+        letter-spacing: 0.03em;
+        grid-column: 1 / -1;
+    }
+
+    .year-header:first-of-type {
+        margin-top: 0;
+    }
+
+    .year-header a {
+        color: var(--color-text);
+        text-decoration: none;
+    }
+
+    .year-header a:hover {
+        color: var(--color-theme-1);
+    }
 
     .post-grid {
         display: grid;
