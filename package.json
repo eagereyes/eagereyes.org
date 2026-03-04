@@ -14,11 +14,8 @@
 	"devDependencies": {
 		"@fontsource-variable/inter": "^5.2.8",
 		"@fontsource/fira-mono": "^5.2.7",
-		"@neoconfetti/svelte": "^2.2.2",
-		"@sveltejs/adapter-auto": "^6.1.1",
 		"@sveltejs/adapter-static": "^3.0.10",
 		"@sveltejs/kit": "^2.53.4",
-		"@sveltejs/vite-plugin-svelte": "^5.1.1",
 		"@types/node": "^22.19.13",
 		"marked": "^15.0.12",
 		"svelte": "^5.53.7",
