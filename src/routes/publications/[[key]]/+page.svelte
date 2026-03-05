@@ -24,7 +24,10 @@
 			? names[0]
 			: names.slice(0, -1).join(', ') + ', &amp; ' + names[names.length - 1];
 
-		let cite = `${authorStr} (${yr}). ${paper.title}. `;
+		const titleLinked = paper._pdf !== 'no'
+			? `<a href="${pdfUrl(paper._key)}">${paper.title}</a>`
+			: paper.title;
+		let cite = `${authorStr} (${yr}). ${titleLinked}. `;
 
 		if (paper._type === 'article') {
 			cite += `<em>${paper.venue}</em>`;
@@ -47,10 +50,15 @@
 		}
 
 		if (paper.doi) {
-			cite += ` <a href="https://doi.org/${paper.doi}">DOI: ${paper.doi}</a>`;
+			cite += ` <a href="https://dx.doi.org/${paper.doi}">DOI: ${paper.doi}</a>`;
 		}
 
 		return cite;
+	}
+
+	function pdfUrl(key: string) {
+		const yr = year(key);
+		return `https://media.eagereyes.org/papers/${yr}/${key.replaceAll(':', '-')}.pdf`;
 	}
 
 	function toBibtex(paper: typeof data.paper): string {
@@ -99,6 +107,12 @@
         {/if}
 
         <p class="paper-citation">{@html formatCitation(data.paper)}</p>
+        <div class="paper-pills">
+            {#if data.paper._pdf !== 'no'}<a class="pill" href={pdfUrl(data.paper._key)}>PDF</a>{/if}
+            {#if data.paper.doi}<a class="pill" href="https://dx.doi.org/{data.paper.doi}">DOI</a>{/if}
+            {#if data.paper.talk}<a class="pill" href={data.paper.talk}>Talk</a>{/if}
+            {#if data.paper.data}<a class="pill" href={data.paper.data}>Data</a>{/if}
+        </div>
     </div>
 
     <details class="bibtex-block">
@@ -116,18 +130,23 @@
 
 {#each data.papers as paper}
     <article class="paper-card">
+        <a class="card-link" href="/publications/{paper._key.replaceAll(':', '-')}" aria-label={paper.title}></a>
         {#if "_thumb" in paper}
-            <a class="card-thumb-link" href="/publications/{paper._key.replaceAll(':', '-')}" tabindex="-1" aria-hidden="true">
-                <img class="card-thumb" src="https://media.eagereyes.org{paper._thumb}" alt="Thumbnail for {paper.title}" loading="lazy" />
-            </a>
+            <img class="card-thumb" src="https://media.eagereyes.org{paper._thumb}" alt="Thumbnail for {paper.title}" loading="lazy" />
         {/if}
         <div class="card-body">
-            <h2 class="card-title">
-                <a href="/publications/{paper._key.replaceAll(':', '-')}">{paper.title}</a>
-            </h2>
+            <h2 class="card-title">{paper.title}</h2>
             <p class="card-byline">{authors(paper.author)} &mdash; <em>{paper.venue}</em>, {year(paper._key)}</p>
             {#if paper.abstract}
                 <p class="card-abstract">{truncate(paper.abstract)}{#if paper.abstract.length > 500} &nbsp;<a href="/publications/{paper._key.replaceAll(':', '-')}">[More]</a>{/if}</p>
+            {/if}
+            {#if paper._pdf !== 'no' || paper.doi || paper.talk || paper.data}
+                <div class="paper-pills">
+                    {#if paper._pdf !== 'no'}<span class="pill pill-outline">PDF</span>{/if}
+                    {#if paper.doi}<span class="pill pill-outline">DOI</span>{/if}
+                    {#if paper.talk}<span class="pill pill-outline">Talk</span>{/if}
+                    {#if paper.data}<span class="pill pill-outline">Data</span>{/if}
+                </div>
             {/if}
         </div>
     </article>
@@ -178,6 +197,33 @@
         line-height: 1.6;
     }
 
+    .paper-pills {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+    }
+
+    .pill {
+        display: inline-block;
+        padding: 0.2em 0.65em;
+        border-radius: 999px;
+        font-size: 0.8rem;
+        font-weight: 600;
+        text-decoration: none;
+        background: var(--color-theme-1);
+        color: #fff;
+    }
+
+    .pill:hover {
+        opacity: 0.85;
+    }
+
+    .pill-outline {
+        background: transparent;
+        color: var(--color-theme-1);
+        box-shadow: inset 0 0 0 1.5px var(--color-theme-1);
+    }
+
     .paper-abstract {
         font-style: italic;
         line-height: 1.7;
@@ -214,6 +260,7 @@
     /* ── Publications list ─────────────────────────── */
 
     .paper-card {
+        position: relative;
         display: flex;
         flex-direction: row;
         gap: 1.25rem;
@@ -226,13 +273,17 @@
         border-top: 1px solid var(--color-border);
     }
 
-    .card-thumb-link {
-        flex-shrink: 0;
-        display: block;
-        line-height: 0;
+    .paper-card:hover {
+        background: var(--color-bg-2, var(--color-bg-1));
+    }
+
+    .card-link {
+        position: absolute;
+        inset: 0;
     }
 
     .card-thumb {
+        flex-shrink: 0;
         width: 200px;
         border-radius: 3px;
         border: 1px solid var(--color-border);
@@ -250,15 +301,6 @@
         font-weight: 700;
         margin: 0;
         line-height: 1.35;
-    }
-
-    .card-title a {
-        color: var(--color-text);
-        text-decoration: none;
-    }
-
-    .card-title a:hover {
-        color: var(--color-theme-1);
     }
 
     .card-byline {
