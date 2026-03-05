@@ -1,5 +1,5 @@
 import { redirect } from '@sveltejs/kit';
-import type { EntryGenerator, PageServerLoad } from './$types';
+import type { EntryGenerator, PageLoad } from './$types';
 
 export const prerender = true;
 
@@ -29,7 +29,7 @@ const redirects: Record<string, string> = {
 export const entries: EntryGenerator = () =>
     Object.keys(redirects).map(slug => ({ slug }));
 
-export const load: PageServerLoad = ({ params }) => {
+export const load: PageLoad = ({ params }) => {
     const url = redirects[params.slug];
     if (url) redirect(301, url);
     return {};
