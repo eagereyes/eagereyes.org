@@ -1,14 +1,3 @@
-<script lang="ts">
-	import { parse } from 'marked';
-</script>
-
-<svelte:head>
-	<title>About EagerEyes</title>
-	<meta name="description" content="About EagerEyes" />
-</svelte:head>
-
-<div class="text-column">
-{@html parse(`
 # About EagerEyes
 
 EagerEyes is Robert Kosara’s place to reflect on the world of information visualization and visual communication of data. The goal is to help digest things that are happening in the field and discuss developments that may be tangential or early, but that are likely to have an impact. The opinions expressed here are Robert’s and nobody else’s.
@@ -36,6 +25,3 @@ Robert received his M.Sc. and Ph.D. degrees in computer science from Vienna Univ
 ## Legal Disclaimer
 
 EagerEyes is Robert’s personal property and not affiliated with Observable, Tableau Software/Salesforce, UNC Charlotte, or any other entity. The postings here are based on my own opinions and views, and do not reflect those of my employer or anybody else.
-`)}
-
-</div>
