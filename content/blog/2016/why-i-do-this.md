@@ -12,7 +12,7 @@ What people do care about, though, is learning about research. They want to know
 
 Where can people go to find that stuff? Visualization isn't covered by the usual science blogs or magazines. So where do you go? Individual researchers's pages? Twitter? There's really no place to find that stuff.
 
-That is not to say that this website has anything remotely approaching complete coverage, but I try. I write about papers when I go to <a href="/tag/conference">conferences</a>. I sometimes write about individual pieces of research, but not as much as I probably should. And I point to <a href="/section/papers">my own research</a>, of course.
+That is not to say that this website has anything remotely approaching complete coverage, but I try. I write about papers when I go to <a href="/tag/conference">conferences</a>. I sometimes write about individual pieces of research, but not as much as I probably should. And I point to <a href="/tag/paper">my own research</a>, of course.
 
 There's a real need for good, readable, up-to-date information about what new stuff we're finding in researchland. There's a need for readable, well-sourced guides that give people useful and usable (<em>actionable</em> if you're into business-speak) information about visualization based on current research. And there's nowhere near enough of it out there.
 

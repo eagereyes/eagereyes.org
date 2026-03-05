@@ -44,4 +44,4 @@ I'm slowly replacing a number of postings that get a lot of traffic with more st
 
 So now there is an <a href="/pie-charts">updated pie charts page</a> that I will start pointing people to and that I hope will become the destination when people search. I don't want to remove the old posting, because it's interesting to me to see how things evolve. It's also important to keep things fresh and up to date, though, and not give people outdated information.
 
-In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.
+In a similar vein, I'm creating or updating pages and reworking some of the ones that are out of date or broken. Doing that with the new site structure, theme, and logo is a lot more fun (and it's easier to find my way around using the <a href="/app/blog-calendar">10-year blog calendar</a>), and I hope it's going to invite people to peruse the site more.

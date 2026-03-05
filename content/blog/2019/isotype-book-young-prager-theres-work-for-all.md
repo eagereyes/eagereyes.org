@@ -2,7 +2,7 @@
 
 This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz’s famous unemployed man icon.
 
-Michael Young and Theodor Prager’s <em>There’s Work for All</em> is part of a series called <em>The New Democracy </em>that contains at least ten books. Like <a href="/section/isotope-books">many books containing ISOTYPE charts</a> from that time, the text makes no reference to the charts. They exist alongside, almost like a separate book within the book.
+Michael Young and Theodor Prager’s <em>There’s Work for All</em> is part of a series called <em>The New Democracy </em>that contains at least ten books. Like <a href="/tag/isotype-books">many books containing ISOTYPE charts</a> from that time, the text makes no reference to the charts. They exist alongside, almost like a separate book within the book.
 
 Many ISOTYPE charts are structured like bar charts, where you can read the chart by either counting the symbols or looking at the lengths the of rows as if they were bars. In <a href="/papers/isotype-visualization">a research paper a few years ago</a>, my collaborators and I showed that people are quite good at reading charts like that and no worse than reading bar charts (but they remember much more about what they saw).
 

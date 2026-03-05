@@ -2,7 +2,7 @@
 
 The book <em>Only An Ocean Between</em> by Lella Secor Florence contains some of the most iconic ISOTYPE charts. It was published in 1943, as part of a small series called <em>America and Britain</em>.
 
-Unlike <a href="/section/isotope-books">some other ISOTYPE books</a>, this one (and the other two in the series) advertise the charts right on the cover. This one contains 18 <em>pictorial charts</em> that are itemized in a separate list (similar to the list of photographs), but never referred to in the text.
+Unlike <a href="/tag/isotype-books">some other ISOTYPE books</a>, this one (and the other two in the series) advertise the charts right on the cover. This one contains 18 <em>pictorial charts</em> that are itemized in a separate list (similar to the list of photographs), but never referred to in the text.
 
 <p align="center"><img class="aligncenter wp-image-10292 size-full" src="https://media.eagereyes.org/wp-content/uploads/2017/10/isotype-only-an-ocean-1.jpg" alt="" width="660" height="930" /></p>
 

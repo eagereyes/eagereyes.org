@@ -2,7 +2,7 @@
 
 # IEEE VIS 2017: A SciVis Perspective
 
-<em>Since my (Robert)'s conference reports are almost entirely focused on InfoVis (and a bit of VAST), I have asked <a href="http://noeskasmit.com">Noeska Smit</a>, medical visualization professor and my collaborator in the </em><a href="/section/vis-potpourri">Vis Potpourri</a><em><a href="/section/vis-potpourri"> postings</a>, to write about VIS from the SciVis perspective. Everything below are Noeska's words.</em>
+<em>Since my (Robert)'s conference reports are almost entirely focused on InfoVis (and a bit of VAST), I have asked <a href="http://noeskasmit.com">Noeska Smit</a>, medical visualization professor and my collaborator in the </em><a href="/tag/vis-potpourri">Vis Potpourri</a><em><a href="/tag/vis-potpourri"> postings</a>, to write about VIS from the SciVis perspective. Everything below are Noeska's words.</em>
 
 It's been a while since I wrote a conference report. I used to write them for <a href="http://www.medvis.org">medvis.org</a> regularly in the past. However, given the low amount of medical visualization papers at some of the conferences I attended, some would have ended up as very short reports indeed ;). From now on, I'll still write conference reports, even if they may not only contain 100% medvis content, starting with this IEEE VIS 2017 report.
 

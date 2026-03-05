@@ -4,7 +4,7 @@
 
 Presenting facts through data is not a recent idea. Otto and Marie Neurath created ISOTYPE in the 1920s and then ran their ISOTYPE Institute for more than two decades. During that time, they created charts for a wide variety of publications. In this series, I will show a number of these charts that I have found, and discuss the context they appeared in.
 
-Over the past year, I have bought a number of books containing <a href="/tags/isotype">ISOTYPE charts</a>. Some contain many of them, some just a single one. Some use them throughout, some just have them as the inside cover. These are all from the 1940s through the 1960s.
+Over the past year, I have bought a number of books containing <a href="/tag/isotype">ISOTYPE charts</a>. Some contain many of them, some just a single one. Some use them throughout, some just have them as the inside cover. These are all from the 1940s through the 1960s.
 
 What I’m trying to understand and illustrate at the same time is how prevalent ISOTYPE was for a while. I’ll be looking for hints in the books to see if authors felt the need to explain them, or just assumed that people smart enough to read the books would also get the charts (the latter seems to be the case, from what I’ve seen). Steve Haroz, Steven Franconeri, and I have also shown that <a href="/papers/isotype-visualization">the technique is effective as a means of showing data so people remember what they've seen</a>.
 

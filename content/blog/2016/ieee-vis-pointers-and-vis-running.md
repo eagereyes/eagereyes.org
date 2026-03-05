@@ -23,7 +23,7 @@ But enough about others, back to me. Here's my plan for the week so far.
 <ul>
     <li>Saturday: Doctoral Colloquium</li>
     <li>Sunday morning: <a href="http://c4pgv.swansea.ac.uk">C4PGV workshop</a> (which, obviously, stands for <em>Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization</em>) to present a paper with Aritra Dasgupta and Enrico Bertini, <a href="/publications/Kosara-C4PGV-2016"><em>Reflecting on the Design Criteria for Explanatory Visualizations</em></a>.</li>
-    <li>Monday: BELIV to present my paper, <a href="/papers/paper-an-empire-built-on-sand"><em>An Empire Built On Sand</em></a>.</li>
+    <li>Monday: BELIV to present my paper, <a href="/blog/2016/an-empire-built-on-sand"><em>An Empire Built On Sand</em></a>.</li>
     <li>Also Monday: <a href="http://visinpractice.org"><em>Visualization in Practice</em> workshop</a>. Okay, I won't be there (I have to yell at people at BELIV), but my colleague Justin Talbot has done an amazing job organizing this workshop. Also, what do the initial letters of <em>Vis in Practice</em> spell? That's right: VIP!</li>
     <li>Wednesday: Blogging meetup, see below</li>
     <li>Thursday: don't miss the Time Series session in the afternoon for my presentation of the TVCG paper, <em><a href="/papers/the-connected-scatterplot-for-presenting-paired-time-series">The Connected Scatterplot for Presenting Paired Time Series</a>,</em> with Steve Haroz and Steven L. Franconeri.</li>
@@ -47,8 +47,6 @@ Other than that: Come for the exercise, stay for the sweaty, awkward selfies at 
 Interested in blogging? Want to start your own blog? Need some motivation to revive that blog you started years ago? Curious about branching out into podcasting even?
 
 Jessica Hullman, Enrico Bertini, and I are organizing a blogging and podcasting meetup on Wednesday (October 26) at 1pm in room Peale C. Grab some food after the morning session and then come to the meetup well-fed but still hungry for information! We'll chat about our experiences and answer your questions. You might even get a live performance of Enrico doing his <a href="http://datastori.es"><em>Data Stories</em></a> opening!
-
-Speaking of which, my new website has a <a href="/blogroll">blogroll</a>! You should check it out. Also, if you're using feedly, you can add all those feeds to your feedly by just clicking a button somewhere on the <a href="http://feedly.com/eagereyes/Blogroll">feedly collection page</a> I've made just for you!
 
 ## 
 

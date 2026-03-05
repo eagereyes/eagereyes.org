@@ -28,4 +28,4 @@ If you're a fan of the tv series <em>Archer</em>, head over to the aptly titled 
 
 <hr />
 
-<a href="/section/vis-potpourri">Vis Potpourri</a> is a monthly series, put together in collaboration with <a href="http://noeskasmit.com/about/">Noeska Smit</a>.
+<a href="/tag/vis-potpourri">Vis Potpourri</a> is a monthly series, put together in collaboration with <a href="http://noeskasmit.com/about/">Noeska Smit</a>.

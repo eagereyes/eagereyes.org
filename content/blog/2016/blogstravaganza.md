@@ -6,7 +6,7 @@ October 1 marks the ten-year anniversary of this website. Well, it’s really ol
 
 If you’re reading this in a feed reader, you might want to check out the website, because it looks a little different. Not only do I now have a professionally-designed theme, it’s also possible to find your way around and explore much more of the stuff that’s on the site than before. There’s also a new logo.
 
-As a little narcissistic exercise, I’ve also created <a href="/blog-calendar">an interactive calendar of all the postings on the site</a>. It lets you see the times when I’ve posted more or less, and mousing over shows you the posting titles. It’s a neat way to see just how much stuff there is on the site, and also to remind myself of all the things I’ve written in the past. It’s really cool to rediscover some of these old postings… for me, anyway.
+As a little narcissistic exercise, I’ve also created <a href="/app/blog-calendar">an interactive calendar of all the postings on the site</a>. It lets you see the times when I’ve posted more or less, and mousing over shows you the posting titles. It’s a neat way to see just how much stuff there is on the site, and also to remind myself of all the things I’ve written in the past. It’s really cool to rediscover some of these old postings… for me, anyway.
 
 But back to the <em>blogstravaganza</em>! This week will see a posting every day for seven days (if we count this one). I don’t usually post a roadmap of the postings to come, but I will this time since I’ve actually already planned them all out (not very common). I’ll be adding in links here as the postings come online.
 

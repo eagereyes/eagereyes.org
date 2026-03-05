@@ -2,7 +2,7 @@
 
 The <a href="http://informationplusconference.com">Information+ Conference</a> took place in Vancouver earlier this year. It brought together people from information visualization and information design (and design more in general). All of the talk videos are online on the website, but since there were a lot and it's kind of hard to decide where to start watching, I'm listing my favorites below.
 
-I've posted a link to <a href="/talk/pie-charts-unloved-unstudied-and-misunderstood">my talk about the science of pie charts</a> before (you should watch it if you haven't!). There were many other great talks at the conference, though. It was quite difficult to pick out only ten, but it seemed pointless to pick every single one here. I'm also leaving out the keynotes on purpose, since they get more attention anyway.
+I've posted a link to <a href="/blog/2016/pie-charts-unloved-unstudied-and-misunderstood">my talk about the science of pie charts</a> before (you should watch it if you haven't!). There were many other great talks at the conference, though. It was quite difficult to pick out only ten, but it seemed pointless to pick every single one here. I'm also leaving out the keynotes on purpose, since they get more attention anyway.
 
 Some of these are short talks that are only about five minutes long, the long talks are 20 minutes (plus questions). So the time investment is pretty small, and you get a lot in a short amount of time.
 
