@@ -163,3 +163,9 @@ Besides the content, what is remarkable about the paper is its tone: Anscombe st
 I have seen similar things in papers from that time and earlier. Some of this would be shot down by reviewers today, and never make it into a published paper. It's almost as if these papers were partly scientific paper, partly blog posting to vent some steam or argue a position.
 
 Anscombe also describes his preference for APL (an ancient programming language), but assures the reader who can program in FORTRAN or PL/1 that he'll be able to produce graphs. Mere users of statistical packages, however, were out of luck in the early '70s. The paper closes with a call for action:
+
+> The user is not showered with graphical displays. He can get them only with trouble, cunning and a fighting spirit. It's time that was changed.
+
+Indeed.
+
+Francis J. Anscombe, <a href="http://www.jstor.org/stable/2682899" target="_blank">Graphs in Statistical Analysis</a>. <em>The American Statistician</em>, vol. 27, no. 1, pp. 17–21, 1973.

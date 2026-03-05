@@ -23,3 +23,15 @@ This is a business book, but like <em>Made to Stick</em> it’s equal parts fasc
 She tells many stories about radio, in particular the NPR programs <em>This American Life</em> and <em>Snap Judgment</em>. There are many interesting insights into how they find and shape stories, how stories change as they develop, and how the agonizing creative process is playing out even in these well-known radio programs that have been going on for many years.
 
 The book is very nicely structured and Abel works in many little details while focusing on a number of important messages. Perhaps the most interesting to me were the two key ways of expressing a story’s point. There is the <em>story formula,</em> which is a good test for many data stories:
+
+> <em>I’m doing a story about X (the topic). And what’s interesting about it is Y (the story).</em>
+
+And perhaps more importantly, to make a compelling story, you need some sort of obstacle to overcome. This is expressed in the <em>focus sentence</em>:
+
+> <em>Somebody does something because (motivation), but (challenge to overcome).</em>
+
+It’s interesting to think about how these things apply to what we like to call stories with data – and how most of them really don’t have these elements. Data stories for the most part just lay out information without a lot of structure – but more on that in another posting.
+
+There are some radio-specific parts in the book that weren’t as interesting to me (though they’re fun to observe the next time you listen to a good radio program or well-produced podcast). The majority of the book is applicable to any form of structured narrative, however.
+
+If you're interested in telling stories with data, these two books are going to give you a better understanding of how stories can work in specific contexts. Both are based on a wealth of expertise and experience, Callahan from the business side and Abel from the radio side. They're also very different, and very nicely complement each other.

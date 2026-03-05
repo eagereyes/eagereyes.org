@@ -23,3 +23,17 @@ Just like the DMCA, Tableau Public's policy defines rules for what content is of
 The guiding principle is free speech, with the usual exceptions: child porn, hate speech, illegal content. For cases where the policy does not provide a clear answer, an advisory board of three external experts has been appointed, who will determine whether a visualization needs to be removed. The policy does not name them, but the <a href="http://www.tableausoftware.com/public/blog/2011/02/new-data-policy" target="_blank">accompanying blog post</a> does.
 
 The policy even provides some helpful common-sense advice for people about to publish potentially problematic data:
+
+> You should be mindful of the data you choose to post. If you publish libelous or defamatory statements about someone, you can be sued by that person. If you publish confidential data about your customers that they would expect you to keep private, they might seek recourse, including legal action. If you publish data about people that embarrasses them, you can expect them to get angry at you.
+
+## What This Means for Journalism
+
+I am convinced that journalism needs more visualization, and a lot of journalists seem to think so, too. But the big issue is a question of what tool to invest time in. If you build an elaborate visualization for your article only to have it pulled because somebody didn't like the message or content, you're not going to do that a second time. When the visualization is provided by a service (which they almost invariably are, these days), the service better be trustworthy and sustainable so it will be around for a while. With Swivel now a distant memory (and a spam-laden "search" page), this is a clear issue. Many, many bloggers and quite a few journalists have lost a lot of work.
+
+The data policy does not guarantee that Tableau will be around forever (though their current hiring spree does suggest this), but it does remove the uncertainty that led to the WikiLeaks visualization being pulled. Being able to trust a service not to make arbitrary decisions is important, especially in journalism that might go against powerful interests.
+
+A lot of news stories are already based on numbers, and with the increasing availability of more data, visualizing them will become more and more important. Contributing comments to a news story is one thing, but actually being able to trace the story from the original data is much more interesting and informative.
+
+## So What About WikiLeaks?
+
+That was also my first question when I first saw the new policy. The answer is quite simple: that data would not be taken down under the new policy. Tableau's new data policy is a very promising development, and one that might do more for the use of visualization in journalism than many technical innovations have.
