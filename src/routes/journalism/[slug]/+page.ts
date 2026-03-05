@@ -8,7 +8,10 @@ const redirects: Record<string, string> = {
     'glimpse-into-new-york-times-graphics-department': '/blog/2012/glimpse-into-new-york-times-graphics-department',
     'the-explanatory-power-of-data-points': '/blog/2013/the-explanatory-power-of-data-points',
     'when-bars-point-down': '/blog/2014/when-bars-point-down',
-    'storytelling-minard-vs-nightingale': '/blog/2012/storytelling-minard-vs-nightingale'
+    'storytelling-minard-vs-nightingale': '/blog/2012/storytelling-minard-vs-nightingale',
+    'malofiej-20': '/blog/2012/malofiej-20',
+    'data-need': '/blog/2012/data-need',
+    'what-does-it-mean-to-inform': '/blog/2012/what-does-it-mean-to-inform'
 };
 
 export const entries: EntryGenerator = () =>

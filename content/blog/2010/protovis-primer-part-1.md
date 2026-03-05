@@ -189,6 +189,6 @@ I have also started <a href="http://github.com/eagereyes/Protovis-Primer">a repo
 Next:
 
 <ul>
-<li><a href="/tutorials/protovis-primer-part-2">A Protovis Primer, Part 2</a></li>
-<li><a href="/tutorials/protovis-primer-part-3">A Protovis Primer, Part 3</a></li>
+<li><a href="/blog/2010/protovis-primer-part-2">A Protovis Primer, Part 2</a></li>
+<li><a href="/blog/2010/protovis-primer-part-3">A Protovis Primer, Part 3</a></li>
 </ul>

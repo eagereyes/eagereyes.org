@@ -1,12 +1,12 @@
 # A Protovis Primer, Part 3
 
-After covering some <a href="http://protovis.org/">Protovis</a> <a href="/tutorials/protovis-primer-part-1">basics in part 1</a>, and some <a href="/tutorials/protovis-primer-part-2">more advanced techniques plus data loading in part 2</a>, this part is devoted mostly to using what we've already discussed in a more complex example. We'll also look at some basic interaction.
+After covering some <a href="http://protovis.org/">Protovis</a> <a href="/blog/2010/protovis-primer-part-1">basics in part 1</a>, and some <a href="/blog/2010/protovis-primer-part-2">more advanced techniques plus data loading in part 2</a>, this part is devoted mostly to using what we've already discussed in a more complex example. We'll also look at some basic interaction.
 
 While Protovis requires more work to set up charts, it pays off when you want to do something beyond the typical chart types, or when you want to add interaction. You are not limited to any fixed set of charts, but can create any combination you want, or even something entirely new.
 
 In this part of the tutorial, we will create <a href="/blog/2008/presidential-demographics-ii">a chart showing the lives and office terms of all U.S. presidents</a>. The chart is a basic life lines "waterfall" chart, with a few small twists. A basic version of the chart can be created in your favorite spreadsheet, but making it look a particular way or being able to interact is a different matter.
 
-Here is a small part of it, showing only the last few presidents. Again, if you are reading this in Internet Explorer or a news reader, you will only see static images and not be able to interact. Go to <a href="/tutorials/protovis-primer-part-3">the tutorial website</a> to get a better idea how it works.
+Here is a small part of it, showing only the last few presidents. Again, if you are reading this in Internet Explorer or a news reader, you will only see static images and not be able to interact. Go to <a href="/blog/2010/protovis-primer-part-3">the tutorial website</a> to get a better idea how it works.
 
 
 <p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-interaction.png" width="560" height="180" alt="presidents chart" /></p>
@@ -55,7 +55,7 @@ var today = toJulian(new Date());
 
 ## Setup
 
-For the horizontal lines, we'll have to define a scale so the dates can be mapped to screen locations. We're defining a width of the overall chart, and then use a scale (see <a href="/tutorials/protovis-primer-part-2">part 2</a>) to scale the dates from the first date we might encounter (the birth date of the first president) to the last one (today).
+For the horizontal lines, we'll have to define a scale so the dates can be mapped to screen locations. We're defining a width of the overall chart, and then use a scale (see <a href="/blog/2010/protovis-primer-part-2">part 2</a>) to scale the dates from the first date we might encounter (the birth date of the first president) to the last one (today).
 
 ```js
 var width = 560;
@@ -275,6 +275,6 @@ And that's it! Interactive visualization in the browser! If you want to see the 
 
 Previous:
 <ul>
-	<li><a href="/tutorials/protovis-primer-part-1">A Protovis Primer, Part 1</a></li>
-	<li><a href="/tutorials/protovis-primer-part-2">A Protovis Primer, Part 2</a></li>
+	<li><a href="/blog/2010/protovis-primer-part-1">A Protovis Primer, Part 1</a></li>
+	<li><a href="/blog/2010/protovis-primer-part-2">A Protovis Primer, Part 2</a></li>
 </ul>

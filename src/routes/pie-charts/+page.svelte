@@ -1,11 +1,14 @@
----
-title: "Understanding Pie Charts"
-description: "Pie charts are extremely common, but people are also commonly mocked for using them. There are many ways to get them wrong, and there are many bad examples out there. But understanding pie charts and how to use them isn't that difficult, and the research shows that they're often not a bad choice."
-featuredImage: 
-tags: pie-charts
-date: 2023-08-20 18:39:44
----
+<script lang="ts">
+	import { parse } from 'marked';
+</script>
 
+<svelte:head>
+	<title>Understanding Pie Charts</title>
+	<meta name="description" content="Pie charts are extremely common, but people are also commonly mocked for using them. There are many ways to get them wrong, and there are many bad examples out there. But understanding pie charts and how to use them isn't that difficult, and the research shows that they're often not a bad choice." />
+</svelte:head>
+
+<div class="text-column">
+{@html parse(`
 # Understanding Pie Charts
 
 Pie charts are extremely common, but people are also commonly mocked for using them. There are many ways to get them wrong, and there are many bad examples out there. But understanding pie charts and how to use them isn't that difficult, and the research shows that they're often not a bad choice.
@@ -119,3 +122,5 @@ Okay, I'll admit: much of this is my own work. But these articles are based on 
 - <a href="/criticism/in-defense-of-pie-charts">A paper I wrote about a while ago</a> did some interesting comparisons of pies and found that there is a particular task that they do better than even bars: combine neighboring slices and compare those to the whole.
 
 See more under the [Pie Charts tag](/tag/pie-charts)!
+`)}
+</div>

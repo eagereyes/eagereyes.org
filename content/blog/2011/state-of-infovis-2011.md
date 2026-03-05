@@ -20,7 +20,7 @@ But secondly, I'm afraid that WikiLeaks has caused much greater skepticism on th
 
 I see a few trends become stronger and more pronounced in 2011. They are not entirely new, but I believe that this year will be when they gain a lot more momentum than they have so far.
 
-In particular, I think we are ready for truly interactive, browser-based visualization. Protovis has now been around for almost two years, and a lot of people are getting interested. <a href="/tutorials/protovis-primer-part-1">My</a> <a href="/tutorials/protovis-primer-part-2">Protovis</a> <a href="/tutorials/protovis-primer-part-3">Primers</a> are consistently among the most popular pages on my website.
+In particular, I think we are ready for truly interactive, browser-based visualization. Protovis has now been around for almost two years, and a lot of people are getting interested. <a href="/blog/2010/protovis-primer-part-1">My</a> <a href="/blog/2010/protovis-primer-part-2">Protovis</a> <a href="/blog/2010/protovis-primer-part-3">Primers</a> are consistently among the most popular pages on my website.
 
 But another development will actually be much more important: Internet Explorer 9. What has held back visualization so far is that no version of IE supports SVG or Canvas. Later this year, IE 9 will be released, which not only includes that support, but also has a hardware-supported implementation of Canvas. Practically all other browsers already support Canvas, but some are still behind on the performance part. That is likely to change very soon.
 

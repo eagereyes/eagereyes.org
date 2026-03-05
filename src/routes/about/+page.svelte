@@ -19,7 +19,7 @@ EagerEyes is Robert Kosara’s place to reflect on the world of information visu
 
 The original idea for the site involved the interplay of art and science in visualization. While the focus has shifted, I regularly touch upon questions of representation. In fact, I believe that visualization can be vastly improved by a better understanding issues of representation and reading of data.
 
-<!-- Other topics of interest include visualization for the masses, open data, and where the field of visualization is heading. <a href="/criticism">Criticism</a> of visualization techniques and applications, websites, and books is also a regular feature. Discussions of <a href="/techniques">visualization techniques</a> provide insights into the thinking behind them. Around important conferences like <a href="http://ieeevis.org/">IEEE VIS</a>, I will post updates and pointers to things that are going on there. -->
+<!-- Other topics of interest include visualization for the masses, open data, and where the field of visualization is heading. <a href="/tag/criticism">Criticism</a> of visualization techniques and applications, websites, and books is also a regular feature. Discussions of <a href="/techniques">visualization techniques</a> provide insights into the thinking behind them. Around important conferences like <a href="http://ieeevis.org/">IEEE VIS</a>, I will post updates and pointers to things that are going on there. -->
 
 The first posting on EagerEyes went live on October 1, 2006. While there have been times with more and less activity, I post roughly once a week (typically late Sunday night PST).
 

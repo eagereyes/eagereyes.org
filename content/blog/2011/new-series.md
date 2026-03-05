@@ -12,6 +12,6 @@ Since I am currently serving on my college's review committee, I am keenly aware
 
 ## Frequency
 
-In a way, this is the opposite to my <a href="/influences">Lists of Influences series</a>, which hasn't seen any updates recently, despite my efforts. Since the Watchlist doesn't require cooperation from the individuals who are being discussed, this should be easier and quicker to write.
+In a way, this is the opposite to my <a href="/tag/influences">Lists of Influences series</a>, which hasn't seen any updates recently, despite my efforts. Since the Watchlist doesn't require cooperation from the individuals who are being discussed, this should be easier and quicker to write.
 
 The plan is to write one entry per month for the next few months, and then whenever somebody's work strikes my fancy.

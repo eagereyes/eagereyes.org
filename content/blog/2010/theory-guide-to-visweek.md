@@ -36,7 +36,7 @@ To get a bit of variety into this day, you might want to then switch to the vis 
 
 ## Thursday
 
-Okay, I might be biased here. But the two sessions you absolutely have to attend in the morning are <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Perception%20and%20Cognition" target="_blank">Perception and Cognition</a></em> (featuring our <a href="/papers/2010/laws-of-attraction">paper on the laws of attraction</a>) and then <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Multi-dimensional%20Visualization" target="_blank">Multi-dimensional Visualizaton</a></em> (to learn <a href="/papers/2010/pargnostics">everything about Pargnostics</a>).
+Okay, I might be biased here. But the two sessions you absolutely have to attend in the morning are <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Perception%20and%20Cognition" target="_blank">Perception and Cognition</a></em> (featuring our <a href="/blog/2010/laws-of-attraction">paper on the laws of attraction</a>) and then <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Multi-dimensional%20Visualization" target="_blank">Multi-dimensional Visualizaton</a></em> (to learn <a href="/papers/2010/pargnostics">everything about Pargnostics</a>).
 
 The first afternoon session on <em><a href="http://vis.computer.org/VisWeek2010/infovis/sessions_papers.html#Graph%20Visualization" target="_blank">Graph Visualization</a></em> should be theoretical enough for most tastes.
 

@@ -19,7 +19,7 @@ The highlight of the conference will be the three keynotes.
 
 One session will consist of <em>short stories</em> about data, data storytelling approaches, etc. These will be short and meant to stir discussion.
 
-While the list of short stories is not yet complete, it already contains some amazing people: <a title="List of Influences: Nigel Holmes" href="/influences/nigel-holmes">Nigel Holmes</a>, <a title="List of Influences: Pat Hanrahan" href="/influences/pat-hanrahan">Pat Hanrahan</a>, and Cheryl Philips (<em>The Seattle Times</em>).
+While the list of short stories is not yet complete, it already contains some amazing people: <a title="List of Influences: Nigel Holmes" href="/blog/2012/nigel-holmes">Nigel Holmes</a>, <a title="List of Influences: Pat Hanrahan" href="/blog/2007/pat-hanrahan">Pat Hanrahan</a>, and Cheryl Philips (<em>The Seattle Times</em>).
 
 ## The Venue
 

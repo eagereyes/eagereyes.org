@@ -24,7 +24,7 @@ After a day or two, you’ll be in a much better place to rationally think about
 
 ## The Worst Reviews from the Worst Reviewers
 
-<a href="https://eagereyes.org/section/series/peer-review">The review process</a> is not perfect. Some reviewers don’t read your paper carefully. Some don’t like one little detail and then start picking your work apart because of that. Some take out their personal problems (or their own last rejection) on your paper. We’re all human, this is not a perfect system.
+<a href="/tag/peer-review">The review process</a> is not perfect. Some reviewers don’t read your paper carefully. Some don’t like one little detail and then start picking your work apart because of that. Some take out their personal problems (or their own last rejection) on your paper. We’re all human, this is not a perfect system.
 
 Sometimes, the reviews are just downright stupid or off-topic. When we submitted <a href="https://eagereyes.org/papers/the-connected-scatterplot-for-presenting-paired-time-series">the connected scatterplot paper</a> to InfoVis last year, we got fairly good reviews overall. The paper was killed by the primary reviewer, who had some other paper in mind and didn’t seem inclined to accept the existing paper because it didn’t match his idea. We resubmitted the paper with only very minor changes to TVCG and got it accepted with no problem.
 

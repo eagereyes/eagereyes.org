@@ -48,7 +48,7 @@ var earthquakes = JSON.parse(JSONdata);
 
 There are a lot more things jQuery can do, including asynchronous downloads of the data, etc., but this is all we'll use for now. Our <code>earthquakes</code> variable now contains the array of earthquakes, with each entry in the array being an object that has fields such as <code>Magnitude</code>.
 
-To access this data, we need to set the variable as the <em>data</em> property of the visualization we're building, and provide a function that accesses the data. The following code is very similar to what we ended up with in the <a href="/tutorials/protovis-primer-part-1">first part</a>, with a few modifications. First, it defines a few variables for convenience, then it creates a simple bar chart from the magnitudes of the earthquakes.
+To access this data, we need to set the variable as the <em>data</em> property of the visualization we're building, and provide a function that accesses the data. The following code is very similar to what we ended up with in the <a href="/blog/2010/protovis-primer-part-1">first part</a>, with a few modifications. First, it defines a few variables for convenience, then it creates a simple bar chart from the magnitudes of the earthquakes.
 
 ```js
 var width = 560;
@@ -300,5 +300,5 @@ eq.render();
 
 <hr>
 
-<p>Previous: <a href="/tutorials/protovis-primer-part-1">A Protovis Primer, Part 1</a>
-Next: <a href="/tutorials/protovis-primer-part-3">A Protovis Primer, Part 3</a></p>
+<p>Previous: <a href="/blog/2010/protovis-primer-part-1">A Protovis Primer, Part 1</a>
+Next: <a href="/blog/2010/protovis-primer-part-3">A Protovis Primer, Part 3</a></p>

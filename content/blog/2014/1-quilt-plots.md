@@ -14,4 +14,4 @@ This would be okay as a posting to an R mailing list perhaps, or as a short blog
 
 <hr />
 
-This is part of <a href="/section/series/peer-review">a five-part series on peer review in visualization</a>. One posting a day will be posted throughout this week.
+This is part of <a href="/tag/peer-review">a five-part series on peer review in visualization</a>. One posting a day will be posted throughout this week.

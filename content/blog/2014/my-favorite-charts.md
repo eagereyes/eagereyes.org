@@ -34,7 +34,7 @@ In addition, the filters at the top also respond to the selection to show who is
 
 The Human-Computer Interaction field has a nice term for an indication of more data and interaction: <em>information scent</em>. This is usually used with widgets, which indicate where more information can be found (like the little tick marks on the scrollbar in Chrome when when you search within the page). What makes this chart so good is its clever use of information scent to entice viewers to dig deeper, explore, and ask questions.
 
-It also brilliantly and clearly demonstrates the fact that the overall unemployment rate is a rather meaningless number. The actual rate in your demographic is likely to look very different, and the range is huge. This was the inspiration for my <a href="/basics/means"><em>What Means Mean</em></a> piece, though I don't think that was nearly as clear as this.
+It also brilliantly and clearly demonstrates the fact that the overall unemployment rate is a rather meaningless number. The actual rate in your demographic is likely to look very different, and the range is huge. This was the inspiration for my <a href="/blog/2013/means"><em>What Means Mean</em></a> piece, though I don't think that was nearly as clear as this.
 
 The chart shows interesting data, explains a somewhat advanced concept, and invites people to interact with it. This comes in a package that is understated and elegant in its design. Best line chart ever.
 

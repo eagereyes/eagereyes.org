@@ -28,7 +28,7 @@ Tukey invented <a href="http://www.statgraphics.com/eda.htm">a number of differe
 
 ## 1970–80s: Holmes
 
-The late 1970s and early 1980s saw a new development: the elaborate information graphic, which had existed for a while, was starting to be used to communicate numbers. <a title="List of Influences: Nigel Holmes" href="/influences/nigel-holmes">Nigel Holmes</a> is perhaps the most prominent designer of this kind of visualization.
+The late 1970s and early 1980s saw a new development: the elaborate information graphic, which had existed for a while, was starting to be used to communicate numbers. <a title="List of Influences: Nigel Holmes" href="/blog/2012/nigel-holmes">Nigel Holmes</a> is perhaps the most prominent designer of this kind of visualization.
 
 Holmes actually uses the term <em>explanation graphic</em>, which is not only less misused, it also more clearly describes the goal: to explain the data and its context. In addition, Holmes also clearly wanted to draw the reader’s attention and entertain. The result were information graphics that were very elaborate and unique, but always based on actual, real data.
 
