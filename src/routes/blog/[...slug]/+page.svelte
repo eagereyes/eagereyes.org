@@ -76,11 +76,13 @@
 
 {#if data.numComments > 0}
     <hr />
-    <h2 class="comments">Comments</h2>
-    <aside>
-        <p class="commentscomment">There {#if data.numComments === 1}is 1 comment{:else}are {data.numComments} comments{/if} on this post. Posting new comments was disabled in 2020.</p>
-        {@html parse(data.comments)}
-    </aside>
+    <details class="comments-details">
+        <summary><h2 class="comments">Comments ({data.numComments})</h2></summary>
+        <aside>
+            <p class="commentscomment">Posting new comments was disabled in 2020.</p>
+            {@html parse(data.comments)}
+        </aside>
+    </details>
 {/if}
 
 {/if}
@@ -210,8 +212,25 @@
     }
 
     /* Comments */
+    .comments-details {
+        max-width: 48rem;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .comments-details summary {
+        cursor: pointer;
+        list-style: none;
+        user-select: none;
+    }
+
+    .comments-details summary::-webkit-details-marker {
+        display: none;
+    }
+
     .comments {
         margin-bottom: 0;
+        display: inline;
     }
 
     .commentscomment {
