@@ -12,6 +12,6 @@ I use a few quotes from <a href="/blog/2021/paper-from-jam-session-to-recital-sy
 
 I end the talk with a bit of a taxonomy of more elaborate charts along two axes, chart familiarity and data specificity. They're somewhat independent, but not entirely. I think they are useful when considering unusual or bespoke charts, to decide how far you want to go away from the plain bar charts or similar, and what that might mean for your audience.
 
-You can watch the talk below or <a href="https://www.youtube.com/watch?v=GeRgED7LWr8">over on YouTube</a>. Like in my other videos, this one also has numbered references throughout, which are collected on <a href="/outlier22" data-type="page" data-id="98215">this references page</a>.
+You can watch the talk below or <a href="https://www.youtube.com/watch?v=GeRgED7LWr8">over on YouTube</a>. Like in my other videos, this one also has numbered references throughout, which are collected on this references page.
 
 <p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/GeRgED7LWr8?si=7P3aH_AklDpb2FAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>

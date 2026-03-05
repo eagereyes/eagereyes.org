@@ -21,12 +21,12 @@
 			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined} class="odd">
 				<a href="/video/">Videos</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/photo') ? 'page' : undefined} class="even">
+			<!-- <li aria-current={page.url.pathname.startsWith('/photo') ? 'page' : undefined} class="even">
 				<a href="/photo/">Photos</a>
 			</li>
 			<li aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined} class="odd narrow">
 				<a href="/">Apps</a>
-			</li>
+			</li> -->
 			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined} class="even">
 				<a href="/publications/">Papers</a>
 			</li>

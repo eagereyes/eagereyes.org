@@ -7,7 +7,7 @@
     "description": "The words 'business' and 'data visualization' probably put you to sleep before you even reach the end of this sentence. But wake up! There's actually a lot of interesting work to be done in this area, if only we give it a chance.",
     "date": "2024-10-29T21:14:33",
     "tags": [
-      "paper"
+      "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png",
     "outline": false
@@ -46,7 +46,7 @@
     "description": "Computational notebooks offer an alternative to the common GUI-based tools used for data visualization and BI today. In this new paper, I talk about what they are, their pros and cons, and how research could fill in some important gaps.",
     "date": "2023-05-01T07:52:48",
     "tags": [
-      "paper"
+      "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png",
     "outline": false
@@ -130,7 +130,7 @@
     "description": "Encodings play a central role in visualization, but I believe our thinking about them is too simplistic. In a new paper, I argue that we need to distinguish between the encodings that specify how a visualization is drawn and the ones that are readable or actually read by an observer. While they largely or entirely overlap in some charts (like bar charts or scatterplots) they don't in others (pie charts, line charts, etc.). And what exactly do you even specify in more complex visualizations like treemaps?",
     "date": "2022-04-19T18:59:44",
     "tags": [
-      "paper"
+      "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png",
     "outline": false
@@ -178,7 +178,7 @@
     "description": "Who are the people who use data and visualization as part of their work every day? In particular, how do people use data as part of meetings, to present to others, to discuss their findings and recommendations, etc.? My colleague Matt Brehmer and I ran a pair of studies to find out.",
     "date": "2021-10-26T21:51:06",
     "tags": [
-      "paper"
+      "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/10/pexels-photo-3184292.jpeg"
   },
@@ -555,7 +555,7 @@
     "description": "How we read pie charts is still an open question: is it angle? Is it area? Is it arc length? In a study I'm presenting as a short paper at the IEEE VIS conference in Vancouver next week, I tried to tease the visual cues apart – using modeling and 3D pie charts.",
     "date": "2019-10-17T07:52:12",
     "tags": [
-      "paper",
+      "papers",
       "pie-charts"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VISShort-2019.png",
@@ -681,7 +681,7 @@
     "description": "Why do pie charts look the way they do? What makes this particular way of slicing up a circle the preferred way of showing part-to-whole relationships? In two short papers that I’m presenting this week at EuroVis, I looked at the design space of circular part-to-whole charts, including pie charts.",
     "date": "2019-06-03T01:08:43",
     "tags": [
-      "paper",
+      "papers",
       "pie-charts"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png",
@@ -793,7 +793,6 @@
     "description": "Visualization doesn't have the replication issues that some other fields are struggling with right now, but is that because our science is so strong or because nobody actually bothers with replications? And what can we do to get ahead of potential problems before we run into a full-on crisis? In a paper to be presented at BELIV, Steve Haroz and I list potential pitfalls and present possible solutions.",
     "date": "2018-10-16T18:38:27",
     "tags": [
-      "paper",
       "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg",
@@ -1200,7 +1199,6 @@
     "description": "There is talk about stories having a beginning, middle, and end, but what does that mean for data stories? How do you create the overall structure for those? In a paper to be presented at EuroVis next week, I discuss a simple but very useful structure that I have found \"in the wild,\" and that I believe to be useful and generalizable.",
     "date": "2017-06-07T18:17:48",
     "tags": [
-      "paper",
       "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Kosara-EuroVis-2017.jpg",
@@ -1214,7 +1212,6 @@
     "description": "Embellished charts are common in information graphics. But are embellished bar charts actually harder to read than plain ones? In a short paper to be presented at EuroVis next week, Drew Skau and I present a study that looked into this question.",
     "date": "2017-06-06T19:24:52",
     "tags": [
-      "paper",
       "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Skau-EuroVis-2017.jpg",
@@ -1228,7 +1225,6 @@
     "description": "How should you sequence information in a data story so it makes the most sense? Are some sequences better than others? Does time have to move forward or does it not matter? In a paper to be published at EuroVis next week, with Jessica Hullman at UW and my Tableau Research colleague Heidi Lam, we report on a pair of studies that looked into this.",
     "date": "2017-06-04T20:52:46",
     "tags": [
-      "paper",
       "storytelling",
       "papers"
     ],
@@ -2004,7 +2000,6 @@
     "description": "How do we read pie charts? Do they differ from the even more reviled donut charts? What about common pie chart designs like exploded pies? In two papers to be presented at EuroVis next week, Drew Skau and I show that the common wisdom about how we read these charts (by angle) is almost certainly wrong, and that things are much more complicated than we thought.",
     "date": "2016-05-30T07:17:00",
     "tags": [
-      "paper",
       "eurovis",
       "pie-charts",
       "papers"
@@ -2252,7 +2247,6 @@
     "description": "I’m very happy to finally be able to announce our paper on the connected scatterplot technique. It describes the technique, provides some historical perspective, and most of all looks into how easy to understand and engaging the technique actually is.",
     "date": "2015-11-22T21:04:50",
     "tags": [
-      "paper",
       "papers"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg",
@@ -3785,7 +3779,7 @@
     "date": "2012-12-05T20:19:32",
     "tags": [
       "self-promotion",
-      "paper"
+      "papers"
     ],
     "featuredImage": null,
     "outline": false

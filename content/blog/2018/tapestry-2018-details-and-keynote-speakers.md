@@ -6,7 +6,7 @@ This will be the sixth time we're organizing the conference, so we figured we'd 
 
 Alberto Cairo is hosting us at the University of Miami this year, at the beautiful Newman Alumni Center. Miami will the perfect place to get away from the cold and gray in late November (for us Seattle folks, certainly!), and we made sure to stay way outside of Hurricane season.
 
-We're also changing the registration model, from an invite-only (or -first) to one where you can <a href="http://">simply register</a>. I know, it's pretty radical, but let's see how it works out!
+We're also changing the registration model, from an invite-only (or -first) to one where you can simply register. I know, it's pretty radical, but let's see how it works out!
 
 ## Keynotes
 
