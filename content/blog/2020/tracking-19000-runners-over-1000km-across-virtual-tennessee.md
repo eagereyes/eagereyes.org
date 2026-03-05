@@ -2,7 +2,7 @@
 
 # Tracking 19,000 Runners Over 1,000km Across Virtual Tennessee
 
-How do you show large numbers of people without losing track of the outliers? How do you keep a chart useful when the maximum values are orders of magnitude higher than the common ones? In <a href="/gvrat-1000k-tracker" data-type="page" data-id="38568">an animated visualization I've built</a> of the progress of over 19,000 runners across a virtual 1000km (635mi) race over 123 days, I've tried to solve some of these issues.
+How do you show large numbers of people without losing track of the outliers? How do you keep a chart useful when the maximum values are orders of magnitude higher than the common ones? In <a href="/app/gvrat-1000k-tracker" data-type="page" data-id="38568">an animated visualization I've built</a> of the progress of over 19,000 runners across a virtual 1000km (635mi) race over 123 days, I've tried to solve some of these issues.
 
 The <a href="https://vacationwithoutacar.com">Great Virtual Race Across Tennessee (GVRAT)</a> is about 1022km or 635mi long, which makes it a 1000K. This is different from a 50K, 100K, or even a 100-mile race in that it's not run as one continuous race, but as daily checkins over four months from May 1st to August 31st. Over 19,000 people (including yours truly), as well as a number of dogs, are taking part.
 
@@ -18,7 +18,7 @@ My visualization is inspired by <a href="https://www.nytimes.com/interactive/201
 
 ## The Visualization
 
-Here's a more detailed description of what <a href="/gvrat-1000k-tracker" data-type="page" data-id="38568">you can see in the visualization</a> than in the little legends I've added there. The piece is very tall and just about fits onto my laptop's screen. It inadvertently works quite nicely on phone screens, which I had not actually designed it for initially. But it's a natural fit due its format and the interaction was easy enough to adapt.
+Here's a more detailed description of what <a href="/app/gvrat-1000k-tracker" data-type="page" data-id="38568">you can see in the visualization</a> than in the little legends I've added there. The piece is very tall and just about fits onto my laptop's screen. It inadvertently works quite nicely on phone screens, which I had not actually designed it for initially. But it's a natural fit due its format and the interaction was easy enough to adapt.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-navigator.png" alt="" class="wp-image-39298" width="660" height="69" /></p>
 
@@ -54,7 +54,7 @@ This is clearly not great if you want to read precise values, but I think it wor
 
 And there's also interaction! It's very simple but I think it's actually quite effective. Dragging/swiping anywhere on the visualization navigates between days, clicking or tapping anywhere starts or stops the animation. This works no matter what device is being used and is all I need for this piece. I don't think there's a lot of value in tooltips or similar here.
 
-After all these words, you really should <a href="/gvrat-1000k-tracker" data-type="page" data-id="38568">check it out yourself</a>, though!
+After all these words, you really should <a href="/app/gvrat-1000k-tracker" data-type="page" data-id="38568">check it out yourself</a>, though!
 
 ## The Data
 
