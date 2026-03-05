@@ -33,6 +33,8 @@ Blog content lives outside `src/` in two places:
 
 Blog posts are plain Markdown (no frontmatter). All metadata is in `blog-meta.json`, not the files themselves.
 
+Static content pages (about, contact, license, pie-charts, subscribe) live in `content/<slug>.md`. Some have YAML frontmatter that is stripped before rendering.
+
 ### Routing
 
 | Route | Description |
@@ -46,9 +48,13 @@ Blog posts are plain Markdown (no frontmatter). All metadata is in `blog-meta.js
 | `/tag/<tag>` | Posts filtered by tag |
 | `/publications/` | Papers list |
 | `/publications/<key>` | Single paper (key uses `-` instead of `:`) |
-| `/about/` | About page |
+| `/<slug>` or `/<prefix>/<slug>` | Catch-all: serves content pages or 301 redirects |
 
 The `/blog/[...slug]` route handles all three blog display modes via the `PageType` enum (`singlePost`, `oneYear`, `allPosts`).
+
+The `src/routes/[...slug]/+page.server.ts` catch-all handles two things:
+1. **Content pages** — slugs in `CONTENT_PAGES` map are read from `content/<slug>.md` and rendered as Markdown.
+2. **Legacy redirects** — ~130 old URL paths in the `REDIRECTS` map issue 301s to their canonical locations. To add a redirect, add an entry to `REDIRECTS`; to add a new content page, add to both `CONTENT_PAGES` and create `content/<slug>.md`.
 
 ### Key Files
 
