@@ -1,24 +1,54 @@
 <script lang="ts">
-	import type { PageProps } from './$types';
-    import { PageType, tagNames, formatDate } from '$lib/blog-utils';
+    import type { PageProps } from './$types';
     import BlogList from '$lib/BlogList.svelte';
+    import Sidebar from '$lib/Sidebar.svelte';
 
-	let { data }: PageProps = $props();
-
+    let { data }: PageProps = $props();
 </script>
 
 <svelte:head>
-    <!-- <title>{data.metadata.title}</title>
-    <meta name="description" content={data.description} /> -->
+    <title>{data.tagName} – eagereyes</title>
 </svelte:head>
 
-<h1>Blog posts filed under <em>{data.tagName}</em></h1>
+<div class="blog-layout">
+    <div class="blog-content">
+        <h1>Blog posts filed under <em>{data.tagName}</em></h1>
+        <div class="post-grid">
+            <BlogList posts={data.posts} tag={data.tag} />
+        </div>
+    </div>
 
-<div class="post-grid">
-    <BlogList posts={data.posts} tag={data.tag} />
+    <aside class="sidebar">
+        <Sidebar
+            years={data.allYears}
+            yearCounts={data.yearCounts}
+            sortedTags={data.sortedTags}
+            tagCounts={data.tagCounts}
+            defaultTab="tags"
+        />
+    </aside>
 </div>
 
 <style>
+    .blog-layout {
+        display: flex;
+        gap: 2rem;
+        align-items: flex-start;
+    }
+
+    .blog-content {
+        flex: 1;
+        min-width: 0;
+    }
+
+    .sidebar {
+        width: 10rem;
+        flex-shrink: 0;
+        position: sticky;
+        top: 1rem;
+        padding-top: 5.5rem;
+    }
+
     .post-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr);

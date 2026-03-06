@@ -42,6 +42,10 @@ export const load: PageServerLoad = async ({ params }) => {
     const prevIndex = posts.findLastIndex((post, index) => index < metaIndex && ! post.archived);
 
     const allYears = [...new Set((posts as Array<BlogPost>).map(post => post.date.substring(0, 4)))].sort((a, b) => b.localeCompare(a));
+    const yearCounts = Object.fromEntries(allYears.map(y => [y, (posts as Array<BlogPost>).filter(p => p.date.startsWith(y)).length]));
+    const allTags = [...new Set((posts as Array<BlogPost>).flatMap(p => p.tags ?? []))];
+    const tagCounts = Object.fromEntries(allTags.map(tag => [tag, (posts as Array<BlogPost>).filter(p => (p.tags ?? []).includes(tag)).length]));
+    const sortedTags = allTags.sort((a, b) => tagCounts[b] - tagCounts[a]);
 
     return {
         display,
@@ -50,6 +54,9 @@ export const load: PageServerLoad = async ({ params }) => {
         prevPost: prevIndex >= 0 ? posts[prevIndex] : null,
         allPosts: display == PageType.singlePost ? [] : allPosts,
         allYears,
+        yearCounts,
+        sortedTags,
+        tagCounts,
         numComments: posts[metaIndex] ? posts[metaIndex].comments : 0,
         comments,
         content,

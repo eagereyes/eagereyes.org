@@ -1,7 +1,9 @@
 <script lang="ts">
 	import type { PageProps } from './$types';
-    import { PageType, tagNames, formatDate } from '$lib/blog-utils';
+    import { PageType, formatDate } from '$lib/blog-utils';
+    import { tagNames } from '$lib/blog-utils';
     import BlogList from '$lib/BlogList.svelte';
+    import Sidebar from '$lib/Sidebar.svelte';
 
     import { parse } from 'marked';
 
@@ -9,6 +11,7 @@
 
     let archivedPosts = $derived(data.allPosts.filter(post => post.archived));
     let years = $derived(data.allYears ?? []);
+    let currentYear = $derived(data.display === PageType.oneYear ? data.allPosts[0]?.date.substring(0, 4) : undefined);
 </script>
 
 <svelte:head>
@@ -16,36 +19,38 @@
     <meta name="description" content={data.meta?.description} />
 </svelte:head>
 
-{#if data.display === PageType.allPosts}
-    <h1>Blog Index</h1>
-    <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p>
+{#if data.display === PageType.allPosts || data.display === PageType.oneYear}
+    <div class="blog-layout">
+        <div class="blog-content">
+            {#if data.display === PageType.allPosts}
+                <h1>Blog Index</h1>
+                <!-- <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p> -->
 
-    <nav class="year-nav">
-        {#each years as year}
-            <a href="/blog/{year}">{year}</a>
-        {/each}
-    </nav>
-
-    {#each years as y}
-        <h2 class="year-header"><a href="/blog/{y}">{y}</a></h2>
-        <div class="post-grid">
-            <BlogList year={y} posts={data.allPosts} archived={false} />
+                {#each years as y}
+                    <h2 class="year-header"><a href="/blog/{y}">{y}</a></h2>
+                    <div class="post-grid">
+                        <BlogList year={y} posts={data.allPosts} archived={false} />
+                    </div>
+                {/each}
+            {:else}
+                <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
+                <div class="post-grid">
+                    <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
+                </div>
+            {/if}
         </div>
-    {/each}
 
-{:else if data.display === PageType.oneYear}
-    <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
-
-    <nav class="year-nav">
-        {#each years as year}
-            <a href="/blog/{year}" class:current={year === data.allPosts[0].date.substring(0, 4)}>{year}</a>
-        {/each}
-    </nav>
-
-    <div class="post-grid">
-        <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
+        <aside class="sidebar">
+            <Sidebar
+                years={years}
+                yearCounts={data.yearCounts}
+                sortedTags={data.sortedTags}
+                tagCounts={data.tagCounts}
+                currentYear={currentYear}
+            />
+        </aside>
     </div>
-{:else }
+{:else}
 <article>
     {@html parse(data?.content)}
 
@@ -122,27 +127,23 @@
         margin-bottom: 0;
     }
 
-    .year-nav {
+    .blog-layout {
         display: flex;
-        flex-wrap: wrap;
-        gap: 0.5rem;
-        margin: 1rem 0 2rem;
+        gap: 2rem;
+        align-items: flex-start;
     }
 
-    .year-nav a {
-        padding: 0.25rem 0.6rem;
-        border: 1px solid var(--color-border);
-        border-radius: 4px;
-        font-size: 0.9rem;
-        text-decoration: none;
-        color: var(--color-text);
+    .sidebar {
+        width: 10rem;
+        flex-shrink: 0;
+        position: sticky;
+        top: 1rem;
+        padding-top: 5.5rem;
     }
 
-    .year-nav a:hover,
-    .year-nav a.current {
-        background: var(--color-theme-1);
-        border-color: var(--color-theme-1);
-        color: white;
+    .blog-content {
+        flex: 1;
+        min-width: 0;
     }
 
     /* Blog post article */
