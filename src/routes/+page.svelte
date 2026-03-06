@@ -16,17 +16,19 @@ let { data }: PageProps = $props();
 
 <main>
 	<section class="blog">
-		<h1 class="section-header">Blog</h1>
+		<h1 class="section-header"><a href="/blog/">Blog</a></h1>
 		<div>
 			<BlogList posts={data.posts} maxPosts={5} />
 		</div>
+		<a href="/blog/" class="more">More…</a>
 	</section>
 
 	<section class="videos">
-		<h1 class="section-header">Videos</h1>
+		<h1 class="section-header"><a href="/video/">Videos</a></h1>
 		<div>
 			<VideoList videos={data.videos} numVideos={5} useHeading={false} />
 		</div>
+		<a href="/video/" class="more">More…</a>
 	</section>
 
 	<!-- <section class="apps">
@@ -41,7 +43,7 @@ let { data }: PageProps = $props();
 		flex-direction: row;
 		justify-content: flex-start;
 		flex-wrap: wrap;
-		gap: 2em;
+		gap: 0;
 		padding: 2em;
 	}
 
@@ -49,6 +51,22 @@ let { data }: PageProps = $props();
 		display: flex;
 		flex-direction: column;
 		justify-content: flex-start;
+	}
+
+	.more {
+		display: block;
+		margin-top: 1em;
+		text-align: right;
+	}
+
+	.section-header a {
+		color: var(--color-text);
+		text-decoration: none;
+	}
+
+	.section-header a:hover {
+		color: var(--color-theme-1);
+		text-decoration: underline;
 	}
 
 	.blog {
@@ -62,6 +80,7 @@ let { data }: PageProps = $props();
 		flex: 0.34;
 		width: 34%;
 		height: 12em;
+		padding-left: 1em;
 	}
 
 	@media (max-width: 768px) {
