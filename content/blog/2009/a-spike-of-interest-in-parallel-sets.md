@@ -12,7 +12,7 @@ The technique was developed a few years ago by my student Fabian Bendix, myself,
 
 I have done some further work on the technique as well as worked on a new implementation. Currently, I am working with a colleague and a student in bioinformatics on using ParSets (and other techniques) as a new way of looking at genomic data.
 
-So what about getting access to the program right now? I have been planning on releasing the program for a long time (and I completely agree with Iain Cunningham who recently <a href="/visweek-2008/who-votes-donut-charts.html#comment-1217">called me out</a> on my statements elsewhere that we should be forced to publish our code). Unfortunately, the current implementation is a typical academic prototype: buggy, unfinished, and the code is really horrible in places.
+So what about getting access to the program right now? I have been planning on releasing the program for a long time (and I completely agree with Iain Cunningham who recently called me out on my statements elsewhere that we should be forced to publish our code). Unfortunately, the current implementation is a typical academic prototype: buggy, unfinished, and the code is really horrible in places.
 
 We have recently started a new implementation based on a new data model that embodies a lot of what we have learned about the technique and the data we are looking at. There are also new interactions that will make working with Parallel Sets more efficient, and the new design (some of which you see above) brings out the represented data in a much clearer way than before.
 

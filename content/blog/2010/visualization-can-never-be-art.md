@@ -24,7 +24,7 @@ There are other, related criteria that are typically seen as separate, but that 
 
 Given this criterion of the sublime for art, the natural thing to do is to look for things that are not sublime, and see which of these two areas visualization falls into. As it turns out, visualization in the technical sense is entirely anti-sublime: there is no ambiguity, no uncanniness, and typically no sublime quality at all. A visualization reveals its data right away, that's the whole point. We don't want it to be difficult to get the data out of it, we design it to speak as clear a language as we can.
 
-That is essentially the argument Warren Sack made in a paper on the aesthetics of information visualization. I took it further to use that criterion to define <a href="/blog/2007/tale-of-two-types#a-tale-of-two-types-of-visualization-and-much-confusion">two types of visualization</a>, pragmatic and artistic. 
+That is essentially the argument Warren Sack made in a paper on the aesthetics of information visualization. I took it further to use that criterion to define <a href="/blog/2007/tale-of-two-types">two types of visualization</a>, pragmatic and artistic. 
 
 The key argument in Sack's paper for our purposes is what he calls <em>user-friendly</em>: a visualization has to talk to the user in clear terms. That is the opposite of sublime, or <em>anti-sublime</em> (as Lev Manovich calls it); Sack also uses the interesting term <em>utilitarian</em>. 
 

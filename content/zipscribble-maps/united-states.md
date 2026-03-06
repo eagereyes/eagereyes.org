@@ -37,13 +37,13 @@ As some of the comments below have mentioned, Alaska and Hawaii are missing from
 
 <p align="center"><img title="ZIPScribble of Alaska and Hawaii" src="https://media.eagereyes.org/media/attachments/ZIPScribble-AKHI.png" alt="ZIPScribble of Alaska and Hawaii" width="600" height="272" border="0" /></p>
 
-Is this visualization? Sure, because it shows data. The pictures are not interactive (though there is <a href="/zipscribble-maps/interactive-zipscribble-map#US">an interactive version as well</a>), but they do allow some insight into the patterns created by the numbers. Is it useful? Probably not. But it sure is surprising and interesting, rather like a fractal image.
+Is this visualization? Sure, because it shows data. The pictures are not interactive (though there is <a href="/app/zipscribble-map/interactive-zipscribble-map#US">an interactive version as well</a>), but they do allow some insight into the patterns created by the numbers. Is it useful? Probably not. But it sure is surprising and interesting, rather like a fractal image.
 
 <hr />
 
-See also <a href="/zipscribble-maps/interactive-zipscribble-map#US">the interactive version</a>!
+See also <a href="/app/zipscribble-map/interactive-zipscribble-map#US">the interactive version</a>!
 
-There is also the <a href="/blog/2006/travelling-presidential-candidate-map">Travelling Presidential Candidate Map</a> and the <a href="/zipscribble-maps/">growing ZIPScribble map family</a>.
+There is also the <a href="/blog/2006/travelling-presidential-candidate-map">Travelling Presidential Candidate Map</a> and the <a href="/app/zipscribble-map/">growing ZIPScribble map family</a>.
 
 Updates 1/3/2007: changed projection, higher resolution images, added borders backdrop, improved coloring, added AK and HI. <a href="/blog/2007/improved-zipscribble-maps-more-countries-to-come">More details here</a>.
 

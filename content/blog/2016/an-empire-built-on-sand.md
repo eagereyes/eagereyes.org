@@ -10,7 +10,7 @@ My point is not that everything we know is wrong, but that we need to ask a simp
 
 After all, this is how an actual science works: facts are collected and theories put forward, and those are believed until they're shown to be false or incomplete. But just relying on a handful of books that are based on little or no research doesn't make for a good foundation if we ever want to claim visualization to be a science.
 
-We also need to be more critical of the seminal papers we like to keep citing over and over. They are obviously important, but they're not sacrosanct. The same is true for <a href="/blog/2016/the-repetitive-and-boring-history-of-visualization#the-repetitive-and-boring-history-of-visualization">the handful of classic visualization pieces</a> we love a little bit too much.
+We also need to be more critical of the seminal papers we like to keep citing over and over. They are obviously important, but they're not sacrosanct. The same is true for <a href="/blog/2016/the-repetitive-and-boring-history-of-visualization">the handful of classic visualization pieces</a> we love a little bit too much.
 
 I also have some specific suggestions in the paper, both about systematic research and a list of research topics that lend themselves to systematic studies. There's also criticism of the current funding situation that makes it difficult to get funding for this kind of foundational research – even and in particular from certain foundations that ostensibly fund science on a national level.
 

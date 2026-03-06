@@ -6,7 +6,7 @@ I recently <a href="/criticism/cost-of-a-sick-chart">criticized Ben Fry's visual
 
 My original plan had been to create something interactive, but I simply lack the time to do that right now. So the analysis was done in <a href="http://www.tableausoftware.com/">Tableau</a> and is presented here as images. If you have Tableau, you can also grab my <a href="https://media.eagereyes.org/media/2009/sickchart/Cost-of-Getting-Sick.twbx">packaged Tableau workbook</a> to play with, or download the data in a <a href="https://media.eagereyes.org/media/2009/sickchart/cost-reshaped.csv">consolidated and reshaped CSV file</a>.
 
-The data was extracted from the applet on <a href="http://www.ge.com/visualization/health_costs/index.html">GE's Health Costs page</a>. Tom Carden <a href="/criticism/cost-of-a-sick-chart#comment-2052">pointed out how to interpret the original data</a> and produced some first graphs; Martin Theus also <a href="http://www.theusrus.de/blog/chicken-and-egg-problem-follow-up/">provided an analysis</a>. While they both found some first trends, I don't believe they really got to the bottom of this.
+The data was extracted from the applet on <a href="http://www.ge.com/visualization/health_costs/index.html">GE's Health Costs page</a>. Tom Carden pointed out how to interpret the original data and produced some first graphs; Martin Theus also <a href="http://www.theusrus.de/blog/chicken-and-egg-problem-follow-up/">provided an analysis</a>. While they both found some first trends, I don't believe they really got to the bottom of this.
 
 ## Overview
 

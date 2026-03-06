@@ -1,6 +1,6 @@
 # Lessons Learned from Live-Blogging VisWeek 2008
 
-<a href="http://vis.computer.org/VisWeek2008/index.html">VisWeek 2008</a> was an interesting set of conferences again. The <a href="/events/visweek2008">live-blog is now archived</a>, and here are a few thoughts on blogging a conference. I had a long summary written up, but it was mostly redundant with the live-blog, so it makes more sense to go there. I will write up further things at greater length over the next few weeks.
+<a href="http://vis.computer.org/VisWeek2008/index.html">VisWeek 2008</a> was an interesting set of conferences again. The live-blog is now archived, and here are a few thoughts on blogging a conference. I had a long summary written up, but it was mostly redundant with the live-blog, so it makes more sense to go there. I will write up further things at greater length over the next few weeks.
 
 This was my first experiment with live-blogging, and it was quite interesting. I knew that Twitter's 140-character limit would be too little, but the postings grew a bit longer than I had originally expected. The Microblog box took up most of the visible frontpage, when it was really meant to only fill the top half on most screens. The postings were still fairly superficial, more pointers than descriptions of what the papers were really about.
 
@@ -12,4 +12,4 @@ I only wrote about what was presented at the conference, I did not read the pape
 
 One last thing I'm going to say about this is how easy it was to build the infrastructure for the live-blog using Drupal's <em>Content Construction Kit</em> and <em>Views</em>. I spent the most time tweaking the design of the box and display of the messages and feed. Setting up the new posting type etc. was really easy once I had figured out how to use Views.
 
-If you missed the conference, you can re-live the drama and excitement in the <a href="/events/visweek2008">VisWeek 2008 Liveblog Archive</a>. Also, check out Carlos Scheidegger's <a href="http://carlosscheidegger.wordpress.com/">visualization, etc.</a> and Alark Joshi's <a href="http://visualizeit.wordpress.com/">Visualization Blog</a> for more coverage.
+If you missed the conference, you can re-live the drama and excitement in the VisWeek 2008 Liveblog Archive. Also, check out Carlos Scheidegger's <a href="http://carlosscheidegger.wordpress.com/">visualization, etc.</a> and Alark Joshi's <a href="http://visualizeit.wordpress.com/">Visualization Blog</a> for more coverage.

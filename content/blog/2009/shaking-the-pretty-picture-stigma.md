@@ -12,7 +12,7 @@ I noticed the same thing at the <a href="/blog/2009/oecd-seminar-turning-statist
 
 ## Artistic vs. Pragmatic Visualization
 
-Lima makes the distinction between data visualization and data art. The criteria are not perfectly clear-cut, and it's easy to discuss a particular example ad nauseam. I did write about <a href="/blog/2007/tale-of-two-types#a-tale-of-two-types-of-visualization-and-much-confusion">possible criteria</a> a while ago though, and think that the distinction is pretty clear. What is the main question: Do you want to communicate the data or a concern? Do you care about perceptual effectiveness or beauty? Is the data a given or is showing the existence of the data part of the point?
+Lima makes the distinction between data visualization and data art. The criteria are not perfectly clear-cut, and it's easy to discuss a particular example ad nauseam. I did write about <a href="/blog/2007/tale-of-two-types">possible criteria</a> a while ago though, and think that the distinction is pretty clear. What is the main question: Do you want to communicate the data or a concern? Do you care about perceptual effectiveness or beauty? Is the data a given or is showing the existence of the data part of the point?
 
 There is no 'right' answer to these questions, they simply lead you in two very different directions. Some people see a clear distinction between data visualization and data art as a threat, but I don't see why that would be the case. There is nothing wrong with data art, it's just not pragmatic data visualization. So let's stop calling it that.
 

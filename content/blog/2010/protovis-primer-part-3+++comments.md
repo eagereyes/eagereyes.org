@@ -37,7 +37,7 @@ Robert Kosara says…
 >	
 >	The activePresident is the variable set by the mouse-over code, so it's used where the visualization is supposed to react to the interaction. The basic life-lines are drawn without that, but the highlighting of the label has to take it into account (that's why that's a separate step). You can ignore that for the if you want to just play with the visual representation, or try hard-coding a particular value to see what happens when you change it.
 >	
->	The syntax without curly braces is called a function expression, and it has to be a single expression. You could perhaps write more than one statement by using the comma operator, but that would be ugly and confusing. So as a rule, yes, you have to use the braces for longer functions. But if you prefer the more verbose syntax, you can use that one as well (that was explained in [part one](/tutorials/protovis-primer-part-1)).
+>	The syntax without curly braces is called a function expression, and it has to be a single expression. You could perhaps write more than one statement by using the comma operator, but that would be ugly and confusing. So as a rule, yes, you have to use the braces for longer functions. But if you prefer the more verbose syntax, you can use that one as well (that was explained in [part one](/blog/2010/protovis-primer-part-1)).
 
 Priyanka says…
 >	Hi,

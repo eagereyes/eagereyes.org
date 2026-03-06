@@ -2,7 +2,7 @@
 
 # A Protovis Primer, Part 2
 
-The second installment of the <a href="http://protovis.org/">Protovis</a> tutorial ([see part 1 here](/tutorials/protovis-primer-part-2)) introduces some more of its JavaScript-specific features like scales, shows how to anchor marks on other marks, and how to use rules. We also start using real data, and learn how to load that data from a remote source.
+The second installment of the <a href="http://protovis.org/">Protovis</a> tutorial ([see part 1 here](/blog/2010/protovis-primer-part-2)) introduces some more of its JavaScript-specific features like scales, shows how to anchor marks on other marks, and how to use rules. We also start using real data, and learn how to load that data from a remote source.
 
 Visualization is pointless if it doesn't represent interesting data. For this part of the tutorial, I have prepared a data file that contains all earthquakes of magnitude 1 or above over the last 24 hours. This data file is created by downloading a CSV file from <a href="http://earthquake.usgs.gov/earthquakes/catalogs/">U.S. Geological Survey (USGS)</a> and converting it to the JSON format. The data file (at <a href="http://data.eagereyes.org/pv/earthquakes.json">this URL</a>) is updated once every hour, so if you have a Protovis-capable browser, you are seeing current data in the examples below.
 

@@ -2,7 +2,7 @@
 
 # VisWeek Preview: InfoVis Theory Workshop and Panel
 
-This year's VisWeek conference has a distinct theory scent. It starts with the workshop, <a href="/infovis-theory-workshop">The Role of Theory in Information Visualization</a> on Monday, and ends with a panel on theory on Friday. There is also a related BOF and a paper session at Vis.
+This year's VisWeek conference has a distinct theory scent. It starts with the workshop, The Role of Theory in Information Visualization on Monday, and ends with a panel on theory on Friday. There is also a related BOF and a paper session at Vis.
 
 ## InfoVis Theory Workshop
 

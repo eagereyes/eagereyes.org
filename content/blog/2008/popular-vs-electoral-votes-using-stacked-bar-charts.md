@@ -12,7 +12,7 @@ Jock Mackinlay asked me for the underlying data (which I later also added to the
 
 ## Using Stacked Bar Charts
 
-I'm using Mackinlay's idea to create the chart using stacked bar charts. Stacked bars are quite flexible, and I've used them to prototype a number of visualizations, including the <a href="/blog/2008/presidential-demographics-ii#presidential-demographics-part-ii">Presidential Demographics</a> applet (the key there was making parts of the bars invisible). They are also available in virtually any program that can draw charts, so this method should work with practically any program.
+I'm using Mackinlay's idea to create the chart using stacked bar charts. Stacked bars are quite flexible, and I've used them to prototype a number of visualizations, including the <a href="/blog/2008/presidential-demographics-ii">Presidential Demographics</a> applet (the key there was making parts of the bars invisible). They are also available in virtually any program that can draw charts, so this method should work with practically any program.
 
 Here is a version of my table that shows the raw data (name, (popular) winner %, and electoral %) as well as the three columns that are going to be used for the stacked bar chart.
 

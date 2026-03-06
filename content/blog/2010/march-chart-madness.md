@@ -28,7 +28,7 @@ When you notice the effort it takes to read the visualization, there's something
 
 There is a lot of talk in the European Union about <a href="http://www.fsteurope.com/news/eu-income-tax-revealed/">net payers and net receivers of money</a>. This chart tries to make the point that the EU swallows up a lot of money, and clearly succeeds. But it does so at the expense of honesty.
 
-The triangles are scaled by height, not by area. Double the height does not mean double the area though, but four times the area (and the visual impact). It's the old <a href="/2008/linear-vs-quadratic-change">linear-vs.-quadratic trick</a>. A more effective way would have been to simply show the difference, but that would have been harder to exaggerate like this.
+The triangles are scaled by height, not by area. Double the height does not mean double the area though, but four times the area (and the visual impact). It's the old <a href="/blog/2008/linear-vs-quadratic-change">linear-vs.-quadratic trick</a>. A more effective way would have been to simply show the difference, but that would have been harder to exaggerate like this.
 
 The other issue here is that the numbers don't seem to add up. Where does all the money go? There are a lot of net payers in this graphic, but very few (and very small) net receivers. Does the money just vanish?
 

@@ -18,7 +18,7 @@ What is the mission of this site? I guess to put it in as few words as possible,
 
 <em>The troublemakers.</em>
 
-This is not a blog. When people call this site my blog, I usually argue with them. The goal is to organically build a website over time that will have some more or less well-organized information about visualization methods, basics, applications, etc. Part of it is a blog, yes, but that part is filed under the <a href="/topics/blog">blog category</a>. The other articles do appear in the feed when they are published, but they are meant to have a much longer lifetime than the usual blog entry. They are also longer, better researched, and take a lot more work to put together.
+This is not a blog. When people call this site my blog, I usually argue with them. The goal is to organically build a website over time that will have some more or less well-organized information about visualization methods, basics, applications, etc. Part of it is a blog, yes, but that part is filed under the blog category. The other articles do appear in the feed when they are published, but they are meant to have a much longer lifetime than the usual blog entry. They are also longer, better researched, and take a lot more work to put together.
 
 <em>The round pegs in the square holes.</em>
 
@@ -46,7 +46,7 @@ This is a non-commercial website. I make it a point not to have advertising, not
 
 <em>About the only thing you can't do is ignore them.</em>
 
-What has the site achieved? It has certainly helped me get recognized. As egotistical as it may seem, it is a great feeling to email an influential, senior InfoVis person to ask for a <a href="/topics/ListsOfInfluences">list of influences</a> and then be told that he or she knows the site and is happy to oblige. I have also been greeted by strangers as "Mr. EagerEyes" at conferences and been told by others that the site has changed their view of visualization.
+What has the site achieved? It has certainly helped me get recognized. As egotistical as it may seem, it is a great feeling to email an influential, senior InfoVis person to ask for a <a href="/tag/influences">list of influences</a> and then be told that he or she knows the site and is happy to oblige. I have also been greeted by strangers as "Mr. EagerEyes" at conferences and been told by others that the site has changed their view of visualization.
 
 <em>Because they change things.</em>
 

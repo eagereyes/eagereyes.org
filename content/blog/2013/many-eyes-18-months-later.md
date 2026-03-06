@@ -64,7 +64,7 @@ I got some interesting responses to my posting last year, some of them angry, so
 
 But I also got a lot of agreement from people who knew the group or the project. While I got a few details wrong (like Adam Perer’s role in Many Eyes), I was right with my overall assessment, and I know that even some of the people close to the project were surprised by the data.
 
-The timing of Many Eyes’ second incarnation is also interesting. <a href="/criticism/quo-vadis-many-eyes#comment-3675">Frank’s comment on my posting</a> talked about the project mostly in the past tense, with no indication of current plans or even a “keep watching” or “maybe.” By October, they had concrete plans and a release date. Three of their five visualization luminaries have also been hired within the last year: Noah Iliinsky, Alan Keahey (both December 2012), and Angela Shen-Hsieh (earlier this year).
+The timing of Many Eyes’ second incarnation is also interesting. <a href="/criticism/quo-vadis-many-eyes">Frank’s comment on my posting</a> talked about the project mostly in the past tense, with no indication of current plans or even a “keep watching” or “maybe.” By October, they had concrete plans and a release date. Three of their five visualization luminaries have also been hired within the last year: Noah Iliinsky, Alan Keahey (both December 2012), and Angela Shen-Hsieh (earlier this year).
 
 ## Tableau Public
 
