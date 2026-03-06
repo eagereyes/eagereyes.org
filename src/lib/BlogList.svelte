@@ -1,52 +1,55 @@
 <script lang="ts">
+    import type { BlogPost } from "$lib/blog-utils";
+    import { formatDate, tagNames } from "$lib/blog-utils";
 
-import type { BlogPost } from '$lib/blog-utils';
-import { formatDate, tagNames } from '$lib/blog-utils';
-
-let {
+    let {
         year = undefined,
         tag = undefined,
         archived = false,
         byYear = false,
         maxPosts = -1,
-        posts
-    } : {
-        year?: string,
-        tag?: string,
-        archived?: boolean,
-        byYear?: boolean,
-        maxPosts?: number,
-        posts: BlogPost[]
+        posts,
+    }: {
+        year?: string;
+        tag?: string;
+        archived?: boolean;
+        byYear?: boolean;
+        maxPosts?: number;
+        posts: BlogPost[];
     } = $props();
 
-let filteredPosts = $derived(posts.filter(post => {
-    let include = true;
-    include &&= archived || !post.archived;
-    include &&= (year === undefined) || post.date.startsWith(year);
-    include &&= (tag === undefined) || post.tags.includes(tag);
-
-    return include;
-}).slice(0, maxPosts === -1 ? posts.length : maxPosts));
-
-let postsByYear = $derived.by(() => {
-    const tempPosts: {[key: string]: BlogPost[]} = {};
-    filteredPosts.forEach(post => {
-        const postYear = post.date.substring(0, 4);
-        if (!tempPosts[postYear]) {
-            tempPosts[postYear] = [];
-        }
-        tempPosts[postYear].push(post);
-    });
-    return Object.entries(tempPosts).reverse().map(([year, posts]) => ({
-        year,
+    let filteredPosts = $derived(
         posts
-    }));
-});
+            .filter((post) => {
+                let include = true;
+                include &&= archived || !post.archived;
+                include &&= year === undefined || post.date.startsWith(year);
+                include &&= tag === undefined || post.tags.includes(tag);
 
+                return include;
+            })
+            .slice(0, maxPosts === -1 ? posts.length : maxPosts),
+    );
+
+    let postsByYear = $derived.by(() => {
+        const tempPosts: { [key: string]: BlogPost[] } = {};
+        filteredPosts.forEach((post) => {
+            const postYear = post.date.substring(0, 4);
+            if (!tempPosts[postYear]) {
+                tempPosts[postYear] = [];
+            }
+            tempPosts[postYear].push(post);
+        });
+        return Object.entries(tempPosts)
+            .reverse()
+            .map(([year, posts]) => ({
+                year,
+                posts,
+            }));
+    });
 </script>
 
 {#each postsByYear as { year, posts }}
-
     {#if byYear}
         <h2 class="year-header"><a href="/blog/{year}">{year}</a></h2>
     {/if}
@@ -54,28 +57,39 @@ let postsByYear = $derived.by(() => {
     {#each posts as post}
         <article class="post-card" class:no-image={!post.featuredImage}>
             {#if post.featuredImage}
-            <a class="card-image-link" href="/blog/{post.date.substring(0, 4)}/{post.slug}" tabindex="-1" aria-hidden="true">
-                <div class="card-image">
-                    <img src={post.featuredImage} alt={post.title} loading="lazy" />
-                </div>
-            </a>
+                <a
+                    class="card-image-link"
+                    href="/blog/{post.date.substring(0, 4)}/{post.slug}"
+                    tabindex="-1"
+                    aria-hidden="true"
+                >
+                    <div class="card-image">
+                        <img
+                            src={post.featuredImage}
+                            alt={post.title}
+                            loading="lazy"
+                        />
+                    </div>
+                </a>
             {/if}
             <div class="card-body">
                 <h2 class="card-title">
-                    <a href="/blog/{post.date.substring(0, 4)}/{post.slug}">{post.title}</a>
+                    <a href="/blog/{post.date.substring(0, 4)}/{post.slug}"
+                        >{post.title}</a
+                    >
                 </h2>
                 <p class="card-description">{@html post.description}</p>
                 {#if post.tags && post.tags.length > 0}
-                <div class="card-tags">
-                    {#each post.tags as t}
-                        <a href="/tag/{t}" class="tag">{tagNames[t] ?? t}</a>
-                    {/each}
-                </div>
+                    <div class="card-tags">
+                        {#each post.tags as t}
+                            <a href="/tag/{t}" class="tag">{tagNames[t] ?? t}</a
+                            >
+                        {/each}
+                    </div>
                 {/if}
             </div>
         </article>
     {/each}
-
 {/each}
 
 <style>
@@ -112,7 +126,9 @@ let postsByYear = $derived.by(() => {
         overflow: hidden;
         margin-bottom: 2rem;
         background-color: var(--color-bg-1);
-        transition: box-shadow 0.2s ease, transform 0.2s ease;
+        transition:
+            box-shadow 0.2s ease,
+            transform 0.2s ease;
     }
 
     .post-card:hover {
@@ -199,7 +215,6 @@ let postsByYear = $derived.by(() => {
         font-size: 0.78rem;
         padding: 0.15rem 0.5rem;
         border-radius: 3px;
-        background: var(--color-bg-0);
         border: 1px solid var(--color-border);
         color: var(--color-text);
         text-decoration: none;
@@ -208,8 +223,8 @@ let postsByYear = $derived.by(() => {
 
     .tag:hover {
         opacity: 1;
+        background: #fbfaf6;
         border-color: var(--color-theme-1);
         color: var(--color-theme-1);
     }
-
 </style>

@@ -88,7 +88,7 @@
 		font-size: 0.8rem;
 		border: 1px solid var(--color-border);
 		border-radius: 4px;
-		background: var(--color-bg-1);
+		background: #fbfaf6;
 		color: var(--color-text);
 	}
 
