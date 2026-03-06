@@ -11,19 +11,19 @@
 
 	<nav>
 		<ul>
-			<li aria-current={page.url.pathname === '/' ? 'page' : undefined} class="odd">
+			<li aria-current={page.url.pathname === '/' ? 'page' : undefined}>
 				<a href="/">Home</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/blog') ? 'page' : undefined} class="even narrow">
+			<li aria-current={page.url.pathname.startsWith('/blog') ? 'page' : undefined}>
 				<a href="/blog/">Blog</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined} class="odd">
+			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
 				<a href="/video/">Videos</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined} class="even">
+			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined}>
 				<a href="/publications/">Papers</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined} class="odd">
+			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined}>
 				<a href="/about">About</a>
 			</li>
 		</ul>
@@ -40,42 +40,33 @@
 	header {
 		display: flex;
 		justify-content: space-between;
+		align-items: center;
 		max-width: 64rem;
 		width: 100%;
 		margin: 0 auto;
+		padding: 0.75rem 1rem;
+		border-bottom: 1px solid var(--color-border);
 	}
 
 	.corner {
 		width: 10em;
-		height: 3em;
 	}
 
 	.corner a {
 		display: flex;
 		align-items: center;
-		justify-content: center;
-		width: 100%;
-		height: 100%;
-	}
-
-	.corner img {
-		width: 2em;
-		height: 2em;
-		object-fit: contain;
-		margin-left: 1em;
-		margin-top: 1em;
 	}
 
 	.corner img.logo {
 		width: 100%;
-		padding-left: 2em;
+		padding-left: 1em;
 	}
 
 	.search-corner {
+		width: 10em;
 		display: flex;
 		align-items: center;
-		padding-top: 0.5em;
-		padding-right: 1rem;
+		justify-content: flex-end;
 	}
 
 	.search-corner form {
@@ -84,12 +75,18 @@
 
 	.search-corner input[type='search'] {
 		width: 100%;
-		padding: 0.25rem 0.5rem;
+		padding: 0.3rem 0.6rem;
 		font-size: 0.8rem;
 		border: 1px solid var(--color-border);
-		border-radius: 4px;
-		background: #fbfaf6;
+		border-radius: 6px;
+		background: transparent;
 		color: var(--color-text);
+		transition: border-color 0.2s;
+	}
+
+	.search-corner input[type='search']:focus {
+		outline: none;
+		border-color: var(--color-theme-1);
 	}
 
 	nav {
@@ -98,77 +95,39 @@
 	}
 
 	ul {
-		position: relative;
 		padding: 0;
-		padding-top: 1em;
 		margin: 0;
-		height: 2em;
 		display: flex;
-		justify-content: center;
 		align-items: center;
+		gap: 0.25rem;
 		list-style: none;
 	}
 
 	li {
-		position: relative;
-		height: 100%;
-	}
-
-	li[aria-current='page'] a {
-		color: black;
-	}
-
-	li[aria-current='page']::before {
-		content: '';
-		width: 4em;
-		height: 2em;
-		left: 50%;
-		background: rgb(255, 239, 202);
-		transform: translateX(-50%) rotate(-5deg);
-		border-radius: 2px;
-		position: absolute;
-		mix-blend-mode: darken;
-		pointer-events: none;
-	}
-
-	li[aria-current='page'].narrow::before {
-		width: 3.5em;
-	}
-
-	@media (prefers-color-scheme: dark) {
-		li[aria-current='page']::before {
-			background: rgb(171, 120, 0);
-			mix-blend-mode: lighten;
-		}
-
-		li[aria-current='page'] a {
-			color: white;
-		}
-
-	}
-
-	li[aria-current='page'].even::before {
-		transform: translateX(-50%) rotate(5deg);
+		display: flex;
 	}
 
 	nav a {
 		display: flex;
-		height: 100%;
 		align-items: center;
-		padding: 0 0.5rem;
+		padding: 0.35rem 0.6rem;
 		color: var(--color-text);
-		font-weight: 700;
+		font-weight: 600;
 		font-size: 0.8rem;
 		text-transform: uppercase;
-		letter-spacing: 0.1em;
+		letter-spacing: 0.08em;
 		text-decoration: none;
-		transition: color 0.2s linear;
+		border-radius: 5px;
+		transition: color 0.15s, background-color 0.15s;
 	}
 
-	a:hover {
+	nav a:hover {
 		color: var(--color-theme-1);
-		text-decoration-line: underline;
-		text-decoration-style: wavy;
-		text-decoration-thickness: from-font;
+		background-color: color-mix(in srgb, var(--color-theme-1) 8%, transparent);
+	}
+
+	li[aria-current='page'] a {
+		color: var(--color-theme-1);
+		background-color: color-mix(in srgb, var(--color-theme-1) 12%, transparent);
 	}
 </style>

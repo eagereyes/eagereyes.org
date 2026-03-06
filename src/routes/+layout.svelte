@@ -78,6 +78,10 @@
 		padding: 24px 12px;
 		border-top: 1px solid var(--color-border);
 		margin-top: 2rem;
+		max-width: 64rem;
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
 	}
 
 	.footer-links {
