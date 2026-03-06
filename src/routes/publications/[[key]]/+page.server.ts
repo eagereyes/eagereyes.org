@@ -1,4 +1,4 @@
-import type { PageServerLoad } from './$types';
+import type { PageServerLoad, EntryGenerator } from './$types';
 
 interface Paper {
 	_key: string,
@@ -30,6 +30,13 @@ const blankPaper: Paper = {
 }
 
 import papers from '../../../../content/papers.json';
+
+export const entries: EntryGenerator = () => {
+    return [
+        {},
+        ...(papers as Array<Paper>).map(p => ({ key: p._key.replaceAll(':', '-') }))
+    ];
+};
 
 export const load: PageServerLoad = async ({ params }) => {
 
