@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { page } from '$app/state';
-	import github from '$lib/images/github.svg';
 </script>
 
 <header>
@@ -21,12 +20,6 @@
 			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined} class="odd">
 				<a href="/video/">Videos</a>
 			</li>
-			<!-- <li aria-current={page.url.pathname.startsWith('/photo') ? 'page' : undefined} class="even">
-				<a href="/photo/">Photos</a>
-			</li>
-			<li aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined} class="odd narrow">
-				<a href="/">Apps</a>
-			</li> -->
 			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined} class="even">
 				<a href="/publications/">Papers</a>
 			</li>
@@ -36,10 +29,10 @@
 		</ul>
 	</nav>
 
-	<div class="corner">
-		<a href="https://github.com/eagereyes">
-			<img src={github} alt="GitHub" />
-		</a>
+	<div class="corner search-corner">
+		<form action="/search/" method="get">
+			<input type="search" name="q" placeholder="Search…" aria-label="Search" />
+		</form>
 	</div>
 </header>
 
@@ -76,6 +69,27 @@
 	.corner img.logo {
 		width: 100%;
 		padding-left: 2em;
+	}
+
+	.search-corner {
+		display: flex;
+		align-items: center;
+		padding-top: 0.5em;
+		padding-right: 1rem;
+	}
+
+	.search-corner form {
+		width: 100%;
+	}
+
+	.search-corner input[type='search'] {
+		width: 100%;
+		padding: 0.25rem 0.5rem;
+		font-size: 0.8rem;
+		border: 1px solid var(--color-border);
+		border-radius: 4px;
+		background: var(--color-bg-1);
+		color: var(--color-text);
 	}
 
 	nav {

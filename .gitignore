@@ -22,3 +22,5 @@ vite.config.ts.timestamp-*
 
 .DS_Store
 .playwright-mcp
+
+static/search-data.json
