@@ -79,9 +79,9 @@
     <details class="comments-details">
         <summary><h2 class="comments">Comments ({data.numComments})</h2></summary>
         <aside>
-            <p class="commentscomment">Posting new comments was disabled in 2020.</p>
             {@html parse(data.comments)}
         </aside>
+        <p class="commentscomment">Posting new comments was disabled in 2020.</p>
     </details>
 {/if}
 
