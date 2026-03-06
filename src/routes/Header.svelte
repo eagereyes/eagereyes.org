@@ -45,7 +45,6 @@
 		width: 100%;
 		margin: 0 auto;
 		padding: 0.75rem 1rem;
-		border-bottom: 1px solid var(--color-border);
 	}
 
 	.corner {
