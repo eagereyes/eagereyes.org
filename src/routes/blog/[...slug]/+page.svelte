@@ -15,7 +15,10 @@
 </script>
 
 <svelte:head>
-    <title>{data.meta?.title} – eagereyes</title>
+{#if data.display === PageType.allPosts}<title>Blog – eagereyes</title>
+{:else if data.display === PageType.oneYear}<title>Blog {data.allPosts[0].date.substring(0, 4)} – eagereyes</title>
+{:else}<title>{data.meta?.title} – eagereyes</title>
+{/if}
     <meta name="description" content={data.meta?.description} />
 </svelte:head>
 
@@ -23,7 +26,7 @@
     <div class="blog-layout">
         <div class="blog-content">
             {#if data.display === PageType.allPosts}
-                <h1>Blog Index</h1>
+                <h1>Blog</h1>
                 <!-- <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p> -->
 
                 {#each years as y}

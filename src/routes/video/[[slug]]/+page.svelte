@@ -7,7 +7,9 @@
 </script>
 
 <svelte:head>
-    <title>{data.video.title} - Video</title>
+{#if data.video.title.length}<title>{data.video.title} - Video</title>
+{:else}<title>Videos – eagereyes</title>
+{/if}
     <meta name="description" content={data.video.description} />
     <meta property="og:title" content={data.video.title} />
     <meta property="og:description" content={data.video.description} />

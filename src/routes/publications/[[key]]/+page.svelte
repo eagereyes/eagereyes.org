@@ -92,7 +92,9 @@
 </script>
 
 <svelte:head>
-    <title>Paper: {data.paper.title}</title>
+{#if data.paper.title.length}<title>Paper: {data.paper.title} – eagereyes</title>
+{:else}<title>Robert Kosara's Publications – eagereyes</title>
+{/if}
     <!-- <meta name="description" content={data.description} /> -->
 </svelte:head>
 
@@ -126,7 +128,7 @@
 
 {:else}
 
-<h1>List of Publications</h1>
+<h1>Robert Kosara's Publications</h1>
 
 {#each data.papers as paper}
     <article class="paper-card">
