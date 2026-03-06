@@ -5,6 +5,10 @@
 	let { children } = $props();
 </script>
 
+<svelte:head>
+	<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+</svelte:head>
+
 <div class="app">
 	<Header />
 
