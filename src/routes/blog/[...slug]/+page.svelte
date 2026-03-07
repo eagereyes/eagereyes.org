@@ -12,6 +12,9 @@
     let archivedPosts = $derived(data.allPosts.filter(post => post.archived));
     let years = $derived(data.allYears ?? []);
     let currentYear = $derived(data.display === PageType.oneYear ? data.allPosts[0]?.date.substring(0, 4) : undefined);
+    let yearTotalCounts = $derived(Object.fromEntries(years.map(y => [y, data.allPosts.filter(p => p.date.startsWith(y)).length])));
+    let archivedCount = $derived(currentYear ? data.allPosts.length - (data.yearCounts[currentYear] ?? 0) : 0);
+    let showArchived = $state(false);
 </script>
 
 <svelte:head>
@@ -30,15 +33,15 @@
                 <!-- <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p> -->
 
                 {#each years as y}
-                    <h2 class="year-header"><a href="/blog/{y}">{y}</a></h2>
+                    <h2 class="year-header"><a href="/blog/{y}">{y}</a> <span class="year-count">({yearTotalCounts[y]}{yearTotalCounts[y] - data.yearCounts[y] > 0 ? ` posts, ${yearTotalCounts[y] - data.yearCounts[y]} archived` : ' posts'})</span></h2>
                     <div class="post-grid">
                         <BlogList year={y} posts={data.allPosts} archived={false} />
                     </div>
                 {/each}
             {:else}
-                <h1>Blog {data.allPosts[0].date.substring(0, 4)}</h1>
+                <h1>Blog {data.allPosts[0].date.substring(0, 4)} <span class="year-count">({data.allPosts.length}{archivedCount > 0 ? ` posts, ${archivedCount} archived` : ' posts'})</span>{#if archivedCount > 0} <button class="archived-toggle" onclick={() => showArchived = !showArchived}>{showArchived ? 'hide archived' : 'show archived'}</button>{/if}</h1>
                 <div class="post-grid">
-                    <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} />
+                    <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} archived={showArchived} />
                 </div>
             {/if}
         </div>
@@ -117,6 +120,33 @@
     }
 
     .year-header a:hover {
+        color: var(--color-theme-1);
+    }
+
+    .year-count {
+        font-size: 0.65em;
+        font-weight: 400;
+        opacity: 0.5;
+    }
+
+    .archived-toggle {
+        font-size: 0.28em;
+        font-weight: 400;
+        padding: 0.2em 0.5em;
+        margin-left: 0.8em;
+        border: 1px solid var(--color-border);
+        border-radius: 4px;
+        background: transparent;
+        color: var(--color-text);
+        opacity: 0.6;
+        cursor: pointer;
+        vertical-align: baseline;
+        transition: opacity 0.15s, border-color 0.15s, color 0.15s;
+    }
+
+    .archived-toggle:hover {
+        opacity: 1;
+        border-color: var(--color-theme-1);
         color: var(--color-theme-1);
     }
 
