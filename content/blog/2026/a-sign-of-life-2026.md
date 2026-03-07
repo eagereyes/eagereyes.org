@@ -12,7 +12,7 @@ The short version is that I've created a new static site for it that's more mode
 I'm working on bringing back some of my old interactive pieces (which I'm now calling apps), most of which I broke in the transition to my previous static site version and never ended up fixing.
 
 <figure>
-<img src="https://media.eagereyes.org/media/2026/zipscribble-florida.png" alt="ZIPScribble map of the United States"
+<img src="https://media.eagereyes.org/media/2026/zipscribble-florida.png" alt="ZIPScribble map of the United States" />
 </figure>
 
 In particular, [the ZIPScribble Map](https://eagereyes.org/app/zipscribble-map) is back and much better than before – though US-only for now. It has a new navigation bar along the bottom that lets you hover over ZIP code zones or states to highlight and zoom them. It's a little finicky and needs some refinement, but it's pretty interesting to explore.
