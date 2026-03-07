@@ -68,7 +68,7 @@
     "title": "Evidence for Area as the Primary Visual Cue in Pie Charts",
     "author": "Robert Kosara",
     "venue": "IEEE VIS Short Paper Proceedings",
-    "doi": "10.2312/evs.20191162",
+    "doi": "10.1109/VISUAL.2019.8933547",
     "_thumb": "/wp-content/uploads/2019/10/Kosara-VISShort-2019.png",
     "data": "https://osf.io/7y842/",
     "abstract": "The long-standing assumption of angle as the primary visual cue used to read pie charts has recently been called into question. We conducted a controlled, preregistered study using parallel-projected 3D pie charts. Angle, area, and arc length differ dramatically when projected and change over a large range of values. Modeling these changes and comparing them to study participants’ estimates allows us to rank the different visual cues by model fit. Area emerges as the most likely cue used to read pie charts."
@@ -79,7 +79,7 @@
     "title": "Guess Me If You Can: A Visual Uncertainty Model for Transparent Evaluation of Disclosure Risks in Privacy-Preserving Data Visualization",
     "author": "Aritra Dasgupta and Robert Kosara and Min Chen",
     "venue": "Proceedings IEEE Symposium on Visualization for Cyber Security",
-    "doi": "10.2312/evs.20191162",
+    "doi": "10.1109/VizSec48167.2019.9161608",
     "abstract": "Minimization of disclosure risks is a key challenge in publicly available visualizations that can potentially reveal personal information. Such risks are inherently dependent on the amount of information that adversaries can gain by manipulating visual representations and by using their background knowledge. Conventional risk quantification models proposed in the field of privacy-preserving data mining suffer from a lack of transparency in letting data owners control privacy parameters and understand their implications for disclosure risks. To fill this gap, we propose a visual uncertainty model for letting data owners understand the relationships between privacy parameters and vulnerable visualization configurations. Our main contribution is a probabilistic analysis of the disclosure risks associated with vulnerabilities in privacy-preserving parallel coordinates and scatter plots. We quantify the relationship among attack scenarios, adversarial knowledge, and the inherent uncertainty in cluster-based visualizations that can act as defense mechanisms. We present examples and a case study to demonstrate the effectiveness of the model."
   },
   {
@@ -161,6 +161,7 @@
     "title": "An Empire Built On Sand: Reexamining What We Think We Know About Visualization",
     "author": "Robert Kosara",
     "venue": "Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)",
+    "doi": "10.1145/2993901.2993909",
     "abstract": "If we were to design Information Visualization from scratch, we would start with the basics: understand the principles of perception, test how they apply to different data encodings, build up those encodings to see if the principles still apply, etc. Instead, visualization was created from the other end: by building visual displays without an idea of how or if they worked, and then finding the relevant perceptual and other basics here and there. This approach has the problem that we end up with a very patchy understanding of the foundations of our field. More than that, there is a good amount of unproven assumptions, aesthetic judgments, etc.~mixed in with the evidence. We often don't even realize how much we rely on the latter, and can't easily identify them because they have been so deeply incorporated into the fabric of our field. In this paper, I attempt to tease apart what we know and what we only think we know, using a few examples. The goal is to point out specific gaps in our knowledge, and to encourage researchers in the field to start questioning the underlying assumptions. Some of them are probably sound and will hold up to scrutiny. But some of them will not. We need to find out which is which and systematically build up a better foundation for our field. If we intend to develop ever more and better techniques and systems, we can't keep ignoring the base, or it will all come tumbling down sooner or later."
   },
   {
@@ -204,6 +205,7 @@
     "author": "David Burlinson and Mihai Mehedint and Chris Grafer and Kalpathi Subramanian and Jamie Payton and Paula Goolkasian and Michael Youngblood and Robert Kosara",
     "venue": "Proceedings of the 47th ACM Technical Symposium on Computing Science Education (SIGCSE)",
     "pages": "18–23",
+    "doi": "10.1145/2839509.2844635",
     "_type": "article",
     "abstract": "Although undergraduate enrollment in Computer Science has remained strong and seen substantial increases in the past decade, retention of majors remains a significant concern, particularly for students at the freshman and sophomore level that are tackling foundational courses on algorithms and data structures. In this work, we present BRIDGES, a software infrastructure designed to enable the creation of more engaging assignments in introductory data structures courses by providing students with a simplified API that allows them to populate their own data structure implementations with live, real-world, and interesting data sets, such as those from popular social networks (e.g., Twitter, Facebook). BRIDGES also provides the ability for students to create and explore visualizations of the execution of the data structures that they construct in their course assignments, which can promote better understanding of the data structure and its underlying algorithms; these visualizations can be easily shared via a weblink with peers, family, and instructional staff. In this paper, we present the BRIDGES system, its design, architecture and its use in our data structures course over two semesters."
   },
@@ -254,6 +256,7 @@
     "author": "Steve Haroz and Robert Kosara and Steven L. Franconeri",
     "venue": "Proceedings CHI",
     "pages": "1191–1200",
+    "doi": "10.1145/2702123.2702275",
     "website": "http://steveharoz.com/research/isotype/",
     "abstract": "Although the infographic and design communities have used simple pictographic representations for decades, it is still unclear whether they can make visualizations more effective. Using simple charts, we tested how pictographic representations impact (1) memory for information just viewed, as well as under the load of additional information, (2) speed of finding information, and (3) engagement and preference in seeking out these visualizations. We find that superfluous images can distract. But we find no user costs – and some intriguing benefits – when pictographs are used to represent the data.",
     "_thumb": "/wp-content/uploads/2015/04/isotype-teaser-825x510.jpg"
@@ -267,6 +270,7 @@
     "volume": 34,
     "number": 3,
     "pages": "341–350",
+    "doi": "10.1111/cgf.12646",
     "abstract": "Observing interactions among chemical species and microorganisms in the earth’s sub-surface is a common task in the field of geology. Bioremediation experiments constitute one such class of interactions which focus on getting rid of pollutants through processes such as carbon sequestration. The main goal of scientists’ observations is to analyze the dynamics of the chemical reactions and understand how they collectively affect the carbon content of the soil. In our work, we extract the high-level goals of geologists and propose a visual analytics solution which helps scientists in deriving insights about multivariate, temporal behavior of these chemical species. Specifically, our key contributions are the following: i) characterization of the domain-specific goals and their translation to exploratory data analysis tasks, ii) developing an analytical abstraction in the form of perceptually motivated screen-space metrics for bridging the gap between the tasks and the visualization, and iii) realization of the tasks and metrics in the form of VIMTEX, which is a set of coordinated multiple views for letting scientists observe multivariate, temporal relationships in the data. We provide several examples and case studies along with expert feedback for demonstrating the efficacy of our solution."
   },
   {
@@ -291,6 +295,7 @@
     "volume": 43,
     "number": 2,
     "pages": "17–22",
+    "doi": "10.1145/2694413.2694417",
     "abstract": "Recently, online visual analytics systems have emerged as popular tools for data analysis and sharing. The database community has an important role to play in shaping the design and implementation of these new types of systems. Little, however, is known about how these systems are used today. In this paper, we address this shortcoming by presenting an analysis of usage patterns of Many Eyes and Tableau Public, two popular Web-based, collaborative visual analytics systems."
   },
   {
@@ -336,6 +341,7 @@
     "volume": 22,
     "number": 1,
     "pages": "29–32",
+    "doi": "10.1080/10618600.2012.755465",
     "abstract": "I welcome the opportunity to respond to Andrew Gelman and Antony Unwin’s article, Infovis and Statistical Graphics: Different Goals, Different Looks. Their view of information visualization is very distorted, but unfortunately not uncommon. In the following, I will try to give readers a sense of what information visualization (InfoVis) is really about, show some recent contributions, list some challenges, and show that there is a lot of opportunity for collaboration between InfoVis and statistics."
   },
   {
@@ -344,6 +350,7 @@
     "title": "The Importance of Tracing Data Through the Visualization Pipeline",
     "author": "Aritra Dasgupta and Robert Kosara",
     "venue": "Beyond Time and Errors – Novel Evaluation Methods for Visualization (BELIV)",
+    "doi": "10.1145/2442576.2442585",
     "abstract": "Visualization research focuses either on the transformation steps necessary to create a visualization from data, or on the perception of structures after they have been shown on the screen. We argue that an end-to-end approach is necessary that tracks the data all the way through the required steps, and provides ways of measuring the impact of any of the transformations. By feeding that information back into the pipeline, visualization systems will be able to adapt the dis- play to the data to be shown, the parameters of the output device, and even the user."
   },
   {
@@ -362,6 +369,7 @@
     "title": "Gene-RiViT: A Visualization Tool for Comparative Analysis of Gene Neighborhoods in Prokaryotes",
     "author": "Adam Price and Cynthia Gibas and Robert Kosara",
     "venue": "Symposium on Biological Data Visualization (BioVis)",
+    "doi": "10.1109/biovis.2012.6378593",
     "abstract": "The genomes of prokaryotes are dynamic and shuffling of gene order occurs frequently, along with horizontal transfer of genes from external sources. Local conservation of gene order tends to reflect functional constraints on the genome or on a biochemical subsystem. Comparison of the local gene neighborhoods surrounding a gene of interest gives insight into evolutionary history and functional potential of the gene. The Genomic Ring Visualization Tool (Gene-RiViT) is a high speed, intuitive visualization tool for investigating sequence environments of conserved genes among related genomes. Gene-RiViT allows the user to interact with interconnected global and local visualizations of gene neighborhoods and gene order, through a web-based interface that is easily accessible in any browser. The primary visualization is a wheel of nested rotating circles, each of which represents a single genome. This visualization is similar to common circular genome alignment views, except that the rings can be realigned with each other dynamically based on user selections within the ring view or one of the coordinated views. By allowing the user to dynamically realign genomes and focus on a locally conserved region of interest, and using orthology connections to highlight corresponding structures among genomes, this view provides insight into gene context and preservation of neighbor relationships as genomes evolve. Visualizations are linked into a coordinated multiple view interface to provide multiple selection methods and entry points into the data. These approaches make Gene-RiViT a flexible, unique tool for examining gene neighborhoods that improves on existing methods."
   },
   {
@@ -383,6 +391,7 @@
     "author": "Aritra Dasgupta and Robert Kosara",
     "venue": "Visualization and Data Analysis (VDA)",
     "pages": "78680O-1–78680O-12",
+    "doi": "10.1117/12.872635",
     "abstract": "The proliferation of data in the past decade has created demand for innovative tools in different areas of exploratory data analysis, like data mining and information visualization. However, the problem with real-world datasets is that many of their attributes can identify individuals, or the data are proprietary and valuable. The field of data mining has developed a variety of ways for dealing with such data, and has established an entire subfield for privacy-preserving data mining. Visualization, on the other hand, has seen little, if any, work on handling sensitive data. With the growing applicability of data visualization in real-world scenarios, the handling of sensitive data has become a non-trivial issue we need to address in developing visualization tools. With this goal in mind, in this paper, we analyze the issue of privacy from a visualization perspective and propose a privacy-preserving visualization technique based on clustering in parallel coordinates. We also outline the key differences in approach from the privacy-preserving data mining field and compare the advantages and drawbacks of our approach.",
     "_thumb": "/media/2011/privacy-teaser.png"
   },
@@ -393,6 +402,7 @@
     "author": "Robert Kosara",
     "venue": "Visualization and Data Analysis (VDA)",
     "pages": "786809-1–786809-7",
+    "doi": "10.1117/12.872645",
     "abstract": "Interaction in visualization is often complicated and tedious. Brushing data in a visualization such as parallel coordinates is a central part of the data analysis process, and sets visualization apart from static charts. Modifying a brush, or combining it with another one, usually requires a lot of effort and mode switches, though, slowing down interaction and even discouraging more complex questions. We propose the use of multi-touch interaction to provide fast and convenient interaction with parallel coordinates. By using a multi-touch trackpad rather than the screen directly, the user’s hands do not obscure the visualization during interaction. Using one, two, three, or four fingers, the user can easily and quickly perform complex selections. Being able to change the selections rapidly, the user can explore the data set more easily and effectively, and can focus on the data rather than the interaction."
   },
   {
@@ -451,6 +461,7 @@
     "author": "Caroline Ziemkiewicz and Robert Kosara",
     "venue": "Advances in Information and Intelligent Systems",
     "editor": "Ras, Ribarsky",
+    "doi": "10.1007/978-3-642-04141-9_15",
     "abstract": "Despite its often technical nature, visualization is in many ways a form of visual representation. Just how visualization relates to illustration, information graphics, digital art, visual languages, etc., is nonetheless poorly understood. We propose a theory that embeds information visualization within other visual traditions in terms of criteria that are not purely technical: dependence on data, mapping, interactivity, and notationality. In addition to providing the means for a classification, these criteria also foster a different understanding of information visualization. We further adapt our criteria to differentiate within visualization, using mapping, readability and information loss, and notationality as the criteria. Both sets of criteria are demonstrated in a number of case studies. We believe that our novel taxonomies of visualization methods serve as a step towards a more comprehensive theoretical context to understanding the essential purposes, properties, and functions of information visualization."
   },
   {
@@ -460,6 +471,7 @@
     "author": "Caroline Ziemkiewicz and Robert Kosara",
     "venue": "Proceedings Advanced Visual Interfaces (AVI)",
     "pages": "215–222",
+    "doi": "10.1145/1842993.1843031",
     "abstract": "Information visualization is a powerful method for understanding and working with data. However, we still have an incomplete understanding of how people use visualization to think about information. We propose that people use visualization to support comprehension and reasoning by viewing abstract visual representations as physical scenes with a set of implied dynamics between objects. Inferences based on these implied dynamics are metaphorically extended to form inferences about the represented information. This view predicts that even seemingly meaningless properties of a visualization, including such minor design elements as borders, background areas, and the connectedness of parts, may affect how people perceive semantic aspects of data by suggesting different potential dynamics between data points. We present a study that supports this claim and discuss the design implications of this theory of information visualization.",
     "_thumb": "/media/2010/Ziemkiewicz_AVI_2010.png"
   },
@@ -470,6 +482,7 @@
     "author": "Robert Kosara and Caroline Ziemkiewicz",
     "venue": "Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)",
     "pages": "373–382",
+    "doi": "10.1145/2110192.2110202",
     "abstract": "Online studies are an attractive alternative to the labor- intensive lab study, and promise the possibility of reaching a larger variety and number of people than at a typical university. There are also a number of draw-backs, however, that have made these studies largely impractical so far. Amazon’s Mechanical Turk is a web service that facilitates the assignment of small, web-based tasks to a large pool of anonymous workers. We used it to conduct several perception and cognition studies, one of which was identical to a previous study performed in our lab. We report on our experiences and present ways to avoid common problems by taking them into account in the study design, and taking advantage of Mechanical Turk’s features.",
     "_thumb": "/media/2010/mturk-paper.jpg"
   },
@@ -539,6 +552,7 @@
     "title": "Visual Analysis of Entity Relationships in Global Terrorism Database",
     "author": "Alex Godwin and Remco Chang and Robert Kosara and William Ribarsky",
     "venue": "SPIE Defense and Security",
+    "doi": "10.1117/12.778084",
     "abstract": "With the increase of terrorist activity around the world, it has become more important than ever to analyze and understand these activities over time. Although the data on terrorist activities are detailed and relevant, the complexity of the data has rendered the understanding and analysis difficult. We present a visual analytical approach to effectively identify related entities such as terrorist groups, events, locations, etc. based on a 2D layout. Our methods are based on sequence comparison from bioinformatics, modified to incorporate the element of time. By allowing the user the freedom to link entities by their activities over time, we provide a new framework for comparison of event sequences. Our scoring mechanism is robust and flexible, giving the user the flexibility to define the extent to which time is considered in aligning entities. Incorporated with high interactivity, the user can efficiently navigate through tens of thousands of records recorded in over a hundred dimensions of data by choosing combinations of categories to examine. Exploration of the terrorist activities in our system reveals relationships between entities that are not easily detectable using traditional methods."
   },
   {
@@ -565,6 +579,7 @@
     "volume": 7,
     "number": 1,
     "pages": "63–76",
+    "doi": "10.1057/palgrave.ivs.9500172",
     "abstract": "Large financial institutions such as Bank of America handle hundreds of thousands of wire transactions per day. Although most transactions are legitimate, these institutions have legal and financial obligations in discovering those that are suspicious. With the methods of fraudulent activities ever changing, searching on predefined patterns is often insufficient in detecting previously undiscovered methods. In this paper, we present a set of coordinated visualizations based on identifying specific keywords within the wire transactions. The different views used in our system depict relationships among keywords and accounts over time. Furthermore, we introduce a search-by-example technique which extracts accounts that show similar transaction patterns. Our system can be connected to a database to handle millions of transactions and still preserve high interactivity. In collaboration with the Anti-Money Laundering division at Bank of America, we demonstrate that using our tool, investigators are able to detect accounts and transactions that exhibit suspicious behaviors."
   },
   {
@@ -720,6 +735,7 @@
     "author": "Peter Votruba and Silvia Miksch and Robert Kosara",
     "venue": "11th World Congress on Medical Informatics (MedInfo)",
     "pages": "57–61",
+    "doi": "10.3233/978-1-60750-949-3-57",
     "abstract": "Clinical protocols and guidelines are widely used in the medical domain to improve disease management techniques. Different software systems are in development to support the design and the execution of such guidelines. The bottleneck in the guideline software developing process is the transformation of the text-based clinical guidelines into a formal representation, which can be used by the execution software. This paper introduces a method and a tool that was designed to provide a solution for that bottleneck. The so-called Guideline Markup Tool (GMT) facilitates the translation of guidelines into a formal representation written in XML. This tool enables the protocol designer to create links between the original guideline and its formal representation and ease the editing of guidelines applying design patterns in the form of macros. The usefulness of our approach is illustrated using GMT to edit Asbru protocols. We performed a usability study with eight participants to examine the usefulness of the GMT and of the Asbru macros, which showed that the proposed approach is very appropriate to author and maintain clinical guidelines."
   },
   {
@@ -739,6 +755,7 @@
     "author": "Peter Votruba and Silvia Miksch and Andreas Seyfang and Robert Kosara",
     "venue": "Symposium on Computerized Guidelines and Protocols (CGP)",
     "pages": "172–176",
+    "doi": "10.3233/978-1-60750-944-8-172",
     "abstract": "This paper presents a new guideline authoring tool, called Guideline Markup Tool (GMT). It proposes two useful features, which are missing in existing tools. First, it facilitates the translation of a free-text guideline into a formal representation, providing special XML macros. Second, it can be used to create links between the original guideline and its formal representation. Therefore, the GMT eases the implementation of clinical guidelines in a formal representation, which can be used in monitoring and therapy planning systems."
   },
   {
@@ -795,6 +812,7 @@
     "author": "Peter Votruba and Silvia Miksch and Robert Kosara",
     "venue": "Artificial Intelligence in Medicine (AIME)",
     "pages": "152–157",
+    "doi": "10.1007/978-3-540-39907-0_21",
     "abstract": "Clinical guidelines have been used in the medical domain for some time now, primarily to reduce proneness to errors during the treatment of specific diseases. Recently, physicians have special software at their disposal, which supports them at decision-making based on computerized protocols and guidelines. Using such tools, physicians sometimes want to know the reason why the computer recommends a particular treatment method. To comprehend the suggestions, a connection between the original guideline and its computerized representation is needed. This paper introduces a tool that was designed to provide a solution for that, the so-called Guideline Markup Tool (GMT). This tool enables the protocol designer to create links between the original guideline and its formal representation."
   },
   {
@@ -815,6 +833,7 @@
     "volume": 68,
     "number": "1–3",
     "pages": "141–153",
+    "doi": "10.1016/s1386-5056(02)00072-2",
     "abstract": "Time plays an important role in medicine, both the past and the future. The medical history of a patient represents the past, which needs to be understood by the physician to make the right decisions. The past contains two different kinds of information: measured data (such as blood pressure) and incidents (such as seizures). Planning therapies, on the other hand, requires looking into the future to a certain extent. Visual representations exist for both the past and the future, and they are very useful for getting a better understanding of data or a plan. This paper surveys visualization techniques for both data analysis and planning, and compares them based on a number of criteria."
   },
   {
@@ -903,6 +922,7 @@
     "volume": 22,
     "number": 2,
     "pages": "111–131",
+    "doi": "10.1016/s0933-3657(00)00103-2",
     "abstract": "Therapy planning plays an increasingly important role in the everyday work of physicians. Clinical protocols or guidelines are typically represented using ̄ow-charts, decision tables, or plain text. These representations are badly suited, however, for complex medical procedures. One representation method that overcomes these problems is the language Asbru. But because Asbru has a LISP-like syntax (and also incorporates many concepts from computer science), it is not suitable for physicians. Therefore, we developed a visualization and user interface to deal with treatment plans expressed in Asbru. We use graphical metaphors to make the underlying concepts easier to grasp, employ glyphs to communicate complex temporal information and colors to make it possible to understand the connection between the two views (Topological View and Temporal View) available in the system. In this paper, we present the design ideas behind AsbruView, and discuss its usefulness based on the results of a usability study we performed with six physicians."
   },
   {
