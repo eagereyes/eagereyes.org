@@ -26,6 +26,7 @@ export const tagNames: { [key: string]: string } = {
 	"influences": "Lists of Influences",
 	"isotype": "ISOTYPE",
 	"journalism": "Journalism",
+	"link": "Link",
 	"meta": "Meta/Site News",
 	"paper": "Paper",
 	"peer-review": "Peer Review",

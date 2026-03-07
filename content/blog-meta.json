@@ -152,7 +152,10 @@
     "title": "The NY Times COVID Spiral Is Off-Center",
     "description": "An opinion piece in the New York Times last week got a lot of attention in visualization circles for its use of a spiral chart as its opener. While the choice of chart and color scheme can be debated, I want to discuss the fact that the spiral is disconcertingly off-center.",
     "date": "2022-01-09T23:24:57",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/01/spirals-overlaid.png",
     "outline": false
   },
@@ -201,7 +204,9 @@
     "title": "Can A Timeline Pie Chart Work?",
     "description": "Can you put ranked data into a pie chart that also represents time? This chart tries, and I think it succeeds.",
     "date": "2021-09-15T16:47:09",
-    "tags": [],
+    "tags": [
+      "pie-charts"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-thumb.jpeg",
     "outline": false
   },
@@ -213,7 +218,9 @@
     "description": "How do you make people not just see numbers when looking at a chart, but feel something? This chart of the number of deaths during the Iraq war has always given me a visceral response like no other, and it’s still as powerful as when it was made almost ten years ago. So I made a chart appreciation video to explain what I think is so great about it.",
     "date": "2021-07-22T07:25:13",
     "tags": [
-      "eagereyestv"
+      "eagereyestv",
+      "storytelling",
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/07/Iraq-Thumbnail-Blog.jpg",
     "outline": false
@@ -262,7 +269,9 @@
     "description": "Dots fly across the screen, some of them moving up, some down. They represent black and white boys, and how their income differs from that of their parents and from each other. It's a great way to show this data in an engaging way and without having to explain percentiles. This is a chart appreciation.",
     "date": "2021-04-20T06:06:49",
     "tags": [
-      "eagereyestv"
+      "eagereyestv",
+      "storytelling",
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/04/Black-and-White-Boys-Thumb.jpeg",
     "outline": false
@@ -285,7 +294,8 @@
     "description": "This chart is a staple in every visualization course and many visualization talks. But what does it show, and what does it leave out? There's a lot more to Napoleon's Russian Campaign and to Charles Minard's work than this one chart. My new video looks beyond the surface of what is perhaps the most famous chart out there.",
     "date": "2021-03-14T18:43:25",
     "tags": [
-      "eagereyestv"
+      "eagereyestv",
+      "storytelling"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/03/Minard-Thumbnail-3.jpg",
     "outline": false
@@ -297,17 +307,21 @@
     "title": "Felix Auerbach, Die Graphische Darstellung (Graphical Representation, 1914)",
     "description": "This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data “from all areas of science and practice.” It’s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools.",
     "date": "2021-02-07T22:13:56",
-    "tags": [],
+    "tags": [
+      "book-reviews"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0012.jpg"
   },
   {
     "slug": "video-series-counting-in-2021-with-mechanical-calculators",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Video Series: Counting In 2021 with Mechanical Calculators",
     "description": "Mechanical calculators are fascinating. I may have gone down a few rabbit holes on this topic earlier this year, and acquired a few. As a little celebration of the end of this year, and to start the new one, I'm creating a small series of videos about them and releasing one each week.",
     "date": "2020-12-17T00:22:29",
-    "tags": [],
+    "tags": [
+      "eagereyestv"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/12/10-Counting-In-Teaser-Thumb-blog.jpg",
     "outline": false
   },
@@ -319,7 +333,9 @@
     "description": "Line charts – they're not the most glamorous. And yet, they can be used to tell a compelling story about global warming. In this video, I talk about what I consider a modern classic of data journalism, What's Really Warming the World by Eric Roston and Blacki Migliozzi: how it works, how it's structured, and why it works so well.",
     "date": "2020-12-08T07:19:57",
     "tags": [
-      "eagereyestv"
+      "eagereyestv",
+      "storytelling",
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/12/WRWTW-Thumbnail.jpeg",
     "outline": false
@@ -404,7 +420,8 @@
     "description": "Time to breathe new life into my little YouTube channel, which I'm calling eagereyesTV. I'm doing so with the start of a new series I'm calling Chart Appreciation. Each episode will be on one particular visualization, news piece, or interactive. As the first one, I picked Hannah Fairfield's Driving Safety, in Fits and Starts from 2012.",
     "date": "2020-09-23T05:56:50",
     "tags": [
-      "eagereyestv"
+      "eagereyestv",
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/09/driving-safety-thumbnail.png",
     "outline": false
@@ -416,7 +433,9 @@
     "title": "Prior Work We Missed In Our Connected Scatterplots Paper",
     "description": "In 2016, Steve Haroz, Steven Franconeri, and I published a paper on a technique commonly called the Connected Scatterplot. It turns out that somebody else had research on essentially the same chart 15 years earlier, which we were not aware of. Our work is quite different, but it’s interesting context and it’s also worth reflecting on how we missed this piece of relevant prior work.",
     "date": "2020-08-31T19:45:12",
-    "tags": [],
+    "tags": [
+      "paper"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/08/teasers.png"
   },
   {
@@ -426,7 +445,9 @@
     "title": "Tracking 19,000 Runners Over 1,000km Across Virtual Tennessee",
     "description": "How do you show large numbers of people without losing track of the outliers? How do you keep a chart useful when the maximum values are orders of magnitude higher than the common ones? In an animated visualization I've built of the progress of over 19,000 runners across a virtual 1000km (635mi) race over 123 days, I've tried to solve some of these issues.",
     "date": "2020-08-18T22:25:22",
-    "tags": [],
+    "tags": [
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png"
   },
   {
@@ -436,7 +457,10 @@
     "title": "CFP: The Third Workshop on Visualization for Communication (VisComm) at VIS 2020",
     "description": "At IEEE VIS this year, we're organizing the third Workshop on Visualization for Communication, also known as VisComm. The deadline is July 16, so still plenty of time to put together a paper, whether on communicating around COVID-19 or not. We're not only looking for the usual academic research, but also visual case studies, which means work by journalists, designers, or non-profits.",
     "date": "2020-06-14T22:13:10",
-    "tags": [],
+    "tags": [
+      "ieeevis",
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/06/DSC_0212b.jpg",
     "outline": false
   },
@@ -447,7 +471,9 @@
     "title": "In Praise of the Diagonal Reference Line",
     "description": "Annotations are what set visual communication and journalism apart from just visualization. They often consist of text, but some of the most useful annotations are graphical elements, and many of them are very simple. One type I have a particular fondness for is the diagonal reference line, which has been used to provide powerful context in past news pieces, and is making a comeback in the COVID-19 charts.",
     "date": "2020-03-23T21:51:19",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/03/ft-covid-19-deaths.png",
     "outline": false
   },
@@ -636,7 +662,8 @@
     "description": "The EuroVis 2019 conference took place in early June this year in Porto, Portugal. While I enjoyed the city and conference venue, I found the program a bit underwhelming this time around. I’ve kept pushing off writing this report because I found myself griping rather than talking about the content.",
     "date": "2019-08-26T19:51:37",
     "tags": [
-      "conference"
+      "conference",
+      "eurovis"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg"
   },
@@ -652,12 +679,15 @@
   },
   {
     "slug": "visualization-for-communication-workshop-deadline-pushed-to-july-15",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Visualization for Communication Workshop Deadline Pushed to July 15",
     "description": "You may not be aware that we’re organizing the Visualization for Communication (VisComm) workshop at VIS again this year. That’s why we’ve decided to push back the deadline to July 15, so you can submit all your amazing research papers, position papers, posters, and visual case studies.",
     "date": "2019-06-21T07:49:00",
-    "tags": [],
+    "tags": [
+      "ieeevis",
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg",
     "outline": false
   },
@@ -683,7 +713,8 @@
     "description": "Criticizing visualizations is a cottage industry of sorts, and an activity I have indulged in in the past as well. Redesigning those charts is also not uncommon, though it's usually other people's charts, and that isn't always welcome. Sarah Leo of The Economist has redesigned some of the charts made by that publication, and not only do her redesigns work better, her thoughts around some of the design issues are also very insightful.",
     "date": "2019-04-17T21:12:27",
     "tags": [
-      "criticism"
+      "criticism",
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png",
     "outline": false
@@ -695,7 +726,9 @@
     "title": "The TrustVis Workshop at EuroVis",
     "description": "I'm one of the organizers of the new TrustVis Workshop at EuroVis this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5!",
     "date": "2019-03-19T21:58:19",
-    "tags": [],
+    "tags": [
+      "eurovis"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg",
     "outline": false
   },
@@ -706,7 +739,10 @@
     "title": "Link: Maarten Lambrecht's List of 2018 Visualization Lists",
     "description": "I'm not generally a fan of year-end lists, but they do provide a great way to see many fantastic pieces of work in one place. And if a simple list already does that, what might a list of lists do? Check out Maarten Lambrecht's List of 2018 Visualization Lists to find out!",
     "date": "2019-01-02T18:29:00",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/01/image.png",
     "outline": false
   },
@@ -717,7 +753,9 @@
     "title": "New Vis Research Blog: Multiple Views",
     "description": "While activity on this site has been a bit slow this year, I’ve helped start a new group blog focused on visualization research, called Multiple Views.",
     "date": "2018-12-10T23:25:34",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png",
     "outline": false
   },
@@ -793,7 +831,9 @@
     "title": "Tapestry 2018, Details and Keynote Speakers",
     "description": "We recently announced the speakers for Tapestry 2018, which takes place November 29 and 30 at the University of Miami. It will again be focused on telling stories with data, but we're also making a few changes.",
     "date": "2018-09-26T09:21:14",
-    "tags": [],
+    "tags": [
+      "tapestry"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/09/tapestry18-speakers.jpg"
   },
   {
@@ -829,7 +869,11 @@
     "title": "VisComm Workshop at VIS and Tapestry 2018",
     "description": "If you're into visualization for communication and storytelling, these two events should be on your radar: the Visualization for Communication Workshop (VisComm) at VIS and Tapestry 2018.",
     "date": "2018-05-29T06:17:35",
-    "tags": [],
+    "tags": [
+      "ieeevis",
+      "tapestry",
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/05/Tapestry_01.png"
   },
   {
@@ -860,7 +904,9 @@
     "title": "Seven Visualization Talks That Terrified Me At CHI",
     "description": "I recently attended CHI 2018 in Montréal, QC. Normally conferences leave me excited for the next idea or the next direction (and also physically exhausted). This was one of the first where I was left feeling terrified: a lot of the work did an excellent job of highlighting core problems about our assumptions as visualization researchers, and poked at big intractable issues that I had mostly been ignoring for a long time. Here are the seven most terrifying talks.",
     "date": "2018-05-02T08:53:48",
-    "tags": [],
+    "tags": [
+      "conference"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/05/basilica1by1.jpg"
   },
   {
@@ -880,7 +926,9 @@
     "title": "Visualization Potpourri, March 2018",
     "description": "Time to wake up from the eagereyes winter hibernation with an aromatic potpourri! This time, we have news about pies, stippling, colors, sorting algorithms, and a few more. Also a video of my collaborator Noeska singing the praises of medical visualization.",
     "date": "2018-03-11T17:27:07",
-    "tags": [],
+    "tags": [
+      "links"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/eagereyes.png",
     "outline": false
   },
@@ -891,7 +939,9 @@
     "title": "EuroRVVV Call For Papers!",
     "description": "I'm delighted to be one of the co-chairs of the workshop on reproducibility, verification, and validation in visualization (EuroRVVV – quite possibly the worst-acronymed workshop in visualization) at EuroVis. The topic this year is uncertainty, and we're looking for all kinds of contributions to this important topic.",
     "date": "2018-01-25T08:17:46",
-    "tags": [],
+    "tags": [
+      "eurovis"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png",
     "outline": false
   },
@@ -902,7 +952,9 @@
     "title": "A Smart Take on Election Maps",
     "description": "When maps are used to display data, there is often a discrepancy between the data being shown, which almost never relates to area, and the area of the different parts of the map. This is particularly common in election maps. This new map of votes in the 2016 U.S. Presidential election cleverly combines geography and data in a clear and compelling way.",
     "date": "2018-01-09T20:40:49",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/2016_election_map_2x.png",
     "outline": false
   },
@@ -924,7 +976,9 @@
     "title": "Vis Potpourri, October 2017",
     "description": "A potpourri isn't usually structured, since it's supposed to be thrown together and mixed. But this one has a section on reports from this year's VIS conference, plus various miscellaneous items like a tool to explore a brain atlas, some history on spreadsheets, and a celebration of Archer, among other things.",
     "date": "2017-10-25T03:07:15",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/10/archer-vis.jpg"
   },
   {
@@ -1047,7 +1101,9 @@
     "title": "Vis Potpourri, September 2017",
     "description": "A potpourri is a collection of spices and plants that create a pleasant aroma together. This new series assembles a list of links to recently interesting things in visualization, from both information visualization (InfoVis, which I normally cover on this site) and scientific visualization (SciVis) – the latter covered by new blog collaborator and medical visualization assistant professor, Noeska Smit.",
     "date": "2017-09-21T06:32:12",
-    "tags": [],
+    "tags": [
+      "links"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg",
     "outline": false
   },
@@ -1084,7 +1140,9 @@
     "title": "Communicating Uncertainty When Lives Are on the Line",
     "description": "Showing when and where natural disasters like hurricanes are going to cause damage is not just a question of aesthetics – it is literally a matter of life and death. The traditional way hurricane forecasts are shown has a number of problems, but are the alternatives actually better?",
     "date": "2017-09-06T20:35:59",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/irma-nytimes-cone.png"
   },
   {
@@ -1104,7 +1162,9 @@
     "title": "Joy Plots",
     "description": "Let’s talk about plots and joy. The Joy of Plots, if you will. Also, Joy Plots.",
     "date": "2017-07-10T20:41:08",
-    "tags": [],
+    "tags": [
+      "techniques"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/07/joy-plot.jpg"
   },
   {
@@ -1164,7 +1224,9 @@
     "description": "There is talk about stories having a beginning, middle, and end, but what does that mean for data stories? How do you create the overall structure for those? In a paper to be presented at EuroVis next week, I discuss a simple but very useful structure that I have found \"in the wild,\" and that I believe to be useful and generalizable.",
     "date": "2017-06-07T18:17:48",
     "tags": [
-      "paper"
+      "paper",
+      "storytelling",
+      "eurovis"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Kosara-EuroVis-2017.jpg",
     "outline": false
@@ -1177,7 +1239,8 @@
     "description": "Embellished charts are common in information graphics. But are embellished bar charts actually harder to read than plain ones? In a short paper to be presented at EuroVis next week, Drew Skau and I present a study that looked into this question.",
     "date": "2017-06-06T19:24:52",
     "tags": [
-      "paper"
+      "paper",
+      "eurovis"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Skau-EuroVis-2017.jpg",
     "outline": false
@@ -1191,7 +1254,8 @@
     "date": "2017-06-04T20:52:46",
     "tags": [
       "storytelling",
-      "paper"
+      "paper",
+      "eurovis"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg",
     "outline": false
@@ -1204,7 +1268,8 @@
     "description": "The two main conferences in visualization are VIS and EuroVis, but recently CHI has also gotten some very interesting submissions (CHI is technically a conference about human-computer interaction, or HCI). This year looked particularly strong,",
     "date": "2017-05-22T20:50:33",
     "tags": [
-      "conference"
+      "conference",
+      "paper"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-teasr.png"
   },
@@ -1215,7 +1280,9 @@
     "title": "Linkstravaganza: Schwabish's Story Links and Andrews' Seeking Minard",
     "description": "I don't normally do link dumps, but since I'm behind on blogging and have been meaning to link to these things for a while… here are some articles for you to check out. The first set is on what storytelling means with data, the second about an interesting discovery around Charles Minard.",
     "date": "2017-05-17T06:17:24",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/05/DataViz-History_RJ-Andrews_2592.jpg"
   },
   {
@@ -1337,7 +1404,8 @@
     "description": "The first book in the new series on ISOTYPE books is The Vital Flame by Compton Mackenzie, published by The British Gas Council in 1947. It contains 42 color photographs and five ISOTYPE charts, with a nice variety of different topics and styles.",
     "date": "2017-01-17T20:35:05",
     "tags": [
-      "isotype"
+      "isotype",
+      "book-reviews"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype1.jpg"
   },
@@ -1373,7 +1441,10 @@
     "title": "A Roundup of Year-End News Graphics Roundups",
     "description": "The end of the year is always a good time to look back at the great work done in the world of news graphics – and this year in particular, to relive all the heartbreak and disillusionment. Here is a list of year-end news graphics round-ups for your enjoyment and edification.",
     "date": "2016-12-29T17:27:59",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2017.jpg",
     "outline": false
   },
@@ -1384,7 +1455,9 @@
     "title": "The Dumbest User Interface of 2016",
     "description": "It is my great honor and pleasure to announce the winner of the Worst User Interface Award 2016: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved.",
     "date": "2016-12-26T17:26:57",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg",
     "outline": false
   },
@@ -1395,7 +1468,9 @@
     "title": "When Rankings Are Just Data Porn",
     "description": "Rankings are a common way of talking about data: who made the most money, who won the most medals, etc. But they hide issues in the underlying data. Is the difference between first and second meaningful or just noise? Here is a data video that nicely demonstrates the problem.",
     "date": "2016-12-18T21:07:29",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg",
     "outline": false
   },
@@ -1474,7 +1549,9 @@
     "title": "Ten Great Talks at Information+ 2016",
     "description": "The Information+ Conference took place in Vancouver earlier this year. It brought together people from information visualization and information design (and design more in general). All of the talk videos are online on the website, but since there were a lot and it's kind of hard to decide where to start watching, I'm listing my favorites below.",
     "date": "2016-11-06T19:32:56",
-    "tags": [],
+    "tags": [
+      "conference"
+    ],
     "featuredImage": null
   },
   {
@@ -1484,7 +1561,9 @@
     "title": "All Those Misleading Election Maps",
     "description": "Would you make a bar chart where the length of the bar doesn't actually scale with the number being shown? Would you draw a line chart with the lines all over the place, not where the values actually are? Of course not. Yet somehow, every single election map works like that.",
     "date": "2016-11-02T19:33:29",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/ElectoralCollege2012-filled.png",
     "outline": false
   },
@@ -1557,7 +1636,9 @@
     "title": "A Treemap Chart Pie",
     "description": "After his recent early chart pie attempts, Ben Shneiderman has now achieved the ultimate in chart pie baking: a treemap chart pie.",
     "date": "2016-10-20T06:17:45",
-    "tags": [],
+    "tags": [
+      "pie-charts"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/treepie2.jpg",
     "outline": false
   },
@@ -1581,7 +1662,6 @@
     "description": "It's not a secret that I think that we need to ask some harder questions about the foundations that we're building visualization on. In a paper to be presented at the BELIV workshop at VIS next week, I'm making the case for that more extensively than I have so far. The full title of the paper is An Empire Built On Sand: Reexamining What We Think We Know About Visualization.",
     "date": "2016-10-16T19:17:11",
     "tags": [
-      "ieeevis",
       "paper"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg",
@@ -1666,7 +1746,9 @@
     "title": "Eagereyes' Early History",
     "description": "Just ahead of the first decade of this website's history clicking over, here's a look back at where things started. Some of those postings were terrible, some of them were quite prescient or are even still popular.",
     "date": "2016-09-26T04:17:27",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg"
   },
   {
@@ -1725,7 +1807,9 @@
     "title": "Link: xkcd's Earth Temperature Timeline",
     "description": "Randall Munroe has done it again. His latest xkcd comic is an enormous timeline of the Earth's temperature, showing the enormously long time we have temperature estimates for, and how little it has changed until very, very recently.",
     "date": "2016-09-12T21:29:52",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/xkcd-temperature.png",
     "outline": false
   },
@@ -1749,7 +1833,9 @@
     "title": "Link: Jérôme Cukier's Series on Visualization with React",
     "description": "While D3 is the standard way of doing visualization on the web right now, there's a lot of interesting stuff happening in the world of JavaScript framework React. And it turns out, you can do some really interesting visualization stuff with React, once you understand the basics. In a series of very thorough postings, Jérôme Cukier takes you through the fundamentals of React and how to use it by itself or together with D3.",
     "date": "2016-09-05T17:10:39",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/react-teaser.png",
     "outline": false
   },
@@ -1796,7 +1882,6 @@
     "description": "When people talk about the history of data visualization, the same set of names always comes up: Playfair, Nightingale, Snow, Minard. They are historically important, alright, but why do they overshadow all the other work that was done? And what do we know about how important they actually were?",
     "date": "2016-08-14T20:27:53",
     "tags": [
-      "isotype"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png"
   },
@@ -1807,7 +1892,10 @@
     "title": "Link: Our World in Data",
     "description": "Our World in Data looks at a wide variety of data about the world: health, population, energy, growth, inequality, etc. Max Roser and his colleagues dig through the vast amounts of open data to find many interesting connections and insights.",
     "date": "2016-08-10T07:32:20",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/owid-teaser.png",
     "outline": false
   },
@@ -1818,7 +1906,9 @@
     "title": "The Bits Are Rotting in the State of Data Journalism",
     "description": "News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today.",
     "date": "2016-07-13T20:43:48",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png",
     "outline": false
   },
@@ -1841,7 +1931,10 @@
     "title": "Link: Mona Chalabi's Data Sketches on Instagram",
     "description": "Mona Chalabi has one of the most interesting Instagram feeds for people interested in data visualization. She draws data by hand. It's interesting data, too, and her approach is accessible and inspiring.",
     "date": "2016-07-07T07:17:22",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/07/chalabi-teaser2.jpg",
     "outline": false
   },
@@ -1852,7 +1945,10 @@
     "title": "New, Improved Traveling Presidential Candidate Map",
     "description": "Many years ago, when this website was still young, I created a map of all the ZIP codes in the U.S. in numeric order and then wondered about the shortest path through all of them. I dubbed that The Traveling Presidential Candidate Map. Here is an improved version that's interactive and much more efficient than the old one.",
     "date": "2016-07-04T20:49:45",
-    "tags": [],
+    "tags": [
+      "zipscribble",
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png",
     "outline": false
   },
@@ -1863,7 +1959,9 @@
     "title": "The Café Wall Illusion in a Bar Chart",
     "description": "The Café Wall Illusion makes you to see perfectly parallel lines as being at an angle. It's a curiosity and a cool perceptual illusion – except when it shows up in a bar chart, as it did in this example.",
     "date": "2016-06-30T08:00:33",
-    "tags": [],
+    "tags": [
+      "attention"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png",
     "outline": false
   },
@@ -1886,7 +1984,9 @@
     "title": "Publicize, Don't Just Publish!",
     "description": "What does it mean to publish a paper? Is it just to add a bullet point to your CV, or do you want the world to know about your research? What does it mean to publish today? Here are some thoughts and pointers on how to get the word out about the amazing work you do.",
     "date": "2016-06-21T20:07:44",
-    "tags": [],
+    "tags": [
+      "peer-review"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png"
   },
   {
@@ -1948,7 +2048,9 @@
     "title": "The Scrollytelling Scourge",
     "description": "Scrollytelling is a common way of interacting with stories these days. Scroll down and the story unfolds! Except it's often awkward, brittle, and gets in the way.",
     "date": "2016-05-25T07:17:00",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/scrollytelling-teaser.png"
   },
   {
@@ -1959,7 +2061,7 @@
     "description": "Our mental model of a dataset changes the way we ask questions. One aspect of that is the shape of the data (long or wide); an equally important issue is whether we think of the data as a collection of rows of numbers that we can aggregate bottom-up, or as a complete dataset that we can slice top-down to ask questions.",
     "date": "2016-05-22T19:19:12",
     "tags": [
-      "attention"
+      "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/rubik_cube.png"
   },
@@ -1982,7 +2084,9 @@
     "title": "New Edition of Designing the User Interface",
     "description": "The 6th edition of Designing the User Interface just came out. This is one of the central books in HCI. This edition is also notable because it adds a lot of fresh blood to the list of authors.",
     "date": "2016-05-15T20:30:45",
-    "tags": [],
+    "tags": [
+      "book-reviews"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg",
     "outline": false
   },
@@ -1993,7 +2097,9 @@
     "title": "MTurk IDs Are Not Anonymous",
     "description": "The worker IDs Amazon's Mechanical Turk gives you may look pretty random and anonymous, but they can reveal personally-identifiable information. They need to be removed from datasets, especially when they are shared or published.",
     "date": "2016-05-05T07:32:00",
-    "tags": [],
+    "tags": [
+      "paper"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png",
     "outline": false
   },
@@ -2004,12 +2110,15 @@
     "title": "3D Bar Charts Considered Not That Harmful",
     "description": "We've turned the understanding of charts into formulas instead of encouraging people to think and ask questions. That doesn't produce better charts, it just gives people ways of feeling superior by parroting something about chart junk or 3D being bad. There is little to no research to back these things up.",
     "date": "2016-05-02T20:50:37",
-    "tags": [],
+    "tags": [
+      "attention",
+      "paper"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/Trivapro-graph.jpg"
   },
   {
     "slug": "introducing-shift-register-my-new-electronics-blog",
-    "archived": false,
+    "archived": true,
     "comments": 1,
     "title": "Introducing Shift Register, My New Electronics Blog",
     "description": "I have started a new blog, which I call shift register. It's about electronics projects I'm doing, mostly building circuits on breadboards and playing with Arduinos.",
@@ -2049,7 +2158,9 @@
     "title": "Links: Scott Klein on the History of Data Journalism",
     "description": "The history of data journalism goes back much farther than most people assume. Long before computers or punch cards, and before even the first newspapers the way we know them today, data was being published. ProPublica's Scott Klein has been digging up a lot of interesting history.",
     "date": "2016-04-06T21:06:35",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/04/20160316-cholera-graphic-630.jpg",
     "outline": false
   },
@@ -2060,7 +2171,9 @@
     "title": "The Two-Paper Package",
     "description": "Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.",
     "date": "2016-03-20T21:50:44",
-    "tags": [],
+    "tags": [
+      "peer-review"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg"
   },
   {
@@ -2094,7 +2207,10 @@
     "title": "2015 Year in Graphics Links",
     "description": "A bit late, but here are links to a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year.",
     "date": "2016-02-01T22:47:38",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/02/yearingraphics2015.png",
     "outline": false
   },
@@ -2105,7 +2221,9 @@
     "title": "Link: Tamara Munzner Has A Blog!",
     "description": "Late last year, Tamara Munzner started a blog, called Vis &amp; More. So far, she mostly writes in response to Stephen Few's postings late last year about some recent visualization papers. Her style is quite academic (most of her posting titles start with \"On\"…), but very readable and she has lots of interesting things to say.",
     "date": "2016-01-27T20:16:26",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/TamaraMunzner.jpg",
     "outline": false
   },
@@ -2117,7 +2235,8 @@
     "description": "Presentation is often considered a part of visualization, but what does that mean for the kinds of techniques we use? Are they the same as used for analysis? What criteria should we use to pick them? In a new paper, I discuss a class of techniques I call presentation-only.",
     "date": "2016-01-07T12:59:27",
     "tags": [
-      "paper"
+      "paper",
+      "storytelling"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg",
     "outline": false
@@ -2129,7 +2248,9 @@
     "title": "Link: What Happened in Vis in 2015? Year Review Episode of Data Stories",
     "description": "In time-honored tradition, Andy Kirk and I review the year in visualization on the Data Stories podcast. We chat with Enrico and Moritz about blogs, projects, people, and all the other things that happened and changed (or didn't) this year.",
     "date": "2015-12-21T22:36:31",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/12/ds65-teaser.jpg",
     "outline": false
   },
@@ -2140,7 +2261,10 @@
     "title": "Memorability, Science, and The Value of Thinking Outside the Box",
     "description": "Stephen Few has written a long and scathing piece tearing down a paper presented at VIS earlier this year. While some of his criticism is justified, it is too focused on one of the authors, and it comes from an idea of visualization research that is far too limited.",
     "date": "2015-12-16T22:28:35",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "paper"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser2.jpg"
   },
   {
@@ -2150,7 +2274,10 @@
     "title": "Link: The Tapestry YouTube Channel",
     "description": "We recently redesigned the Tapestry website, and unfortunately lost the archive page. It will definitely come back (and better than before), but in the meantime, there's the Tapestry YouTube Channel. You can watch all the talks from the last three years. This includes people like Hannah Fairfield, Alberto Cairo, Martin Wattenberg and Fernanda Viègas, Kim Rees, and many more.",
     "date": "2015-12-14T09:55:21",
-    "tags": [],
+    "tags": [
+      "tapestry",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/12/tapestry-youtube.jpg",
     "outline": false
   },
@@ -2186,7 +2313,9 @@
     "title": "Link: The NIPS Experiment",
     "description": "The conference on Neural Information Processing Systems (NIPS) has conducted a fascinating experiment: split the program committee into two and get 10% of submissions reviewed by both. The article I'm linking to above has a great analysis of what they found (and it's not encouraging).",
     "date": "2015-11-17T22:54:02",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/nips-teaser.png",
     "outline": false
   },
@@ -2210,7 +2339,8 @@
     "description": "There has been a change in the way papers presented at IEEE VIS are published in the TVCG journal. It used to be the last issue of the year, but starting in 2015, it's now the January issue of the next year. So all VIS 2015 papers have a publication date of 2016.",
     "date": "2015-11-04T21:22:42",
     "tags": [
-      "ieeevis"
+      "ieeevis",
+      "peer-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png",
     "outline": false
@@ -2274,7 +2404,11 @@
     "title": "When Details Hide the Story",
     "description": "Kaiser Fung doesn't like this graphic that accompanied a recent story about the bird flu in the Wall Street Journal. His redesign shows a lot less overlap and a lot more detail; so much, in fact, that it obscures the point of the chart.",
     "date": "2015-10-25T19:05:16",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "journalism",
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/avian-flu-wsj.jpg",
     "outline": false
   },
@@ -2286,8 +2420,8 @@
     "description": "My colleagues at Tableau Research have three papers at InfoVis next week. They cover guided data exploration, color theory, and data partitioning. Here's a little preview.",
     "date": "2015-10-21T17:30:06",
     "tags": [
-      "conference",
-      "ieeevis"
+      "ieeevis",
+      "paper"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/tableau-vis-papers-teaser.jpg"
   },
@@ -2333,7 +2467,9 @@
     "title": "Link: PolicyViz Blog and Podcast",
     "description": "Jon Schwabish is running a blog and podcast called PolicyViz. In both, he talks about communicating data and how to deal with numbers for the general public. He recently had two interesting guests back-to-back on his podcast: Nigel Holmes and Edward Tufte. Both episodes are well worth listening to.",
     "date": "2015-10-13T19:53:29",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/policyviz-teaser.jpg",
     "outline": false
   },
@@ -2345,7 +2481,6 @@
     "description": "Conventions in visualization can seem arbitrary, and quite a few are. But there is also a vast body of research, and it is growing every day. Just how does visualization research work? How do we learn new things about visualization and how it can and should be used?",
     "date": "2015-09-29T18:02:44",
     "tags": [
-      "attention"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/09/finviz-sep2015.png"
   },
@@ -2367,7 +2502,9 @@
     "title": "Encounters with HCI Pioneers",
     "description": "Ben Shneiderman has put together a series of postings about the Pioneers of Human-Computer Interaction (HCI). Each includes a brief biography, some personal notes by Ben, as well as Ben's photos of them. The latter are particularly remarkable, often going back to the 1980s – like the gem at the top of this page, showing the man himself in 1986.",
     "date": "2015-09-01T20:14:09",
-    "tags": [],
+    "tags": [
+      "influences"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/09/shneider-man.jpg",
     "outline": false
   },
@@ -2400,7 +2537,10 @@
     "title": "Link: Visualization Publication Data Collection",
     "description": "People from Georgia Tech, INRIA, University of Stuttgart, and other institutions have put together a comprehensive dataset of all papers presented at Vis/VisWeek/VIS since 1990. This was first collected for a set of visualizations last year, but has been updated with the 2014 data. They intend on keeping it up to date.",
     "date": "2015-06-17T07:43:08",
-    "tags": [],
+    "tags": [
+      "conference",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/06/vispubdata.jpg",
     "outline": false
   },
@@ -2409,9 +2549,12 @@
     "archived": false,
     "comments": 1,
     "title": "Link: Disinformation Visualization",
-    "description": "In his piece Disinformation Visualization: How to lie with datavis, Mushon Zer-Aviv makes some interesting points about how framing the same data differently in visualization can make a big difference. Using the example of the abortion debate, he shows the usual chart tricks, cherry-picking, subsetting, etc., that is done to make the data support a particular story.",
+    "description": "In his piece Disinformation Visualization: How to lie with datavis, Mushon Zer-Aviv makes some interesting points about how framing the same data differently in visualization can make a big difference. Using the example of the abortion debate, he shows the usual chart tricks, cherry-picking, subsetting, etc., that is done to make the data support a particular story.",
     "date": "2015-06-03T06:17:30",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/05/disinformation-teaser.jpg",
     "outline": false
   },
@@ -2448,7 +2591,9 @@
     "title": "EuroVis Running Club",
     "description": "I'm organizing a very informal running club at EuroVis next week. If you're attending the conference, don't forget to bring your running shoes and leave your excuses at home.",
     "date": "2015-05-20T08:20:39",
-    "tags": [],
+    "tags": [
+      "eurovis"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg",
     "outline": false
   },
@@ -2470,7 +2615,9 @@
     "title": "Video: The Danger of Glitziness",
     "description": "Wayne Lytle created this video about the Viz-O-Matic that provides lots of tools to make visualization glitzier. It's a nice little spoof, and a throwback to the computer graphics of the early 1990s (it was made for SIGGRAPH 1993). This video was brought up in a discussion about storytelling at CHI last week, though I don't think that its lessons are very deep on that subject.",
     "date": "2015-04-29T06:17:14",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -2482,7 +2629,8 @@
     "description": "Last week, I had the pleasure of attending the CHI 2015 conference in Seoul, South Korea. CHI technically stands for Computer-Human Interaction, but it has become a name rather than an acronym in recent years. And CHI’s scope is very broad, it covers many areas that are not strictly part of HCI (Human-Computer Interaction – why use one acronym when you can have two?).",
     "date": "2015-04-26T18:17:23",
     "tags": [
-      "conference"
+      "conference",
+      "storytelling"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/chi-teaser.jpg"
   },
@@ -2493,7 +2641,11 @@
     "title": "Link: The Power of Wee Things",
     "description": "Lena Groeger (of ProPublica) has written a beautiful piece about the Power of Wee Things. She talks about using small things, multiples, and units to display data and get people interested. The article goes through many, many examples covering many different areas and ideas. She also gave a great talk on the topic at OpenVis 2014.",
     "date": "2015-04-22T06:17:53",
-    "tags": [],
+    "tags": [
+      "isotype",
+      "journalism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/waldo.jpg",
     "outline": false
   },
@@ -2518,7 +2670,10 @@
     "title": "Link: Design and Redesign in Data Visualization",
     "description": "Fernanda Viégas and Martin Wattenberg have written a wonderful piece titled Design and Redesign in Data Visualization about criticism in data visualization. They thoughtfully analyze the practice and point out some of the issues when people create redesigns, including intellectual honesty and perfect hindsight.",
     "date": "2015-04-15T06:17:53",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/cairo-redesign.png",
     "outline": false
   },
@@ -2529,7 +2684,9 @@
     "title": "Link: Dear Data",
     "description": "Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project they call Dear Data (Twitter account). Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc.",
     "date": "2015-04-01T06:17:58",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/dear-data.jpg",
     "outline": false
   },
@@ -2541,7 +2698,8 @@
     "description": "Scott Klein of ProPublica has written a great story about an early use of data in journalism, and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today.",
     "date": "2015-03-25T06:17:39",
     "tags": [
-      "journalism"
+      "journalism",
+      "link"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/greely.jpg",
     "outline": false
@@ -2564,7 +2722,10 @@
     "title": "Link: CG&A Article on Tapestry",
     "description": "I've written a short piece about the Tapestry conference for the Graphically Speaking column in Computer Graphics and Applications. The article talks about the reasoning behind Tapestry, how it's different from academic conferences, and gives a few examples of talks. It even includes anecdotal evidence to show that the conference has enabled actual knowledge transfer.",
     "date": "2015-03-18T06:17:24",
-    "tags": [],
+    "tags": [
+      "tapestry",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg",
     "outline": false
   },
@@ -2575,7 +2736,9 @@
     "title": "The Value of Illustrating Numbers",
     "description": "Showing data isn't always about trying to convey an insight, or giving people the means to understand the intricacies of data. It can also be a tool to communicate a fact, an amount, or an issue beyond just the sheer numbers. Data illustration is poorly understood, but it can be very powerful.",
     "date": "2015-03-08T20:37:45",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/flights-europe.jpg"
   },
   {
@@ -2585,7 +2748,9 @@
     "title": "Link: The Graphic Continuum",
     "description": "The Graphic Continuum is a poster created by Jon Schwabish and Severino Ribecca (the man behind the Data Visualisation Catalogue). It lists almost 90 different chart types and organizes them into five large groups: distribution, time, comparing categories, geospatial, part-to-whole, and relationships. Some of them are connected across groups where there are further similarities.\nThe poster is printed very nicely and makes for a great piece of wall art to stare at when thinking about data, and maybe to get an idea for what new visualization to try.",
     "date": "2015-02-25T07:17:10",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/graphic-continuum-cropped.jpg",
     "outline": false
   },
@@ -2596,7 +2761,9 @@
     "title": "Link: Joint Committee on Standards for Graphic Presentation (1915)",
     "description": "An article in the Publications of the American Statistical Association by the Joint Committee on Standards for Graphic Presentation laid down some standards for how to create good data visualizations. In 1915.",
     "date": "2015-02-18T07:17:47",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/standards-teaser.gif",
     "outline": false
   },
@@ -2607,7 +2774,9 @@
     "title": "Video: Nigel Holmes on Humor in Visualization and Infographics",
     "description": "In this talk, Nigel Holmes talks about the value of and use of humor in communicating visualization. He also has some interesting criticism of academic visualization research (and also some more artistic pieces). It's a fun and interesting talk, as always with Nigel Holmes.",
     "date": "2015-02-11T07:17:26",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -2618,7 +2787,10 @@
     "title": "Link: Becksploitation: The Over-Use of a Cartographic Icon",
     "description": "The paper Becksploitation: The Over-Use of a Cartographic Icon by Kenneth Field and William Cartwright in The Cartographic Journal describes Harry Beck's famous map of the London Underground and what makes it great. It also offers a collection of misuses of the superficial structure, and critiques them. I wish we'd had papers (and titles!) like this in visualization.",
     "date": "2015-02-04T07:17:02",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/becksploitation-teaser.jpg",
     "outline": false
   },
@@ -2629,7 +2801,10 @@
     "title": "Spelling Things Out",
     "description": "When visualizing data, we often strive for efficiency: show the data, nothing else. But there can be tremendous value in redundancy to make a point and drive it home. Two recent examples from news graphics illustrate this nicely.",
     "date": "2015-02-02T20:55:54",
-    "tags": [],
+    "tags": [
+      "storytelling",
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/02/spelling-teaser.gif",
     "outline": false
   },
@@ -2640,7 +2815,10 @@
     "title": "Link: Tapestry 2015",
     "description": "Tapestry 2015 will take place March 4 in Athens, GA. This is the third time we are holding the conference, and it is again taking place on the day before NICAR. As in the past years, have a kick-ass line-up of speakers.",
     "date": "2015-01-28T07:17:49",
-    "tags": [],
+    "tags": [
+      "tapestry",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/DSCF0207.jpg",
     "outline": false
   },
@@ -2652,7 +2830,8 @@
     "description": "A paper on a specific cognitive mechanism may seems like an odd choice as the first paper in this series, but it is the one that sparked the idea for it. It is also the one that has its 30th birthday this year, having been published in August 1985. And it is an important paper, and could play an even bigger role in visualization if properly understood and used.",
     "date": "2015-01-25T20:26:11",
     "tags": [
-      "isotype"
+      "attention",
+      "paper"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif"
   },
@@ -2674,7 +2853,9 @@
     "title": "Link: Data Stories Podcast 2014 Review",
     "description": "Episode 46 of the Data Stories podcast features Andy Kirk and yours truly in an epic battle for podcast dominance a review of the year 2014.",
     "date": "2015-01-22T07:17:26",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/ds46.png",
     "outline": false
   },
@@ -2685,7 +2866,10 @@
     "title": "Link: Data Viz Done Right",
     "description": "Andy Kriebel's Data Viz Done Right is a remarkable little website. He collects good examples of data visualization and talks about what works and what doesn't. He does have bits of criticism sometimes, but he always has more positive than negative things to say about his picks. Good stuff.",
     "date": "2015-01-21T07:17:48",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/data-viz-done-right.png",
     "outline": false
   },
@@ -2706,7 +2890,10 @@
     "title": "Links: 2014 News Graphics Round-Ups",
     "description": "In the past, it used to be difficult to find news graphics from the main news organizations. In the last few years, they have started to post year-end lists of their work, which are always a treat to walk through. With the new year a few weeks behind us, this is a good time to look at these as collections of news graphics.",
     "date": "2015-01-14T07:17:00",
-    "tags": [],
+    "tags": [
+      "link",
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/nzz-chronik.png",
     "outline": false
   },
@@ -2730,7 +2917,8 @@
     "description": "The BizWeekGraphics tumblr (well worth following in general) has a series of postings with a beautiful collection of graphics from the very early days of Businessweek, and also some more recent ones.",
     "date": "2015-01-07T07:13:16",
     "tags": [
-      "journalism"
+      "journalism",
+      "link"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/flow-of-production.jpg",
     "outline": false
@@ -2743,7 +2931,8 @@
     "description": "In his keynote at IEEE VIS in Paris two months ago, Alberto Cairo talked about journalism, visual explanations, and what makes a good news visualization. But mostly, he talked about curiosity.",
     "date": "2015-01-04T20:17:43",
     "tags": [
-      "ieeevis"
+      "ieeevis",
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-teaser.png"
   },
@@ -2767,7 +2956,9 @@
     "title": "Data Stories starring Tamara Munzner",
     "description": "The latest episode of the Data Stories podcast has Tamara Munzner as the guest. They talk about her much-anticipated book, visualization taxonomies, and a lot more. It's a great episode, well worth listening to.",
     "date": "2014-12-28T23:28:27",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/TamaraMunzner.jpg",
     "outline": false
   },
@@ -2779,7 +2970,8 @@
     "description": "Picturing the Uncertain World by Howard Wainer is a book about statistics and statistical thinking, aided by visual depictions of data. Each article in the collection starts by stating a question or phenomenon, which is then investigated further using some clever statistics.",
     "date": "2014-12-22T22:01:53",
     "tags": [
-      "criticism"
+      "criticism",
+      "book-reviews"
     ],
     "featuredImage": null
   },
@@ -2880,7 +3072,10 @@
     "title": "Large Multiples",
     "description": "Getting a sense of scale can be difficult, and the usual chart types like bars and lines don’t help. Showing scale requires a different approach, one that makes the multiplier directly visible.",
     "date": "2014-10-12T19:43:17",
-    "tags": [],
+    "tags": [
+      "techniques",
+      "isotype"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/10/ceos-static.png"
   },
   {
@@ -2923,7 +3118,9 @@
     "title": "My Favorite Charts",
     "description": "There are many charts I hate, because they're badly done, sloppy, meaningless, deceiving, ugly, or for any number of other reasons. But then there are the ones I keep coming back to because they're just so clear, well-designed, and effective.\nAll of these are a few years old. Like a fine wine analogy that I could insert here, it probably takes a while for a chart to come up again and again in conversation and when looking for examples to realize how good it is.",
     "date": "2014-09-03T20:38:37",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap.png"
   },
   {
@@ -2933,7 +3130,9 @@
     "title": "What is Data Journalism?",
     "description": "Is a data journalist one who unearths the data, who finds the insights in the data, who finds the right way to visually communicate the data? The answer is, of course, all three. But let's tease them apart and look at each separately.",
     "date": "2014-07-29T21:03:05",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/07/nytimes-jealous-dog.png"
   },
   {
@@ -2944,7 +3143,7 @@
     "description": "Raw numbers are easy to report and analyze, but without the proper context, they can be misleading. Is the effect you're seeing real, or a simple result of the underlying, obvious distribution? Too many analyses and news stories end up reporting things we already know.",
     "date": "2014-07-23T20:59:47",
     "tags": [
-      "attention"
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/07/heatmap-cropped.png"
   },
@@ -2979,7 +3178,9 @@
     "title": "Data Stories Episode About Data Storytelling",
     "description": "How is it possible that it has taken a podcast called Data Stories 35 episodes to get to the topic of data storytelling? Alberto Cairo and I helped get the topic straightened out, and I think we even convinced Moritz that stories are not the enemy of exploration. It was a fun episode to record, and it touches on many interesting topics.",
     "date": "2014-04-16T20:35:49",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/04/ds35.jpg",
     "outline": false
   },
@@ -3003,7 +3204,9 @@
     "title": "Story: A Definition",
     "description": "What makes a story? What does a story do? In part one of this little series, I argued that stories and worlds are not opposites, but complements. In this part, I try to explain the differences between worlds and stories, and present a definition.",
     "date": "2014-04-06T19:52:05",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/04/dictionary.jpg"
   },
   {
@@ -3013,7 +3216,9 @@
     "title": "Stories Are Gateways Into Worlds",
     "description": "Moritz Stefaner recently wrote a posting titled Worlds, not stories. He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one.",
     "date": "2014-03-23T19:58:31",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg"
   },
   {
@@ -3023,7 +3228,9 @@
     "title": "NewsVis.org, The Directory of News Visualizations",
     "description": "When I was in Portland over the holidays a few weeks ago, I noticed a visualization in the local newspaper, The Oregonian. I had never heard of that before, nor of Mark Friesen, who created it. Wondering how many visualizations I might be missing, I decided to build a website that would collect them all: newsvis.org.",
     "date": "2014-03-02T20:49:33",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-4.29.49-PM.png"
   },
   {
@@ -3033,7 +3240,10 @@
     "title": "The Mirrored Line Chart Is A Bad Idea",
     "description": "The mirrored line chart is a pet peeve of mine. It's very common close to elections when there are two parties or candidates: one's gains are at the other's expense. But it becomes even more egregious when there are two categories that have to sum up to 100% by their very definition.",
     "date": "2014-01-28T21:28:32",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "techniques"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/benefits-mirror2.png",
     "outline": false
   },
@@ -3129,7 +3339,10 @@
     "title": "WTFViz, ThumbsUpViz, and HelpMeViz",
     "description": "I have complained, repeatedly, about the lack of good online resources for visualization; in particular, when it comes to discussion and critical reflection. Also, where can you go to get help with a visualization project? A few recent websites are tackling these issues in different ways.",
     "date": "2014-01-05T21:31:23",
-    "tags": [],
+    "tags": [
+      "link",
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz.jpg",
     "outline": false
   },
@@ -3151,7 +3364,10 @@
     "title": "Scaling An Axis to Make A Point",
     "description": "A clever chart redesign last week got a lot of people talking about which one is “right.” What is more interesting to me is not which one is (supposedly) the better representation of the truth, but which purpose each one serves.",
     "date": "2013-12-15T20:56:30",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/12/female-ceos-keller.jpg"
   },
   {
@@ -3171,7 +3387,9 @@
     "title": "A Guide to the Quality of Different Visualization Venues",
     "description": "I recently got an email from a colleague with the subject, “Academic research, is it all bad?” He had looked at a paper presented at a VIS workshop that people were pointing to on Twitter, and had found it lacking (“it’s just a blog posting”). While there are high-quality venues for visualization research, it’s not easy to be sure which ones are good, and which ones are lower quality.",
     "date": "2013-11-10T20:53:23",
-    "tags": [],
+    "tags": [
+      "peer-review"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg"
   },
   {
@@ -3182,8 +3400,8 @@
     "description": "After a very successful Tapestry conference in February this year, we have been getting a steady stream of questions from people about another event next year. Now we're finally able to announce next year's event. And it will be awesome, again.",
     "date": "2013-11-06T22:07:30",
     "tags": [
-      "conference",
-      "tapestry"
+      "tapestry",
+      "storytelling"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych.jpeg",
     "outline": false
@@ -3241,12 +3459,15 @@
   },
   {
     "slug": "data-visualization-journalism-event-san-francisco-september-26",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Data Visualization and Journalism Event in San Francisco on September 26",
     "description": "Visual.ly is hosting an event on data visualization and journalism on September 26 in San Francisco, under the rather clever heading of DV'n'J (think PB&amp;J). I'm one of the speakers.",
     "date": "2013-09-15T20:31:43",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg",
     "outline": false
   },
@@ -3280,7 +3501,9 @@
     "title": "Thoughts on Blogging",
     "description": "I was recently asked some questions via email about blogging. Rather than respond via email, I’ve decided to do a Gelman and post my response here.",
     "date": "2013-08-27T20:42:26",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/08/1280px-Hoes_one_cylinder_printing_press.png"
   },
   {
@@ -3300,7 +3523,9 @@
     "title": "The Golden Age of Information Graphics",
     "description": "Infographics today are mostly pointless decorations around a few simple facts that add nothing meaningful. But information graphics once deserved their name with dense, meticulously-drawn, well-researched information. Here is an example from 1944.",
     "date": "2013-08-12T20:50:58",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-teaser.jpg",
     "outline": false
   },
@@ -3312,7 +3537,7 @@
     "description": "Data is often reported as a single number. Unemployment rates, housing prices, crime, etc. are all boiled down to single numbers that average over a large population. But averages, or means, hide much of the richness of the underlying data, and without at least a sense of the spread of the data values, are largely meaningless.",
     "date": "2013-08-06T20:27:21",
     "tags": [
-      "attention"
+      "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/08/means-teaser.png"
   },
@@ -3346,7 +3571,8 @@
     "description": "Once you’ve seen one visualization book, you’ve seen them all. They tend to all look similar, use the same examples, and don’t provide much depth. Is it too easy to write a book when you can use such compelling images?",
     "date": "2013-07-17T20:14:31",
     "tags": [
-      "criticism"
+      "criticism",
+      "book-reviews"
     ],
     "featuredImage": null,
     "outline": false
@@ -3358,7 +3584,11 @@
     "title": "Conference Report: Tapestry 2013",
     "description": "About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the Tapestry conference for storytelling with data took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014.",
     "date": "2013-07-14T20:05:53",
-    "tags": [],
+    "tags": [
+      "conference",
+      "tapestry",
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-scott-mccloud.jpg"
   },
   {
@@ -3369,7 +3599,7 @@
     "description": "Colors are perhaps the visual property that people most often misuse in visualization without being aware of it. Variations of the rainbow colormap are very popular, and at the same time the most problematic and misleading.",
     "date": "2013-07-07T20:12:19",
     "tags": [
-      "attention"
+      "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg"
   },
@@ -3395,7 +3625,9 @@
     "title": "VIS Tutorials and the Industry and Government Experiences Track",
     "description": "The deadline for tutorial proposals for VIS 2013 is coming up. There are a few changes from last year. Also, there is a new Industry and Government Experiences Track at the conference this year.",
     "date": "2013-06-05T20:52:54",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": null
   },
   {
@@ -3406,8 +3638,7 @@
     "description": "The same data can look very different in a line chart depending on its aspect ratio. But what is the perfect shape for a chart? A square? A rectangle? Which rectangle? It depends on the data.",
     "date": "2013-06-02T20:17:30",
     "tags": [
-      "attention",
-      "basics"
+      "techniques"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/06/aspect-ratios.png"
   },
@@ -3418,7 +3649,9 @@
     "title": "Schloß Dagstuhl",
     "description": "For many computer science researchers, the name Dagstuhl rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?",
     "date": "2013-05-26T20:19:51",
-    "tags": [],
+    "tags": [
+      "conference"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-teaser.jpg",
     "outline": false
   },
@@ -3441,18 +3674,20 @@
     "description": "One of the most common mistakes people make when creating charts is to cut off the vertical axis. But why is that a problem? And what can you do when you need to show data where the amount of change is small compared to the absolute values?",
     "date": "2013-04-28T21:23:37",
     "tags": [
-      "attention"
+      "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/04/baseline-change.png"
   },
   {
     "slug": "infovis_ebooks",
-    "archived": false,
+    "archived": true,
     "comments": 1,
     "title": "Meet @InfoVis_Ebooks, Your Source for Random InfoVis Paper Snippets",
     "description": "Are you looking for inspiration while writing a paper or grant? Do you feel that there is a lack of information visualization content on Twitter? Is your timeline too empty and slow? Follow @InfoVis_Ebooks, a Twitter account that posts random pieces of text from infovis papers.",
     "date": "2013-04-21T20:21:09",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/04/infovis-template.png"
   },
   {
@@ -3507,7 +3742,9 @@
     "title": "Study on Creative Data Visualization",
     "description": "To explore how we can make it easier to create new visualization designs, we are running a study based on a new approach, called visualization primitives. It lets you map data to the properties of objects like rectangles and ellipses. Build something with data, have fun, and help us figure out if it works!",
     "date": "2013-03-22T03:05:01",
-    "tags": [],
+    "tags": [
+      "paper"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -3518,7 +3755,9 @@
     "title": "A Better Definition of Chart Junk",
     "description": "Maximizing the data-ink ratio sounds like a good idea, but when actually followed to the letter produces terrible and nonsensical results. Here is a more reasonable definition of chart junk that does away with the pretense of a mathematical formula and puts some common sense back into the question of good chart design.",
     "date": "2013-03-17T20:32:04",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/03/minimal-bars.png",
     "outline": false
   },
@@ -3550,7 +3789,10 @@
     "title": "Data Storytelling in Video",
     "description": "I'm not a fan of video. I don't spend time randomly surfing YouTube, and when given the choice between reading an article and watching a video, I'll read. The reason is that videos often don't work well for me: they're too fast or too slow, they take a long time to get to the point, they don't let me skip around and browse easily. I'd rather be in control than having the information pre-packaged for me. But two examples have surfaced in the last few days that show data visualization can tell a very effective story in well-designed, well-paced videos.",
     "date": "2013-03-06T21:22:19",
-    "tags": [],
+    "tags": [
+      "storytelling",
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/03/wealth-inequality.png"
   },
   {
@@ -3562,7 +3804,8 @@
     "date": "2013-03-03T21:26:45",
     "tags": [
       "isotype",
-      "techniques"
+      "techniques",
+      "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/11/isotype-weaving.jpg",
     "outline": false
@@ -3600,7 +3843,8 @@
     "description": "Visualization is often considered to consist of three phases: exploration, analysis, and presentation. While the former two topics are covered well in the literature, there has been very little work specifically on presentation. In an upcoming paper, Jock Mackinlay and I argue that presentation, and in particular storytelling and communication of data, are the logical next step for the field, and provide some research directions.",
     "date": "2013-02-03T21:38:30",
     "tags": [
-      "paper"
+      "paper",
+      "storytelling"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg",
     "outline": false
@@ -3624,7 +3868,9 @@
     "title": "Four Values Can Still Be Worth A Chart",
     "description": "A while ago, Kaiser Fung criticized a chart for its uselessness because it only showed four numbers. The chart appeared on the smart web comic Abstruse Goose (which, as of this writing, is down for a site reorganization).",
     "date": "2012-12-30T22:18:15",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/perception-teaser.png",
     "outline": false
   },
@@ -3648,7 +3894,8 @@
     "description": "Tapestry is a new conference on storytelling with data. While it focuses on visual ways of telling stories in journalism, there will be a broad range of topics, and a line-up of amazing speakers.",
     "date": "2012-12-17T21:53:28",
     "tags": [
-      "conference"
+      "tapestry",
+      "storytelling"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png"
   },
@@ -3659,7 +3906,9 @@
     "title": "Listen To Me Dispense My Wisdom on the Data Stories Podcast!",
     "description": "Last week, I recorded a guest appearance on the Data Stories podcast with Enrico Bertini and Moritz Stefaner. Find out if the voice you imagine when reading this blog sounds like my voice (spoiler: it doesn't), and how my Austrian accent meshes with Moritz' German and Enrico's Italian ones (spoiler: very well).",
     "date": "2012-12-09T21:30:58",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png",
     "outline": false
   },
@@ -3671,7 +3920,8 @@
     "description": "After posting my response to Gelman and Unwin's article on visualization and statistical graphics recently, I have now collected links to all the three other responses as well: Stephen Few, Paul Murrell, and Hadley Wickham.",
     "date": "2012-12-05T20:19:32",
     "tags": [
-      "paper"
+      "paper",
+      "criticism"
     ],
     "featuredImage": null,
     "outline": false
@@ -3695,7 +3945,10 @@
     "title": "A Scholarly Discussion with Andrew Gelman and Anthony Unwin",
     "description": "This is how scholarly exchanges used to work: Scientist A publishes a result, Scientist B then writes an angry letter saying that Scientist A is full of it, to which A responds with more insults, etc., and all that published in a fine scholarly journal. I was recently asked to respond to a piece Andrew Gelman and Anthony Unwin had written about visualization for the Journal of Computational and Graphical Statistics, which had some issues.",
     "date": "2012-11-29T21:40:07",
-    "tags": [],
+    "tags": [
+      "criticism",
+      "paper"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -3796,8 +4049,7 @@
     "description": "Less than two weeks to go until VisWeek 2012, so it’s time for the crucial second part of the survival guide. There are tons of things to see and do in Seattle, it’s easy to get distracted.",
     "date": "2012-10-03T08:26:41",
     "tags": [
-      "ieeevis",
-      "conference"
+      "ieeevis"
     ],
     "featuredImage": null
   },
@@ -3808,7 +4060,9 @@
     "title": "Goodbye, Academia; Hello (Again), Tableau!",
     "description": "I have decided to quit my job as Associate Professor at UNC Charlotte and join Tableau Software. Monday (September 17) is my first day of work as a full Tableau employee. Why give up the job security of a tenured university professor for the treacherous prospects of a startup? There are many reasons, but here are the main ones.",
     "date": "2012-09-16T20:30:00",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": null
   },
   {
@@ -3832,8 +4086,7 @@
     "description": "VisWeek 2012 will be held October 14 to 19 in Seattle, WA. The conference keeps growing, and this year is adding a new industry track. If you consider going, you should register by Friday to get the early registration discount.",
     "date": "2012-09-03T20:42:17",
     "tags": [
-      "ieeevis",
-      "conference"
+      "ieeevis"
     ],
     "featuredImage": null,
     "outline": false
@@ -3845,7 +4098,9 @@
     "title": "Storytelling: Minard vs. Nightingale",
     "description": "There is a lot of confusion about storytelling and what tells a story. I have argued previously that stories do not tell themselves. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it.",
     "date": "2012-08-13T20:34:40",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/06/Minard-Napoleon.png"
   },
   {
@@ -3881,7 +4136,8 @@
     "description": "Gregor Aisch recently wrote a posting about gauges, and how he finds them inspiring and beautiful in their simplicity, even though they are generally disliked in visualization. His posting highlights a common misconception about visualization, and a conflation of different uses of data display, that is worth exploring.",
     "date": "2012-07-15T20:30:20",
     "tags": [
-      "criticism"
+      "criticism",
+      "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/07/Tachometer_2011_honda_civic.jpg"
   },
@@ -4018,7 +4274,9 @@
     "title": "How Much Data Do You Really Need?",
     "description": "One of the many things Malofiej 20 made me wonder about is how we present data and what we expect from such a presentation. Very often, we essentially narrate the process of discovery, but is that really the best way? And how much data do we need to show when making a point? Just because we start out with lots of data does not mean we really need to show it all.",
     "date": "2012-05-24T21:44:43",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/05/minwage-abstracted1.png",
     "outline": false
   },
@@ -4119,7 +4377,8 @@
     "description": "Malofiej was an exhausting week with many great conversations, fascinating insights, and great company. My sleep-deprived and jet-lagged brain is buzzing with things to write about, and this is only the first of several articles about or inspired by Malofiej. I start with a discussion on why I think The New York Times did so well this year, and what other newspapers can do to catch up.",
     "date": "2012-03-25T20:56:52",
     "tags": [
-      "journalism"
+      "journalism",
+      "conference"
     ],
     "featuredImage": null
   },
@@ -4161,7 +4420,9 @@
     "title": "The Bikini Chart",
     "description": "The Obama administration released a chart a while ago that shows job losses during the last year of the Bush administration and the first year after Obama took office. The chart is simple yet effective in the way it communicates a message. It also has some very subtle design elements that communicate a much more negative undertone than is immediately obvious.",
     "date": "2012-02-29T19:30:00",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png",
     "outline": false
   },
@@ -4221,7 +4482,8 @@
     "description": "Venn diagrams are a great way to visualize the structure of set relationships. They're also an example of a technique that works very well for a particular purpose, but that entirely fails outside its well-defined scope or when the number of sets gets too large.",
     "date": "2012-01-29T21:30:00",
     "tags": [
-      "techniques"
+      "techniques",
+      "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/venn-intersection-union.png"
   },
@@ -4232,7 +4494,9 @@
     "title": "Where Infographics Are Going",
     "description": "At their best, information graphics can be informative, exciting, and attractive. At their worst, they can be misleading, overdesigned, and empty. Infographics are still in their infancy, with a lot of untapped potential. Ideas from visualization can help figure out a future that is much more exciting.",
     "date": "2012-01-26T22:30:00",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": null
   },
   {
@@ -4254,7 +4518,9 @@
     "title": "Hello from Tableau (and Seattle)!",
     "description": "I am spending the entire year 2012 in Seattle, working with Tableau Software. The topics I will be working on include storytelling and Tableau Public, plus some super-secret projects even I don't know yet (mostly because we haven't decided on them).",
     "date": "2012-01-18T22:07:00",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg",
     "outline": false
   },
@@ -4265,7 +4531,10 @@
     "title": "An Interactive Version of the ZIPScribble Map",
     "description": "For more than five years, the ZIPScribble Map and its related pages have been the most popular feature on my website. To freshen things up a bit, I am adding an interactive version that runs in your browser. I have also added a few more countries, for a new total of 38.",
     "date": "2012-01-15T21:32:42",
-    "tags": [],
+    "tags": [
+      "zipscribble",
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png"
   },
   {
@@ -4275,7 +4544,10 @@
     "title": "Embracing Uncertainty in Two-Line Charts",
     "description": "As we're heading towards elections again, there is a chart type that is as unavoidable as political ads, baby-kissing, and smear campaigns: line charts showing polling data. The most common pitch two candidates against each other, and often make a big deal out of the fact that the lines cross. Not only are these charts misleading in the way they depict the choice, they also hide an important fact: the number of undecided voters.",
     "date": "2012-01-11T23:17:18",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "techniques"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/obama-area.png"
   },
   {
@@ -4329,7 +4601,7 @@
   },
   {
     "slug": "comments-closed-switching-to-wordpress",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Comments Closed, Switching to WordPress",
     "description": "After more than five years, I've finally had it with Drupal. I'm switching the site to WordPress over the holidays. If you're reading this through your feed reader, you should not notice a difference. The new site will look different and will have a few simple little features that will make it easier to browse. WordPress also is much more organized on the back-end, so I will hopefully be motivated to write more.",
@@ -4357,7 +4629,9 @@
     "title": "You Only See Colors You Can Name",
     "description": "While color is a purely visual phenomenon, the way we see color is not only a matter of our visual systems. It is well known that we are faster in telling colors apart that have different names, but do the names determine the colors or the colors the names? Recent work shows that language has a stronger influence than previously thought.",
     "date": "2011-11-20T18:31:02",
-    "tags": [],
+    "tags": [
+      "attention"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2011/color-names-teaser.png"
   },
   {
@@ -4545,7 +4819,9 @@
     "title": "Six Niche Visualization Blogs",
     "description": "I don't have to link to infosthetics or flowingdata, you know those. But there are many others that are not as well known, but often contain really interesting work. They offer thoughtful criticism, discussions of the cognitive aspects of visualization, or designers' perspectives on visualization. Here is a list of six of them.",
     "date": "2011-05-12T20:42:34",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": null
   },
   {
@@ -4555,7 +4831,9 @@
     "title": "A Middle Ground",
     "description": "We criticize flashy infographics and bad visualizations, but we also want to attract viewer's attention. We strive for accuracy and efficiency, but we also want to tell stories. We dislike chart junk, but we like beautiful charts. We need to find a middle ground.",
     "date": "2011-05-10T21:45:30",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": null
   },
   {
@@ -4668,7 +4946,9 @@
     "title": "My Journey to the Kingdom of NIPS",
     "description": "Over the weekend, I had the opportunity to visit the strange land of NIPS (Neural Information Processing Systems), a kingdom in the far corners of the West, where the Machine Learners dwell. Some of the noblemen there had invited me so that the locals could get a close-up look at one of us Visualization People at one of their workshops.",
     "date": "2010-12-12T23:32:51",
-    "tags": [],
+    "tags": [
+      "conference"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -4704,7 +4984,9 @@
     "title": "Stories Don't Tell Themselves",
     "description": "Storytelling was a big topic at VisWeek this year: there was a workshop, a panel, and at least one paper about how to tell stories with visualization. One sentence I heard over and over was, \"this photo/visualization/illustration tells a great story.\" But pictures don't tell stories, people do. An image, a visualization, data, etc. can only be the material the story is made from. I think it's going to be important for visualization to understand this fundamental difference.",
     "date": "2010-11-07T20:27:03",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2010/polevaulting.jpg"
   },
   {
@@ -4871,18 +5153,22 @@
     "title": "Trivialization for the Masses",
     "description": "There are thousands of visualizations on Many Eyes, but there is little in terms of further analysis and deeper discussion. There are dozens of visualization websites now that let you upload your data, but they all provide the same few visualization techniques and practically no analysis tools. While visualization for the masses may be here, we're not actually seeing much analysis from those same masses.",
     "date": "2010-09-07T22:08:07",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": null,
     "outline": false
   },
   {
     "slug": "infovis-theory-workshop-deadline-extended",
-    "archived": false,
+    "archived": true,
     "comments": 2,
     "title": "InfoVis Theory Workshop Deadline Extended",
     "description": "We have received a few good submissions for the InfoVis Theory Workshop at VisWeek, but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance.",
     "date": "2010-08-24T22:24:32",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2010/maths.jpg",
     "outline": false
   },
@@ -4961,7 +5247,9 @@
     "title": "Various VisWeek Workshops",
     "description": "I want to call your attention to three interesting workshops that will be held at VisWeek 2010 in October in Salt Lake City. One is on storytelling in visualization, another on visual analytics in healthcare, and a third one on theory in infovis. The deadlines for two of them are coming up soon.",
     "date": "2010-07-27T11:00:10",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": null
   },
   {
@@ -4981,7 +5269,9 @@
     "title": "Multi-touch Brushing for Parallel Coordinates",
     "description": "Interaction in visualization is incredibly important, but often more tedious than it needs to be. I have developed a new way of brushing in parallel coordinates that uses the multi-touch trackpads on Apple's MacBook and MacBook Pro laptops for faster interaction. The video below demonstrates the technique, and the source code is available.",
     "date": "2010-07-20T20:49:55",
-    "tags": [],
+    "tags": [
+      "paper"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2010/multitouch-brushing.png",
     "outline": false
   },
@@ -4992,7 +5282,9 @@
     "title": "Workshop: The Role of Theory in Information Visualization",
     "description": "Information visualization is a very applied field that prides itself on its practical applications and real-world scenarios. Ignoring the theoretical side is dangerous, however, because it limits our ability to distill useful information about the foundations of the field from the practical work being done, and limits our understanding of how and why our own creations work. The goal of this workshop at VisWeek 2010 is to bring together researchers interested in the theoretical aspects of visualization, define the field, discuss ideas and approaches, and get the word out about the importance of theoretical research in information visualization.",
     "date": "2010-07-14T22:51:21",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2010/infovistheory-teaser.png"
   },
   {
@@ -5002,7 +5294,9 @@
     "title": "InfoVis Discovery Exhibition 2010",
     "description": "Showing the impact of visualization work is not something we as a community are particularly good at. The Discovery Exhibition at the Information Visualization conferences is a great venue for doing just that. If you have a tool that's used by real users for real work, submit a brief description by July 19.",
     "date": "2010-07-01T22:06:15",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -5023,7 +5317,9 @@
     "title": "Beautiful Visualization",
     "description": "Beautiful Visualization is a collection of essays on a wide range of topics in visualization. Don't let the title mislead you: while it has its share of artistic visualization, there is also quite a bit of technical information in there. One of the chapters was written by yours truly.",
     "date": "2010-06-15T22:51:39",
-    "tags": [],
+    "tags": [
+      "book-reviews"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2010/beautifulvis.jpg",
     "outline": false
   },
@@ -5079,7 +5375,8 @@
     "description": "Information graphics (infographics) have gotten a bad rep lately because of a sudden wave of badly designed, uninformative graphics. But when they are done right, infographics can be both highly informative and enjoyable to look at and discover. Here are a few recent examples to demonstrate that.",
     "date": "2010-05-16T22:48:17",
     "tags": [
-      "criticism"
+      "criticism",
+      "journalism"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/cellphone-call.jpg"
   },
@@ -5115,7 +5412,8 @@
     "description": "There is almost universal agreement that any extraneous elements in a chart or visualization, elements that do not represent numbers, are detrimental to understanding the data. A paper that was presented at CHI recently described a study to figure out just how bad all this chart junk really was. As it turns out, it's actually rather helpful.",
     "date": "2010-04-22T20:54:34",
     "tags": [
-      "criticism"
+      "criticism",
+      "paper"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/usefuljunk-teaser.jpg"
   },
@@ -5127,7 +5425,8 @@
     "description": "User studies are an important part of visualization, but they also require a considerable amount of effort and time. In a paper presented at the BELIV workshop (part of CHI 2010), we discussed our experiences with running a number of visualization studies using Amazon's Mechanical Turk (MTurk) service. Using MTurk, we are able to run large studies in much less time than usual, and at very low cost. We also show how to avoid gaming the system, which had been reported in earlier work using MTurk.",
     "date": "2010-04-18T19:33:26",
     "tags": [
-      "paper"
+      "paper",
+      "pie-charts"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/mturk-paper.jpg",
     "outline": false
@@ -5211,7 +5510,7 @@
   },
   {
     "slug": "data-visualization-should-we-divide-it",
-    "archived": false,
+    "archived": true,
     "comments": 2,
     "title": "Data Visualization: Should We Divide It?",
     "description": "For some time now there has been some discussion about finding a new terminology for the Data Visualization field. The intention is to find names that reflects the two main different directions that are seen today on Dataviz: visual data analysis and data driven aesthetics images. The concern is that Data Visualization might lose its ‘serious’ role as an analytic tool by including works that, without doubt, praise aesthetics before clarity.",
@@ -5265,7 +5564,9 @@
     "title": "A Look At Climate Data",
     "description": "Wether you believe that global warming is real or not, a bit of validation of the source data is still interesting. This is my second look at the global temperature data recently released by the UK's Met Office, this time using Tableau. There are some interesting data issues here, and a rather analytical visualization.",
     "date": "2009-12-14T09:46:48",
-    "tags": [],
+    "tags": [
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/climate/look-at-climate-teaser.png"
   },
   {
@@ -5275,7 +5576,9 @@
     "title": "Interactively Explore Climate Data",
     "description": "The United Kingdom's Met Office recently released temperature data for about 1700 weather stations across the globe from 1701 to 2009. Here is an interactive visualization (built using Protovis) of that data for you to explore.",
     "date": "2009-12-11T00:58:50",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png",
     "outline": false
   },
@@ -5309,7 +5612,9 @@
     "title": "Bring Out Your Dreadful Charts!",
     "description": "There are many terrible charts out there, whether visually ugly and cluttered, or pretty but empty or even misleading (like this beautiful pie chart example featured on Fox News recently). Andrew Vande Moere at infosthetics is hosting a competition to find the ugliest and most useless charts.",
     "date": "2009-11-24T23:10:25",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/foxpie.jpg",
     "outline": false
   },
@@ -5343,7 +5648,9 @@
     "title": "I Want to BELIV",
     "description": "Evaluation of visualization systems and techniques is a vital part of visualization research, but is often neglected. While there are established methods for basic perception studies, many other kinds of questions are much more difficult to answer in a controlled study. The CHI workshop BELIV (BEyond time and errors: novel evaLuation methods for Information Visualization) is the place to discuss new ideas about evaluating visualization.",
     "date": "2009-11-09T22:39:52",
-    "tags": [],
+    "tags": [
+      "conference"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -5364,7 +5671,9 @@
     "title": "VisWeek Preview: Changing the World with Visualization (Panel)",
     "description": "What good is visualization if it can't save the world? Or maybe at least change it. Make it a little better. Make a difference. I am organizing a panel at InfoVis next week to discuss what visualization already does, and what else we can do to free visualization from the confines of the ivory tower and have an impact in the real world. Three remarkable people will present their views and discuss with the audience.",
     "date": "2009-10-07T21:16:23",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg",
     "outline": false
   },
@@ -5375,7 +5684,9 @@
     "title": "VisWeek Preview: Live Coverage",
     "description": "Like last year, I will be live-blogging and tweeting from VisWeek. Here is some information on my plans and links to what others will be doing (that I know of). Feel free to add your links, Twitter handles, etc. in the comments.",
     "date": "2009-10-06T11:59:44",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/visweektweet.png"
   },
   {
@@ -5385,7 +5696,9 @@
     "title": "VisWeek Preview: Visualization on the Web Workshop",
     "description": "The workshop Putting Visualization on the Web will be held on Sunday, October 11, from 2pm to 5:30pm at VisWeek 2009. If you are there on Sunday, please join us for discussions on everything related to visualization, blogging, web-based visualization, and a whole lot more. You do not have to register for the workshop separately, and you are welcome whether you submitted a position paper or not.",
     "date": "2009-10-05T20:34:24",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/redpin.jpg",
     "outline": false
   },
@@ -5494,7 +5807,9 @@
     "title": "InfoVis 2009 Discovery Exhibition",
     "description": "After the underwhelming participation in last year's InfoVis contest, there will be a different approach this year: The InfoVis Discovery Exhibition. The goal is to collect reports of visualization is used in real-world scenarios, and how visualization tools can help solve real problems. There are already two examples, and with enough participation, this should turn into a great resource. See below for how you can participate, and what's in it for you.",
     "date": "2009-05-27T10:28:42",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/discoveryexhibition.png",
     "outline": false
   },
@@ -5516,12 +5831,14 @@
     "title": "Visualization is not Periodic, Period!",
     "description": "Of all the sins committed against visualization on the Internet, the Periodic Table of Visualization Methods stands out as the most egregious. Its collection of actual visualization methods, structural diagrams, and feel-good business bullshit does not fit a structure that was devised to understand the world &ndash; and that is actually a very effective visualization in itself.",
     "date": "2009-05-19T17:19:30",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/periodictable.jpg"
   },
   {
     "slug": "parsets-delay-html",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Parallel Sets Release Pushed Back A Bit (Updated)",
     "description": "I'm very sorry, but we have to delay the release. We need to make sure that we have the right to release the program, and this is taking a bit longer than expected. The software was written in part by students paid from the SRVAC, which is funded by DHS and DOE. It is unlikely that there will be a problem, but we don't have the go-ahead yet, either. I am hoping that we can get the green light this week.",
@@ -5532,7 +5849,7 @@
   },
   {
     "slug": "interested-in-eagerears-html",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Anybody interested in eagerears.org/.com?",
     "description": "I got the domains EagerEars.org and EagerEars.com for my April Fool's joke. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.",
@@ -5559,7 +5876,9 @@
     "title": "Design Tutorials for VisWeek 2009",
     "description": "As one of the Tutorials Chairs at this year's VisWeek (which is the combination of the IEEE Vis and InfoVis conferences, and the VAST symposium), I want to make you aware of the upcoming deadline for submitting tutorial proposals: April 28. We are looking for a wide variety of ideas, but I want to especially encourage the submission of tutorials on design for visualization. VisWeek will take place October 10&ndash;16 in Atlantic City, NJ.",
     "date": "2009-04-19T22:27:38",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/VisWeekTutorials.png",
     "outline": false
   },
@@ -5594,7 +5913,9 @@
     "title": "New Sister Site: EagerEars.org",
     "description": "Music and visualization are two things that fascinate me. I always felt that they had something in common, and I recently figured out what it was: structure. That may not be the correct musical term, but it should be clear what I mean nonetheless: the rhythmic structure of music, with its repeated patterns and variations, is what makes music. And that is also what makes abstract images interesting to look at, and what we look for in visualization. So I decided to start another website for my musings on music: EagerEars.",
     "date": "2009-04-01T07:14:18",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg",
     "outline": false
   },
@@ -5660,7 +5981,9 @@
     "title": "Sightings: A Vennerable Challenge",
     "description": "Venn diagrams are a strange mix of structure and data visualization. In my latest Sightings column (PDF) for American Scientist, I use the example of a visualization challenge from last year to discuss different ways to show the same data about diagnosis techniques for autism in young children. This also sparked the launch of a new site feature: Ask Eagereyes.",
     "date": "2008-12-21T22:01:24",
-    "tags": [],
+    "tags": [
+      "paper"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg",
     "outline": false
   },
@@ -5671,7 +5994,9 @@
     "title": "Charts and Metaphors",
     "description": "What do pies, waffles, and donuts have in common? They're charts, or rather metaphors for popular charts. Why do we need to name charts after food? And what can we learn from this for getting the idea of visualization across more effectively?",
     "date": "2008-12-08T23:21:46",
-    "tags": [],
+    "tags": [
+      "pie-charts"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/chocolatepiechart.jpg",
     "outline": false
   },
@@ -5725,7 +6050,9 @@
     "title": "The New York Times Visualization Lab",
     "description": "The New York Times' new Visualization Lab uses IBM's Many Eyes technology. While it provides easy access to a wealth of visualization techniques and the possibility to comment, there is one major difference: only data provided by the NY Times can be used. The kind and quality of that data will determine the success of this new site.",
     "date": "2008-10-28T23:26:23",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/nytimes-vizlab.png",
     "outline": false
   },
@@ -5737,7 +6064,7 @@
     "description": "During VisWeek 2008, I wrote short updates on my website, which I called glimpses (a little pun on tweet). This is an archive of all of those, in reverse chronological order. In my transition to WordPress, I had to get rid of the comments, unfortunately. There were only a small number of those attached to these postings, though.",
     "date": "2008-10-28T14:34:24",
     "tags": [
-      "conference"
+      "ieeevis"
     ],
     "featuredImage": null
   },
@@ -5759,7 +6086,9 @@
     "title": "Debunking the Cent Smear",
     "description": "A story is making the rounds recently that the Obama campaign has received many contributions with \"odd\" amounts (i.e., not whole dollars), which is supposedly proof that Obama was being funded by foreign money. Here is a quick look at the data, which shows some interesting patterns, but no evidence of foreign intervention.",
     "date": "2008-10-24T22:52:05",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/Obama-Cents-teaser.png"
   },
   {
@@ -5769,7 +6098,9 @@
     "title": "NY Times looks at Presidents and the Economy",
     "description": "The New York Times has an interesting interactive visualization on the influence of presidents on the economy. They ask, Can a President Tame the Business Cycle? The visualization they use is not bad, but would be much more readable if it used a better color scale.",
     "date": "2008-10-18T23:17:58",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png",
     "outline": false
   },
@@ -5780,7 +6111,9 @@
     "title": "Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008",
     "description": "As promised earlier, I will be live-blogging VisWeek 2008, which will take place next week in Columbus, OH. I will mostly attend InfoVis and VAST, with the odd Vis session and workshop thrown in. The live-blog will appear in a box at the top of the frontpage, and there will be a separate RSS feed for these posts. Coverage should start Sunday (October 19) morning, and there will also be pictures.",
     "date": "2008-10-16T19:23:41",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/mispronouncing-cropped.png",
     "outline": false
   },
@@ -5825,7 +6158,10 @@
     "title": "A Fisheye Calendar at Yahoo!",
     "description": "What a difference 22 years make! In 1986, George Furnas published his paper, Generalized Fisheye Views, which described what was to become one of the first (and most prominent) focus+context techniques. One of the examples he used was a calendar that showed the current day in most detail, with less space for the surrounding ones. Yahoo! just started an opt-in beta of their new calendar that uses the same idea.",
     "date": "2008-10-08T20:30:19",
-    "tags": [],
+    "tags": [
+      "techniques",
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg",
     "outline": false
   },
@@ -5881,7 +6217,10 @@
     "title": "NY Times: The Best and Worst of Data Visualization",
     "description": "The New York Times uses some of the best information graphics and visualizations on its web site and in the printed paper. But there is also a strange undercurrent of bad graphics, many of which commissioned from other sources, and often published in the New York Times Magazine. It almost feels like between all the good graphs, they need an outlet for the crazy stuff. ",
     "date": "2008-09-23T23:04:01",
-    "tags": [],
+    "tags": [
+      "journalism",
+      "criticism"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/nytimes_graphs.png",
     "outline": false
   },
@@ -5892,7 +6231,10 @@
     "title": "Linear vs. Quadratic Change",
     "description": "One of the most common mistakes in chart design is to scale an area by two sides at the same time, producing a quadratic effect for a linear change. That overstates the larger numbers and produces a badly skewed chart. A little care and some basic high-school math can help avoid the problem.",
     "date": "2008-09-19T11:12:16",
-    "tags": [],
+    "tags": [
+      "basics",
+      "techniques"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png",
     "outline": false
   },
@@ -5916,7 +6258,10 @@
     "title": "Engaging Readers with Square Pie/Waffle Charts",
     "description": "Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The square pie chart (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar.",
     "date": "2008-09-07T21:12:03",
-    "tags": [],
+    "tags": [
+      "techniques",
+      "pie-charts"
+    ],
     "featuredImage": "http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg",
     "outline": false
   },
@@ -5927,7 +6272,9 @@
     "title": "The Sad State of the InfoVis Contest",
     "description": "In some fields, contests drive research and the entire field forward. Those contests are prestigious, and people list the fact that they won the contest in their CVs. In InfoVis, the contest is trying to appeal to researchers, but is getting little attention. What should the role of the contest be? And how can we make it more interesting?",
     "date": "2008-09-01T10:09:16",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/gladiator.jpg"
   },
   {
@@ -5937,7 +6284,9 @@
     "title": "Presidential Demographics as Open-Source, More to Come",
     "description": "The EagerEyes Labs' mission is to provide tools to gain insight into relevant data to everybody. As part of that, the plan has always been to release the source code. The first piece of code is now published, and more is coming.",
     "date": "2008-08-31T21:10:54",
-    "tags": [],
+    "tags": [
+      "applications"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -5961,7 +6310,9 @@
     "title": "Sightings: Symmetric Bat Flight",
     "description": "How do bats fly? What are the aerodynamic conditions around their wings? And how do you visualize all that? I did a short interview with David Laidlaw (PDF), who has collaborated with physicists, biologists, fluid mechanics experts, and others, to create a poster that won last year's NSF Visualization Challenge. The interview was done for American Scientist's Sightings column, which I have been invited to write.",
     "date": "2008-08-06T20:58:19",
-    "tags": [],
+    "tags": [
+      "paper"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/Sightings-BatFlight.jpg",
     "outline": false
   },
@@ -5997,7 +6348,9 @@
     "title": "The Visual Display of Relevant Information",
     "description": "When Al Gore talks about global warming, Hans Rosling shows the relationship between health and wealth, and the New York Times visualizes primary results and American consumer debt, they communicate visually. But they only use visual representation to get their point across, as a means to an end. When we want to show why visualization is effective, we have to care about the message, too &ndash; not just the method.",
     "date": "2008-07-21T19:43:20",
-    "tags": [],
+    "tags": [
+      "storytelling"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/wallstats-energy.jpg",
     "outline": false
   },
@@ -6014,12 +6367,14 @@
   },
   {
     "slug": "new-site-features",
-    "archived": false,
+    "archived": true,
     "comments": 2,
     "title": "New CMS, Users, More Coming",
     "description": "This website just got a facelift and a few new features. I transitioned it to Drupal 6, and in the process redid the theme from scratch. While the changes are not huge, it does look a bit more modern. There are also a few new features to facilitate commenting and discussion.",
     "date": "2008-07-14T15:21:21",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": null
   },
   {
@@ -6031,7 +6386,8 @@
     "date": "2008-06-08T20:07:25",
     "tags": [
       "book-reviews",
-      "criticism"
+      "criticism",
+      "attention"
     ],
     "featuredImage": null
   },
@@ -6054,7 +6410,8 @@
     "description": "A paper on visualization criticism just appeared in the Visualization Viewpoints section of this month's Computer Graphics and Applications (CG&amp;A). Authors are yours truly, Fritz Drury, Lars Erik Holmquist, and David Laidlaw.",
     "date": "2008-05-01T21:48:11",
     "tags": [
-      "paper"
+      "paper",
+      "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2008/VVP-Criticism.png",
     "outline": false
@@ -6066,7 +6423,9 @@
     "title": "Visualization Day at City College of New York",
     "description": "The City College of New York will be hosting a visualization day on April 30, with a very interesting line-up of speakers: Ben Shneiderman (who is also listed as a sponsor), Matthew Ericson (NY Times), Catherine Plaisant (University of Maryland), Martin Wattenberg (IBM/Many Eyes), and others.",
     "date": "2008-04-21T22:06:24",
-    "tags": [],
+    "tags": [
+      "conference"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -6089,7 +6448,9 @@
     "title": "Visualization in the World",
     "description": "On April 24 and 25, the Charlotte Visualization Center at UNC Charlotte will host its second symposium, titled Visualization in the World. We have an impressive line-up of speakers and are expecting fascinating discussions.",
     "date": "2008-04-11T14:59:01",
-    "tags": [],
+    "tags": [
+      "conference"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -6121,7 +6482,9 @@
     "title": "Expressive Visualization, Updated Presidents Chart",
     "description": "I used the Presidential Demographics chart in my talk at the Impact of Social Data Visualization panel at InfoVis 2007, and got some interesting responses to that. There is some interest in printing this out, so I have made a new version of the chart that is now also available as a PDF. Stephen Few used Joseph Berk's term \"interocular traumatic impact\" &ndash; a visualization that hits you between the eyes &ndash; to describe it. And this is exactly what visualization can do extremely effectively: visual communication, and not just of data.",
     "date": "2007-11-30T00:29:17",
-    "tags": [],
+    "tags": [
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
     "outline": false
   },
@@ -6133,7 +6496,7 @@
     "description": "The InfoVis conference this year had a theme that was not planned, but that made it even more impressive. That theme was InfoVis for the Masses, or Visualization for the People, and it was present throughout the keynote, many paper presentations, the panel, the World Visualization Day BOF, and the capstone. This is the beginning of a new era in visualization, and it is exciting to watch it happen.",
     "date": "2007-11-24T22:35:39",
     "tags": [
-      "conference"
+      "ieeevis"
     ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg"
   },
@@ -6156,7 +6519,8 @@
     "description": "Visualization for the masses is a powerful means of communication, in an age where we have access to incredible amounts of data, but still little understanding based of what it all means. I have argued that visualization sets information free, I have criticized Swivel and Many-Eyes, and I have argued for reassessing who our users are. At Vis/InfoVis, I am organizing a panel with people from Many-Eyes, Swivel, and Gapminder.",
     "date": "2007-10-18T08:02:58",
     "tags": [
-      "conference"
+      "conference",
+      "ieeevis"
     ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png",
     "outline": false
@@ -6224,7 +6588,9 @@
     "title": "The Summer Lull is Officially Over!",
     "description": "This summer has been a busy one for me and a rather inactive one for EagerEyes. But it is almost over now, and even though things are not getting quieter (quite the opposite with the semester starting), this site will see regular updates (at least once a week) again.",
     "date": "2007-08-26T18:06:16",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -6297,7 +6663,9 @@
     "title": "Critiquing in Class Revisited",
     "description": "Another semester is ending, and another class being taught using criticism as a main component is winding down. This time, I had a good mix of computer science, design, architecture, and liberal studies students. All the comments I received regarding the critiques were very positive, and the students' progress in their visualization designs reinforces those.",
     "date": "2007-05-02T22:47:20",
-    "tags": [],
+    "tags": [
+      "criticism"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -6308,7 +6676,9 @@
     "title": "Death and Taxes",
     "description": "With Tax Day (Observed) in the US tomorrow on Tuesday (even the IRS gets confused), I felt like a link to Death and Taxes: A Visual Guide to Where Your Federal Tax Dollars Go would be in order. This beautiful information graphic breaks spending down into all the 'small' things that tax money is spent on, from the FCC to the Army Corps of Engineers. A zoomable interface similar to Google Maps makes it possible to explore this huge graph. As Terry Yoo  likes to say, the government's a big place! - and this graph gives you an idea just how much there is.",
     "date": "2007-04-15T20:48:09",
-    "tags": [],
+    "tags": [
+      "journalism"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg",
     "outline": false
   },
@@ -6343,7 +6713,9 @@
     "title": "InfoVis Contest 2007 Data",
     "description": "Like in the last few years, the InfoVis Conference 2007  is holding a data visualization contest. While the data is available late this year, we hope that by providing it in a very accessible format (XML), and also supplying program code to get  you started (at least if you&#39;re using Java), we will attract more submissions. The focus is also more on the design than the data analysis this year, and the questions are much more open-ended (in fact, you can make up your own!).",
     "date": "2007-03-07T16:24:40",
-    "tags": [],
+    "tags": [
+      "ieeevis"
+    ],
     "featuredImage": null
   },
   {
@@ -6403,7 +6775,9 @@
     "title": "What Travelling Presidential Candidates Save",
     "description": "An anonymous commenter asked  what the savings were of the Travelling Presidential Candidate Map (ZIPTPCMap)  vs. the ZIPScribbleMap. That was not something I had even thought about, and so the result was quite surprising.",
     "date": "2007-02-08T00:50:15",
-    "tags": [],
+    "tags": [
+      "zipscribble"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png",
     "outline": false
   },
@@ -6414,7 +6788,9 @@
     "title": "An Uncanny Resemblance",
     "description": "A user in a thread on MetaFilter  that linked to the US ZIPScribble Map pointed to a drawing that has an uncanny resemblance to the map: Saul Steinberg&#39;s Hen. The bloggy thing of course would have been to just take the image from somewhere and put it next to the map to show it. Instead, I asked for permission. You can probably guess how well that worked.",
     "date": "2007-01-21T18:56:10",
-    "tags": [],
+    "tags": [
+      "zipscribble"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -6425,7 +6801,9 @@
     "title": "Presidential Demographics",
     "description": "With Hillary Clinton and Barack Obama being likely Democratic candidates for the 2008 presidential elections, it is time to look at the demographics of US Presidents over the years. The following diagrams compare their sex, race, and faith with the whole population in 2001.",
     "date": "2007-01-16T23:24:04",
-    "tags": [],
+    "tags": [
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
     "outline": false
   },
@@ -6436,7 +6814,9 @@
     "title": "More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE",
     "description": "The family of ZIPScribble Maps is growing. This update adds maps for a dozen countries, most of them European.",
     "date": "2007-01-07T21:42:57",
-    "tags": [],
+    "tags": [
+      "zipscribble"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg",
     "outline": false
   },
@@ -6447,7 +6827,9 @@
     "title": "Improved US ZIPScribble Maps, more Countries to Come",
     "description": "The ZIPScribble Maps of the US  obviously hit a nerve, with over 55,000 unique visitors in about two weeks, and more than 70 comments. There was also some criticism, especially regarding some slight problems with coloring the states, and that some of the dividing lines were not, in fact, state lines (and that it was not easy to compare them to state lines). For reasons of convenience, I had also left out Alaska and Hawaii, and there were requests for similar maps for more countries. The US maps have just been updated to solve almost all of the above problems (except for AK and HI, which are included in separate maps for now), and ZIPScribbles for several other countries will be published in the next few days. An interactive version is also in the works.",
     "date": "2007-01-03T23:21:35",
-    "tags": [],
+    "tags": [
+      "zipscribble"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -6484,7 +6866,9 @@
     "title": "Information vs. Art at MCA Chicago",
     "description": "The Museum of Contemporary Art  (MCA) in Chicago currently has an exhibit titled Massive Change: The Future of Global Design  (Sep 16 to Dec 31, 2006), which talks about the use of resources, and shows efficient designs for cars, buildings that produce more energy than they consume, etc. The problem: it&#39;s not art. While the exhibit is certainly informative and important, it does not fit into an art museum.",
     "date": "2006-12-26T23:18:19",
-    "tags": [],
+    "tags": [
+      "link"
+    ],
     "featuredImage": null,
     "outline": false
   },
@@ -6495,7 +6879,10 @@
     "title": "The Travelling Presidential Candidate Map",
     "description": "While working on the ZIPScribble map, I started to wonder how to untangle the beautifully scribbly lines, and finding the shortest path through all ZIP codes. In computer science, this is called the Travelling Salesman Problem (TSP), and so I decided to make this the Travelling Presidential Candidate Map.",
     "date": "2006-12-04T09:38:26",
-    "tags": [],
+    "tags": [
+      "zipscribble",
+      "applications"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png",
     "outline": false
   },
@@ -6567,7 +6954,8 @@
     "description": "Pie charts are a ubiquitous way of showing percentages. But while we can see differences in angles quite well, reading the meaning of the difference is another matter, so for precise data, we still need the numbers. A little known variant of pie charts is not round, but square, and can be read with an accuracy of one percent. We will look at data on women in information technology using this method.",
     "date": "2006-10-14T22:41:40",
     "tags": [
-      "techniques"
+      "techniques",
+      "pie-charts"
     ],
     "featuredImage": null,
     "outline": false
@@ -6629,7 +7017,9 @@
     "title": "Taking Visualization to the Next Level",
     "description": "Visualization is the visual communication of information - at least the way the term is understood in computer science. But in many ways, visualization is today mostly technical, empirical, and there is practically no theoretical foundation for what we are doing. There are also obvious connections with psychology, design, art, aesthetics, etc. This website tries to pull them all together and start making connections to push visualization to the next level.",
     "date": "2006-10-01T21:44:58",
-    "tags": [],
+    "tags": [
+      "meta"
+    ],
     "featuredImage": null,
     "outline": false
   }
