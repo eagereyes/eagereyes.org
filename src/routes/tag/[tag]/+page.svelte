@@ -25,6 +25,7 @@
             sortedTags={data.sortedTags}
             tagCounts={data.tagCounts}
             defaultTab="tags"
+            currentTag={data.tag}
         />
     </aside>
 </div>

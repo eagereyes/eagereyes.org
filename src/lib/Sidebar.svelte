@@ -9,9 +9,10 @@
         tagCounts: Record<string, number>;
         defaultTab?: 'years' | 'tags';
         currentYear?: string;
+        currentTag?: string;
     }
 
-    let { years, yearCounts, sortedTags, tagCounts, defaultTab = 'years', currentYear }: Props = $props();
+    let { years, yearCounts, sortedTags, tagCounts, defaultTab = 'years', currentYear, currentTag }: Props = $props();
     // svelte-ignore state_referenced_locally
     let activeTab = $state(defaultTab);
     $effect(() => { const tab = defaultTab; untrack(() => { activeTab = tab; }); });
@@ -32,7 +33,7 @@
 {:else}
     <nav class="tag-nav">
         {#each alphabeticalTags as tag}
-            <a href="/tag/{tag}">{tagNames[tag] ?? tag} <span class="count">({tagCounts[tag]})</span></a>
+            <a href="/tag/{tag}" class:current={tag === currentTag}>{tagNames[tag] ?? tag} <span class="count">({tagCounts[tag]})</span></a>
         {/each}
     </nav>
 {/if}
@@ -89,7 +90,8 @@
 
     .year-nav a:hover,
     .year-nav a.current,
-    .tag-nav a:hover {
+    .tag-nav a:hover,
+    .tag-nav a.current {
         background: color-mix(in srgb, var(--color-theme-1) 12%, transparent);
         color: var(--color-theme-1);
     }
