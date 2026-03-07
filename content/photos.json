@@ -1,0 +1,44 @@
+[
+    {
+        "slug": "2024-iceland",
+        "title": "Iceland 2024",
+        "description": "A trip through Iceland's dramatic volcanic landscape, from geysers and waterfalls to black sand beaches and lava fields.",
+        "featuredImage": "https://media.eagereyes.org/photos/2024-iceland/featured.jpg",
+        "date": "2024-08-15",
+        "photos": [
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-iceland/001.jpg", "alt": "Geyser erupting at Geysir" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-iceland/002.jpg", "alt": "Black sand beach at Reynisfjara" },
+                { "src": "https://media.eagereyes.org/photos/2024-iceland/003.jpg", "alt": "Sea stacks at Reynisfjara" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-iceland/004.jpg", "alt": "Seljalandsfoss waterfall" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-iceland/005.jpg", "alt": "Lupine fields in bloom" },
+                { "src": "https://media.eagereyes.org/photos/2024-iceland/006.jpg", "alt": "Moss-covered lava field" }
+            ]
+        ]
+    },
+    {
+        "slug": "2023-portland",
+        "title": "Portland 2023",
+        "description": "Scenes from a visit to Portland, Oregon – the city, its parks, and the surrounding Columbia River Gorge.",
+        "featuredImage": "https://media.eagereyes.org/photos/2023-portland/featured.jpg",
+        "date": "2023-09-10",
+        "photos": [
+            [
+                { "src": "https://media.eagereyes.org/photos/2023-portland/001.jpg", "alt": "View from the Pittock Mansion" },
+                { "src": "https://media.eagereyes.org/photos/2023-portland/002.jpg", "alt": "Powell's Books storefront" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2023-portland/003.jpg", "alt": "Multnomah Falls" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2023-portland/004.jpg", "alt": "Columbia River Gorge panorama" }
+            ]
+        ]
+    }
+]
