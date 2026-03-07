@@ -1,5 +1,5 @@
 ---
-description: About this site and its author, Robert Kosara. Also how to contact Robert, content license, and legal disclaimer.
+description: About this site and its author, Robert Kosara. Also how to contact Robert, how to subscribe, content license, and legal disclaimer.
 ---
 
 # About EagerEyes
@@ -10,7 +10,7 @@ EagerEyes is my (Robert Kosara)’s place to reflect on the world of information
 
 This is really a personal blog, even though I always wanted to make sure that the posts have lasting value. There is a relatively small number of posts with a limited shelf life (which are now archived, see below), but the majority should be as relevant as on the day they were published – even if that's 10, 15, or 20 years ago.
 
-The site has gone through a number of reorganizations and platform changes. In the most recent one (March 2026), I marked a posts that seem outdated as archived. They are still on the site, but they are hidden by default in lists. They can be shown with a button at the top of the list (they also show up in searches).
+EagerEyes has gone through a number of reorganizations and platform changes. In the most recent one (March 2026), I marked a posts that seem outdated as archived. They are still on the site, but they are hidden by default in lists. They can be shown with a button at the top of the list (they also show up in searches).
 
 The site allowed comments until early 2020, but they were turned off with the switch to a static site generator. The world has also shifted dramatically from the early 2000s and 2010s, when people would comment on blog posts. Old comments are preserved, but new ones can't be added for the time being (and likely never will be again).
 
