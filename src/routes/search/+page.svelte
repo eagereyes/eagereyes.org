@@ -100,6 +100,7 @@
 <style>
 	.search-page {
 		max-width: 48rem;
+		margin: 0 auto;
 	}
 
 	input[type='search'] {

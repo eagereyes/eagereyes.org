@@ -160,6 +160,12 @@
         margin-bottom: 0;
     }
 
+    @media (max-width: 600px) {
+        .post-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+
     .blog-layout {
         display: flex;
         gap: 2rem;

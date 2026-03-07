@@ -47,4 +47,10 @@
     .video-grid :global(.video-card) {
         margin-bottom: 0;
     }
+
+    @media (max-width: 600px) {
+        .video-grid {
+            grid-template-columns: 1fr;
+        }
+    }
 </style>

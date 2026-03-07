@@ -59,4 +59,10 @@
     .post-grid :global(.post-card) {
         margin-bottom: 0;
     }
+
+    @media (max-width: 600px) {
+        .post-grid {
+            grid-template-columns: 1fr;
+        }
+    }
 </style>

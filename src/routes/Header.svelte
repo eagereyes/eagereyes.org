@@ -45,6 +45,7 @@
 		width: 100%;
 		margin: 0 auto;
 		padding: 0.75rem 1rem;
+		box-sizing: border-box;
 	}
 
 	.corner {
@@ -74,6 +75,7 @@
 
 	.search-corner input[type='search'] {
 		width: 100%;
+		box-sizing: border-box;
 		padding: 0.3rem 0.6rem;
 		font-size: 0.8rem;
 		border: 1px solid var(--color-border);
@@ -128,5 +130,35 @@
 	li[aria-current='page'] a {
 		color: var(--color-theme-1);
 		background-color: color-mix(in srgb, var(--color-theme-1) 12%, transparent);
+	}
+
+	@media (max-width: 600px) {
+		header {
+			flex-direction: column;
+			align-items: stretch;
+			gap: 0.5rem;
+			padding: 0.75rem 1rem 0.5rem;
+		}
+
+		.corner {
+			width: auto;
+			display: flex;
+			justify-content: center;
+		}
+
+		.corner img.logo {
+			padding-left: 0;
+			width: 10em;
+		}
+
+		ul {
+			justify-content: center;
+			flex-wrap: wrap;
+		}
+
+		.search-corner {
+			width: auto;
+			justify-content: center;
+		}
 	}
 </style>
