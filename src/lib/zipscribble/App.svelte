@@ -48,7 +48,8 @@
 
 	onMount(async () => {
 
-		window.onresize = resized;
+		const observer = new ResizeObserver(() => resized());
+		if (svgElement) observer.observe(svgElement);
 
 		csv(ZIPSFILENAME).then(zips => {
 
@@ -159,12 +160,11 @@
 	let svgElement = $state();
 	function resized() {
 		if (svgElement) {
-			SVGWIDTH = svgElement.width.baseVal.value;
-			SVGHEIGHT = svgElement.height.baseVal.value;
+			const rect = svgElement.getBoundingClientRect();
+			SVGWIDTH = rect.width;
+			SVGHEIGHT = rect.height;
 		}
 	}
-
-	$effect(resized);
 
 </script>
 
