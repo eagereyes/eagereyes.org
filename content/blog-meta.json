@@ -1,5 +1,17 @@
 [
   {
+    "slug": "a-sign-of-life-2026",
+    "archived": false,
+    "comments": 0,
+    "title": "A Sign of Life in 2026!",
+    "description": "I've rebuilt this site, and am in the process of building new features and content. In particular, there's now an interactive version of the ZIPScribble Map. Learn more about how the new site was built, and stay tuned for more.",
+    "date": "2026-03-07T11:54:23",
+    "tags": [
+      "meta"
+    ],
+    "featuredImage": "https://media.eagereyes.org/media/2026/curious-chipmunk.jpg"
+  },
+  {
     "slug": "paper-business-data-vis-beyond-boring",
     "archived": false,
     "comments": 0,
@@ -9,8 +21,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png"
   },
   {
     "slug": "nytimes-web-flash-player",
@@ -22,8 +33,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png"
   },
   {
     "slug": "rainbow-colormaps-are-not-all-bad-paper",
@@ -35,8 +45,7 @@
     "tags": [
       "basics"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/07/rainbow-comparison.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/07/rainbow-comparison.jpeg"
   },
   {
     "slug": "paper-notebooks-for-data-analysis-and-visualization",
@@ -48,8 +57,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png"
   },
   {
     "slug": "course-on-data-vis-fundamentals-and-best-practices",
@@ -59,8 +67,7 @@
     "description": "I'm teaching a short course on data visualization for Observable. It's free, and you should join! Starts March 7.",
     "date": "2023-02-23T08:02:34",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/02/vis-course-thumb.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/02/vis-course-thumb.png"
   },
   {
     "slug": "new-video-exploring-the-connections-between-companies-with-they-rule",
@@ -72,8 +79,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/02/they-rule-thumb-4x3-1.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2023/02/they-rule-thumb-4x3-1.jpeg"
   },
   {
     "slug": "site-changes-coming-how-to-follow-sites-and-where-ive-been",
@@ -95,8 +101,7 @@
     "description": "Of the several AI-powered systems that can create images from text prompts, MidJourney is the most easily accessible one right now. I've had some fun playing with it.",
     "date": "2022-06-28T21:16:12",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/06/midjourney-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/06/midjourney-teaser.jpg"
   },
   {
     "slug": "new-video-gauges-for-data-visualization-the-ny-times-election-needle-and-circular-bar-charts",
@@ -108,8 +113,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/05/Gauges-Thumbnail-4x3-1.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/05/Gauges-Thumbnail-4x3-1.jpeg"
   },
   {
     "slug": "watch-my-outlier-talk-this-should-have-been-a-bar-chart",
@@ -121,8 +125,7 @@
     "tags": [
       "talk"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png"
   },
   {
     "slug": "paper-more-than-meets-the-eye-a-closer-look-at-encodings-in-visualization",
@@ -134,8 +137,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png"
   },
   {
     "slug": "the-possible-stratagem-behind-the-biden-bar",
@@ -158,8 +160,7 @@
       "criticism",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/01/spirals-overlaid.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/01/spirals-overlaid.png"
   },
   {
     "slug": "new-video-the-science-of-pie-charts",
@@ -172,8 +173,7 @@
       "pie-charts",
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/11/Thumbnail-4x3-1.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/11/Thumbnail-4x3-1.jpeg"
   },
   {
     "slug": "paper-from-jam-session-to-recital-synchronous-communication-and-collaboration-around-data-in-organizations",
@@ -209,8 +209,7 @@
     "tags": [
       "pie-charts"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-thumb.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/09/california-wildfires-thumb.jpeg"
   },
   {
     "slug": "new-video-chart-appreciation-iraqs-bloody-toll-by-simon-scarr",
@@ -224,8 +223,7 @@
       "storytelling",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/07/Iraq-Thumbnail-Blog.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/07/Iraq-Thumbnail-Blog.jpg"
   },
   {
     "slug": "when-the-wrong-chart-is-the-right-choice",
@@ -247,8 +245,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/06/LvQ-Thumbnail.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/06/LvQ-Thumbnail.jpeg"
   },
   {
     "slug": "new-video-florence-nightingales-famous-rose-chart-aka-coxcomb",
@@ -260,8 +257,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/05/Nightingale-Thumbnail.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/05/Nightingale-Thumbnail.jpeg"
   },
   {
     "slug": "new-video-chart-appreciation-black-vs-white-boys-and-the-punishing-reach-of-racism",
@@ -275,8 +271,7 @@
       "storytelling",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/04/Black-and-White-Boys-Thumb.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/04/Black-and-White-Boys-Thumb.jpeg"
   },
   {
     "slug": "the-dearth-of-videos-about-visualization",
@@ -299,8 +294,7 @@
       "eagereyestv",
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/03/Minard-Thumbnail-3.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/03/Minard-Thumbnail-3.jpg"
   },
   {
     "slug": "felix-auerbach-die-graphische-darstellung-graphical-representation-1914",
@@ -324,8 +318,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/12/10-Counting-In-Teaser-Thumb-blog.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/12/10-Counting-In-Teaser-Thumb-blog.jpg"
   },
   {
     "slug": "eagereyestv-chart-appreciation-whats-really-warming-the-world",
@@ -339,8 +332,7 @@
       "storytelling",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/12/WRWTW-Thumbnail.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/12/WRWTW-Thumbnail.jpeg"
   },
   {
     "slug": "all-line-charts-are-wrong-but-some-are-useful",
@@ -362,8 +354,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/11/index-Charts-2-Thumbnail.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/11/index-Charts-2-Thumbnail.jpeg"
   },
   {
     "slug": "eagereyestv-index-charts-part-1-making-time-series-data-comparable",
@@ -375,8 +366,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/10/Index-Charts-1-Thumbnail.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/10/Index-Charts-1-Thumbnail.jpeg"
   },
   {
     "slug": "more-things-to-do-at-vis-beliv-vislies-social-media-meetup-etc",
@@ -425,8 +415,7 @@
       "eagereyestv",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/09/driving-safety-thumbnail.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/09/driving-safety-thumbnail.png"
   },
   {
     "slug": "prior-work-we-missed-in-our-connected-scatterplots-paper",
@@ -463,8 +452,7 @@
       "ieeevis",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/06/DSC_0212b.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/06/DSC_0212b.jpg"
   },
   {
     "slug": "in-praise-of-the-diagonal-reference-line",
@@ -476,8 +464,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/03/ft-covid-19-deaths.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/03/ft-covid-19-deaths.png"
   },
   {
     "slug": "the-visual-evolution-of-the-flattening-the-curve-information-graphic",
@@ -499,8 +486,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/12/4CC1DFDA-BF8A-4D11-9D4B-D2EEBAFFD15E.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/12/4CC1DFDA-BF8A-4D11-9D4B-D2EEBAFFD15E.jpeg"
   },
   {
     "slug": "isotype-book-young-prager-theres-work-for-all",
@@ -524,8 +510,7 @@
     "tags": [
       "book-review"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg"
   },
   {
     "slug": "eagereyestv-what-is-data-part-1-file-formats-and-intent",
@@ -537,8 +522,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/Snapshot-06-11-2019-0801.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/Snapshot-06-11-2019-0801.jpg"
   },
   {
     "slug": "prolific-the-much-better-mechnical-turk-alternative",
@@ -548,8 +532,7 @@
     "description": "Prolific is a crowd-sourcing platform for running studies. In contrast to the widely-used Mechanical Turk, it’s specific to studies, has a much better interface, pricing that’s fair to participants, and useful filters to find the right people for your study.",
     "date": "2019-11-04T23:17:08",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/prolific-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/prolific-teaser.png"
   },
   {
     "slug": "eagereyestv-episode-3-3d-pie-charts-for-science",
@@ -562,8 +545,7 @@
       "pie-charts",
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/1D2A409C-A98E-4D91-84BF-3FBF9B0DC4BA.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/1D2A409C-A98E-4D91-84BF-3FBF9B0DC4BA.jpeg"
   },
   {
     "slug": "paper-evidence-for-area-as-the-primary-visual-cue-in-pie-charts",
@@ -576,8 +558,7 @@
       "paper",
       "pie-charts"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VISShort-2019.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VISShort-2019.png"
   },
   {
     "slug": "eagereyestv-episode-2-unit-charts-dot-plots-and-isotype-and-what-makes-them-special",
@@ -590,8 +571,7 @@
       "eagereyestv",
       "isotype"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/DB09B0B1-D06E-4182-8BA4-AE9DA9FC9810.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/DB09B0B1-D06E-4182-8BA4-AE9DA9FC9810.jpeg"
   },
   {
     "slug": "xiii",
@@ -603,8 +583,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/number-437931_1920.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/10/number-437931_1920.jpg"
   },
   {
     "slug": "data-intent-and-primary-interpretation",
@@ -614,8 +593,7 @@
     "description": "Take a JPEG image file and a CSV file. Which of these two is data? Is one of them more obviously data than the other? I think the key difference is the intent behind the data and its primary interpretation.",
     "date": "2019-09-26T19:56:31",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/09/data-rows.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/09/data-rows.jpg"
   },
   {
     "slug": "introducing-eagereyestv-my-new-youtube-channel",
@@ -627,8 +605,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg"
   },
   {
     "slug": "eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt",
@@ -640,8 +617,7 @@
     "tags": [
       "eagereyestv"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV-DataSaurus.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV-DataSaurus.jpg"
   },
   {
     "slug": "highlights-from-eurovis-2019-part-2",
@@ -690,8 +666,7 @@
       "ieeevis",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg"
   },
   {
     "slug": "two-short-papers-on-part-to-whole-charts-at-eurovis",
@@ -704,8 +679,7 @@
       "paper",
       "pie-charts"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png"
   },
   {
     "slug": "critiquing-and-redesigning",
@@ -718,8 +692,7 @@
       "criticism",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png"
   },
   {
     "slug": "the-trustvis-workshop-at-eurovis",
@@ -731,8 +704,7 @@
     "tags": [
       "eurovis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg"
   },
   {
     "slug": "maarten-lambrechts-list-of-2018-visualization-lists",
@@ -745,8 +717,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/01/image.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/01/image.png"
   },
   {
     "slug": "new-vis-research-blog-multiple-views",
@@ -758,8 +729,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png"
   },
   {
     "slug": "tapestry-2018-program-call-for-demos",
@@ -771,8 +741,7 @@
     "tags": [
       "tapestry"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png"
   },
   {
     "slug": "ieee-vis-2018-storytelling-meet-the-founders-perception-and-cognition",
@@ -823,8 +792,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg"
   },
   {
     "slug": "tapestry-2018-details-and-keynote-speakers",
@@ -886,8 +854,7 @@
     "description": "Jason Dykes is professor at City University London, where he also co-leads the giCentre. He straddles the line between cartography and visualization, publishing in both communities and combining ideas from both – which have led to crossover ideas like spatially-ordered treemaps and map lineups.",
     "date": "2018-05-24T07:13:55",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/05/jason-dykes.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/05/jason-dykes.jpg"
   },
   {
     "slug": "visualization-five-alternate-histories",
@@ -931,8 +898,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/eagereyes.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/eagereyes.png"
   },
   {
     "slug": "eurorvvv-call-for-papers",
@@ -944,8 +910,7 @@
     "tags": [
       "eurovis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png"
   },
   {
     "slug": "a-smart-take-on-election-maps",
@@ -957,8 +922,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/2016_election_map_2x.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/2016_election_map_2x.png"
   },
   {
     "slug": "speaking-how-to-use-a-microphone",
@@ -968,8 +932,7 @@
     "description": "When you’re speaking in front of an audience, you’re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can’t do that if you don’t know how to use it or if you actively work against it.",
     "date": "2017-11-09T14:57:59",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg"
   },
   {
     "slug": "october-2017",
@@ -993,8 +956,7 @@
     "tags": [
       "isotype"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/10/isotype-only-an-ocean-10.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/10/isotype-only-an-ocean-10.jpg"
   },
   {
     "slug": "danielle-albers-szafir",
@@ -1004,8 +966,7 @@
     "description": "Danielle Albers Szafir received the Best Paper award for her single-author paper, Modeling Color Difference for Visualization Design at InfoVis this year. She is assistant professor at University of Colorado Boulder and runs the CU VisuaLab there.",
     "date": "2017-10-18T06:17:16",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg"
   },
   {
     "slug": "ieee-vis-2017-a-scivis-perspective",
@@ -1018,8 +979,7 @@
       "conference",
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg"
   },
   {
     "slug": "ieee-vis-2017-machine-learning-diversity-parties",
@@ -1106,8 +1066,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg"
   },
   {
     "slug": "review-putting-stories-to-work-and-out-on-the-wire",
@@ -1132,8 +1091,7 @@
     "tags": [
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/policyviz-storytelling.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/policyviz-storytelling.jpg"
   },
   {
     "slug": "communicating-uncertainty-when-lives-are-on-the-line",
@@ -1230,8 +1188,7 @@
       "storytelling",
       "eurovis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Kosara-EuroVis-2017.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Kosara-EuroVis-2017.jpg"
   },
   {
     "slug": "paper-readability-and-precision-in-pictorial-bar-charts",
@@ -1244,8 +1201,7 @@
       "paper",
       "eurovis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Skau-EuroVis-2017.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Skau-EuroVis-2017.jpg"
   },
   {
     "slug": "paper-finding-a-clear-path-structuring-strategies-for-visualization-sequences",
@@ -1259,8 +1215,7 @@
       "paper",
       "eurovis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg"
   },
   {
     "slug": "infovis-papers-at-chi-2017",
@@ -1317,8 +1272,7 @@
     "tags": [
       "talk"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/04/uw-talk.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/04/uw-talk.png"
   },
   {
     "slug": "isotype-book-priestley-british-women-go-to-war",
@@ -1364,8 +1318,7 @@
     "description": "I'm giving a public lecture next Tuesday, February 21, at the University of Washington (UW). This is at the invitation of Professor Karen Cheng at the School of Art + Art History + Design. I will talk about what we know and what we don't know about visualization, and how we can expand our knowledge.",
     "date": "2017-02-15T07:17:35",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png"
   },
   {
     "slug": "hans-rosling-an-appreciation",
@@ -1385,8 +1338,7 @@
     "description": "Enrico and Moritz, the two hosts of the only visualization podcast in the known universe, are trying to crowd-fund their work rather than rely on advertising. If we all chip in a few dollars or euros per show, this will be easy to accomplish.",
     "date": "2017-01-25T07:17:00",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg"
   },
   {
     "slug": "the-state-of-information-visualization-2017",
@@ -1423,8 +1375,7 @@
     "tags": [
       "isotype"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg"
   },
   {
     "slug": "posters-program-for-tapestry-2017",
@@ -1449,8 +1400,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2017.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2017.jpg"
   },
   {
     "slug": "the-dumbest-user-interface-of-2016",
@@ -1462,8 +1412,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg"
   },
   {
     "slug": "when-rankings-are-just-data-porn",
@@ -1475,8 +1424,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg"
   },
   {
     "slug": "the-eagereyes-holiday-shopping-guide",
@@ -1499,8 +1447,7 @@
       "book-review",
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg"
   },
   {
     "slug": "the-problem-with-vis-taxonomies",
@@ -1520,8 +1467,7 @@
     "description": "RJ Andrews has created a great little video about the National Parks in the U.S. Have you ever thought about how the different parks compare? Which one is wider, which one is deeper, which one's at higher or lower elevation?",
     "date": "2016-11-20T21:34:54",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-the-Parks-by-RJ-Andrews_10.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-the-Parks-by-RJ-Andrews_10.jpeg"
   },
   {
     "slug": "dealing-with-paper-rejections",
@@ -1543,8 +1489,7 @@
     "description": "Jon Schwabish and Severino Ribecca have turned their Graphic Continuum poster into a set of cards. They're a good way to expand your visual vocabulary and find new ideas for how to represent your data.",
     "date": "2016-11-09T07:17:42",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-cards.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-cards.jpg"
   },
   {
     "slug": "ten-great-talks-at-information-2016",
@@ -1568,8 +1513,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/ElectoralCollege2012-filled.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/ElectoralCollege2012-filled.png"
   },
   {
     "slug": "vis-2016-thursday-friday-empirical-methods-better-presentations",
@@ -1643,8 +1587,7 @@
     "tags": [
       "pie-charts"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/treepie2.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/treepie2.jpg"
   },
   {
     "slug": "ieee-vis-pointers-and-vis-running",
@@ -1668,8 +1611,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg"
   },
   {
     "slug": "the-winding-path-of-data-analysis",
@@ -1679,8 +1621,7 @@
     "description": "Data analysis is not a straight-forward process: you try out lots of things, you go down a path that seems promising but then turns out to not work out, and suddenly you hit upon the thing you were looking for.",
     "date": "2016-10-03T19:17:55",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/it_is_obvious.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/10/it_is_obvious.png"
   },
   {
     "slug": "a-decade-of-eagereyes",
@@ -1692,8 +1633,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png"
   },
   {
     "slug": "the-eagereyes-origin-story",
@@ -1765,8 +1705,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg"
   },
   {
     "slug": "pie-charts-unloved-unstudied-and-misunderstood",
@@ -1779,8 +1718,7 @@
       "pie-charts",
       "talk"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png"
   },
   {
     "slug": "tapestry-2017-st-augustine-fl-on-march-1st",
@@ -1802,8 +1740,7 @@
     "description": "So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form of charts. Rather than, you know, the other way around. Feast your eyes on delicious-looking chart pies!",
     "date": "2016-09-15T21:00:47",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg"
   },
   {
     "slug": "xkcds-earth-temperature-timeline",
@@ -1815,8 +1752,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/xkcd-temperature.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/xkcd-temperature.png"
   },
   {
     "slug": "review-lupi-posavec-dear-data",
@@ -1828,8 +1764,7 @@
     "tags": [
       "book-review"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg"
   },
   {
     "slug": "jerome-cukiers-series-on-visualization-with-react",
@@ -1841,8 +1776,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/react-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/react-teaser.png"
   },
   {
     "slug": "nassi-shneiderman-diagrams",
@@ -1854,8 +1788,7 @@
     "tags": [
       "technique"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/nassi-shneiderman-diagram.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/nassi-shneiderman-diagram.jpg"
   },
   {
     "slug": "stacked-bars-are-the-worst",
@@ -1901,8 +1834,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/owid-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/owid-teaser.png"
   },
   {
     "slug": "the-bits-are-rotting-in-the-state-of-data-journalism",
@@ -1914,8 +1846,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png"
   },
   {
     "slug": "a-reanalysis-of-a-study-about-square-pie-charts-from-2009",
@@ -1940,8 +1871,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/07/chalabi-teaser2.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/07/chalabi-teaser2.jpg"
   },
   {
     "slug": "new-improved-traveling-presidential-candidate-map",
@@ -1954,8 +1884,7 @@
       "zipscribble",
       "application"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png"
   },
   {
     "slug": "the-cafe-wall-illusion-in-a-bar-chart",
@@ -1967,8 +1896,7 @@
     "tags": [
       "perception"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png"
   },
   {
     "slug": "an-illustrated-tour-of-the-pie-chart-study-results",
@@ -2092,8 +2020,7 @@
     "tags": [
       "book-review"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg"
   },
   {
     "slug": "mturk-ids-are-not-anonymous",
@@ -2105,8 +2032,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png"
   },
   {
     "slug": "3d-bar-charts-considered-not-that-harmful",
@@ -2131,8 +2057,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg"
   },
   {
     "slug": "spreadsheet-thinking-vs-database-thinking",
@@ -2166,8 +2091,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/04/20160316-cholera-graphic-630.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/04/20160316-cholera-graphic-630.jpg"
   },
   {
     "slug": "the-two-paper-package",
@@ -2216,8 +2140,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/02/yearingraphics2015.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/02/yearingraphics2015.png"
   },
   {
     "slug": "tamara-munzner-has-a-blog",
@@ -2229,8 +2152,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/TamaraMunzner.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/TamaraMunzner.jpg"
   },
   {
     "slug": "presentation-oriented-visualization-techniques",
@@ -2243,8 +2165,7 @@
       "paper",
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg"
   },
   {
     "slug": "what-happened-in-vis-in-2015-year-review-episode-of-data-stories",
@@ -2256,8 +2177,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/12/ds65-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/12/ds65-teaser.jpg"
   },
   {
     "slug": "memorability-science-and-the-value-of-thinking-outside-the-box",
@@ -2283,8 +2203,7 @@
       "tapestry",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/12/tapestry-youtube.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/12/tapestry-youtube.jpg"
   },
   {
     "slug": "review-munroes-thing-explainer-and-pinkers-sense-of-style",
@@ -2308,8 +2227,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg"
   },
   {
     "slug": "the-nips-experiment",
@@ -2321,8 +2239,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/nips-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/nips-teaser.png"
   },
   {
     "slug": "tapestry-2016-open-for-applications",
@@ -2347,8 +2264,7 @@
       "ieeevis",
       "peer-review"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png"
   },
   {
     "slug": "vis-2015-friday",
@@ -2414,8 +2330,7 @@
       "journalism",
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/avian-flu-wsj.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/avian-flu-wsj.jpg"
   },
   {
     "slug": "tableau-papers-at-ieee-vis-2015",
@@ -2438,8 +2353,7 @@
     "description": "Tableau today released a new visualization tool for iPad, called Vizable. This is a completely new app built specifically for exploring data using touch. It is based on a new approach to visual analysis that focuses on the data and task, rather than providing a chart toolbox.",
     "date": "2015-10-20T09:34:13",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/vizable-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/vizable-teaser.jpg"
   },
   {
     "slug": "trifacta-wrangler-for-cleaning-and-reshaping-data",
@@ -2449,8 +2363,7 @@
     "description": "Wrangling data into a shape that can be used to create visualizations is a huge problem with few available tools. Trifacta Wrangler is a powerful new tool that is free to use.",
     "date": "2015-10-19T05:25:45",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/trifacta-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/trifacta-teaser.png"
   },
   {
     "slug": "vis-running-club-2015",
@@ -2462,8 +2375,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/running-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/running-teaser.jpg"
   },
   {
     "slug": "policyviz-blog-and-podcast",
@@ -2475,8 +2387,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/policyviz-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/10/policyviz-teaser.jpg"
   },
   {
     "slug": "visualization-research-engineering",
@@ -2497,8 +2408,7 @@
     "description": "The U.S. Department of Education just released an amazing dataset about the costs of going to college, earnings potential, etc. They're doing so many things right, it's really great. But what is still lacking is the metadata, making analysis harder than it needs to be.",
     "date": "2015-09-14T19:17:27",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "encounters-with-hci-pioneers",
@@ -2510,8 +2420,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/09/shneider-man.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/09/shneider-man.jpg"
   },
   {
     "slug": "the-point-of-a-chart",
@@ -2521,8 +2430,7 @@
     "description": "When creating charts, it's important to pick the one that actually fits not just the data, but the task. That can require going outside your comfort zone to use something beyond the four or five most common chart types. Here is an example where the original chart does not support comparison between two different sets of numbers, but it's easy to fix.",
     "date": "2015-08-26T21:56:37",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/08/Ethnicities-bump-chart1.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/08/Ethnicities-bump-chart1.png"
   },
   {
     "slug": "talk-how-to-visualize-data",
@@ -2534,8 +2442,7 @@
     "tags": [
       "talk"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/07/biovis-talk45.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/07/biovis-talk45.png"
   },
   {
     "slug": "visualization-publication-data-collection",
@@ -2548,8 +2455,7 @@
       "conference",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/06/vispubdata.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/06/vispubdata.jpg"
   },
   {
     "slug": "disinformation-visualization",
@@ -2562,8 +2468,7 @@
       "criticism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/05/disinformation-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/05/disinformation-teaser.jpg"
   },
   {
     "slug": "report-eurovis-2015",
@@ -2588,8 +2493,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/05/embellishments-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/05/embellishments-teaser.jpg"
   },
   {
     "slug": "eurovis-running-club",
@@ -2601,8 +2505,7 @@
     "tags": [
       "eurovis"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg"
   },
   {
     "slug": "feedback-loops-for-better-talks",
@@ -2612,8 +2515,7 @@
     "description": "Feedback loops are a common concept in engineering. When it comes to giving talks, academics would do well to apply some of the thinking behind them to improve their output by observing how it deviates from the desired one, and making changes to adjust it.",
     "date": "2015-05-17T18:14:42",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png"
   },
   {
     "slug": "the-danger-of-glitziness",
@@ -2625,8 +2527,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "conference-report-chi-2015",
@@ -2653,8 +2554,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/waldo.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/waldo.jpg"
   },
   {
     "slug": "isotype-visualization",
@@ -2667,8 +2567,7 @@
       "isotype",
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser.jpg"
   },
   {
     "slug": "design-and-redesign-in-data-visualization",
@@ -2681,8 +2580,7 @@
       "criticism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/cairo-redesign.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/04/cairo-redesign.png"
   },
   {
     "slug": "dear-data",
@@ -2694,8 +2592,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/dear-data.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/dear-data.jpg"
   },
   {
     "slug": "data-journalism-in-the-19th-century",
@@ -2708,8 +2605,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/greely.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/greely.jpg"
   },
   {
     "slug": "complications",
@@ -2719,8 +2615,7 @@
     "description": "In watches, a complication is anything that goes beyond the basic function of showing the current time: alarm time, moon phase, etc.  I think the term should be adopted in user interface design and visualization.",
     "date": "2015-03-22T18:55:26",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/complications-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/complications-teaser.jpg"
   },
   {
     "slug": "cga-article-on-tapestry",
@@ -2733,8 +2628,7 @@
       "tapestry",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg"
   },
   {
     "slug": "the-value-of-illustrating-numbers",
@@ -2758,8 +2652,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/graphic-continuum-cropped.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/graphic-continuum-cropped.jpg"
   },
   {
     "slug": "joint-committee-on-standards-for-graphic-presentation",
@@ -2771,8 +2664,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/standards-teaser.gif",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/standards-teaser.gif"
   },
   {
     "slug": "nigel-holmes-on-humor-in-visualization-and-infographics",
@@ -2784,8 +2676,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "becksploitation-the-over-use-of-a-cartographic-icon",
@@ -2798,8 +2689,7 @@
       "criticism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/becksploitation-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/becksploitation-teaser.jpg"
   },
   {
     "slug": "spelling-things-out",
@@ -2812,8 +2702,7 @@
       "storytelling",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/02/spelling-teaser.gif",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/02/spelling-teaser.gif"
   },
   {
     "slug": "link-tapestry-2015",
@@ -2826,8 +2715,7 @@
       "tapestry",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/DSCF0207.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/DSCF0207.jpg"
   },
   {
     "slug": "treisman-preattentive-processing",
@@ -2850,8 +2738,7 @@
     "description": "Some of the most fundamental and important papers in information visualization are around 30 years old. This is interesting for several reasons. For one, it shows that the field is still very young. Most research fields go back much, much further. Even within such a short time frame, though, there is a danger of not knowing some of the most important pieces of research.",
     "date": "2015-01-25T19:01:35",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "data-stories-podcast-2014-review",
@@ -2863,8 +2750,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/ds46.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/ds46.png"
   },
   {
     "slug": "link-data-viz-done-right",
@@ -2877,8 +2763,7 @@
       "criticism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/data-viz-done-right.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/data-viz-done-right.png"
   },
   {
     "slug": "why-is-paper-writing-software-so-awful",
@@ -2901,8 +2786,7 @@
       "link",
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/nzz-chronik.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/nzz-chronik.png"
   },
   {
     "slug": "the-state-of-information-visualization-2015",
@@ -2927,8 +2811,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/flow-of-production.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/flow-of-production.jpg"
   },
   {
     "slug": "the-island-of-knowledge-and-the-shoreline-of-wonder",
@@ -2953,8 +2836,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/ballard-olympics.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/ballard-olympics.jpg"
   },
   {
     "slug": "data-stories-starring-tamara-munzner",
@@ -2966,8 +2848,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/TamaraMunzner.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/12/TamaraMunzner.jpg"
   },
   {
     "slug": "review-wainer-picturing-the-uncertain-world",
@@ -3095,8 +2976,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/10/eight.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/10/eight.png"
   },
   {
     "slug": "beyond-the-knee-jerk-reaction",
@@ -3188,8 +3068,7 @@
     "tags": [
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/04/ds35.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/04/ds35.jpg"
   },
   {
     "slug": "review-manuel-lima-the-book-of-trees",
@@ -3251,8 +3130,7 @@
       "criticism",
       "technique"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/benefits-mirror2.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/benefits-mirror2.png"
   },
   {
     "slug": "data-stories-podcast-2013-in-review-outlook-to-2014",
@@ -3262,8 +3140,7 @@
     "description": "The Data Stories podcast starts the new year with Andy Kirk and me as guests. With the hosts, Enrico Bertini and Moritz Stefaner, we discuss the major developments of 2013 and look ahead to what 2014 has in store.",
     "date": "2014-01-26T21:12:15",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap1.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap1.jpg"
   },
   {
     "slug": "peer-review-part-5-the-importance-of-gatekeepers",
@@ -3299,8 +3176,7 @@
     "tags": [
       "peer-review"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/lemons.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/lemons.jpg"
   },
   {
     "slug": "2-how-it-works",
@@ -3324,8 +3200,7 @@
     "tags": [
       "peer-review"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/quilt-plot.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/quilt-plot.png"
   },
   {
     "slug": "the-state-of-information-visualization-2014",
@@ -3350,8 +3225,7 @@
       "link",
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz.jpg"
   },
   {
     "slug": "ben-shneidermans-treemap-art",
@@ -3361,8 +3235,7 @@
     "description": "Art imitates life, and sometimes art is inspired by research. Ben Shneiderman’s Treemap Art is unique in that it is the researcher himself (with Kazi Minhazur Rahman), rather than an artist, who has created the art pieces.",
     "date": "2013-12-22T20:45:41",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian.png"
   },
   {
     "slug": "scaling-an-axis-to-make-a-point",
@@ -3410,8 +3283,7 @@
       "tapestry",
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych.jpeg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych.jpeg"
   },
   {
     "slug": "report-from-ieee-vis-2013-in-atlanta-ga",
@@ -3475,8 +3347,7 @@
       "journalism",
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg"
   },
   {
     "slug": "watch-tcc-keynote-live-monday",
@@ -3486,8 +3357,7 @@
     "description": "The Tableau Customer Conference (TCC) starts tomorrow with a big keynote that includes demos of upcoming features. Watch it live at this link, and see me demo something new and exciting.",
     "date": "2013-09-08T19:41:15",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/09/tcc-devs-on-stage.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/09/tcc-devs-on-stage.jpg"
   },
   {
     "slug": "many-eyes-18-months-later",
@@ -3533,8 +3403,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-teaser.jpg"
   },
   {
     "slug": "means",
@@ -3556,8 +3425,7 @@
     "description": "I was asked about the most iconic data graphics in the last ten years for an article on FastCoLabs last week (so were Andy Kirk and Matt Stiles). It's an interesting question not only because of the actual choices, but also the criteria to use. Is something iconic because of its unique look and/or shape? Does it have to have impact? What is an iconic visualization?",
     "date": "2013-07-28T21:12:59",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png"
   },
   {
     "slug": "ged-viz-data-storytelling-tool",
@@ -3567,8 +3435,7 @@
     "description": "I had the honor and pleasure to keynote an event in Berlin recently that introduced a new visualization tool to the world, GED Viz. What makes it stand out from other web-based visualization tools is its focus on particular data, and the ability to create not just individual views, but little stories.",
     "date": "2013-07-21T20:42:55",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/07/ged-viz.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/07/ged-viz.png"
   },
   {
     "slug": "its-just-too-easy",
@@ -3581,8 +3448,7 @@
       "criticism",
       "book-review"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "conference-report-tapestry-2013",
@@ -3622,8 +3488,7 @@
       "perception",
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg"
   },
   {
     "slug": "vis-tutorials-industry-government-experiences-track",
@@ -3659,8 +3524,7 @@
     "tags": [
       "conference"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-teaser.jpg"
   },
   {
     "slug": "obsession-tables",
@@ -3670,8 +3534,7 @@
     "description": "Lots of data are still presented and released as tables. But why, when we know that visual representations are so much easier to read and understand? Eric Newburger from the U.S. Census Bureau has an interesting theory.",
     "date": "2013-05-01T20:12:57",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "baselines",
@@ -3739,8 +3602,7 @@
     "description": "Arguments in data visualization are so fierce because the stakes are so low is a great zinger that I’ve heard a few times recently. But it’s not always true. Data visualization influences important decisions every day. The Congressional Budget Office’s new snapshots are but one example.",
     "date": "2013-03-24T03:00:17",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/03/43983-land-UI.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/03/43983-land-UI.png"
   },
   {
     "slug": "study-creative-data-visualization",
@@ -3752,8 +3614,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "definition-chart-junk",
@@ -3765,8 +3626,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/03/minimal-bars.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/03/minimal-bars.png"
   },
   {
     "slug": "tableau-desktop-free-university-students",
@@ -3776,8 +3636,7 @@
     "description": "If you are a student at a university, you can now get a free license for the full version of Tableau Desktop. No matter if you use it in class or for research, this is the full version that does not restrict the amount of data or the kind of connectivity (like Tableau Public does). The license is good for one year and can be renewed as long as you are enrolled at university.",
     "date": "2013-03-13T21:33:47",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "visualization-real",
@@ -3814,8 +3673,7 @@
       "technique",
       "basics"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/11/isotype-weaving.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/11/isotype-weaving.jpg"
   },
   {
     "slug": "halfway-house",
@@ -3825,8 +3683,7 @@
     "description": "What is visualization for? Is it a tool help us understand data and the world, and to make better decisions because of that? Or is it just a debugging tool, a stepping stone towards intelligent machines?",
     "date": "2013-02-20T22:22:19",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "review-scott-christianson-100-diagrams-changed-world",
@@ -3839,8 +3696,7 @@
       "book-review",
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "paper-storytelling-step-visualization",
@@ -3853,8 +3709,7 @@
       "paper",
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg"
   },
   {
     "slug": "state-information-visualization-2013",
@@ -3878,8 +3733,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/perception-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/perception-teaser.png"
   },
   {
     "slug": "visual-math-wrong",
@@ -3916,8 +3770,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png"
   },
   {
     "slug": "responses-gelman-unwin-convenient-posting",
@@ -3930,8 +3783,7 @@
       "paper",
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "affordances",
@@ -3956,8 +3808,7 @@
       "criticism",
       "paper"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "changing-goals-data-visualization",
@@ -4082,8 +3933,7 @@
     "tags": [
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/09/1000px-Patriotic_War_of_1812_ENG_map1.svg_.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/09/1000px-Patriotic_War_of_1812_ENG_map1.svg_.png"
   },
   {
     "slug": "visweek-survival-guide-part-1",
@@ -4095,8 +3945,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "storytelling-minard-vs-nightingale",
@@ -4132,8 +3981,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/07/tyne.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/07/tyne.png"
   },
   {
     "slug": "data-display-vs-data-visualization",
@@ -4168,8 +4016,7 @@
     "description": "This video called Science: It’s a Girl Thing! has been widely criticized for being sexist. What I find even more disturbing is that there is an actual need to dress science and technology up as something they are not. When did kids lose their curiosity?",
     "date": "2012-06-25T22:12:52",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg"
   },
   {
     "slug": "nigel-holmes",
@@ -4207,8 +4054,7 @@
       "conference",
       "eurovis"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "eurovis-2012-day-2",
@@ -4221,8 +4067,7 @@
       "conference",
       "eurovis"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "eurovis-2012-day-1",
@@ -4245,8 +4090,7 @@
     "description": "After my recent abstraction exercise created some interesting discussion but kind of went off in a slightly wrong direction, here is another experiment.",
     "date": "2012-06-03T20:30:56",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "conceptualizing-visual-uncertainty-in-parallel-coordinates",
@@ -4258,8 +4102,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/05/uncertainty-taxonomy.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/05/uncertainty-taxonomy.png"
   },
   {
     "slug": "eurovis-survival-guide-part-2",
@@ -4284,8 +4127,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/05/minwage-abstracted1.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/05/minwage-abstracted1.png"
   },
   {
     "slug": "tableau-public-day",
@@ -4295,8 +4137,7 @@
     "description": "There is no shortage of sites and twitter accounts that point to a new visualization every day, some even more often than that. So why start another one? Tableau's Viz of the Day is unique in that it draws from the wealth of Tableau Public, and all its picks are interactive visualizations with multiple, linked views.",
     "date": "2012-05-14T20:30:00",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "glimpse-into-new-york-times-graphics-department",
@@ -4373,8 +4214,7 @@
     "description": "Information graphics are meant to carry meaning, so that readers can learn something about data, facts, or processes. But what does it mean to inform? And how does the goal of informing in information graphics differ from analytical visualization?",
     "date": "2012-04-01T20:30:39",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "malofiej-20",
@@ -4407,8 +4247,7 @@
     "description": "I need two minutes of your time. By clicking on the following link, you will be taken to one of several slightly different versions of a visual story about the development of the gross domestic product (GDP) in different countries. Watch it, play with it, and if you like it: share it. You will help us understand which types of storytelling work and which don't. There is no annoying survey, just a little story.",
     "date": "2012-03-07T23:20:38",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "three-types-chart-junk",
@@ -4430,8 +4269,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png"
   },
   {
     "slug": "quo-vadis-many-eyes",
@@ -4528,8 +4366,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg"
   },
   {
     "slug": "interactive-version-zipscribble-map",
@@ -4567,8 +4404,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "review-visualize-visual-complexity-science-magazine",
@@ -4603,8 +4439,7 @@
     "description": "Data visualization startup Plot.io has been making some noise lately. From what I know so far, it looks a lot like Tableau, but presumably works in the browser. This could be a potential successor to Swivel, which folded a bit over a year ago, and maybe what Verifiable was trying to do.",
     "date": "2011-12-30T18:45:26",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2011/12/plot-io.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2011/12/plot-io.png"
   },
   {
     "slug": "comments-closed-switching-to-wordpress",
@@ -4614,8 +4449,7 @@
     "description": "After more than five years, I've finally had it with Drupal. I'm switching the site to WordPress over the holidays. If you're reading this through your feed reader, you should not notice a difference. The new site will look different and will have a few simple little features that will make it easier to browse. WordPress also is much more organized on the back-end, so I will hopefully be motivated to write more.",
     "date": "2011-12-21T15:23:36",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "ben-shneiderman",
@@ -4956,8 +4790,7 @@
     "tags": [
       "conference"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "review-steven-johnson-the-ghost-map",
@@ -5006,8 +4839,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "theory-guide-to-visweek",
@@ -5123,8 +4955,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "kaiser-fung-numbers-rule-your-world",
@@ -5137,8 +4968,7 @@
       "book-review",
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/numbersrule.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/numbersrule.jpg"
   },
   {
     "slug": "beyond-bertin",
@@ -5150,8 +4980,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png"
   },
   {
     "slug": "trivialization-for-the-masses",
@@ -5163,8 +4992,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "infovis-theory-workshop-deadline-extended",
@@ -5176,8 +5004,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/maths.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/maths.jpg"
   },
   {
     "slug": "parallel-sets-implemented-by-third-party",
@@ -5187,8 +5014,7 @@
     "description": "It's nice to see an idea evolve and get picked up by other people. Which is why I'm excited to have spotted the first third-party implementation of Parallel Sets in the wild: a (Windows-only) program called Knowledge Blocks that allows you to visually piece together a query and show the results in a table or a Parallel Sets display.",
     "date": "2010-08-22T21:44:06",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2010/ResultBlocks.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/ResultBlocks.jpg"
   },
   {
     "slug": "a-maze-of-twisty-little-passages-all-alike",
@@ -5198,8 +5024,7 @@
     "description": "Theoretical research is a tough sell, and not just in computer science. Not only are we expected to produce things we can demo, it's also hard to tell beforehand what exactly the results will be. But that is exactly why we need to do research: because we don't know. Applied research is obviously important, but the current trend towards only applied work is worrying.",
     "date": "2010-08-12T21:34:44",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2010/proof-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/proof-teaser.png"
   },
   {
     "slug": "the-difference-between-infographics-and-visualization",
@@ -5209,8 +5034,7 @@
     "description": "What is the key difference between a visualization and a data-based infographic? The visualization is created by a program that can be applied to many datasets, the infographic is hand-crafted for a particular dataset. It's obvious, which is why it's so hard to figure out.",
     "date": "2010-08-10T21:50:12",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2010/healthcare.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/healthcare.jpg"
   },
   {
     "slug": "the-magic-of-indirect-multi-touch-interaction",
@@ -5230,8 +5054,7 @@
     "description": "If you enjoy reading my website, why not follow me on Twitter, too? So click the birdie above to get to my Twitter page!",
     "date": "2010-08-02T20:44:26",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2010/bird.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/bird.png"
   },
   {
     "slug": "cornelia-dean-am-i-making-myself-clear",
@@ -5244,8 +5067,7 @@
       "book-review",
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg"
   },
   {
     "slug": "various-visweek-workshops",
@@ -5279,8 +5101,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/multitouch-brushing.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/multitouch-brushing.png"
   },
   {
     "slug": "infovis-theory-workshop",
@@ -5304,8 +5125,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "end-of-verifiable-com",
@@ -5327,8 +5147,7 @@
     "tags": [
       "book-review"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/beautifulvis.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/beautifulvis.jpg"
   },
   {
     "slug": "protovis-primer-part-2",
@@ -5348,8 +5167,7 @@
     "description": "Acceptance rates are one of the key ways of measuring the quality of conferences. I think it's time we collect that data for conferences relevant to visualization. I have put together a page for this, and have found some of that data. But I need your help to fill in the gaps and suggest other conferences that would be of interest.",
     "date": "2010-06-06T16:20:04",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2010/acceptance-rates.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/acceptance-rates.png"
   },
   {
     "slug": "protovis-primer-part-1",
@@ -5371,8 +5189,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png"
   },
   {
     "slug": "fascinating-world-of-good-infographics",
@@ -5435,8 +5252,7 @@
       "paper",
       "pie-charts"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/mturk-paper.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/mturk-paper.jpg"
   },
   {
     "slug": "the-visualization-cargo-cult",
@@ -5458,8 +5274,7 @@
     "description": "Proteins are among the most complex structures we know. They consist of thousands of atoms, and fold into complex shapes to perform a variety of functions. Understanding how they work is not possible from looking at single atoms, but rather at the overall, three-dimensional structure. The visual language for doing this was developed by Jane Richardson.",
     "date": "2010-03-24T14:39:18",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2010/richardson-protein.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/richardson-protein.jpg"
   },
   {
     "slug": "the-year-of-infovis-theory",
@@ -5525,8 +5340,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2010/roadtoC.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2010/roadtoC.jpg"
   },
   {
     "slug": "pie-charts",
@@ -5563,8 +5377,7 @@
     "tags": [
       "data"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png"
   },
   {
     "slug": "a-look-at-climate-data",
@@ -5590,8 +5403,7 @@
       "link",
       "data"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png"
   },
   {
     "slug": "curing-a-sick-chart",
@@ -5613,8 +5425,7 @@
     "description": "It has never been easier to record your daily activities. The data is all well and good, but the real value comes from visualizing it. Why visualize your mundane, boring life? Because it helps you track what you are doing, and provides motivation to get your ass to the gym.",
     "date": "2009-11-30T22:50:11",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/nikeplus.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/nikeplus.png"
   },
   {
     "slug": "bring-out-your-dreadful-charts",
@@ -5626,8 +5437,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/foxpie.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/foxpie.jpg"
   },
   {
     "slug": "cost-of-a-sick-chart",
@@ -5651,8 +5461,7 @@
     "tags": [
       "data"
     ],
-    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2009/11/google-import.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2009/11/google-import.png"
   },
   {
     "slug": "i-want-to-beliv",
@@ -5664,8 +5473,7 @@
     "tags": [
       "conference"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "starting-your-own-visualization-blog",
@@ -5687,8 +5495,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg"
   },
   {
     "slug": "visweek-live-coverage",
@@ -5712,8 +5519,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/redpin.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/redpin.jpg"
   },
   {
     "slug": "shaking-the-pretty-picture-stigma",
@@ -5745,8 +5551,7 @@
     "description": "We are happy to announce the release of Parallel Sets 2.1. The new version fixes a number of bugs and introduces a few new features. The biggest changes are under hood, with a new database model that can now handle much more complex datasets (in terms of number of dimensions and categories), and the new streaming import can load in datasets with a much larger number of records. We have also added a way to automatically sort categories by name and size, a screenshot function, and more. Upgrading is strongly recommended.",
     "date": "2009-08-03T11:07:29",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-2.1-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-2.1-teaser.png"
   },
   {
     "slug": "oecd-seminar-turning-statistics-into-knowledge",
@@ -5766,8 +5571,7 @@
     "description": "We are looking for people who use Parallel Sets with real-world data and who would be interested in taking part in writing up a case study for the InfoVis Discovery Exhibition. You don't have to share your data, and the images can be anonymized, but it has to be real data (and you have to be able to describe what it is and what you learned in a way that is not too general).",
     "date": "2009-07-07T07:00:09",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "putting-visualization-on-the-web-visweek",
@@ -5777,8 +5581,7 @@
     "description": "A while ago, I complained about the state of visualization on the web. To improve things, I am co-organizing a workshop at VisWeek in October to discuss the status quo, potential problems, and to find new ways to get visualization people to make their mark online. Whether you have a blog or website, don't have a blog or website, plan on starting one, are afraid of starting one, or think this whole web thing is just a fad &ndash; we want to hear from you!",
     "date": "2009-06-26T06:25:59",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/VisWebTeaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/VisWebTeaser.jpg"
   },
   {
     "slug": "data-gov-browser",
@@ -5790,8 +5593,7 @@
     "tags": [
       "data"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png"
   },
   {
     "slug": "dish-best-served-raw",
@@ -5803,8 +5605,7 @@
     "tags": [
       "data"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/data-zoom.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/data-zoom.jpg"
   },
   {
     "slug": "parallel-sets-released",
@@ -5814,8 +5615,7 @@
     "description": "After an initial commitment, an announcement, and a delay, we are proud to announce that the Parallel Sets application has been released! Mac OS X and Windows versions are ready to be downloaded, and the source code is available for your enlightenment and/or entertainment.",
     "date": "2009-06-01T17:45:10",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-release.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-release.png"
   },
   {
     "slug": "infovis-discovery-exhibition",
@@ -5827,8 +5627,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/discoveryexhibition.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/discoveryexhibition.png"
   },
   {
     "slug": "data-gov",
@@ -5838,8 +5637,7 @@
     "description": "It's not quite the National Data Agency I envisioned earlier this year, but Data.gov is now live. It's a laudable effort, and there is quite a bit of data there, but it's still very labor-intensive to get the data sets and convert them into usable formats. But it's becoming clear that data needs to be shared, and that access to government data will soon be regarded as much as an inherent part of a democracy as free elections.",
     "date": "2009-05-21T21:29:26",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg"
   },
   {
     "slug": "visualization-is-not-periodic-html",
@@ -5861,8 +5659,7 @@
     "description": "I'm very sorry, but we have to delay the release. We need to make sure that we have the right to release the program, and this is taking a bit longer than expected. The software was written in part by students paid from the SRVAC, which is funded by DHS and DOE. It is unlikely that there will be a problem, but we don't have the go-ahead yet, either. I am hoping that we can get the green light this week.",
     "date": "2009-05-12T20:03:37",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-delay.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-delay.png"
   },
   {
     "slug": "interested-in-eagerears-html",
@@ -5872,8 +5669,7 @@
     "description": "I got the domains EagerEars.org and EagerEars.com for my April Fool's joke. Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.",
     "date": "2009-05-02T21:29:32",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/imallears.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/imallears.png"
   },
   {
     "slug": "parallel-sets-release-date-html",
@@ -5883,8 +5679,7 @@
     "description": "We promised the release of the Parallel Sets program for the end of April, but we have to push it to May 7. The reason is quite simply lack of time: the semester is ending here at UNC Charlotte, and things are rather busy as a result. There is also the nuts-and-bolts work of making this work as an application for end-users that works well on at least two platforms (Windows and Mac OS X), and that can provide useful information when it doesn't.",
     "date": "2009-04-29T20:25:47",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-announce.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-announce.png"
   },
   {
     "slug": "design-tutorials-for-visweek-2009",
@@ -5896,8 +5691,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/VisWeekTutorials.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/VisWeekTutorials.png"
   },
   {
     "slug": "appstore-billion-apps-live-visualization-html",
@@ -5909,8 +5703,7 @@
     "tags": [
       "application"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/billionapps.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/billionapps.png"
   },
   {
     "slug": "where-are-the-visualization-tools",
@@ -5920,8 +5713,7 @@
     "description": "I got several requests in the last few days about tools for doing visualization and visual analytics. Looking around, I don't see a lot of good, affordable (or free) visualization software. There are lots of papers, but few of those programs are available. And those that are often are of very low quality, very limited in their functionality, and are not being maintained. Please help me collect links to visualization tools that let people with data experience that visualization magic.",
     "date": "2009-04-09T23:20:47",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/toolbox.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/toolbox.jpg"
   },
   {
     "slug": "new-sister-site-eagerears",
@@ -5933,8 +5725,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg"
   },
   {
     "slug": "shining-a-light-on-data-florence-nightingale",
@@ -5944,8 +5735,7 @@
     "description": "Florence Nightingale invented modern nursing, and established its importance based on data she collected during the Crimean War in the 19th century. She was not only the first one to realize the role of hygiene and care for wounded soldiers to prevent the spread of disease and death, she also was the first to understand that sound decisions can only be made on data. Not only did she collect that data, she also devised ways to communicate it to decision makers who lacked knowledge of statistics or math.",
     "date": "2009-03-24T10:07:11",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg"
   },
   {
     "slug": "a-spike-of-interest-in-parallel-sets",
@@ -5955,8 +5745,7 @@
     "description": "A few days ago, Michael Blastland published a very interesting little article on the BBC Magazine website, in which he showed an image of Parallel Sets. He also mentioned my name and even though there was no link or email address, I have seen a spike in traffic on this website and my university page, and have gotten a barrage of emails from people who want to try it out. Here is some information on the technique and a plan for getting the tool out into the world.",
     "date": "2009-03-15T22:21:40",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/parsets-teaser.png"
   },
   {
     "slug": "sightings-a-little-space-please",
@@ -5966,8 +5755,7 @@
     "description": "\"InfoVis and SciVis face off\" is how the American Scientist homepage teases for my latest Sightings column. While the comparison between information visualization (InfoVis) and scientific visualization (SciVis) is part of the discussion, I am also describing work by my colleague Anthony Fodor (who works in bioinformatics) to demonstrate the usefulness of InfoVis in science.",
     "date": "2009-03-04T09:13:46",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png"
   },
   {
     "slug": "a-national-data-agency",
@@ -5977,8 +5765,7 @@
     "description": "President Obama promises a more responsible and accountable government that openly shares information with its people. This includes publishing executive orders and laws before they are signed, so everybody can comment. But it also needs to include the data decisions are based on. An information society needs its data to be available and accessible to make informed decisions &ndash; just like its leaders.",
     "date": "2009-01-22T20:13:42",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/nda.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/nda.png"
   },
   {
     "slug": "a-better-vis-web-community",
@@ -5988,8 +5775,7 @@
     "description": "When I look around my little corner of the Internet, I see a few other people doing related stuff, but I also see a lot of unrealized potential. Why are there so few people in the visualization community who run a website? Why are the most popular visualization-related sites almost entirely about pointing at colorful pictures done by others, rather than doing their own? And how can we get more original, quality visualization content on the web?",
     "date": "2009-01-15T23:41:54",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2009/halfempty600.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2009/halfempty600.jpg"
   },
   {
     "slug": "sightings-a-vennerable-challenge",
@@ -6001,8 +5787,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg"
   },
   {
     "slug": "charts-and-metaphors",
@@ -6014,8 +5799,7 @@
     "tags": [
       "pie-charts"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/chocolatepiechart.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/chocolatepiechart.jpg"
   },
   {
     "slug": "ethics-of-business-presentations",
@@ -6025,8 +5809,7 @@
     "description": "I saw a presentation about business dashboard software by a guy from MicroStrategy yesterday, and started to wonder about the ethics of attribution in the business world. He showed a demo of a \"bubble chart\" that happened to be about fertility rate and life expectancy in different parts of the world over the last 20 years &ndash; in other words, Hans Rosling's example and visualization. There was no attribution, he made it sound like he had come up with that himself.",
     "date": "2008-11-21T08:29:43",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "pushing-data-over-email",
@@ -6048,8 +5831,7 @@
     "description": "Jeff Heer asked me to talk more about the Design, Vision, and Visualization workshop at VisWeek, so here is a list of questions we came up with. While we were not able to discuss them at great length, I think they're very valid, and might lead to a better understanding about how to connect the design and visualization worlds.",
     "date": "2008-11-09T22:14:37",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "swing-states",
@@ -6059,8 +5841,7 @@
     "description": "I always wondered how much those swing states actually swing. So I looked at the results of presidential elections over the last 100 years, and it's not easy to determine which states actually are swing states from just looking at their history. Rather, there seems to be a pattern of relative stability for a few election cycles, and then big, sweeping wins for one side.",
     "date": "2008-10-29T23:00:44",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2008/StateSwing-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/StateSwing-teaser.png"
   },
   {
     "slug": "new-york-times-visualization-lab",
@@ -6072,8 +5853,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/nytimes-vizlab.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/nytimes-vizlab.png"
   },
   {
     "slug": "visweek2008",
@@ -6095,8 +5875,7 @@
     "description": "VisWeek 2008 was an interesting set of conferences again. The live-blog is now archived, and here are a few thoughts on blogging a conference. I had a long summary written up, but it was mostly redundant with the live-blog, so it makes more sense to go there. I will write up further things at greater length over the next few weeks.",
     "date": "2008-10-27T23:10:43",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "debunking-cent-smear",
@@ -6120,8 +5899,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png"
   },
   {
     "slug": "live-microblog-from-visweek-2008",
@@ -6133,8 +5911,7 @@
     "tags": [
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/mispronouncing-cropped.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/mispronouncing-cropped.png"
   },
   {
     "slug": "shaping-of-information-by-visual-metaphors",
@@ -6146,8 +5923,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/Ziemkiewicz_InfoVis_2008.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/Ziemkiewicz_InfoVis_2008.jpg"
   },
   {
     "slug": "sightings-structures-smaller-than-light",
@@ -6157,8 +5933,7 @@
     "description": "Proteins are inherently three-dimensional, complex structures. To understand them, we need to simplify them to focus their main structural components. Jane Richardson has played a key role in the visual language that we use today when talking about proteins: ribbons and spirals. I interviewed her recently for the Sightings column in American Scientist.",
     "date": "2008-10-13T21:00:35",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2008/Sightings-2008-11-Richardson.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/Sightings-2008-11-Richardson.jpg"
   },
   {
     "slug": "popular-vs-electoral-votes-using-stacked-bar-charts",
@@ -6181,8 +5956,7 @@
       "technique",
       "application"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg"
   },
   {
     "slug": "electoral-college-and-second-terms",
@@ -6204,8 +5978,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/MrEagerEyes.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/MrEagerEyes.jpg"
   },
   {
     "slug": "market-meltdown-in-living-color",
@@ -6215,8 +5988,7 @@
     "description": "Images speak louder than words. A lot louder. It would be hard to find a more vivid and impressive visualization of what happened today on the New York Stock Exchange.",
     "date": "2008-09-29T17:12:50",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2008/MarketMeltdown-20080929-thumb.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/MarketMeltdown-20080929-thumb.png"
   },
   {
     "slug": "the-next-youtube-for-charts-icharts",
@@ -6226,8 +5998,7 @@
     "description": "There's new competition for Swivel and Many Eyes: iCharts. A good name, to be sure, but will they live up to their promise of being \"YouTube for Charts\" (a claim Swivel also made in the beginning)? A first look at their website suggests that they likely will not.",
     "date": "2008-09-28T19:21:24",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2008/icharts.gif",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/icharts.gif"
   },
   {
     "slug": "ny-times-the-best-and-worst-of-data-visualization",
@@ -6240,8 +6011,7 @@
       "journalism",
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/nytimes_graphs.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/nytimes_graphs.png"
   },
   {
     "slug": "linear-vs-quadratic-change",
@@ -6254,8 +6024,7 @@
       "basics",
       "technique"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png"
   },
   {
     "slug": "spss-viz-designer",
@@ -6267,8 +6036,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/vizdesigner.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/vizdesigner.jpg"
   },
   {
     "slug": "engaging-readers-with-square-pie-waffle-charts",
@@ -6281,8 +6049,7 @@
       "technique",
       "pie-charts"
     ],
-    "featuredImage": "http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg",
-    "outline": false
+    "featuredImage": "http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg"
   },
   {
     "slug": "sad-state-of-infovis-contest",
@@ -6306,8 +6073,7 @@
     "tags": [
       "application"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "presidential-demographics-ii",
@@ -6319,8 +6085,7 @@
     "tags": [
       "application"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/presdemo.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/presdemo.png"
   },
   {
     "slug": "sightings-symmetric-bat-flight",
@@ -6332,8 +6097,7 @@
     "tags": [
       "paper"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/Sightings-BatFlight.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/Sightings-BatFlight.jpg"
   },
   {
     "slug": "jock-mackinlay",
@@ -6345,8 +6109,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "definition-of-visualization",
@@ -6370,8 +6133,7 @@
     "tags": [
       "storytelling"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/wallstats-energy.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/wallstats-energy.jpg"
   },
   {
     "slug": "youtube-screening-room",
@@ -6381,8 +6143,7 @@
     "description": "I'm not generally a big YouTube fan. Sure, I've watched all the funny cat movies and seen people dump Mentos into bottles of Diet Coke. But little else has made me go there in some months. This has changed, though, with a new feature of the website: The YouTube Screen Room. Twice a month, four independent short films are added to the site, and the quality is amazing.",
     "date": "2008-07-14T22:31:32",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg"
   },
   {
     "slug": "new-site-features",
@@ -6418,8 +6179,7 @@
     "description": "My colleague Celine Latulipe has made a nice website about her Dance.Draw project. In what she calls Exquisite Interaction, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful.",
     "date": "2008-05-15T22:51:37",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg"
   },
   {
     "slug": "vis-criticism",
@@ -6432,8 +6192,7 @@
       "paper",
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/2008/VVP-Criticism.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/VVP-Criticism.png"
   },
   {
     "slug": "visualization-day-at-city-college-of-new-york",
@@ -6445,8 +6204,7 @@
     "tags": [
       "conference"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "treemaps",
@@ -6470,8 +6228,7 @@
     "tags": [
       "conference"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "un-make-large-amounts-of-data-available",
@@ -6481,8 +6238,7 @@
     "description": "Data is being set free: the United Nations have started a new website called UN Data to share the data collected by a number of UN agencies. 55 million data records are waiting to be explored and visualized. The search interface is very nice and usable, but still lacks power.",
     "date": "2008-03-07T22:35:29",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/2008/undata-flowers.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/2008/undata-flowers.png"
   },
   {
     "slug": "subjectivity-of-visualization",
@@ -6504,8 +6260,7 @@
     "tags": [
       "application"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png"
   },
   {
     "slug": "infovis-2007-infovis-for-the-masses",
@@ -6527,8 +6282,7 @@
     "description": "Since my first posting about the need for a World Visualization Day, I have started a basic website, opened a Facebook group, and taken a first shot at designing a logo. I have refined my ideas on the next steps as well as the support needed. Please support this idea by joining the facebook group, commenting here and on the WVD website, and most of all, by attending the BOF meeting at Vis.",
     "date": "2007-10-21T23:31:46",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "panel-social-data-visualization",
@@ -6541,8 +6295,7 @@
       "conference",
       "ieeevis"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png"
   },
   {
     "slug": "nobel-prize-for-charts",
@@ -6552,8 +6305,7 @@
     "description": "The recipients of the Nobel Peace Prize 2007 are Al Gore and the UN Intergovernmental Panel on Climate Change. While the decision is undoubtedly a political one (not unlike this year's Nobel Literature Prize), Gore has made a huge impact with his documentary, An Inconvenient Truth. A large part of that comes from his use of graphs and charts.",
     "date": "2007-10-12T06:51:29",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg"
   },
   {
     "slug": "tale-of-two-types",
@@ -6597,8 +6349,7 @@
     "description": "When demonstrating Parallel Sets to guests and visitors, I often use the Titanic data set, because people can relate to it and it is entirely categorical. I like pointing out interesting facts the visualization shows (like that the second class was smaller than the first class), but it's really just a collection of numbers to show what the visualization can do. Some of the people I have shown this to feel different about it, though.",
     "date": "2007-09-04T22:07:15",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/titanicvisualizations.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/titanicvisualizations.png"
   },
   {
     "slug": "summer-lull-is-officially-over",
@@ -6610,8 +6361,7 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "sketch-of-infovis-science",
@@ -6623,8 +6373,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "colin-ware",
@@ -6636,8 +6385,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "rethinking-the-user",
@@ -6647,8 +6395,7 @@
     "description": "A discussion at a seminar in Dagstuhl  (Germany) on Information Visualization has led to an interesting insight: what if we completely misunderstood who the users are for visualization? Especially in light of the current developments for broadly usable visualization, we need to rethink the types and levels of expertise that we can expect.",
     "date": "2007-05-31T13:30:47",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "joy-of-representation",
@@ -6672,8 +6419,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "critiquing-in-class-revisited",
@@ -6685,8 +6431,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "death-and-taxes",
@@ -6698,8 +6443,7 @@
     "tags": [
       "journalism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg"
   },
   {
     "slug": "visualization-sets-information-free",
@@ -6709,8 +6453,7 @@
     "description": "Enormous amounts of information are technically freely available, but are hard to access in practice. A lot of that data comes from data collection funded by taxpayers, or from data that needs to be reported for legal reasons. While much of that data has been lying around on the Internet for some time, only recently have people started building tools that make it easy (and often even fun) to play with it. Even though the types of data are very different, all these tools have one thing in common: they are primarily visual.",
     "date": "2007-04-04T21:43:42",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/flowerpoint6.gif",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/flowerpoint6.gif"
   },
   {
     "slug": "alan-maceachren",
@@ -6722,8 +6465,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "infovis-contest-2007-data",
@@ -6747,8 +6489,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "chernoff-faces",
@@ -6784,8 +6525,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "what-travelling-presidential-candidates-save",
@@ -6797,8 +6537,7 @@
     "tags": [
       "zipscribble"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png"
   },
   {
     "slug": "an-uncanny-resemblance",
@@ -6810,8 +6549,7 @@
     "tags": [
       "zipscribble"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "presidential-demographics",
@@ -6823,8 +6561,7 @@
     "tags": [
       "application"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png"
   },
   {
     "slug": "more-zipscribble-maps",
@@ -6836,8 +6573,7 @@
     "tags": [
       "zipscribble"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg"
   },
   {
     "slug": "improved-zipscribble-maps-more-countries-to-come",
@@ -6849,8 +6585,7 @@
     "tags": [
       "zipscribble"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "pat-hanrahan",
@@ -6862,8 +6597,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "series-introduction",
@@ -6875,8 +6609,7 @@
     "tags": [
       "influences"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "information-vs-art-at-mca-chicago",
@@ -6888,8 +6621,7 @@
     "tags": [
       "link"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "travelling-presidential-candidate-map",
@@ -6902,8 +6634,7 @@
       "zipscribble",
       "application"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png"
   },
   {
     "slug": "visual-mapping-of-poetry-html",
@@ -6913,8 +6644,7 @@
     "description": "Visualization people often talk about mapping. Mapping is the process that translates data into a visual representation, and the main challenge in the visualization of abstract data. A good mapping is one that leads to insights into the data, while a bad mapping does not. It is important, however, to keep in mind what the purpose of the depiction is, or one runs the risk of applying the wrong standards.",
     "date": "2006-12-02T12:11:18",
     "tags": [],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "representational-mug",
@@ -6924,8 +6654,7 @@
     "description": "This was bought in the store of the Guggenheim Museum in New York.",
     "date": "2006-11-08T09:50:47",
     "tags": [],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/Guggenheim_Mug.jpg",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/Guggenheim_Mug.jpg"
   },
   {
     "slug": "loneliness-of-the-visualization-critic",
@@ -6937,8 +6666,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "sets-of-possible-occurrences",
@@ -6962,8 +6690,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": "https://media.eagereyes.org/media/attachments/Skogetal-buses.png",
-    "outline": false
+    "featuredImage": "https://media.eagereyes.org/media/attachments/Skogetal-buses.png"
   },
   {
     "slug": "square-pie-charts",
@@ -6976,8 +6703,7 @@
       "technique",
       "pie-charts"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "visualization-criticism",
@@ -7001,8 +6727,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "nsf-vis-challenge-2006",
@@ -7014,8 +6739,7 @@
     "tags": [
       "criticism"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   },
   {
     "slug": "itunes-billion-song-downloads",
@@ -7039,7 +6763,6 @@
     "tags": [
       "meta"
     ],
-    "featuredImage": null,
-    "outline": false
+    "featuredImage": null
   }
 ]

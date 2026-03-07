@@ -15,6 +15,9 @@
 <svelte:head>
 	<title>The ZIPScribble Map</title>
 	<meta name="description" content="Interactive US ZIP code scribble map" />
+	<meta property="og:title" content="The ZIPScribble Map – eagereyes" />
+	<meta property="og:description" content="What happens if you draw a line through every ZIP/postal code?" />
+	<meta property="og:image" content="https://media.eagereyes.org/media/og-images/zipscribble-og.png" />
 </svelte:head>
 
 <h1>The ZIPScribble Map</h1>
