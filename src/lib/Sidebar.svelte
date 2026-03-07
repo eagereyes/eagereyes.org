@@ -12,6 +12,7 @@
     }
 
     let { years, yearCounts, sortedTags, tagCounts, defaultTab = 'years', currentYear }: Props = $props();
+    // svelte-ignore state_referenced_locally
     let activeTab = $state(defaultTab);
     $effect(() => { const tab = defaultTab; untrack(() => { activeTab = tab; }); });
     let alphabeticalTags = $derived([...sortedTags].sort((a, b) => (tagNames[a] ?? a).localeCompare(tagNames[b] ?? b)));
