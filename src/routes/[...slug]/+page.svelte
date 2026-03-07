@@ -1,6 +1,9 @@
 <script lang="ts">
-    import { parse } from 'marked';
+    import { marked } from 'marked';
+    import { gfmHeadingId } from "marked-gfm-heading-id";
     import type { PageData } from './$types';
+
+    marked.use(gfmHeadingId());
 
     let { data }: { data: PageData } = $props();
 </script>
@@ -11,5 +14,5 @@
 </svelte:head>
 
 <div class="text-column">
-    {@html parse(data.content)}
+    {@html marked(data.content)}
 </div>
