@@ -29,10 +29,6 @@
 
 <style>
 	.zipscribble-page {
-		width: 100vw;
-		position: relative;
-		left: 50%;
-		transform: translateX(-50%);
 		display: flex;
 		flex-direction: column;
 		height: calc(100vh - 80px);
