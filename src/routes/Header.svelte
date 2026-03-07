@@ -32,6 +32,12 @@
 			<li aria-current={page.url.pathname.startsWith('/blog') || page.url.pathname.startsWith('/tag') ? 'page' : undefined}>
 				<a href="/blog/">Blog</a>
 			</li>
+			<li class="dropdown" aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined}>
+				<button class="dropdown-toggle" aria-haspopup="true">Apps ▾</button>
+				<ul class="dropdown-menu">
+					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
+				</ul>
+			</li>
 			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
 				<a href="/video/">Videos</a>
 			</li>
@@ -40,12 +46,6 @@
 			</li>
 			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined}>
 				<a href="/about">About</a>
-			</li>
-			<li class="dropdown" aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined}>
-				<button class="dropdown-toggle" aria-haspopup="true">Apps ▾</button>
-				<ul class="dropdown-menu">
-					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
-				</ul>
 			</li>
 		</ul>
 	</nav>
