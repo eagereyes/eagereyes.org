@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite dev",
-		"build": "node scripts/build-search-data.mjs && vite build && cp build/feed/index.html build/rss.xml",
+		"build": "node scripts/build-search-data.mjs && vite build && cp build/feed build/rss.xml",
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
