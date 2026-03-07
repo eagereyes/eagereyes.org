@@ -226,6 +226,33 @@
         line-height: 1.7;
     }
 
+    article :global(figure) {
+        max-width: 100%;
+        margin: 2rem 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    article :global(figcaption) {
+        text-align: center;
+        font-style: italic;
+        margin-top: 0.5rem;
+    }
+
+    article :global(figure img) {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        border-radius: 4px;
+        margin: 0;
+    }
+
+    article :global(figure div) {
+        max-width: 100%;
+        flex-wrap: wrap;
+    }
+
     article :global(img) {
         width: 100%;
         height: auto;
