@@ -1,6 +1,21 @@
 <script lang="ts">
 	import { page } from '$app/state';
+
+	let searchInput: HTMLInputElement;
+
+	const isMac = typeof navigator !== 'undefined' && /Mac|iPhone|iPad/.test(navigator.platform);
+	const shortcutHint = isMac ? '/ or ⌘K' : '/ or Ctrl+K';
+
+	function handleKeydown(e: KeyboardEvent) {
+		if (document.activeElement?.tagName === 'INPUT' || document.activeElement?.tagName === 'TEXTAREA') return;
+		if (e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey))) {
+			e.preventDefault();
+			searchInput?.focus();
+		}
+	}
 </script>
+
+<svelte:window onkeydown={handleKeydown} />
 
 <header>
 	<div class="corner">
@@ -31,7 +46,7 @@
 
 	<div class="corner search-corner">
 		<form action="/search/" method="get">
-			<input type="search" name="q" placeholder="Search…" aria-label="Search" />
+			<input type="search" name="q" placeholder="Search… ({shortcutHint})" aria-label="Search" bind:this={searchInput} />
 		</form>
 	</div>
 </header>
