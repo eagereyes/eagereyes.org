@@ -17,9 +17,11 @@
 	<meta name="description" content="Interactive US ZIP code scribble map" />
 </svelte:head>
 
+<h1>The ZIPScribble Map</h1>
+<p>Mouse over the navigator on the  bottom to show individual states and numerical ZIP code ranges. </p>
+
 <div class="zipscribble-page">
 	<div class="toolbar">
-		<h1>The ZIPScribble Map</h1>
 		<button onclick={toggleFullscreen}>&#x26F6; Fullscreen</button>
 	</div>
 	<div class="map-container" bind:this={container}>
@@ -36,14 +38,9 @@
 
 	.toolbar {
 		display: flex;
-		justify-content: space-between;
+		justify-content: flex-end;
 		align-items: center;
 		padding: 0.5rem 1rem;
-	}
-
-	.toolbar h1 {
-		margin: 0;
-		font-size: 1.25rem;
 	}
 
 	.map-container {
