@@ -48,6 +48,7 @@ Static content pages (about, contact, license, pie-charts, subscribe) live in `c
 | `/tag/<tag>` | Posts filtered by tag |
 | `/publications/` | Papers list |
 | `/publications/<key>` | Single paper (key uses `-` instead of `:`) |
+| `/search` | Full-text search |
 | `/<slug>` or `/<prefix>/<slug>` | Catch-all: serves content pages or 301 redirects |
 
 The `/blog/[...slug]` route handles all three blog display modes via the `PageType` enum (`singlePost`, `oneYear`, `allPosts`).
@@ -65,6 +66,7 @@ The `src/routes/[...slug]/+page.server.ts` catch-all handles two things:
 - `src/lib/video-utils.ts` — `Video` type
 - `src/lib/BlogList.svelte` — reusable blog post list with filtering by year/tag/archived
 - `src/lib/VideoList.svelte` — reusable video list
+- `src/lib/Sidebar.svelte` — sidebar component used on blog post pages
 
 ### CSS / Theming
 
