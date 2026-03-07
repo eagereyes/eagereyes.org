@@ -118,7 +118,9 @@
     "title": "Watch My Outlier Talk: This Should Have Been A Bar Chart!",
     "description": "I gave a talk at the Outlier conference earlier this year, with the somewhat elaborate title, The Joys – and Dangers – of Bespoke and Unusual Chart Types. Though I eventually decided to go with the much shorter, This Should Have Been A Bar Chart! You can watch it on YouTube now.",
     "date": "2022-04-26T06:38:30",
-    "tags": [],
+    "tags": [
+      "talk"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png",
     "outline": false
   },
@@ -308,7 +310,7 @@
     "description": "This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data “from all areas of science and practice.” It’s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools.",
     "date": "2021-02-07T22:13:56",
     "tags": [
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0012.jpg"
   },
@@ -446,7 +448,7 @@
     "description": "How do you show large numbers of people without losing track of the outliers? How do you keep a chart useful when the maximum values are orders of magnitude higher than the common ones? In an animated visualization I've built of the progress of over 19,000 runners across a virtual 1000km (635mi) race over 123 days, I've tried to solve some of these issues.",
     "date": "2020-08-18T22:25:22",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png"
   },
@@ -520,7 +522,7 @@
     "description": "Alberto Cairo’s new book, How Charts Lie, takes readers on a tour of how charts are used and misused, and teaches them how to not be misled. It’s a useful book for both makers and consumers of charts, in the news, business, and pretty much anywhere else.",
     "date": "2019-11-11T21:07:05",
     "tags": [
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg",
     "outline": false
@@ -927,7 +929,7 @@
     "description": "Time to wake up from the eagereyes winter hibernation with an aromatic potpourri! This time, we have news about pies, stippling, colors, sorting algorithms, and a few more. Also a video of my collaborator Noeska singing the praises of medical visualization.",
     "date": "2018-03-11T17:27:07",
     "tags": [
-      "links"
+      "link"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/01/eagereyes.png",
     "outline": false
@@ -1102,7 +1104,7 @@
     "description": "A potpourri is a collection of spices and plants that create a pleasant aroma together. This new series assembles a list of links to recently interesting things in visualization, from both information visualization (InfoVis, which I normally cover on this site) and scientific visualization (SciVis) – the latter covered by new blog collaborator and medical visualization assistant professor, Noeska Smit.",
     "date": "2017-09-21T06:32:12",
     "tags": [
-      "links"
+      "link"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg",
     "outline": false
@@ -1115,7 +1117,7 @@
     "description": "Two books I’ve read recently make good points about stories that apply to data stories, without the books being about data: Shawn Callahan’s Putting Stories to Work and Jessica Abel’s Out On the Wire.",
     "date": "2017-09-18T18:57:44",
     "tags": [
-      "book-reviews",
+      "book-review",
       "storytelling"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/abel-callahan.jpg"
@@ -1163,7 +1165,7 @@
     "description": "Let’s talk about plots and joy. The Joy of Plots, if you will. Also, Joy Plots.",
     "date": "2017-07-10T20:41:08",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/07/joy-plot.jpg"
   },
@@ -1312,7 +1314,9 @@
     "title": "How Do We Know That? – Video of My Talk at UW",
     "description": "I gave a talk at the University of Washington a few weeks ago. This is an extended version of my BELIV paper An Empire Built on Sand from last year, with more examples and a lot more jokes. You'll learn about various things we know and don't know about visualization, and also whether spinach and carrots actually are good for you.",
     "date": "2017-04-04T20:04:30",
-    "tags": [],
+    "tags": [
+      "talk"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/04/uw-talk.png",
     "outline": false
   },
@@ -1336,7 +1340,7 @@
     "description": "Sonification turns data into sound, just like visualization turns data into pictures. Except it's a lot more complicated and limited. Something about sonification has always bugged me, and I think I've finally figured out what: the crowding on the time axis. I've also recently discovered some of the powers of sonification, though.",
     "date": "2017-03-02T19:46:06",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/03/Pulse-sound-tribute-780x427-1.png"
   },
@@ -1348,13 +1352,13 @@
     "description": "Visualization techniques encode data into visual shapes and colors. We assume that what the user of a visualization does is decode those values, but things aren’t that simple.",
     "date": "2017-02-20T21:25:18",
     "tags": [
-      "attention"
+      "perception"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/02/vispipeline-teaser.png"
   },
   {
     "slug": "come-to-my-talk-at-uw-on-tuesday-february-21",
-    "archived": false,
+    "archived": true,
     "comments": 1,
     "title": "Come To My Talk At UW On Tuesday, February 21",
     "description": "I'm giving a public lecture next Tuesday, February 21, at the University of Washington (UW). This is at the invitation of Professor Karen Cheng at the School of Art + Art History + Design. I will talk about what we know and what we don't know about visualization, and how we can expand our knowledge.",
@@ -1405,7 +1409,7 @@
     "date": "2017-01-17T20:35:05",
     "tags": [
       "isotype",
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype1.jpg"
   },
@@ -1492,7 +1496,7 @@
     "description": "Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she’d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began).",
     "date": "2016-11-30T08:19:57",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg",
@@ -1772,7 +1776,8 @@
     "description": "I gave a talk at Information+ earlier this year that has now been posted. It's about pie charts! And it was a fun talk, too.",
     "date": "2016-09-21T18:48:40",
     "tags": [
-      "pie-charts"
+      "pie-charts",
+      "talk"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png",
     "outline": false
@@ -1821,7 +1826,7 @@
     "description": "Giorgia Lupi and Stefanie Posavec have turned their Dear Data project into a book. It's a great example of the kind of creative work you can do around visualization without computers, entirely by hand. What started with a simple idea turned into an amazing project.",
     "date": "2016-09-11T21:57:47",
     "tags": [
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg",
     "outline": false
@@ -1847,7 +1852,7 @@
     "description": "Programming languages use words and symbols to represent structures like blocks and conditions. A visual representation of these structures seems useful to keep track of all the different cases, see the scope of variables, etc. Nassi-Shneiderman diagrams offer just such a representation.",
     "date": "2016-08-28T20:16:03",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/nassi-shneiderman-diagram.jpg",
     "outline": false
@@ -1860,7 +1865,7 @@
     "description": "Bar charts are great. They always work. They're always the safe choice. Right? Well, no. Stacked bar charts are deceiving because we think they work just like regular bars, when they're really pretty terrible.",
     "date": "2016-08-24T20:21:53",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/bars-stacked.png"
   },
@@ -1947,7 +1952,7 @@
     "date": "2016-07-04T20:49:45",
     "tags": [
       "zipscribble",
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png",
     "outline": false
@@ -1960,7 +1965,7 @@
     "description": "The Café Wall Illusion makes you to see perfectly parallel lines as being at an angle. It's a curiosity and a cool perceptual illusion – except when it shows up in a bar chart, as it did in this example.",
     "date": "2016-06-30T08:00:33",
     "tags": [
-      "attention"
+      "perception"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png",
     "outline": false
@@ -2085,7 +2090,7 @@
     "description": "The 6th edition of Designing the User Interface just came out. This is one of the central books in HCI. This edition is also notable because it adds a lot of fresh blood to the list of authors.",
     "date": "2016-05-15T20:30:45",
     "tags": [
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg",
     "outline": false
@@ -2111,7 +2116,7 @@
     "description": "We've turned the understanding of charts into formulas instead of encouraging people to think and ask questions. That doesn't produce better charts, it just gives people ways of feeling superior by parroting something about chart junk or 3D being bad. There is little to no research to back these things up.",
     "date": "2016-05-02T20:50:37",
     "tags": [
-      "attention",
+      "perception",
       "paper"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/05/Trivapro-graph.jpg"
@@ -2289,7 +2294,7 @@
     "description": "Bad writing and the inability to explain in terms normal people can understand are the hallmarks of academic writing. Here are two books every academic should read and take to heart to be able to recognize bad prose and learn how to fix it.",
     "date": "2015-12-01T23:21:57",
     "tags": [
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png"
   },
@@ -2526,7 +2531,9 @@
     "title": "Talk: How to Visualize Data",
     "description": "Last week, I gave one of the visualization primer talks at BioVis in Dublin. My goal was to show people some examples, but also criticize the rather poor visualization culture in bioinformatics and challenge people to do better. Here is a write-up of that talk.",
     "date": "2015-07-14T21:54:53",
-    "tags": [],
+    "tags": [
+      "talk"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/07/biovis-talk45.png",
     "outline": false
   },
@@ -2830,7 +2837,7 @@
     "description": "A paper on a specific cognitive mechanism may seems like an odd choice as the first paper in this series, but it is the one that sparked the idea for it. It is also the one that has its 30th birthday this year, having been published in August 1985. And it is an important paper, and could play an even bigger role in visualization if properly understood and used.",
     "date": "2015-01-25T20:26:11",
     "tags": [
-      "attention",
+      "perception",
       "paper"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif"
@@ -2971,7 +2978,7 @@
     "date": "2014-12-22T22:01:53",
     "tags": [
       "criticism",
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": null
   },
@@ -3073,7 +3080,7 @@
     "description": "Getting a sense of scale can be difficult, and the usual chart types like bars and lines don’t help. Showing scale requires a different approach, one that makes the multiplier directly visible.",
     "date": "2014-10-12T19:43:17",
     "tags": [
-      "techniques",
+      "technique",
       "isotype"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/10/ceos-static.png"
@@ -3155,7 +3162,7 @@
     "description": "Can you write an entire book about a single chart? Even if that chart is supposedly the best one ever? Menno-Jan Kraak's new book, Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812, discusses the historical context of Minard's work, his, life, and walks through a number of design exercises to show the same or similar data in different ways.",
     "date": "2014-06-25T21:01:07",
     "tags": [
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTime_lg.jpg"
   },
@@ -3192,7 +3199,7 @@
     "description": "Trees. They’re everywhere. And not just in the physical world, but in data visualization and knowledge representation as well. This is not a new phenomenon, it goes back thousands of years. Manuel Lima’s new book, The Book of Trees, gives an overview.",
     "date": "2014-04-13T19:57:09",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/04/DSCF1448.jpg"
@@ -3242,7 +3249,7 @@
     "date": "2014-01-28T21:28:32",
     "tags": [
       "criticism",
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2014/01/benefits-mirror2.png",
     "outline": false
@@ -3428,7 +3435,7 @@
     "description": "When I’m asked for a good book about visualization, I usually try to change the subject. There is no book I really love, they all have their issues. But thanks to Isabel Meirelles, I can now give a straight answer: Design for Information.",
     "date": "2013-10-20T20:12:31",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg"
@@ -3572,7 +3579,7 @@
     "date": "2013-07-17T20:14:31",
     "tags": [
       "criticism",
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": null,
     "outline": false
@@ -3611,8 +3618,8 @@
     "description": "Inattentional and change blindness are two fascinating phenomena that more people should be aware of. The Invisible Gorilla describes them as well as some other interesting and surprising psychological research.",
     "date": "2013-06-12T21:17:35",
     "tags": [
-      "book-reviews",
-      "attention",
+      "book-review",
+      "perception",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg",
@@ -3638,7 +3645,7 @@
     "description": "The same data can look very different in a line chart depending on its aspect ratio. But what is the perfect shape for a chart? A square? A rectangle? Which rectangle? It depends on the data.",
     "date": "2013-06-02T20:17:30",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/06/aspect-ratios.png"
   },
@@ -3804,7 +3811,7 @@
     "date": "2013-03-03T21:26:45",
     "tags": [
       "isotype",
-      "techniques",
+      "technique",
       "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/11/isotype-weaving.jpg",
@@ -3829,7 +3836,7 @@
     "description": "I recently came across this book that claims to collect the 100 most important diagrams in the history of mankind. It’s a good collection, with many wonderful examples, though it has its flaws.",
     "date": "2013-02-14T20:52:49",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": null,
@@ -3934,7 +3941,7 @@
     "description": "How do we know what we can do with things in the world or in user interfaces? What makes us push buttons, flip switches, or pick up objects that fit our hands? This guidance comes from affordances, a clever and intuitive theory that has been around for decades but is often misunderstood.",
     "date": "2012-12-02T21:30:06",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/12/gibson-cars.png"
   },
@@ -4036,7 +4043,7 @@
     "description": "When Alberto Cairo first told me about the book he was writing, called The Functional Art, he warned me that only a small part of it was going to be about visualization. I have no idea what he was talking about, the book I read was a visualization book from start to finish. It is one of the most interesting and insightful books on the topic I have read in a while.",
     "date": "2012-10-08T23:01:02",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": null
@@ -4470,7 +4477,7 @@
     "description": "Networks are usually drawn using a technique called node-link diagrams. While that works well for small graphs (the technical name for networks), it breaks down beyond a few dozen nodes. Better techniques exist, though these are currently focused on specific types of graphs or answer particular questions.",
     "date": "2012-02-01T21:30:00",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/02/matrix-vs-nodelink.png"
   },
@@ -4482,7 +4489,7 @@
     "description": "Venn diagrams are a great way to visualize the structure of set relationships. They're also an example of a technique that works very well for a particular purpose, but that entirely fails outside its well-defined scope or when the number of sets gets too large.",
     "date": "2012-01-29T21:30:00",
     "tags": [
-      "techniques",
+      "technique",
       "basics"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/venn-intersection-union.png"
@@ -4533,7 +4540,7 @@
     "date": "2012-01-15T21:32:42",
     "tags": [
       "zipscribble",
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png"
   },
@@ -4546,7 +4553,7 @@
     "date": "2012-01-11T23:17:18",
     "tags": [
       "journalism",
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/01/obama-area.png"
   },
@@ -4571,7 +4578,7 @@
     "description": "I was asked to write a review of two recent visualization books for Science: Nathan Yau's Visualize This and Manuel Lima's Visual Complexity. The piece appeared in the last issue of 2011, right before Christmas. Below is a link and some additional comments on the review and the two books.",
     "date": "2012-01-04T21:33:54",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png"
@@ -4630,7 +4637,7 @@
     "description": "While color is a purely visual phenomenon, the way we see color is not only a matter of our visual systems. It is well known that we are faster in telling colors apart that have different names, but do the names determine the colors or the colors the names? Recent work shows that language has a stronger influence than previously thought.",
     "date": "2011-11-20T18:31:02",
     "tags": [
-      "attention"
+      "perception"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2011/color-names-teaser.png"
   },
@@ -4748,7 +4755,7 @@
     "description": "The common wisdom in visualization is that to find periodicity in data, it should be displayed on a spiral whose period the user can control. Repeating patterns are easy to spot on a spiral, and its layout suggests repetition. But are spirals really the most effective way of finding periodic patterns? Here is an interactive version that lets you compare spirals against a rectangular layout to find out for yourself.",
     "date": "2011-08-07T21:03:06",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2011/spiral-teaser.png"
   },
@@ -4901,7 +4908,7 @@
     "description": "When visualizing uncertainty in data, a common choice is to use blur. While that may seem natural, it is unfortunately ineffective. Blur has the effect of guiding attention, but is hard to quantify and annoying to look at. Uncertainty information, or any other data, cannot be shown effectively this way.",
     "date": "2011-02-08T22:18:22",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2011/sdof-chess.jpg"
   },
@@ -4960,7 +4967,7 @@
     "description": "John Snow's map of the cholera dead after London's 1854 epidemic is often heralded as one of the earliest examples of graphical data analysis. Steven Johnson's The Ghost Map gives a lot of background about the London of the 1850s, Snow's work, and how central the map really was.",
     "date": "2010-11-28T18:55:14",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/broadstreetmap.png"
@@ -5127,7 +5134,7 @@
     "description": "You all know what statistics is, right? I mean, everybody knows. But if you had to explain why it's useful, and what it's useful for, would you have an answer? Do you know how statistics makes a difference in all our lives, all the time? Even if you (think you) do, check out Kaiser Fung's book, Numbers Rule Your World.",
     "date": "2010-09-28T17:09:35",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/numbersrule.jpg",
@@ -5234,7 +5241,7 @@
     "description": "The first episode of season 4 of Mad Men opens with Don Draper being interviewed by a journalist. He doesn't tell him anything that's of interest and then dodges the question Who is Don Draper? by claiming that he was taught as a child not to talk about himself. Scientists do an equally terrible job at communication, and for many of the same reasons. Cornelia Dean's book Am I Making Myself Clear? offers fascinating insights into both journalism and science, and provides concrete ideas for how to do better.",
     "date": "2010-08-01T20:18:26",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg",
@@ -5318,7 +5325,7 @@
     "description": "Beautiful Visualization is a collection of essays on a wide range of topics in visualization. Don't let the title mislead you: while it has its share of artistic visualization, there is also quite a bit of technical information in there. One of the chapters was written by yours truly.",
     "date": "2010-06-15T22:51:39",
     "tags": [
-      "book-reviews"
+      "book-review"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/beautifulvis.jpg",
     "outline": false
@@ -5388,7 +5395,7 @@
     "description": "Parallel coordinates are one of the most famous visualization techniques, and among the most common subjects of academic papers in visualization. While initially confusing, they are a very powerful tool for understanding multi-dimensional numerical datasets.",
     "date": "2010-05-13T10:56:42",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/parcoords-full.png"
   },
@@ -5494,7 +5501,7 @@
     "description": "Apple's iTunes Store is counting down to the ten-billionth (10,000,000,000th) song download. As in previous cases when they were running a download counter on their website, I am harvesting the data and visualizing it below.",
     "date": "2010-02-14T23:33:27",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2010/iTunes10billion-teaser.png"
   },
@@ -5530,7 +5537,7 @@
     "date": "2010-01-12T07:03:23",
     "tags": [
       "pie-charts",
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2008/chocolatepiechart.jpg"
   },
@@ -5565,7 +5572,7 @@
     "description": "Wether you believe that global warming is real or not, a bit of validation of the source data is still interesting. This is my second look at the global temperature data recently released by the UK's Met Office, this time using Tableau. There are some interesting data issues here, and a rather analytical visualization.",
     "date": "2009-12-14T09:46:48",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2009/climate/look-at-climate-teaser.png"
   },
@@ -5890,7 +5897,7 @@
     "description": "Apple's AppStore for iPhone and iPod touch is about to sell its billionth application. You can watch Apple's pretty counter webpage, or you can see the downloads piling up and the rate of downloads visualized below. Unlike the billionth song download a few years ago, this is in (almost) real-time. The collected data and the Python script that generates the images using Google Charts is included.",
     "date": "2009-04-11T10:01:19",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2009/billionapps.png",
     "outline": false
@@ -6159,8 +6166,8 @@
     "description": "What a difference 22 years make! In 1986, George Furnas published his paper, Generalized Fisheye Views, which described what was to become one of the first (and most prominent) focus+context techniques. One of the examples he used was a calendar that showed the current day in most detail, with less space for the surrounding ones. Yahoo! just started an opt-in beta of their new calendar that uses the same idea.",
     "date": "2008-10-08T20:30:19",
     "tags": [
-      "techniques",
-      "applications"
+      "technique",
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg",
     "outline": false
@@ -6233,7 +6240,7 @@
     "date": "2008-09-19T11:12:16",
     "tags": [
       "basics",
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png",
     "outline": false
@@ -6259,7 +6266,7 @@
     "description": "Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The square pie chart (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar.",
     "date": "2008-09-07T21:12:03",
     "tags": [
-      "techniques",
+      "technique",
       "pie-charts"
     ],
     "featuredImage": "http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg",
@@ -6285,7 +6292,7 @@
     "description": "The EagerEyes Labs' mission is to provide tools to gain insight into relevant data to everybody. As part of that, the plan has always been to release the source code. The first piece of code is now published, and more is coming.",
     "date": "2008-08-31T21:10:54",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": null,
     "outline": false
@@ -6298,7 +6305,7 @@
     "description": "Would McCain be the oldest US President? Would Obama be the youngest? Who was the youngest president? Were presidents younger in the past or older? What is the highest number of years a former president lived after leaving office? Who served the longest? Whose term was the shortest? The interactive visualization below lets you answer these and a few other questions.",
     "date": "2008-08-23T18:41:03",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2008/presdemo.png",
     "outline": false
@@ -6385,9 +6392,9 @@
     "description": "Colin Ware's latest book Visual Thinking for Design has a promising subtitle: active vision, attention, visual queries, gist, visual skills, color, narrative, design. That's covering quite a bit of ground, and also a lot of things not usually considered in visualization. While this is a book about design, I was interested in what it could teach people in InfoVis, and I review it from that point of view.",
     "date": "2008-06-08T20:07:25",
     "tags": [
-      "book-reviews",
+      "book-review",
       "criticism",
-      "attention"
+      "perception"
     ],
     "featuredImage": null
   },
@@ -6437,7 +6444,7 @@
     "description": "Treemaps are the single most used 'real' InfoVis technique there is. Interestingly, they have proven to be even more useful for unstructured data than for the hierarchies which they were originally developed for. Here is a brief history, discussion of current practical uses, and of the importance of treemaps for the adoption and understanding of information visualization.",
     "date": "2008-04-13T22:06:49",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2008/treemaps-generations.png"
   },
@@ -6483,7 +6490,7 @@
     "description": "I used the Presidential Demographics chart in my talk at the Impact of Social Data Visualization panel at InfoVis 2007, and got some interesting responses to that. There is some interest in printing this out, so I have made a new version of the chart that is now also available as a PDF. Stephen Few used Joseph Berk's term \"interocular traumatic impact\" &ndash; a visualization that hits you between the eyes &ndash; to describe it. And this is exactly what visualization can do extremely effectively: visual communication, and not just of data.",
     "date": "2007-11-30T00:29:17",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
     "outline": false
@@ -6802,7 +6809,7 @@
     "description": "With Hillary Clinton and Barack Obama being likely Democratic candidates for the 2008 presidential elections, it is time to look at the demographics of US Presidents over the years. The following diagrams compare their sex, race, and faith with the whole population in 2001.",
     "date": "2007-01-16T23:24:04",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
     "outline": false
@@ -6881,7 +6888,7 @@
     "date": "2006-12-04T09:38:26",
     "tags": [
       "zipscribble",
-      "applications"
+      "application"
     ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png",
     "outline": false
@@ -6929,7 +6936,7 @@
     "description": "Visual representations of time are particularly interesting, because they seem so logical. A point in time is a point in the visualization, an interval is a line. But things are not always that simple: planning and temporal uncertainty require more powerful visual tools. Sets of Possible Occurrences (SOPOs) are an example of a visual representation of time that is very flexible and powerful – and totally unintuitive.",
     "date": "2006-10-24T07:17:22",
     "tags": [
-      "techniques"
+      "technique"
     ],
     "featuredImage": "https://media.eagereyes.org/media/attachments/SOPOViewShot1.png"
   },
@@ -6954,7 +6961,7 @@
     "description": "Pie charts are a ubiquitous way of showing percentages. But while we can see differences in angles quite well, reading the meaning of the difference is another matter, so for precise data, we still need the numbers. A little known variant of pie charts is not round, but square, and can be read with an accuracy of one percent. We will look at data on women in information technology using this method.",
     "date": "2006-10-14T22:41:40",
     "tags": [
-      "techniques",
+      "technique",
       "pie-charts"
     ],
     "featuredImage": null,
@@ -7006,7 +7013,7 @@
     "description": "On February 23rd, 2006, Apple's iTunes Music Store (iTMS, now called the iTunes Store) sold its one billionth song. In the days leading up that event, Apple had a countdown on its webpages, which provided interesting information about the download habits of its customers. This page provides a visualization of the collected data, as well as of data that others collected leading up to the 100 millionth and 500 millionth downloads.",
     "date": "2006-10-02T11:39:31",
     "tags": [
-      "applications"
+      "application"
     ],
     "featuredImage": null
   },

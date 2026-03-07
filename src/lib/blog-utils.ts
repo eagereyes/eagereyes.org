@@ -14,11 +14,10 @@ export interface BlogPost {
 }
 
 export const tagNames: { [key: string]: string } = {
-	"applications": "Applications",
-	"attention": "Attenion",
+	"application": "Application",
 	"basics": "Visualization Basics",
-	"book-reviews": "Book Reviews",
-	"conference": "Conference Reports",
+	"book-review": "Book Review",
+	"conference": "Conference Report",
 	"criticism": "Criticism",
 	"eagereyestv": "EagerEyes Videos",
 	"eurovis": "EuroVis",
@@ -30,11 +29,13 @@ export const tagNames: { [key: string]: string } = {
 	"meta": "Meta/Site News",
 	"paper": "Paper",
 	"peer-review": "Peer Review",
+	"perception": "Perception",
 	"pie-charts": "Pie Charts",
 	"state-of-infovis": "State of InfoVis",
 	"storytelling": "Storytelling",
+	"talk": "Talk",
 	"tapestry": "Tapestry",
-	"techniques": "Techniques",
+	"technique": "Technique",
 	"zipscribble": "ZipScribble Maps"
 }
 
