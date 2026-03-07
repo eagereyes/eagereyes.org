@@ -1,9 +1,19 @@
-import type { PageServerLoad} from './$types';
+import type { PageServerLoad, EntryGenerator } from './$types';
 import { readFile } from 'node:fs/promises';
 import { PageType } from '$lib/blog-utils';
 import type { BlogPost } from '$lib/blog-utils';
 
 import posts from '../../../../content/blog-meta.json';
+
+export const entries: EntryGenerator = () => {
+    const allPosts = posts as Array<BlogPost>;
+    const allYears = [...new Set(allPosts.map(post => post.date.substring(0, 4)))];
+    return [
+        { slug: '' },
+        ...allYears.map(year => ({ slug: year })),
+        ...allPosts.map(post => ({ slug: `${post.date.substring(0, 4)}/${post.slug}` }))
+    ];
+};
 
 export const load: PageServerLoad = async ({ params }) => {
     let content = '';
