@@ -1,8 +1,15 @@
 import type { PageServerLoad, EntryGenerator } from './$types';
 import type { BlogPost } from '$lib/blog-utils';
 import { tagNames } from '$lib/blog-utils';
+import { redirect } from '@sveltejs/kit';
 
 import posts from '../../../../content/blog-meta.json';
+
+const TAG_REDIRECTS: Record<string, string> = {
+    'applications': '/tag/application',
+    'book-reviews': '/tag/book-review',
+    'techniques': '/tag/technique',
+};
 
 export const entries: EntryGenerator = () => {
     const tags = new Set<string>();
@@ -11,10 +18,16 @@ export const entries: EntryGenerator = () => {
             tags.add(tag);
         }
     }
-    return [...tags].map(tag => ({ tag }));
+    return [
+        ...[...tags].map(tag => ({ tag })),
+        ...Object.keys(TAG_REDIRECTS).map(tag => ({ tag })),
+    ];
 };
 
 export const load: PageServerLoad = async ({ params }) => {
+
+    const redirectTarget = TAG_REDIRECTS[params.tag];
+    if (redirectTarget) redirect(301, redirectTarget);
 
     let tagName = params.tag in tagNames ? tagNames[params.tag] : params.tag;
 

@@ -157,11 +157,6 @@ const REDIRECTS: Record<string, string> = {
     // section
     'section/criticism': '/tag/criticism',
 
-    // tags
-    'tag/applications': '/tag/application',
-    'tag/book-reviews': '/tag/book-review',
-    'tag/techniques': '/tag/technique',
-
     // techniques/[slug]
     'techniques/affordances': '/blog/2012/affordances',
     'techniques/blur-and-uncertainty': '/blog/2011/blur-and-uncertainty',

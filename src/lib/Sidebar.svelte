@@ -1,4 +1,5 @@
 <script lang="ts">
+    import { untrack } from 'svelte';
     import { tagNames } from '$lib/blog-utils';
 
     interface Props {
@@ -12,6 +13,7 @@
 
     let { years, yearCounts, sortedTags, tagCounts, defaultTab = 'years', currentYear }: Props = $props();
     let activeTab = $state(defaultTab);
+    $effect(() => { const tab = defaultTab; untrack(() => { activeTab = tab; }); });
     let alphabeticalTags = $derived([...sortedTags].sort((a, b) => (tagNames[a] ?? a).localeCompare(tagNames[b] ?? b)));
 </script>
 

@@ -3,7 +3,7 @@
 	import type { BlogPost } from '$lib/blog-utils';
 
 	let { data } = $props();
-	const posts: BlogPost[] = data.posts;
+	const posts: BlogPost[] = $derived(data.posts);
 
 	let query = $state('');
 	let results: BlogPost[] = $state([]);
