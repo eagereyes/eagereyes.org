@@ -1,27 +1,31 @@
+---
+description: About this site and its author, Robert Kosara. Also how to contact Robert, content license, and legal disclaimer.
+---
+
 # About EagerEyes
 
-EagerEyes is Robert Kosara’s place to reflect on the world of information visualization and visual communication of data. The goal is to help digest things that are happening in the field and discuss developments that may be tangential or early, but that are likely to have an impact. The opinions expressed here are Robert’s and nobody else’s.
+EagerEyes is my (Robert Kosara)’s place to reflect on the world of information visualization and visual communication of data. The goal is to help digest things that are happening in the field and discuss new developments. The audience has always been both the academic community and anybody with an interest in visual communication with data: practitioners, artists, designers, etc.
 
 ## The Site
 
-EagerEyes is Robert Kosara’s place to reflect on the world of information visualization and visual communication of data. The goal is to help digest things that are happening in the field and discuss developments that may be tangential or early, but that are likely to have an impact. The opinions expressed here are Robert’s and nobody else’s.
+This is really a personal blog, even though I always wanted to make sure that the posts have lasting value. There is a relatively small number of posts with a limited shelf life (which are now archived, see below), but the majority should be as relevant as on the day they were published – even if that's 10, 15, or 20 years ago.
 
-The original idea for the site involved the interplay of art and science in visualization. While the focus has shifted, I regularly touch upon questions of representation. In fact, I believe that visualization can be vastly improved by a better understanding issues of representation and reading of data.
+The site has gone through a number of reorganizations and platform changes. In the most recent one (March 2026), I marked a posts that seem outdated as archived. They are still on the site, but they are hidden by default in lists. They can be shown with a button at the top of the list (they also show up in searches).
 
-<!-- Other topics of interest include visualization for the masses, open data, and where the field of visualization is heading. <a href="/tag/criticism">Criticism</a> of visualization techniques and applications, websites, and books is also a regular feature. Discussions of <a href="/techniques">visualization techniques</a> provide insights into the thinking behind them. Around important conferences like <a href="http://ieeevis.org/">IEEE VIS</a>, I will post updates and pointers to things that are going on there. -->
-
-The first posting on EagerEyes went live on October 1, 2006. While there have been times with more and less activity, I post roughly once a week (typically late Sunday night PST).
-
-This is not a blog. Blogs tend to aim for quick, current commentary. The articles on this website are meant to be of value over a longer time period (except for the ones in the <a href="/blog">blog category</a>), and are usually much longer than the typical blog posting.
-
-Comments, suggestions, and criticism are strongly encouraged and always welcome. Feel free to comment on articles or send me a message through the contact form.
+The site allowed comments until early 2020, but they were turned off with the switch to a static site generator. The world has also shifted dramatically from the early 2000s and 2010s, when people would comment on blog posts. Old comments are preserved, but new ones can't be added for the time being (and likely never will be again).
 
 ## The Author
 
-Robert Kosara is Data Visualization Developer at <a href="https://observablehq.com">Observable</a>. Prior to Observable, he was Lead Research Scientist at Tableau Software (2012-2022) and Associate Professor of Computer Science at UNC Charlotte (2005-2012). He has created visualization techniques like Parallel Sets and performed research into the perceptual and cognitive basics of visualization. Recently, Robert’s research has focused on how to communicate and collaborate with data, and how storytelling can be adapted to incorporate data, interaction, and visualization.
+Robert Kosara is Technical Communicator at [Metabase](https://www.metabase.com). Prior to Metabase, Robert was Data Visualization Developer at Observable (2022-2025), Lead Research Scientist at Tableau Software (2012-2022), and Associate Professor of Computer Science at UNC Charlotte (2005-2012). He has created visualization techniques like Parallel Sets and performed research into the perceptual and cognitive basics of visualization. Recently, Robert’s research has focused on how to communicate and collaborate with data, and how storytelling can be adapted to incorporate data, interaction, and visualization.
 
-Robert received his M.Sc. and Ph.D. degrees in computer science from Vienna University of Technology (Vienna, Austria). His <a href="https://eagereyes.org/publications">list of publications</a> is available here. He can be found on <a href="https://mastodon.social/@eagereyes">Mastodon</a>, <a href="http://www.linkedin.com/in/rkosara">LinkedIn</a>, and <a href="http://scholar.google.com/citations?user=7BS9z-kAAAAJ">Google Scholar</a>. 
+Robert received his M.Sc. and Ph.D. degrees in computer science from Vienna University of Technology (Vienna, Austria). His <a href="https://eagereyes.org/publications">list of publications</a> is available here. He can be found on [github](https://github.com/eagereyes), [YouTube](https://www.youtube.com/@eagereyes), [LinkedIn](http://www.linkedin.com/in/rkosara), and [Google Scholar](http://scholar.google.com/citations?user=7BS9z-kAAAAJ). 
+
+## Content License
+
+All original content on this site is licensed under a [Creative Commons CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/):
+
+> _This license requires that reusers give credit to the creator. It allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, even for commercial purposes._
 
 ## Legal Disclaimer
 
-EagerEyes is Robert’s personal property and not affiliated with Observable, Tableau Software/Salesforce, UNC Charlotte, or any other entity. The postings here are based on my own opinions and views, and do not reflect those of my employer or anybody else.
+EagerEyes is Robert’s personal property and not affiliated with Metabase, Observable, Tableau Software, Salesforce, UNC Charlotte, or any other entity. The postings here are based on my own opinions and views, and do not reflect those of my employer or anybody else.
