@@ -6,7 +6,7 @@ export const prerender = true;
 
 export const GET: RequestHandler = async () => {
     const items = (galleries as Array<Gallery>).map((gallery) => {
-        const url = `https://eagereyes.org/photo/${gallery.slug}`;
+        const url = `https://eagereyes.org/photos/${gallery.slug}`;
         const pubDate = new Date(gallery.date).toUTCString();
 
         return `    <item>
@@ -22,10 +22,10 @@ export const GET: RequestHandler = async () => {
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eagereyes Photos</title>
-    <link>https://eagereyes.org/photo/</link>
+    <link>https://eagereyes.org/photos/</link>
     <description>Photo galleries by Robert Kosara</description>
     <language>en-us</language>
-    <atom:link href="https://eagereyes.org/photo/feed" rel="self" type="application/rss+xml" />
+    <atom:link href="https://eagereyes.org/photos/feed" rel="self" type="application/rss+xml" />
 ${items.join('\n')}
   </channel>
 </rss>`;

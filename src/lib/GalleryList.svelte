@@ -18,7 +18,7 @@ let filteredGalleries = $derived(galleries.slice(0, numGalleries === -1 ? galler
 
 {#each filteredGalleries as gallery}
     <article class="gallery-card">
-        <a class="card-image-link" href="/photo/{gallery.slug}" tabindex="-1" aria-hidden="true">
+        <a class="card-image-link" href="/photos/{gallery.slug}" tabindex="-1" aria-hidden="true">
             <div class="card-image">
                 <img src={gallery.featuredImage} alt="{gallery.title} featured photo" loading="lazy" />
             </div>
@@ -26,11 +26,11 @@ let filteredGalleries = $derived(galleries.slice(0, numGalleries === -1 ? galler
         <div class="card-body">
             {#if useHeading}
                 <h2 class="card-title">
-                    <a href="/photo/{gallery.slug}">{gallery.title}</a>
+                    <a href="/photos/{gallery.slug}">{gallery.title}</a>
                 </h2>
             {:else}
                 <p class="card-title">
-                    <a href="/photo/{gallery.slug}">{gallery.title}</a>
+                    <a href="/photos/{gallery.slug}">{gallery.title}</a>
                 </p>
             {/if}
             <p class="card-description">{gallery.description}</p>

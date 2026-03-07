@@ -35,8 +35,8 @@
 			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
 				<a href="/video/">Videos</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/photo') ? 'page' : undefined}>
-				<a href="/photo/">Photos</a>
+			<li aria-current={page.url.pathname.startsWith('/photos') ? 'page' : undefined}>
+				<a href="/photos/">Photos</a>
 			</li>
 			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined}>
 				<a href="/publications/">Papers</a>
