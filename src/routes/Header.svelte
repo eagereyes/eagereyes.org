@@ -194,7 +194,7 @@
 		padding: 0.25rem 0;
 		min-width: 10rem;
 		list-style: none;
-		margin: 0.25rem 0 0;
+		margin: 0;
 		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 		z-index: 100;
 	}
