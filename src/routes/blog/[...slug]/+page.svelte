@@ -23,6 +23,14 @@
 {:else}<title>{data.meta?.title} – eagereyes</title>
 {/if}
     <meta name="description" content={data.meta?.description} />
+{#if data.display === PageType.singlePost && data.meta}
+    <meta property="og:title" content="{data.meta.title} – eagereyes" />
+    <meta property="og:description" content={data.meta.description} />
+    <meta property="og:type" content="article" />
+    {#if data.meta.featuredImage}
+    <meta property="og:image" content={data.meta.featuredImage} />
+    {/if}
+{/if}
 </svelte:head>
 
 {#if data.display === PageType.allPosts || data.display === PageType.oneYear}
