@@ -14,9 +14,11 @@ EagerEyes has gone through a number of reorganizations and platform changes. In 
 
 The site allowed comments until early 2020, but they were turned off with the switch to a static site generator. The world has also shifted dramatically from the early 2000s and 2010s, when people would comment on blog posts. Old comments are preserved, but new ones can't be added for the time being (and likely never will be again).
 
-## How to Subscribe
+## How to Subscribe and/or Follow
 
 Currently, the only way to subscribe to the site is [via the feed](/feed), using an RSS reader.
+
+You can also [follow me on BlueSky](https://bsky.app/profile/eagereyes.org), where I post whenever I add anything here.
 
 ## The Author
 
@@ -26,7 +28,7 @@ Robert received his M.Sc. and Ph.D. degrees in computer science from Vienna Univ
 
 ## Contact
 
-Robert can be found on [github](https://github.com/eagereyes), [YouTube](https://www.youtube.com/@eagereyes), [LinkedIn](http://www.linkedin.com/in/rkosara), and [Google Scholar](http://scholar.google.com/citations?user=7BS9z-kAAAAJ). His [list of publications](/publications) is available here.
+Robert can be found on [BlueSky](https://bsky.app/profile/eagereyes.org), [github](https://github.com/eagereyes), [YouTube](https://www.youtube.com/@eagereyes), [LinkedIn](http://www.linkedin.com/in/rkosara), and [Google Scholar](http://scholar.google.com/citations?user=7BS9z-kAAAAJ). His [list of publications](/publications) is available here.
 
 ## Content License
 
