@@ -14,11 +14,19 @@ The site has gone through a number of reorganizations and platform changes. In t
 
 The site allowed comments until early 2020, but they were turned off with the switch to a static site generator. The world has also shifted dramatically from the early 2000s and 2010s, when people would comment on blog posts. Old comments are preserved, but new ones can't be added for the time being (and likely never will be again).
 
+## How to Subscribe
+
+Currently, the only way to subscribe to the site is [via the feed](/feed), using an RSS reader.
+
 ## The Author
 
 Robert Kosara is Technical Communicator at [Metabase](https://www.metabase.com). Prior to Metabase, Robert was Data Visualization Developer at Observable (2022-2025), Lead Research Scientist at Tableau Software (2012-2022), and Associate Professor of Computer Science at UNC Charlotte (2005-2012). He has created visualization techniques like Parallel Sets and performed research into the perceptual and cognitive basics of visualization. Recently, Robert’s research has focused on how to communicate and collaborate with data, and how storytelling can be adapted to incorporate data, interaction, and visualization.
 
-Robert received his M.Sc. and Ph.D. degrees in computer science from Vienna University of Technology (Vienna, Austria). His [list of publications](/publications) is available here. He can be found on [github](https://github.com/eagereyes), [YouTube](https://www.youtube.com/@eagereyes), [LinkedIn](http://www.linkedin.com/in/rkosara), and [Google Scholar](http://scholar.google.com/citations?user=7BS9z-kAAAAJ). 
+Robert received his M.Sc. and Ph.D. degrees in computer science from Vienna University of Technology (Vienna, Austria).
+
+## Contact
+
+Robert can be found on [github](https://github.com/eagereyes), [YouTube](https://www.youtube.com/@eagereyes), [LinkedIn](http://www.linkedin.com/in/rkosara), and [Google Scholar](http://scholar.google.com/citations?user=7BS9z-kAAAAJ). His [list of publications](/publications) is available here.
 
 ## Content License
 

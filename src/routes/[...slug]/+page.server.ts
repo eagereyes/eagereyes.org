@@ -4,10 +4,7 @@ import { error, redirect } from '@sveltejs/kit';
 
 const CONTENT_PAGES: Record<string, string> = {
     about: 'About EagerEyes',
-    contact: 'Contact Robert Kosara',
-    license: 'License',
     'pie-charts': 'Understanding Pie Charts',
-    subscribe: 'Subscribe',
 };
 
 const REDIRECTS: Record<string, string> = {
@@ -15,6 +12,9 @@ const REDIRECTS: Record<string, string> = {
     'zipscribble-map': '/app/zipscribble-map',
     'zipscribble-maps': '/app/zipscribble-map',
     'parallel-sets': '/publications/Kosara-TVCG-2006',
+    'contact': '/about#contact',
+    'license': '/about#content-license',
+    'subscribe': '/about#how-to-subscribe',
 
     // attention/[slug]
     'attention/banking-45-degrees': '/blog/2013/banking-45-degrees',
