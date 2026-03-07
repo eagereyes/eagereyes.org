@@ -292,6 +292,16 @@
         display: block;
     }
 
+    @media (max-width: 600px) {
+        .paper-card {
+            flex-direction: column;
+        }
+
+        .card-thumb {
+            width: 100%;
+        }
+    }
+
     .card-body {
         display: flex;
         flex-direction: column;
