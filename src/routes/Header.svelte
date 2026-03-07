@@ -32,6 +32,12 @@
 			<li aria-current={page.url.pathname.startsWith('/blog') || page.url.pathname.startsWith('/tag') ? 'page' : undefined}>
 				<a href="/blog/">Blog</a>
 			</li>
+			<li class="dropdown" aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined}>
+				<button class="dropdown-toggle" aria-haspopup="true">Apps ▾</button>
+				<ul class="dropdown-menu">
+					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
+				</ul>
+			</li>
 			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
 				<a href="/video/">Videos</a>
 			</li>
@@ -148,6 +154,67 @@
 	li[aria-current='page'] a {
 		color: var(--color-theme-1);
 		background-color: color-mix(in srgb, var(--color-theme-1) 12%, transparent);
+	}
+
+	li.dropdown {
+		position: relative;
+	}
+
+	.dropdown-toggle {
+		display: flex;
+		align-items: center;
+		padding: 0.35rem 0.6rem;
+		color: var(--color-text);
+		font-weight: 600;
+		font-size: 0.8rem;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		background: none;
+		border: none;
+		border-radius: 5px;
+		cursor: pointer;
+		transition: color 0.15s, background-color 0.15s;
+	}
+
+	.dropdown-toggle:hover,
+	li.dropdown[aria-current='page'] .dropdown-toggle {
+		color: var(--color-theme-1);
+		background-color: color-mix(in srgb, var(--color-theme-1) 8%, transparent);
+	}
+
+	li.dropdown[aria-current='page'] .dropdown-toggle {
+		background-color: color-mix(in srgb, var(--color-theme-1) 12%, transparent);
+	}
+
+	.dropdown-menu {
+		display: none;
+		position: absolute;
+		top: 100%;
+		right: 0;
+		background: var(--color-bg-1);
+		border: 1px solid var(--color-border);
+		border-radius: 6px;
+		padding: 0.25rem 0;
+		min-width: 10rem;
+		list-style: none;
+		margin: 0;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+		z-index: 100;
+	}
+
+	li.dropdown:hover .dropdown-menu,
+	li.dropdown:focus-within .dropdown-menu {
+		display: block;
+	}
+
+	.dropdown-menu li a {
+		display: block;
+		padding: 0.4rem 0.8rem;
+		font-size: 0.8rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.08em;
+		border-radius: 0;
 	}
 
 	@media (max-width: 600px) {

@@ -53,9 +53,9 @@
         const found: BlogPost[] = [];
         for (const field of raw) {
             for (const { doc } of field.result) {
-                if (!seen.has(doc.slug)) {
-                    seen.add(doc.slug);
-                    found.push(doc as BlogPost);
+                if (doc && !seen.has(doc.slug as string)) {
+                    seen.add(doc.slug as string);
+                    found.push(doc as unknown as BlogPost);
                 }
             }
         }
