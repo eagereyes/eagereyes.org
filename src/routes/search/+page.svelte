@@ -1,12 +1,16 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import type { BlogPost } from '$lib/blog-utils';
+	import type { SearchPage } from './+page.server';
+
+	type SearchResult = { slug: string; title: string; description?: string; date?: string; url?: string };
 
 	let { data } = $props();
 	const posts: BlogPost[] = $derived(data.posts);
+	const pages: SearchPage[] = $derived(data.pages);
 
 	let query = $state('');
-	let results: BlogPost[] = $state([]);
+	let results: SearchResult[] = $state([]);
 	let index: any;
 
 	onMount(async () => {
@@ -27,6 +31,9 @@
 		for (const post of posts) {
 			index.add({ ...post, body: bodyMap.get(post.slug) ?? '' });
 		}
+		for (const page of pages) {
+			index.add({ ...page, body: bodyMap.get(page.slug) ?? '' });
+		}
 
 		const q = new URLSearchParams(window.location.search).get('q');
 		if (q) {
@@ -42,21 +49,22 @@
 		}
 		const raw = index.search(query, { enrich: true });
 		const seen = new Set<string>();
-		const found: BlogPost[] = [];
+		const found: SearchResult[] = [];
 		for (const field of raw) {
 			for (const { doc } of field.result) {
 				if (!seen.has(doc.slug)) {
 					seen.add(doc.slug);
-					found.push(doc as BlogPost);
+					found.push(doc as SearchResult);
 				}
 			}
 		}
 		results = found;
 	}
 
-	function postUrl(post: BlogPost) {
-		const year = post.date.slice(0, 4);
-		return `/blog/${year}/${post.slug}`;
+	function resultUrl(result: SearchResult) {
+		if (result.url) return result.url;
+		const year = result.date!.slice(0, 4);
+		return `/blog/${year}/${result.slug}`;
 	}
 </script>
 
@@ -74,12 +82,12 @@
 
 	{#if results.length > 0}
 		<ul>
-			{#each results as post}
+			{#each results as result}
 				<li>
-					<a href={postUrl(post)}>{post.title}</a>
-					<span class="date">{post.date.slice(0, 10)}</span>
-					{#if post.description}
-						<p>{post.description}</p>
+					<a href={resultUrl(result)}>{result.title}</a>
+					{#if result.date}<span class="date">{result.date.slice(0, 10)}</span>{/if}
+					{#if result.description}
+						<p>{result.description}</p>
 					{/if}
 				</li>
 			{/each}

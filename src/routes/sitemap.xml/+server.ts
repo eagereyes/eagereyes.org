@@ -10,6 +10,7 @@ const STATIC_PAGES = [
     { url: 'https://eagereyes.org/video/', priority: '0.8' },
     { url: 'https://eagereyes.org/publications/', priority: '0.8' },
     { url: 'https://eagereyes.org/about', priority: '0.7' },
+    { url: 'https://eagereyes.org/pie-charts', priority: '0.7' },
 ];
 
 export const GET: RequestHandler = async () => {
