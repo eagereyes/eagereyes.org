@@ -19,6 +19,7 @@ export const tagNames: { [key: string]: string } = {
 	"book-review": "Book Review",
 	"conference": "Conference Report",
 	"criticism": "Criticism",
+	"data": "Data",
 	"eagereyestv": "EagerEyes Videos",
 	"eurovis": "EuroVis",
 	"ieeevis": "IEEE VIS",

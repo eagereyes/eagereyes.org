@@ -5560,7 +5560,9 @@
     "title": "Temperature Baseline Differences",
     "description": "Tableau started the beta of its Tableau Public program today, and what better way to kick the tires than to run some more climate data through it? Below, you can look at temperature data from 343 weather stations over twenty years (77172 obervations) to compare the difference from the baseline numbers in the 1970s and 2000s.",
     "date": "2009-12-16T21:03:02",
-    "tags": [],
+    "tags": [
+      "data"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png",
     "outline": false
   },
@@ -5572,7 +5574,8 @@
     "description": "Wether you believe that global warming is real or not, a bit of validation of the source data is still interesting. This is my second look at the global temperature data recently released by the UK's Met Office, this time using Tableau. There are some interesting data issues here, and a rather analytical visualization.",
     "date": "2009-12-14T09:46:48",
     "tags": [
-      "application"
+      "application",
+      "data"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2009/climate/look-at-climate-teaser.png"
   },
@@ -5584,7 +5587,8 @@
     "description": "The United Kingdom's Met Office recently released temperature data for about 1700 weather stations across the globe from 1701 to 2009. Here is an interactive visualization (built using Protovis) of that data for you to explore.",
     "date": "2009-12-11T00:58:50",
     "tags": [
-      "link"
+      "link",
+      "data"
     ],
     "featuredImage": "https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png",
     "outline": false
@@ -5644,7 +5648,9 @@
     "title": "The Simple Way to Scrape an HTML Table: Google Docs",
     "description": "Raw data is the best data, but a lot of public data can still only be found in tables rather than as directly machine-readable files. One example is the FDIC's List of Failed Banks. Here is a simple trick to scrape such data from a website: Use Google Docs.",
     "date": "2009-11-15T09:59:08",
-    "tags": [],
+    "tags": [
+      "data"
+    ],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2009/11/google-import.png",
     "outline": false
   },
@@ -5781,7 +5787,9 @@
     "title": "A Browser for Data.gov",
     "description": "Data.gov's selection of data is slowly growing, but even with less than 300 datasets, it is difficult to keep an overview of what is there. Below is a little Java applet that provides a way to drill down into data.gov's catalog using a variety of categories: reporting agency, geographic coverage, frequency, data type, etc. Besides giving a better idea what is there, it also shows a number of inconsistencies that make finding data more difficult.",
     "date": "2009-06-15T07:53:27",
-    "tags": [],
+    "tags": [
+      "data"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png",
     "outline": false
   },
@@ -5792,7 +5800,9 @@
     "title": "Data Is A Dish Best Served Raw",
     "description": "The recent opening of Data.gov has led to a number of discussions on data formats, feeds, what kinds of data, which agencies are or are not participating, etc. One key aspect that gets overlooked very easily, but that is really essential, is that what is being published is actual data: original, raw, unprocessed, undigested, naked data. Everything else is secondary.",
     "date": "2009-06-04T21:06:53",
-    "tags": [],
+    "tags": [
+      "data"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2009/data-zoom.jpg",
     "outline": false
   },
@@ -6025,7 +6035,9 @@
     "title": "Pushing Data over Email",
     "description": "Email is still a useful transport mechanism for data (like Google Analytics, etc.), despite ftp, web services, etc. Some websites offer email for cheap, while other access can cost a lot of money. Email is also a push service, meaning you do not have to ask periodically if new data has arrived - if you do it right. Of course, that service is rather useless without an automated way to get that data into a database. Here is an introduction to the procmail program and the ancient art of the Unix mail filter.",
     "date": "2008-11-19T22:11:18",
-    "tags": [],
+    "tags": [
+      "data"
+    ],
     "featuredImage": "https://media.eagereyes.org/media/2008/emailDog_small.jpg"
   },
   {

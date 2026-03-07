@@ -103,6 +103,9 @@ const REDIRECTS: Record<string, string> = {
     'eagereyestv/new-video-florence-nightingales-famous-rose-chart-aka-coxcomb': '/blog/2021/new-video-florence-nightingales-famous-rose-chart-aka-coxcomb',
     'eagereyestv/new-video-linear-vs-quadratic-change': '/blog/2021/new-video-linear-vs-quadratic-change',
 
+    // history/[slug]
+    'history/the-repetitive-and-boring-history-of-visualization': '/blog/2016/the-repetitive-and-boring-history-of-visualization',
+
     // influences/[slug]
     'influences/alan-maceachren': '/blog/2007/alan-maceachren',
     'influences/chaomei-chen': '/blog/2007/chaomei-chen',
@@ -147,6 +150,18 @@ const REDIRECTS: Record<string, string> = {
     'papers/the-connected-scatterplot-for-presenting-paired-time-series': '/blog/2015/the-connected-scatterplot-for-presenting-paired-time-series',
     'papers/vis-criticism': '/blog/2008/vis-criticism',
 
+    // portrait
+    'portrait/danielle-albers-szafir': '/blog/2017/danielle-albers-szafir',
+    'portrait/jason-dykes': '/blog/2018/jason-dykes',
+
+    // section
+    'section/criticism': '/tag/criticism',
+
+    // tags
+    'tag/applications': '/tag/application',
+    'tag/book-reviews': '/tag/book-review',
+    'tag/techniques': '/tag/technique',
+
     // techniques/[slug]
     'techniques/affordances': '/blog/2012/affordances',
     'techniques/blur-and-uncertainty': '/blog/2011/blur-and-uncertainty',
@@ -162,6 +177,16 @@ const REDIRECTS: Record<string, string> = {
     'techniques/stacked-bars-are-the-worst': '/blog/2016/stacked-bars-are-the-worst',
     'techniques/treemaps': '/blog/2008/treemaps',
     'techniques/venn-diagrams': '/blog/2012/venn-diagrams',
+
+    // tutorials/[slug]
+    'tutorials/protovis-primer-part-1': '/blog/2010/protovis-primer-part-1',
+    'tutorials/protovis-primer-part-2': '/blog/2010/protovis-primer-part-2',
+    'tutorials/protovis-primer-part-3': '/blog/2010/protovis-primer-part-3',
+
+    // vis-potpourri/[slug]
+    'vis-potpourri/march-2018': '/blog/2018/march-2018',
+    'vis-potpourri/october-2017': '/blog/2017/october-2017',
+    'vis-potpourri/september-2017': '/blog/2017/september-2017',
 
     // zipscribble-maps/[slug]
     'zipscribble-maps/australia': '/app/zipscribble-map#australia',
