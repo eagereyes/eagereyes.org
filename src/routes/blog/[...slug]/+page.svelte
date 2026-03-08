@@ -168,7 +168,7 @@
         margin-bottom: 0;
     }
 
-    @media (max-width: 600px) {
+    @media (max-width: 768px) {
         .post-grid {
             grid-template-columns: 1fr;
         }
