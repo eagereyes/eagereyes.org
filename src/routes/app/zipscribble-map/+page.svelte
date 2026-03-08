@@ -1,4 +1,5 @@
 <script>
+	import { onMount } from 'svelte';
 	import App from '$lib/zipscribble/App.svelte';
 
 	const COUNTRIES = [
@@ -42,8 +43,30 @@
 		{ code: 'GB', name: 'United Kingdom' },
 	];
 
+	const VALID_CODES = new Set(COUNTRIES.map(c => c.code));
+
+	function countryFromHash() {
+		const code = window.location.hash.slice(1).toUpperCase();
+		return VALID_CODES.has(code) ? code : 'US';
+	}
+
 	let country = $state('US');
 	let container = $state();
+
+	onMount(() => {
+		country = countryFromHash();
+		const onHashChange = () => { country = countryFromHash(); };
+		window.addEventListener('hashchange', onHashChange);
+		return () => window.removeEventListener('hashchange', onHashChange);
+	});
+
+	$effect(() => {
+		if (country === 'US') {
+			history.replaceState(null, '', window.location.pathname);
+		} else {
+			history.replaceState(null, '', `#${country}`);
+		}
+	});
 
 	function toggleFullscreen() {
 		if (!document.fullscreenElement) {
