@@ -79,3 +79,15 @@ Server-side load functions (`+page.server.ts`) import JSON data files directly a
 ### Tags
 
 The `tagNames` map in `src/lib/blog-utils.ts` maps tag slugs to display names. Tags not in this map fall back to the raw slug.
+
+### ZIPScribble App
+
+The interactive ZIPScribble map lives under `src/routes/app/zipscribble-map/` and `src/lib/zipscribble/`.
+
+- `App.svelte` — top-level component; accepts a `country` prop; uses `$effect` reactive on country to load data; uses `ResizeObserver` to track SVG dimensions
+- `ZIPScribble.svelte` — US-only view with zoom/pan animation (`d3-interpolate`, `tweened`), `Navigator.svelte` bar, and `Title.svelte` panel
+- `CountryScribble.svelte` — non-US view; renders a world base map (gray polygons) behind the postal code scribble; uses `geoMercator().fitExtent()` with 24px padding
+- `static/zipscribble-data/` — static data files: `us-lower48.csv`, `us-states-20m.json`, `world-50m.json` (TopoJSON), and `zipscribble_<CC>.json` per country
+- Country GeoJSON files come in two formats: `FeatureCollection` (most countries) and plain `LineString` (GL, IS, SI, TH) — handled by type check in `CountryScribble.svelte`
+- World base map loaded once and cached (guarded by `if (!worldGeoData)`) across country switches
+- Dependencies: `d3-geo`, `d3-fetch`, `d3-interpolate`, `topojson-client`, `world-atlas`
