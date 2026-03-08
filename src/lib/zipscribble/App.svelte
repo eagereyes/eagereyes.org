@@ -2,6 +2,7 @@
 // @ts-nocheck
 	import { csv, json } from 'd3-fetch';
 	import { geoAlbers } from 'd3-geo';
+	import { feature } from 'topojson-client';
 	import { onMount } from 'svelte';
 	import { base } from '$app/paths';
 
@@ -43,6 +44,7 @@
 
 	let states = $state([]);
 	let countryGeoData = $state(null);
+	let worldGeoData = $state(null);
 
 	let zoomRange = $state([]);
 	let highlightRange = $state([]);
@@ -167,6 +169,10 @@
 		} else {
 			json(`${base}/zipscribble-data/zipscribble_${c}.json`)
 				.then(data => countryGeoData = data);
+			if (!worldGeoData) {
+				json(`${base}/zipscribble-data/world-50m.json`)
+					.then(topo => worldGeoData = feature(topo, topo.objects.countries));
+			}
 		}
 	});
 
@@ -201,7 +207,7 @@
 				bind:title={title} bind:subtitle={subtitle}
 				/>
 		{:else if country !== 'US' && countryGeoData}
-			<CountryScribble geoData={countryGeoData} width={SVGWIDTH} height={SVGHEIGHT} />
+			<CountryScribble geoData={countryGeoData} worldData={worldGeoData} width={SVGWIDTH} height={SVGHEIGHT} />
 		{/if}
 	</svg>
 </main>
