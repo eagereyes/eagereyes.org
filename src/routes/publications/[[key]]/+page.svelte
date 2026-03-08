@@ -61,6 +61,14 @@
 		return `https://media.eagereyes.org/papers/${yr}/${key.replaceAll(':', '-')}.pdf`;
 	}
 
+	function thumbUrl(key: string) {
+		return `https://media.eagereyes.org/paper-thumbs/${key.replaceAll(':', '-')}-thumb.png`;
+	}
+
+	function previewUrl(key: string) {
+		return `https://media.eagereyes.org/paper-previews/${key.replaceAll(':', '-')}.png`;
+	}
+
 	function toBibtex(paper: typeof data.paper): string {
 		const type = paper._type;
 		const key = paper._key;
@@ -104,8 +112,8 @@
     <h1>{data.paper.title}</h1>
 
     <div class="paper-body">
-        {#if "_thumb" in data.paper}
-            <img class="paper-thumb" src="https://media.eagereyes.org{data.paper._thumb}" alt="Thumbnail for {data.paper.title}" />
+        {#if data.paper._pdf !== 'no'}
+            <img class="paper-thumb" src={previewUrl(data.paper._key)} alt="Preview for {data.paper.title}" />
         {/if}
 
         <p class="paper-citation">{@html formatCitation(data.paper)}</p>
@@ -133,8 +141,8 @@
 {#each data.papers as paper}
     <article class="paper-card">
         <a class="card-link" href="/publications/{paper._key.replaceAll(':', '-')}" aria-label={paper.title}></a>
-        {#if "_thumb" in paper}
-            <img class="card-thumb" src="https://media.eagereyes.org{paper._thumb}" alt="Thumbnail for {paper.title}" loading="lazy" />
+        {#if paper._pdf !== 'no'}
+            <img class="card-thumb" src={thumbUrl(paper._key)} alt="Thumbnail for {paper.title}" loading="lazy" />
         {/if}
         <div class="card-body">
             <h2 class="card-title">{paper.title}</h2>
