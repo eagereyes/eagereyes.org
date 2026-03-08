@@ -1,5 +1,5 @@
 Carlos Scheidegger says…
->	(The first paragraph is missing an ending)
+> (The first paragraph is missing an ending)
 
 Robert Kosara says…
->	I fixed it, thanks ;)
+> I fixed it, thanks ;)
