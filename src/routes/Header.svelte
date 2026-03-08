@@ -9,6 +9,7 @@
 	let moreActive = $derived(
 		page.url.pathname.startsWith('/app') ||
 		page.url.pathname.startsWith('/video') ||
+		page.url.pathname.startsWith('/photos') ||
 		page.url.pathname.startsWith('/publications') ||
 		page.url.pathname.startsWith('/about')
 	);
@@ -44,6 +45,7 @@
 				<ul class="dropdown-menu">
 					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
 					<li><a href="/video/">Videos</a></li>
+					<li><a href="/photos/">Photos</a></li>
 					<li><a href="/publications/">Papers</a></li>
 					<li><a href="/about">About</a></li>
 				</ul>
@@ -56,6 +58,9 @@
 			</li>
 			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
 				<a href="/video/">Videos</a>
+			</li>
+			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/photos') ? 'page' : undefined}>
+				<a href="/photos/">Photos</a>
 			</li>
 			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined}>
 				<a href="/publications/">Papers</a>

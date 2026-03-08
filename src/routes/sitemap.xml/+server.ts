@@ -1,6 +1,8 @@
 import type { RequestHandler } from './$types';
 import posts from '../../../content/blog-meta.json';
+import galleries from '../../../content/photos.json';
 import type { BlogPost } from '$lib/blog-utils';
+import type { Gallery } from '$lib/photo-utils';
 
 export const prerender = true;
 
@@ -31,9 +33,23 @@ export const GET: RequestHandler = async () => {
   </url>`;
     });
 
+    const galleryUrls = (galleries as Array<Gallery>).map((gallery) => {
+        const lastmod = gallery.date.split('T')[0];
+        return `  <url>
+    <loc>https://eagereyes.org/photos/${gallery.slug}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <priority>0.7</priority>
+  </url>`;
+    });
+
     const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${staticUrls.join('\n')}
+  <url>
+    <loc>https://eagereyes.org/photos/</loc>
+    <priority>0.8</priority>
+  </url>
+${galleryUrls.join('\n')}
 ${postUrls.join('\n')}
 </urlset>`;
 
