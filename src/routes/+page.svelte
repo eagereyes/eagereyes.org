@@ -2,6 +2,7 @@
 
 import BlogList from "$lib/BlogList.svelte";
 import VideoList from "$lib/VideoList.svelte";
+import AppList from "$lib/AppList.svelte";
 
 import type { PageProps } from './$types';
 
@@ -23,17 +24,22 @@ let { data }: PageProps = $props();
 		<a href="/blog/" class="more">More…</a>
 	</section>
 
-	<section class="videos">
-		<h1 class="section-header"><a href="/video/">Videos</a></h1>
-		<div>
-			<VideoList videos={data.videos} numVideos={5} useHeading={false} />
-		</div>
-		<a href="/video/" class="more">More…</a>
-	</section>
+	<div class="right-column">
+		<section class="videos">
+			<h1 class="section-header"><a href="/video/">Videos</a></h1>
+			<div>
+				<VideoList videos={data.videos} numVideos={5} useHeading={false} />
+			</div>
+			<a href="/video/" class="more">More…</a>
+		</section>
 
-	<!-- <section class="apps">
-		<h2>Apps</h2>
-	</section> -->
+		<section class="apps">
+			<h1 class="section-header">Apps</h1>
+			<div>
+				<AppList apps={data.apps} />
+			</div>
+		</section>
+	</div>
 </main>
 
 <style>
@@ -76,11 +82,17 @@ let { data }: PageProps = $props();
 		padding-right: 1em;
 	}
 
-	.videos {
+	.right-column {
 		flex: 0.34;
 		width: 34%;
-		height: 12em;
 		padding-left: 1em;
+		display: flex;
+		flex-direction: column;
+	}
+
+	.apps {
+		border-top: 1px solid var(--color-border);
+		padding-top: 1em;
 	}
 
 	@media (max-width: 768px) {
@@ -95,9 +107,9 @@ let { data }: PageProps = $props();
 			padding-right: 0;
 		}
 
-		.videos {
+		.right-column {
 			width: 100%;
-			height: auto;
+			padding-left: 0;
 		}
 	}
 
