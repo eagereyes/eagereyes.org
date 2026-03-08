@@ -45,6 +45,7 @@
     <div class="gallery-grid">
         <GalleryList galleries={data.galleries} />
     </div>
+    <p class="feed-link"><a href="/photos/feed">Photos RSS Feed</a></p>
 
 {/if}
 
@@ -64,6 +65,25 @@
         .gallery-grid {
             grid-template-columns: 1fr;
         }
+    }
+
+    .feed-link {
+        margin-top: 2rem;
+        text-align: center;
+        font-size: 0.85rem;
+        color: var(--color-text);
+        opacity: 0.6;
+    }
+
+    .feed-link a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .feed-link a:hover {
+        opacity: 1;
+        color: var(--color-theme-1);
+        text-decoration: underline;
     }
 
     /* Gallery detail page */
