@@ -34,9 +34,10 @@
 {#if index >= 0 && photo}
 <div
     class="overlay"
-    role="button"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Photo lightbox"
     tabindex="-1"
-    aria-label="Close lightbox"
     onclick={onclose}
 >
     <button

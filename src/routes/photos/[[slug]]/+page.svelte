@@ -33,7 +33,12 @@
         {#each data.gallery.photos as row}
             <div class="photo-row" class:pair={row.length === 2}>
                 {#each row as photo}
-                    <figure class="photo-figure" onclick={() => lightboxIndex = flatPhotos.indexOf(photo)}>
+                    <figure class="photo-figure"
+                        role="button"
+                        tabindex="0"
+                        onclick={() => lightboxIndex = flatPhotos.indexOf(photo)}
+                        onkeydown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); lightboxIndex = flatPhotos.indexOf(photo); } }}
+                    >
                         <img src={photo.src} alt={photo.alt} loading="lazy" />
                         {#if photo.alt}
                             <figcaption>{photo.alt}</figcaption>
