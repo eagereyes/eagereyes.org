@@ -106,4 +106,21 @@
 		width: 100vw;
 		height: 100vh;
 	}
+
+	.toolbar button {
+		padding: 0.3rem 0.7rem;
+		font-size: 0.85rem;
+		border: 1px solid var(--color-border);
+		border-radius: 5px;
+		background: transparent;
+		color: var(--color-text);
+		cursor: pointer;
+		transition: background-color 0.15s, color 0.15s;
+	}
+
+	.toolbar button:hover {
+		background-color: color-mix(in srgb, var(--color-theme-1) 10%, transparent);
+		color: var(--color-theme-1);
+		border-color: var(--color-theme-1);
+	}
 </style>
