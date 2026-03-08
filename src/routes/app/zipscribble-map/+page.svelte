@@ -60,13 +60,14 @@
 		return () => window.removeEventListener('hashchange', onHashChange);
 	});
 
-	$effect(() => {
-		if (country === 'US') {
+	function setCountry(code) {
+		country = code;
+		if (code === 'US') {
 			history.replaceState(null, '', window.location.pathname);
 		} else {
-			history.replaceState(null, '', `#${country}`);
+			history.replaceState(null, '', `#${code}`);
 		}
-	});
+	}
 
 	function toggleFullscreen() {
 		if (!document.fullscreenElement) {
@@ -94,7 +95,7 @@
 
 <div class="zipscribble-page">
 	<div class="toolbar">
-		<select bind:value={country} aria-label="Select country">
+		<select value={country} onchange={e => setCountry(e.currentTarget.value)} aria-label="Select country">
 			{#each COUNTRIES as c}
 				<option value={c.code}>{c.name}</option>
 			{/each}
