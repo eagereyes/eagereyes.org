@@ -121,6 +121,7 @@
     .post-card {
         display: flex;
         flex-direction: column;
+        position: relative;
         border: 1px solid var(--color-border);
         border-radius: 6px;
         overflow: hidden;
@@ -129,6 +130,7 @@
         transition:
             box-shadow 0.2s ease,
             transform 0.2s ease;
+        cursor: pointer;
     }
 
     .post-card:hover {
@@ -188,6 +190,12 @@
         text-decoration: none;
     }
 
+    .card-title a::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+    }
+
     .card-title a:hover {
         color: var(--color-theme-1);
         text-decoration: none;
@@ -219,6 +227,8 @@
         color: var(--color-text);
         text-decoration: none;
         opacity: 0.8;
+        position: relative;
+        z-index: 1;
     }
 
     .tag:hover {
