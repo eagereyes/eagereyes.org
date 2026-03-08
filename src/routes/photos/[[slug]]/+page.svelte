@@ -52,6 +52,7 @@
         onprev={() => lightboxIndex--}
         onnext={() => lightboxIndex++}
     />
+    <p class="back-link"><a href="/photos/">← All galleries</a></p>
 </div>
 {:else}
 
@@ -98,6 +99,22 @@
         opacity: 1;
         color: var(--color-theme-1);
         text-decoration: underline;
+    }
+
+    .back-link {
+        margin-top: 2rem;
+        font-size: 0.85rem;
+    }
+
+    .back-link a {
+        color: var(--color-text);
+        text-decoration: none;
+        opacity: 0.6;
+    }
+
+    .back-link a:hover {
+        opacity: 1;
+        color: var(--color-theme-1);
     }
 
     /* Gallery detail page */
