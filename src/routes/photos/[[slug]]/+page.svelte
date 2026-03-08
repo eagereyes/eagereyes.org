@@ -1,8 +1,13 @@
 <script lang="ts">
     import type { PageProps } from './$types';
     import GalleryList from '$lib/GalleryList.svelte';
+    import Lightbox from '$lib/Lightbox.svelte';
+    import type { Photo } from '$lib/photo-utils';
 
     let { data }: PageProps = $props();
+
+    let lightboxIndex = $state(-1);
+    let flatPhotos = $derived<Photo[]>(data.gallery.photos.flat());
 </script>
 
 <svelte:head>
@@ -28,7 +33,7 @@
         {#each data.gallery.photos as row}
             <div class="photo-row" class:pair={row.length === 2}>
                 {#each row as photo}
-                    <figure class="photo-figure">
+                    <figure class="photo-figure" onclick={() => lightboxIndex = flatPhotos.indexOf(photo)}>
                         <img src={photo.src} alt={photo.alt} loading="lazy" />
                         {#if photo.alt}
                             <figcaption>{photo.alt}</figcaption>
@@ -38,6 +43,13 @@
             </div>
         {/each}
     </div>
+    <Lightbox
+        photos={flatPhotos}
+        index={lightboxIndex}
+        onclose={() => lightboxIndex = -1}
+        onprev={() => lightboxIndex--}
+        onnext={() => lightboxIndex++}
+    />
 </div>
 {:else}
 
@@ -109,6 +121,7 @@
         margin: 0;
         flex: 1;
         min-width: 0;
+        cursor: pointer;
     }
 
     .photo-figure img {
