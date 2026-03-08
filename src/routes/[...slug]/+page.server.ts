@@ -190,7 +190,7 @@ const REDIRECTS: Record<string, string> = {
     'zipscribble-maps/france': '/app/zipscribble-map#fr',
     'zipscribble-maps/germany': '/app/zipscribble-map#de',
     'zipscribble-maps/hungary': '/app/zipscribble-map#hu',
-    'zipscribble-maps/interactive-zipscribble-map': '/app/zipscribble-map#interactive-zipscribble-map',
+    'zipscribble-maps/interactive-zipscribble-map': '/app/zipscribble-map',
     'zipscribble-maps/italy': '/app/zipscribble-map#it',
     'zipscribble-maps/netherlands': '/app/zipscribble-map#nl',
     'zipscribble-maps/norway': '/app/zipscribble-map#no',
