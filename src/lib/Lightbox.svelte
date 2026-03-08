@@ -49,9 +49,6 @@
 
     <div class="lightbox-content" onclick={(e) => e.stopPropagation()}>
         <img src={photo.src} alt={photo.alt} />
-        {#if photo.alt}
-            <p class="caption">{photo.alt}</p>
-        {/if}
     </div>
 
     <button
