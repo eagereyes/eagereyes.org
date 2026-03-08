@@ -151,8 +151,8 @@ Below are PDF versions of my redesigns for closer inspection.
 <table border="0">
 <tbody>
 <tr valign="top">
-<td>[<img src="https://media.eagereyes.org/media/attachments/Autism-thumb.png" alt="" width="298" height="210"/>](https://media.eagereyes.org/media/attachments/Autism.pdf)</td>
-<td>[<img src="https://media.eagereyes.org/media/attachments/Autism-sorted-thumb.png" alt="" width="298" height="210"/>](https://media.eagereyes.org/media/attachments/Autism-sorted.pdf)</td>
+<td><a href="https://media.eagereyes.org/media/attachments/Autism.pdf"><img src="https://media.eagereyes.org/media/attachments/Autism-thumb.png" alt="" width="298" height="210"/></a></td>
+<td><a href="https://media.eagereyes.org/media/attachments/Autism-sorted.pdf"><img src="https://media.eagereyes.org/media/attachments/Autism-sorted-thumb.png" alt="" width="298" height="210"/></a></td>
 </tr>
 </tbody>
 </table>
