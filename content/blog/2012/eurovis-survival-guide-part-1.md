@@ -2,7 +2,7 @@
 
 [EuroVis 2012](http://eurovis.org/) is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc.
 
-[<img class="aligncenter size-full wp-image-1861" title="EuroVis 2012" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-2012.png" width="600" height="165" />](http://eurovis.org/)
+[<img src="https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-2012.png" alt="" width="600" height="165"/>](http://eurovis.org/)
 
 *Just to avoid misunderstandings: I am Austrian and I lived in Vienna for 10 years before coming to the U.S. This is important context for any criticism and making fun of Vienna, Austria, the Viennese, etc. in this part and the planned sequel (which will go into more detail on local customs, etc.).*
 

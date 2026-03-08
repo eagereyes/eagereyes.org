@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-code.png" width="560" height="144" alt="Some Protovis code" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-code.png" alt="Some Protovis code" width="560" height="144"/></figure>
 
 # JavaScript: The Key to In-Browser Visualization
 

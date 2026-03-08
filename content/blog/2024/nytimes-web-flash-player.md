@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png" width="646" height="485" alt="screenshot of the last step of the NY Times pieces titled, Turning A Corner" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png" alt="screenshot of the last step of the NY Times pieces titled, Turning A Corner" width="646" height="485"/></figure>
 
 # The New York Times now has a web Flash player
 

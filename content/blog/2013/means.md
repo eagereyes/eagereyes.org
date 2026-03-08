@@ -1,6 +1,6 @@
 # What Means Mean
 
-<p align="center"><img class="aligncenter size-full wp-image-2543" alt="Means SVG Ersatz" src="https://media.eagereyes.org/wp-content/uploads/2013/08/means-ersatz.png" width="455" height="305" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/08/means-ersatz.png" alt="Means SVG Ersatz" width="455" height="305"/></figure>
 
 The visualization above shows the unemployment rate in 380 metro areas in the U.S. from January 2003 to June 2013 (data from the [Bureau of Labor Statistics](http://www.bls.gov/lau/home.htm)). Each of these is itself an average, but the overall mean is also shown as a heavier line. Mouse over to see individual metro areas highlighted.
 

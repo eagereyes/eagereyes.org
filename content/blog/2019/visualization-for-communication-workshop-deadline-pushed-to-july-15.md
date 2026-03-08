@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg" width="660" height="454" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg" width="660" height="454"/></figure>
 
 # Visualization for Communication Workshop Deadline Pushed to July 15
 

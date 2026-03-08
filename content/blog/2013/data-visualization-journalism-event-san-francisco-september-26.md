@@ -2,7 +2,7 @@
 
 Visual.ly is hosting [an event on data visualization and journalism](http://blog.visual.ly/data-visualization-and-journalism/) on September 26 in San Francisco, under the rather clever heading of DV'n'J (think [PB&amp;J](http://en.wikipedia.org/wiki/Peanut_butter_and_jelly_sandwich)). I'm one of the speakers.
 
-<p align="center"><img class="aligncenter size-full wp-image-2617" alt="DVnJ" src="https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg" width="600" height="437" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg" alt="DVnJ" width="600" height="437"/></figure>
 
 I will be talking about my research on storytelling and where I see visualization going in journalism. Given the audience, The new Story Points feature [we just announced for Tableau 8.2](/blog/2013/watch-tcc-keynote-live-monday) will also be part of my talk.
 

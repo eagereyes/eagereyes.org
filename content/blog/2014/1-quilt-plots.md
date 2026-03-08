@@ -4,7 +4,7 @@ What is peer review? How does it work? And is it really as flawed as people clai
 
 A paper made the rounds last week for its poor quality: [*Quilt Plots: A Simple Tool for the Visualisation of Large Epidemiological Data*](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0085047). It was peer-reviewed and accepted by an editor at PLOS ONE, which is an online science journal (covering all the sciences). PLOS ONE is an open-access online journal with the goal of publishing work faster and without trying to assess importance (which is difficult). That’s not a bad idea in principle, but this example shows that their [rigorous peer review](http://www.plosone.org/static/information) might need some work.
 
-<p align="center"><img class="aligncenter size-medium wp-image-3065" alt="Quilt Plot" src="https://media.eagereyes.org/wp-content/uploads/2014/01/quilt-plot.png" width="730" height="445" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/quilt-plot.png" alt="Quilt Plot" width="730" height="445"/></figure>
 
 The paper simply presents a way to create a heatmap. It’s not just that the reviewers should be expected to know what a heatmap is, they should also see through the odd way the whole thing is argued: the heatmap function the authors were using in R had too many options, so they stripped out the dendrogram and clustering, and presented just the color-coded table as a new thing.
 

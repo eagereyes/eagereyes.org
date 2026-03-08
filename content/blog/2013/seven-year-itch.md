@@ -6,7 +6,7 @@ Eagereyes.org turned seven years old last week, on October 1st. Seven years is a
 
 This site has become a part of the establishment. Look who's hanging out in [Dagstuhl](/blog/2013/schloss-dagstuhl), [keynoting a data storytelling conference](/blog/2013/conference-report-tapestry-2013), and [providing feedback to the Congressional Budget Office](/blog/2013/glimpses-data-cbos-snapshots). Need more proof? There's even a parody site called *[eagerpies](http://eagerpies.com)*. You can’t parody something that isn't widely known, nobody would get it.
 
-<p align="center">[<img class="aligncenter size-full wp-image-2661" alt="eagerpies" src="https://media.eagereyes.org/wp-content/uploads/2013/10/eagerpies1.png" width="323" height="80" />](http://eagerpies.com/)</p>
+<figure><a href="http://eagerpies.com/"><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/eagerpies1.png" alt="eagerpies" width="323" height="80"/></a></figure>
 
 I have been accused of being behind that website myself, of course; sometimes in jest by friends, sometimes as an accusation by those who don’t like me. But here's the thing: I am not eagerpies, and I have no idea who runs the website. I'm not that desperate.
 

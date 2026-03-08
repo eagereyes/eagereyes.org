@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" border="0" alt="NYTimes VizLab" width="451" height="248" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" alt="NYTimes VizLab" width="451" height="248"/></figure>
 
 # The New York Times Visualization Lab
 

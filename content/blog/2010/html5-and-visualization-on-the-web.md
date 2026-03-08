@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/canvas.png" alt="" width="560" height="168" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/canvas.png" alt="" width="560" height="168"/></figure>
 
 # HTML5 and Visualization on the Web
 

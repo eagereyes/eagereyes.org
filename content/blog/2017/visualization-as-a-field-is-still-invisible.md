@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg" width="750" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg" width="750" height="500"/></figure>
 
 # Visualization as a Field Is Still Invisible
 

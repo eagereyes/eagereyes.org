@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg" width="682" height="422" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg" width="682" height="422"/></figure>
 
 # Review: Lupi, Posavec, Dear Data
 

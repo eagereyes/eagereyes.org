@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg" width="832" height="624" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg" width="832" height="624"/></figure>
 
 # Site Changes Coming, How to Follow Sites, and Where I've Been
 

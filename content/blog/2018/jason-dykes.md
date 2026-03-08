@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-full wp-image-10211" src="https://media.eagereyes.org/wp-content/uploads/2018/05/jason-dykes.jpg" alt="" width="720" height="1015" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/jason-dykes.jpg" alt="" width="720" height="1015"/></figure>
 
 # Portrait: Jason Dykes
 

@@ -1,4 +1,4 @@
-<p align="center"><img alt="Paper" src="https://media.eagereyes.org/media/2008/Ziemkiewicz_InfoVis_2008.jpg" width="464" height="300" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/Ziemkiewicz_InfoVis_2008.jpg" alt="Paper" width="464" height="300"/></figure>
 
 # The Shaping of Information by Visual Metaphors
 
@@ -6,7 +6,7 @@ In January, my Ph.D. student [Caroline Ziemkiewicz](http://www.cs.brown.edu/peop
 
 Containment questions use a metaphor of nesting, e.g., *Find the directory that **contains **the most .png type files*. Levels questions, on the other hand, use the more common node-link idea of a tree, e.g., *Participants counted the number of **levels **in the tree*.
 
-<p align="center"><img alt="Levels vs. Containers" src="https://media.eagereyes.org/media/2008/levelsvscontainers.png" width="395" height="236" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/levelsvscontainers.png" alt="Levels vs. Containers" width="395" height="236"/></figure>
 
 The "smoking gun" is Table 1 in the paper, which shows a clear correlation between the number of containment questions and the ranking of treemaps. While the sample is small (five papers), the evidence is damning.
 

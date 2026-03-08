@@ -16,7 +16,7 @@ The original idea is sometimes enough, but more often it requires some tweaking 
 
 A great example of this is [the treemap](http://www.cs.umd.edu/hcil/treemap-history/). While it may seem like it has been around forever, it is less than 25 years old. The original paper by Brian Johnson and Ben Shneiderman was published in 1991. It immediately received attention in the academic visualization world, and there were numerous modifications and ideas that people added.
 
-<p align="center"><img class="aligncenter size-full wp-image-8966" src="https://media.eagereyes.org/wp-content/uploads/2015/09/treeviz.gif" alt="TreeViz treemap" width="636" height="429" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/09/treeviz.gif" alt="TreeViz treemap" width="636" height="429"/></figure>
 
 But it took a rethinking of sorts to break into the mainstream. The treemap was developed to display data that was structured as a hierarchy (or tree, as it is usually called in computer science), like the directories and subdirectories on a hard disk. There are many questions this can let you answer, like *which are the largest files on my disk?* or *is this movie larger or smaller than all my emails?*
 
@@ -28,7 +28,7 @@ The second crucial idea came when Martin Wattenberg and Ben Shneiderman [applied
 
 The image below is from a relatively new website called [finviz](https://finviz.com), since the original SmartMoney stock market treemap doesn’t seem to exist anymore. It uses the same layout and structure, though. Try finding similarities and spot outliers among hundreds of line charts – the grouping of the treemap makes that so much easier (though it only shows a single point in time).
 
-<p align="center"><img class="aligncenter size-medium wp-image-8967" src="https://media.eagereyes.org/wp-content/uploads/2015/09/finviz-sep2015-1320x795.png" alt="finviz map of the market" width="660" height="397" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/09/finviz-sep2015-1320x795.png" alt="finviz map of the market" width="660" height="397"/></figure>
 
 What everybody uses today is not the original treemap, but a squarified one. Most people don't use it for inherently hierarchical data, but any kind of data. To do this, the data is broken down using categories of interest so that you can compare sales by customer segment and market, or access to education by ethnicity and income level, etc.
 

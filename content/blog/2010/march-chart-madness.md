@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg" width="500" height="254" alt="Worst Pie Chart Ever" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg" alt="Worst Pie Chart Ever" width="500" height="254"/></figure>
 
 # March Chart Madness
 
@@ -6,7 +6,7 @@ Terrible charts seem to be in season. Rarely have I come across so many incredib
 
 ## Rings of FireFox
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/mozilla_infographics.jpg" width="560" height="561" alt="mozilla infographics" />](http://weightshift.com/design/mozilla-firefox-infographics)</p>
+<figure><a href="http://weightshift.com/design/mozilla-firefox-infographics"><img src="https://media.eagereyes.org/media/2010/mozilla_infographics.jpg" alt="mozilla infographics" width="560" height="561"/></a></figure>
 
 This is an [info graphic created for the Mozilla Foundation](http://weightshift.com/design/mozilla-firefox-infographics) that is used to show the number of users compared to the number of developers, etc. Unfortunately, it doesn't actually depict the numbers graphically. The circle radius grows linearly, while the numbers increase at a much faster pace, and not at regular intervals.
 
@@ -14,7 +14,7 @@ It's clearly challenging to show the relationship of 200 million users with 400 
 
 ## Transportation Trouble
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/commuting_to_work.jpg" width="560" height="389" alt="commuting to work" />](http://www.infrastructurist.com/2010/02/18/how-do-americans-get-to-work-transit-patterns-in-major-cities/)</p>
+<figure><a href="http://www.infrastructurist.com/2010/02/18/how-do-americans-get-to-work-transit-patterns-in-major-cities/"><img src="https://media.eagereyes.org/media/2010/commuting_to_work.jpg" alt="commuting to work" width="560" height="389"/></a></figure>
 
 Showing [how people in different U.S. cities travel to and from work](http://www.infrastructurist.com/2010/02/18/how-do-americans-get-to-work-transit-patterns-in-major-cities/) is clearly interesting, but this does not strike me as a particularly good representation. Using the letters as a kind of stacked bar chart may be clever, but it does not lead to a very readable chart.
 
@@ -24,7 +24,7 @@ When you notice the effort it takes to read the visualization, there's something
 
 ## Squared Taxes
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/EUfunding-small.jpg" width="560" height="423" alt="EU funding" />](http://www.fsteurope.com/news/eu-income-tax-revealed/)</p>
+<figure><a href="http://www.fsteurope.com/news/eu-income-tax-revealed/"><img src="https://media.eagereyes.org/media/2010/EUfunding-small.jpg" alt="EU funding" width="560" height="423"/></a></figure>
 
 There is a lot of talk in the European Union about [net payers and net receivers of money](http://www.fsteurope.com/news/eu-income-tax-revealed/). This chart tries to make the point that the EU swallows up a lot of money, and clearly succeeds. But it does so at the expense of honesty.
 
@@ -34,7 +34,7 @@ The other issue here is that the numbers don't seem to add up. Where does all th
 
 ## Pies in the Sky
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/nasapies.jpg" width="560" height="508" alt="NASA Pies" />](http://www.coolinfographics.com/blog/2010/2/19/nasas-new-budget-infographic.html)</p>
+<figure><a href="http://www.coolinfographics.com/blog/2010/2/19/nasas-new-budget-infographic.html"><img src="https://media.eagereyes.org/media/2010/nasapies.jpg" alt="NASA Pies" width="560" height="508"/></a></figure>
 
 A chart depicting [the development of NASA's budget over 60 years](http://www.coolinfographics.com/blog/2010/2/19/nasas-new-budget-infographic.html) naturally needs flashing images of random NASA stuff, and of course stacked pies. The visual metaphor here is particularly useless, because it shouts information that is of little relevance, while the more important part is tough to make out.
 
@@ -46,13 +46,13 @@ Overall, the chart does a very poor job of showing NASA's budget and how it rela
 
 ## Blog-O-Spheres
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/blogosphere1.jpg" width="560" height="383" alt="blogosphere1" />](http://www.intac.net/breakdown-of-the-blogosphere/ )</p>
+<figure><a href="http://www.intac.net/breakdown-of-the-blogosphere/ "><img src="https://media.eagereyes.org/media/2010/blogosphere1.jpg" alt="blogosphere1" width="560" height="383"/></a></figure>
 
 This [breakdown of the blogosphere](http://www.intac.net/breakdown-of-the-blogosphere/ ) is mostly remarkable for its odd chart use. The five charts above use five different visual metaphors. From top left, clockwise: a circle is divided by a rounded line with considerable width (who are the people in the green area?); a regular pie chart; a kind of bubble chart, but it shows the values on top of each other, making it appear as if people making more than $100k are a subset of the people making less; a Venn diagram; and disconnected bubbles where the relative size represents the data.
 
 That last one took me a while to figure out, I first thought that the continent's area represented a percentage within the bubbles (like the same color does on the pie chart). I can see the reason for trying out new things, but keeping elements constant between charts suggests that they serve the same purpose. When they don't, they become confusing.
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/blogosphere2.jpg" width="560" height="286" alt="blogosphere2" />](http://www.intac.net/breakdown-of-the-blogosphere/ )</p>
+<figure><a href="http://www.intac.net/breakdown-of-the-blogosphere/ "><img src="https://media.eagereyes.org/media/2010/blogosphere2.jpg" alt="blogosphere2" width="560" height="286"/></a></figure>
 
 The same info graphic has some more gems, like the pie chart on the left. The dot in the center and the faux reflection create noise that makes reading the actual chart difficult. The highlight has more contrast than the actual chart, so finding the right edge requires a lot more work.
 
@@ -60,7 +60,7 @@ While the pie chart has some kind of glow around it, the chart on the right is i
 
 ## Waves of Color
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/chileem-small.jpg" width="560" height="412" alt="Tsunami simulation" />](http://wcatwc.arh.noaa.gov/chile/chileem.jpg)</p>
+<figure><a href="http://wcatwc.arh.noaa.gov/chile/chileem.jpg"><img src="https://media.eagereyes.org/media/2010/chileem-small.jpg" alt="Tsunami simulation" width="560" height="412"/></a></figure>
 
 Bad visualizations are not only the work of clueless designers, scientists and engineers also tend to create images that are less than meaningful. This example from NOAA showing the [forecast impact of the tsunami created by the earthquake in Chile](http://wcatwc.arh.noaa.gov/chile/chileem.jpg) is a good example.
 
@@ -68,7 +68,7 @@ The color scale here changes from 0 to 20 in the usual terrible primary-color fa
 
 ## Pyramid Games
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/pyramids.jpg" width="500" height="356" alt="Pyramids" />](http://www.pcrm.org/magazine/gm07autumn/health_pork.html)</p>
+<figure><a href="http://www.pcrm.org/magazine/gm07autumn/health_pork.html"><img src="https://media.eagereyes.org/media/2010/pyramids.jpg" alt="Pyramids" width="500" height="356"/></a></figure>
 
 When looking at distorted data, the question is always: was this an accident, or was it done on purpose? This [comparison of subsidies versus food recommendations](http://www.pcrm.org/magazine/gm07autumn/health_pork.html) is one such example. The pyramid on the left shows the distribution of subsidies, while the one on the right shows the recommended amounts from each food group.
 
@@ -78,7 +78,7 @@ Here, however, this is ignored, leading to an unfair overrepresentation of some 
 
 ## The Worst Pie Chart Ever
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg" width="500" height="254" alt="Worst Pie Chart Ever" />](http://www.glenturpin.com/2009/12/worst-pie-chart-ever/)</p>
+<figure><a href="http://www.glenturpin.com/2009/12/worst-pie-chart-ever/"><img src="https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg" alt="Worst Pie Chart Ever" width="500" height="254"/></a></figure>
 
 It's hard to argue with Glen Turpin, who found [this abomination of a pie chart](http://www.glenturpin.com/2009/12/worst-pie-chart-ever/) on a [portfolio website of design agency razorfish](http://fluent.razorfish.com/).
 
@@ -88,12 +88,12 @@ The distortions in this chart are almost comical. It's hard to think of anything
 
 ## 3D Pie Problems, Illustrated
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/escher-stroop.png" width="417" height="145" alt="escher-stroop.png" />](http://fury.com/2010/03/why-3d-pie-charts-are-bad/)</p>
+<figure><a href="http://fury.com/2010/03/why-3d-pie-charts-are-bad/"><img src="https://media.eagereyes.org/media/2010/escher-stroop.png" alt="escher-stroop.png" width="417" height="145"/></a></figure>
 
 Enough with the bad examples. Kevin Fox created this [fantastic pie chart](http://fury.com/2010/03/why-3d-pie-charts-are-bad/). It takes a moment or two to figure out. It's subtle. Genius.
 
 ## A Chart Joke
 
-<p align="center">[<img src="https://media.eagereyes.org/media/2010/mathjokes.png" width="225" height="225" alt="A Chart Joke" />](http://robcham.tumblr.com/post/297693217/thats-not-how-graphs-work-dont-tell-me-what)</p>
+<figure><a href="http://robcham.tumblr.com/post/297693217/thats-not-how-graphs-work-dont-tell-me-what"><img src="https://media.eagereyes.org/media/2010/mathjokes.png" alt="A Chart Joke" width="225" height="225"/></a></figure>
 
 [Found here](http://robcham.tumblr.com/post/297693217/thats-not-how-graphs-work-dont-tell-me-what).

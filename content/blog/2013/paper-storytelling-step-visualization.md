@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg" width="600" height="259" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg" width="600" height="259"/></figure>
 
 # Paper: Storytelling, The Next Step for Visualization
 

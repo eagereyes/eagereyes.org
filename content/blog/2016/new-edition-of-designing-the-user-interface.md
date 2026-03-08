@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg" width="521" height="648" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg" width="521" height="648"/></figure>
 
 # New Edition of Designing the User Interface
 

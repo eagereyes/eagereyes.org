@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png" width="400" height="257" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png" width="400" height="257"/></figure>
 
 # MTurk IDs Are Not Anonymous
 

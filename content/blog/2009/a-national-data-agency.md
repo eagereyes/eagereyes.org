@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/nda.png" border="0" alt="National Data Agency" width="326" height="326" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/nda.png" alt="National Data Agency" width="326" height="326"/></figure>
 
 # A National Data Agency
 

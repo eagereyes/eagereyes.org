@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-announce.png" border="0" alt="Parallel Sets Announcement" width="560" height="169" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/parsets-announce.png" alt="Parallel Sets Announcement" width="560" height="169"/></figure>
 
 # Parallel Sets Release Date
 

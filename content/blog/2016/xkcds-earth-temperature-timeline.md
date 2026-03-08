@@ -8,4 +8,4 @@ The comic is a great example of not constraining yourself to some predefined fo
 
 And since Munroe encourages embedding and hot linking, here's the whole thing in all its glory:
 
-<p align="center">[<img class="alignnone size-medium" src="http://imgs.xkcd.com/comics/earth_temperature_timeline.png" alt="" width="740" height="14957" />](http://xkcd.com/1732/)</p>
+<figure><a href="http://xkcd.com/1732/"><img src="http://imgs.xkcd.com/comics/earth_temperature_timeline.png" alt="" width="740" height="14957"/></a></figure>

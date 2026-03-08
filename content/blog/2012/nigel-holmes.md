@@ -2,7 +2,7 @@
 
 Few people have influenced the face of information graphics like Nigel Holmes. I am honored to not only present his very extensive and detailed [list of influences](/blog/2007/series-introduction) here, but also do so on the occasion of his upcoming 70<sup>th</sup> birthday on June 15, 2012.
 
-<p align="center"><img class="aligncenter size-full wp-image-1941" title="Nigel Holmes' Artistic License" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/06/holmes-artistic-license.png" width="300" height="189" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/06/holmes-artistic-license.png" alt="" width="300" height="189"/></figure>
 
 Nigel Holmes has recently been the subject of discussions in information visualization because of [the role](/criticism/chart-junk-considered-useful-after-all) and [potential benefit](/blog/2011/want-to-make-chart-memorable-add-junk) of chart junk. His work has been very influential, and no doubt controversial, because of his unique style and the breadth of his experiments. He is best known for the 16 years he spent at Time Magazine, first as a designer, later as Graphics Director. He has also worked for a large number of different clients, and his work spans a huge range, from technical explanations and classical information graphics to [children’s books](http://www.pinholeadventures.com/).
 

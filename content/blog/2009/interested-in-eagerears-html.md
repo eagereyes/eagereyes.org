@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/imallears.png" border="0" alt="I'm all Ears" width="560" height="250" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/imallears.png" alt="I" width="560" height="250"/></figure>
 
 # Anybody interested in eagerears.org/.com?
 

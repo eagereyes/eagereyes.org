@@ -8,7 +8,7 @@ How to best specify visualizations is still an open question, and one that hasn'
 
 [*Charticulator: Interactive Construction of Bespoke Chart Layouts*](https://www.microsoft.com/en-us/research/publication/charticulator-interactive-construction-of-bespoke-chart-layouts-2/) by Donghao Ren, Bongshin Lee, and Matthew Brehmer presents an interesting new approach to creating visualizations: you pick a shape and map data fields to its properties. This is unlike most existing tools, but similar in principle to (though different in many details from) [Data Illustrator](http://data-illustrator.com). Like it, [Charticulator](http://charticulator.com) is also available online to play with.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/litvis.jpg" alt="" class="wp-image-10916"/><figcaption>LitVis</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/litvis.jpg" alt=""/><figcaption>LitVis</figcaption></figure>
 
 Yet another approach to creating visualizations are notebooks (like they're used in R or Jupyter). *[Design Exposition with Literate Visualization](http://litvis.org)* by Jo Wood, Alexander Kachkaev, Jason Dykes looks at the importance of capturing the process that leads to a visualization in order to understand the reasoning, trace the data, and also to show the labor that went into its creation.
 
@@ -24,7 +24,7 @@ Creating charts is all good and well, but we need to understand how they are bei
 
 *[Mitigating the Attraction Effect with Visualizations](https://aviz.fr/deletion)* by Evanthia Dimara, Gilles Bailly, Anastasia Bezerianos, and Steven Franconeri reports on a fascinating effect known from psychology: when somebody has to choose between two alternatives, adding a "decoy" similar but slightly inferior to one option makes that option more attractive. They show that this is present even in scatterplots and that it takes considerable effort to mitigate the effect.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/face2face-teaser.png" alt="" class="wp-image-10915"/><figcaption>Which configuration is best for comparing values?</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/face2face-teaser.png" alt=""/><figcaption>Which configuration is best for comparing values?</figcaption></figure>
 
 *[Face to Face: Evaluating Visual Comparison](http://hcil.umd.edu/visualcomparison)* by Brian David Ondov, Nicole Jardine, Niklas Elmqvist, and Steven Franconeri compares different configurations of different charts, like bars, donuts, and a few others, to see which made it easiest to compare between the values. Interestingly, what wins out is dependent on whether one looks for similarity or biggest change. For the latter, animation between the charts turns out to work well (at least for the small number of items they tested). In addition to some interesting results, this was also an incredibly well structured talk with some amazing overview and summary slides that gave a great graphical overview of the study, findings, etc.
 

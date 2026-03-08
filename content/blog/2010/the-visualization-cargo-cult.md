@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/stock-mountain.jpg" width="560" height="300" alt="Stock Mountain" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/stock-mountain.jpg" alt="Stock Mountain" width="560" height="300"/></figure>
 
 # The Visualization Cargo Cult
 
@@ -22,7 +22,7 @@ Common chart types are so widely understood that they are now used for jokes. Th
 
 One of my students also has this rather clever [Van Diagram t-shirt](http://shirt.woot.com/Friends.aspx?k=12645).
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/vandiagram.png" width="560" height="454" alt="Van Diagram" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/vandiagram.png" alt="Van Diagram" width="560" height="454"/></figure>
 
 There's nothing wrong with these, but they need to be understood as using the tools of a field for something that is not its goal. That may be obvious when the topic is van diagrams, but in other cases it's a bit less clear.
 
@@ -48,7 +48,7 @@ This is the type of presentation you can also find a lot on the web though, wher
 
 Ford went all out to produce some [pretty visuals for their Ford Fusion](http://www.fusion41.com/visuals/). They organized a kind of contest where they had six teams compete against each other. The tasks are mostly nonsensical, and seem to have been picked simply to generate data to transform into some of the worst three-dimensional bar charts I have ever seen (plus, of course, gauges and a kind of heatmap).
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/fordfusion.jpg" width="560" height="300" alt="Ford Fusion Fiasco" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/fordfusion.jpg" alt="Ford Fusion Fiasco" width="560" height="300"/></figure>
 
 Visualization has become the tool to create pretty (or at least colorful) visuals that attract attention. There's about as much visualization in these images as in an actor depicting a scientist in a tv commercial.
 

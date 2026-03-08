@@ -20,7 +20,7 @@ In their paper, *[Sketchy Rendering for Information Visualization](http://openac
 
 It also looks great. The authors provide an [open-source library for Processing](http://gicentre.org/handy/), and they have a [gallery worth looking at](http://www.soi.city.ac.uk/gicentre/t/wordpress/handy/gallery/). Admittedly, I have a weak spot for [things that look hand-drawn](/zipscribble-maps/interactive-zipscribble-map), but I think this really could be useful in many different contexts. It might even be helpful to make visualization look friendlier and less formal.
 
-<img title="Sketchy World Map" src="https://media.eagereyes.org/wp-content/uploads/2012/11/sketchy-world-600x284.png" alt="" width="600" height="284" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/11/sketchy-world-600x284.png" alt="" width="600" height="284"/></figure>
 
 A related paper, *[Evaluating Sketchiness as a Visual Variable for the Depiction of Qualitative Uncertainty](http://hal.inria.fr/hal-00717441)* by Nadia Boukhelifa, Anastasia Bezerianos, Tobias Isenberg, and Jean-Daniel Fekete, explored the idea of using the amount of sketchiness to communicate uncertainty. I loved the talk because it reminded me of my own attempts to [establish blur and sharpness as a new visual variable](/publications/Kosara-VisSym-2002) ten years ago. Given my experiences I knew what would happen: it didn’t work. Sketchiness is not perceived in degrees, and people can’t accurately gauge the level of sketchiness (same as with blur).
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/ResultBlocks.jpg" alt="" width="381" height="339" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/ResultBlocks.jpg" alt="" width="381" height="339"/></figure>
 
 # Parallel Sets Implemented By Third Party
 

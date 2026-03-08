@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes_graphs.png" border="0" alt="Recent NYTimes graphs" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/nytimes_graphs.png" alt="Recent NYTimes graphs"/></figure>
 
 # NY Times: The Best and Worst of Data Visualization
 
@@ -14,12 +14,12 @@ Exhibit A is from September 14, and looks at expectations of people to see a wom
 
 A bar chart may be boring (and also the usual response to a bad chart), but in this case a stacked bar chart would have made a lot more sense. Or even a number of (square) pie charts. Anything but this.
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/nytimes-mrspresident.jpg" border="0" alt="New York Times Magazine, 14-Sep-2008" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/nytimes-mrspresident.jpg" alt="New York Times Magazine, 14-Sep-2008"/></figure>
 
 JunkCharts also recently [discussed another bubble chart](http://junkcharts.typepad.com/junk_charts/2008/09/bubbles-of-the-same-size.html) from the NYTimes, which has the opposite problem: All bubbles are (almost) the same size, even if the numbers are quite different. After these extremes, there's hope that there will be more correct bubble charts in the future, or even other kinds of charts that are easier to read to begin with, even without distortions.
 
 Exhibit B is from September 21, and is an example of the ever popular pie chart, and perhaps the worst pie chart I have seen so far (and I've seen a few). Not only do the numbers not add up to 100%, the pseudo-3D makes the slices even harder to read than usual. The only thing the chart tells us is that there are different numbers of people who find that each of these professions prestigious. But a simple list would have accomplished the same thing. Making things more interesting is a good idea, but distorting the graph to the point of it being unreadable is not a price we should have to pay for that.
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/nytimes-callings.jpg" border="0" alt="New York Times Magazine, 21-Sep-2008" width="350" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/nytimes-callings.jpg" alt="New York Times Magazine, 21-Sep-2008" width="350"/></figure>
 
 With great power comes great responsibility. The NYTimes is breaking new ground with their use of visualization and interaction, and I am grateful that they are really paying attention to what is happening in information visualization. But I wish they could reign in the their [Department of Silly Charts](http://en.wikipedia.org/wiki/The_Ministry_of_Silly_Walks) and integrate it with the rest of the paper.

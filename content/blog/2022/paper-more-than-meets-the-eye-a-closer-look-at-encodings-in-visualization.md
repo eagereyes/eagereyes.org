@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png" width="800" height="383" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png" width="800" height="383"/></figure>
 
 # Paper: More Than Meets the Eye: A Closer Look at Encodings in Visualization
 
@@ -6,7 +6,7 @@ Encodings play a central role in visualization, but I believe our thinking about
 
 Encodings are deceptively simple, once you've learned what they are. After all, they're what you see when you look at a chart, right? Well, it's not so easy. I keep harping on how we don't know how pie charts are read, and I've summarized the issue in this figure from the paper.
 
-<div class="wp-block-image"><figure class="aligncenter size-full is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/pie-chart-hmmm.png" alt="" class="wp-image-98577" width="840" height="324"/></figure></div>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/pie-chart-hmmm.png" alt="" width="840" height="324"/></figure>
 
 My point here is that while we clearly specify pie charts by angle, that doesn't mean that we also read them like that. [And](/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results) [as](/blog/2019/paper-evidence-for-area-as-the-primary-visual-cue-in-pie-charts) [I've](/papers/a-pair-of-pie-chart-papers) [shown](/blog/2021/new-video-the-science-of-pie-charts), angle pretty clearly is not how we read pie charts. So we need to at least start to look at two different kinds of encodings: *specified* and *observable encodings*. In the pie chart, the specified encoding is the angle, and observable encodings also include arc length, area, and even chord length. Out of those, the *observed encoding* might be one of them or a combination.
 
@@ -16,6 +16,6 @@ Line charts are especially interesting to me, because they also illustrate an ev
 
 I've clearly only scratched the surface here, but I think it's an interesting topic that needs to be understood more deeply than we have so far. Perhaps my little article will inspire some more work in this area.
 
-<hr class="wp-block-separator"/>
+---
 
 Robert Kosara, [More Than Meets the Eye: A Closer Look at Encodings in Visualization](/publications/Kosara-CGA-2022), *Computer Graphics and Applications (CG&amp;A)*, vol. 42, no. 2, pp. 110-114, 2022.

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png" border="0" alt="Popular vs. Electoral Vote Teaser" width="266" height="88" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png" alt="Popular vs. Electoral Vote Teaser" width="266" height="88"/></figure>
 
 # Popular vs. Electoral Votes Using Stacked Bar Charts
 
@@ -16,7 +16,7 @@ I'm using Mackinlay's idea to create the chart using stacked bar charts. Stacked
 
 Here is a version of my table that shows the raw data (name, (popular) winner %, and electoral %) as well as the three columns that are going to be used for the stacked bar chart.
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/presidents-table.png" border="0" alt="Data Table" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/presidents-table.png" alt="Data Table"/></figure>
 
 These three columns work like this: bar1 is green, and shows the electoral vote in case it is smaller than the popular vote (and it's zero otherwise); bar2 is blue, and shows the popular vote in both cases (meaning it's the same as the popular vote if bar1 is zero, or it's the difference between the popular and the electoral if it isn't); bar3 is green again, and shows the electoral vote in those cases where that is greater than the popular (i.e., the majority).
 
@@ -24,7 +24,7 @@ The formulas for these three are as follows: bar1: =IF(C2&gt;B2,0,C2), bar2: =IF
 
 The resulting chart looks like this (again done in Numbers, certainly doable just as well in Excel, Tableau, or Open Office):
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-new.png" border="0" alt="Popular vs. Electoral Vote" width="400" height="850" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-new.png" alt="Popular vs. Electoral Vote" width="400" height="850"/></figure>
 
 The only thing I did in PhotoShop (besides stitching) was to remove the third element from the legend. I also took up Jon Peltier's suggestion to only show the 50% and 100% lines, rather than shade the area behind the lower 50%. That makes for a cleaner chart that is easier to read, and focuses on the things I really wanted to do with this.
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/soiv-teaser.jpg" alt="" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/soiv-teaser.jpg" alt="" width="825" height="510"/></figure>
 
 # The State of Information Visualization, 2015
 

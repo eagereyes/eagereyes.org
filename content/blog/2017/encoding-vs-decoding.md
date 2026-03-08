@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/vispipeline-teaser.png" alt="" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/vispipeline-teaser.png" alt="" width="720" height="500"/></figure>
 
 # Encoding vs. Decoding
 
@@ -20,9 +20,9 @@ When it comes to decoding, things get a lot messier. What do we decode? We like 
 
 In a bar chart, we rarely look at individual bars. Instead, we compare them to each other. We also look at the shape of the plot. Which is why being able to sort a chart is incredibly important (charts are from [this posting on problems with election maps](/blog/2016/all-those-misleading-election-maps)).
 
-<p align="center"><img class="aligncenter size-full wp-image-9772" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-alpha.png" alt="" width="596" height="363" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-alpha.png" alt="" width="596" height="363"/></figure>
 
-<p align="center"><img class="aligncenter size-full wp-image-9773" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-sorted.png" alt="" width="596" height="363" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-sorted.png" alt="" width="596" height="363"/></figure>
 
 In a pie chart, we presumably compare a slice to the whole. Except we also compare slices to each other, of course. And that thing about the angle? Well, we’re apparently [not actually reading it that way](/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results).
 

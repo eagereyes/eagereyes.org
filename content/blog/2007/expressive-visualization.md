@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="" width="602" height="288" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/PresidentialDemographics.png" alt="" width="602" height="288"/></figure>
 
 # Expressive Visualization, Updated Presidents Chart
 

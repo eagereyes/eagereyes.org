@@ -1,4 +1,4 @@
-<p align="center"><img class="alignnone size-full wp-image-1624" title="ZIPScribble Map, interactive version" src="https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390"/></figure>
 
 # An Interactive Version of the ZIPScribble Map
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg" width="720" height="480"/></figure>
 
 # Speaking: How to Use A Microphone
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png" alt="" width="560" height="362" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png" alt="" width="560" height="362"/></figure>
 
 # Paper: Implied Dynamics in Information Visualization
 

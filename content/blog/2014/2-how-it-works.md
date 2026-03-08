@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/justitia-cropped.jpg" width="730" height="430" ></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/justitia-cropped.jpg" width="730" height="430"/></figure>
 
 # Peer Review, Part 2: How It Works
 

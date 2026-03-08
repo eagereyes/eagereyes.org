@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/scrollytelling-teaser.png" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/scrollytelling-teaser.png" width="825" height="510"/></figure>
 
 # The Scrollytelling Scourge
 
@@ -24,7 +24,7 @@ Except it doesn't work. Let me count the ways it goes wrong.
 
 What's the alternative? Why, a stepper of course!
 
-<img class="aligncenter size-full wp-image-9285" src="https://media.eagereyes.org/wp-content/uploads/2016/05/stepper.png" alt="stepper" width="1320" height="200" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/stepper.png" alt="stepper" width="1320" height="200"/></figure>
 
 This one's from *[For the Elderly, Diseases That Overlap](http://www.nytimes.com/interactive/2013/04/16/science/disease-overlap-in-elderly.html)*. It's nice and straight-forward: you know many steps there are and where you are in the sequence. Just click the *Next* button to go to the next one, or any of the numbers to jump around. Animation happens just the same, no scrollyanything needed. But the navigation doesn't get in the way and doesn't distract.
 

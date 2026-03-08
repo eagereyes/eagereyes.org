@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png" alt="Climate Differences" width="536" height="232" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png" alt="Climate Differences" width="536" height="232"/></figure>
 
 # Temperature Baseline Differences
 
@@ -10,4 +10,4 @@ After the discussion about baseline data in [previous postings](/data/a-look-at-
 
 You can pick years for the left and right displays below the map to compare different years. While you can select any years you like, the idea is to compare years from the 70s to years from the 00s. Doing that, you will notice that while temperatures tended to vary around a difference of 0&ordm; from the baseline in the 1970s, they are now mostly above 0. It's getting warmer.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate-dashboard.png" width="551" height="719" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate-dashboard.png" width="551" height="719"/></figure>

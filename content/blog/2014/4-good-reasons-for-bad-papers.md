@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-medium wp-image-3080" alt="Spam" src="https://media.eagereyes.org/wp-content/uploads/2014/01/spam-730x400.jpg" width="730" height="400" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/spam-730x400.jpg" alt="Spam" width="730" height="400"/></figure>
 
 # Peer Review, Part 4: Good Reasons for Bad Papers
 

@@ -10,7 +10,7 @@ When applied to visualization, the aspect ratio describes the area that is occup
 
 The image below shows the same graph (which you may remember from [the posting on baselines](/basics/baselines)) in three different aspect ratios. Note how the same parts of the graph have very different slopes in the different versions.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/06/aspect-ratios.png" alt="" width="300" height="200" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/06/aspect-ratios.png" alt="" width="300" height="200"/></figure>
 
 In contrast to a photograph, where a wrong aspect ratio is usually easy to detect because the image appears stretched or squished, things aren’t nearly as obvious in a chart. What is the right aspect ratio?
 

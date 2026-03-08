@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw"/></figure>
 
 # Dance.Draw
 

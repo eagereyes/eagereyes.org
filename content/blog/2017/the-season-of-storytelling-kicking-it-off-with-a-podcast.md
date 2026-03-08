@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/policyviz-storytelling.jpg" width="512" height="288" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/policyviz-storytelling.jpg" width="512" height="288"/></figure>
 
 # The Season of Storytelling: Kicking It Off With A Podcast
 

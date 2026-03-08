@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/dragon-gate.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/dragon-gate.jpg" width="720" height="500"/></figure>
 
 # EuroVis 2017 Conference Report, Part 1
 

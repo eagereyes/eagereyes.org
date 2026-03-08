@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg" width="700" height="377" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg" width="700" height="377"/></figure>
 
 # IEEE VIS 2017: Word Clouds, Stories, Interaction
 

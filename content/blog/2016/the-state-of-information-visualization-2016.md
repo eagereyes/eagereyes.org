@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/02/dear-data.jpg" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/02/dear-data.jpg" width="825" height="510"/></figure>
 
 # The State of Information Visualization, 2016
 

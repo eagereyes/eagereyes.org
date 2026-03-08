@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/scgn.jpg" alt="" width="600" height="194" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/scgn.jpg" alt="" width="600" height="194"/></figure>
 
 # Information Visualization vs. Statistical Graphics
 
@@ -28,7 +28,7 @@ I think it's clear that both Gelman and Fung see things from a statistics-centri
 
 Also, the image is not the end goal in visualization. Gelman talks about the circular sick leave data visualization that I'm using as an example in the article, saying that it doesn't give him any new insights because he would have expected a weekly pattern anyway. The image here shows the view where there are 28 days (or four weeks) on each period of the spiral, showing that pattern.
 
-<p class="img" align="center"><img src="https://media.eagereyes.org/media/2011/sickleave-aligned.jpg" alt="Spiral showing sick-leave data" width="300" height="300" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/sickleave-aligned.jpg" alt="Spiral showing sick-leave data" width="300" height="300"/></figure>
 
 Yes, there is that weekly pattern that we all expected. But there is also a lot more: there are seasonal patterns, there is an almost complete drop-off for the last quarter of the data, there are some atypical weeks where people suddenly get sick on Thursday, etc. Statistics may care mostly about that one effect that can be written down as a hypothesis and then tested, but infovis is about discovery. What else does this tell me? What more can I find out about the data? Is there other data that may explain some of these effects?
 

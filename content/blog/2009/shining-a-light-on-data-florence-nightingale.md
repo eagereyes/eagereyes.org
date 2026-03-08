@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg" alt="Nightingale's Coxcomb plot (from Wikipedia)" width="500" height="332" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg" alt="Nightingale" width="500" height="332"/></figure>
 
 # Shining a Light on Data: Florence Nightingale
 

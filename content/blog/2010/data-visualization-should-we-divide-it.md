@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/roadtoC.jpg" width="560" height="332" alt="Road to Copenhagen (detail)" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/roadtoC.jpg" alt="Road to Copenhagen (detail)" width="560" height="332"/></figure>
 
 # Data Visualization: Should We Divide It?
 

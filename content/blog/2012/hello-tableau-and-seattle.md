@@ -1,4 +1,4 @@
-<p align="center"><img title="Tableau Software" src="https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg" alt="" width="600" height="287" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg" alt="" width="600" height="287"/></figure>
 
 # Hello from Tableau (and Seattle)!
 
@@ -10,7 +10,7 @@ I have mentioned Tableau in the past on this website a few times, and since I'm 
 
 Coincidentally, [Tableau 7](http://www.tableausoftware.com/new-features/7.0) was released today (well, technically yesterday, but late at night and really actually today), which is a very nice update with lots of new features. Besides many highly important but ultimately boring features like new data connectors and server multi-tenant whatevers, there are new mark types: filled maps and area charts. Not only can you make choropleth maps (which are a bad idea in many cases, btw), you can actually use the country shapes in a scatterplot!
 
-<img class="aligncenter size-full wp-image-1658" title="Scatterplot with country shapes in Tableau" src="https://media.eagereyes.org/wp-content/uploads/2012/01/gmt2.png" alt="" width="560" height="500" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/gmt2.png" alt="" width="560" height="500"/></figure>
 
 Try that in Excel. All of these features are also available in [Tableau Public](http://www.tableausoftware.com/products/public), by the way.
 

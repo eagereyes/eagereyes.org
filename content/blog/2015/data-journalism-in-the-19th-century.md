@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/greely.jpg" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/greely.jpg" width="825" height="510"/></figure>
 
 # Link: Data Journalism in the 19th Century
 

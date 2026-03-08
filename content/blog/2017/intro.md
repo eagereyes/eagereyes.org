@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg" width="720" height="500"/></figure>
 
 # New Series: ISOTYPE Books
 

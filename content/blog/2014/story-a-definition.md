@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/04/dictionary.jpg" width="715" height="430" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/04/dictionary.jpg" width="715" height="430"/></figure>
 
 # Story: A Definition
 

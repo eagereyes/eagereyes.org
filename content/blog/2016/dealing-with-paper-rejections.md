@@ -40,7 +40,7 @@ One particularly problematic thing Niklas mentions is posting reviews online and
 
 There is one exception. While Niklas clearly says to never post reviews, he also links to [this rejection letter that Ben Shneiderman has posted](http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/rejection_letter.html) about the [structured flow-charts/Nassi-Shneiderman diagrams paper](/blog/2016/nassi-shneiderman-diagrams).
 
-<p align="center"><img class="aligncenter size-full wp-image-9797" src="https://media.eagereyes.org/wp-content/uploads/2016/11/shneiderman-reject.jpg" alt="shneiderman-reject" width="800" height="250" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/shneiderman-reject.jpg" alt="shneiderman-reject" width="800" height="250"/></figure>
 
 It’s important to note a few things here, though. This is a particularly dumb and nasty letter, yes. But it was also posted by *Ben Shneiderman* (i.e., somebody of significant standing in the community, not just a random grad student or young professor), and he did it *30 years after it happened*.
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/origin-story.jpg" width="720" height="327" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/origin-story.jpg" width="720" height="327"/></figure>
 
 # The EagerEyes Origin Story
 
@@ -20,7 +20,7 @@ It might seem like I just sat on that domain for two years, but that was not the
 
 The first recorded snapshot of the site on archive.org shows [the page as it appeared on December 17, 2004](http://web.archive.org/web/20041217031803/http://www.eagereyes.org/).
 
-<img class="aligncenter size-full wp-image-9656" src="https://media.eagereyes.org/wp-content/uploads/2016/09/eagereyes-firstrecorded.png" alt="eagereyes-firstrecorded" width="1618" height="840" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/eagereyes-firstrecorded.png" alt="eagereyes-firstrecorded" width="1618" height="840"/></figure>
 
 It was running my home-spun content management system (CMS), cleverly called *EagerCMS*, at the time. As you can see, I'm already complaining about MediaWiki being slow. Making the site fast was always of utmost concern to me, and partly why I started writing my own CMS. I never got very far with that, but I did think a lot about what I wanted the CMS to do and how it should work.
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-release.png" border="0" alt="Parallel Sets Release Party" width="574" height="301" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/parsets-release.png" alt="Parallel Sets Release Party" width="574" height="301"/></figure>
 
 # Parallel Sets Released!
 

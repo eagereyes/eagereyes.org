@@ -6,7 +6,7 @@ There is a lot of confusion about storytelling and what tells a story. I have [a
 
 A particular example of the easy storytelling genre are maps, and a particularly famous example is Charles Minard's visualization of Napoleon's Russian campaign in 1812/13. While not immediately obvious if you haven't seen it before, this is really a map, with the Polish border in the west and Moscow in the east. The width of the ribbon shows the number of men in Napoleon's army: he starts out with 422,000, loses a lot of them before he even reaches Moscow, where he arrives with 100,000; turns around and makes it back with all of 10,000 men.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8238" src="https://media.eagereyes.org/wp-content/uploads/2014/06/Minard-Napoleon.png" alt="Minard, Napoleon's March" width="730" height="348" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/06/Minard-Napoleon.png" alt="Minard, Napoleon" width="730" height="348"/></figure>
 
 What makes this such a compelling visualization? There is more to it than just the width of the ribbon. The line graph at the bottom shows temperatures, with the highest one being freezing, and most of the way being considerably colder. There is not just space, but time. Of course, time and space are tied together, they are not independent here. But the temporal dimension is what draws us in and makes this into a sort of road movie: we can follow along a journey.
 
@@ -14,7 +14,7 @@ What makes this such a compelling visualization? There is more to it than just t
 
 Another famous chart is Nightingale's depiction of deaths of British soldiers in the Crimean War in 1854-56 (often wrongly referred to as a *coxcomb plot*). The depiction here is more abstract because there is no map, but the amount of information is comparable. There are 24 months of data, with three values each (one for each cause of death). Reading the visualization is a bit more challenging: you start in the nine-o'clock position on the right chart, go around clockwise and then follow the line to the left chart where you again start at nine o'clock and follow the circle segments in a clockwise direction.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8239" src="https://media.eagereyes.org/wp-content/uploads/2012/08/Nightingale-mortality1-730x459.jpg" alt="Florence Nightingale, Diagram of the Causes of Mortality in the Army in the East" width="730" height="459" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/08/Nightingale-mortality1-730x459.jpg" alt="Florence Nightingale, Diagram of the Causes of Mortality in the Army in the East" width="730" height="459"/></figure>
 
 So we have time here, and we have suffering: this is about soldiers being wounded or killed in combat, and dying from horrible infections and disease (the red part shows deaths from wounds, blue shows infectious disease, and black shows all other causes). But the depiction is clearly less compelling than Minard's, and much harder to turn into a story.
 

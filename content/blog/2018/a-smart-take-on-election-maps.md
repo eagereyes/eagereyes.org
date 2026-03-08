@@ -11,10 +11,10 @@ This map is another piece by [xkcd](https://xkcd.com)'s Randall Munroe (also aut
 
 The style of this map is not entirely new. In fact, [dot density maps](https://en.wikipedia.org/wiki/Dot_distribution_map) have a long history but have fallen out of fashion over the last few decades (a colleague of mine blames GIS for this development). Here's a nice example about agriculture – which you might imagine would be about area, but it's not ([from here](https://www.e-education.psu.edu/geog486/node/1870)).
 
-<p align="center"><img class="aligncenter size-full wp-image-10394" src="https://media.eagereyes.org/wp-content/uploads/2018/01/cropland_dotdensity.png" alt="" width="700" height="455" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/01/cropland_dotdensity.png" alt="" width="700" height="455"/></figure>
 
 Using fewer but larger symbols, it's possible to make them recognizable. There's a balance though between the size and the density that can be achieved. Munroe has done a great job in his map, showing just enough density so you can find some patterns, but not making the symbols too tiny. I also think he is trying to make a point with the single figures in Wyoming and the Dakotas (also Alaska and Hawaii).
 
-<p align="center"><img class="aligncenter size-full wp-image-10393" src="https://media.eagereyes.org/wp-content/uploads/2018/01/2016_election_map_2x.png" alt="" width="1480" height="1124" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/01/2016_election_map_2x.png" alt="" width="1480" height="1124"/></figure>
 
 It's a great map, and perhaps the most effective one I've seen showing this data so far, given the United States' vast area and enormous differences in population density.

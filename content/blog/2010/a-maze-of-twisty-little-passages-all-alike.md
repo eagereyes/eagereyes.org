@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/proof-teaser.png" alt="" width="560" height="139" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/proof-teaser.png" alt="" width="560" height="139"/></figure>
 
 # A Maze of Twisty Little Passages, All Alike
 
@@ -26,4 +26,4 @@ To add insult to injury, the results often seem obvious and easy. Few people rea
 
 As a final illustration of the point, here's a comic from [abstruse goose](http://abstrusegoose.com/230) that I think is incredibly accurate (click for a slightly larger version). Give it a bit of time, trust me. Like all fundamental things, it takes a bit to sink in.
 
-[<img src="https://media.eagereyes.org/media/2010/proof_560.png" alt="" width="560" height="464" />](http://abstrusegoose.com/strips/it_is_obvious.PNG)
+[<img src="https://media.eagereyes.org/media/2010/proof_560.png" alt="" width="560" height="464"/>](http://abstrusegoose.com/strips/it_is_obvious.PNG)

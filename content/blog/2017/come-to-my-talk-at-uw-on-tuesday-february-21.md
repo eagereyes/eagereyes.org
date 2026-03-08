@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png" width="577" height="307" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png" width="577" height="307"/></figure>
 
 # Come To My Talk At UW On Tuesday, February 21
 

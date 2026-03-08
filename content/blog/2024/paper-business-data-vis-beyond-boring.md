@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png" width="600" height="547" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png" width="600" height="547"/></figure>
 
 # Paper: Business Data Visualization, Beyond the Boring
 

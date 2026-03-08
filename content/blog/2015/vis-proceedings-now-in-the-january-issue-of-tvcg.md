@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png" alt="" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png" alt="" width="825" height="510"/></figure>
 
 # VIS Proceedings now in the January Issue of TVCG
 

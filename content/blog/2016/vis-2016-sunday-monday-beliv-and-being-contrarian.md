@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg" width="720" height="540" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg" width="720" height="540"/></figure>
 
 # VIS 2016 – Sunday, Monday: BELIV and Being Contrarian
 

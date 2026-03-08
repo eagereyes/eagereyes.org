@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/VisWeekTutorials.png" alt="VisWeek Tutorials" width="568" height="309" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/VisWeekTutorials.png" alt="VisWeek Tutorials" width="568" height="309"/></figure>
 
 # Design Tutorials for VisWeek 2009
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg" alt="" width="640" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg" alt="" width="640" height="480"/></figure>
 
 # EuroVis Running Club
 

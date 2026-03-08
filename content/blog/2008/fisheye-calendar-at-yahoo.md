@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg" border="0" alt="Fisheye Calendar then and now" width="480" height="326" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg" alt="Fisheye Calendar then and now" width="480" height="326"/></figure>
 
 # A Fisheye Calendar at Yahoo!
 
@@ -8,10 +8,10 @@ Furnas observed that people tend to represent their immediate environment (wheth
 
 Among his examples, he used a calendar. Similar images have appeared in the visualization and human-computer-interaction (HCI) literature since, but Furnas was the first to do this (as far as I am aware).
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/fisheye-calendar.png" border="0" alt="Fisheye Calendar from Furnas' paper" width="480" height="346" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/fisheye-calendar.png" alt="Fisheye Calendar from Furnas" width="480" height="346"/></figure>
 
 Now 22 years later, Yahoo! has picked that idea up, made it prettier, and made it useful in its new calendar. The regular view looks just like any other monthly calendar, but when you click on a day, it zooms into that day to give it more room. As a side-effect you also get more space for the current week, as well as for the same day of the week in other weeks of that month (this is sometimes considered a bad thing, but at least for the current week it makes a lot of sense). In this view, you can enter new events and change existing ones (click the image below for full size).
 
-<p style="text-align: center;">[<img src="https://media.eagereyes.org/media/2008/yahoo-calendar-thumb.png" border="0" alt="Yahoo! Calendar" width="472" height="280" />](https://media.eagereyes.org/media/2008/yahoo-calendar.png)</p>
+<figure><a href="https://media.eagereyes.org/media/2008/yahoo-calendar.png"><img src="https://media.eagereyes.org/media/2008/yahoo-calendar-thumb.png" alt="Yahoo! Calendar" width="472" height="280"/></a></figure>
 
 While I don't think that this will lead to a revolution in how quickly companies pick up ideas from visualization and HCI research, it is a good thing that this is happening. Perhaps increased competition, expanded flexibility of programs in browsers, and the pressure to appear cutting-edge will turn more such flash-backs into useful products.

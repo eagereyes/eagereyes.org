@@ -6,7 +6,7 @@ It all started with [Moritz trolling the Tapestry conference hashtag](https://tw
 
 Then he wrote [a blog posting](http://well-formed-data.net/archives/1027/worlds-not-stories) arguing that we should build worlds rather than tell stories. At the same time, he and Enrico were already talking to Alberto and me about doing an episode of the podcast about the topic.
 
-<p align="center"><img class="aligncenter size-medium wp-image-3840" alt="Data Stories, Episode 35" src="https://media.eagereyes.org/wp-content/uploads/2014/04/ds35-730x438.jpg" width="730" height="438" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/04/ds35-730x438.jpg" alt="Data Stories, Episode 35" width="730" height="438"/></figure>
 
 [Episode 35](http://datastori.es/data-stories-35-visual-storytelling-w-alberto-cairo-and-robert-kosara/) of the podcast, featuring Alberto Cairo and myself as guests, was published today. Alberto has written up [an entire posting about his thoughts](http://www.thefunctionalart.com/2014/04/annotation-narrative-and-storytelling.html) (and stolen my amazing screenshot). I also wrote my two recent storytelling posts ([worlds and stories](/blog/2014/stories-are-gateways-into-worlds), [definition of story](/blog/2014/story-a-definition)) in preparation for this podcast.
 

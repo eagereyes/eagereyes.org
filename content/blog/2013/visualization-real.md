@@ -6,7 +6,7 @@ Vision is the sense we most identify with: it tells us where we are, who we are 
 
 In 2003, Nigel Holmes was working on an information graphic on stem cells for [Stanford Magazine](http://alumni.stanford.edu/get/page/magazine/article/?article_id=36663). This was the result of extensive discussions with the scientists, in the course of which the subject of reproductive cloning had come up. Yet the graphic seemingly makes no mention of that topic.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2253" alt="Stanford Cloning Information Graphic" src="https://media.eagereyes.org/wp-content/uploads/2013/03/stan.cloning7x.png" width="600" height="826" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/03/stan.cloning7x.png" alt="Stanford Cloning Information Graphic" width="600" height="826"/></figure>
 
 Reading the copy carefully, you might notice an odd paragraph at the bottom that is very strongly worded for no obvious reason.
 
@@ -20,7 +20,7 @@ But why? The “offending” human figures had a caption that clearly stated tha
 
 In a similar way, this map of [gun permit holders in Westchester County, NY](http://www.lohud.com/interactive/article/20121223/NEWS01/121221011/Map-Where-gun-permits-your-neighborhood-?nclick_check=1), created a strong response. I am not interested in the criticism (the map ignores population density, permits don't mean actual guns, lots of guns can be bought without permits, privacy concerns, etc.), but rather the immediate reaction when you see this.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2251" alt="westchester" src="https://media.eagereyes.org/wp-content/uploads/2013/03/westchester.jpg" width="600" height="436" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/03/westchester.jpg" alt="westchester" width="600" height="436"/></figure>
 
 There are a lot of dots on this map, and they are everywhere! We can argue about the size of the dots, etc., but the point remains: lots of (potential) guns. Everywhere.
 

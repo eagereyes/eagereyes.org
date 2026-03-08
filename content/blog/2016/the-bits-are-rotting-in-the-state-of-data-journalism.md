@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png" width="825" height="510"/></figure>
 
 # The Bits Are Rotting in the State of Data Journalism
 
@@ -6,13 +6,13 @@ News articles are an incredibly important source of historical information. Onli
 
 The screenshot above is from [this 2013 piece about the "Obamacare" healthcare exchanges](http://www.washingtonpost.com/wp-srv/special/politics/state-vs-federal-exchanges/). This is what it should look like:
 
-<img class="aligncenter size-full wp-image-9437" src="https://media.eagereyes.org/wp-content/uploads/2016/07/healthcare-exchanges.png" alt="healthcare-exchanges" width="992" height="680" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/07/healthcare-exchanges.png" alt="healthcare-exchanges" width="992" height="680"/></figure>
 
 The same has happened to a number of other pieces at the Washington Post, like [this piece about helicopter crashes](http://www.washingtonpost.com/wp-srv/special/nation/medical-helicopters/fatal-crashes.html) (CSS broken, Flash app can't load its data), [*Homicides in the District*](http://apps.washingtonpost.com/investigative/homicides/) (CSS broken, but still functional if hard to use), and [*How long will we live, and how well*](http://www.washingtonpost.com/wp-srv/special/health/healthy-life-expectancy/) (broken CSS makes tooltip unusable, country selection no longer works).
 
 And it's not just the Washington Post. It seems that the [bit rot](https://en.wikipedia.org/wiki/Software_rot) has befallen many of the New York Times' Flash pieces as well. Where once there was the fantastic [*Jobless Rate for People Like You*](http://www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html), you're now just staring at a big hole.
 
-<img class="aligncenter size-full wp-image-9438" src="https://media.eagereyes.org/wp-content/uploads/2016/07/jobless-rate-broken.png" alt="jobless-rate-broken" width="1940" height="1406" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/07/jobless-rate-broken.png" alt="jobless-rate-broken" width="1940" height="1406"/></figure>
 
 The same is true for another one of my favorites, Amanda Cox's amazing *[Turning A Corner?](http://www.nytimes.com/interactive/2009/07/02/business/economy/20090705-cycles-graphic.html)* I did not check more because I could not deal with the sadness of seeing all these beautiful pieces disappearing from the web.
 

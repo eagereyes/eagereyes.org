@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/mispronouncing-cropped.png" alt="Blag" width="241" height="136" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/mispronouncing-cropped.png" alt="Blag" width="241" height="136"/></figure>
 
 # Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008
 

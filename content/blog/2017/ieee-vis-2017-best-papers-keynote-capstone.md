@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png" width="750" height="409" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png" width="750" height="409"/></figure>
 
 # IEEE VIS 2017: Best Papers and Other Awards
 
@@ -22,17 +22,17 @@ I also got curious during these presentations about how long ago the Marching Cu
 
 Another new thing in the opening was the presentation of the best papers across all three tracks. This way, everybody gets to see at least one paper from a track they don’t usually go to. I think that’s a great idea, and it worked well.
 
-<p align="center"><img class="aligncenter size-full wp-image-10216"  src="https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png" alt="" width="750" height="409" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png" alt="" width="750" height="409"/></figure>
 
 *[Visualizing Dataflow Graphs of Deep Learning Models in TensorFlow](http://idl.cs.washington.edu/papers/tfgraph)* by Kanit Wongsuphasawat, Daniel Smilkov, James Wexler, Jimbo Wilson, Dandelion Mané, Doug Fritz, Dilip Krishnan, Fernanda B. Viégas, and Martin Wattenberg received the Best Paper award in VAST. They describe a system called *TensorBoard* to help engineers develop and debug deep learning networks. To do this, they have to transform the low-level data flow graph a into high-level interactive graph by combining nodes into modules, so that the overall structure can be understood. Users can then expand and collapse these modules as necessary. The system’s [source code is available](https://github.com/tensorflow/tensorboard).
 
-<p align="center"><img class="aligncenter size-full wp-image-10217"  src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-colors.png" alt="" width="660" height="178" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-colors.png" alt="" width="660" height="178"/></figure>
 
 *[Modeling Color Difference for Visualization Design](http://cmci.colorado.edu/visualab/VisColors/)* by Danielle Albers Szafir, the Best Paper in InfoVis, is also notable for being a single-author paper. Danielle ran a large number of studies to test whether the common assumptions built into the CIE LAB color space hold in visualization, where marks can be small (like in a scatterplot) or long but thin (like lines in a line chart), and they don’t appear in isolation. Visual complexity in particular leads to lower discriminability of colors than even some more recent (more conservative) color perception models predict. Bar width and length also impact color discriminability, etc. There are a lot of results in her paper and the webpage I’m linking above also has additional materials.
 
 It’s also interesting to note here that the best paper award and the honorable mentions in InfoVis this year all went to papers written entirely by women.
 
-<p align="center"><img class="aligncenter size-full wp-image-10215"  src="https://media.eagereyes.org/wp-content/uploads/2017/10/openspace-mars.jpg" alt="" width="660" height="240" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/openspace-mars.jpg" alt="" width="660" height="240"/></figure>
 
 *[Globe Browsing: Contextualized Spatio-Temporal Planetary Surface Visualization](https://alexanderbock.github.io/papers/vis17-bladin-globe_browsing.pdf)* by Karl Bladin, Emil Axelsson, Erik Broberg, Carter Emmart, Patric Ljung, Alexander Bock, and Anders Ynnerman was the best paper in SciVis. They described their work on [Open Space](http://openspaceproject.com), a system to explore and show data about the solar system, from low-altitude fly-overs of Earth and Mars, to views of the entire system. They integrate real-time data from a variety of sources, like satellite data for weather patterns on Earth, high-resolution imagery of Mars, etc.
 

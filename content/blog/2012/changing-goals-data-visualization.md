@@ -6,7 +6,7 @@ The visual representation of data has gone through a number of phases, with its 
 
 The first uses of graphics to represent data, interestingly, were very bare and abstract, and at the same time were mostly tools for communication. The abstract nature of these early charts is surprising when you consider the amount of ornamentation and decoration that was common with even simple household objects in the early to middle of the 19th century. John Snow’s and Charles Minard’s maps were downright stark compared with many maps drawn at the time.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2084" title="William Playfair: Exports and Imports to and from Denmark &amp; Norway" src="https://media.eagereyes.org/wp-content/uploads/2012/11/playfair-denmark-exports.png" alt="" width="600" height="443" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/11/playfair-denmark-exports.png" alt="" width="600" height="443"/></figure>
 
 Those charts were drawn to communicate, not to analyze. [Snow’s cholera map](/criticism/review-steven-johnson-the-ghost-map) often wrongly serves as an example of visual analysis, when it was drawn to convince. Similarly, [Florence Nightingale’s chart of deaths in the Crimean War](/blog/2009/shining-a-light-on-data-florence-nightingale) was used to illustrate her argument that improvements in hygiene would save many lives, and William Playfair illustrated the trade balance between England and its trade partners.
 
@@ -14,7 +14,7 @@ Those charts were drawn to communicate, not to analyze. [Snow’s cholera map](/
 
 In the first thirty years of the 20th century, Otto Neurath designed a visual language, the ISOTYPE, that not only showed numbers in ways that were easy to read, but that also communicated what they meant. Want to show statistics about workers and factories? Show them as little worker and factory icons. Each icon represents a certain number of the respective object, making it easy to compare and to read off numbers.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2083" title="Otto Neurath: Home and Factory Weaving in England" src="https://media.eagereyes.org/wp-content/uploads/2012/11/isotype-weaving.jpg" alt="" width="600" height="597" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/11/isotype-weaving.jpg" alt="" width="600" height="597"/></figure>
 
 Neurath wanted to educate people about the world: ISOTYPE is the acronym for *International System of TYpographic Picture Education*. His illustrations were meant to stand on their own, without somebody there to explain. Nightingale and Playfair worked under the assumption that there would be explanatory text or they themselves would be there to make the argument, supported by the graphic. Neurath aimed to make his images self-contained and self-explanatory.
 
@@ -24,7 +24,7 @@ Thirty years later, the focus shifted from presentation to analysis, and the exp
 
 Tukey invented [a number of different plot types](http://www.statgraphics.com/eda.htm), among them the box plot, the bubble chart, the radar chart, and more. Bertin, in addition to his seminal theoretical work, created the *reorderable matrix*, a simple yet powerful tool for finding clusters in data. It represents one of the first uses of interaction in visualization.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2082" title="Jacques Bertin's Reorderable Matrix" src="https://media.eagereyes.org/wp-content/uploads/2012/11/bertin-reorderable-matrix.png" alt="" width="600" height="481" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/11/bertin-reorderable-matrix.png" alt="" width="600" height="481"/></figure>
 
 ## 1970–80s: Holmes
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170"/></figure>
 
 # VisWeek Bingo, Interactive Edition 2011
 
@@ -19,4 +19,4 @@ I already received a few good suggestions from Wolfgang Freiler, Jérôme Cukier
 ## Where to Find It
 
 Just click on the image below:
-<p class="img"><img src="https://media.eagereyes.org/media/2011/visweek-bingo.png" alt="" width="600" height="400" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/visweek-bingo.png" alt="" width="600" height="400"/></figure>

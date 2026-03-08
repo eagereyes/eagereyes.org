@@ -14,7 +14,7 @@ Gibson’s original idea was a description of the natural environment, and of ph
 
 An [*article in a special issue on Gibson and affordances of Ecological Psychology*](http://www.tandfonline.com/doi/abs/10.1207/S15326969ECO1502_1) traces the idea back all the way to a 1938 article by Gibson and Laurence E. Crooks, [*A Theoretical Field-Analysis of Automobile-Driving*](http://www.jstor.org/stable/1416145). The article describes the perceived *field of safe travel* by a driver, which extends in front of the car and is pushed back by other cars, pedestrians, etc. This is not the same as an affordance, but it’s a predecessor and perhaps easier to relate to than the hammer and other examples. I also love the 1930’s era cars in the illustration.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2095" title="J.J. Gibson, Illustration from A Theoretical Field-Analysis of Automobile-Driving" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/12/gibson-cars.png" width="600" height="428" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/gibson-cars.png" alt="" width="600" height="428"/></figure>
 
 ## Affordances Are in the Eye of the Beholder
 

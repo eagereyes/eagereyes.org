@@ -16,7 +16,7 @@ The other workshop I went to on Sunday was [BELIV, the workshop on novel evaluat
 
 BELIV’s topic for the keynote (which I missed) and papers this year was replication in visualization. The afternoon sessions were organized as breakouts, which makes a lot of sense for workshops, but is actually fairly unusual (most are run as mini-conferences). I think it worked well though, and we discussed a wide range of topics, like how data exploration and statistically sound reasoning can co-exist, replication for quantitative studies, etc.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0271.jpg" alt="" class="wp-image-10894"/><figcaption>Maarten Lambrechts talking about xenographics and associated phenomena</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0271.jpg" alt=""/><figcaption>Maarten Lambrechts talking about xenographics and associated phenomena</figcaption></figure>
 
 ## VisInPractice
 
@@ -30,7 +30,7 @@ Another session looked at data visualization tools. Lisa Charlotte Rost gave a g
 
 Michael Behrisch presented a very in-depth state-of-the-art survey of commercial visual analytics systems he had conducted with Siemens. They’ve released their findings on [a browsable website](https://commercialtools.dbvis.de/) for you to explore.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0295.jpg" alt="" class="wp-image-10896"/><figcaption>How many episodes have you listened to?</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/IMG_0295.jpg" alt=""/><figcaption>How many episodes have you listened to?</figcaption></figure>
 
 ## Data Stories Meetup
 
@@ -40,7 +40,7 @@ Enrico Bertini and Moritz Stefaner organized a meetup for listeners of (and gues
 
 VIS had record attendance this year, with 1265 attendees. This is up quite a bit from the last year or two, though those were down slightly. This was only the second time VIS had taken place outside the U.S., and both times had gotten very good attendance numbers (despite a lot of worries that they’d have trouble attracting people).
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/draco.png" alt="" class="wp-image-10897"/><figcaption>Draco in a nutshell</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/draco.png" alt=""/><figcaption>Draco in a nutshell</figcaption></figure>
 
 I have to say that I was not terribly impressed with this year’s VAST or SciVis best papers, but I did like the choice of best paper for InfoVis: *Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco* by Dominik Moritz, Chenglong Wang, Greg L. Nelson, Halden Lin, Adam M. Smith, Bill Howe, and Jeffrey Heer. It describes a system named *Draco* that uses constraint programming to allow the user to specify only the minimal amount of information to create charts, yet pick good defaults that are likely to yield useful and informative visualizations. They have written up the idea in [a nice blog posting](https://medium.com/@uwdata/draco-representing-applying-learning-visualization-design-guidelines-64ce20287e9d), the whole thing is [available as open source](http://uwdata.github.io/draco/), and there is [an online editor where you can play with Draco yourself](https://uwdata.github.io/draco-editor/#/editor).
 

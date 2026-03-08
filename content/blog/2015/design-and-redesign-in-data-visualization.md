@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/cairo-redesign.png" width="725" height="331" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/cairo-redesign.png" width="725" height="331"/></figure>
 
 # Link: Design and Redesign in Data Visualization
 

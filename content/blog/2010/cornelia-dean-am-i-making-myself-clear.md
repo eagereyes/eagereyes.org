@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/changeWorldPanel.jpg" alt="" width="560" height="527" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/changeWorldPanel.jpg" alt="" width="560" height="527"/></figure>
 
 # Review: Cornelia Dean, Am I Making Myself Clear?
 

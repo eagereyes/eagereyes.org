@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/eagerfeet-header.png" alt="" width="600" height="93" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/eagerfeet-header.png" alt="" width="600" height="93"/></figure>
 
 # EagerFeet.org: Free Your Nike+ GPS Data
 

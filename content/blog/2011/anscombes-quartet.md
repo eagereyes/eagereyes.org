@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/anscombe_teaser.png" alt="" width="600" height="207" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/anscombe_teaser.png" alt="" width="600" height="207"/></figure>
 
 # Anscombe's Quartet
 Visualization may not be as precise as statistics, but it provides a unique view onto data that can make it much easier to discover interesting structures than numerical methods. Visualization also provides the context necessary to make better choices and to be more careful when fitting models. [Anscombe's Quartet](http://en.wikipedia.org/wiki/Anscombe) is a case in point, showing that four datasets that have identical statistical properties can indeed be very different.
@@ -142,7 +142,7 @@ He then presents a table of numbers. It contains four distinct datasets (hence t
 
 But when plotted, they suddenly appear very different.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/anscombe.png" alt="" width="600" height="436" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/anscombe.png" alt="" width="600" height="436"/></figure>
 
 While dataset I appears like many well-behaved datasets that have clean and well-fitting linear models, the others are not served nearly as well. Dataset II does not have a linear correlation; dataset III does, but the linear regression is thrown off by an outlier. It would be easy to fit a correct linear model, if only the outlier were spotted and removed before doing so. Dataset IV, finally, does not fit any kind of linear model, but the single outlier makes keeps the alarm from going off.
 

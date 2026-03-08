@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-xv.jpeg" width="800" height="600" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-xv.jpeg" width="800" height="600"/></figure>
 
 # EagerEyes Turns 15
 
@@ -18,7 +18,7 @@ I used to value being able to write about data visualization and getting people 
 
 I launched [my YouTube channel](http://youtube.com/c/eagereyes) a little over two years ago, and I'm very actively working on more videos (the next one should land next week). While I still think that writing about visualization is important, I also think that it's silly to neglect the more visual media. It's called *visual*ization, after all. So why are there so few videos about it? And most of what exists are tutorials about how to make things in various tools. Where's the fun? Where's the visual exploration? Where are the visual explanations of visual representations?
 
-<figure class="wp-block-image size-large is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/LvQ-Thumbnail.jpeg" alt="Linear vs. Quadratic Change Thumbnail" class="wp-image-97150" width="660" height="372"/><figcaption>One of my attempts at visually explaining visualization</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/LvQ-Thumbnail.jpeg" alt="Linear vs. Quadratic Change Thumbnail" width="660" height="372"/><figcaption>One of my attempts at visually explaining visualization</figcaption></figure>
 
 That is what I set out to do with my videos, and I think I really hit my stride with the last couple of them. If you stopped paying attention because you didn't care to watch my face talking at you, check out [the video I made about *Iraq's Bloody Toll* ](/blog/2021/new-video-chart-appreciation-iraqs-bloody-toll-by-simon-scarr)and [the one about linear vs. quadratic change](/eagereyestv/new-video-linear-vs-quadratic-change) before that. This new style with all motion graphics is clearly the way to go, and I've finally figured out how to make that work. All my future videos will be like this, no more talking head!
 
@@ -30,11 +30,11 @@ This site has changed quite a bit over the years. On [my About page](/about), I 
 
 The reason for my insistence that it's not is that I always wanted to build more tools. As I mentioned in the riveting [EagerEyes Origin Story](/blog/2016/the-eagereyes-origin-story), I initially wanted to build a social data visualization website, similar to *Many Eyes* (if anybody remembers that, it came and went too quickly). I did build a few, but they mostly became obsolete or stopped worked (remember Java? Yeah, I built a couple things here in Java). Perhaps the only thing that really survives, and only because I rebuilt it a couple of times, is the [ZIPScribble Map](/zipscribble-map).
 
-<figure class="wp-block-image size-large is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-2011.png" alt="" class="wp-image-97645" width="660" height="346"/><figcaption>A snapshot of the site in 2011, shortly after the 5-year mark, courtesy of the Internet Archive</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-2011.png" alt="" width="660" height="346"/><figcaption>A snapshot of the site in 2011, shortly after the 5-year mark, courtesy of the Internet Archive</figcaption></figure>
 
 I won't dwell on the past here, but it's fun to look back at how dorky this thing looked a while ago. This is also the logo that was so cleverly parodied by the excellent [eagerpies](http://eagerpies.com) website, which is online again.
 
-<figure class="wp-block-image size-full is-resized"><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/eagerpies.png" alt="" class="wp-image-97651" width="660" height="277"/><figcaption>eagerpies.com</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2021/09/eagerpies.png" alt="" width="660" height="277"/><figcaption>eagerpies.com</figcaption></figure>
 
 At the [10-year blogoversary](/blog/2016/blogstravaganza) five years ago, I launched a big redesign of the site. That was the first time I paid for design for this site (other than buying WordPress themes for a few dollars), both to get a custom-designed logo and theme. I'm still happy with the logo, but I'm increasingly unhappy with the look of the site. Not sure when I'll get around to updating it, but once I do it will look more like a blog again. It also likely will be a static site rather than WordPress, but that's also one of the things slowing down progress on this project considerably.
 

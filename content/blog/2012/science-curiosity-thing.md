@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-full wp-image-1971" title="science" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg" width="600" height="325" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg" alt="" width="600" height="325"/></figure>
 
 # Science: It's a Curiosity Thing!
 

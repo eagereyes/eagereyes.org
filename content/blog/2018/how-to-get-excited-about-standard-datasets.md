@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/03/iris.jpg" width="700" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/03/iris.jpg" width="700" height="500"/></figure>
 
 # How to Get Excited About Standard Datasets
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/DSCF2799.jpg" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/DSCF2799.jpg" width="825" height="510"/></figure>
 
 # EuroVis 2016, Thursday and Friday
 

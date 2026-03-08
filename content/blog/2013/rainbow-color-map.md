@@ -4,17 +4,17 @@ Colors are perhaps the visual property that people most often misuse in visualiz
 
 The rainbow color map is based on the colors in the light spectrum, and is sometimes done correctly, sometimes the colors are in the wrong order. Quick, name the colors in the rainbow in order! See, that's part of the problem. Even if they were used consistently, nobody would know the right sequence anyway. Here is an image to jog your memory, [courtesy of Wikipedia](https://en.wikipedia.org/wiki/Rainbow).
 
-<p align="center"><img class="aligncenter size-full wp-image-2439" alt="Rainbow" src="https://media.eagereyes.org/wp-content/uploads/2013/07/rainbow.png" width="372" height="53" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/rainbow.png" alt="Rainbow" width="372" height="53"/></figure>
 
 Now take a look at this map from [a paper on water resources published in the *Journal of the American Water Resources Association*](http://onlinelibrary.wiley.com/doi/10.1111/jawr.12010/full), which I found on [Cliff Mass’s fantastic weather blog](http://cliffmass.blogspot.com/2013/06/evaporation-versus-precipitation-which.html). It describes the amount of evapotranspiration (loss of rain water through evaporation) by county for the 48 contiguous U.S. states.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2429" alt="Evapotranspiration Map" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-map.jpg" width="600" height="483" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-map.jpg" alt="Evapotranspiration Map" width="600" height="483"/></figure>
 
 Do you see the how the country is divided down the middle? The Eastern half seems to be all dark green and blue, while the Western half is all light greens, yellow and orange. Surely, there is a huge difference between the two.
 
 But let’s take a closer look at the legend.
 
-<p align="center"><img class="aligncenter size-full wp-image-2427" alt="Evapotranspiration Legend" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" width="478" height="193" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" alt="Evapotranspiration Legend" width="478" height="193"/></figure>
 
 As it turns out, the values change smoothly, but the colors do not. There are two problems here: abrupt changes in luminance (perceived brightness of a color) as well as switching between different hues.
 
@@ -22,7 +22,7 @@ As it turns out, the values change smoothly, but the colors do not. There are tw
 
 The combination of smoothly varying and abruptly changing luminance makes it appear as if there were clearly defined regions on the map. A version of the legend that only shows luminance, without hue, makes this a bit more obvious.
 
-<p align="center"><img class="aligncenter size-full wp-image-2428" alt="Evapotranspiration Legend Gray" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend-gray.jpg" width="478" height="193" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend-gray.jpg" alt="Evapotranspiration Legend Gray" width="478" height="193"/></figure>
 
 The color for 0.3–0.39 is darker than the neighboring colors, the luminance for 0.5–0.59, 0.6–0.69, and 0.7–0.79 is virtually the same, and then there is a big jump to 0.8–0.89. The step size in terms of the data is no different, it’s simply an artifact of the color scheme.
 
@@ -30,7 +30,7 @@ The color for 0.3–0.39 is darker than the neighboring colors, the luminance fo
 
 What is more, the hue changes. As I have explained before, [color names influence our perception of color](/blog/2011/you-only-see-colors-you-can-name). So let’s look at the full-color version of the legend again, and enumerate the hues.
 
-<p align="center"><img class="aligncenter size-full wp-image-2427" alt="Evapotranspiration Legend" src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" width="478" height="193" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/evapotranspiration-legend.jpg" alt="Evapotranspiration Legend" width="478" height="193"/></figure>
 
 - **White** (0.0–0.09). That’s a really odd choice to start with, since the background of the map is also white, and non-colors like white, black, and gray should be used for special values like missing data, etc. But that’s a topic for another posting.
 - **Pink** (0.1–0.19 and 0.2–0.29). These two by themselves would be okay.
@@ -49,7 +49,7 @@ There are certainly reasons for using more than one hue. If there are ranges of 
 
 Given the issues, why are the rainbow colormap and its variants so popular? I think the answer is quite simple: it’s attractive. Using a single hue to show the data would be reasonably effective, but much less interesting to look at. What is more, if you’re looking to read off the individual values, the smooth ramp is actually worse because you can’t look for a particular hue anymore. The cost is that you create lots of artifacts in the map, though.
 
-<p align="center"><img class="aligncenter size-full wp-image-2435" alt="Color Ramp" src="https://media.eagereyes.org/wp-content/uploads/2013/07/color-ramp.png" width="198" height="25" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/color-ramp.png" alt="Color Ramp" width="198" height="25"/></figure>
 
 There is a case to be made for color maps that have more than one or two hues, but that do not produce the sort of issues seen in this example. One approach is to use a color map where the luminance is constant or monotonically increasing (meaning, it never changes direction). Constant luminance leads to very dull colors, but a well-designed color map with increasing luminance can look quite attractive. ColorBrewer has a few of those, at least for two colors.
 

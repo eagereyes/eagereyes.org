@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png" width="830" height="489" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png" width="830" height="489"/></figure>
 
 # Tracking 19,000 Runners Over 1,000km Across Virtual Tennessee
 
@@ -12,7 +12,7 @@ While the bulk of runners is running the race the way it's supposed to be (they'
 
 ## Inspiration
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/nytimes-marathon-2015.png" alt="" class="wp-image-39278" width="660" height="244" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/nytimes-marathon-2015.png" alt="" width="660" height="244"/></figure>
 
 My visualization is inspired by [this piece in the NY Times about the New York Marathon](https://www.nytimes.com/interactive/2015/10/30/sports/new-york-marathon-in-six-charts.html) from 2015. I really liked the waves of runners and the little pointer pointing out the last runner trailing the field. I wanted to do something somewhat similar.
 
@@ -20,13 +20,13 @@ My visualization is inspired by [this piece in the NY Times about the New York M
 
 Here's a more detailed description of what [you can see in the visualization](/app/gvrat-1000k-tracker) than in the little legends I've added there. The piece is very tall and just about fits onto my laptop's screen. It inadvertently works quite nicely on phone screens, which I had not actually designed it for initially. But it's a natural fit due its format and the interaction was easy enough to adapt.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-navigator.png" alt="" class="wp-image-39298" width="660" height="69" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-navigator.png" alt="" width="660" height="69"/></figure>
 
 At the top, a bar chart shows the number of miles people have logged each day. This is also a sort of navigator, the bar with the border around it indicates the day currently being shown in the rest of the chart. The colors, or levels of gray, indicate the days of the week. There is no legend for them, but I hope it's obvious that the pairs of darker days are the weekends. It's interesting to see, though not surprising, that people log more miles on weekends. This chart isn't meant to be used for precise navigation but just to give some context.
 
 Despite the tiny size of this chart, it's quite easy to see the numbers tapering off towards the end. The very light gray bars at the end are just placeholders for the future to make the chart look less empty. They will be filled in over the coming two weeks. Yes, this is an unusual thing to do, but it seemed weird to rescale this chart, and without the placeholders it looked like I had messed up the axis. The subtle little bar ghosts look much nicer.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png" alt="" class="wp-image-39336" width="660" height="389" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png" alt="" width="660" height="389"/></figure>
 
 The bulk of the chart is a histogram showing the number of runners by their progress along the race (binned into 5-mile bins). The horizontal axis goes from 0 to 635mi, and then continues past the finish line. In this early phase, there are already some finishers and some people who have chosen to continue past the finish.
 
@@ -40,13 +40,13 @@ I have to deal with extreme scales in both directions here. The horizontal axis 
 
 To deal with these issues, I had to get a little creative. One thing I did was to fold the horizontal axis to show people going back across Tennessee, then back again, and so on. I wanted to show just how far this was, so I had to fold not just once or twice, but eight times.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-folded-axes.png" alt="" class="wp-image-39303" width="660" height="369" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-folded-axes.png" alt="" width="660" height="369"/></figure>
 
 Even within this part, there are differences, since there are still hundreds of runners in places going back across Tennessee, but it gets sparser and sparser from there. So I decided to give the second and third time crossings a little more space than the later ones. Also note that the direction changes for every other crossing. This might seem odd, but it represents the actual direction you'd go if you actually did this in real life, and it works fairly well when it's animated IMHO.
 
 I also wanted to show the individuals here, so whenever there are 12 or fewer runners in a bin, I draw them as a little stack of orange dots instead of as bars. This shows the individuals nicely, but it does create some strange effects in place where the number hovers just around the threshold. I haven't figured out how to solve this. The circles look completely different than the bars on purpose, however, to make sure they don't get confused.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-arrows.png" alt="" class="wp-image-39304" width="660" height="289" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-arrows.png" alt="" width="660" height="289"/></figure>
 
 While the orange dots show where there are very few runners, the bars grow way too tall to be shown in their entirety, especially in the shorter charts for the crossings past the initial one (but also in the main one). To deal with this, I adopted an idea I've seen in histograms in Lightroom, Photoshop, and similar programs. To keep the histograms useful, they do not scale by the maximum value, but cut the axis off at some point and display little indicators to show that the bars there would continue up. The little pointy triangles at the top of some of my bars serve the same purpose.
 

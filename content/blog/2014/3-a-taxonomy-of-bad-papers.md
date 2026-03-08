@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-medium wp-image-3076" alt="Lemons" src="https://media.eagereyes.org/wp-content/uploads/2014/01/lemons.jpg" width="730" height="470" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/lemons.jpg" alt="Lemons" width="730" height="470"/></figure>
 
 # Peer Review, Part 3: A Taxonomy of Bad Papers
 

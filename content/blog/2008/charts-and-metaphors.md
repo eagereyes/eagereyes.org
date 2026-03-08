@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart (by Mary &amp; Matt)" width="490" height="320" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart (by Mary &amp; Matt)" width="490" height="320"/></figure>
 
 # Charts and Metaphors
 

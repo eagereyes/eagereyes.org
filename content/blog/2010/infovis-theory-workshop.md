@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/infovistheory-teaser.png" width="560" height="311" alt="InfoVisTheory Teaser"></p>
+<figure><img src="https://media.eagereyes.org/media/2010/infovistheory-teaser.png" alt="InfoVisTheory Teaser" width="560" height="311"/></figure>
 
 # Workshop: The Role of Theory in Information Visualization
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/color-names-teaser.png" width="600" height="200"></p>
+<figure><img src="https://media.eagereyes.org/media/2011/color-names-teaser.png" width="600" height="200"/></figure>
 
 # You Only See Colors You Can Name
 

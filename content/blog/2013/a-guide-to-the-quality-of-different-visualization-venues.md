@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486"/></figure>
 
 # A Guide to the Quality of Different Visualization Venues
 
@@ -30,7 +30,7 @@ Workshops tend to be a much more ad-hoc, smaller, and generally of lower quality
 
 Workshops tend to have much higher acceptance rates than conferences (50% and higher), and to accept work that is much less finished than conferences. That’s good and bad. The good is that early work can be shown and discussed, but the bad of course is that if you expect to see high-quality work, you might be disappointed. That doesn’t mean that it’s all bad, of course. Workshops like [BELIV](http://www.beliv.org) always have some very interesting and thought-provoking papers.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486"/></figure>
 
 ## Short Papers and Posters
 

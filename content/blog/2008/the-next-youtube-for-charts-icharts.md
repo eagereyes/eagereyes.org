@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/icharts.gif" alt="iCharts" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/icharts.gif" alt="iCharts"/></figure>
 
 # The Next YouTube for Charts: iCharts
 

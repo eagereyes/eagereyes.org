@@ -14,7 +14,7 @@ Before handing things over to [Noeska Smit](http://noeskasmit.com) for the items
 
 Domingo Martín et al. recently released [Stippleshop](https://tobias.isenberg.cc/VideosAndDemos/Martin2017SDS) in a collaboration between Team AVIZ–Inria-Saclay, Paris, and the Computer Graphics Group at the University of Granada, Spain. Stippleshop serves as a demo for [their *Survey of Digital Stippling* paper](https://tobias.isenberg.cc/personal/papers/Martin_2017_SDS.pdf) and allows people to play with stippling effects on their own or provided images. In addition to the coolness of offering a small toolkit with a survey paper, I am happy to see the *shop naming tradition continue (PhotoShop, VolumeShop, RegistrationShop,...).
 
-<p align="center"><img class="wp-image-10421 size-full" src="https://media.eagereyes.org/wp-content/uploads/2018/01/eagereyes.png" alt="" width="256" height="256" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/01/eagereyes.png" alt="" width="256" height="256"/></figure>
 
 Morolin has made some some lovely short videos [visualizing the behavior of sorting algorithms](https://imgur.com/gallery/GD5gi). They started out doing this [in a rainbow colormap](https://imgur.com/a/voutF) that was burning my eyes, but redid it [in Viridis](https://bids.github.io/colormap/) later, and the people rejoiced.
 

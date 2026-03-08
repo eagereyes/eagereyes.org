@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg" width="825" height="373" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg" width="825" height="373"/></figure>
 
 # Link: CG&A Article on Tapestry
 

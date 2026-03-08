@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/redpin.jpg" border="0" alt="Grayscale map with red pin" width="560" height="326" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/redpin.jpg" alt="Grayscale map with red pin" width="560" height="326"/></figure>
 
 # VisWeek Preview: Visualization on the Web Workshop
 

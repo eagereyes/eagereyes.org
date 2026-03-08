@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/undata-flowers.png" border="0" width="497" height="346" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/undata-flowers.png" width="497" height="346"/></figure>
 
 # UN Make Large Amounts of Data Available
 

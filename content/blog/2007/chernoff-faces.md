@@ -1,6 +1,6 @@
 # A Critique of Chernoff Faces
 
-<p align="center"><img title="Chernoff Faces" src="https://media.eagereyes.org/media/attachments/ChernoffFaces1.png" alt="Chernoff Faces" width="541" height="205" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/ChernoffFaces1.png" alt="Chernoff Faces" width="541" height="205"/></figure>
 
 Chernoff Faces are discussed in every information visualization course, and are referenced in many papers that talk about glyphs. Yet the only serious use of faces in visualization is for calibration, not for data display. Faces are so special that we better know their perceptual properties really well before we can use them, which we don't.
 
@@ -27,29 +27,29 @@ Perhaps the most famous example is the "[Face on Mars](http://en.wikipedia.org/w
 <table style="height: 199px;" width="391" border="0" align="center">
 <tbody>
 <tr valign="top">
-<td align="center"><img title="&quot;The Face on Mars&quot;" src="https://media.eagereyes.org/media/attachments/Martian_face_viking_cropped.jpg" alt="&quot;The Face on Mars&quot;" width="200" height="175" border="0" /></td>
-<td align="center"><img title="A different view" src="https://media.eagereyes.org/media/attachments/MGS_Cydonia3-small.jpg" alt="A different view" width="175" height="175" border="0" /></td>
+<td align="center"><img src="https://media.eagereyes.org/media/attachments/Martian_face_viking_cropped.jpg" alt="&quot;The Face on Mars&quot;" width="200" height="175"/></td>
+<td align="center"><img src="https://media.eagereyes.org/media/attachments/MGS_Cydonia3-small.jpg" alt="A different view" width="175" height="175"/></td>
 </tr>
 </tbody>
 </table>
 
 In times of Google Maps, faces can also be found on closer planets. The ones in the following images are called "[Medicine Man](http://maps.google.com/maps?f=q&amp;hl=en&amp;ie=UTF8&amp;om=1&amp;z=17&amp;ll=50.01089,-110.112405&amp;spn=0.005212,0.009838&amp;t=h)" (even wearing an iPod!) and "[Face of God](http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;z=12&amp;ll=-16.348144,-71.967659&amp;spn=0.256306,0.314827&amp;t=k&amp;om=1)" (or perhaps [Slartibartfast](http://en.wikipedia.org/wiki/Slartibartfast)?). What is interesting especially in the left image is that the face is clearly visible, while the hair/headdress makes much less visual sense.
 
-<p align="center"><img title="Faces found on Google Maps: &quot;Medicine Man&quot; and &quot;Face of God&quot;" src="https://media.eagereyes.org/media/attachments/GoogleMapsFaces.jpg" alt="Faces found on Google Maps: &quot;Medicine Man&quot; and &quot;Face of God&quot;" width="600" height="308" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/GoogleMapsFaces.jpg" alt="Faces found on Google Maps: &quot;Medicine Man&quot; and &quot;Face of God&quot;" width="600" height="308"/></figure>
 
 Finally, there are faces in our every-day non-visual communication: smilies. Two or more punctuation characters can express joy, astonishment, shock, and affection. Who would have thought that these mundane characters that just structure the more important text could convey so much meaning?
 
-<p align="center"><img title="Smilies" src="https://media.eagereyes.org/media/attachments/smilies.png" alt="Smilies" width="325" height="70" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/smilies.png" alt="Smilies" width="325" height="70"/></figure>
 
 ## Faces in Visualization
 
 [The Which Blair Project [2]](#rogowitz)  uses faces to calibrate displays without the need for special hardware. It works on the simple principle that we see a face when the luminance values that are mapped to the gray levels of a photograph are monotonically increasing in brightness. This way, a large number (maybe 100) possible color maps can be presented to the user, who then simply clicks on the images where s/he sees a face. This is completely effortless thanks to our natural ability to see faces.
 
-<p align="center"><img title="The Which Blair Project, Rogowitz and Kalvin, 2001" src="https://media.eagereyes.org/media/attachments/whichblair.jpg" alt="The Which Blair Project, Rogowitz and Kalvin, 2001" width="561" height="262" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/whichblair.jpg" alt="The Which Blair Project, Rogowitz and Kalvin, 2001" width="561" height="262"/></figure>
 
 An extension of this idea is [Face-based Luminance Matching [3]](#kindlmann), which lets the user not just select, but also construct color maps. To do this, a two-tone image of a portrait is shown using a gray level and a color, in both possible configurations (i.e., one quarter of the image below). The user moves a slider towards the side where s/he sees the face, changing the value of the color. When the point is crossed where color and gray appear equally bright, the face appears to jump to the other image. That way, the user has found a color with the same perceived brightness as the gray once s/he cannot decide where the face is anymore.
 
-<p align="center"><img title="Kindlmann et al" src="https://media.eagereyes.org/media/attachments/kindlmann_faces.png" alt="Kindlmann et al" width="440" height="440" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/kindlmann_faces.png" alt="Kindlmann et al" width="440" height="440"/></figure>
 
 ## Other Glyphs
 
@@ -57,7 +57,7 @@ Apart from the reasons stated above that show how peculiar faces are, there is a
 
 General glyphs can be tailored for any data, and can also be based on metaphors. Take the following glyph for visualizing patient data in an intensive care unit (ICU) as an example. The [VIE-VISU [4]](#horn) system is loosely based on the human shape, without invoking it too strongly and thus creating a [gestalt](http://en.wikipedia.org/wiki/Gestalt_psychology). Could they have used a face? Definitely. But which values do you represent with the eyes? Which make the face smile or look sad?
 
-<p align="center"><img title="VIE-VISU, Horn et al, 2001" src="https://media.eagereyes.org/media/attachments/VIEVISU-small.png" alt="VIE-VISU, Horn et al, 2001" width="386" height="187" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/VIEVISU-small.png" alt="VIE-VISU, Horn et al, 2001" width="386" height="187"/></figure>
 
 ## Hard Evidence
 

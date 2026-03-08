@@ -6,7 +6,7 @@ I consider presentation and storytelling [the next step in visualization](/paper
 
 A Tableau Story is a new type of sheet, like a worksheet or a dashboard. It consists of a set of story points, which are worksheets or dashboards in specific states. What that means is that the story point captures the filters, selections, and other things that you can do on a sheet without changing its structure.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2648" alt="Story Points" src="https://media.eagereyes.org/wp-content/uploads/2013/10/storypoints-4.png" width="600" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/storypoints-4.png" alt="Story Points" width="600" height="480"/></figure>
 
 A story point captures a particular point, or insight. The idea being that you can use this to guide somebody through your work to show them what you have found, and maybe even ask questions. That’s the low-key version of a story. The high-key version is then to tie these points together into a compelling narrative, which naturally requires more work.
 
@@ -14,13 +14,13 @@ In addition, each story point has a caption in the navigator you see at the top,
 
 Story points work well with Tableau’s upcoming presentation mode, which puts the program into full-screen mode and allows you to use it like a presentation tool, while still being fully interactive, to drill down or do other things in response to questions.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2650" alt="Story Points in Presentation Mode" src="https://media.eagereyes.org/wp-content/uploads/2013/10/storypoints-presentation.png" width="600" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/storypoints-presentation.png" alt="Story Points in Presentation Mode" width="600" height="480"/></figure>
 
 ## Creating Story Points
 
 The user interface is very simple and straightforward, and essentially consists of a single button: *Capture*. After adding a sheet to the story and making changes, you can capture the current state at any point. You can then continue working and capture another story point at any time (on the same sheet or a different one). Tableau simply remembers what state the sheet was in when you clicked the button.
 
-<p align="center"><img class="aligncenter size-full wp-image-2649" alt="Story Points Capture Button" src="https://media.eagereyes.org/wp-content/uploads/2013/10/storypoints-capture-button.png" width="600" height="190" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/storypoints-capture-button.png" alt="Story Points Capture Button" width="600" height="190"/></figure>
 
 Don’t need a point, or don’t like the order? Story points can be rearranged by simply dragging and dropping them, and there is a little delete button when you hover over the point in the navigator at the top. The caption for a point can also be changed at any time without needing to capture again.
 

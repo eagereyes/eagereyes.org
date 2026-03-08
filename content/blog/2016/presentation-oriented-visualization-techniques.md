@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg" width="850" height="745" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg" width="850" height="745"/></figure>
 
 # Paper: Presentation-Oriented Visualization Techniques
 

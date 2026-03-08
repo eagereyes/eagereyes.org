@@ -2,7 +2,7 @@
 
 The [Data Stories podcast](http://datastori.es/) starts the new year with [Andy Kirk](http://www.visualisingdata.com) and me as guests. With the hosts, [Enrico Bertini](http://fellinlovewithdata.com) and [Moritz Stefaner](http://stefaner.eu), we discuss the major developments of 2013 and look ahead to what 2014 has in store.
 
-<p align="center"><img class="aligncenter size-medium wp-image-3090" alt="Data Stories Screencap 1" src="https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap1-730x422.jpg" width="730" height="422" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap1-730x422.jpg" alt="Data Stories Screencap 1" width="730" height="422"/></figure>
 
 You can [listen to the podcast episode](http://datastori.es/ds31-year-review-w-andy-kirk-and-robert-kosara/) directly on its page, but you should really subscribe using your favorite podcast app. If you don't have one, at least subscribe to the datastori.es feed.
 
@@ -10,4 +10,4 @@ Andy and I are Data Stories veterans, with Andy having appeared four times now, 
 
 Many of the things we discussed are also covered in my *[State of Information Visualization](/blog/2014/the-state-of-information-visualization-2014)* posting from two weeks ago. And while we were obviously discussing matters of great seriousness, there were also some lighter moments.
 
-<p align="center"><img class="aligncenter size-medium wp-image-3091" alt="Data Stories Screencap 2" src="https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap2-730x422.jpg" width="730" height="422" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap2-730x422.jpg" alt="Data Stories Screencap 2" width="730" height="422"/></figure>

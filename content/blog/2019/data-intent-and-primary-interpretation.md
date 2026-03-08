@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/data-rows.jpg" width="660" height="495" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/data-rows.jpg" width="660" height="495"/></figure>
 
 # Data: Intent and Primary Interpretation
 

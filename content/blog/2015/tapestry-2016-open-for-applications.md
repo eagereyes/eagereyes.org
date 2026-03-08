@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tapestry16-teaser.jpg" alt="" width="810" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tapestry16-teaser.jpg" alt="" width="810" height="500"/></figure>
 
 # Tapestry 2016 Open For Applications
 

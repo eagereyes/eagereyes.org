@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png" alt="Sightings: A Little Space, Please" width="452" height="300" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png" alt="Sightings: A Little Space, Please" width="452" height="300"/></figure>
 
 # Sightings: A Little Space, Please!
 

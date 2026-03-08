@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png" width="720" height="500"/></figure>
 
 # A Decade of EagerEyes
 

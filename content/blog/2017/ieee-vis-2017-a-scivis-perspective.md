@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg" width="720" height="480"/></figure>
 
 # IEEE VIS 2017: A SciVis Perspective
 
@@ -14,7 +14,7 @@ I mainly attended the SciVis paper sessions (though some of the sessions did not
 
 *Activity-Centered Domain Characterization for Problem-Driven Scientific Visualization* by G. Elisabeta Marai addresses the interesting problem of domain characterization for (scientific) visualization. Liz talked about shifting from human-centered design to activity-centered design. She presented a model for this which adds functional specs to the famous Nested Model proposed by Tamara Munzner.
 
-<p align="center"><img src="https://pbs.twimg.com/media/DLPiVxkXUAEiDnX.jpg:large" alt="" width="1024" height="576" />The Activity-Centered Design Model</p>
+<figure><img src="https://pbs.twimg.com/media/DLPiVxkXUAEiDnX.jpg:large" alt="" width="1024" height="576"/><figcaption>The Activity-Centered Design Model</figcaption></figure>
 
 *The Good, the Bad, and the Ugly: A Theoretical Framework for the Assessment of Continuous Colormaps* by Roxana Bujack, Terece L. Turton, Francesca Samsel, Colin Ware, David H. Rogers, and James Ahrens deals with how to assess continuous colormaps. People often speak of perceptually linear, but exact definitions of this concept vary depending on who you ask. In this paper, an overview of literature on the topic so far is presented, along with guidelines for colormap design. As the icing on the cake, there is also an accompanying online tool: [colormeasures.org](http://colormeasures.org/), which [lets you check if your colormaps are good, bad, or ugly](https://twitter.com/_Noeska_/status/915330652588740608) ;).
 

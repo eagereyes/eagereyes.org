@@ -4,7 +4,7 @@ Criticizing visualizations is a cottage industry of sorts, and an activity I hav
 
 This being *The Economist*, the charts Leo picked for redesigns aren't all that egregious to begin with, but her redesigns are clearly an improvement. Two  stood out to me in particular. The first one seems to show a correlation that's a little bit too perfect.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1H21mduPmvzot3oaMThNfFQ.png" alt="" class="wp-image-12009" width="640" height="335"/></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1H21mduPmvzot3oaMThNfFQ.png" alt="" width="640" height="335"/></figure>
 
 I don't know much about dogs, but I figure weight and neck size are highly correlated. It may also just be a coincidence of how the vertical scales fall that these lines end up on top of each other, so it's easy to just go with that. At the same time, we're comparing apples and oranges here and neither of the axes start at zero.
 
@@ -12,7 +12,7 @@ Leo makes an interesting point here about how to pick axis ranges in such a case
 
 The other example I though was particularly interesting is also a dual-axes line chart, this one about the U.S. trade deficit and employment.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png" alt="" class="wp-image-12010" width="640" height="335"/></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/04/1Ilu1H37M1soUh1GHhDa_IA.png" alt="" width="640" height="335"/></figure>
 
 What's extremely confusing here, and frankly not very well done in the original, is that the trade deficit is all negative numbers while unemployment numbers are all positive. The half-length red line at the top is supposed to indicate this, but I at least did not understand that and thought it was a mistake.
 

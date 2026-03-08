@@ -1,4 +1,4 @@
-<p align="center"><img title="More ZIPScribble Maps" src="https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg" alt="More ZIPScribble Maps" width="600" height="260" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg" alt="More ZIPScribble Maps" width="600" height="260"/></figure>
 
 # More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE
 

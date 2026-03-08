@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png" alt="NY Times, Can a President Tame the Business Cycle?" width="407" height="170" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png" alt="NY Times, Can a President Tame the Business Cycle?" width="407" height="170"/></figure>
 
 # NY Times looks at Presidents and the Economy
 
@@ -6,7 +6,7 @@ The New York Times has an interesting interactive visualization on the influence
 
 What exactly is a "high" or "low" change? This is how the legend describes the different colors used, and it turns out that "low" sometimes means negative. The color scale as shown in the legend is continuous, but one with just a few values (maybe five on either side of zero) would have been much more readable. Also, it is kind of important if things go up or down, which is impossible to see in this chart. Where exactly is zero on the color scale? The bar chart has no such problem.
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy-detail.png" alt="Change in real income" width="484" height="278" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy-detail.png" alt="Change in real income" width="484" height="278"/></figure>
 
 The answer here is a diverging color scale with two colors that are different enough so that it is easy to see which side of zero a value is. [ColorBrewer](http://colorbrewer.org/) has a number of color scales for such (and other) purposes.
 

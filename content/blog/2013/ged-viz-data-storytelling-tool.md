@@ -4,7 +4,7 @@ I had the honor and pleasure to keynote an event in Berlin recently that introdu
 
 [*GED* stands for Global Economic Dynamics](http://www.ged-project.de/home/), which explains where the motivation for the project actually came from: the need to show the underlying data when explaining global relationships based on the movement of goods, money, and people between countries.
 
-<p align="center"><img class="aligncenter size-full wp-image-2483" alt="GED Viz" src="https://media.eagereyes.org/wp-content/uploads/2013/07/ged-viz.png" width="600" height="450" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/ged-viz.png" alt="GED Viz" width="600" height="450"/></figure>
 
 The visualization is essentially a [chord diagram](http://bl.ocks.org/mbostock/4062006), showing the countries around a circle and connecting them with bands through the center. When creating a visualization, the user can pick from a list of countries and groups of countries (like the OECD), as well as a variety of metrics to show.
 

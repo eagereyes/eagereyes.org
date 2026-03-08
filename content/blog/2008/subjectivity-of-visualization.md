@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230"/></figure>
 
 # The Unbearable Subjectivity of Visualization
 

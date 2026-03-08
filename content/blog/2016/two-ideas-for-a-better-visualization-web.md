@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/6668006863_6a594e2ec4_o.jpg" width="960" height="540" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/6668006863_6a594e2ec4_o.jpg" width="960" height="540"/></figure>
 
 # Two Ideas for a Better Visualization Web
 

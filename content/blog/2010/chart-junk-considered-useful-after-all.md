@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-teaser.jpg" width="560" height="236" alt="Useful Junk Teaser" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-teaser.jpg" alt="Useful Junk Teaser" width="560" height="236"/></figure>
 
 # Chart Junk Considered Useful After All
 
@@ -16,11 +16,11 @@ The authors of [the paper](http://hci.usask.ca/publications/view.php?id=173) ref
 
 Quick show of hands: which chart is better, this one:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-monster.jpg" width="280" height="212" alt="cost monster" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-monster.jpg" alt="cost monster" width="280" height="212"/></figure>
 
 Or this one:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-costs.jpg" width="280" height="220" alt="cost bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-costs.jpg" alt="cost bars" width="280" height="220"/></figure>
 
 If you subscribe to the Tufte school of thinking, the first chart probably made you cringe. But imagine somebody who just looks at this chart on a newspaper page for a few seconds before reading another article. Which chart is more likely to get its message across?
 
@@ -30,7 +30,7 @@ The paper also presents some results from eye tracking, but I find those rather 
 
 While there have been other studies on small design variations, this one really went all out to find some of the most outrageous charts to compare. That makes this work very relevant, because these are the things that we tend to criticize as containing a lot of chart junk.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-examples.jpg" width="560" height="285" alt="examples" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-examples.jpg" alt="examples" width="560" height="285"/></figure>
 
 This study was not about reading and remembering exact numbers; the authors were only concerned with understanding the elements of the chart (what time span, what kind of data, etc.), the trend, and the message. This is a good assumption when dealing with communication-style charts as they are used in newspapers and on most websites, but not for data analysis. That explains why issues like curved or tilted baselines and similar distortions were not such an issue; the overall trend would still be visible even if the values could not be very precisely identified.
 

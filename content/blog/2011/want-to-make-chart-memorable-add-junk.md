@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/memory-monster.jpg" alt="" width="600" height="235" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/memory-monster.jpg" alt="" width="600" height="235"/></figure>
 
 # Want to Make A Chart Memorable? Add Junk
 

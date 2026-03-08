@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg" width="720" height="408" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg" width="720" height="408"/></figure>
 
 # Paper: Finding a Clear Path: Structuring Strategies for Visualization Sequences
 
@@ -6,7 +6,7 @@ How should you sequence information in a data story so it makes the most sense? 
 
 There will be three postings this week about EuroVis papers. This one is about the full paper I’m on, and there are also two short papers. Two of these papers (one full and one short) are about storytelling, one of them is about embellished charts. No pie charts this year, though.
 
-<p align="center"><img class="aligncenter size-full wp-image-10086" src="https://media.eagereyes.org/wp-content/uploads/2017/06/structuring-strategies.png" alt="" width="1342" height="878" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/structuring-strategies.png" alt="" width="1342" height="878"/></figure>
 
 Let’s say you want to show data about the urban population in two different countries for two different years. Does it make more sense to show Country A in Year X, then the same country in Year Y, and then the same thing for Country B? Or show Country A in Year X, Country B in Year X, and then each in Year Y? Even with just a few charts, there are a lot of possible combinations. Some of them will seem more obviously the right idea, but how do you know?
 

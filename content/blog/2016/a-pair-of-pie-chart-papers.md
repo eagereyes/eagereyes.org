@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-package-teaser.png" alt="" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-package-teaser.png" alt="" width="825" height="510"/></figure>
 
 # A Pair of Pie Chart Papers
 
@@ -12,11 +12,11 @@ So we set out to do some science around this. The full paper reports on two stud
 
 ## Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts
 
-<p align="center"><img class="aligncenter size-full wp-image-9312" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Skau-EuroVis-2016-pages-2.png" alt="Skau-EuroVis-2016-pages" width="660" height="374" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Skau-EuroVis-2016-pages-2.png" alt="Skau-EuroVis-2016-pages" width="660" height="374"/></figure>
 
 The full paper reports on two studies. One presented participants with deconstructed charts that were designed to test encodings independently from each other. Measuring their accuracy when using any of these variations, we could assess which of them was actually being used, no matter what people claimed.
 
-<p align="center"><img class="aligncenter size-full wp-image-9306" src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-individual-encodings.png" alt="pie-individual-encodings" width="660" height="127" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-individual-encodings.png" alt="pie-individual-encodings" width="660" height="127"/></figure>
 
 From left to right, they are: pie, donut, arc-only, angle-only based on pie, angle-only based on donut, and area-only.
 
@@ -26,7 +26,7 @@ What does this mean? Angle is not likely the main, and certainly not the only, w
 
 We also wanted to see if there was an effect from the inner diameter in donut charts. So we tested a set of donuts with varying hole sizes (with the "no-hole" pie chart serving as a baseline).
 
-<p align="center"><img class="aligncenter size-full wp-image-9307" src="https://media.eagereyes.org/wp-content/uploads/2016/05/donuts.png" alt="donuts" width="660" height="110" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/donuts.png" alt="donuts" width="660" height="110"/></figure>
 
 There is no difference between them, other than the thinnest donut being worse than the rest (we're not sure exactly why). Donut charts no worse than pie charts! Who knew!?
 
@@ -36,11 +36,11 @@ Code and data are also available, for both [the arcs-angles-areas study](https:/
 
 ## Judgment Error in Pie Chart Variations
 
-<p align="center"><img class="aligncenter size-full wp-image-9272" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Kosara-EuroVis-2016-pages.png" alt="Kosara-EuroVis-2016-pages" width="660" height="187" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Kosara-EuroVis-2016-pages.png" alt="Kosara-EuroVis-2016-pages" width="660" height="187"/></figure>
 
 Based on the full paper, we had some predictions for what should happen for specific pie chart variations that we often see in business presentations and information graphics. We ran a further study to test some of those.
 
-<p align="center"><img class="aligncenter size-full wp-image-9308" src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-variations.png" alt="pie-variations" width="550" height="143" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-variations.png" alt="pie-variations" width="550" height="143"/></figure>
 
 Left to right, there's a basic pie chart, a pie chart with a larger slice (often used for emphasis), an exploded pie chart, and two pies with unusual shapes. We designed those to mimic the sort of icon-based pie charts that are fairly common in infographics, where segments are drawn on top of some shape (usually much more complex than the ellipse and square).
 

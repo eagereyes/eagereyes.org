@@ -4,7 +4,7 @@ Data visualization is often used to just display data, with little thought put i
 
 The [following example](http://www.census.gov/dataviz/visualizations/040/) is from the [Census Data Visualization Gallery](http://www.census.gov/dataviz/). Like many of the other visualizations there, it shows some good thinking but ultimately fails to do what it was designed to.
 
-<p align="center"><img class="aligncenter size-full wp-image-2129" alt="Components of Metro Area Change" src="https://media.eagereyes.org/wp-content/uploads/2012/12/metro-change.png" width="440" height="290" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/metro-change.png" alt="Components of Metro Area Change" width="440" height="290"/></figure>
 
 You don’t have to be [Alberto Cairo](http://thefunctionalart.com) to realize that using area here is problematic. Not only is it difficult to compare and properly read differences in area, it is also close to impossible to add areas to each other. The other problem is that the numbers here can be negative (which is also important for the story here, so this isn’t just an inconvenient detail), which area obviously cannot express. Using the outline to indicate negative numbers is a reasonable idea, since color is already used to indicate the different categories of numbers. It doesn’t help with the visual math though, and I’d argue that while you might have a chance to add up areas, even if it is hard and not very accurate, subtracting areas is pretty much hopeless.
 
@@ -18,7 +18,7 @@ The trick, if we are serious about the visual math, is to keep all the scales th
 
 What we gain, though, is the ability to sort by any column. That is useful, because it easily lets us answer a variety of questions: which cities get the most domestic migration? Which ones get the most international migration? Which ones have the most natural growth?
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/bars.png" width="599" height="514" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/bars.png" width="599" height="514"/></figure>
 
 Click on the column headings to sort by *natural growth*, *domestic migration*, *international migration*, or *net change* instead of *city name*. Now compare to the original and tell me that this isn’t more informative and interesting.
 
@@ -26,13 +26,13 @@ Click on the column headings to sort by *natural growth*, *domestic migration*, 
 
 An issue that is partly caused by the idea of visual math is the use of absolute numbers. It makes a lot more sense to add up people than percentages. But that also makes comparison between cities difficult. The largest metro area in this data set, New York, has over 19 million people, while the smallest, Denver, is just over 2.5 million.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/population.png" width="599" height="514" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/population.png" width="599" height="514"/></figure>
 
 The number for, say, natural growth thus means something quite different for each of them (since you’d expect all cities to grow naturally by the same percentage, but not the same absolute number of people).
 
 Looking at the number as a fraction instead makes the comparison more meaningful. I simply divided the growth numbers by the population, so the resulting numbers do not ave an interesting unit. In more statistically meaningful terms, it would make sense to be able to speak about growth per 100,000 people or similar.  Either way, it turns out that the natural growth is the highest in New York when looked at in absolute terms (not surprising), but in the lower half as a percentage of total population.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/bars-relative.png" width="599" height="514" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/bars-relative.png" width="599" height="514"/></figure>
 
 ## Conclusion
 

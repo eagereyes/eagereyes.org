@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384"/></figure>
 
 # Follow Me on Twitter!
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png" height="247" width="615" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png" width="615" height="247"/></figure>
 
 # InfoVis Panel: The Impact of Social Data Visualization
 

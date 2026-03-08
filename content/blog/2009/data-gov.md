@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg" border="0" alt="Dictators" width="560" height="264" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg" alt="Dictators" width="560" height="264"/></figure>
 
 # Democracy, Public Data, and Data.gov
 
@@ -16,9 +16,9 @@ Releasing data like this is a sign that the new U.S. administration is confident
 
 This is the reason for including the teaser image and the following three larger versions. It's difficult to appreciate these when they are too small. They are clever. They engender hope. And they are topical.
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2009/ishr211.jpg" border="0" alt="Dictator 1" width="500" height="710" /></p>
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2009/ishr213.jpg" border="0" alt="Dictator 2" width="500" height="710" /></p>
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2009/ishr212.jpg" border="0" alt="Dictator 3" width="500" height="709" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/ishr211.jpg" alt="Dictator 1" width="500" height="710"/></figure>
+<figure><img src="https://media.eagereyes.org/media/2009/ishr213.jpg" alt="Dictator 2" width="500" height="710"/></figure>
+<figure><img src="https://media.eagereyes.org/media/2009/ishr212.jpg" alt="Dictator 3" width="500" height="709"/></figure>
 They were created for the [International Society for Human Rights](http://www.ishr.org/) by the German ad agency Ogilvy and Mather. The only source of the images I am aware of is a [Spanish news website](http://www.noticias24.com/actualidad/noticia/49065/internet-asusta-a-algunos/), but they are not the original source.
 
 In any case, they are a great use of [representation](/blog/2007/joy-of-representation) in photography, and they point in the right direction. Al this fancy technology may serve a higher purpose, after all.

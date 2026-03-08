@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/14061151590_547435d61f_o.jpg" width="772" height="512" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/14061151590_547435d61f_o.jpg" width="772" height="512"/></figure>
 
 # Tapestry 2017: St. Augustine, FL on March 1st
 

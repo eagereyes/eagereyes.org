@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg" width="720" height="480"/></figure>
 
 # IEEE VIS 2017: Machine Learning, Diversity, Parties
 
@@ -26,15 +26,15 @@ I think it was reasonable that this panel got the Best Panel award, but I also f
 
 Parties at VIS are a relatively new thing, I believe they started with the Tableau Party in 2012. They’re a great addition to the social fabric of the conference – though they also make the week more exhausting.
 
-<p align="center"><img class="aligncenter size-full wp-image-10257" src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-westcoast.jpg" alt="" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-westcoast.jpg" alt="" width="720" height="480"/></figure>
 
 Location scouting for them can be tricky, and last year they all ended up in the same pub. This year, IBM set a new standard with their party Sunday night in a barcade (that’s an arcade with adult beverages).
 
-<p align="center"><img class="aligncenter size-full wp-image-10259" src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg" alt="" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg" alt="" width="720" height="480"/></figure>
 
 The West Coast Party and the Austrian Party took place in nice bars. Though the Austrian Party got some people out in [Dirndls](https://en.wikipedia.org/wiki/Dirndl) and Lederhosen, which was fun.
 
-<p align="center"><img class="aligncenter size-full wp-image-10262" src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-austria-2.jpg" alt="" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-austria-2.jpg" alt="" width="720" height="480"/></figure>
 
 This concludes the report from IEEE VIS 2017. It was a good conference, with many exciting talks and some interesting new directions. And, yes, some great parties.
 

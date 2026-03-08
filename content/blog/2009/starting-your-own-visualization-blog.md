@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/printingpress.jpg" border="0" alt="Printing Press" width="540" height="379" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/printingpress.jpg" alt="Printing Press" width="540" height="379"/></figure>
 
 # Starting Your Own Visualization Blog
 

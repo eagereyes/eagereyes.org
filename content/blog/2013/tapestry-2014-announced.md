@@ -1,4 +1,4 @@
-<p align="center"><img alt="Tapestry Triptych" src="https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych-730x323.jpeg" width="730" height="323" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych-730x323.jpeg" alt="Tapestry Triptych" width="730" height="323"/></figure>
 
 # Tapestry 2014 Announced
 

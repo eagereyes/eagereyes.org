@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" border="0" alt="YouTube Screening Room" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" alt="YouTube Screening Room"/></figure>
 
 # The YouTube Screening Room
 

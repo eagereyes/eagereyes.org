@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png" width="575" height="373" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png" width="575" height="373"/></figure>
 
 # The Café Wall Illusion in a Bar Chart
 
@@ -6,7 +6,7 @@
 
 The classic café wall illusion was first spotted on a tiled wall, where the misaligned black and white tiles were making the lines look all wonky ([image from Wikipedia](https://commons.wikimedia.org/wiki/File:Café_wall.svg)).
 
-<img class="aligncenter size-full wp-image-9360" src="https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall.png" alt="cafe-wall" width="660" height="412" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall.png" alt="cafe-wall" width="660" height="412"/></figure>
 
 [FiveThirtyEight journalist Allison McCann](http://allisontmccann.com) recently [tweeted this image](https://twitter.com/atmccann/status/735593381896818690), which also shows the illusion. This is the first time I've ever seen it in a bar chart.
 

@@ -24,7 +24,7 @@ Given the insight, getting that across should be easy, right? Well, no. That's t
 
 Perhaps my favorite example of that is Jonathan Corum's whale/lunge feeding graphic (discussed in [his phenomenal Tapestry talk last year](http://style.org/tapestry/)). The data was collected by scientists, and they had already created a chart for a paper. Corum's insight was to put something back into the graph that the scientists had left out: the depth the whale was diving to. Perhaps this was obvious to the scientists, but certainly not to the readers of The New York Times.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8288" src="https://media.eagereyes.org/wp-content/uploads/2014/07/nytimes-jealous-dog.png" alt="NYTimes, Your Jealous Dog" width="730" height="418" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/07/nytimes-jealous-dog.png" alt="NYTimes, Your Jealous Dog" width="730" height="418"/></figure>
 
 A more recent example was on the [behavior of dogs in different settings](http://www.nytimes.com/2014/07/24/science/entering-gray-area-study-says-dogs-can-be-green-with-envy.html). The data again came from [a paper](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0094597), which even included almost the exact same chart that was used in the NY Times piece. But only almost. The key differences are what turn a boring bar chart into an interesting, readable one: color, spacing, and some cute drawings. Enough for Kaiser Fung to use it as an argument that [visualization can be worth paying for](http://junkcharts.typepad.com/junk_charts/2014/07/the-top-dog-among-jealous-dogs.html).
 

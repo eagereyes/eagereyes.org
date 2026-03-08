@@ -20,7 +20,7 @@ I don’t see any of this losing steam, quite the opposite. 2014 is the year whe
 
 An idea that I first saw a few years ago really took off in 2013: automated infographics. Rather than just visualizing the data on a sort of dashboard, why not make an information graphic with nice production values and fill in people’s own data? This was [the original idea behind Visual.ly](/blog/2011/visually-the-future-of-data-based-infographics), and the possibilities are endless. [Vizify](https://www.vizify.com) creates [a multi-page information graphic](https://www.vizify.com/eagereyes) from your LinkedIn and other social network data, WordPress sent out [a custom annual report](http://jetpack.me/annual-report/44463152/2013/) to users of wordpress.com and Jetpack (for self-hosted blogs), Google created [a personal video for Google+ users](https://plus.google.com/u/0/+anilsabharwal/posts/DY2iSB7UFaP), etc.
 
-<p align="center"><img alt="Wordpress Year in Blogging Annual Report" src="https://media.eagereyes.org/wp-content/uploads/2014/01/wordpress-report-730x500.png" width="730" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/wordpress-report-730x500.png" alt="Wordpress Year in Blogging Annual Report" width="730" height="500"/></figure>
 
 WordPress’ annual report is quite neat. It uses the common scrolling format to show what are essentially pages of information: overall stats, the most popular postings, search terms, commenters, etc. at the top of the page (and behind the information pages as you scroll down), animated fireworks represent the blog postings, etc. A lot of work went into this, and it looks great. Many companies would kill for an annual report as slick and well-designed as this one.
 
@@ -36,7 +36,7 @@ How things have changed. Last year, we saw [slope graphs/parallel coordinates](h
 
 I particularly liked this scatterplot when I happened across it while in Portland recently. It's sort of a meta-visualization: it shows the effect *The Oregonian's* reporting has had on the shift lengths of bus and tram drivers in Portland.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2993" alt="The Oregonian, Trimet's Long Days" src="https://media.eagereyes.org/wp-content/uploads/2014/01/oregonian-trimet-long-days-730x355.png" width="730" height="355" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/oregonian-trimet-long-days-730x355.png" alt="The Oregonian, Trimet" width="730" height="355"/></figure>
 
 This past year has also seen some very interesting movements of visual and data journalists, between different media as well as from media to other companies. Andy Kirk listed a good number of them in a posting on [significant events of the latter half of last year](http://www.visualisingdata.com/index.php/2013/12/10-significant-visualisation-developments-july-to-december-2013/) (his [posting on the first half](http://www.visualisingdata.com/index.php/2013/07/10-significant-visualisation-developments-january-to-june-2013/) is also worth a read).  This is a good sign, because it means that there is an active labor market, and it also means a transfer of knowledge. People staying in the same place don't help ideas move from place to place. I think we should see the results of many of these moves in the next months.
 
@@ -50,7 +50,7 @@ I'm also throwing in [Isabel Meirelles book, *Design for Information*](/criticis
 
 Perhaps my favorite development of 2013 is what some have called *emotive visualization*. Behind that anemic term hides a category of visual storytelling that doesn't just state facts, but wants you to feel them. Sure, they are based on numbers. But the point is not just to give you the numbers, but to hit you with them, and hard.
 
-<p align="center"><img class="aligncenter size-full wp-image-2298" alt="U.S. Gun Deaths" src="https://media.eagereyes.org/wp-content/uploads/2013/04/guns.jpg" width="600" height="211" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/04/guns.jpg" alt="U.S. Gun Deaths" width="600" height="211"/></figure>
 
 The pieces on [drone strikes and gun deaths](/blog/2013/revolution-visualized) published last year achieved that goal and got a lot of people talking, as did [a video discussing wealth inequality](/blog/2013/data-storytelling-video). I hope we will see more of this kind of work going forward. This is the wilder side of storytelling, and the more visceral one. While numbers may seem boring, [making them visual makes them real](/blog/2013/visualization-real), in a very powerful way.
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/mappings.png" width="537" height="178" alt="Mappings" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/mappings.png" alt="Mappings" width="537" height="178"/></figure>
 
 # The Year of InfoVis Theory
 

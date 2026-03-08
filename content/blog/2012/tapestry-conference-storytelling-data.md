@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-full wp-image-2116" title="Tapestry Conference" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png" width="600" height="180" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png" alt="" width="600" height="180"/></figure>
 
 # Tapestry, The Conference About Storytelling With Data
 

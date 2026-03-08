@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg" width="950" height="475" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg" width="950" height="475"/></figure>
 
 # When Rankings Are Just Data Porn
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg" width="800" height="569" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg" width="800" height="569"/></figure>
 
 # Review: Alberto Cairo, How Charts Lie
 

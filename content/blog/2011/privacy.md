@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/privacy-teaser.png" alt="" width="600" height="388" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/privacy-teaser.png" alt="" width="600" height="388"/></figure>
 
 # Paper: Privacy-Preserving Visualization
 
@@ -8,7 +8,7 @@ The point of visualization is usually to reveal as much of the structure of a da
 
 As with everything else, there is an obvious solution to this problem that doesn’t work. We started out by looking at the data mining literature, where preserving privacy has been an issue for a while. After running a dataset through an algorithm called k-members clustering, and adapting parallel coordinates to be able to show clusters instead of lines, we ended up with this:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/privacy-bad.png" alt="" width="600" height="242" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/privacy-bad.png" alt="" width="600" height="242"/></figure>
 
 While this is obviously useless for visualization, this is the way the data can be passed on to third parties without knowledge about what they are going to do with it, while guaranteeing a minimum level of privacy.
 
@@ -16,7 +16,7 @@ While this is obviously useless for visualization, this is the way the data can 
 
 But what if we know a bit more? In this case, what if we know that the user will be looking at the data as a parallel coordinates-like visualization, the axis order in the visualization, and the size of the display? In that case, we can do a bit better:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/privacy-good.png" alt="" width="600" height="242" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/privacy-good.png" alt="" width="600" height="242"/></figure>
 
 The key to this is realizing what the user can learn about the data from the visualization, and using that to guide the clustering. Traditional clusters break down the data space, but we cluster in visual space: we get different clusters between each pair of axes. We also use a different distance metric to figure out which clusters are best, again based on visual criteria rather than data space. Finally, we use the distribution of values to help keep clusters small while keeping the number of values per cluster the same (which is the key criterion for guaranteeing privacy).
 

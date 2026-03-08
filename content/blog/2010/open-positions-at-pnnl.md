@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127"/></figure>
 
 # Open Positions at PNNL
 

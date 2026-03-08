@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/data-zoom.jpg" border="0" alt="Data Zoom" width="550" height="140" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/data-zoom.jpg" alt="Data Zoom" width="550" height="140"/></figure>
 
 # Data Is A Dish Best Served Raw
 
@@ -6,7 +6,7 @@ The recent opening of [Data.gov](http://data.gov/) has led to a [number of discu
 
 A lot of data comes from tables in reports. It has become something of a custom in recent years for government agencies to publish the tables in their reports as Excel files. I really don't get the point of doing this, as it's the same exact numbers that can be found in the report, anyway. And usually, it's only a handful of numbers per table. Here is a recent example from a [crime report in the UK](http://www.guardian.co.uk/news/datablog/2009/may/21/ukcrime-police):
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/burglars.png" border="0" alt="Burglar data" width="550" height="331" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/burglars.png" alt="Burglar data" width="550" height="331"/></figure>
 
 This table, called *Who Are The Burglars?* appears with others, like *What Do They Steal?* and *How Do They Get In?* These are all relevant questions, of course, but what if I want to draw new connections? Perhaps male burglars steal different things than female ones? Do younger people steal more? Is there a difference in how they get in between the different age groups, sexes, and repeat offenders?
 

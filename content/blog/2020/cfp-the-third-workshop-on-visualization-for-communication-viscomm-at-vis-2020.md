@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/06/DSC_0212b.jpg" width="640" height="429" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/06/DSC_0212b.jpg" width="640" height="429"/></figure>
 
 # CFP: The Third Workshop on Visualization for Communication (VisComm) at VIS 2020
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg" width="720" height="450" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg" width="720" height="450"/></figure>
 
 # Let’s Crowd-Fund the Data Stories Podcast!
 

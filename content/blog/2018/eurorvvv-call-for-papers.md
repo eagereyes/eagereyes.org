@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png" width="560" height="198" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png" width="560" height="198"/></figure>
 
 # EuroRVVV Call For Papers!
 

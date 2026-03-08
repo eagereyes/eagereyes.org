@@ -6,19 +6,19 @@ The Lawrence Livermoore National Lab recently posted this *[Chart of Electromagn
 
 The poster compiles a huge range of different information about electromagnetic waves, from their origin to their different uses, from radio and (then-new) television to photography. This is not just an information graphic in the true sense, but, to use [Nigel Holmes](/blog/2012/nigel-holmes)' term, an explanation graphic.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2568" alt="Electromagnetic Waves" src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-waves.jpg" width="600" height="369" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-waves.jpg" alt="Electromagnetic Waves" width="600" height="369"/></figure>
 
 The poster is not only still highly informative, it also gives a wonderful glimpse into the time it was made. Just look at the illustrations for the different parts of the spectrum that were allocated for specific uses (note 'mobile' in particular).
 
-<p align="center"><img class="aligncenter size-medium wp-image-2566" alt="Electromagnetic Spectrum" src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-spectrum.jpg" width="600" height="340" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-spectrum.jpg" alt="Electromagnetic Spectrum" width="600" height="340"/></figure>
 
 Instead of dumbing the topic down, there is a lot of in-depth information here. There is a seamless and seemingly effortless transition from everyday uses to very specific physical effects like the reflection of x-rays in a crystal. This poster was edited by none other than [Arthur Compton](http://en.wikipedia.org/wiki/Arthur_Compton), physicist, Nobel laureate, and key figure in the Manhattan Project, after all.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2564" alt="Electromagnetic Effects" src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-effects.jpg" width="600" height="387" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-effects.jpg" alt="Electromagnetic Effects" width="600" height="387"/></figure>
 
 While the upper left compares waves in a lake to electromagnetic waves, the lower part goes all the way to explaining a superhet radio receiver (made from tubes of course, several years before the transistor was invented and 15 years before it became widely used).
 
-<p align="center"><img class="aligncenter size-medium wp-image-2565" alt="Electromagnetic Receivers" src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-receivers.jpg" width="600" height="304" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/08/electromagnetic-receivers.jpg" alt="Electromagnetic Receivers" width="600" height="304"/></figure>
 
 The amount of work that must have gone into this is enormous. But the result is a poster that is still relevant and hugely interesting, 70 years after it was made.
 

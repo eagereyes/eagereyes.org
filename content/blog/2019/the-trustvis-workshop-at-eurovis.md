@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg" width="660" height="995" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg" width="660" height="995"/></figure>
 
 # The TrustVis Workshop at EuroVis
 

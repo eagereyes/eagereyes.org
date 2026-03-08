@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg" alt="Sightings: A Vennerable Challenge" width="452" height="300" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg" alt="Sightings: A Vennerable Challenge" width="452" height="300"/></figure>
 
 # Sightings: A Vennerable Challenge
 

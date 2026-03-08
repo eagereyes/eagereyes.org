@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq7.png" width="560" height="250" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq7.png" width="560" height="250"/></figure>
 
 # A Protovis Primer, Part 2
 
@@ -89,7 +89,7 @@ The rest of the function scales the value from that field by multiplying it with
 
 And voilà, the earthquakes of the last 24 hours.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq1.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq1.png" alt="bars" width="560" height="250"/></figure>
 
 ## Anchors
 
@@ -105,7 +105,7 @@ What that does is attach one label to each bar, anchored at the top of the bar. 
 
 Labeling all the bars gives us this new variation of the chart.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq2.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq2.png" alt="bars" width="560" height="250"/></figure>
 
 ## Hiding Marks
 
@@ -117,7 +117,7 @@ That's a start, but it's also very cluttered. Since higher magnitudes are less c
 
 The *visible* attribute determines whether a mark will show up or not. As before, we need to define a function here, because the value of the expression will change for each array entry. The rule here is to show the value for earthquakes of magnitude 4 and higher (i.e., earthquakes stronger than "minor"). The function works in a very similar way to the text and height definitions above, only its type is a boolean value: true or false. If the value is greater than or equal to four, the expression will evaluate to true, and the label will be visible. If the magnitude is less than four, the result is false, and the label is not shown.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq3.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq3.png" alt="bars" width="560" height="250"/></figure>
 
 There is no guarantee that there won't be overlaps, but they are a lot less likely now. Also, it makes more sense to label the stronger earthquakes, because those are obviously of more interest.
 
@@ -138,7 +138,7 @@ eq.add(pv.Rule)
 
 The result looks like this. Defining this before the bars means that the bars will be painted on top of the lines. Since the bars are quite thin, it looks like the lines are in front, but they are not.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq4.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq4.png" alt="bars" width="560" height="250"/></figure>
 
 ## Labeled Rules
 
@@ -178,7 +178,7 @@ Where that is used to specify the location of the bars, we also need to add the 
 
 That gives us a better view of the data, with a grid and labels.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq5.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq5.png" alt="bars" width="560" height="250"/></figure>
 
 ## Scales
 
@@ -214,7 +214,7 @@ Notice the definition for *bottom*, which simply passes the `magnitude` function
 
 The result of this looks no different, which is good. But it's now much more elegant and easier to change.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq5.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq5.png" alt="bars" width="560" height="250"/></figure>
 
 ## Color Scales
 
@@ -230,7 +230,7 @@ This assigns a light gray to a magnitude of 1, and turns the bar more and more r
 .fillStyle(function(d) colors(d.Magnitude));
 ```
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq6.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq6.png" alt="bars" width="560" height="250"/></figure>
 
 At this point, this is a redundant mapping, because the magnitude is already shown as the height of the bar. So let's look at another attribute, like *Depth* – perhaps there is some correlation between the depth at which a quake happens and its magnitude. To do this, we'll define a new scale, similar to the one above.
 
@@ -247,7 +247,7 @@ And then use that one instead in the definition of the bars.
 
 Done.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq7.png" width="560" height="250" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq7.png" alt="bars" width="560" height="250"/></figure>
 
 ## Putting It All Together
 

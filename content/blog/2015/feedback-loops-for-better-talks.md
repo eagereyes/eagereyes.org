@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png" alt="" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png" alt="" width="825" height="510"/></figure>
 
 # Feedback Loops for Better Talks
 
@@ -14,7 +14,7 @@ The big issue seems to be a general lack of self-awareness and understanding of 
 
 Enter the [feedback loop](http://en.wikipedia.org/wiki/Feedback): it observes the deviation between its current output and a desired value (its *set point*), and makes adjustments to its internal parameters. Any machine or device of any complexity uses feedback loops, usually dozens or hundreds or more. They go back to the times of steam engines and [James Watt’s centrifugal governor](http://en.wikipedia.org/wiki/Centrifugal_governor), and even earlier than that.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8800" src="https://media.eagereyes.org/wp-content/uploads/2015/05/set-point.png" alt="Feedback Loop" width="660" height="256" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/set-point.png" alt="Feedback Loop" width="660" height="256"/></figure>
 
 What does that mean for giving a talk? First, you need to figure out the set point. What should the output even be? What does the audience want to hear? Who are they? This is what journalists and designers understand, but academics don't seem to.
 

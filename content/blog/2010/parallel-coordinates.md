@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/parcoords-full.png" width="560" height="364" alt="Parallel Coordinates" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/parcoords-full.png" alt="Parallel Coordinates" width="560" height="364"/></figure>
 
 # Parallel Coordinates
 
@@ -8,14 +8,14 @@ Parallel coordinates are one of the most famous visualization techniques, and am
 
 The usual way of describing parallel coordinates would be to talk about high-dimensional spaces and how the technique lays out coordinate axes in parallel rather than orthogonal to each other. But there's a much simpler way of looking at it: as the representation of a data table. This one describes car models released from 1970 to 1982, and contains their mileage (MPG), number of cylinders, horsepower, weight, and year they were introduced (among others).
 
-<p class="img"><img src="https://media.eagereyes.org/media/2010/cars-table.png" width="371" height="226" alt="Data table" style="margin-left:auto;margin-right:auto;" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/cars-table.png" alt="Data table" width="371" height="226" style="margin-left:auto;margin-right:auto;"/></figure>
 
 Now imagine each of these columns being mapped onto a vertical axis in the image above. Each data value would end up somewhere along the line, scaled to lie between the minimum at the bottom and the maximum at the top. A pure collection of points would not be terribly useful, however, so the points belonging to the same record (row) are connected with lines. That creates the characteristic jumble of lines parallel coordinates are famous for.
 
 To make some sense out of this, the easiest way is to forget the part about records that span the entire width, and look at the space between each pair of axes. Mouse over the image below to focus on just one pair of axes (this likely will not work in your newsreader, you'll have to [visit the website](/techniques/parallel-coordinates)). Look at the patterns in each of the spaces between the axes.
 
 <div style="background:url(https://media.eagereyes.org/media/2010/parcoords-faded.png);width:560px;height:364px;">
-<img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords1.png" style="margin-left:23px;opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords2.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords3.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords4.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;">
+<img src="https://media.eagereyes.org/media/2010/parcoords1.png" style="margin-left:23px;opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;display:inline;"/><img src="https://media.eagereyes.org/media/2010/parcoords2.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"/><img src="https://media.eagereyes.org/media/2010/parcoords3.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"/><img src="https://media.eagereyes.org/media/2010/parcoords4.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"/>
 </div>
 
 You can tell a lot about the data from looking at this visualization. The cylinders axis stands out because it only has a few different values. The number of cylinders can only be a whole number, and there aren't more than eight here, so all the lines have to pass through a small number of points. Data like this, and also categorical data, are usually not well suited for parallel coordinates. As long as there is only one or two, it's not a problem, but when the data is largely or completely categorical, parallel coordinates do not show any useful information anymore (that's why we developed [Parallel Sets](/parallel-sets)).
@@ -34,11 +34,11 @@ While this is a very simple example, it shows the typical structures you would f
 
 In addition to some experience in reading parallel coordinates, the best way to get to know a dataset using the technique is clearly interaction. The main one in parallel coordinates is called brushing, for reasons that should be obvious from looking at the image below. For this to make sense, we need to look at all axes.
 
-<p class="img"><img src="https://media.eagereyes.org/media/2010/parcoords-80s.png" width="560" height="364" alt="Parallel Coordinates, brushing 1980-82" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/parcoords-80s.png" alt="Parallel Coordinates, brushing 1980-82" width="560" height="364"/></figure>
 
 Here, I brushed the years 1980 to 1982 on the (right-most) *year* axis. The result is a brushed part of the lines in heavy black, with the rest still in the background in gray for context. Looking at the axes from right to left you can see that the car models in this selection were almost all in the lower half of the weight range, and all of them were in the lower half in terms of horsepower. The distribution of cylinders is also interesting: there only seems to be a single eight-cylinder car in this selection, all others are six cylinders or below. Mileage is also mostly above the mean value for all cars.
 
-<p class="img"><img src="https://media.eagereyes.org/media/2010/parcoords-70s.png" width="560" height="364" alt="Parallel Coordinates, brushing 1970-72" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/parcoords-70s.png" alt="Parallel Coordinates, brushing 1970-72" width="560" height="364"/></figure>
 
 Brushing the years 1970 to 1972 yields a very different image: weights, power, etc. are all over the place, and mileage is mostly in the lower half. While higher values are to be expected, it is interesting to see that there was quite a spectrum of cars at the beginning of the decade, not just heavy eight-cylinder ones. The trend over the years was towards lighter, more efficient cars, though.
 

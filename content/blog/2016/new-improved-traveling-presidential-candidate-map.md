@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png" width="825" height="510"/></figure>
 
 # New, Improved Traveling Presidential Candidate Map
 

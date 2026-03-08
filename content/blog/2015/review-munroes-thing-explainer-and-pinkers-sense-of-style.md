@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png" alt="" width="690" height="485" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png" alt="" width="690" height="485"/></figure>
 
 # Review: Munroe's Thing Explainer and Pinker's Sense of Style
 
@@ -12,7 +12,7 @@ The small vocabulary used means no jargon, no difficult or unusual words at all.
 
 Munroe has also created [a clever little web app](http://xkcd.com/simplewriter/) that will flag words not on the list of one thousand most common. That certainly isn’t a practical way to write, whether academic papers or blog postings. But it’s instructive to see just how many words you’d expect to be extremely common really are not.
 
-<p align="center"><img class="aligncenter size-full wp-image-9088" src="https://media.eagereyes.org/wp-content/uploads/2015/12/simple-writer.png" alt="simple-writer" width="660" height="484" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/12/simple-writer.png" alt="simple-writer" width="660" height="484"/></figure>
 
 ## Steven Pinker, *The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century*
 

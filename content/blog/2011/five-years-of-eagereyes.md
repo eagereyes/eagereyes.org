@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/manyyearsago.png" alt="" width="600" height="168" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/manyyearsago.png" alt="" width="600" height="168"/></figure>
 
 # Five Years of EagerEyes
 

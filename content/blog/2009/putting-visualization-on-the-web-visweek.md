@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/VisWebTeaser.jpg" border="0" alt="Putting Visualization on the Web" width="560" height="374" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/VisWebTeaser.jpg" alt="Putting Visualization on the Web" width="560" height="374"/></figure>
 
 # Putting Visualization on the Web – at VisWeek 2009
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/DSCF0541.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/DSCF0541.jpg" width="720" height="500"/></figure>
 
 # Posters Program for Tapestry 2017
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/11526F34-8208-4DAB-B21B-A25A99A199E6.jpeg" width="1024" height="768" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/11526F34-8208-4DAB-B21B-A25A99A199E6.jpeg" width="1024" height="768"/></figure>
 
 # Highlights from EuroVis 2019, Part 2
 
@@ -22,7 +22,7 @@ For [*Capture and Analysis of Active Reading Behaviors for Interactive Articles 
 
 Jeff Heer gave a great capstone talk titled, *Visualization Is Not Enough*. He covered a large range of topics, from questions largely within visualization to how visualization interacts with other fields, particularly AI. I found his framing around *points of potential failure* particularly interesting.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/58C5C099-48C7-4E5B-B5FA-F9E0EAFDCCBE.jpeg" alt="" class="wp-image-12311" width="582" height="314"/></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/58C5C099-48C7-4E5B-B5FA-F9E0EAFDCCBE.jpeg" alt="" width="582" height="314"/></figure>
 
 You can watch his talk below [or at this link](https://www.youtube.com/watch?v=bXrhrrgLPKg) and [check out the slides here](https://homes.cs.washington.edu/~jheer/talks/EuroVis2019-Capstone.pdf).
 

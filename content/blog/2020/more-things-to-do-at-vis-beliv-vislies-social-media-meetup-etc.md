@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020_v2.jpg" width="528" height="403" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020_v2.jpg" width="528" height="403"/></figure>
 
 # More Things To Do at VIS: BELIV, VisLies, Social Media Meetup, Etc.
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg" width="755" height="600" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg" width="755" height="600"/></figure>
 
 # Vis Potpourri, September 2017
 

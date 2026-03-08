@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg" width="720" height="500"/></figure>
 
 # Eagereyes' Early History
 

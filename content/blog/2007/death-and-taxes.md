@@ -1,4 +1,4 @@
-<p align="center"><img title="Death and Taxes - thebudgetgraph.com" src="https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg" alt="Death and Taxes - thebudgetgraph.com" width="400" height="267" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg" alt="Death and Taxes - thebudgetgraph.com" width="400" height="267"/></figure>
 
 # Death and Taxes
 

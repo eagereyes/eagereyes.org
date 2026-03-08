@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/mturk-paper.jpg" width="560" height="362" alt="MTurk Paper" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/mturk-paper.jpg" alt="MTurk Paper" width="560" height="362"/></figure>
 
 # Do Mechanical Turks Dream of Square Pie Charts?
 

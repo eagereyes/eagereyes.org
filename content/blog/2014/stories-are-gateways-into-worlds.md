@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg" width="715" height="479" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg" width="715" height="479"/></figure>
 
 # Stories Are Gateways Into Worlds
 

@@ -6,11 +6,11 @@ The first book in the [new series on ISOTYPE books](/tag/isotope-books) is *The 
 
 My copy of the book came with a letter from the County Clerk of [Lanarkshire](https://en.wikipedia.org/wiki/Lanarkshire) to a Mr. Law, sent in May 1947, presenting him with the book. The letterhead gives a great idea of the time: it lists the telephone number as "Bell No. 3371" and an address for telegrams.
 
-<p align="center"><img class="aligncenter size-full wp-image-9919" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-letterhead.jpg" alt="" width="995" height="660" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-letterhead.jpg" alt="" width="995" height="660"/></figure>
 
 The letter is a form letter sent to a number of people. It looks like it was copied (perhaps with a [mimeograph](https://en.wikipedia.org/wiki/Mimeograph) or a [spirit duplicator](https://en.wikipedia.org/wiki/Spirit_duplicator)), with the name of the addressee filled in with a typewriter later. It tells Mr. Law that the council agreed to send out "a number of copies" of the book to people likely interested in this topic. It's rather vague and mostly pointless, telling the recipient that the council has received the books and so is now sending them out. Well, then.
 
-<p align="center"><img class="aligncenter size-full wp-image-9921" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-title.jpg" alt="" width="720" height="720" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-title.jpg" alt="" width="720" height="720"/></figure>
 
 ## The Book
 
@@ -20,11 +20,11 @@ The inside title of the book nicely summarizes the book's "forty-two pictures in
 
 The photographs give lots of interesting insights into the mid-1940s. This one is captioned "No more moths. D.D.T., used against typhus during the war, gives the housewife a new insecticide." After being widely used for decades, [DDT was banned in the 1970s](https://en.wikipedia.org/wiki/Dichlorodiphenyltrichloroethane) for causing cancer and killing birds and other wildlife in addition to the pests. The role of women was about to change dramatically after their involvement in all kinds of jobs during World War II, but 1947 hadn't quite gotten the memo yet.
 
-<p align="center"><img class="aligncenter size-full wp-image-9913" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-ddt.jpg" alt="" width="660" height="660" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-ddt.jpg" alt="" width="660" height="660"/></figure>
 
 Some of the technology is also a good reminder of where things were just after World War II, such as this oven for baking what looks like [a classic British meat pie](https://en.wikipedia.org/wiki/Meat_pie).
 
-<p align="center"><img class="aligncenter size-full wp-image-9920" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-oven.jpg" alt="" width="660" height="660" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-oven.jpg" alt="" width="660" height="660"/></figure>
 
 ## ISOTYPE Charts
 
@@ -32,27 +32,27 @@ As far as I can tell, the text never references the charts, and certainly never 
 
 Two of the charts are printed across both pages, and three more are single-page. They all bear the logo of the ISOTYPE Institute.
 
-<p align="center"><img class="aligncenter size-full wp-image-9914" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype1.jpg" alt="" width="644" height="440" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype1.jpg" alt="" width="644" height="440"/></figure>
 
 The first chart compares gas production in classic ISOTYPE fashion between the U.S., Great Britain, and a few more countries. The book talks about [manufactured gas](https://en.wikipedia.org/wiki/Coal_gasification), which was apparently the only type of gas in use at that time in Europe, as opposed to natural gas (common in the U.S., according to the chart).
 
 This chart has all the makings of ISOTYPE: repeated symbols that represent a multiple (500 cubic feet per person – and year, presumably), a title that says just enough to read the chart as a comparison, and a small legend explaining the numbers. The two categories are labeled directly on the chart.
 
-<p align="center"><img class="aligncenter size-full wp-image-9915" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype2.jpg" alt="" width="720" height="508" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype2.jpg" alt="" width="720" height="508"/></figure>
 
 The next chart is quite different, because it doesn't show quantities. Instead, it depicts the process of coal carbonization and then lists the different uses for all the different products that come out of that. The colors represent different kinds of uses: orange for fuel, red for indirect or industrial uses, green for agriculture, and blue for direct consumer uses. The little symbols, even stylized as they are, show the time quite nicely, like the fuel pump at the top, or the perfume bottle in the lower right.
 
-<p align="center"><img class="aligncenter size-full wp-image-9917" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype4.jpg" alt="" width="660" height="782" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype4.jpg" alt="" width="660" height="782"/></figure>
 
 Back to classic ISOTYPE, we see annual gas sales in Great Britain from 1885 to 1945. The time periods are of different lengths, but since the numbers are per year, that should not matter. It's a classic ISOTYPE chart, with some embellishments showing the evolution of lighting, heating, and cooking, from the late 1800s to what was then a state-of-the-art kitchen oven.
 
-<p align="center"><img class="aligncenter size-full wp-image-9916" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype3.jpg" alt="" width="660" height="883" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype3.jpg" alt="" width="660" height="883"/></figure>
 
 The next chart is the rather unusual ISOTYPE map, showing gas consumers by region. Each house represents 50,000 families, and the houses are grouped in 5s to be easier to count. What confused me initially is that the legend only explains what blue means (gas consumers), but not black. I assume black simply means that those households do not have gas in their homes, but it would have been nice to spell that out. I like the little drawing at the top, showing the gas flowing from the [gasometer](https://en.wikipedia.org/wiki/Gas_holder) to the houses.
 
 Gas consumers are clearly the vast majority overall, the only region with more non-consumers than consumers is West. The comparison is a bit difficult because the numbers of households are very different between the regions. But given the vast differences, that doesn't appear to be a big problem.
 
-<p align="center"><img class="aligncenter size-full wp-image-9918" src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype5.jpg" alt="" width="720" height="689" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/mackenzie-isotype5.jpg" alt="" width="720" height="689"/></figure>
 
 The final chart shows a bit of a twist on ISOTYPE. The flames represent the amount of gas and coke used in terms of [BTUs](https://en.wikipedia.org/wiki/British_thermal_unit), compared to the amount of soot deposits shown as black "clouds." Clearly, as the amount of gas consumed increases (at the expense of directly burning coal, presumably), pollution gets better. Though 200 tons of soot deposits per square mile still strikes me as eye-poppingly terrible. I don't think we can even imagine today the kind of air pollution that was prevalent in London through the first half of the 20th century.
 

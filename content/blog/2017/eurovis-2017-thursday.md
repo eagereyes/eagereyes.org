@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona-sunset.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona-sunset.jpg" width="720" height="500"/></figure>
 
 # EuroVis 2017 Conference Report, Part 3
 

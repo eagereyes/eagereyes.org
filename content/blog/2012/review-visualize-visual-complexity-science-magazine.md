@@ -1,4 +1,4 @@
-<p align="center"><img title="Book review for Science Magazine" src="https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png" alt="" width="600" height="381" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png" alt="" width="600" height="381"/></figure>
 
 # My Review of Visualize This and Visual Complexity for Science Magazine
 

@@ -6,13 +6,13 @@ A bar chart with a distorted vertical axis isn't very unusual. But what if that 
 
 Last week, the Biden White House [published this chart](https://twitter.com/WhiteHouse/status/1486709480351952901) showing that U.S. GDP had grown by 5.7% in 2021. That's the most in many years, with the chart showing numbers all the way back to 2001. Now one might argue that perhaps a new president won't immediately have a huge impact on GDP, but the data in the chart appears to be legit. What is unfortunate, however, is that the vertical axis is being distorted.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/01/economic-growth-1.jpeg" alt="" class="wp-image-98192" width="840" height="473"/></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2022/01/economic-growth-1.jpeg" alt="" width="840" height="473"/></figure>
 
 People on Twitter quickly picked up on the fact that the axis scale goes up in whole percentage points until it reaches 5.0, but then there's an additional 5.5 step before we get to the 6.0 value that should have been next. And since the growth number for 2021 sits between 5.5 and 6.0, that bar gets longer relative to the others.
 
 A few days later, [a correction was tweeted](https://twitter.com/WhiteHouse/status/1486838940707524617) saying, "this is y you proofread." The new chart has a correct vertical axis and brings the 2021 bar down to where it should be relative to the others.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/01/economic-growth-comparison-2.gif" alt="" class="wp-image-98195"/><figcaption>Comparison between the initial chart and the corrected one</figcaption></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2022/01/economic-growth-comparison-2.gif" alt=""/><figcaption>Comparison between the initial chart and the corrected one</figcaption></figure>
 
 Was this an honest mistake or was it designed to get more attention? And was the idea to overstate the change or get attention for the stretched axis?
 

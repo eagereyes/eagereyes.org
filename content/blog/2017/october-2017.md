@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/archer-vis.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/archer-vis.jpg" width="720" height="500"/></figure>
 
 # Vis Potpourri, October 2017
 

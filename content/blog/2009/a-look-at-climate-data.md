@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/look-at-climate-teaser.png" alt="Colorful lines" width="560" height="228" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/look-at-climate-teaser.png" alt="Colorful lines" width="560" height="228"/></figure>
 
 # A Look At Climate Data
 
@@ -12,11 +12,11 @@ I converted and reshaped the data into a [CSV file](https://media.eagereyes.org/
 
 While the overall data is nice and large, it also has a number of problems. The image below is from [my first attempt at visualizing it using Protovis](/data/interactively-explore-climate-data). The overall difference in temperature is suspiciously high, and there are some jumps that don't appear likely.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" border="0" alt="Climate data 1740-2008" width="560" height="246" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" alt="Climate data 1740-2008" width="560" height="246"/></figure>
 
 In particular, 1950-51 shows a jump over more than 2&ordm;, which is obviously impossible (the same difference takes over 100 years before that). A look at when stations came online gives a hint at the source of the problem
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/stations-by-year.png" border="0" alt="Number of new stations by year" width="560" height="336" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/stations-by-year.png" alt="Number of new stations by year" width="560" height="336"/></figure>
 
 The huge spike in 1950 mostly contains new weather stations in Africa, which obviously leads to a higher overall average from then on. The other spikes are more evenly distributed, and do not contribute to the average in an obvious way.
 
@@ -26,11 +26,11 @@ So I decided to take a conservative position and only use weather stations that 
 
 The following map shows all the stations in the data set. The coloring is by continent, according to the [list of weather station codes](http://weather.unisys.com/info/country_info.html). Note that Antarctica is considered part of South America, and Russia is split into a European and an Asian part.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/map-all.png" border="0" alt="Map of all 1718 weather stations" width="560" height="472" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/map-all.png" alt="Map of all 1718 weather stations" width="560" height="472"/></figure>
 
 This is the subset of stations that were added up to 1901:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/map-filtered.png" border="0" alt="Map of the 443 stations in the subset" width="560" height="472" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/map-filtered.png" alt="Map of the 443 stations in the subset" width="560" height="472"/></figure>
 
 The samples in the subset are much more centered around Europe, North America, and parts of Asia, with Africa, South America, and the Pacific being much more sparse.
 
@@ -38,13 +38,13 @@ The samples in the subset are much more centered around Europe, North America, a
 
 Before diving into the details, here is the temporal overview. This chart shows worldwide averages from 1901 to 2009, for the subset of stations described above.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/overall-timeline.png" border="0" alt="Overall timeline" width="560" height="336" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/overall-timeline.png" alt="Overall timeline" width="560" height="336"/></figure>
 
 While the big jumps are gone, the overall trend is still there: temperatures are rising at around 0.1&ordm; per decade (p &lt; 0.0001), [in line with the general consensus](http://en.wikipedia.org/wiki/Global_warming)
 
 Looking at continents, the same overall pattern is visible as well, even though they obviously all have different average temperature zones. While it may look cluttered, this chart allows for easier comparison between the continents. The conveniently are also only a few overlaps.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/timelines.png" border="0" alt="Timelines for the continents" width="560" height="293" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/timelines.png" alt="Timelines for the continents" width="560" height="293"/></figure>
 
 The grid lines are mainly there as reference for the direction of the trend lines. With all these lines at similar angles, it is easy to underestimate how steep they really are. The temperature rise varies between 0.03&ordm; per decade (South America) and 0.15&ordm; per decade (Pacific).
 
@@ -54,7 +54,7 @@ What interested me more than the long-term differences was how the seasons chang
 
 The following image shows the temperatures over the course of the year, with one line per decade (values are averaged), per continent. The color scale goes from blue (1900s) to orange (2000s), following Clint's suggestion in the comments. The reason for going by decade here is that there are considerable yearly fluctuations that make this chart nearly unreadable if done at that level.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/month-lines2.png" border="0" alt="Temperature averages over the year, per decade and continent" width="560" height="577" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/month-lines2.png" alt="Temperature averages over the year, per decade and continent" width="560" height="577"/></figure>
 
 Some interesting patterns emerge here. While it's not possible to see exactly which lines are which decade (the colors are too similar, and there is too much overplotting), this is really more about trends, which are quite apparent.
 

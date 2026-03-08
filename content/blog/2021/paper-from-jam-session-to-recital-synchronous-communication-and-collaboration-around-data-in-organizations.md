@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/10/pexels-photo-3184292.jpeg" width="940" height="529" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2021/10/pexels-photo-3184292.jpeg" width="940" height="529"/></figure>
 
 # Paper: From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations
 
@@ -32,6 +32,6 @@ We believe that there is a lot of opportunity here, both for research and for to
 
 There’s a lot more in [the paper](/publications/Brehmer-VIS-2021b), including about our mock-ups, as well as many more quotes and other insights into this very common use of data.
 
-<hr class="wp-block-separator"/>
+---
 
 Matthew Brehmer and Robert Kosara, [From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations](/publications/Brehmer-VIS-2021b). *Transactions on Visualization and Computer Graphics (Proceedings Vis)*, 2021.

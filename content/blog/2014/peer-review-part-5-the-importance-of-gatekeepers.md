@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-medium wp-image-3085" alt="Gate" src="https://media.eagereyes.org/wp-content/uploads/2014/01/gate.jpg" width="730" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/gate.jpg" alt="Gate" width="730" height="486"/></figure>
 
 # Peer Review, Part 5: The Importance of Gatekeepers
 The purpose of peer review is to separate the wheat from the chaff, the good from the bad, the brilliant from the clinically insane – you get the picture. But why? Why filter and not just let anybody publish whatever they want?

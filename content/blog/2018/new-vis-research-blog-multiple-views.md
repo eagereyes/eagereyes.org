@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png" width="700" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png" width="700" height="500"/></figure>
 
 # New Vis Research Blog: Multiple Views
 

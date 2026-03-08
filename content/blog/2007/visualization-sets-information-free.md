@@ -1,4 +1,4 @@
-<p align="center"><img title="FlowerPoint - gapminder.org" src="https://media.eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376"/></figure>
 
 # Visualization Sets Information Free
 

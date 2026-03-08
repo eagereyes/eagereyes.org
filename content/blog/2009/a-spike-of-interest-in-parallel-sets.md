@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-teaser.png" border="0" alt="Parallel Sets Teaser" width="574" height="301" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/parsets-teaser.png" alt="Parallel Sets Teaser" width="574" height="301"/></figure>
 
 # A Spike of Interest in Parallel Sets
 

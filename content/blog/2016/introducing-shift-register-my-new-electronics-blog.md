@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg" width="1024" height="695" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg" width="1024" height="695"/></figure>
 
 # Introducing Shift Register, My New Electronics Blog
 

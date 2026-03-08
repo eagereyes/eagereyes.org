@@ -1,4 +1,4 @@
-<img src="https://media.eagereyes.org/media/2008/visdefteaser.jpg" alt="Teaser" border="0" />
+<figure><img src="https://media.eagereyes.org/media/2008/visdefteaser.jpg" alt="Teaser"/></figure>
 
 # What is Visualization? A Definition
 
@@ -18,11 +18,11 @@ This definition was published in a paper on [Visualization Criticism](/publicati
 
 The following examples show how these criteria provide a clear separation of visualization (in the sense of scientific and information visualization) and other kinds of data transformations that result in images.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2008/milkdrop.jpg" alt="MilkDrop" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/milkdrop.jpg" alt="MilkDrop"/></figure>
 
 [MilkDrop](http://www.nullsoft.com/free/milkdrop/) is one of the most impressive music visualizers. Not only does it have a huge range of different styles that it can transition between, it's also very good at detecting beats and different instruments, so the visualization really fits the music. Since it creates images from wave data, it clearly fulfills the first two criteria. But what about readability? Can you tell which song was played when the image above was created? This is not a shortcoming, it's simply not the goal of a music visualization to be readable (and it would be very difficult). But music visualization plugins are not visualizations in the pragmatic/information visualization sense.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2008/visualIDs.jpg" alt="VisualIDs" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/visualIDs.jpg" alt="VisualIDs"/></figure>
 
 [VisualIDs](http://www.idiom.com/~zilla/Work/VisualIDs/visualids.html) are a very clever idea to help the user tell files apart: they produce images from the names of files to produce visually similar (but still distinct) icons for files with similar names. Since they are based on data and are visual, they could be a visualization. But they also fail the readability test, you cannot tell which image represents which filename. A [poetry visualization](/blog/2006/visual-mapping-of-poetry-html) I discussed earlier has the same properties.
 

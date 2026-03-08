@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png" width="1283" height="710" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png" width="1283" height="710"/></figure>
 
 # Tapestry 2018 Program, Call for Demos
 

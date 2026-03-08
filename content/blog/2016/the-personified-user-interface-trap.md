@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png" width="825" height="510"/></figure>
 
 # The Personified User Interface Trap
 

@@ -6,7 +6,7 @@ With their upcoming [Watch](http://www.apple.com/watch/), Apple is clearly playi
 
 One of the terms that they use is [*complications*](http://en.wikipedia.org/wiki/Complication_(horology)). They nicely illustrate the idea in an image [on their website](http://www.apple.com/watch/timekeeping/).
 
-<p align="center"><img class="aligncenter size-medium wp-image-8739" src="https://media.eagereyes.org/wp-content/uploads/2015/03/complications.png" alt="Complications" width="660" height="410" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/complications.png" alt="Complications" width="660" height="410"/></figure>
 
 Among the [Watch's complications](http://www.apple.com/watch/timekeeping/#complications) are tiny widgets that show the current temperature, a stock price, the wearer's activity level, etc. They can be turned on and selected by the user.
 

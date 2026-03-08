@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/basilica1by1.jpg" width="1000" height="1000" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/basilica1by1.jpg" width="1000" height="1000"/></figure>
 
 # Seven Visualization Talks That Terrified Me At CHI
 
@@ -26,7 +26,7 @@ Now that the plenary is over, I get to talk about talks that I liked. Still terr
 
 There are some neat findings, and some new terminology for the ways that people can frame identical data to match their prior beliefs, but what was terrifying was the result that not only will people recall the content of a visualization differently based on the slant of the title, but that people will often not remember the title in any great detail. That is, the title seems to *influence* what people get out of the visualization, but is itself not worth *remembering*. If this is a general pattern, that’s a big problem: it suggests an “undetectable” way of manipulating people. I would like to see a replication or two here, and see how strong and robust this effect really is (does it survive where there’s less ambiguity in the message of the data, for instance). However, given this work, and Cindy Xiong, Lisanne van Weelden, and Steve Franconeri's “[The Curse of Knowledge in Visual Data Communication](http://decisive-workshop.dbvis.de/wp-content/uploads/2017/09/0106-paper.pdf),” from VIS last year, we’re starting to see more and more empirical evidence that the kinds of framing and rhetorical concerns that researchers like Jessica Hullman and Nick Diakopoulos [have been talking about](https://www.scholars.northwestern.edu/en/publications/visualization-rhetoric-framing-effects-in-narrative-visualization) for years have real, potentially nefarious impact on how data are consumed and internalized.
 
-<p align="center"><img class="aligncenter size-full wp-image-10610" src="https://media.eagereyes.org/wp-content/uploads/2018/05/prophets.png" alt="" width="1000" height="805" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/prophets.png" alt="" width="1000" height="805"/></figure>
 
 *The Prophets* by Richard Ibghy and Marilou Lemmens, showing sculptural visualizations of economic indicators, on display at the [Musée d'art contemporain de Montréal](https://macm.org/en/).
 
@@ -62,7 +62,7 @@ The workers on Amazon’s Mechanical Turk have been the unsung heroes of empiric
 
  It should feel icky that so much of our scientific work is based off an underpaid and exploited population. Projects like [Turkopticon](https://turkopticon.info/) have tried to make these labor practices more visible (and make it easier for Turkers to filter out bad requesters), but all of the time sinks of looking for and then validating work add up to hourly rates that are much much lower than minimum wage (a median of just $2/hr). The past few years I’ve been reporting my target hourly rates for Turkers (and indicating whether or not we hit those targets) in my papers. I suggest that everybody else do the same, or at the very least establish just and reasonable norms for Turker compensation for research studies.
 
-<p align="center"><img class="wp-image-10611 aligncenter" src="https://media.eagereyes.org/wp-content/uploads/2018/05/slides.png" alt="A slide from Sue Gardner's keynote reading &quot;The best minds of my generation are thinking about how to make people click on ads. I think that sucks&quot; - Jeff Hammerbacher, early Facebook employee" width="493" height="270" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/slides.png" alt="A slide from Sue Gardner" width="493" height="270"/></figure>
 
 ## 7. How the Internet has broken democracy, and what we can do now
 

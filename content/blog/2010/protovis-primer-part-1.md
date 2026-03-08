@@ -12,7 +12,7 @@ Protovis requires a modern browser, which means any recent version of Safari, Ch
 
 Let's start with a simple example, taken almost verbatim from the [Protovis paper presented at InfoVis 2009 (PDF)](http://vis.stanford.edu/protovis/protovis.pdf).
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars.png" width="150" height="140" alt="bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars.png" alt="bars" width="150" height="140"/></figure>
 
 The following code creates this chart:
 
@@ -142,7 +142,7 @@ new pv.Panel().width(panelWidth).height(140)
 
 We end up with something slightly unexpected:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars-toowide.png" width="150" height="140" alt="bars are too wide now" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars-toowide.png" alt="bars are too wide now" width="150" height="140"/></figure>
 
 We need to add some space between the bars again. Remember that we set the width to 20 earlier, but multiplied the index by 25. We need something similar here, so we'll introduce another variable, `barSpacing`. This will be subtracted from the `barWidth` in the width definition, so the bar does not use the entire width it got assigned.
 
@@ -160,11 +160,11 @@ new pv.Panel().width(panelWidth).height(140)
 
 The result is a readable chart that looks like before:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars.png" width="150" height="140" alt="bars again" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars.png" alt="bars again" width="150" height="140"/></figure>
 
 This may not look very exciting, but it gives us a lot of flexibility. Now we can change the width of the chart by simply changing the `panelWidth`, let's say to 250:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars-wide.png" width="250" height="140" alt="wider bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/bars-wide.png" alt="wider bars" width="250" height="140"/></figure>
 
 As you can see, the bars have adapted to the new width. The spacing looks a bit odd because `barSpacing` is still a constant, but that would be easy to change, too. But what happens if we add more data to our `numbers` array?
 
@@ -172,7 +172,7 @@ As you can see, the bars have adapted to the new width. The spacing looks a bit 
 var numbers = [1, 1.2, 1.7, 1.5, .7, .2, .5, .9];
 ```
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/more-bars.png" width="250" height="140" alt="more bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/more-bars.png" alt="more bars" width="250" height="140"/></figure>
 
 The bars adapt to the number of values, because the barWidth depends on the number of values in the `numbers` array, `numbers.length`. This only works to a certain point, because our spacing is still constant; but it's a start.
 

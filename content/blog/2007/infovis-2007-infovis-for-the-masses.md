@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg" border="0" alt="Visualization for the People - Fernanda Viegas" width="258" height="338" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg" alt="Visualization for the People - Fernanda Viegas" width="258" height="338"/></figure>
 
 # InfoVis 2007: InfoVis for the Masses
 

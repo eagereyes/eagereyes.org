@@ -4,7 +4,7 @@ As newspaper graphics go, scatterplots are a fairly advanced technique. They ten
 
 In 2010, *The New York Times'* Hannah Fairfield and Graham Roberts created a [wonderful interactive visualization of the pay gap between men and women](http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html) (requires Flash). While at first it seems like a straightforward scatterplot, there are some simple yet clever additions that make it much more approachable.
 
-<p align="center"><img class="aligncenter size-medium wp-image-1854" title="Wage Gap NYTimes" src="https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes.png" alt="Why Is Her Paycheck Smaller? by Hannah Fairfield and Graham Roberts" width="600" height="346" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes.png" alt="Why Is Her Paycheck Smaller? by Hannah Fairfield and Graham Roberts" width="600" height="346"/></figure>
 
 The scatterplot shows men's wages on the horizontal axis, women's on the vertical. There is a dot for each type of job, like nurses, programmers, physicians, etc. The coloring groups them into larger occupation categories. If men and women made the same amount of money in one particular job, that point would sit on the main diagonal. That diagonal is clearly pointed out by the heavy black line. For jobs where men make more, the point moves to the right of the diagonal, and thus ends up below it.
 
@@ -18,7 +18,7 @@ But what Nathan's version is missing is the story. The additional data mostly ad
 
 The *New York Times* version provides two kinds of interaction: hovering the mouse over a point shows what category that point represents and how much more or less women make than men in that category. The other is a filter that is applied when clicking on one of the *Occupation* bars. But not only does that reduce the points to only the ones in that category, it also adds annotations.
 
-<p align="center"><img class="aligncenter size-full wp-image-1853" title="Wage Gap New York Times, Detail" src="https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes-detail.png" alt="" width="443" height="292" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes-detail.png" alt="" width="443" height="292"/></figure>
 
 These annotations provide interesting detail beyond the numbers and help tell the story. If this were purely an analytical visualization, there would be no annotations, nor would there necessarily be a need for them. The analytical display provides the outliers that the user can then look into to find out why they are outliers. In this case, however, the point is to present the story, so the outliers need to be annotated.
 

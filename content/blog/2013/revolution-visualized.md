@@ -2,7 +2,7 @@
 
 In the 1970s, it was the protest songs. In the 1980s, it was the anti-war movies. Today, the protest is no longer happening in songs or movies. Today, it’s online, based on data, and using visualization.
 
-<p align="center"><img class="aligncenter size-full wp-image-2298" alt="U.S. Gun Deaths" src="https://media.eagereyes.org/wp-content/uploads/2013/04/guns.jpg" width="600" height="211" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/04/guns.jpg" alt="U.S. Gun Deaths" width="600" height="211"/></figure>
 
 ## Gun Deaths
 
@@ -10,7 +10,7 @@ It’s a very abstract and yet very clear image: something moves along a traject
 
 In the [deleted slides from his Tapestry talk](http://style.org/deleted/), Jonathan Corum criticizes the visualization because there are elements that don’t mean anything. The filtered views also don’t work nearly as well as the initial animation. But the point is made there. It’s the impact, the punch in the guts that makes this work.
 
-<p align="center"><img class="aligncenter size-full wp-image-2297" alt="Out of Sight, Out of Mind" src="https://media.eagereyes.org/wp-content/uploads/2013/04/drone-victims.png" width="600" height="265" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/04/drone-victims.png" alt="Out of Sight, Out of Mind" width="600" height="265"/></figure>
 
 ## Drone Strikes
 
@@ -20,7 +20,7 @@ But the animation of the dropping bombs gives the strikes much more of a reality
 
 Switch to the *Victims* view and it gets even more personal. A [small figure is drawn](/techniques/isotype) for every person killed. Continuous bars don’t give you a sense of individuals, but little figures do.
 
-<p align="center"><img class="aligncenter size-full wp-image-2299" alt="Mapping the Dead: Gun Deaths Since Sandy Hook" src="https://media.eagereyes.org/wp-content/uploads/2013/04/sandy-hook.jpg" width="600" height="419" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/04/sandy-hook.jpg" alt="Mapping the Dead: Gun Deaths Since Sandy Hook" width="600" height="419"/></figure>
 
 ## Guns Again
 

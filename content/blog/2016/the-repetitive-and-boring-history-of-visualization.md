@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png" width="825" height="510"/></figure>
 
 # The Repetitive and Boring History of Visualization
 
@@ -24,7 +24,7 @@ How important was this diagram? Clearly very important, or Watt wouldn’t have 
 
 The steam engine is what brought about the industrial revolution – no steam engine, no industry, no railway, no electricity, etc. It’s not a stretch to say that this diagram played a crucial part in bringing all that about. And yet few people know about it or understand its significance.
 
-<p align="center"><img class="aligncenter size-full wp-image-9463" src="https://media.eagereyes.org/wp-content/uploads/2016/08/slavery-map-1861.jpg" alt="slavery-map-1861" width="660" height="527" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/slavery-map-1861.jpg" alt="slavery-map-1861" width="660" height="527"/></figure>
 
 ## The Slave Map
 

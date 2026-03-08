@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg" width="720" height="500"/></figure>
 
 # Paper: An Empire Built On Sand
 

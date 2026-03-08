@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg" width="1024" height="768" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg" width="1024" height="768"/></figure>
 
 # Highlights from EuroVis 2019, Part 1
 

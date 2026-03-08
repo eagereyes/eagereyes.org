@@ -2,13 +2,13 @@
 
 Art imitates life, and sometimes art is inspired by research. Ben Shneiderman’s *[Treemap Art](http://treemapart.wordpress.com/)* is unique in that it is the researcher himself (with [Kazi Minhazur Rahman](http://www.minhazur.com)), rather than an artist, who has created the art pieces.
 
-<p align="center"><img alt="Ben Shneiderman, The Singing Mondrian" src="https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian-730x557.png" width="730" height="557" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian-730x557.png" alt="Ben Shneiderman, The Singing Mondrian" width="730" height="557"/></figure>
 
 Now that I think about it, [treemaps](/techniques/treemaps) have a history of aesthetic improvements. The original treemap layout, now called slice-and-dice, tended to produce rather ugly rectangles that ended up being very long and thin. The squarified treemap improved things, ostensibly for easier comparability of rectangles – but it also made them nicer to look at. Cushion treemaps removed the lines between rectangles and instead used a gradient to create the impression of a bumpy surface; an improvement both in terms of ease of perception as well as aesthetics.
 
 Here is an example of a cushion treemap:
 
-<img class="aligncenter size-medium wp-image-2908" alt="Cushion Treemap" src="https://media.eagereyes.org/wp-content/uploads/2013/12/treemap-cushion-730x559.jpg" width="730" height="559" />
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/12/treemap-cushion-730x559.jpg" alt="Cushion Treemap" width="730" height="559"/></figure>
 
 Treemap Art doesn’t just use the idea of treemaps, the pieces are generated from actual data using a treemap tool. Of course, the layout method, colors, and other parameters such as stroke width, are chosen on purpose to create a particular effect. It is a testament to treemaps’ maturity and versatility that it is possible to create a large variety of different images from a single tool.
 

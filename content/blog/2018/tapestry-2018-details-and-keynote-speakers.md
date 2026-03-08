@@ -10,13 +10,13 @@ We're also changing the registration model, from an invite-only (or -first) to o
 
 ## Keynotes
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/09/tapestry18-speakers.jpg" alt="" class="wp-image-10837"/><figcaption>Tapestry 2018 Speakers: Mona, Matt, Elijah</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/09/tapestry18-speakers.jpg" alt=""/><figcaption>Tapestry 2018 Speakers: Mona, Matt, Elijah</figcaption></figure>
 
 What has not changed is that we'll have three keynote speakers: Mona Chalabi (journalist and lover of numbers), Matthew Kay (professor and communicator of uncertainty), and Elijah Meeks (visualization engineer and surveyor of the community). We have some [more information about them](https://medium.com/tapestry-blog/tapestry-2018-keynote-speakers-92bdff0eab6f) on our [new Tapestry blog](https://medium.com/tapestry-blog/) (which we just moved to Medium).
 
 We'll also be adding more information about past conferences so you know what the fuss is about, but for the moment you can watch last year's talks on [the archive page](http://www.tapestryconference.com/archive/2017) and all the talks ever given at Tapestry on [our YouTube channel](https://www.youtube.com/channel/UCYYGzRe-8FHavaO5YqouT-Q). I'm embedding a little "sizzle reel" below that we made after the conference in 2014.
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-has-aspect-ratio wp-embed-aspect-16-9"><div class="wp-block-embed__wrapper">
+<figure><div class="wp-block-embed__wrapper">
 https://www.youtube.com/watch?v=_DTQTbccfAk
 </div></figure>
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/dear-data.jpg" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/dear-data.jpg" width="825" height="510"/></figure>
 
 # Link: Dear Data
 

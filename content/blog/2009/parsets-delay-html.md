@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/parsets-delay.png" border="0" alt="ParSets Delay" width="560" height="158" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/parsets-delay.png" alt="ParSets Delay" width="560" height="158"/></figure>
 
 # Parallel Sets Release Pushed Back A Bit (Updated)
 

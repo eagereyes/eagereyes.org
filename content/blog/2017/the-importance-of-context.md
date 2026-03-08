@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png" width="600" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png" width="600" height="486"/></figure>
 
 # The Importance of Context
 
@@ -34,7 +34,7 @@ There is a lot more potential to add context here. I still don’t know if any o
 
 Going further, what about setting a goal and showing me progress? Misfit doesn’t let me do that, but Strava does a decent job at this for both weekly and yearly goals.
 
-<p align="center"><img class="aligncenter wp-image-10144" src="https://media.eagereyes.org/wp-content/uploads/2017/07/strava-goals.png" alt="" width="356" height="275" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/strava-goals.png" alt="" width="356" height="275"/></figure>
 
 Even this could be improved (and I’ll have more to say about data display in fitness tracking more generally in another posting), but it’s a good start.
 

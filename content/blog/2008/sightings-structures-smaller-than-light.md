@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/Sightings-2008-11-Richardson.jpg" alt="Sightings: Structures Smaller than Light" width="452" height="300" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/Sightings-2008-11-Richardson.jpg" alt="Sightings: Structures Smaller than Light" width="452" height="300"/></figure>
 
 # Sightings: Structures Smaller than Light
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/billionapps.png" border="0" alt="We're about to hit a billion" width="503" height="140" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/billionapps.png" alt="We" width="503" height="140"/></figure>
 
 # AppStore Billion Apps Live Visualization
 

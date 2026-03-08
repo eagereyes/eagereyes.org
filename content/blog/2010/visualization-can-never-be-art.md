@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/tansey-modern-postmodern.jpg" alt="Mark Tansey, Modern/Postmodern" width="560" height="281"></p>
+<figure><img src="https://media.eagereyes.org/media/2010/tansey-modern-postmodern.jpg" alt="Mark Tansey, Modern/Postmodern" width="560" height="281"/></figure>
 
 # Visualization Can Never Be Art
 
@@ -39,7 +39,7 @@ Tying these thoughts together, I see two different kinds of visualization:
 
 In [a paper a while ago](/publications/Kosara-IV-2007) I used these criteria to not only define these two kinds of visualization, but propose the sublime as a dimension along which different kinds of work can be arranged.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/artisticpragmatic2.png" alt="Artistic/Sublime vs. Pragmatic/Anti-Sublime" title="Artistic/Sublime vs. Pragmatic/Anti-Sublime" width="442" height="83" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/artisticpragmatic2.png" alt="Artistic/Sublime vs. Pragmatic/Anti-Sublime" width="442" height="83"/></figure>
 
 Not every visualization is necessarily on one of the ends, there's a middle ground there as well. But as it gets more artistic, it loses its utility. And by trying to be more useful, it loses its artistic appeal.
 
@@ -53,11 +53,11 @@ But there is a place where these things can be art because the sublime is not an
 
 This is the problem with the [informative art piece I discussed a while ago](/blog/2006/informative-art). If you don't know what it means, it is sublime.
 
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/Skogetal-buses.png" alt="Two bus lines - Skog et al, InfoVis 2003" title="Two bus lines - Skog et al, InfoVis 2003" width="538" height="210"></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/Skogetal-buses.png" alt="Two bus lines - Skog et al, InfoVis 2003" width="538" height="210"/></figure>
 
 But once you're told what the different parts mean (and that it is, in fact, a visualization), it loses that quality and becomes a useful visualization like any other.
 
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/Skogetal-metaphor.png" alt="The visual metaphor - Skog et al, 2003" title="The visual metaphor - Skog et al, 2003" width="541" height="313" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/Skogetal-metaphor.png" alt="The visual metaphor - Skog et al, 2003" width="541" height="313"/></figure>
 
 Whether it is art or not is clearly in the eye (and mind) of the beholder.
 

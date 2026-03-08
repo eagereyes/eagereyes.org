@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg" alt="Jim Thomas, Dirk Bartz, Jacques Bertin" width="560" height="300" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg" alt="Jim Thomas, Dirk Bartz, Jacques Bertin" width="560" height="300"/></figure>
 
 # To Those We Lost This Year
 

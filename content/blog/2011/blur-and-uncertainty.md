@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/sdof-chess.jpg" alt="" width="600" height="290" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/sdof-chess.jpg" alt="" width="600" height="290"/></figure>
 
 # Blur and Uncertainty Visualization
 

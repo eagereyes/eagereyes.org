@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/foxpie.jpg" border="0" alt="Pie Chart adding up to 193% on Fox News" width="548" height="411" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/foxpie.jpg" alt="Pie Chart adding up to 193% on Fox News" width="548" height="411"/></figure>
 
 # Bring Out Your Dreadful Charts!
 

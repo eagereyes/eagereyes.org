@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/sxsw.png" alt="" width="600" height="148" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/sxsw.png" alt="" width="600" height="148"/></figure>
 
 # Vote for our SxSW Panel on Visualization!
 

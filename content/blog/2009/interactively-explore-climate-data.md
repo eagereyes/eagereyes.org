@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" alt="Climate data 1740-2008" width="560" height="246" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" alt="Climate data 1740-2008" width="560" height="246"/></figure>
 
 # Interactively Explore Climate Data
 

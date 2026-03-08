@@ -2,7 +2,7 @@
 
 Between *Surprise Maps*, *Dear Data*, and election graphics, 2016 was an exciting year. There have also been some gaps, however, notably around storytelling. How far have we come, and where is visualization going?
 
-<p align="center"><img class="aligncenter size-full wp-image-9929" src="https://media.eagereyes.org/wp-content/uploads/2017/01/nytimes-gauges-cropped.png" alt="" width="1320" height="328" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/nytimes-gauges-cropped.png" alt="" width="1320" height="328"/></figure>
 
 ## Visualizing Uncertainty
 
@@ -18,7 +18,7 @@ That this is a problem is not a secret. However, most existing ways of showing u
 
 Interestingly, this is a topic that has been recognized by both the data journalism and the intelligence (read: three-letter agencies) communities. I’m aware of efforts in both to bring together ideas and work on new solutions. At least the ideas developed in the former should show up for the next election, if not sooner.
 
-<p align="center"><img class="aligncenter size-full wp-image-9510" src="https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg" alt="" width="1364" height="843" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg" alt="" width="1364" height="843"/></figure>
 
 ## Sketching and Personal Data
 
@@ -56,7 +56,7 @@ I’m aware of some very interesting experiments and ideas that should change th
 
 I can’t talk about specifics here, but things are about to get a lot more interesting. We’ll need to get a bit smarter about understanding and modeling than we currently are. And we need to embrace uncertainty around what we know a lot more – not ignore, but understand it and deal with it. But the reward is that this could open up the field to a lot of new things that we haven't thought of yet.
 
-<p align="center"><img class="aligncenter size-full wp-image-9552" src="https://media.eagereyes.org/wp-content/uploads/2016/09/pie-charts-featured.jpg" alt="" width="1600" height="1000" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/pie-charts-featured.jpg" alt="" width="1600" height="1000"/></figure>
 
 ## Pies and eagereyes
 

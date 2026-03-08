@@ -16,6 +16,6 @@ By keeping the structure compact, structured flowcharts also help you see when y
 
 It's hard to find examples of Nassi-Shneiderman diagrams on the web. Here's a function printing out [the Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) that I grabbed from [an outdated COMP101 class website](http://cgi.csc.liv.ac.uk/~frans/OldLectures/COMP101/week8/dowhileLoops.html). It should be fairly easy to figure out what the different elements mean from the context.
 
-<p align="center"><img class="aligncenter size-full wp-image-9491" src="https://media.eagereyes.org/wp-content/uploads/2016/08/fibonacciClassNS1.png" alt="fibonacciClassNS1" width="463" height="272" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/fibonacciClassNS1.png" alt="fibonacciClassNS1" width="463" height="272"/></figure>
 
 There is a short but helpful [Wikipedia page on Nassi-Shneiderman diagrams](https://en.wikipedia.org/wiki/Nassi–Shneiderman_diagram), and [Ben Shneiderman has a little page](http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/) up as well (though most of the links there are dead). [An article about how to create these diagrams in Excel](http://www.breezetree.com/articles/nassi-shneiderman-diagram.htm) has some helpful illustrations as well. The [original paper is also available](http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/1973.pdf) in all its 1970s typewriter glory, hand-drawn illustrations and all.

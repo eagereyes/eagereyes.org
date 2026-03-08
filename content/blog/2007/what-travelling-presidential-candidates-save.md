@@ -1,4 +1,4 @@
-<p align="center"><img title="ZIPScribbleMap vs. TPCMap" src="https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png" alt="ZIPScribbleMap vs. TPCMap" width="523" height="198" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png" alt="ZIPScribbleMap vs. TPCMap" width="523" height="198"/></figure>
 
 # What Travelling Presidential Candidates Save
 

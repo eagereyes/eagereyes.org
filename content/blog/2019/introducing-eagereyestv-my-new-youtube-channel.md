@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg" width="1194" height="672" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg" width="1194" height="672"/></figure>
 
 # Introducing eagereyesTV, My New YouTube Channel
 

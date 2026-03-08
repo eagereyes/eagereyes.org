@@ -1,4 +1,4 @@
-<p aling="center"><img src="https://media.eagereyes.org/media/2008/VVP-Criticism.png" border="0" alt="Paper" width="666" height="300" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/VVP-Criticism.png" alt="Paper" width="666" height="300"/></figure>
 
 # Paper on Visualization Criticism in CG&A
 

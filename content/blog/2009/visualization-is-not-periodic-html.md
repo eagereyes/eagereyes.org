@@ -1,4 +1,4 @@
-<p align="center"><img alt="Periodic Table of Visualization Methods" src="https://media.eagereyes.org/media/2009/periodictable.jpg" width="560" height="307" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/periodictable.jpg" alt="Periodic Table of Visualization Methods" width="560" height="307"/></figure>
 
 # Visualization is not Periodic, Period!
 
@@ -16,7 +16,7 @@ Most of these are under the *Information Visualization* category, while the rema
 
 ## Feel-Good Business Bullshit
 
-<img alt="Argument Slide, Force Field Diagram" src="https://media.eagereyes.org/media/2009/argumentslide.png" width="560" height="247" border="0" />
+<figure><img src="https://media.eagereyes.org/media/2009/argumentslide.png" alt="Argument Slide, Force Field Diagram" width="560" height="247"/></figure>
 
 You need to fill the time at those seminars with something. When you're not teaching your clients to juggle, ride a unicycle, or fire-walk, you talk about the *Argument Slide *or the *Force Field Diagram*. It helps pass the time, and everybody enjoys sharing information in such an informal setting. And it's exactly the kind of stuff that keeps the Dilbert guy in business drawing his terrible cartoons. This is not visualization.
 

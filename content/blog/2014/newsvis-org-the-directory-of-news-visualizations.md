@@ -8,7 +8,7 @@ Also, it is close to impossible to find news visualizations. I remember that sca
 
 There are also many other questions you might ask about news visualizations. When was the first scatterplot published? How many timelines have there been about sports in the last five years? Does *The Washington Post* create more bar charts or line charts?
 
-<p align="center"><img class="aligncenter size-medium wp-image-3158" alt="newsvis.org" src="https://media.eagereyes.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-4.29.49-PM.png" width="730" height="516" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/03/Screen-Shot-2014-03-02-at-4.29.49-PM.png" alt="newsvis.org" width="730" height="516"/></figure>
 
 ## Enter NewsVis.org
 

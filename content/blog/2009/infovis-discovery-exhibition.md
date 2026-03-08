@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/discoveryexhibition.png" border="0" alt="Discovery Exhibition" width="560" height="107" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/discoveryexhibition.png" alt="Discovery Exhibition" width="560" height="107"/></figure>
 
 # InfoVis 2009 Discovery Exhibition
 

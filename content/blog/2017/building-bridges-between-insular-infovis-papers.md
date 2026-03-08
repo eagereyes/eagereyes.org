@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500"/></figure>
 
 # Building Bridges Between Insular InfoVis Papers
 
@@ -20,11 +20,11 @@ Journal papers are great because they count much more than conference papers (es
 
 For my talk at EuroRVVV last week, I tried to show my view of the field with this little sketch. The big red blobs are journal papers, the small circles are the minor workshop and short papers that drift around the periphery.
 
-<p align="center"><img class="aligncenter size-full wp-image-10124" src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-outside.jpg" alt="" width="660" height="495" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-outside.jpg" alt="" width="660" height="495"/></figure>
 
 This is what I think we should be doing, however: use the smaller pieces to fill in the gaps between the large ones. Make connections. Dig deeper. Iterate and increment. There is a lot of value in doing this if done right, but it’s not done much right now. But the picture would look much more like this.
 
-<p align="center"><img class="aligncenter size-full wp-image-10123" src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-inbetween.jpg" alt="" width="660" height="495" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-inbetween.jpg" alt="" width="660" height="495"/></figure>
 
 This is the cohesion I’m thinking about. Small papers that build bridges and that end up clustering the larger pieces together into themes. These themes would then inspire more work, on any level, on related topics. We would know what we’re doing.
 

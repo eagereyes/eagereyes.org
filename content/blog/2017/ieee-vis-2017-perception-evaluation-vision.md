@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/imagining-replications.png" width="750" height="405" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/imagining-replications.png" width="750" height="405"/></figure>
 
 # IEEE VIS 2017: Perception, Evaluation, Vision Science
 

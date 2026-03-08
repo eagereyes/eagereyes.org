@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart" width="490" height="320" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/chocolatepiechart.jpg" alt="Chocolate Pie Chart" width="490" height="320"/></figure>
 
 # Understanding Pie Charts
 
@@ -14,13 +14,13 @@ If the parts do not sum up to a meaningful whole, they cannot be represented in 
 
 Another example that Chandoo used recently is [counting uses of words](http://chandoo.org/wp/2009/12/02/group-small-slices-in-pie-charts/). Clearly, there are other meanings of "bar" (take *bar mitzvah* or *bar none*, for example), and the sample is very artificial (there are also too many slices, see below).
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/ChandooPie1.png" alt="Pie chart of contexts the word &quot;bar&quot; is used" width="285" height="271" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/ChandooPie1.png" alt="Pie chart of contexts the word &quot;bar&quot; is used" width="285" height="271"/></figure>
 
 There is one way around this issue, which is to have an *other* category in the chart. This may work in some cases, but in others it can be difficult to come up with one (when the other cases are not known), or that category may end up obscuring some of the meaningful data (e.g., by being the largest category).
 
 Slices have to be mutually exclusive; by definition, they cannot overlap. The data therefore must not only sum up to a meaningful whole, but the values need to be categorized in such a way that they are not counted several times. A good indicator of something being wrong is when the percentages do not sum up to 100%, like in the [infamous Fox News pie chart](http://tweetphoto.com/b64lawq7).
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/foxpie.jpg" alt="The Foxpie" width="548" height="411" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/foxpie.jpg" alt="The Foxpie" width="548" height="411"/></figure>
 
 Here, people were asked which potential candidates they viewed favorably, but they could name more than one. The categories are thus not mutually exclusive, and the chart makes no sense. At the very least, they would need to show the amount of overlap between any two (and also all three) candidates. Though given the size of the numbers and the [margin of error in this data](http://www.foxnews.com/projects/pdf/111909_PalinPoll.pdf), the chart is entirely meaningless.
 
@@ -32,11 +32,11 @@ We have conducted some research that showed that people's confidence when readin
 
 Which is larger in the following chart, the black or the yellow slice? What about black and green? How much larger? How sure are you? And where do you look to compare?
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/pie.png" alt="pie chart" width="205" height="202" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/pie.png" alt="pie chart" width="205" height="202"/></figure>
 
 Now compare this to the bar chart. There is no doubt which is larger, or by how much. It's also easy to add a scale, gridlines, etc. When you care about comparing the parts, a bar chart is clearly superior. What the bar chart does not convey, though, is the part-whole relationship: changing the size of the green bar does not necessarily mean that any other bar has to change.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/bars.png" alt="bar chart" width="196" height="254" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/bars.png" alt="bar chart" width="196" height="254"/></figure>
 
 What the bar chart does not let you do easily is compare one bar to the sum of all bars: that is the realm of the pie chart (and a few others).
 
@@ -44,11 +44,11 @@ What the bar chart does not let you do easily is compare one bar to the sum of a
 
 Care must be taken to retain the salient feature of the chart: the center. In [a report on the number of words consumed each day](http://bits.blogs.nytimes.com/2009/12/09/the-american-diet-34-gigabytes-a-day/), a pie chart was prettified with a highlight in the middle. That obscures the spot where the lines meet, and thus makes it impossible to judge angles, making the comparison more difficult.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/blogSpan.jpg" alt="Pie chart of words consumed" width="480" height="331" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/blogSpan.jpg" alt="Pie chart of words consumed" width="480" height="331"/></figure>
 
 This is similar to the problem with a colleague of the pie chart, the donut chart. It is similar to the pie chart, but is missing a circular area in the center. This example was found on [Jon Peltier's blog](http://peltiertech.com/WordPress/better-charts-of-graduation-rate-and-federal-spending/).
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/FedSpendOnEdBusWk.png" alt="Donut charts" width="543" height="315" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/FedSpendOnEdBusWk.png" alt="Donut charts" width="543" height="315"/></figure>
 
 While the center may be a convenient spot for labeling, it degrades the chart's readability. The comparison between separate pie or donut charts is also largely meaningless, and should be avoided. To show progression over time, line and bar charts are much better suited. To compare two different kinds of data (absolute numbers and fractions), it makes more sense to split them up by data to compare than by year.
 
@@ -58,7 +58,7 @@ Other distortions include the ubiquitous 3D pie chart, which introduces perspect
 
 The most common problem is trying to show too many categories in a single pie chart. Wikipedia has this beautiful specimen on the [page on U.S. states by population](http://en.wikipedia.org/wiki/List_of_U.S._states_by_population). The first four states are clearly larger than any of the rest, and from there the chart turns from a meaningful visualization of numbers into a colorful pattern.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/501px-Pie_chart_of_US_population_by_state.png" alt="Pie chart of U.S. state populations" width="501" height="400" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/501px-Pie_chart_of_US_population_by_state.png" alt="Pie chart of U.S. state populations" width="501" height="400"/></figure>
 
 A bar chart would have been a much better idea here, because it would have allowed easier comparison between the states. Grouping together states of similar size into separate charts with different scales would have made it possible to clearly see the differences for all of them, not just the most populous ones.
 
@@ -77,7 +77,7 @@ In all other cases, do not use a pie chart. The pie chart is the wrong chart typ
 
 A little-known alternative to the round pie chart is the square pie or waffle chart. It consists of a square that is divided into 10x10 cells, making it possible to read values precisely down to a single percent. Depending on how the areas are laid out (as square as possible seems to be the best idea), it is very easy to compare parts to the whole. The example below is from a redesign I did a while ago about [women and girls in IT and computing-related fields](/blog/2006/square-pie-charts).
 
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/NCWIT-AdvancedPlacement.png" alt="Girls in IT-related areas waffle chart" width="505" height="176" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/NCWIT-AdvancedPlacement.png" alt="Girls in IT-related areas waffle chart" width="505" height="176"/></figure>
 
 Unfortunately, no common software I know creates this chart. But Chris Gemignani at Juice Analytics has [collected a few easy ways to make them in Excel](http://www.juiceanalytics.com/writing/solving-the-pie/).
 

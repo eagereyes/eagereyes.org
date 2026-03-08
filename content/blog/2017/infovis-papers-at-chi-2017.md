@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-teasr.png" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-teasr.png" width="720" height="500"/></figure>
 
 # InfoVis Papers at CHI 2017
 

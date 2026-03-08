@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/attraction.png" alt="" width="560" height="362" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/attraction.png" alt="" width="560" height="362"/></figure>
 
 # Laws of Attraction: From Perceived Forces to Conceptual Similarity
 

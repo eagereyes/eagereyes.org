@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png" width="860" height="484" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png" width="860" height="484"/></figure>
 
 # Talk: Pie Charts – Unloved, Unstudied, and Misunderstood
 

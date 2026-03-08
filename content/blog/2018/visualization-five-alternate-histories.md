@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg" width="700" height="679" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg" width="700" height="679"/></figure>
 
 # Visualization: Three Alternate Histories
 
@@ -30,7 +30,7 @@ Would we have Web Mercator if cartography had gotten into the data visualization
 
 Helping people understand the world has always involved showing and explaining things. This has almost always meant pictures, often showing mechanisms and explaining how the different parts of something work together. I have a thing for kid’s books from the 1950 and ‘60s that explain technology, often in remarkably clear and surprisingly deep ways. This image and the one at the top are from *Television Works Like This*, by Jeanne and Robert Bendick (McGraw-Hill, 1965).
 
-<p align="center"><img class="aligncenter size-full wp-image-10653" src="https://media.eagereyes.org/wp-content/uploads/2018/05/tv-tube.jpg" alt="" width="1400" height="698" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/tv-tube.jpg" alt="" width="1400" height="698"/></figure>
 
 The step from finding a visual way of explaining a mechanism to using data to talk about the world doesn’t seem that big. In fact, the E in [ISOTYPE](/techniques/isotype) stands for *Education*. Otto Neurath’s goal was to educate the population about the world, and to do so using numbers. After his death, Marie Neurath published a series of children’s books that often incorporated elements of data and ISOTYPE-style images (though they never purely showed data, as far as I know).
 

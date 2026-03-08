@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/disinformation-teaser.jpg" width="500" height="309" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/disinformation-teaser.jpg" width="500" height="309"/></figure>
 
 # Link: Disinformation Visualization
 

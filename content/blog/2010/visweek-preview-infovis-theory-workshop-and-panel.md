@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389"/></figure>
 
 # VisWeek Preview: InfoVis Theory Workshop and Panel
 

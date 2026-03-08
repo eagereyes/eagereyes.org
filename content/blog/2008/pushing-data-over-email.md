@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/emailDog_small.jpg" alt="email dog" width="400" height="245" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/emailDog_small.jpg" alt="email dog" width="400" height="245"/></figure>
 
 # Pushing Data over Email
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" border="0" alt="Gladiators" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" alt="Gladiators"/></figure>
 
 # The Sad State of the InfoVis Contest
 

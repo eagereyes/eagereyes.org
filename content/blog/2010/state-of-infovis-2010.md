@@ -1,4 +1,4 @@
-<p align="center"><img alt="Minard's &quot;Napoleon's March to Moscow&quot;, Protovis demo" src="https://media.eagereyes.org/media/2010/minard.jpg" width="560" height="173" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/minard.jpg" alt="Minard" width="560" height="173"/></figure>
 
 # The State of Information Visualization
 

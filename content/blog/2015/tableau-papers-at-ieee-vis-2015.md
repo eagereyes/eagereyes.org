@@ -1,10 +1,10 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/tableau-vis-papers-teaser.jpg" alt="" width="825" height="360" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/tableau-vis-papers-teaser.jpg" alt="" width="825" height="360"/></figure>
 
 # Tableau Papers at IEEE VIS 2015
 
 My colleagues at [Tableau Research](https://research.tableau.com) have three papers at InfoVis next week. They cover guided data exploration, color theory, and data partitioning. Here's a little preview.
 
-<p align="center">[<img class="aligncenter size-full wp-image-8989" src="https://media.eagereyes.org/wp-content/uploads/2015/10/voyager-pages.jpg" alt="voyager-pages" width="660" height="342" />](https://research.tableau.com/paper/voyager-exploratory-analysis-faceted-browsing-visualization-recommendations)</p>
+<figure><a href="https://research.tableau.com/paper/voyager-exploratory-analysis-faceted-browsing-visualization-recommendations"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/voyager-pages.jpg" alt="voyager-pages" width="660" height="342"/></a></figure>
 
 ## Voyager: Exploratory Analysis via Faceted Browsing of Visualization Recommendations
 
@@ -12,7 +12,7 @@ This is a collaboration between Anushka Anand and Jock Mackinlay at Tableau and 
 
 The goal of Voyager is to make it easier for people to explore more of their data. It can be overwhelming when looking at a database to know what to look at. And when people already know the data, they tend to stick to a relatively small set of data dimensions they already know. Seeing the data makes it easier to spot what else to look at, in particular when two data fields are shown. This is borne out by the study they ran to test the system.
 
-<p align="center">[<img class="aligncenter size-full wp-image-8986" src="https://media.eagereyes.org/wp-content/uploads/2015/10/color-pages.jpg" alt="color-pages" width="660" height="342" />](https://research.tableau.com/paper/linguistic-approach-categorical-color-assignment-data-visualization)</p>
+<figure><a href="https://research.tableau.com/paper/linguistic-approach-categorical-color-assignment-data-visualization"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/color-pages.jpg" alt="color-pages" width="660" height="342"/></a></figure>
 
 ## A Linguistic Approach to Categorical Color Assignment for Data Visualization
 
@@ -20,7 +20,7 @@ When you're showing data about fruit, which color would you pick for a banana? W
 
 The results are, unsurprisingly, much better than just picking colors at random. There is a lot of clever statistics and NLP magic involved, but the overall idea is pretty simple yet very cool.
 
-<p align="center">[<img class="aligncenter size-full wp-image-8987" src="https://media.eagereyes.org/wp-content/uploads/2015/10/partitioning-pages.jpg" alt="partitioning-pages" width="660" height="342" />](https://research.tableau.com/paper/automatic-selection-partitioning-variables-small-multiple-displays)</p>
+<figure><a href="https://research.tableau.com/paper/automatic-selection-partitioning-variables-small-multiple-displays"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/partitioning-pages.jpg" alt="partitioning-pages" width="660" height="342"/></a></figure>
 
 ## Automatic Selection of Partitioning Variables for Small Multiple Displays
 

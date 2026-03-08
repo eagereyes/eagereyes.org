@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/groningen-running.jpg" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/groningen-running.jpg" width="825" height="510"/></figure>
 
 # EuroVis Coverage and Running
 

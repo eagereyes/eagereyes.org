@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png" alt="" width="560" height="152" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png" alt="" width="560" height="152"/></figure>
 
 # Beyond Bertin: Seeing the Forest despite the Trees
 

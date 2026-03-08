@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-full wp-image-10211" src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg" alt="" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg" alt="" width="720" height="480"/></figure>
 
 # Portrait: Danielle Albers Szafir
 
@@ -10,4 +10,4 @@ Danielle works on a number of research projects centered around perception, and 
 
 This is the first posting in a new series, *Portraits*. The goal is to associate people (or at least their faces) with the names you read on papers. I'm going to post one each month with a little description. I'm stealing the idea (and the aesthetics) [from Bryan Jones' blog](http://prometheus.med.utah.edu/~bwjones/category/portraits/). There will be some color photos here at times, but for the most part I'm sticking to black and white. But since Danielle does color research, I figured it made sense to also include the color version of her portrait here.
 
-<p align="center"><img class="aligncenter size-full wp-image-10211" src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-color.jpg" alt="" width="720" height="480" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-color.jpg" alt="" width="720" height="480"/></figure>

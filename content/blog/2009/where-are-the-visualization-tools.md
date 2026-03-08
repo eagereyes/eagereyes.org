@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/toolbox.jpg" border="0" alt="Toolbox" width="568" height="375" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/toolbox.jpg" alt="Toolbox" width="568" height="375"/></figure>
 
 # Where are the Visualization Tools?
 

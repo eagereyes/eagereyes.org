@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/polevaulting.jpg" alt="" width="560" height="279" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/polevaulting.jpg" alt="" width="560" height="279"/></figure>
 
 # Stories Don't Tell Themselves
 
@@ -8,7 +8,7 @@ Storytelling was a big topic at VisWeek this year: there was a workshop, a panel
 
 Stories, in general, require time. When there is no change, there's no story. A static scene can only be described, not told, no matter how much detail is given or how vivid the description may be. That is why the image at the top of this posting (from [a very clever New York Times animation](http://www.nytimes.com/interactive/2008/08/18/sports/olympics/18-pole-vault-graphic.html)) tells a story, and the one below does not (click for a larger version).
 
-<p class="img">[<img src="https://media.eagereyes.org/media/2010/minard-small.jpg" alt="" width="560" height="267" />](https://media.eagereyes.org/media/2010/minard-large.jpg)</p>
+<figure><a href="https://media.eagereyes.org/media/2010/minard-large.jpg"><img src="https://media.eagereyes.org/media/2010/minard-small.jpg" alt="" width="560" height="267"/></a></figure>
 
 This is Minard's famous map of Napoleon's march to Moscow, which Edward Tufte considers the best visualization ever made. It is also often described as telling a great story of loss and suffering. But put yourself into the position of somebody who doesn't know what this is about. What does it really tell you? You first need to figure out what the image even represents. Once you know that the width of the line represents troop strength (from 400,000 at the beginning to a mere 10,000 at the end) and the chart at the bottom shows temperatures (all of which are below freezing), you can start to think about what stories might have played out.
 

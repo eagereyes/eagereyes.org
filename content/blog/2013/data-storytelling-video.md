@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/03/wealth-inequality.png" alt="" width="600" height="310" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/03/wealth-inequality.png" alt="" width="600" height="310"/></figure>
 
 # Data Storytelling in Video
 

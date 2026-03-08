@@ -8,7 +8,7 @@ Gregor takes issue with [the notion that visualization requires a certain number
 
 Let’s take a step back and look at what a speed gauge in a car does, how it works, and how it is used.
 
-<p align="center"><img class="aligncenter size-full wp-image-1990" title="Tachometer_2011_honda_civic" src="https://media.eagereyes.org/wp-content/uploads/2012/07/Tachometer_2011_honda_civic.jpg" alt="" width="573" height="383" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/07/Tachometer_2011_honda_civic.jpg" alt="" width="573" height="383"/></figure>
 
 A gauge consists of a scale with tick marks and numbers, and a pointer needle that points to a value on that scale. When the value changes, perhaps because the car accelerates, the change is reflected immediately.
 

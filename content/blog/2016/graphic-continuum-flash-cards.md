@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-cards.jpg" width="720" height="540" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-cards.jpg" width="720" height="540"/></figure>
 
 # Graphic Continuum Flash Cards
 

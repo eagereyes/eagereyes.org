@@ -4,13 +4,13 @@ Raw numbers are easy to report and analyze, but without the proper context, they
 
 This is a particular issue with data that has a spatial component. When the data is shown on the inevitable map, you often just see a distribution of people. Where there are more people, there are more tweets, there's more crime, there are more customers, there are more coffee shops, etc. Many maps in fact show nothing but the underlying distribution of people. As usual, xkcd has captured the issue beautifully.
 
-<p align="center">[<img class="aligncenter wp-image-8273 size-full" src="https://media.eagereyes.org/wp-content/uploads/2014/07/heatmap.png" alt="heatmap" width="250" height="271" />](http://xkcd.com/1138/)</p>
+<figure><a href="http://xkcd.com/1138/"><img src="https://media.eagereyes.org/wp-content/uploads/2014/07/heatmap.png" alt="heatmap" width="250" height="271"/></a></figure>
 
 ## Crime on New York City Subways
 
 An example for this is [a map recently published by *New York Daily News*](http://www.nydailynews.com/new-york/nyc-crime/daily-news-analysis-reveals-crime-rankings-city-subway-system-article-1.1836918) showing the amount of crime in subway stations in New York City. Each bubble on the map shows one station, with the size of the bubble representing the number of crimes. Mousing over the bubbles soon reveals that many of the higher-crime stations are the ones with more than one line passing through (and thus likely more people).
 
-<p align="center"><img class="aligncenter wp-image-8276" src="https://media.eagereyes.org/wp-content/uploads/2014/07/nydn-mta-crime-totals-1094x1335.png" alt="nydn-mta-crime-totals" width="547" height="668" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/07/nydn-mta-crime-totals-1094x1335.png" alt="nydn-mta-crime-totals" width="547" height="668"/></figure>
 
 While it is possible to switch the map to a view that shows the number of incidents per 100,000 people passing through the station, the story leads with the raw numbers. The data was actually collected over a period of five years (July 2008 to June 2013), which increases their magnitude. Reporting crimes per year seems like a more honest way of looking at these numbers.
 
@@ -18,7 +18,7 @@ The station with the most crime (Times Square/Port Authority) had 1791 incidents
 
 The number of people passing through each station is actually included in a little visualization in that article, though it's not shown directly. Since they use Tableau Public for that, I was able to tease it out and create a pair of maps comparing the total number and the per–100,000 numbers side by side. Click on a bubble in one of the maps below to highlight it in both. There is also a tooltip listing the numbers.
 
-<p align="center"><img class="aligncenter wp-image-8276" src="https://media.eagereyes.org/wp-content/uploads/2014/07/crime-tableau.png" alt="nydn-mta-crime-totals" width="350" height="264" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/07/crime-tableau.png" alt="nydn-mta-crime-totals" width="350" height="264"/></figure>
 
 The difference between the total and the per–100,000 number is important not just because it changes the picture. It's the much more interesting number. The total number of crimes means nothing for the individual. What is much more relevant is how many crimes happen per person, because that provides a much closer estimate of each individual's risk of becoming a victim. Large total numbers make for great headlines (Over 191,000 crimes total!), but they're largely meaningless otherwise.
 

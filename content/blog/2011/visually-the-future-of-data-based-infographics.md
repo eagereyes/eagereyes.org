@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/visually-teaser.png" alt="" width="600" height="220" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/visually-teaser.png" alt="" width="600" height="220"/></figure>
 
 # Visual.ly: The Future of Data-Based Infographics
 [Visual.ly](http://visual.ly/)'s launch today made big waves, but a lot of people seemed to be disappointed by what they saw. The problem is that what you can see on the website is not the really exciting part of Visual.ly. What is much more interesting is how they want to turn the creation of data-based graphics from a tedious manual process into something fast and flexible. That has a lot more potential impact than you might realize at first.
@@ -15,7 +15,7 @@ The [key difference between visualization and infographics](/blog/2010/the-diffe
 
 Visual.ly is working on a tool that will make all of this possible. If you have seen a program like Adobe Illustrator before, parts of this mock-up should look familiar, while other parts should be surprising.
 
-<p class="img"><img src="https://media.eagereyes.org/media/2011/visually.png" alt="" width="600" height="443" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/visually.png" alt="" width="600" height="443"/></figure>
 
 The key idea is to combine a design tool with visualization. No longer will designers create a first chart in Excel and copy that over into Illustrator to make the actual graphic. It's all in one, web-based tool. Note the charting and data tools on the left and the design tools on the right. You can put different elements on different layers, just like in design tools, to have more control. The Action palette at the bottom right allows you to link views, create slideshow-like transitions between views, etc.
 

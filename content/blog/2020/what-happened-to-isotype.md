@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/09/DSCF1951-crop.jpg" width="925" height="600" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/09/DSCF1951-crop.jpg" width="925" height="600"/></figure>
 
 # What Happened to ISOTYPE?
 

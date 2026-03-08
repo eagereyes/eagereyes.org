@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/beautifulvis.jpg" width="560" height="220" alt="Beautiful Visualization"></p>
+<figure><img src="https://media.eagereyes.org/media/2010/beautifulvis.jpg" alt="Beautiful Visualization" width="560" height="220"/></figure>
 
 # Beautiful Visualization
 

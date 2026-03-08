@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/Tapestry_01.png" width="1283" height="710" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/Tapestry_01.png" width="1283" height="710"/></figure>
 
 # VisComm Workshop at VIS and Tapestry 2018
 

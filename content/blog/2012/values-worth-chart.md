@@ -2,7 +2,7 @@
 
 A while ago, [Kaiser Fung criticized a chart](http://junkcharts.typepad.com/junk_charts/2012/12/four-numbers-say-little-even-on-a-busy-chart.html) for its uselessness because it only showed four numbers. The chart appeared on the smart web comic [Abstruse Goose](http://abstrusegoose.com/) (which, as of this writing, is down for a site reorganization).
 
-<p align="center"><img class="aligncenter size-full wp-image-2176" alt="Perception, from Abstruse Goose" src="https://media.eagereyes.org/wp-content/uploads/2012/12/perception-abstrusegoose.png" width="744" height="623" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/perception-abstrusegoose.png" alt="Perception, from Abstruse Goose" width="744" height="623"/></figure>
 
 First, I think Mr. Fung was trolled by his reader, and fell for it hook, line, and sinker. The point of this chart is not to communicate a lot of data or to inform, but merely to entertain and perhaps to make people pause and think for a moment.
 

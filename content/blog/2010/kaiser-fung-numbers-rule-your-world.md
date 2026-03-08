@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/numbersrule.jpg" alt="Numbers Rule Your World" width="560" height="200" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/numbersrule.jpg" alt="Numbers Rule Your World" width="560" height="200"/></figure>
 
 # Review: Kaiser Fung, Numbers Rule Your World
 

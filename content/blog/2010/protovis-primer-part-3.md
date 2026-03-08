@@ -8,7 +8,7 @@ In this part of the tutorial, we will create [a chart showing the lives and offi
 
 Here is a small part of it, showing only the last few presidents. Again, if you are reading this in Internet Explorer or a news reader, you will only see static images and not be able to interact. Go to [the tutorial website](/blog/2010/protovis-primer-part-3) to get a better idea how it works.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-interaction.png" width="560" height="180" alt="presidents chart" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-interaction.png" alt="presidents chart" width="560" height="180"/></figure>
 
 ## Data Preparation
 
@@ -142,7 +142,7 @@ vis.add(pv.Bar)
 
 So let's look at what we have so far:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-basic.png" width="560" height="180" alt="presidents chart" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-basic.png" alt="presidents chart" width="560" height="180"/></figure>
 
 ## Interaction Setup
 
@@ -265,7 +265,7 @@ The difference between the `term_began` and `born` fields is the number of days 
 
 Here is the complete plot including the labels:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-labels.png" width="560" height="240" alt="presidents chart" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/presidents-labels.png" alt="presidents chart" width="560" height="240"/></figure>
 
 And that's it! Interactive visualization in the browser! If you want to see the entire dataset, there is a [version of it one a separate page](/app/presidential-demographics). Also check out the [code on github](http://github.com/eagereyes/Protovis-Primer), or [download a ZIP file containing the full code and data file](https://media.eagereyes.org/media/2010/protovis-primer/protovis-primer-part3.zip).
 

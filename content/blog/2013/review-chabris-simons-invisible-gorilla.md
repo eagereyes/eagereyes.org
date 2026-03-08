@@ -1,6 +1,6 @@
 # Review: Chabris, Simons, The Invisible Gorilla
 
-<p align="center"><img class="aligncenter size-full wp-image-2408" alt="The Invisible Gorilla" src="https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg" width="600" height="301" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg" alt="The Invisible Gorilla" width="600" height="301"/></figure>
 
 Inattentional and change blindness are two fascinating phenomena that more people should be aware of. *The Invisible Gorilla* describes them as well as some other interesting and surprising psychological research.
 

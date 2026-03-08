@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/verifiable.png" width="560" height="247"></p>
+<figure><img src="https://media.eagereyes.org/media/2010/verifiable.png" width="560" height="247"/></figure>
 
 # The End of Verifiable.com
 

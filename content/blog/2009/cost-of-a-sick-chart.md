@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/GE-healthcare-header.png" border="0" alt="GE Cost of Healthcare Visualization" width="560" height="318" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/GE-healthcare-header.png" alt="GE Cost of Healthcare Visualization" width="560" height="318"/></figure>
 
 # The Cost of a Sick Chart
 
@@ -34,7 +34,7 @@ The animation when picking a disease is smooth, but it rotates in unpredictable 
 
 Speaking of comparisons, this applet also very nicely demonstrates a problem in our visual system that makes using the radius in pie charts a bad choice: we tend to overestimate heights compared to width. Pick age 47 and click back and forth between depression (purple) and acid reflux (dark green). The values are not too far apart, and the wedges are at close to a right angle. The one that is more vertical will always appear to have a larger radius than the more horizontal one.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/GE-healthcare-47.png" border="0" alt="Depression and Acid Reflux at age 47" width="560" height="283" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/GE-healthcare-47.png" alt="Depression and Acid Reflux at age 47" width="560" height="283"/></figure>
 
 Since the radius is different for every slice, this is not a pie chart. It's also not a [coxcomb plot](http://understandinguncertainty.org/node/214), because the angles are all different. So we're really looking at a general glyph, which is a complex graphical object whose features (sizes, lengths, angles, colors, etc.) correspond to data. The great strength of these is that they can show the temporal progression of multi-dimensional data, but only if you can see many time steps at the same time. Only being able to see one makes it difficult and tedious to follow developments. Did all diseases increase in cost between 45 and 50? Which ones didn't? Which ones became more prevalent, which ones less so?
 
@@ -44,7 +44,7 @@ People like round, compact shapes. But that doesn't mean that everything we do f
 
 Visualization is a great way to identify data problems. While it can be challenging to find these while staring at numbers, they tend to stick out very clearly in a visualization. By just flipping through the ages, there is an obvious problem at age 20:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/GE-healthcare-gastriculcer.png" border="0" alt="Gastric ulcers at 19, 20, and 21 years" width="520" height="278" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/GE-healthcare-gastriculcer.png" alt="Gastric ulcers at 19, 20, and 21 years" width="520" height="278"/></figure>
 
 That gray bar is gastric ulcers, which jumps from $2,288 at age 19 to $29,182 at age 20 and then back to $2,796 at 21. There is only one patient with that problem at these ages, and that data is clearly an anomaly (and probably wrong). The gray bars all show erratic behavior over time. But why report such outliers? And what about the other data, how reliable and representative is that? The sample size is rather small (in the 100s to lower 1000s per slice), how does this data relate to the general population?
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png" width="637" height="388" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png" width="637" height="388"/></figure>
 
 # Publicize, Don't Just Publish!
 

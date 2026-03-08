@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-tue-teaser.png" alt="" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-tue-teaser.png" alt="" width="825" height="510"/></figure>
 
 # VIS 2015 – Tuesday
 

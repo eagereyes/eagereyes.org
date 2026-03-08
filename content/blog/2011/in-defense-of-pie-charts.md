@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/piecharts-teaser.png" alt="" width="600" height="350" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/piecharts-teaser.png" alt="" width="600" height="350"/></figure>
 
 # In Defense of Pie Charts
 
@@ -14,13 +14,13 @@ The tasks Spence and Lewandowsky picked are more typical for the kinds of questi
 
 Their first experiment is quite typical for most of their other results, so I will focus on this one here. They showed the three chart types (the table was not included in this experiment) to study participants for 1.5, 3, or 6 seconds. The chart below shows accuracy versus presentation time for the three charts and three different questions: a simple A vs. B comparison, A vs. B+C, and A+B against C+D.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/pie-accuracy.png" alt="" width="600" height="476" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/pie-accuracy.png" alt="" width="600" height="476"/></figure>
 
 It is easy to see that the differences between charts are minimal. What is much more important is the presentation time and the task. Another thing they tested were different numbers of components, and those charts look quite similar: as long as the number is seven or below (which is what they tested), the differences between them is very small.
 
 In addition to the pie chart not being worse than the bar chart, there is an even more surprising result here: pie charts are doing better for more complex tasks! They performed a separate study to tease out that effect, and it did turn out to be statistically significant.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/pie-complexity.png" alt="" width="600" height="529" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/pie-complexity.png" alt="" width="600" height="529"/></figure>
 
 While it is not surprising that the table doesn't do too well in the more complex tasks (adding up numbers is more difficult than combining areas), the comparatively bad performance of the bar chart is. They did not include the stacked bar chart here for some reason, which presumably would have done better than the regular one.
 

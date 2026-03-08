@@ -8,7 +8,7 @@ Just like any other bingo! You attend VisWeek and mark those squares that descri
 
 Click the image below for a printable (and readable) PDF version.
 
-[<img src="https://media.eagereyes.org/media/2010/VisWeek-Bingo.png" alt="" width="560" height="751" />](https://media.eagereyes.org/media/2010/VisWeek-Bingo.pdf)
+[<img src="https://media.eagereyes.org/media/2010/VisWeek-Bingo.png" alt="" width="560" height="751"/>](https://media.eagereyes.org/media/2010/VisWeek-Bingo.pdf)
 
 Feel free to add suggestions for more Bingo squares below!
 

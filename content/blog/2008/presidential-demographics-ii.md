@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/presdemo.png" border="0" alt="Presidential Demographics" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/presdemo.png" alt="Presidential Demographics"/></figure>
 
 # Presidential Demographics, Part II
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/rubik_cube.png" width="413" height="425" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/rubik_cube.png" width="413" height="425"/></figure>
 
 # Row-Level Thinking vs. Cube Thinking
 
@@ -18,7 +18,7 @@ Rather than the bottom-up perspective of rows, data cubes are about thinking fro
 
 One of the best illustrations of a data cube I know is from the paper [*Multiscale Visualization Using Data Cubes*](http://graphics.stanford.edu/papers/pan_zoom/) by Chris Stolte, Diane Tang, and Pat Hanrahan.
 
-<p align="center"><img class="aligncenter size-medium wp-image-9291" src="https://media.eagereyes.org/wp-content/uploads/2016/05/slicing-cubes.png" alt="slicing-cubes" width="660" height="534" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/slicing-cubes.png" alt="slicing-cubes" width="660" height="534"/></figure>
 
 Read from top left to bottom right, it basically describes how fine-grained data turns into a cube. Read backwards, it shows how the cube containing all the data in one value is broken down: first by time, then by product, then by location.
 

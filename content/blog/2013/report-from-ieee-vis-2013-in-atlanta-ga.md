@@ -10,7 +10,7 @@ In addition to those three, there are a number of other tracks that include tuto
 
 As usual, this is an incomplete account, based on things I saw and liked. There was a lot more that I either missed or ignored, like the entire scientific visualization conference.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2706" alt="Atlanta Sunrise" src="https://media.eagereyes.org/wp-content/uploads/2013/10/atlanta-sunrise-730x486.jpg" width="730" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/atlanta-sunrise-730x486.jpg" alt="Atlanta Sunrise" width="730" height="486"/></figure>
 
 ## Opening Session
 
@@ -90,7 +90,7 @@ There were many interesting points, and there is no way to list them all. But pe
 
 A twist on this, which he presented after discussing some of [Dieter Rams](http://en.wikipedia.org/wiki/Dieter_Rams)’ famous ten commandments of good design, was: *Think as a Designer, Act as a Designer, Be a Designer*. Words to live by.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2707" alt="Ben Shneiderman Winning" src="https://media.eagereyes.org/wp-content/uploads/2013/10/ben-shneiderman-winning.jpg" width="730" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/ben-shneiderman-winning.jpg" alt="Ben Shneiderman Winning" width="730" height="486"/></figure>
 
 ## Parties and VisLies
 
@@ -110,7 +110,7 @@ In the opening session, Greg Nielson (one of the co-founders of the Vis conferen
 
 This year saw a reinvigorated arts program, run by Angus Forbes and Lauren Thorson. In addition to the exhibit space (that was not located very well), there was also a session with paper presentations on artistic uses of visualization and artists doing other related things. I have not yet read the papers (and I had to miss the session), but one that I liked from the preview was the *[Parallel Coordinates Art project](http://www.parallelcoordinates.de)*, which creates some very neat-looking images. You can [explore it yourself in your browser](www.parallelcoordinates.de/pc-art.html) if it can do WebGL (i.e., if it’s Chrome).
 
-<p align="center"><img class="aligncenter size-medium wp-image-2708" alt="Marriott Marquis Atlanta" src="https://media.eagereyes.org/wp-content/uploads/2013/10/marriott-marquis-atlanta.jpg" width="730" height="363" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/marriott-marquis-atlanta.jpg" alt="Marriott Marquis Atlanta" width="730" height="363"/></figure>
 
 ## Venue
 
@@ -126,4 +126,4 @@ Well, that’s it for my very incomplete account of VIS 2013. The final big piec
 
 Also, the following years were announced, for the first time as far as I know. VIS 2015 will be in Chicago, 2016 in Washington, D.C., and 2017 in Santa Fe, N.M.
 
-<p align="center"><img class="aligncenter size-medium wp-image-2709" alt="Altanta Sunset" src="https://media.eagereyes.org/wp-content/uploads/2013/10/altanta-sunset.jpg" width="730" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/altanta-sunset.jpg" alt="Altanta Sunset" width="730" height="486"/></figure>

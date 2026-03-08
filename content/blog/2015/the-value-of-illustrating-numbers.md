@@ -18,7 +18,7 @@ When it comes to data about people, perhaps the approach needs to be a bit more 
 
 Other examples include Periscopic's *[U.S. Gun Deaths](http://guns.periscopic.com/),* Pitch Interactive's *[Out of Sight, Out of Mind](http://drones.pitchinteractive.com)* (about drone strikes), and the Huffington Post's [*Mapping the Dead*](http://data.huffingtonpost.com/2013/03/gun-deaths) (gun deaths for about three months after the Sandy Hook shooting in late 2012). They do not attempt to put numbers into perspective, because the perspective is not what matters. The goal is punch you in the gut, to make you feel something.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8715" src="https://media.eagereyes.org/wp-content/uploads/2015/03/gun-deaths.jpg" alt="gun-deaths" width="660" height="236" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/gun-deaths.jpg" alt="gun-deaths" width="660" height="236"/></figure>
 
 Numbers always invite comparison. But there is a point at which comparison becomes distraction and an excuse to minimize the number. Were there more traffic deaths than gun deaths in 2013? Probably. What other numbers can you find that are higher? But that's missing the point: to show the sheer number, no matter how it compares. It's the absolute number that counts. Everyone of those deaths is one too many.
 

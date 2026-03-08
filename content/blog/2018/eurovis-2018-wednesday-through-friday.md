@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/setcola.png" width="700" height="232" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/setcola.png" width="700" height="232"/></figure>
 
 # EuroVis 2018, Wednesday through Friday
 
@@ -8,11 +8,11 @@ EuroVis raged on through the end of the week with talks, posters, and lots of fo
 
 [**Exploring the Visualization Design Space with Repertory Grids**](https://www.visus.uni-stuttgart.de/publikationen/repgrid/) by Kuno Kurzhals and Daniel Weiskopf describes an interesting way of conducting semi-structured interviews to get to people's ideas about visualizations (or anything, really). The technique is pretty simple but effective: You look for things that go together and things that are different, and assign terms to them (like ugly-beautiful, simple-complex, etc.). You end up with a matrix of which element belongs where on each of those axes. The project page I'm linking to has an interactive version of their tool online to play with. This paper also received a Best Paper Honorable Mention.
 
-<p align="center"><img class="aligncenter size-full wp-image-10697" src="https://media.eagereyes.org/wp-content/uploads/2018/06/qca.png" alt="" width="1320" height="452" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/qca.png" alt="" width="1320" height="452"/></figure>
 
 [**Design Factors for Summary Visualization in Visual Analytics**](https://alper.datav.is/publications/summaries/)<span class="Apple-converted-space">  </span>by Alper Sarikaya, Michael Gleicher, and Danielle Albers Szafir uses a much more bottom-up approach that requires pre-defining terms (unlike the one used in the previous paper), following a technique called Quantitative Content Analysis that is popular in cartography. Their classification of visualizations is available on [their project page](https://alper.datav.is/publications/summaries/) as well.
 
-<p align="center"><img class="aligncenter size-full wp-image-10696" src="https://media.eagereyes.org/wp-content/uploads/2018/06/task-data-effectiveness-2.png" alt="" width="700" height="302" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/task-data-effectiveness-2.png" alt="" width="700" height="302"/></figure>
 
 [**Assessing Effects of Task and Data Distribution on the Effectiveness of Visual Encodings**](http://idl.cs.washington.edu/papers/task-data-effectiveness/) by Younghoon Kim and Jeffrey Heer is one of those *well, duh!* papers, but that makes it important. They looked at a number of configurations of visualizations and varied the task and complexity of the data. They find that there isn't just a simple answer to "what visualization is best given this structure of data," but that it depends on the actual task (especially whether that is a summary or detail task), but also how much data there is and how much it crowds together. Depending on their criteria, they find a pretty clear ranking of techniques, which is actually surprising to me, that nicely extends the work we all know from the 1980s (Mackinlay's APT in particular).
 
@@ -22,7 +22,7 @@ EuroVis raged on through the end of the week with talks, posters, and lots of fo
 
 [**Hypersliceplorer: Interactive visualization of shapes in multiple dimensions**](http://homepage.univie.ac.at/michael.sedlmair/papers/torsney-weir2018eurovis.pdf) by Thomas Torsney-Weir; Torsten Moeller, Michael Sedlmair, and Mike Kirby is a pretty mind-bending way of looking at high-dimensional polygons. It's based on the Hyperslice idea from 1993, but adds slicing of the high-dimensional object and shows different projections in a matrix. The user can pick which slice from each of the views to highlight in the other views. It's still way over my head, but it's quite interesting to look at.
 
-<p align="center"><img class="aligncenter size-full wp-image-10698" src="https://media.eagereyes.org/wp-content/uploads/2018/06/embeddings.png" alt="" width="660" height="147" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/embeddings.png" alt="" width="660" height="147"/></figure>
 
 [**Interactive Analysis of Word Vector Embeddings**](https://graphics.cs.wisc.edu/Papers/2018/HG18/embeddings_preprint.pdf) by Florian Heimerl and Michael Gleicher looks at what people do with vector embeddings like word2vec and then designed some ways of achieving some of the less common ones (like tracing them over time, comparing between corpora, etc.). The [project page](http://graphics.cs.wisc.edu/Vis/EmbVis) has some more information and an interactive demo.
 
@@ -36,7 +36,7 @@ I'm also throwing in a poster here that I liked: [**An Eye-Tracking Study on Spa
 
 ## Sets and Graphs
 
-<p align="center"><img class="aligncenter size-full wp-image-10695" src="https://media.eagereyes.org/wp-content/uploads/2018/06/setcola.png" alt="" width="1400" height="464" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/setcola.png" alt="" width="1400" height="464"/></figure>
 
 [**SetCoLa: High-Level Constraints for Graph Layout**](http://idl.cs.washington.edu/papers/setcola) by Jane Hoffswell, Alan Borning, and Jeffrey Heer describes a domain-specific language for customized graph layouts for social networks, etc. The idea is to define sets of nodes based on attributes, then define constraints on them (especially for hierarchy). A number of different constraints and layouts are possible (like trees, circles, etc.). In typical UW IDL fashion, the [source code is available](https://github.com/uwdata/setcola) and there's even an [online playground](https://uwdata.github.io/setcola/) where you can try out some of the provided examples or build your own graphs right in the browser.
 
@@ -44,7 +44,7 @@ I'm also throwing in a poster here that I liked: [**An Eye-Tracking Study on Spa
 
 ## Capstone: Daniel Sýkora
 
-<p align="center"><img class="aligncenter size-full wp-image-10700" src="https://media.eagereyes.org/wp-content/uploads/2018/06/style-transfer.jpeg" alt="" width="1000" height="301" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/06/style-transfer.jpeg" alt="" width="1000" height="301"/></figure>
 
 Sýkora works in an area called style transfer, which allows you to transfer the style of a painting or drawing to a new image (the image is not his, I got it from [this Medium post](https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd)). This has been done for a while now, but many approaches are sort of shallow and don't create very compelling images (that have light and shadow in the right spots, etc.). Sýkora's talk went into excruciating levels of detail on how to do this right, but his examples were quite fascinating. It's also interesting to see how artists are both interested in this work for training (to learn shading, etc.) but also worried that they might irrelevant.
 

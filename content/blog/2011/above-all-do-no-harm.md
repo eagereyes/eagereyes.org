@@ -1,4 +1,4 @@
-<p align="center">[<img src="https://media.eagereyes.org/media/2011/soccer-teaser.jpg" alt="" width="600" height="200" />](/criticism/above-all-do-no-harm)</p>
+<figure><a href="/criticism/above-all-do-no-harm"><img src="https://media.eagereyes.org/media/2011/soccer-teaser.jpg" alt="" width="600" height="200"/></a></figure>
 
 # Above All, Do No Harm!
 
@@ -8,11 +8,11 @@ Heatmaps and 3D pie charts are often criticized, and for good reason. But they'r
 
 [Moritz Stefaner](http://well-formed-data.net/) [tweeted](https://twitter.com/moritz_stefaner/status/105029152993845249) about this chart on the weekend, and he did not like it.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/soccer-moritz.png" alt="" width="600" height="220" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/soccer-moritz.png" alt="" width="600" height="220"/></figure>
 
 The [image in question](http://www.spiegel.de/fotostrecke/fotostrecke-71846-2.html) was posted as part of an article in German magazine *Der Spiegel*. The point of it is to show the strategy of Dutch soccer player Arjen Robben in a particular match against Germany.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/soccer-heatmap.jpg" alt="" width="600" height="448" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/soccer-heatmap.jpg" alt="" width="600" height="448"/></figure>
 
 The image caption claims that it shows where he spent most of his time during the game, and even lets you see his movements.
 

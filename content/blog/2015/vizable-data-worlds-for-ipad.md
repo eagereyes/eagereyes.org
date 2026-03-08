@@ -6,11 +6,11 @@ Vizable is built on the idea of *data worlds*, which depend on the type of data 
 
 Each of the worlds represents a playground to work with a specific type of primary data, like time and categories (for now). The way the data is shown in each is likely to allow you to answer most questions: bars for categories, lines with histograms for time series, per-category histograms for measures other than count, etc.
 
-<p align="center"><img class="aligncenter size-full wp-image-9010" src="https://media.eagereyes.org/wp-content/uploads/2015/10/vizable-categories.jpg" alt="vizable-categories" width="660" height="406" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/vizable-categories.jpg" alt="vizable-categories" width="660" height="406"/></figure>
 
 A single view of data would be pretty boring, and no different from lots of other charting tools in the AppStore. What sets Vizable apart is the [rich set of interactions](http://vizable.tableau.com/how-to). You can filter, add columns to compare, zoom into time in really interesting ways, etc. Filters work across worlds, so you can switch back and forth between them and look at your data in different worlds.
 
-<p align="center"><img class="aligncenter size-full wp-image-9009" src="https://media.eagereyes.org/wp-content/uploads/2015/10/vizable-time.jpg" alt="vizable-time" width="660" height="406" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/vizable-time.jpg" alt="vizable-time" width="660" height="406"/></figure>
 
 Vizable was built specifically for touch. How do you filter using touch? How about inclusion versus exclusion filters? How do you work with multiple measures at the same time? How do you sort? How do you drill down into hierarchical categories? How do you navigate a time series? Etc.
 

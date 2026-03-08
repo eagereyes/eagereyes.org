@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/broadstreetmap.png" alt="Snow's Broad Street Map (detail)" width="560" height="283" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/broadstreetmap.png" alt="Snow" width="560" height="283"/></figure>
 
 # Review: Steven Johnson, The Ghost Map
 

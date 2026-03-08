@@ -6,7 +6,7 @@ About 100 attendees, three keynotes, five short talks, demos, discussions, food,
 
 Conference hotels tend to all look the same: nondescript, badly lit, depressing ballrooms, terrible acoustics, and just way too many rooms with names that all sound the same.
 
-<p align="center"><img class="aligncenter size-full wp-image-2453" alt="Tapestry Union Station Hotel Nashville" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-union-station-hotel-nashville.jpg" width="600" height="401" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-union-station-hotel-nashville.jpg" alt="Tapestry Union Station Hotel Nashville" width="600" height="401"/></figure>
 
 Not the [Union Station Hotel Nashville](http://www.unionstationhotelnashville.com), though. It’s a former train station has been turned into a hotel, and it’s simply beautiful. It has been renovated very well, with lots of nice little touches, like a time table from the 1930s, etc.
 
@@ -16,7 +16,7 @@ In order to foster discussions, not just talks, we had generous breaks, a long l
 
 ## Jonathan Corum
 
-<p align="center"><img class="aligncenter size-full wp-image-2447" alt="tapestry Jonathan Corum" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-jonathan-corum.jpg" width="600" height="401" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-jonathan-corum.jpg" alt="tapestry Jonathan Corum" width="600" height="401"/></figure>
 
 I’ve been a fan of Jonathan Corum’s work at *The New York Times* for a while, in particular since [he won the *Best of Show* award at Malofiej last year](/journalism/malofiej-20) for his Guantanamo Bay graphic. I was delighted that we were able to convince him to give the first keynote at a time when many of the details of the conference were still a bit undetermined.
 
@@ -44,7 +44,7 @@ Cheryl’s [talk video](http://youtu.be/EWeXoqELzqY) and [slides](http://prezi.c
 
 ### Nigel Holmes, *Why 29 Is Such A Stunning Number*
 
-<p align="center"><img class="aligncenter size-full wp-image-2448" alt="tapestry Nigel Holmes" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-nigel-holmes.jpg" width="600" height="401" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-nigel-holmes.jpg" alt="tapestry Nigel Holmes" width="600" height="401"/></figure>
 
 The grandmaster of explanation graphics, [Nigel Holmes](/blog/2012/nigel-holmes), gave perhaps the most entertaining and impressive short talk. His focus was on providing context and making the reader understand the magnitude of a number. He gave a fantastic demonstration of [Bob Beamon’s](http://en.wikipedia.org/wiki/Bob_Beamon) long jump world record in 1968, of over 29ft (about 8.9m), which he held for 22 years. The number doesn’t make people understand the magnitude of that feat, however, so Nigel demonstrated just how far that is. It was a fun and impressive demonstration.
 
@@ -66,13 +66,13 @@ Bryan’s [talk video is available](http://youtu.be/2_3X-MhS5t0), as are [his sl
 
 While the lunch was a great opportunity to talk to people, and the food was fantastic, it would otherwise not be something I’d include in a conference report. But I’m making an exception to mention our special guest.
 
-<p align="center"><img class="aligncenter size-full wp-image-2452" alt="Tapestry Stephanie Quayle" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-stephanie-quayle.jpg" width="600" height="401" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-stephanie-quayle.jpg" alt="Tapestry Stephanie Quayle" width="600" height="401"/></figure>
 
 Country singer [Stephanie Quayle](http://www.stephaniequayle.com) entertained us with classic, Nashville-style country music. While I’m not a huge fan of that kind of music, I was very impressed by her humor. Between songs, she told jokes that all had data as the punchline, even though they obviously had nothing at all to do with data. But she made them work.
 
 ## Robert Kosara
 
-<p align="center"><img class="aligncenter size-full wp-image-2449" alt="Tapestry Robert Kosara" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-robert-kosara.jpg" width="600" height="401" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-robert-kosara.jpg" alt="Tapestry Robert Kosara" width="600" height="401"/></figure>
 
 After lunch, it was my turn. I spoke about the differences between visualization and visual stories, in particular when it comes to narrative. But just because we're telling a story doesn't mean we can ignore what we have learned in visualization research, so I spoke about information scent and the use of interaction. I think the talk worked well to build a bridge between the other two keynotes and to provide a connection with the academic research done in information visualization. I got a good number of comments and people who disagreed with me, which is always a good sign.
 
@@ -80,7 +80,7 @@ The [video of my talk is here](http://youtu.be/qSYEjhR2AwQ), and [the slides are
 
 ## Scott McCloud
 
-<p align="center"><img class="aligncenter size-full wp-image-2451" alt="Tapestry Scott McCloud" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-scott-mccloud.jpg" width="600" height="401" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-scott-mccloud.jpg" alt="Tapestry Scott McCloud" width="600" height="401"/></figure>
 
 [Scott McCloud](http://scottmccloud.com) is the author of *Understanding Comics* and *Making Comics*, two great books on comics that contain a lot of useful information for any kind of visual storytelling. As odd of a choice as he might seem for a conference on storytelling with data, he provided the perfect closing to the day. Not only is he an incredibly energetic and interesting speaker, but he has thought about how we read images and sequences of images in a much deeper way than most other people.
 
@@ -92,7 +92,7 @@ Unfortunately, we were not able to record Scott’s talk.
 
 I should be reluctant to praise the conference, since I was one of the organizers; but I think we really succeeded in bringing together a very diverse set of people, who nevertheless had a clear common interest and shared many ideas. Some of the topics that came up in many talks and in the conversations included the difference between visualization and explanation, the importance of context, focusing a story (the *nut graf*) rather than just providing all the data and letting the reader figure it out, etc.
 
-<p align="center"><img class="aligncenter size-full wp-image-2467" alt="Tapestry People" src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-people.jpg" width="600" height="401" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/07/tapestry-people.jpg" alt="Tapestry People" width="600" height="401"/></figure>
 
 Throughout the day, and already on the evening before, where we had a little reception, there was an amazing energy. I didn’t see anybody stand around by themselves, everybody was engaged in discussions, demos, etc. There was an effortless mixing of academics, journalists, designers, and others, that I haven’t seen happen quite that well elsewhere. It it wasn’t clear before, that really drove the point home: we’re onto something here.
 

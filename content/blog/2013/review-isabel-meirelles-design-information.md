@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-full wp-image-2675" src="https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg" alt="Treemap explanation by Isabel Meirelles" width="416" height="250" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg" alt="Treemap explanation by Isabel Meirelles" width="416" height="250"/></figure>
 
 # Review: Isabel Meirelles, Design for Information
 
@@ -18,7 +18,7 @@ Perhaps my favorite part of the book are the little diagrams that explain visual
 
 Some of the examples also have a nicely structured list of meta-data, some of which is connected to the visualization with arrows. It sounds simple, and it is, but it’s very effective. Unfortunately, these are mostly done in the beginning of the book and trail off later. But the format is great, and I hope others will <del>steal</del> borrow it.
 
-<p align="center"><img class="aligncenter size-full wp-image-2675" src="https://media.eagereyes.org/wp-content/uploads/2013/10/DSCF0364.jpg" alt="Treemap explanation by Isabel Meirelles" width="450" height="450" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/DSCF0364.jpg" alt="Treemap explanation by Isabel Meirelles" width="450" height="450"/></figure>
 
 There is an assumption that because you can see the visualization, there is no need for a lot of explanation, and in particular not for detailed or diagrammatic explanations. But I don’t get why that would be the case. Sure, a good visualization should be fairly self-explanatory, but there is also a lot of subtlety. And many visualizations take a bit of work to read. Meirelles shows how this can be done in a way that helps the reader understand without getting in the way or trying to explain the obvious.
 

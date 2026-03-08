@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/spiral-teaser.png" alt=""/></p>
+<figure><img src="https://media.eagereyes.org/media/2011/spiral-teaser.png" alt=""/></figure>
 
 # Spirals for Periodic Data
 
@@ -38,7 +38,7 @@ First, try it out for yourself! It takes only a few minutes to get the hang of i
 
 Implementing the prototype was a bit less straight-forward than it may appear (and than I expected). One of the variables that I found to be important early on is the line width. When the period changes, so does the distance between the spiral arms. A constant line width means gaps between the lines, making comparison very difficult. Without keeping the line width in sync with the distance between the spiral arms, the rectangular version clearly wins.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2011/twospirals.png" width="600" height="300" alt="spiral variations"/></p>
+<figure><img src="https://media.eagereyes.org/media/2011/twospirals.png" alt="spiral variations" width="600" height="300"/></figure>
 
 The rectangular visualization also has its challenges, though. The implementation above tries to use the space without distorting the individual rectangles too much. It will squeeze the height to fit them into the space it has, but not make them higher than a square. Not restricting the height leads to much more difficult comparison between the rows, without any perceivable advantage from filling the space.
 
@@ -52,6 +52,6 @@ There are more variables to play with, like the scaling of values, using bars in
 
 What this shows, however, is that there is a clear need to question assertions and assumptions, even ones that have been repeated in the literature multiple times. In this case, I don't think that a controlled user study would reveal a lot of additional information; just trying it out for yourself is enough to see it.
 
-<hr class="wp-block-separator"/>
+---
 
 As a side note, it's also interesting to compare implementations. Carlis and Konstan report that their prototype consisted of 11,000 lines of Tcl and C code, and used OpenGL for rendering. In comparison, my spiral implementation using Protovis fits into about 20 lines of JavaScript, plus a bit of HTML. Carlis and Konstan admittedly provide an insane amount of customization in their interface, but it's still neat to be able to do things so much more quickly and just run them in the browser.

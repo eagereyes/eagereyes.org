@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg" width="772" height="250" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg" width="772" height="250"/></figure>
 
 # Paper: Skipping the Replication Crisis in Visualization
 
@@ -14,6 +14,6 @@ One reason why replications are hard to publish in our literature is that they a
 
 The paper will be presented at [BELIV](https://beliv-workshop.github.io), which is part of IEEE VIS, on Sunday, October 21. We're in the first paper session after the keynote, and Steve also has a related paper in the session after that one. Even if you're not coming to VIS, you can click the link below to read the paper.
 
-<hr class="wp-block-separator is-style-wide"/>
+---
 
 Robert Kosara, Steve Haroz, [*Skipping the Replication Crisis in Visualization: Threats to Study Validity and How to Address Them*](/publications/Kosara-BELIV-2018), BELIV 2018.

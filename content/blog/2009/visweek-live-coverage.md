@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/visweektweet.png" border="0" alt="VisWeek Tweet" width="560" height="126" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/visweektweet.png" alt="VisWeek Tweet" width="560" height="126"/></figure>
 
 # VisWeek Preview: Live Coverage
 

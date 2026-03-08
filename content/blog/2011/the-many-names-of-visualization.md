@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/nametag.jpg" alt="" width="600" height="120" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/nametag.jpg" alt="" width="600" height="120"/></figure>
 
 # The Many Names of Visualization
 

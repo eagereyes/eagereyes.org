@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/swivel2.jpg" alt="" width="560" height="303" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/swivel2.jpg" alt="" width="560" height="303"/></figure>
 
 # Swivel, Part 2: Solving A Single Problem
 

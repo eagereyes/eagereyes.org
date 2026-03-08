@@ -8,13 +8,13 @@ The idea of *[gamification](http://en.wikipedia.org/wiki/Gamification)* is hard 
 
 Diakopoulos' *[Salubrious Nation](http://www.salubriousnation.com/)* project attempts to lure people into thinking about data by presenting it as a game. A map presents demographic data about every county in the 48 states of the continental U.S. The system picks one county at random and asks the player to guess a public health statistic about it, like binge drinking, teenage pregnancies, etc. There are two types of interaction: the user can mouse over any county to see demographic data about it (population, poverty rate, life expectancy, etc.), and a slider at the top to enter the player's guess.
 
-<p align="center"><img class="aligncenter size-full wp-image-1869" title="Salubrious Nation" src="https://media.eagereyes.org/wp-content/uploads/2012/04/salubrious.png" alt="" width="600" height="483" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/04/salubrious.png" alt="" width="600" height="483"/></figure>
 
 The clever thing about the slider is not only that it indicates the national average as a reference, but that the map responds to it. As the player moves the slider, the counties' colors change depending on whether their value of the statistic is above or below the player's guess. That makes for some interesting comparisons, as the player can either choose to pick a local neighborhood to compare with or pick a county with similar demographics as the reference. Once the guess is submitted, the actual numbers is shown and the player is awarded points depending on how close he or she got to the real value.
 
 After going through eight different questions, with a different county for each, the results are presented as a histogram with some information for the user not just about the total points but also how well he or she did in comparison to other players. I'm a bit mystified why the player's score isn't indicated directly in the histogram though, that would obviously make a lot of sense.
 
-<p align="center"><img class="aligncenter size-full wp-image-1868" title="salubrious-score" src="https://media.eagereyes.org/wp-content/uploads/2012/04/salubrious-score.png" alt="" width="600" height="135" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/04/salubrious-score.png" alt="" width="600" height="135"/></figure>
 
 The results of this work were presented as [a paper at the CHI 2011 conference](http://www.nickdiakopoulos.com/playable-data/). There are some interesting findings in there, like the (expected) higher interest and engagement when there was a game component as opposed to a more undirected presentation, but also the (unexpected) issue that the game aspect took people's attention away from the actual data. The game version did lead to more reported insights, however. Picking the right amount of game pressure seems like a delicate balancing act between providing incentives and making the experience enjoyable and turning the data into a mere backdrop for a little game.
 

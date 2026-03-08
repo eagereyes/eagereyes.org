@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter" alt="" src="https://media.eagereyes.org/media/attachments/salavon_american_varietal_38.jpg" width="600" height="150" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/salavon_american_varietal_38.jpg" alt="" width="600" height="150"/></figure>
 
 # A Tale of Two Types of Visualization and Much Confusion
 
@@ -10,7 +10,7 @@ This discussion is based on a [recent paper](/publications/Kosara-IV-2007) by yo
 
 The image below shows data about the people on board the Titanic using a technique called [Parallel Sets](/parallel-sets). Knowing something about that disaster, and being able to read the labels, it is fairly easy to find out what is being shown, understand the visualization method, and learn something about the data (e.g., the relative chances of men and women to survive). And even if understanding this requires some work and experience, the goal of this method is to communicate the data, as efficiently as possible. There are many other visualizations of this data that show different aspects more or less effectively.
 
-<p align="center"><img class="aligncenter" title="Parallel Sets showing the Titanic dataset" alt="Parallel Sets showing the Titanic dataset" src="https://media.eagereyes.org/media/attachments/parsets3.png" width="413" height="430" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/parsets3.png" alt="Parallel Sets showing the Titanic dataset" width="413" height="430"/></figure>
 
 If a visualization is designed to visually represent data, and to do that in such a way as to gain new insights into that data, it shall be called a *pragmatic visualization*. The basic idea is that using the human visual system (instead of automatic means like data mining or statistics), we can gain insight into data, and develop an understanding of the data and the structures in it. To determine whether a visualization is pragmatic, we simply ask if it allows us to efficiently read the data (or at least the relationships between subsets) from the display.
 
@@ -18,7 +18,7 @@ If a visualization is designed to visually represent data, and to do that in suc
 
 Artists also use visual means to show data, but do that in a different way. When media artists make what Manovich calls data art, they are usually much more interested in the data than in the visual representation. What these projects have in common is that they use visual representation, but not in the pragmatic sense. Their main goal is to show an idea or alert the viewer to the fact that all communication is (at least potentially) being monitored. The visual means to do this are fairly simple, though. Even more, one might ask why they use visual means of representation in the first place, when the actual work is really mainly a conceptual one. Are they trying to pretty things up?
 
-<p align="center"><img class="aligncenter" title="theyrule.net" alt="theyrule.net" src="https://media.eagereyes.org/media/attachments/theyrule.png" width="598" height="328" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/theyrule.png" alt="theyrule.net" width="598" height="328"/></figure>
 
 The website [theyrule](http://theyrule.net/)
 is a prime example for this. The point of that website is to collect data about the boards of directors of American companies, showing the many ways these companies are connected by having the same people on their boards, or people who know each other from being on the same boards of some other companies.

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/abel-callahan.jpg" width="760" height="487" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/abel-callahan.jpg" width="760" height="487"/></figure>
 
 # Review: Putting Stories to Work and Out On the Wire
 

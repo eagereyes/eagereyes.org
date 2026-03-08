@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/empty-frame.jpg" alt="" width="560" height="374" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/empty-frame.jpg" alt="" width="560" height="374"/></figure>
 
 # Visualization Without Pictures
 

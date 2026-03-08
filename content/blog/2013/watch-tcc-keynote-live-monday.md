@@ -8,7 +8,7 @@ The entire keynote will be about two hours long. It starts with a 45-minute pres
 
 That’s where I come in, as one of the developers: I will be showing a very cool new feature. Chris will talk about the bigger vision for each of the features we demo.
 
-<p align="center"><img class="aligncenter size-full wp-image-2605" alt="TCC Developers on Stage" src="https://media.eagereyes.org/wp-content/uploads/2013/09/tcc-devs-on-stage.jpg" width="600" height="354" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/tcc-devs-on-stage.jpg" alt="TCC Developers on Stage" width="600" height="354"/></figure>
 
 [Here’s the link again](http://www.ustream.tv/recorded/39494039), as well as the times on Monday when the keynote starts in different time zones (don't expect it to start exactly on time, though, we might be a few minutes late).
 

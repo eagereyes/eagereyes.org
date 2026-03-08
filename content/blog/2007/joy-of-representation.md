@@ -1,6 +1,6 @@
 # The Joy of Representation
 
-<p align="center"><img title="Kaboom! by PES" src="https://media.eagereyes.org/media/attachments/kaboom.jpg" alt="Kaboom! by PES" width="600" height="221" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/kaboom.jpg" alt="Kaboom! by PES" width="600" height="221"/></figure>
 
 When peanuts are bombs, clown-shaped cake ornaments are muzzle fires, and young guys are skateboards, we are talking about representation. We take it for granted that words can refer to things or abstract concepts, and colored spots on a piece of paper can depict data. Representation is really quite remarkable, and a better understanding of it will make a big difference in how we build visualizations.
 
@@ -10,7 +10,7 @@ The images above are taken from the brilliant short movie [*Kaboom!*](http://www
 
 Another example is this painting by David Bailley, titled *[Self-Portrait with Vanitas Symbols](http://www.wga.hu/frames-e.html?/html/b/bailly/selfport.html)*.
 
-<p align="center"><img title="David Bailly, Self-Portrait with Vanitas Symbols" src="https://media.eagereyes.org/media/attachments/BaillyVanitas.jpg" alt="David Bailly, Self-Portrait with Vanitas Symbols" width="600" height="438" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/BaillyVanitas.jpg" alt="David Bailly, Self-Portrait with Vanitas Symbols" width="600" height="438"/></figure>
 
 While painted in a realistic style, the depicted objects are not just there because they happened to be lying around on his desk (which might be the case in a photograph). Instead, they are symbols for *[vanitas](http://en.wikipedia.org/wiki/Vanitas)*, the emptiness and transience of life. The skull, the blown out candle, the soap bubbles, the hourglass, even the flowers symbolize this. There are also references to his profession (the palette), fortune (pearls, coins), and hobbies (pipe).
 
@@ -56,9 +56,9 @@ The images below show different kinds of representation in visualization. They w
 <table width="100%" border="0">
 <tbody>
 <tr valign="top">
-<td><img title="Titanic by Brandejsky, Buturovic, Kilzer" src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Brandejsky_Buturovic_Kilzer.jpg" alt="Titanic by Brandejsky, Buturovic, Kilzer" width="200" height="137" /></td>
-<td><img title="Titanic by Dabrowski, Jakl, May" src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Dabrowski_Jakl_May.png" alt="Titanic by Dabrowski, Jakl, May" width="199" height="200" /></td>
-<td><img title="Titanic by Cech, Schauer, Scholz" src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Cech_Schauer_Scholz.png" alt="Titanic by Cech, Schauer, Scholz" width="200" height="158" /></td>
+<td><img src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Brandejsky_Buturovic_Kilzer.jpg" alt="Titanic by Brandejsky, Buturovic, Kilzer" width="200" height="137"/></td>
+<td><img src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Dabrowski_Jakl_May.png" alt="Titanic by Dabrowski, Jakl, May" width="199" height="200"/></td>
+<td><img src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Cech_Schauer_Scholz.png" alt="Titanic by Cech, Schauer, Scholz" width="200" height="158"/></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-teaser.png" alt="" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-teaser.png" alt="" width="825" height="510"/></figure>
 
 # The Island of Knowledge and the Shoreline of Wonder
 
@@ -14,13 +14,13 @@ He started the talk with questions his kids ask him, like one from his 7-year-ol
 
 Alberto then went through some explanations, at the end of which he drew an interesting comparison: he likened the momentum of a planet’s rotation to the way answers can set his daughter’s mind in motion to produce more questions. Both keep spinning unless there’s a force to slow them down.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8611" src="https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-motion-660x495.jpg" alt="Alberto Cairo, setting things in motion" width="660" height="495" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-motion-660x495.jpg" alt="Alberto Cairo, setting things in motion" width="660" height="495"/></figure>
 
 I particularly like the succinct way he put it: *Good answers lead to more good questions*. That sounds a lot like data analysis to me. And also to science. It’s quite satisfying to see a unifying theme between explanation and analysis: curiosity.
 
 More knowledge leading to more questions is a fascinating idea. Cairo uses a quote by Ralph W. Sockman (also the basis for [a book by Marcelo Gleiser](http://marcelogleiser.com/books/the-island-of-knowledge)), *The larger the island of knowledge, the longer the shoreline of wonder.* The island of knowledge is surrounded by an infinite *sea of mystery*. As the island grows, so does its shoreline, which is where wonder and new ideas happen.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8609" src="https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-island-of-knowledge-660x496.png" alt="Alberto Cairo, the island of knowledge" width="660" height="496" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-island-of-knowledge-660x496.png" alt="Alberto Cairo, the island of knowledge" width="660" height="496"/></figure>
 
 I love this because it describes exactly the way science works. More knowledge always leads to more questions. Curiosity feeds itself. And it goes contrary to the idea that science takes away the mystery or beauty of nature by explaining things.
 

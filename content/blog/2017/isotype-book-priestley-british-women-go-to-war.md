@@ -8,13 +8,13 @@ This is perhaps the oddest book with an ISOTYPE illustration, certainly of the o
 
 There are 49 *colour photographs* showing women performing many different tasks, many of them military-related. There are women assembling grenades, riveting airplane fuselages, servicing engines, etc., but also doing actual military work, like handling barrage balloons, operating airplane spotting equipment, etc.
 
-<p align="center"><img class="aligncenter size-full wp-image-9995" src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0303.jpg" alt="" width="660" height="459" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0303.jpg" alt="" width="660" height="459"/></figure>
 
 ## The ISOTYPE Chart
 
 The front and back inside covers contain the same ISOTYPE chart. It is never referred to in the text (though neither are the photos, they're just listed in a separate table of contents). And it is quite confusing.
 
-<p align="center"><img class="aligncenter size-full wp-image-9993" src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0295.jpg" alt="" width="660" height="415" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0295.jpg" alt="" width="660" height="415"/></figure>
 
 Unlike most other ISOTYPE charts, this one is almost completely incomprehensible without reading the legend. And even then, there are still open questions.
 

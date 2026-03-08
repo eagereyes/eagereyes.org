@@ -6,7 +6,7 @@ Much has been made of Tufte’s famous data-ink ratio, and many people like to r
 
 While this extremely reduced definition makes for great flame war fuel, it places the emphasis on the wrong question, and when property followed, leads to largely nonsensical charts (this example is from [Stephen Few’s recreation of Tufte’s argument](http://www.perceptualedge.com/articles/visual_business_intelligence/sometimes_we_must_raise_our_voices.pdf)).
 
-<p align="center"><img class="aligncenter size-full wp-image-2267" alt="Minimal Bars" src="https://media.eagereyes.org/wp-content/uploads/2013/03/minimal-bars.png" width="575" height="386" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/03/minimal-bars.png" alt="Minimal Bars" width="575" height="386"/></figure>
 
 The first issue is the whole notion of *ink*. What does that even mean? If you live in a world of black ink on white paper, that may be a reasonable criterion. But add color and the whole thing breaks down. Color can be used well and can be terrible. Reducing ink does not tell us anything about that. The same is true for interactions like mouse-overs, sorting, and other conveniences our modern visualization machines afford us.
 

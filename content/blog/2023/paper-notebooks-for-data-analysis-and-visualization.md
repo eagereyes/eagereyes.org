@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png" width="600" height="547" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png" width="600" height="547"/></figure>
 
 # Paper: Notebooks for Data Analysis and Visualization
 
@@ -10,6 +10,6 @@ This is an invited piece for the *Graphically Speaking* column in CG&amp;A, and 
 
 [The paper](/publications/Kosara-CGA-2023) talks about what notebooks are, where I see their strengths (and some weaknesses!), and in particular where I see opportunities for research. What I don't discuss in the paper, since it wasn't as big a hype when I wrote it as it is now, is that notebooks are also pretty ideal for exploring the current wave of AI tools, in particular ChatGPT and similar. But whether it's old-fashioned data analysis and visualization, financial or other modeling combined with analysis, or exploring AI models, I think there's a large research space here that is largely untapped.
 
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
+---
 
 Robert Kosara, [Notebooks for Data Analysis and Visualization: Moving Beyond the Data](/publications/Kosara-CGA-2023), *Computer Graphics &amp; Applications (CG&amp;A)*, vol. 43, no. 1, pp. 91-96, 2023.

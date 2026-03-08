@@ -1,4 +1,4 @@
-<p align="center"><img title="Representational Mug" src="https://media.eagereyes.org/media/attachments/Guggenheim_Mug.jpg" alt="Representational Mug" width="500" height="429" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/Guggenheim_Mug.jpg" alt="Representational Mug" width="500" height="429"/></figure>
 
 # Representational Mug
 

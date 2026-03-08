@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/Dasgupta-InfoVis-2010.png" alt="" width="560" height="290" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/Dasgupta-InfoVis-2010.png" alt="" width="560" height="290"/></figure>
 
 # Pargnostics: Screen-Space Metrics for Parallel Coordinates
 

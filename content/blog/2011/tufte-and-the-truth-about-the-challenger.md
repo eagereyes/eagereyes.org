@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/challenger.jpg" alt="" width="600" height="300" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/challenger.jpg" alt="" width="600" height="300"/></figure>
 
 # Tufte and the Truth about the Challenger
 

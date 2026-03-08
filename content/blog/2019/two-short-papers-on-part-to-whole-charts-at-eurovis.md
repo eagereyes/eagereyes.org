@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png" width="660" height="454" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png" width="660" height="454"/></figure>
 
 # Two Short Papers on Part-to-Whole Charts at EuroVis
 
@@ -16,7 +16,7 @@ The visualization community may not like pie charts, but in the real world theyâ
 
 The two papers very much belong together, you could almost call them two parts of a single paper. I canâ€™t confirm or deny that they were a single paper at some point and may have gone through several rounds of review (and rejection) over several years.
 
-<hr class="wp-block-separator is-style-wide"/>
+---
 
 Robert Kosara, [Circular Part-to-Whole Charts Using the Area Visual Cue](/publications/Kosara-EuroVis-2019a), *EuroVis Short Papers*, 2019
 

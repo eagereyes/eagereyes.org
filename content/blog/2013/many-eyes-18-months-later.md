@@ -34,7 +34,7 @@ They’ve also missed a few deadlines. There was a semi-official date of March f
 
 Below is an update of the data I published in February 2012. The first chart is a simple extension of the one I showed last year, with the number of visualizations created per week.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/visualizations-per-week.png" width="599" height="399" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/visualizations-per-week.png" width="599" height="399"/></figure>
 
 It is interesting to note the precipitous drop in early May 2012. The number of new visualizations created dropped from around 1,000 per week to around 500. It later recovered a bit, but then started to drop again, though more slowly.
 
@@ -44,17 +44,17 @@ Last year, I wrote:
 
 Was I right? Of course I was, would I mention it if I wasn’t? Here is the number of visualizations per year.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/visualizations-per-year.png" width="599" height="399" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/visualizations-per-year.png" width="599" height="399"/></figure>
 
 2012 had about 3,300 fewer visualizations posted than 2011, for a decline of almost 10%. Does the trend continue, or is it a fluke? Let’s look at just the first eight months of each year, so we can add 2013 to the comparison.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/new-through-august.png" width="599" height="399" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/new-through-august.png" width="599" height="399"/></figure>
 
 That is more than a 25% decline compared to last year, and almost 30% from the peak in 2011. If the new version of Many Eyes isn’t released before the end of the year, 2013 will likely end up with fewer new visualizations than 2010.
 
 Bizarrely, the number of datasets kept increasing and was actually a bit higher in 2012 than 2011. Looking at only January through August again, we can see that the number is about 15% lower this year, though.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/datasets-through-august.png" width="599" height="399" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/datasets-through-august.png" width="599" height="399"/></figure>
 
 It is a mystery to me why the number of datasets per visualization keeps increasing. At the beginning of last year, there were about 2.7 datasets per visualization; last month, there were over 3.5. Data upload issues don’t really explain this, because those would not change over time.
 

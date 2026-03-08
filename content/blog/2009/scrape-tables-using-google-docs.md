@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2009/11/google-import.png" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2009/11/google-import.png" width="825" height="510"/></figure>
 
 # The Simple Way to Scrape an HTML Table: Google Docs
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020-why.png" width="527" height="396" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020-why.png" width="527" height="396"/></figure>
 
 # An Outsider’s Guide to the IEEE VIS Conference 2020
 
@@ -24,7 +24,7 @@ VisComm takes place on **Sunday**, October 25, from 11:50am to 3:15pm MDT (that 
 
 Similarly, *VisInPractice* is the attempt to make VIS more accessible for people out in the world using visualization, and to bring practitioners to the conference to talk about how they use visualization and how they incorporate research into their work. They’ve been doing this for a few years now and have had some great speakers, and this year is no exception.
 
-<figure class="wp-block-image size-large"><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/visinpractice2020.001.png" alt="" class="wp-image-53756"/></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/visinpractice2020.001.png" alt=""/></figure>
 
 [VisInPractice](https://visinpractice.github.io/) starts on Monday at 10am MDT (9am PDT, 11am CDT, 12pm EDT, 7pm CEST) and runs until the end of the day (3:30pm MDT).
 

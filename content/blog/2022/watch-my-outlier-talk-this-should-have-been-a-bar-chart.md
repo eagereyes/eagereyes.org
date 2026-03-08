@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png" width="897" height="673" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png" width="897" height="673"/></figure>
 
 # Watch My Outlier Talk: This Should Have Been A Bar Chart!
 

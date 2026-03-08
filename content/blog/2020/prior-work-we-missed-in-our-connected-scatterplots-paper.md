@@ -4,7 +4,7 @@ In 2016, Steve Haroz, Steven Franconeri, and I published [a paper on a technique
 
 In four papers published from 1999 through 2003, David Peebles, Peter Cheng, and Nigel Shadbolt looked into charts that might look familiar if you’ve seen our Connected Scatterplot paper. In the figure below, I put together Figure 1 from [Peebles, Cheng, and Shadbolt 1999](https://peebles.sdfeu.org/papers/pee_che_sha1999.pdf) with the teaser/Figure 1 from our paper. Guess which one is which.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/teasers.png" alt="" class="wp-image-44159" width="660" height="660" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/teasers.png" alt="" width="660" height="660"/></figure>
 
 Peebles and Cheng (who are on three of the four papers, Shadbolt is only on one, so I’ll just refer to the two from here) are psychologists, at the time working at the University of Nottingham. [Peebles is now at the University of Huddersfield](https://pure.hud.ac.uk/en/persons/david-peebles/publications/), [Cheng at the University of Sussex](http://users.sussex.ac.uk/~peterch/). I actually must have crossed paths with Peter Cheng many years ago at the *Thinking with Diagrams* workshop and *Diagrams* conference in the late 90s and early 2000s.
 
@@ -36,7 +36,7 @@ I’m not actually sure where the term *connected scatterplot* even originates. 
 
 But either way, we should have been aware of this work as a matter of principle. It’s also sad to be missing several papers done by fellow travelers on such an obscure topic. It turns out we weren’t the only ones thinking about these crazy charts – or the first ones.
 
-<hr class="wp-block-separator"/>
+---
 
 Peebles, D., Cheng, P. C.-H., &amp; Shadbolt, N. R. (1999). [Multiple processes in graph-based reasoning](https://peebles.sdfeu.org/papers/pee_che_sha1999.pdf). In M. Hahn, &amp; S. C. Stoness (Eds.). *Proceedings of the Twenty First Annual Conference of the Cognitive Science Society*. Mahwah, NJ : Lawrence Erlbaum. 
 

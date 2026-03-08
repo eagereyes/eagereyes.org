@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" border="0" alt="Budget" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" alt="Budget"/></figure>
 
 # The Visual Display of Relevant Information
 

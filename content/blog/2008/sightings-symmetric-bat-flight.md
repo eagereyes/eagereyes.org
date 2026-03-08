@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/Sightings-BatFlight.jpg" border="0" alt="Sightings: Symmetric Bat Flight" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/Sightings-BatFlight.jpg" alt="Sightings: Symmetric Bat Flight"/></figure>
 
 # Sightings: Symmetric Bat Flight
 

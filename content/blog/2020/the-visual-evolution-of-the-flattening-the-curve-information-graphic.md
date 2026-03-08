@@ -4,7 +4,7 @@ Communication has been quite a challenge during the COVID-19 pandemic, and data 
 
 ## The Cartoon
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/Covid-19-curves-graphic-social-v3.gif" alt="" class="wp-image-13637" width="680" height="428" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/Covid-19-curves-graphic-social-v3.gif" alt="" width="680" height="428"/></figure>
 
 The information graphic was created by epidemiologist Dr. Siouxsie Wiles and illustrator Toby Morris [for the New Zealand publication *The Spinoff*](https://thespinoff.co.nz/society/09-03-2020/the-three-phases-of-covid-19-and-how-we-can-make-it-manageable/). I think it's fair to call this a cartoon, and I mean that in the best possible way.
 
@@ -22,15 +22,15 @@ If you want to get technical, there are also annotations on the chart: the line 
 
 It's quite interesting to trace the history of this chart through a number of different stages. One early version looked like this, from [a paper by Kelso et al. in *BMC Public Health*,](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-9-117) published in 2009. It shows the results of simulations for different vales of *R<sub>0</sub>*, which is the rate at which diseases spread between people. That value can be reduced by closing schools, etc., which is shown on the left here compared to not taking action on the right.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/image-1.png" alt="" class="wp-image-13632" width="600" height="261" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/image-1.png" alt="" width="600" height="261"/></figure>
 
 The rest happened very quickly. [Fong et al.](https://wwwnc.cdc.gov/eid/article/26/5/19-0995_article) combined the two curves into one chart, which made the difference more apparent. This paper is still only pre-published in the May 2020 issue of the *Emerging Infectious Diseases* publication by the CDC (though as [David Napoli points out on Twitter](https://twitter.com/Biff_Bruise/status/1239407516393463809?s=20), a similar chart [was published by the CDC in 2007](https://www.cdc.gov/mmwr/volumes/66/rr/rr6601a1.htm#F1_down)).
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/19-0995-F1.jpg" alt="" class="wp-image-13630" width="450" height="229" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/19-0995-F1.jpg" alt="" width="450" height="229"/></figure>
 
 [Dalton et al.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3549276) then added another crucial element, the conceptual line showing healthcare system capacity. This has a publication date of March 5, 2020, on SSRN (which appears to be a sort arXiv for social sciences research).
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/image.png" alt="" class="wp-image-13631" width="450" height="229"/></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/image.png" alt="" width="450" height="229"/></figure>
 
 From here, it's easy to see how this turned into the iconic graphic (there's also some interesting backstory in [this *Fast Company* piece](https://www.fastcompany.com/90476143/the-story-behind-flatten-the-curve-the-defining-chart-of-the-coronavirus)). However, I don't think it would haven been nearly as effective without the three simple words *Flatten the Curve* written across the top. I believe we'll be looking back at this as a prime example for effective visual communication for a while.
 
@@ -38,6 +38,6 @@ From here, it's easy to see how this turned into the iconic graphic (there's als
 
 Some of the papers mentioned above are based on simulations. Harry Stevens at the Washington Post has created [a fantastic article with several simple simulations](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) that show different strategies for containing an outbreak and what their effects are. The simulations are easy to follow and I especially love the charts of healthy, infected, and recovered people that build up as the simulations run. 
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/image-2.png" alt="" class="wp-image-13633" width="729" height="465" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/03/image-2.png" alt="" width="729" height="465"/></figure>
 
 Given the current state of testing, especially in the United States, the current data is extremely unreliable. I'm afraid visualizing this low-quality data is not going to be of much use. Simulations and information graphics or cartoons, especially done in a smart and tasteful way like the *Flatten the Curve* cartoon, are a great alternative.

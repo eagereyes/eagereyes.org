@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/richardson-protein.jpg" width="560" height="275" alt="Proteins" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/richardson-protein.jpg" alt="Proteins" width="560" height="275"/></figure>
 
 # A Visual Language for Proteins: Jane Richardson
 
@@ -8,7 +8,7 @@ I find it fascinating to learn that concepts and ideas that I take for granted w
 
 Scientists only figured out how to determine the three-dimensional structure of proteins in the 1970s. When Jane Richardson was writing a review article about the proteins whose structure was known in 1980, she needed a consistent way of showing them. It was clearly not very practical (or useful for understanding) to draw thousands of atoms that were part of a complex, three-dimensional structure.
 
-<img src="https://media.eagereyes.org/media/2010/proteins.jpg" width="475" height="239" alt="Protein as atoms and abstracted" />
+<figure><img src="https://media.eagereyes.org/media/2010/proteins.jpg" alt="Protein as atoms and abstracted" width="475" height="239"/></figure>
 
 There are three distinct structures in a protein: *alpha-helices* (spiral shapes), *beta sheets* (ribbons), and *turns* (the "ropes" in-between). Seeing those in the atom structure (above) is almost impossible, but crucial for understanding how a protein works.
 

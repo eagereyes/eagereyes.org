@@ -14,6 +14,6 @@ A bit of context to some of the things we talk about in the episode:
 - eagereyes is, indeed, over six years old. I wrote [a posting on its fifths birthday last year](/blog/2011/five-years-of-eagereyes), but somehow forgot to do that this year. I registered the domain on August 12, 2004, the first posting is from October 1, 2006 (which is what I consider its birthday). So I screwed around for over a year before settling on the eventual content management system and blog format (I describe early ideas and what I want to do in the podcast).
 - And, of course, xkcd.
 
-[<img class="aligncenter size-full wp-image-2107" title="xkcd: Duty Calls" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png" width="300" height="330" />](http://xkcd.com/386/)
+[<img src="https://media.eagereyes.org/wp-content/uploads/2012/12/duty_calls.png" alt="" width="300" height="330"/>](http://xkcd.com/386/)
 
 But don't forget to [listen to the actual podcast](http://datastori.es/episode-15-with-robert-kosara/)!

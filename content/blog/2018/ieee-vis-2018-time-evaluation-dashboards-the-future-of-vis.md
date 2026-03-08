@@ -12,7 +12,7 @@ Temporal aspects of data are extremely important, in particular when the data is
 
 [*Line Graph or Scatter Plot? Automatic Selection of Methods for Visualizing Trends in Time Series*](http://www.yunhaiwang.org/vis-selection/timeseries.html) by Yunhai Wang, Fubo Han, Lifeng Zhu, Oliver Deussen, and Baoquan Chen asks a pretty basic question: given a noisy time series, is a line chart or scatterplot (really more of a dot plot) the better choice? Noise can make it harder to read line charts because the connecting lines amplify the problem. Their technique is pretty simple, but they find that it matches what people would have chosen in a study.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/transitions.png" alt="" class="wp-image-10905"/><figcaption>Transitions</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/transitions.png" alt=""/><figcaption>Transitions</figcaption></figure>
 
 [*A Vector Field Design Approach to Animated Transitions*](http://home.cse.ust.hk/~ywangct/proj/vf_animation.html) by Yong Wang, Daniel Archambault, Carlos E. Scheidegger, and Huamin Qu looks at how to animate points between time steps in a scatterplot so that they are the easiest to follow. While techniques for this have been proposed in the past, they have not taken the issue of crowding into account, which has recently been shown to be a major factor in being able to follow what is going on. Their new algorithm does, which makes for better transitions between time points.
 
@@ -26,7 +26,7 @@ Figuring out which visualizations and charts work for what data and purpose is a
 
 [*Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication*](https://arjun010.github.io/projects/voder.html) by Arjun Srinivasan, Steven Drucker, Alex Endert, and John Stasko adds a number of facts about the chart a user is looking at in a list. These can be used to explore the data further and use text search to find interesting charts to look at.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/dashboard-clusters.png" alt="" class="wp-image-10904"/><figcaption>Dashboards</figcaption></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/dashboard-clusters.png" alt=""/><figcaption>Dashboards</figcaption></figure>
 
 [*What Do We Talk About When We Talk About Dashboards?*](https://alper.datav.is/publications/dashboards/) by Alper Sarikaya, Michael Correll, Lyn Bartram, Melanie Tory, and Danyel A Fisher argues for the importance of dashboards as a separate and distinct way of using visualization from single views, not just collections of charts. Despite their ubiquity in the real world, dashboards are still largely ignored by visualization researchers. The authors of what they call the *dashboard conspiracy* argue that dashboards are more than the sums of their parts and serve distinct purposes, such as decision-making, awareness building, motivation and learning, and persuasion.
 

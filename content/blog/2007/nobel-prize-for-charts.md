@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg" border="0" width="423" height="243" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg" width="423" height="243"/></figure>
 
 # A Nobel Prize for Charts
 

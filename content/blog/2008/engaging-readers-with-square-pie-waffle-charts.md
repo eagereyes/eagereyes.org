@@ -1,4 +1,4 @@
-<p align="center"><img src="http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg" border="0" /></p>
+<figure><img src="http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg"/></figure>
 
 # Engaging Readers with Square Pie/Waffle Charts
 
@@ -12,7 +12,7 @@ The chart also makes a point: that the savings are a tiny fraction of the debt. 
 
 Kaiser at Junk Charts [criticized the following chart](http://junkcharts.typepad.com/junk_charts/2008/06/the-right-scale.html) (New York Times magazine, April 27, 2008):
 
-<p style="text-align: center;"><img src="https://media.eagereyes.org/media/2008/nytimes-20080427-extracredit-squarepie.jpg" border="0" alt="NYTimes graph on time spent studying for different subjects" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/nytimes-20080427-extracredit-squarepie.jpg" alt="NYTimes graph on time spent studying for different subjects"/></figure>
 
 He offered a bar chart as an alternative, which worked in this case because the values are not that far apart. But it was also as dull as any other chart, with nowhere near the visual interest of the "brick chart."
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/04/tv.jpeg" width="800" height="600" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2021/04/tv.jpeg" width="800" height="600"/></figure>
 
 # The Dearth of Videos about Visualization
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2023/02/vis-course-thumb.png" width="660" height="495" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2023/02/vis-course-thumb.png" width="660" height="495"/></figure>
 
 # Course on Data Vis Fundamentals and Best Practices
 

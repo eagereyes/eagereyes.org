@@ -6,4 +6,4 @@ The paper is available online for free for the next twelve months, along with [a
 
 Among the many interesting tidbits in the paper is this [clever image by Jamie Quinn](https://www.flickr.com/photos/jamiethemapquinn/8966983573/). The subway map to end all subway maps (other than for subways).
 
-<p align="center">[<img class="aligncenter size-medium wp-image-8627" src="https://media.eagereyes.org/wp-content/uploads/2015/01/becksploitation-660x453.jpg" alt="Jamie Quinn" width="660" height="453" />](https://www.flickr.com/photos/jamiethemapquinn/8966983573/)</p>
+<figure><a href="https://www.flickr.com/photos/jamiethemapquinn/8966983573/"><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/becksploitation-660x453.jpg" alt="Jamie Quinn" width="660" height="453"/></a></figure>
