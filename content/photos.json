@@ -1,24 +1,44 @@
 [
     {
-        "slug": "2026-antarctica",
-        "title": "Antarctica 2026",
-        "description": "A journey through the icy landscapes of Antarctica, capturing its unique wildlife and stunning glaciers.",
-        "featuredImage": "https://media.eagereyes.org/photos/2026-antarctica/featured.jpg",
-        "date": "2026-03-07",
+        "slug": "2024-katmai-bears",
+        "title": "Katmai Bears 2024",
+        "description": "Bears at Brooks Falls in Katmai National Park, Alaska.",
+        "featuredImage": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1784.jpg",
+        "date": "2024-07-04",
         "photos": [
             [
-                { "src": "https://media.eagereyes.org/photos/2026-antarctica/001.jpg", "alt": "" }
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC6560.jpg", "alt": "" }
             ],
             [
-                { "src": "https://media.eagereyes.org/photos/2026-antarctica/002.jpg", "alt": "" },
-                { "src": "https://media.eagereyes.org/photos/2026-antarctica/003.jpg", "alt": "" }
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC2152.jpg", "alt": "" },
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC8255.jpg", "alt": "" }
             ],
             [
-                { "src": "https://media.eagereyes.org/photos/2026-antarctica/004.jpg", "alt": "" }
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1914.jpg", "alt": "" }
             ],
             [
-                { "src": "https://media.eagereyes.org/photos/2026-antarctica/005.jpg", "alt": "" },
-                { "src": "https://media.eagereyes.org/photos/2026-antarctica/006.jpg", "alt": "" }
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC2231.jpg", "alt": "" },
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC8079.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC0251.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC7860.jpg", "alt": "" },
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3243.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3251.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1870.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC0308.jpg", "alt": "" },
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3274.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1784.jpg", "alt": "" }
             ]
         ]
     },
