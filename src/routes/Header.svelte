@@ -6,6 +6,13 @@
 	const isMac = typeof navigator !== 'undefined' && /Mac|iPhone|iPad/.test(navigator.platform);
 	const shortcutHint = isMac ? '/ or ⌘K' : '/ or Ctrl+K';
 
+	let moreActive = $derived(
+		page.url.pathname.startsWith('/app') ||
+		page.url.pathname.startsWith('/video') ||
+		page.url.pathname.startsWith('/publications') ||
+		page.url.pathname.startsWith('/about')
+	);
+
 	function handleKeydown(e: KeyboardEvent) {
 		if (document.activeElement?.tagName === 'INPUT' || document.activeElement?.tagName === 'TEXTAREA') return;
 		if (e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey))) {
@@ -32,19 +39,28 @@
 			<li aria-current={page.url.pathname.startsWith('/blog') || page.url.pathname.startsWith('/tag') ? 'page' : undefined}>
 				<a href="/blog/">Blog</a>
 			</li>
-			<li class="dropdown" aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined}>
+			<li class="dropdown mobile-only" aria-current={moreActive ? 'page' : undefined}>
+				<button class="dropdown-toggle" aria-haspopup="true">More ▾</button>
+				<ul class="dropdown-menu">
+					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
+					<li><a href="/video/">Videos</a></li>
+					<li><a href="/publications/">Papers</a></li>
+					<li><a href="/about">About</a></li>
+				</ul>
+			</li>
+			<li class="dropdown desktop-only" aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined}>
 				<button class="dropdown-toggle" aria-haspopup="true">Apps ▾</button>
 				<ul class="dropdown-menu">
 					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
 				</ul>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
+			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
 				<a href="/video/">Videos</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined}>
+			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/publications') ? 'page' : undefined}>
 				<a href="/publications/">Papers</a>
 			</li>
-			<li aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined}>
+			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/about') ? 'page' : undefined}>
 				<a href="/about">About</a>
 			</li>
 		</ul>
@@ -148,7 +164,7 @@
 		background-color: color-mix(in srgb, var(--color-theme-1) 8%, transparent);
 	}
 
-	li[aria-current='page'] a {
+	li[aria-current='page'] > a {
 		color: var(--color-theme-1);
 		background-color: color-mix(in srgb, var(--color-theme-1) 12%, transparent);
 	}
@@ -214,7 +230,11 @@
 		border-radius: 0;
 	}
 
-	@media (max-width: 600px) {
+	.mobile-only {
+		display: none;
+	}
+
+	@media (max-width: 768px) {
 		header {
 			flex-direction: column;
 			align-items: stretch;
@@ -236,6 +256,14 @@
 		ul {
 			justify-content: center;
 			flex-wrap: wrap;
+		}
+
+		.desktop-only {
+			display: none;
+		}
+
+		.mobile-only {
+			display: flex;
 		}
 
 		.search-corner {
