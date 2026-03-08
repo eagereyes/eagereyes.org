@@ -8,6 +8,7 @@ const STATIC_PAGES = [
     { url: 'https://eagereyes.org/', priority: '1.0' },
     { url: 'https://eagereyes.org/blog/', priority: '0.9' },
     { url: 'https://eagereyes.org/video/', priority: '0.8' },
+    { url: 'https://eagereyes.org/app/zipscribble-map', priority: '0.8' },
     { url: 'https://eagereyes.org/publications/', priority: '0.8' },
     { url: 'https://eagereyes.org/about', priority: '0.7' },
     { url: 'https://eagereyes.org/pie-charts', priority: '0.7' },

@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/broadstreetmap.png" alt="Snow's Broad Street Map (detail)" width="560" height="283" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/broadstreetmap.png" alt="Snow" width="560" height="283"/></figure>
 
 # Review: Steven Johnson, The Ghost Map
 
-John Snow's map of the cholera dead after London's 1854 epidemic is often heralded as one of the earliest examples of graphical data analysis. Steven Johnson's <em>The Ghost Map</em> gives a lot of background about the London of the 1850s, Snow's work, and how central the map really was.
+John Snow's map of the cholera dead after London's 1854 epidemic is often heralded as one of the earliest examples of graphical data analysis. Steven Johnson's *The Ghost Map* gives a lot of background about the London of the 1850s, Snow's work, and how central the map really was.
 
 ## London and the Cholera
 
@@ -26,8 +26,8 @@ Several times, Johnson argues that the ability to understand the spread of disea
 
 Besides a bit of repetitiveness here and there, as well as the epilogue, it's an excellent book. Johnson is a fantastic writer, and clearly understands the history as well as the science of what he's writing about. In an appendix, he explains his use of historic materials (dialogue is only used where he has sources), and what freedoms he took in writing the story. If you care about context, not just a single map on a pedestal, this book will give you a lot of insight into the world it came from, and the revolution in thinking it embodies.
 
-<hr />
+---
 
-Steven Johnson, <em><a href="http://www.amazon.com/Ghost-Map-Londons-Terrifying-Epidemic/dp/1594482691/" target="_blank">The Ghost Map</a></em>. Riverhead Trade, 320 pages (paperback, also available as hardcover, audiobook, and on Kindle), 2007.
+Steven Johnson, *[The Ghost Map](http://www.amazon.com/Ghost-Map-Londons-Terrifying-Epidemic/dp/1594482691/)*. Riverhead Trade, 320 pages (paperback, also available as hardcover, audiobook, and on Kindle), 2007.
 
-Johnson has <a href="http://www.theghostmap.com/" target="_blank">a website with several videos of him talking about topics from the book</a>. A fantastic source on the map is also <a href="http://www.ph.ucla.edu/epi/snow.html" target="_blank">Ralph R. Frerichs's website on John Snow</a>, despite the rather horrific navigation (the little squares are the links, not the text).
+Johnson has [a website with several videos of him talking about topics from the book](http://www.theghostmap.com/). A fantastic source on the map is also [Ralph R. Frerichs's website on John Snow](http://www.ph.ucla.edu/epi/snow.html), despite the rather horrific navigation (the little squares are the links, not the text).

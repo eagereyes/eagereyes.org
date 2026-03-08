@@ -2,7 +2,7 @@
 
 For some reason, the topic of reviewing and getting papers rejected came up several times in conversations at VIS recently. Getting your work rejected and learning to deal with rejection is part of life as an academic, and it’s worthwhile to think about the process a bit.
 
-I’m basing this on <a href="https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/">a nice piece by Niklas Elmqvist titled <i>Dealing with Rejection</i></a>, so read that first. His perspective is that of the nice academic (and recent InfoVis papers chair). My perspective is less academic, and a little less nice.
+I’m basing this on [a nice piece by Niklas Elmqvist titled *Dealing with Rejection*](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/), so read that first. His perspective is that of the nice academic (and recent InfoVis papers chair). My perspective is less academic, and a little less nice.
 
 ## The First Response
 
@@ -10,11 +10,9 @@ Here’s what I do when I get a accept/reject notice. First, I scan it to figure
 
 So it’s a reject. What now? I usually do this:
 
-<ul>
-    <li>breathe</li>
-    <li>read the summary review</li>
-    <li>stop</li>
-</ul>
+- breathe
+- read the summary review
+- stop
 
 At this point, I know I’m not very rational, so I don’t read any of the individual reviews. There’s no point. All my brain wants to do is argue. After a day or two of letting it sink in, I can read the remaining reviews and think about what they tell me.
 
@@ -24,9 +22,9 @@ After a day or two, you’ll be in a much better place to rationally think about
 
 ## The Worst Reviews from the Worst Reviewers
 
-<a href="/tag/peer-review">The review process</a> is not perfect. Some reviewers don’t read your paper carefully. Some don’t like one little detail and then start picking your work apart because of that. Some take out their personal problems (or their own last rejection) on your paper. We’re all human, this is not a perfect system.
+[The review process](/tag/peer-review) is not perfect. Some reviewers don’t read your paper carefully. Some don’t like one little detail and then start picking your work apart because of that. Some take out their personal problems (or their own last rejection) on your paper. We’re all human, this is not a perfect system.
 
-Sometimes, the reviews are just downright stupid or off-topic. When we submitted <a href="https://eagereyes.org/papers/the-connected-scatterplot-for-presenting-paired-time-series">the connected scatterplot paper</a> to InfoVis last year, we got fairly good reviews overall. The paper was killed by the primary reviewer, who had some other paper in mind and didn’t seem inclined to accept the existing paper because it didn’t match his idea. We resubmitted the paper with only very minor changes to TVCG and got it accepted with no problem.
+Sometimes, the reviews are just downright stupid or off-topic. When we submitted [the connected scatterplot paper](https://eagereyes.org/papers/the-connected-scatterplot-for-presenting-paired-time-series) to InfoVis last year, we got fairly good reviews overall. The paper was killed by the primary reviewer, who had some other paper in mind and didn’t seem inclined to accept the existing paper because it didn’t match his idea. We resubmitted the paper with only very minor changes to TVCG and got it accepted with no problem.
 
 Getting the right reviewers is unfortunately a lottery. Sometimes you win, sometimes you lose. The problem is that there is no way for authors to provide feedback on review quality. InfoVis and a few other conferences have started a little bit of tracking where primary reviewers can rate review quality, but that doesn’t help you when the primary is the problem. I also don’t know how many people ever bother with these ratings, or if they have any sort of consequences.
 
@@ -40,11 +38,11 @@ The same is true in the rebuttal: if I’m a reviewer and your rebuttal is angry
 
 One particularly problematic thing Niklas mentions is posting reviews online and commenting/venting. Don’t. This is even worse than complaining to the chairs: now not only they will take you for a crybaby, but anybody who sees this will, too. Don’t think that just because you think those reviews are completely unacceptable, others will too. Especially without the context of having seen the paper, the reviews will look very different to others. This is not something you can win.
 
-There is one exception. While Niklas clearly says to never post reviews, he also links to <a href="http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/rejection_letter.html">this rejection letter that Ben Shneiderman has posted</a> about the <a href="/blog/2016/nassi-shneiderman-diagrams">structured flow-charts/Nassi-Shneiderman diagrams paper</a>.
+There is one exception. While Niklas clearly says to never post reviews, he also links to [this rejection letter that Ben Shneiderman has posted](http://www.cs.umd.edu/hcil/members/bshneiderman/nsd/rejection_letter.html) about the [structured flow-charts/Nassi-Shneiderman diagrams paper](/blog/2016/nassi-shneiderman-diagrams).
 
-<p align="center"><img class="aligncenter size-full wp-image-9797" src="https://media.eagereyes.org/wp-content/uploads/2016/11/shneiderman-reject.jpg" alt="shneiderman-reject" width="800" height="250" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/shneiderman-reject.jpg" alt="shneiderman-reject" width="800" height="250"/></figure>
 
-It’s important to note a few things here, though. This is a particularly dumb and nasty letter, yes. But it was also posted by <em>Ben Shneiderman</em> (i.e., somebody of significant standing in the community, not just a random grad student or young professor), and he did it <em>30 years after it happened</em>.
+It’s important to note a few things here, though. This is a particularly dumb and nasty letter, yes. But it was also posted by *Ben Shneiderman* (i.e., somebody of significant standing in the community, not just a random grad student or young professor), and he did it *30 years after it happened*.
 
 So if you’re the next Ben Shneiderman, and you keep your rejection letters around forever, this is a potential thing to consider. In fact, it would be quite fun to see reviews (positive and negative) for seminal papers after 20 or 30 years have passed.
 

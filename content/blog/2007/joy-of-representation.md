@@ -1,18 +1,18 @@
 # The Joy of Representation
 
-<p align="center"><img title="Kaboom! by PES" src="https://media.eagereyes.org/media/attachments/kaboom.jpg" alt="Kaboom! by PES" width="600" height="221" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/kaboom.jpg" alt="Kaboom! by PES" width="600" height="221"/></figure>
 
 When peanuts are bombs, clown-shaped cake ornaments are muzzle fires, and young guys are skateboards, we are talking about representation. We take it for granted that words can refer to things or abstract concepts, and colored spots on a piece of paper can depict data. Representation is really quite remarkable, and a better understanding of it will make a big difference in how we build visualizations.
 
-The images above are taken from the brilliant short movie <a href="http://www.eatpes.com/kaboom.html"><em>Kaboom!</em></a> by <a href="http://eatpes.com/">PES</a>. The movie was shot using stop-motion, and all the guns, explosions, buildings, and scenery are not actual guns, explosions, buildings, or scenery. The choice of materials is so clever, however, that it still works, and not only that: there are so many things in those movies that you don't even notice half of them. Many objects just blend into the scene so well that they won't even stand out. See also <em><a href="http://eatpes.com/makingofkaboom.html">Making of Kaboom!</a></em> and <em><a href="http://eatpes.com/game_over.html">Game Over</a></em>.
+The images above are taken from the brilliant short movie [*Kaboom!*](http://www.eatpes.com/kaboom.html) by [PES](http://eatpes.com/). The movie was shot using stop-motion, and all the guns, explosions, buildings, and scenery are not actual guns, explosions, buildings, or scenery. The choice of materials is so clever, however, that it still works, and not only that: there are so many things in those movies that you don't even notice half of them. Many objects just blend into the scene so well that they won't even stand out. See also *[Making of Kaboom!](http://eatpes.com/makingofkaboom.html)* and *[Game Over](http://eatpes.com/game_over.html)*.
 
 ## Realistic – Or Is It?
 
-Another example is this painting by David Bailley, titled <em><a href="http://www.wga.hu/frames-e.html?/html/b/bailly/selfport.html">Self-Portrait with Vanitas Symbols</a></em>.
+Another example is this painting by David Bailley, titled *[Self-Portrait with Vanitas Symbols](http://www.wga.hu/frames-e.html?/html/b/bailly/selfport.html)*.
 
-<p align="center"><img title="David Bailly, Self-Portrait with Vanitas Symbols" src="https://media.eagereyes.org/media/attachments/BaillyVanitas.jpg" alt="David Bailly, Self-Portrait with Vanitas Symbols" width="600" height="438" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/BaillyVanitas.jpg" alt="David Bailly, Self-Portrait with Vanitas Symbols" width="600" height="438"/></figure>
 
-While painted in a realistic style, the depicted objects are not just there because they happened to be lying around on his desk (which might be the case in a photograph). Instead, they are symbols for <em><a href="http://en.wikipedia.org/wiki/Vanitas">vanitas</a></em>, the emptiness and transience of life. The skull, the blown out candle, the soap bubbles, the hourglass, even the flowers symbolize this. There are also references to his profession (the palette), fortune (pearls, coins), and hobbies (pipe).
+While painted in a realistic style, the depicted objects are not just there because they happened to be lying around on his desk (which might be the case in a photograph). Instead, they are symbols for *[vanitas](http://en.wikipedia.org/wiki/Vanitas)*, the emptiness and transience of life. The skull, the blown out candle, the soap bubbles, the hourglass, even the flowers symbolize this. There are also references to his profession (the palette), fortune (pearls, coins), and hobbies (pipe).
 
 But in addition, it is important to know that Bailley painted this painting when he was 67. The self-portrait is therefore the picture within the picture in the center, with the young man showing a younger version of himself. The many different symbols and layers in this painting can be dazzling even for art historians.
 
@@ -20,7 +20,7 @@ It is also likely that all the objects were not there at the same time, or at le
 
 ## Ways of Representing
 
-Representation is not only a topic in art, and certainly not confined to the visual channel. In <em>Theory of Representation: Three Questions</em>, Howard, Kolers, Wrolstad, and Bouma list different varieties of representation:
+Representation is not only a topic in art, and certainly not confined to the visual channel. In *Theory of Representation: Three Questions*, Howard, Kolers, Wrolstad, and Bouma list different varieties of representation:
 
 >	Jones represents (that is, "speaks for") Biddulph Township in the Provincial Parliament.
 >	That portrait represents ("depicts") the elderly Rembrandt.
@@ -31,11 +31,11 @@ Representation is not only a topic in art, and certainly not confined to the vis
 >	Ghandi represents ("exemplifies") the spirit of nonviolent protest.
 >	Let a represent ("substitute" or "stand for") b.
 
-Clearly, not all of these will be relevant for visualization, but more are than would appear at first sight. Is a <a href="/blog/2007/chernoff-faces">Chernoff face</a> a depiction, description, symbolization, caricature, or merely a substitute for the underlying data? How do we know which kind of representation we are using, and what does that mean for how we design visualizations? How do metaphors fit into the picture?
+Clearly, not all of these will be relevant for visualization, but more are than would appear at first sight. Is a [Chernoff face](/blog/2007/chernoff-faces) a depiction, description, symbolization, caricature, or merely a substitute for the underlying data? How do we know which kind of representation we are using, and what does that mean for how we design visualizations? How do metaphors fit into the picture?
 
 ## Mimesis
 
-The oldest and probably most natural understanding of representation is to think of a picture as being as perfect an imitation as possible of nature. Plato called this <em><a href="http://en.wikipedia.org/wiki/Mimesis">mimesis</a></em>, and illustrated it with a story of a painter whose paintings of grapes were so realistic that birds would peck at them.
+The oldest and probably most natural understanding of representation is to think of a picture as being as perfect an imitation as possible of nature. Plato called this *[mimesis](http://en.wikipedia.org/wiki/Mimesis)*, and illustrated it with a story of a painter whose paintings of grapes were so realistic that birds would peck at them.
 
 With the existence of photography today, such an understanding seems very logical – too logical and simple, in fact. Especially in computer graphics, it is too easy to fall into the trap of photorealism and take objects in images as being just representatives of themselves. But our visual traditions are not based on realism, that is a fairly recent development. Most of the seemingly realistic art we see is in fact packed with symbols, and failing to realize that means failing to understand the message of the piece of art. Varying degrees of realism are also not simply failures at achieving a photorealistic image, but often mean that the exact visual depiction was not the goal of the painting. Realism can be distracting, and it can hide the underlying meaning.
 
@@ -45,7 +45,7 @@ Of course Plato's idea of mimesis was not just an objective description of repre
 
 ## Representation Reconsidered
 
-Nelson Goodman, in his book <em>Languages of Art</em>, very eloquently dissects the idea of mimesis. A painting, consisting of layers of paint on a flat piece of cloth, is more like any other painting than it is like a living person, which is three-dimensional, can move around, and is not made of oil paste and pigment. Also, there are many ways in which even photographs are distorted to look better. Goodman's example is <a href="http://en.wikipedia.org/wiki/Perspective_correction">perspective correction</a>, but there are many other things that make a photograph appear more natural by making it less like the scene it actually depicted.
+Nelson Goodman, in his book *Languages of Art*, very eloquently dissects the idea of mimesis. A painting, consisting of layers of paint on a flat piece of cloth, is more like any other painting than it is like a living person, which is three-dimensional, can move around, and is not made of oil paste and pigment. Also, there are many ways in which even photographs are distorted to look better. Goodman's example is [perspective correction](http://en.wikipedia.org/wiki/Perspective_correction), but there are many other things that make a photograph appear more natural by making it less like the scene it actually depicted.
 
 So the idea of imitation is clearly limited, especially when it comes to other painting styles than realism, and other means of depiction than photography. But what else is there? Can we simply pick any symbol and assign it a meaning? And if this all so arbitrary, why are we able to read images so easily?
 
@@ -56,9 +56,9 @@ The images below show different kinds of representation in visualization. They w
 <table width="100%" border="0">
 <tbody>
 <tr valign="top">
-<td><img title="Titanic by Brandejsky, Buturovic, Kilzer" src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Brandejsky_Buturovic_Kilzer.jpg" alt="Titanic by Brandejsky, Buturovic, Kilzer" width="200" height="137" /></td>
-<td><img title="Titanic by Dabrowski, Jakl, May" src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Dabrowski_Jakl_May.png" alt="Titanic by Dabrowski, Jakl, May" width="199" height="200" /></td>
-<td><img title="Titanic by Cech, Schauer, Scholz" src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Cech_Schauer_Scholz.png" alt="Titanic by Cech, Schauer, Scholz" width="200" height="158" /></td>
+<td><img src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Brandejsky_Buturovic_Kilzer.jpg" alt="Titanic by Brandejsky, Buturovic, Kilzer" width="200" height="137"/></td>
+<td><img src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Dabrowski_Jakl_May.png" alt="Titanic by Dabrowski, Jakl, May" width="199" height="200"/></td>
+<td><img src="https://media.eagereyes.org/media/LVA/BestOf/Titanic_Cech_Schauer_Scholz.png" alt="Titanic by Cech, Schauer, Scholz" width="200" height="158"/></td>
 </tr>
 </tbody>
 </table>

@@ -1,10 +1,10 @@
 # iTunes Ten Billion Song Downloads Visualization
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/iTunes10billion-teaser.png" width="522" height="175" alt="iTunes10billion-teaser" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/iTunes10billion-teaser.png" alt="iTunes10billion-teaser" width="522" height="175"/></figure>
 
-Apple's iTunes Store is <a href="http://www.apple.com/itunes/10-billion-song-countdown/">counting down</a> to the ten-billionth (10,000,000,000th) song download. As in <a href="/blog/2006/itunes-billion-song-downloads">previous</a> <a href="/blog/2009/appstore-billion-apps-live-visualization-html">cases</a> when they were running a download counter on their website, I am harvesting the data and visualizing it below.
+Apple's iTunes Store is [counting down](http://www.apple.com/itunes/10-billion-song-countdown/) to the ten-billionth (10,000,000,000th) song download. As in [previous](/blog/2006/itunes-billion-song-downloads) [cases](/blog/2009/appstore-billion-apps-live-visualization-html) when they were running a download counter on their website, I am harvesting the data and visualizing it below.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/iTunes10billion-ersatz3.png" width="550" height="675" alt="iTunes10billion ersatz image" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/iTunes10billion-ersatz3.png" alt="iTunes10billion ersatz image" width="550" height="675"/></figure>
 
 ## How to Read and Use
 
@@ -16,7 +16,7 @@ The visualization loads the data every time you refresh the page, but the underl
 
 ## Data
 
-I am making the data available in two formats: <a href="https://media.eagereyes.org/media/2010/iTunes10Billion.js">JavaScript</a> and <a href="https://media.eagereyes.org/media/2010/iTunes10Billion.csv">CSV</a>. The former is meant to be included as a script, and assigns the data (in inefficient but <a href="http://protovis.org/">Protovis</a>-friendly one-object-per-row format) to a variable named <code>iTunes10billion</code>. The latter is a classical plain-text CSV file. Both contain exactly the same data.
+I am making the data available in two formats: [JavaScript](https://media.eagereyes.org/media/2010/iTunes10Billion.js) and [CSV](https://media.eagereyes.org/media/2010/iTunes10Billion.csv). The former is meant to be included as a script, and assigns the data (in inefficient but [Protovis](http://protovis.org/)-friendly one-object-per-row format) to a variable named `iTunes10billion`. The latter is a classical plain-text CSV file. Both contain exactly the same data.
 
 One convention is that the rate (which is per hour) gets a negative sign when no data is available for an hour. The total downloads and the rate are interpolated in this case. You can either skip those, or show them in a way that indicates missing data. The files also contain two different timestamps, one for easier parsing and one for direct display.
 

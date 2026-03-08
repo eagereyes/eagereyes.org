@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/challenger.jpg" alt="" width="600" height="300" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/challenger.jpg" alt="" width="600" height="300"/></figure>
 
 # Tufte and the Truth about the Challenger
 
@@ -8,15 +8,15 @@ Almost exactly 25 years ago, on January 28, 1986, Space Shuttle Challenger disin
 
 While it is easy to look at this as purely a question of proper data display, the claim Tufte makes is a very serious one: the engineers at Morton Thiokol, which manufactured the rocket boosters that led to the disaster, failed to communicate their concerns, and were thus partially responsible for the death of seven astronauts.
 
-The authors of the paper this posting is based on, <em>Representation and Misrepresentation: Tufte and the Morton Thiokol Engineers on the Challenger</em> (details below), claim that Tufte both misunderstood and misrepresented the argument and the true cause of the failure. What is more, Tufte keeps making the case that it was the engineers's fault, despite the fact that information is readily available that shows what really happened.
+The authors of the paper this posting is based on, *Representation and Misrepresentation: Tufte and the Morton Thiokol Engineers on the Challenger* (details below), claim that Tufte both misunderstood and misrepresented the argument and the true cause of the failure. What is more, Tufte keeps making the case that it was the engineers's fault, despite the fact that information is readily available that shows what really happened.
 
 ## O-Ring Failure
 
-To briefly summarize the issue, what happened was that the aft joint on one of the Challenger's rocket boosters failed during launch, which led to the escape of hot gases to the side, towards the main fuel tank. That tank was quickly ruptured, and started to disintegrate. The tank and shuttle were then torn apart by aerodynamic forces (<a href="http://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" target="_blank">the Wikipedia article</a> argues that there was no actual explosion).
+To briefly summarize the issue, what happened was that the aft joint on one of the Challenger's rocket boosters failed during launch, which led to the escape of hot gases to the side, towards the main fuel tank. That tank was quickly ruptured, and started to disintegrate. The tank and shuttle were then torn apart by aerodynamic forces ([the Wikipedia article](http://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster) argues that there was no actual explosion).
 
 Tufte has argued that the main cause for the joint failure was damage to the O-rings, which sealed the joint to prevent gases from escaping through a gap between parts of the rocket. That failure was supposedly due to the fact that cold temperatures (colder than any shuttle launch before) had led to a loss of flexibility in the rubber-like material the O-rings were made from.
 
-The main argument in the paper is that the cause of the failure in the joint was not in fact O-ring damage, but <em>blow-by</em>: hot gases passing by the O-rings when they do not properly seal. Also, Tufte's elegant chart showing temperature versus damage is misleading, because it does not show the actual O-ring temperature, but a mix of O-ring and environmental temperature (which can differ significantly).
+The main argument in the paper is that the cause of the failure in the joint was not in fact O-ring damage, but *blow-by*: hot gases passing by the O-rings when they do not properly seal. Also, Tufte's elegant chart showing temperature versus damage is misleading, because it does not show the actual O-ring temperature, but a mix of O-ring and environmental temperature (which can differ significantly).
 
 ## Physics
 
@@ -36,6 +36,6 @@ The paper is very interesting and readable, and makes a great companion to Tufte
 
 What is equally important though, and easily ignored, is that the context of the data also must be understood to create the correct representation. In constructing the case for a simple, elegant chart that seemingly presented all the relevant information and clearly shows the issue, Tufte ignores much of the complexity of the data and physics, and ends up with something that is meaningless.
 
-<hr />
+---
 
-Wade Robison, Roger Boisjoly, David Hoeker, Stefan Young, <em><a href="http://people.rit.edu/wlrgsh/FINRobison.pdf" target="_blank">Representation and Misrepresentation: Tufte and the Morton Thiokol Engineers on the Challenger</a></em>. <em>Science and Engineering Ethics</em>, vol. 8, no. 1, pp. 59–81, 2002.
+Wade Robison, Roger Boisjoly, David Hoeker, Stefan Young, *[Representation and Misrepresentation: Tufte and the Morton Thiokol Engineers on the Challenger](http://people.rit.edu/wlrgsh/FINRobison.pdf)*. *Science and Engineering Ethics*, vol. 8, no. 1, pp. 59–81, 2002.

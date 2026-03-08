@@ -6,9 +6,9 @@ All of these are a few years old. Like a fine wine analogy that I could insert h
 
 ## Scatterplot
 
-My favorite scatterplot, and perhaps my favorite chart ever, is <em><a href="http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html">Why Is Her Paycheck Smaller?</a></em> by Hannah Fairfield and Graham Roberts. It shows men's versus women's weekly earnings, with men on the horizontal axis and women on the vertical. A heavy black diagonal line shows equal wages, three additional lines show where women make 10%, 20%, and 30% less. Any point to the bottom right of the line means that women make less money than men.
+My favorite scatterplot, and perhaps my favorite chart ever, is *[Why Is Her Paycheck Smaller?](http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html)* by Hannah Fairfield and Graham Roberts. It shows men's versus women's weekly earnings, with men on the horizontal axis and women on the vertical. A heavy black diagonal line shows equal wages, three additional lines show where women make 10%, 20%, and 30% less. Any point to the bottom right of the line means that women make less money than men.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8317" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap-730x424.png" alt="Why Is Her Paycheck Smaller?" width="730" height="424" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/09/wage-gap-730x424.png" alt="Why Is Her Paycheck Smaller?" width="730" height="424"/></figure>
 
 The diagonal lines are a stroke of genius (pun fully intended). When you see a line in a scatterplot, it's usually a regression line that models the data; i.e., a line that follows the points. But such a line only helps reinforce the difficulty of judging the differences between the two axes, which is something we're not good at, and which is not typically something you do in a scatterplot anyway.
 
@@ -22,9 +22,9 @@ But the key element is the inclusion of the reference lines that help people mak
 
 ## Line Chart
 
-My favorite line chart is <a href="http://www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html"><em>The Jobless Rate for People Like You</em></a> by Shan Carter, Amanda Cox, and Kevin Quealy. This chart is somewhat ancient, having been created in Flash and showing unemployment data from January 2007 to September 2009. But its brilliant design and interaction make it timeless.
+My favorite line chart is [*The Jobless Rate for People Like You*](http://www.nytimes.com/interactive/2009/11/06/business/economy/unemployment-lines.html) by Shan Carter, Amanda Cox, and Kevin Quealy. This chart is somewhat ancient, having been created in Flash and showing unemployment data from January 2007 to September 2009. But its brilliant design and interaction make it timeless.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8318" src="https://media.eagereyes.org/wp-content/uploads/2014/09/jobless-rate-730x395.png" alt="The Jobless Rate for People Like You" width="730" height="395" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/09/jobless-rate-730x395.png" alt="The Jobless Rate for People Like You" width="730" height="395"/></figure>
 
 It's a line chart, but with a twist. The first thing you see is the heavy blue line, showing the overall unemployment rate. But there are more lines in the background, what are those? So you mouse over and they respond: they light up and there's a tooltip telling you what they represent. Each is the unemployment rate for a subset of the population, defined as the combination of race, gender, age group, and education. How are hispanic men over 45 with only a high school diploma doing compared to the overall rate? What about black women 15–24? Or white college grads of any age and gender?
 
@@ -32,27 +32,27 @@ Clicking on a line moves the blue line there so it's easier to see, but the over
 
 In addition, the filters at the top also respond to the selection to show who is selected. Clicking around inside the chart updates them. Hm, so maybe I can use those to explore too? And of course you can, broadening or narrowing your selection, or clicking through different age groups of the same subset of the population, etc.
 
-The Human-Computer Interaction field has a nice term for an indication of more data and interaction: <em>information scent</em>. This is usually used with widgets, which indicate where more information can be found (like the little tick marks on the scrollbar in Chrome when when you search within the page). What makes this chart so good is its clever use of information scent to entice viewers to dig deeper, explore, and ask questions.
+The Human-Computer Interaction field has a nice term for an indication of more data and interaction: *information scent*. This is usually used with widgets, which indicate where more information can be found (like the little tick marks on the scrollbar in Chrome when when you search within the page). What makes this chart so good is its clever use of information scent to entice viewers to dig deeper, explore, and ask questions.
 
-It also brilliantly and clearly demonstrates the fact that the overall unemployment rate is a rather meaningless number. The actual rate in your demographic is likely to look very different, and the range is huge. This was the inspiration for my <a href="/blog/2013/means"><em>What Means Mean</em></a> piece, though I don't think that was nearly as clear as this.
+It also brilliantly and clearly demonstrates the fact that the overall unemployment rate is a rather meaningless number. The actual rate in your demographic is likely to look very different, and the range is huge. This was the inspiration for my [*What Means Mean*](/blog/2013/means) piece, though I don't think that was nearly as clear as this.
 
 The chart shows interesting data, explains a somewhat advanced concept, and invites people to interact with it. This comes in a package that is understated and elegant in its design. Best line chart ever.
 
 ## Bar Chart
 
-I have already written about the <a href="/blog/2012/bikini-chart"><em>Bikini Chart</em></a>, and it remains my favorite bar chart. It's an incredibly effective piece of communication, and it's all just based on a simple time series. The fact that <a href="/journalism/when-bars-point-down">the bars point down</a> clearly communicates how it is supposed to be read: down is bad, less down is better than more down.
+I have already written about the [*Bikini Chart*](/blog/2012/bikini-chart), and it remains my favorite bar chart. It's an incredibly effective piece of communication, and it's all just based on a simple time series. The fact that [the bars point down](/journalism/when-bars-point-down) clearly communicates how it is supposed to be read: down is bad, less down is better than more down.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8319" src="https://media.eagereyes.org/wp-content/uploads/2014/09/obama-job-loss-chart-730x407.png" alt="obama job loss chart" width="730" height="407" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/09/obama-job-loss-chart-730x407.png" alt="obama job loss chart" width="730" height="407"/></figure>
 
 Bar charts are not exactly a common medium for artistic expression, but the designers of this chart managed to subtly but clearly get a message across.
 
 ## Bubble Chart/Animated Scatterplot
 
-Animated scatterplots may not have been invented by Hans Rosling and <a href="http://www.gapminder.org">gapminder</a>, but they certainly were not a common thing until his <a href="http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en">TED talk in 2007</a>. And while it may seem a bit facetious to point to the only reasonably well-known example of a particular chart type as my favorite one, this is clearly one of my favorite charts, no matter what type.
+Animated scatterplots may not have been invented by Hans Rosling and [gapminder](http://www.gapminder.org), but they certainly were not a common thing until his [TED talk in 2007](http://www.ted.com/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen?language=en). And while it may seem a bit facetious to point to the only reasonably well-known example of a particular chart type as my favorite one, this is clearly one of my favorite charts, no matter what type.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8320" src="https://media.eagereyes.org/wp-content/uploads/2014/09/gapminder-730x547.png" alt="gapminder" width="730" height="547" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/09/gapminder-730x547.png" alt="gapminder" width="730" height="547"/></figure>
 
-The animation may seem like a bit of a gimmick – and it has been <a href="http://research.microsoft.com/apps/pubs/default.aspx?id=64262">criticized as not being terribly effective</a> –, but it works to communicate a number of important pieces of information.
+The animation may seem like a bit of a gimmick – and it has been [criticized as not being terribly effective](http://research.microsoft.com/apps/pubs/default.aspx?id=64262) –, but it works to communicate a number of important pieces of information.
 
 The main piece of information, of course, is change over time. How have different countries changed in terms of their wealth, healthcare, etc.? This is reasonably effective, because there are trends, and many countries follow them. The outliers are reasonably easy to spot, especially when you can turn on trails and replay the animation. It's not always immediately possible to see everything, but it does invite people to play and explore.
 

@@ -6,7 +6,7 @@ Several topics at this year's VisWeek conference have come up because visualizat
 
 While the definitions differ somewhat, the common understanding of verification is that it means checking whether a system is working correctly, whereas validation asks whether the system performs the function it is supposed to.
 
-Neither question is usually addressed in visualization research. One example that was brought up in the discussion on the panel on this topic at VisWeek are  some implementations of <a href="http://en.wikipedia.org/wiki/Marching_cubes">Marching Cubes</a> that have a bug that leads to small creases and cuts in the isosurfaces produced, which is obviously a problem.
+Neither question is usually addressed in visualization research. One example that was brought up in the discussion on the panel on this topic at VisWeek are  some implementations of [Marching Cubes](http://en.wikipedia.org/wiki/Marching_cubes) that have a bug that leads to small creases and cuts in the isosurfaces produced, which is obviously a problem.
 
 User studies theoretically provide a way of validating visualization software, but are almost never done in that way in practice. It is often not entirely clear what the correct answer to a question is (or if there even is one), and studies are not typically rigorous and thorough enough to be called validations. Showing that a new system works better than an existing one is often sufficient for publication, but validation needs to be much more specific.
 
@@ -14,9 +14,9 @@ All of these things are clearly important, though, if we expect people to trust 
 
 ## When Rainbow Colormaps Kill
 
-Michelle Borkin presented <a href="http://gvi.seas.harvard.edu/paper/evaluation-artery-visualizations-heart-disease-diagnosis">fascinating work on the use of colormaps</a> in the diagnosis of coronary heart disease. Their 2D representations using perceptually uniform colormaps led to significantly fewer errors than the usual 3D representations and/or the dreaded rainbow colormap.
+Michelle Borkin presented [fascinating work on the use of colormaps](http://gvi.seas.harvard.edu/paper/evaluation-artery-visualizations-heart-disease-diagnosis) in the diagnosis of coronary heart disease. Their 2D representations using perceptually uniform colormaps led to significantly fewer errors than the usual 3D representations and/or the dreaded rainbow colormap.
 
-When the choice of visualization type and parameters makes such a big difference, we need a much better understanding of the potential consequences before we can recommend the use of visualization for important decisions. Similar results have been reported <a href="/blog/2011/visualization-choice-influences-decisions">when making decisions about continuing or aborting clinical studies</a>, and Caroline Ziemkiewicz's work has also shown <a href="/blog/2010/paper-implied-dynamics-in-information-visualization">the impact of surface features on people's perception of data</a>.
+When the choice of visualization type and parameters makes such a big difference, we need a much better understanding of the potential consequences before we can recommend the use of visualization for important decisions. Similar results have been reported [when making decisions about continuing or aborting clinical studies](/blog/2011/visualization-choice-influences-decisions), and Caroline Ziemkiewicz's work has also shown [the impact of surface features on people's perception of data](/blog/2010/paper-implied-dynamics-in-information-visualization).
 
 ## Visualization and Policy-Making
 
@@ -31,7 +31,7 @@ That made me think of the way charts move through command and communication chai
 Jason Moore also suggested a hippocratic oath for visualization. This version is slightly edited from his original, and I guess some more work could be done on it. But I think it's a great start.
 
 >	
->	  <p>I shall not use visualization to intentionally hide or confuse the truth which it is intended to portray. I will respect the great power visualization has in garnering wisdom and misleading the uninformed. I accept this responsibility willfully and without reservation, and promise to defend this oath against all enemies, both domestic and foreign.</p>
+>	  I shall not use visualization to intentionally hide or confuse the truth which it is intended to portray. I will respect the great power visualization has in garnering wisdom and misleading the uninformed. I accept this responsibility willfully and without reservation, and promise to defend this oath against all enemies, both domestic and foreign.
 >	
 
 ## Final Thoughts

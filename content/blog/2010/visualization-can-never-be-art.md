@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/tansey-modern-postmodern.jpg" alt="Mark Tansey, Modern/Postmodern" width="560" height="281"></p>
+<figure><img src="https://media.eagereyes.org/media/2010/tansey-modern-postmodern.jpg" alt="Mark Tansey, Modern/Postmodern" width="560" height="281"/></figure>
 
 # Visualization Can Never Be Art
 
-Is visualization art? <a href="http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html">Are video games art</a>? Is programming art? Is art art? You can discuss these questions at length, but without concrete criteria, they end up being academic exercises rather than leading to some kind of conclusion. One criterion, which I believe to be suited especially well for visualization, is the sublime. Art is sublime, visualization is not. Hence, visualization is not art.
+Is visualization art? [Are video games art](http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html)? Is programming art? Is art art? You can discuss these questions at length, but without concrete criteria, they end up being academic exercises rather than leading to some kind of conclusion. One criterion, which I believe to be suited especially well for visualization, is the sublime. Art is sublime, visualization is not. Hence, visualization is not art.
 
 ## Some Context
 
@@ -12,7 +12,7 @@ But things are a bit more complicated. While there are some interesting connecti
 
 ## The Sublime
 
-The key to understanding how art works is a concept from aesthetics, called <a href="http://en.wikipedia.org/wiki/Sublime_%28philosophy%29">the sublime</a>. Sublime is a quality that is hard to describe but that can be demonstrated in a few examples. It provides the best description of art that I am aware of.
+The key to understanding how art works is a concept from aesthetics, called [the sublime](http://en.wikipedia.org/wiki/Sublime_%28philosophy%29). Sublime is a quality that is hard to describe but that can be demonstrated in a few examples. It provides the best description of art that I am aware of.
 
 Sublime things inspire awe and invite you to ponder them. They are also often much larger than we are, more beautiful, around for longer, etc. Many things in nature are sublime: mountains, waterfalls, etc. We like to experience these things because they inspire this feeling in us. It's easy to be cynical about them today and call them kitsch, but they're the real thing. They are the things that, deep down inside, we admire and daydream about.
 
@@ -24,9 +24,9 @@ There are other, related criteria that are typically seen as separate, but that 
 
 Given this criterion of the sublime for art, the natural thing to do is to look for things that are not sublime, and see which of these two areas visualization falls into. As it turns out, visualization in the technical sense is entirely anti-sublime: there is no ambiguity, no uncanniness, and typically no sublime quality at all. A visualization reveals its data right away, that's the whole point. We don't want it to be difficult to get the data out of it, we design it to speak as clear a language as we can.
 
-That is essentially the argument Warren Sack made in a paper on the aesthetics of information visualization. I took it further to use that criterion to define <a href="/blog/2007/tale-of-two-types">two types of visualization</a>, pragmatic and artistic. 
+That is essentially the argument Warren Sack made in a paper on the aesthetics of information visualization. I took it further to use that criterion to define [two types of visualization](/blog/2007/tale-of-two-types), pragmatic and artistic. 
 
-The key argument in Sack's paper for our purposes is what he calls <em>user-friendly</em>: a visualization has to talk to the user in clear terms. That is the opposite of sublime, or <em>anti-sublime</em> (as Lev Manovich calls it); Sack also uses the interesting term <em>utilitarian</em>. 
+The key argument in Sack's paper for our purposes is what he calls *user-friendly*: a visualization has to talk to the user in clear terms. That is the opposite of sublime, or *anti-sublime* (as Lev Manovich calls it); Sack also uses the interesting term *utilitarian*. 
 
 It is important to realize that these terms can have different connotations depending on where and by whom they are used. In the technical world, utilitarian is a good thing: a utility is useful, we want that. In art, it's not what you want. The point of art is not to make useful, user-friendly things.
 
@@ -34,18 +34,16 @@ It is important to realize that these terms can have different connotations depe
 
 Tying these thoughts together, I see two different kinds of visualization:
 
-<ul>
-<li>Pragmatic visualization. The type of visualization that is done by people in computer science and whose goal it is to create images from data in order to provide insight. This is useful, or utilitarian.</li>
-<li>Artistic visualization, or data art. This is work done by artists, who do not care about insight but rather want to raise an issue or want to make you think. If this work is useful, that's an unintended side effect. The point is to make something interesting and/or beautiful.</li>
-</ul>
+- Pragmatic visualization. The type of visualization that is done by people in computer science and whose goal it is to create images from data in order to provide insight. This is useful, or utilitarian.
+- Artistic visualization, or data art. This is work done by artists, who do not care about insight but rather want to raise an issue or want to make you think. If this work is useful, that's an unintended side effect. The point is to make something interesting and/or beautiful.
 
-In <a href="/publications/Kosara-IV-2007">a paper a while ago</a> I used these criteria to not only define these two kinds of visualization, but propose the sublime as a dimension along which different kinds of work can be arranged.
+In [a paper a while ago](/publications/Kosara-IV-2007) I used these criteria to not only define these two kinds of visualization, but propose the sublime as a dimension along which different kinds of work can be arranged.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/artisticpragmatic2.png" alt="Artistic/Sublime vs. Pragmatic/Anti-Sublime" title="Artistic/Sublime vs. Pragmatic/Anti-Sublime" width="442" height="83" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/artisticpragmatic2.png" alt="Artistic/Sublime vs. Pragmatic/Anti-Sublime" width="442" height="83"/></figure>
 
 Not every visualization is necessarily on one of the ends, there's a middle ground there as well. But as it gets more artistic, it loses its utility. And by trying to be more useful, it loses its artistic appeal.
 
-Right there in the middle is the place where there is a kind of <a href="http://en.wikipedia.org/wiki/Uncanny_valley">uncanny valley</a>: the kind of <a href="/criticism/the-visualization-cargo-cult">cargo cult visualizations</a> that make no sense as either useful pragmatic visualizations or sublime artistic ones. They're trying to do both but succeed at neither. They use the tools of visualization without understanding what they are for, like somebody wielding a brush and oil paint thinking that alone will make a piece of art.
+Right there in the middle is the place where there is a kind of [uncanny valley](http://en.wikipedia.org/wiki/Uncanny_valley): the kind of [cargo cult visualizations](/criticism/the-visualization-cargo-cult) that make no sense as either useful pragmatic visualizations or sublime artistic ones. They're trying to do both but succeed at neither. They use the tools of visualization without understanding what they are for, like somebody wielding a brush and oil paint thinking that alone will make a piece of art.
 
 ## The Heisenberg Principle of Visualization
 
@@ -53,16 +51,16 @@ One problem with accepting this dichotomy of art or visualization is that a lot 
 
 But there is a place where these things can be art because the sublime is not an objective property of a thing. If I don't know what a visualization shows, and perhaps even that it is a visualization, I can experience its beauty as something that is sublime. At the moment where I realize (or am told) what is shown and how to read it, the sublime quality disappears and it becomes utilitarian and anti-sublime.
 
-This is the problem with the <a href="/blog/2006/informative-art">informative art piece I discussed a while ago</a>. If you don't know what it means, it is sublime.
+This is the problem with the [informative art piece I discussed a while ago](/blog/2006/informative-art). If you don't know what it means, it is sublime.
 
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/Skogetal-buses.png" alt="Two bus lines - Skog et al, InfoVis 2003" title="Two bus lines - Skog et al, InfoVis 2003" width="538" height="210"></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/Skogetal-buses.png" alt="Two bus lines - Skog et al, InfoVis 2003" width="538" height="210"/></figure>
 
 But once you're told what the different parts mean (and that it is, in fact, a visualization), it loses that quality and becomes a useful visualization like any other.
 
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/Skogetal-metaphor.png" alt="The visual metaphor - Skog et al, 2003" title="The visual metaphor - Skog et al, 2003" width="541" height="313" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/Skogetal-metaphor.png" alt="The visual metaphor - Skog et al, 2003" width="541" height="313"/></figure>
 
 Whether it is art or not is clearly in the eye (and mind) of the beholder.
 
-<hr>
+---
 
 Teaser image: Mark Tansey, Modern/Postmodern (1981)

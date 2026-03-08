@@ -1,6 +1,6 @@
 # Edward Tufte's One Day Course: A Review
 
-Last Monday, I got to attend <a href="http://www.edwardtufte.com/tufte/courses">Edward Tufte’s one-day course</a>. I was looking forward to a day of interesting examples, ideas, and discussions, but was disappointed by the amount of rambling and largely historical examples, with little connection to real, current visualization (or presentation) work.
+Last Monday, I got to attend [Edward Tufte’s one-day course](http://www.edwardtufte.com/tufte/courses). I was looking forward to a day of interesting examples, ideas, and discussions, but was disappointed by the amount of rambling and largely historical examples, with little connection to real, current visualization (or presentation) work.
 
 ## The Setting
 
@@ -10,7 +10,7 @@ As part of the course, you get his four books in a little cardboard box with a h
 
 ## The Good
 
-It’s no secret that Tufte likes paper. <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&amp;topic_id=1">His sparkline technique</a> is meant to be a high-resolution, high-density data display that communicates a lot of data in the same space as a number (or maybe a few numbers). His relentless pounding on PowerPoint is also mostly focused on the fact that slides tend to break information up into small chunks, rather than laying it all out so it can be taken in.
+It’s no secret that Tufte likes paper. [His sparkline technique](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001OR&amp;topic_id=1) is meant to be a high-resolution, high-density data display that communicates a lot of data in the same space as a number (or maybe a few numbers). His relentless pounding on PowerPoint is also mostly focused on the fact that slides tend to break information up into small chunks, rather than laying it all out so it can be taken in.
 
 His suggestion is to hand people the information, in printed form, at the beginning of the meeting and give them 10 minutes to read. That way, everybody can get a sense of what is there, and skip the parts that are not relevant. This makes a lot of sense, though it does assume a certain type of presentation. This will not work for presentations where a certain amount of theatrics is actually important, like a product presentation or even some strategy discussions. For a data-heavy presentation, his method is undoubtedly a good one.
 
@@ -18,7 +18,7 @@ There is also something to be said about the density and size of a sheet of pape
 
 Tufte also has amassed a huge wealth of historical examples of data visualization, some going back many hundreds of years. The presentation in his books is also incredibly well structured and designed, and he is a good speaker. Some parts of it, such as the beginning, were perhaps a bit overly dramatic, but it was never dull.
 
-Where he is also certainly right is his motto of <em>Do whatever it takes!</em> to get the job done. The point here being that you don’t want to pre-specify the tool, but pick it based on requirements. His rant on how academics tend to work the other way around had a lot of truth in it, though it was of questionable relevance to the audience.
+Where he is also certainly right is his motto of *Do whatever it takes!* to get the job done. The point here being that you don’t want to pre-specify the tool, but pick it based on requirements. His rant on how academics tend to work the other way around had a lot of truth in it, though it was of questionable relevance to the audience.
 
 ## The Bad
 
@@ -34,11 +34,11 @@ He had some good points about how Galilei presented some of his observations, li
 
 ## The Ugly
 
-The rambling is one thing, but the 15-minute sales pitch was quite another. Books! Posters! Yes, Tufte told us to buy his books, his posters, and even <a href="http://www.edwardtufte.com/tufte/books_vt">his mother’s book on grammar</a>, the only non-ET book Graphics Press sells. You really don’t expect that when you’re paying $380 for the day.
+The rambling is one thing, but the 15-minute sales pitch was quite another. Books! Posters! Yes, Tufte told us to buy his books, his posters, and even [his mother’s book on grammar](http://www.edwardtufte.com/tufte/books_vt), the only non-ET book Graphics Press sells. You really don’t expect that when you’re paying $380 for the day.
 
-He also seemed very worried about people realizing how important he was. He listed the things he had done, including not only his recent presidential appointment, but also the importance of sparklines, etc. For the latter, he kept citing the fact that Google had returned more results for the query “sparkline” than “Steve Jobs” – <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003oC">as of July 2011</a>.
+He also seemed very worried about people realizing how important he was. He listed the things he had done, including not only his recent presidential appointment, but also the importance of sparklines, etc. For the latter, he kept citing the fact that Google had returned more results for the query “sparkline” than “Steve Jobs” – [as of July 2011](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0003oC).
 
-One of the videos he showed was of his <a href="http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002vW">wavefields</a> idea, which he describes as an extension of sparklines. What it is, though, is a bizarre claim about HD movies and data representation that is either a prank (as one poster on his forum also noted) or just shows a complete failure to grasp human perception.
+One of the videos he showed was of his [wavefields](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0002vW) idea, which he describes as an extension of sparklines. What it is, though, is a bizarre claim about HD movies and data representation that is either a prank (as one poster on his forum also noted) or just shows a complete failure to grasp human perception.
 
 Throughout the course, Tufte seemed out of touch, both with his audience and with the real world. At least three times, he said something along the lines of “We as real scientists …” to an audience that was hardly a group of scientists. His recommendation of tools also included LaTeX, which may still be the academic choice for writing papers with lots of math, and which have to follow strict formatting guidelines, but hardly a practical suggestion for most business users.
 

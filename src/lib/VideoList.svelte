@@ -47,12 +47,14 @@ let filteredVideos = $derived(videos.slice(0, numVideos === -1 ? videos.length :
     .video-card {
         display: flex;
         flex-direction: column;
+        position: relative;
         border: 1px solid var(--color-border);
         border-radius: 6px;
         overflow: hidden;
         margin-bottom: 2rem;
         background-color: var(--color-bg-1);
         transition: box-shadow 0.2s ease, transform 0.2s ease;
+        cursor: pointer;
     }
 
     .video-card:hover {
@@ -109,6 +111,12 @@ let filteredVideos = $derived(videos.slice(0, numVideos === -1 ? videos.length :
     .card-title a {
         color: var(--color-text);
         text-decoration: none;
+    }
+
+    .card-title a::after {
+        content: "";
+        position: absolute;
+        inset: 0;
     }
 
     .card-title a:hover {

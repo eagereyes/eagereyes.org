@@ -1,6 +1,6 @@
 # My Journey to the Kingdom of NIPS
 
-Over the weekend, I had the opportunity to visit the strange land of NIPS (<a href="http://nips.cc/Conferences/2010/">Neural Information Processing Systems</a>), a kingdom in the far corners of the West, where the Machine Learners dwell. Some of the noblemen there had invited me so that the locals could get a close-up look at one of us Visualization People at <a href="http://cseweb.ucsd.edu/~lvdmaaten/workshops/nips2010/">one of their workshops</a>.
+Over the weekend, I had the opportunity to visit the strange land of NIPS ([Neural Information Processing Systems](http://nips.cc/Conferences/2010/)), a kingdom in the far corners of the West, where the Machine Learners dwell. Some of the noblemen there had invited me so that the locals could get a close-up look at one of us Visualization People at [one of their workshops](http://cseweb.ucsd.edu/~lvdmaaten/workshops/nips2010/).
 
 The Machine Learners are a friendly and peaceful people, if a little peculiar. They do not burden themselves with purposes or tasks. They are content with their work if it functions in itself, and only seem to worry about comparing to their own. It is a serene and seemingly simple world, though one that might feel a little constrained and self-centered to a well-traveled outsider.
 

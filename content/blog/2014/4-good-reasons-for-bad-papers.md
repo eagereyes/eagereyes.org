@@ -1,4 +1,4 @@
-<p align="center"><img class="aligncenter size-medium wp-image-3080" alt="Spam" src="https://media.eagereyes.org/wp-content/uploads/2014/01/spam-730x400.jpg" width="730" height="400" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/spam-730x400.jpg" alt="Spam" width="730" height="400"/></figure>
 
 # Peer Review, Part 4: Good Reasons for Bad Papers
 
@@ -36,8 +36,8 @@ Unfortunately, there is no good way to get feedback on a paper before it is read
 
 Ultimately, there are still valid, if not always very good, reasons to submit papers that the authors know aren’t good enough.
 
-<hr />
+---
 
-This is part of <a href="/tag/peer-review">a five-part series on peer review in visualization</a>. One posting a day will be posted throughout this week.
+This is part of [a five-part series on peer review in visualization](/tag/peer-review). One posting a day will be posted throughout this week.
 
-<a href="http://www.flickr.com/photos/bubbletea/7737891162/">Teaser image by bubbletea1</a>, used under Creative Commons.
+[Teaser image by bubbletea1](http://www.flickr.com/photos/bubbletea/7737891162/), used under Creative Commons.

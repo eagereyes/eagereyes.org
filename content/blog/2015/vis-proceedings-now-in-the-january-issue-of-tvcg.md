@@ -1,14 +1,14 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png" alt="" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png" alt="" width="825" height="510"/></figure>
 
 # VIS Proceedings now in the January Issue of TVCG
 
-There has been a change in the way papers presented at <a href="/tag/ieeevis">IEEE VIS</a> are published in the TVCG journal. It used to be the last issue of the year, but starting in 2015, it's now the January issue of the next year. So all VIS 2015 papers have a publication date of 2016.
+There has been a change in the way papers presented at [IEEE VIS](/tag/ieeevis) are published in the TVCG journal. It used to be the last issue of the year, but starting in 2015, it's now the January issue of the next year. So all VIS 2015 papers have a publication date of 2016.
 
-This change has not exactly been publicized widely, at least I only noticed it more or less by accident. When <a href="http://blogs.scientificamerican.com/sa-visual/the-science-of-visualization/">Jen Christiansen wrote about the papers being included in a special issue early next year</a>, I thought she had made a mistake. But then I looked at the proceedings and lo and behold, they're in <a href="http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7307919">volume 22, number 1</a> instead of volume 21, number 12.
+This change has not exactly been publicized widely, at least I only noticed it more or less by accident. When [Jen Christiansen wrote about the papers being included in a special issue early next year](http://blogs.scientificamerican.com/sa-visual/the-science-of-visualization/), I thought she had made a mistake. But then I looked at the proceedings and lo and behold, they're in [volume 22, number 1](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7307919) instead of volume 21, number 12.
 
-This is not accident, however. The reasoning is to increase the <em>Transactions on Visualization and Computer Graphics</em> (TVCG)'s <a href="https://en.wikipedia.org/wiki/Impact_factor">impact factor</a> (IF). That factor is a way of measuring a journal's standing, like the acceptance rate for a conference. Only in this case, higher is better. The impact factor is simply the average number a paper in that journal is cited, measured over two calendar years. And that's the reason for the change.
+This is not accident, however. The reasoning is to increase the *Transactions on Visualization and Computer Graphics* (TVCG)'s [impact factor](https://en.wikipedia.org/wiki/Impact_factor) (IF). That factor is a way of measuring a journal's standing, like the acceptance rate for a conference. Only in this case, higher is better. The impact factor is simply the average number a paper in that journal is cited, measured over two calendar years. And that's the reason for the change.
 
-<a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945">TVCG has an impact factor of 2.168 for 2014</a>. That is fairly low for a journal when compared to the life sciences and certainly the big ones like <em>Nature</em> and <em>Science</em>. But within visualization, it's clearly the place to go. As a comparison, the <a href="https://us.sagepub.com/en-us/nam/journal/information-visualization">InfoVis journal has an IF of 0.541</a>, <a href="http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=38">CG&amp;A's is 0.911</a>, and <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659"><em>Computer Graphics Forum</em>'s (EuroVis proceedings) is 1.642</a>.
+[TVCG has an impact factor of 2.168 for 2014](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2945). That is fairly low for a journal when compared to the life sciences and certainly the big ones like *Nature* and *Science*. But within visualization, it's clearly the place to go. As a comparison, the [InfoVis journal has an IF of 0.541](https://us.sagepub.com/en-us/nam/journal/information-visualization), [CG&amp;A's is 0.911](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=38), and [*Computer Graphics Forum*'s (EuroVis proceedings) is 1.642](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659).
 
 For the impact factor, papers published later in the year count less because they don't have as much time to be cited. And in particular, dumping more than half the total number of papers published at the very end of the year really doesn't help the numbers. Add to that the fact that VIS papers are much more visible and likely to be cited, and it's clearly not the ideal situation.
 
@@ -18,7 +18,7 @@ The unfortunate side effect of this IF engineering is that the publication date 
 
 I'm not entirely clear if pushing up the impact factor is really worth the confusion, but I'm sure the powers that be considered this at length. I just wish this change had been made a bit more openly, and mentioned at the conference or in the proceedings (I don't see anything in the letter from the editor or the preface from the papers chairs). Doing this hush-hush and pretending that nothing has changed looks a bit odd once people figure it out.
 
-<hr />
+---
 
 Update: I hadn't connected the dots before, but there was another announcement that is related: EuroVis will publish its state of the art reports (STARs) in the journal next year as well. Surveys and STARs get cited a lot and so boost a journal's impact factor. Looks like TVCG isn't the only journal trying to increase its standing.
 

@@ -1,10 +1,9 @@
-<p align="center"><img class="aligncenter size-full wp-image-8242" src="https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTime_lg.jpg" alt="Kraak, Mapping Time" width="500" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTime_lg.jpg" alt="Kraak, Mapping Time" width="500" height="500"/></figure>
 
 # Review: Kraak, Mapping Time
-Can you write an entire book about a single chart? Even if that chart is supposedly the best one ever? Menno-Jan Kraak's new book, <em><a href="http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0">Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812</a></em>, discusses the historical context of Minard's work, his, life, and walks through a number of design exercises to show the same or similar data in different ways.
+Can you write an entire book about a single chart? Even if that chart is supposedly the best one ever? Menno-Jan Kraak's new book, *[Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812](http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0)*, discusses the historical context of Minard's work, his, life, and walks through a number of design exercises to show the same or similar data in different ways.
 
-
-The graphic, which Tufte says “may well be the best statistical graphic ever drawn,” is also often referred to as <em><a href="/journalism/storytelling-minard-vs-nightingale">Napoleon's March</a></em>. It depicts the size of Napoleon's army during the Russian Campaign of 1812, which Napoleon began with over 420,000 men, and ended with only 10,000.
+The graphic, which Tufte says “may well be the best statistical graphic ever drawn,” is also often referred to as *[Napoleon's March](/journalism/storytelling-minard-vs-nightingale)*. It depicts the size of Napoleon's army during the Russian Campaign of 1812, which Napoleon began with over 420,000 men, and ended with only 10,000.
 
 ## Personal Connection
 
@@ -20,7 +19,7 @@ After the description of the graphic and its background, Kraak broadens the scop
 
 While I appreciate a self-confident writer, I find him to be a bit too certain that Minard would have found his analysis useful (p. 94). It's certainly possible, but all signs point to Minard having a very specific message in mind, and all the added data and complexity would have taken away from that. Kraak acknowledges the message at one point, but never seems to wonder if his exercises would have actually furthered Minard's goals.
 
-What is striking is that none of the reworkings and variations approach the elegance and effectiveness of the original. That is also true of <a href="http://www.datavis.ca/gallery/re-minard.php">Michael Friendly's collection of <em>Re-Visions of Minard</em>,</a> which are all terrible (that is not Friendly's fault, to be clear, he only collects them). Some of Kraak's exercises also provide context that is irrelevant or misleading, like putting the diagram on top of a contemporary map (too much information), a recent satellite photo (irrelevant), or a recent map (misleading). In many cases, there is simply too much information, like lots of troop movements of the different corps of Napoleon's army, which don't help illuminate the story without a lot of additional context (i.e., why did they occur?).
+What is striking is that none of the reworkings and variations approach the elegance and effectiveness of the original. That is also true of [Michael Friendly's collection of *Re-Visions of Minard*,](http://www.datavis.ca/gallery/re-minard.php) which are all terrible (that is not Friendly's fault, to be clear, he only collects them). Some of Kraak's exercises also provide context that is irrelevant or misleading, like putting the diagram on top of a contemporary map (too much information), a recent satellite photo (irrelevant), or a recent map (misleading). In many cases, there is simply too much information, like lots of troop movements of the different corps of Napoleon's army, which don't help illuminate the story without a lot of additional context (i.e., why did they occur?).
 
 Kraak is simply too focused on the mapmaking part, and doesn't consider the importance of making a point (though he acknowledges Minard's intent). That is understandable, since it's the typical approach in visualization and very common in cartography to go after analysis. But that doesn't seem to be what Minard was trying to do. This is also clear in his final reflections on whether the map really is the best one ever, which get tangled up in the discussion of other techniques and additional data, when it's really a matter of expressing a point through data.
 
@@ -32,6 +31,6 @@ All of that does not take away from the amazing amount of context that Kraak add
 
 That makes this book successful not just as a description of one of the most famous graphics, but also useful as a learning tool. Now somebody needs to write a similar book about Nightingale's chart.
 
-<hr />
+---
 
-Menno-Jan Kraak, <a href="http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0"><em>Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812</em></a>. Esri Press, 2014.
+Menno-Jan Kraak, [*Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812*](http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0). Esri Press, 2014.

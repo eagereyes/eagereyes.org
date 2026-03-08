@@ -1,10 +1,10 @@
-<p align="center"><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230" /></p>
+<figure><img src="https://media.eagereyes.org/media/attachments/vis-is-communication.png" alt="" width="600" height="230"/></figure>
 
 # The Unbearable Subjectivity of Visualization
 
-While reading Jarke van Wijk's <em>Views on Visualization</em>, I could not help but notice the negative references he makes to the subjectivity of visualization. A visualization science on par with statistics would certainly require the elimination of any and all subjectivity. I do not think that visualization is such a science, or that it being that is even all that desirable.
+While reading Jarke van Wijk's *Views on Visualization*, I could not help but notice the negative references he makes to the subjectivity of visualization. A visualization science on par with statistics would certainly require the elimination of any and all subjectivity. I do not think that visualization is such a science, or that it being that is even all that desirable.
 
-The subjectivity argument stands out especially in a paper titled <em>Views on Visualization</em>, which is more of a position statement than a traditional technical paper. While van Wijk presents ideas that are common in visualization (or at least acceptable once presented), he stresses the personal nature of his views in the introduction, and uses the first person deliberately when talking about his experiences and anecdotal evidence.
+The subjectivity argument stands out especially in a paper titled *Views on Visualization*, which is more of a position statement than a traditional technical paper. While van Wijk presents ideas that are common in visualization (or at least acceptable once presented), he stresses the personal nature of his views in the introduction, and uses the first person deliberately when talking about his experiences and anecdotal evidence.
 
 ## Subjectivity as a Problem
 
@@ -14,9 +14,9 @@ Clearly, subjectivity is something negative:
 >	
 >	Unfortunately, visualization often does not meet this aim.
 
-He then goes on to argue that it's not all bad, but gets very defensive: <em>This does not mean that visualization is useless.</em> And why would it?
+He then goes on to argue that it's not all bad, but gets very defensive: *This does not mean that visualization is useless.* And why would it?
 
-It appears to me that we have the wrong ideas about visualization, and this is limiting our abilitiy to make visualization more than a manual alternative to data mining. Subjectivity is only bad if we suspect the user to twist the visualization to an extent where the visual result is not actually reflected in the data (which is undoubtably possible in many cases). But there are also other ways of looking at subjectivity, one of them is commonly known as <em>the task</em>. Statistics and data mining in all their objective glory cannot capture the intent of the user: what is the goal? What do I want to get out of the data? What does the data mean to me? There is of course an infinite number of objective truths about the any particular data set, and all but a very few are entirely meaningless to the user. Any actual analysis involves picking a particular subset of those truths to come to a conclusion, or to make a point.
+It appears to me that we have the wrong ideas about visualization, and this is limiting our abilitiy to make visualization more than a manual alternative to data mining. Subjectivity is only bad if we suspect the user to twist the visualization to an extent where the visual result is not actually reflected in the data (which is undoubtably possible in many cases). But there are also other ways of looking at subjectivity, one of them is commonly known as *the task*. Statistics and data mining in all their objective glory cannot capture the intent of the user: what is the goal? What do I want to get out of the data? What does the data mean to me? There is of course an infinite number of objective truths about the any particular data set, and all but a very few are entirely meaningless to the user. Any actual analysis involves picking a particular subset of those truths to come to a conclusion, or to make a point.
 
 Statistics is an obvious standard for comparison, especially for InfoVis (the paper is general enough to actually cover both Information and Scientific Visualization, though). Many techniques in InfoVis are based on statistical measures if not statistical graphics, and Martin Theus even claims that visualization is applied statistics – van Wijk seems to have a similar point of view. But why compete with statistics? And how? It's obvious that visualization will never have the accuracy a purely mathematical method has, or offer the thorough data digestion of data mining. Why go back to slide rules when we have pocket calculators?
 
@@ -36,16 +36,16 @@ Even if all that was possible, would that be desirable? What would be the point?
 
 This is what is commonly known as expression and communication. Assuming there has been no downright lying, we have to accept any interpretation of the data as valid, just as we have to accept any statistical measure. But by emphasizing different aspects of the data, by picking subsets, or by fiddling with settings, we can present different points of view. That may make things more complex, but also more interesting.
 
-Does that mean that anything goes? Any visualization is good and useful? Of course not, but we need to broaden our ideas and criteria for good visualizations. There is never only one truth about a data set, regardless of how it is analyzed or presented. This was a major point of discussion at the <a href="/blog/2007/infovis-2007-infovis-for-the-masses">Social Data Visualization Panel</a>, and perhaps the crucial one. Academics can't control visualization, nobody will ask us to sanction every visualization that is produced. We need to learn to let go.
+Does that mean that anything goes? Any visualization is good and useful? Of course not, but we need to broaden our ideas and criteria for good visualizations. There is never only one truth about a data set, regardless of how it is analyzed or presented. This was a major point of discussion at the [Social Data Visualization Panel](/blog/2007/infovis-2007-infovis-for-the-masses), and perhaps the crucial one. Academics can't control visualization, nobody will ask us to sanction every visualization that is produced. We need to learn to let go.
 
 ## Conclusions
 
 I don't disagree with van Wijk's points about subjectivity, but I think we are doing ourselves a disservice by trying to eliminate, control, or even just downplay it. Subjectivity is a great strength that may be daunting to the technically minded person, but that makes things like photography, email, language, etc. so powerful. Just like there is no central authority for which truths can be expressed in English, there is no central authority for visualization. Why would we want things to be different?
 
-2007 was the year of <a href="/blog/2007/infovis-2007-infovis-for-the-masses">social visualization</a>. With any luck, 2008 will be when people will start embracing the subjective nature of visualization and realize that visualization is communication.
+2007 was the year of [social visualization](/blog/2007/infovis-2007-infovis-for-the-masses). With any luck, 2008 will be when people will start embracing the subjective nature of visualization and realize that visualization is communication.
 
-<strong>Update:</strong> Jorge Camoes has posted an <a href="http://charts.jorgecamoes.com/minard-tufte-kosslyn-godin-napoleon/">interesting discussion of Minard's <em>Napoleon's March</em></a> that provides food for thought along similar lines.
+**Update:** Jorge Camoes has posted an [interesting discussion of Minard's *Napoleon's March*](http://charts.jorgecamoes.com/minard-tufte-kosslyn-godin-napoleon/) that provides food for thought along similar lines.
 
-<hr />
+---
 
-Image credits: Left half taken from the cited paper; right part from <a href="http://en.wikipedia.org/wiki/Image:Encoding_communication.jpg">illustration</a> for the <a href="http://en.wikipedia.org/wiki/Communication">Wikipedia entry on communication</a> by Luis Javier Rodriguez Lopez.
+Image credits: Left half taken from the cited paper; right part from [illustration](http://en.wikipedia.org/wiki/Image:Encoding_communication.jpg) for the [Wikipedia entry on communication](http://en.wikipedia.org/wiki/Communication) by Luis Javier Rodriguez Lopez.

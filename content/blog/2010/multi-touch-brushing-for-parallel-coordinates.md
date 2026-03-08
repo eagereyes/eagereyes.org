@@ -1,10 +1,10 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"></p>
+<figure><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"/></figure>
 
 # Multi-touch Brushing for Parallel Coordinates
 
 Interaction in visualization is incredibly important, but often more tedious than it needs to be. I have developed a new way of brushing in parallel coordinates that uses the multi-touch trackpads on Apple's MacBook and MacBook Pro laptops for faster interaction. The video below demonstrates the technique, and the source code is available.
 
-This is a little experiment that has gotten out of hand a bit. I recently submitted a paper to a conference that doesn't let me attach additional materials, so I figured I'd put the video up on vimeo and link to it in the paper. I also posted a link on my secondary blog (edit: long defunct), which got posted on Twitter, and which ended up being blogged by some <a href="http://www.theusrus.de/blog/why-do-we-do-it-–-cause-we-can/">other</a> <a href="http://interactivemultimediatechnology.blogspot.com/2010/07/multi-touch-parallel-coordinates-for.html">people</a>.
+This is a little experiment that has gotten out of hand a bit. I recently submitted a paper to a conference that doesn't let me attach additional materials, so I figured I'd put the video up on vimeo and link to it in the paper. I also posted a link on my secondary blog (edit: long defunct), which got posted on Twitter, and which ended up being blogged by some [other](http://www.theusrus.de/blog/why-do-we-do-it-–-cause-we-can/) [people](http://interactivemultimediatechnology.blogspot.com/2010/07/multi-touch-parallel-coordinates-for.html).
 
 If you've used a MacBook or MacBook Pro, you know how simple and intuitive the two-finger scrolling is. Similarly, there are some interactions on the iPhone that are so obvious (like the pinch for zooming) that it's tough to remember how we did things before touch screens. I wanted to create a similar experience for brushing in parallel coordinates.
 
@@ -17,8 +17,8 @@ The trackpad is not just a good fit because it's a lot more common than large to
 The video below demonstrates the technique. It's still quite a different thing to actually try it out yourself, though. It allows for very fast exploration of data, unlike any interaction technique I'm aware of. Using your fingers is not very precise, but that's not the goal here, anyway: it's about getting a feeling for a new dataset.
 
 <iframe src="https://player.vimeo.com/video/13437693?h=6f9b63104a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/13437693">Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates</a> from <a href="https://vimeo.com/eagereyes">Robert Kosara</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+[Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates](https://vimeo.com/13437693) from [Robert Kosara](https://vimeo.com/eagereyes) on [Vimeo](https://vimeo.com).
 
-You can watch the <a href="http://vimeo.com/13437693">video in HD</a> on the vimeo site. The inset in the lower right is meant as a guide to show what the fingers are doing, not as a part of the actual user interface. People have suggested showing the location of the fingers as an overlay, but when you watch the video you will see why this would be a bad idea: the fingers don't have to line up with the axes, plus the floating dots would be distracting.
+You can watch the [video in HD](http://vimeo.com/13437693) on the vimeo site. The inset in the lower right is meant as a guide to show what the fingers are doing, not as a part of the actual user interface. People have suggested showing the location of the fingers as an overlay, but when you watch the video you will see why this would be a bad idea: the fingers don't have to line up with the axes, plus the floating dots would be distracting.
 
-I have also posted the <a href="http://github.com/eagereyes/ParVisMT">source code</a> and there's an executable under the downloads tab if you want to play with it. Be advised, though, that this is a pure research prototype that demonstrates the technique but doesn't do anything useful. The data is hardcoded and the program only lets you brush and rearrange axes, nothing else. The program requires Mac OS X 10.6 "Snow Leopard" and a recent MacBook or MacBook Pro.
+I have also posted the [source code](http://github.com/eagereyes/ParVisMT) and there's an executable under the downloads tab if you want to play with it. Be advised, though, that this is a pure research prototype that demonstrates the technique but doesn't do anything useful. The data is hardcoded and the program only lets you brush and rearrange axes, nothing else. The program requires Mac OS X 10.6 "Snow Leopard" and a recent MacBook or MacBook Pro.

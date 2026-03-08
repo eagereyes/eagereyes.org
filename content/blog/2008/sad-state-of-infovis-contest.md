@@ -1,12 +1,12 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" border="0" alt="Gladiators" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/gladiator.jpg" alt="Gladiators"/></figure>
 
 # The Sad State of the InfoVis Contest
 
 In some fields, contests drive research and the entire field forward. Those contests are prestigious, and people list the fact that they won the contest in their CVs. In InfoVis, the contest is trying to appeal to researchers, but is getting little attention. What should the role of the contest be? And how can we make it more interesting?
 
-I've been one of the InfoVis contest co-chairs for two years, and I wanted to make it more appealing by learning from past mistakes. My main point of reference was the <a href="http://sun.cs.lsus.edu/iv06/">US census data</a> that had been used in 2006. The data was in huge, fixed-width ASCII files that were difficult to parse. The encoding of values was explained in a large PDF, and needed to be extracted by hand. That year, the contest only got a handful of submissions, and I could understand why.
+I've been one of the InfoVis contest co-chairs for two years, and I wanted to make it more appealing by learning from past mistakes. My main point of reference was the [US census data](http://sun.cs.lsus.edu/iv06/) that had been used in 2006. The data was in huge, fixed-width ASCII files that were difficult to parse. The encoding of values was explained in a large PDF, and needed to be extracted by hand. That year, the contest only got a handful of submissions, and I could understand why.
 
-So for the <a href="/blog/2007/infovis-contest-2007-data">IMDB movie data set last year</a>, I wrote a parser and Java classes so people could get started more quickly. There was also a way to connect the data to the <a href="http://www.netflixprize.com/">Netflix prize data</a>, which had to be downloaded separately. While we did get a nice number of submissions, nobody made use of the Netflix data.
+So for the [IMDB movie data set last year](/blog/2007/infovis-contest-2007-data), I wrote a parser and Java classes so people could get started more quickly. There was also a way to connect the data to the [Netflix prize data](http://www.netflixprize.com/), which had to be downloaded separately. While we did get a nice number of submissions, nobody made use of the Netflix data.
 
 ## Challenge or Exercise?
 
@@ -14,7 +14,7 @@ The fundamental question is what the role of the contest should be. Is it about 
 
 What should be provided? Is the data alone enough or do we need to provide parsers, converters, etc.? There is no widely-used standard for data files other than CSV and none for metadata. What languages should we provide parsers for? I did not hear any complaints about the Java classes for the movie data, but that doesn't mean everybody is using Java.
 
-So this year, we got the offer from Yuri Ivanov and Chris Wren of MERL to use their <a href="http://www.merl.com/wmd/infovis.html">tracking sensor data</a>. This data had been used in last year's Best Paper at InfoVis. And in terms of the data format, it seemed simple enough that we didn't think it would make much sense to provide parsers and/or classes. The response has been rather disappointing. I won't discuss details here, we will present the results at the InfoVis conference in October. But I had expected more.
+So this year, we got the offer from Yuri Ivanov and Chris Wren of MERL to use their [tracking sensor data](http://www.merl.com/wmd/infovis.html). This data had been used in last year's Best Paper at InfoVis. And in terms of the data format, it seemed simple enough that we didn't think it would make much sense to provide parsers and/or classes. The response has been rather disappointing. I won't discuss details here, we will present the results at the InfoVis conference in October. But I had expected more.
 
 The tracking data was of course very different than most InfoVis data: not multi-dimensional, strongly time-oriented, semi-structured (through tracklets). But that was exactly the point! We wanted people to think about what to do with that kind of data. Think outside the box! Do something new! Figure out how to squeeze that data into your existing tools, if necessary.
 
@@ -32,7 +32,7 @@ One goal that we did not meet up to now is to have the next year's data availabl
 
 Another question is finding data that people can relate to and that has some significance. The movie data sparked people's interest, but I felt bad about it being more popular than the census data. Undoubtedly, the census data had much more potential for us to learn something about the social structure of the US and perhaps even to find interesting new connections between say, poverty and the mix of ethnicities in different regions (or something a bit less obvious).
 
-But relevant data may not be the sexiest. I also feel that many people like toy data sets of one kind or another because they don't have to deal with results that might have implications other than what movie genres are more popular. InfoVis seems to be entirely opposed to political statements, even if grounded in sound data and visualization. And I think that's a <a href="/blog/2008/visual-display-of-relevant-information">big problem in making InfoVis relevant</a>.
+But relevant data may not be the sexiest. I also feel that many people like toy data sets of one kind or another because they don't have to deal with results that might have implications other than what movie genres are more popular. InfoVis seems to be entirely opposed to political statements, even if grounded in sound data and visualization. And I think that's a [big problem in making InfoVis relevant](/blog/2008/visual-display-of-relevant-information).
 
 ## Quo Vadis, InfoVis Contest?
 

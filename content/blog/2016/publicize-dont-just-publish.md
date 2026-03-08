@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png" width="637" height="388" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png" width="637" height="388"/></figure>
 
 # Publicize, Don't Just Publish!
 
@@ -6,9 +6,9 @@ What does it mean to publish a paper? Is it just to add a bullet point to your C
 
 Publishing your results is an integral part of doing science. Why work on figuring out something new if you're not going to tell anybody? Exchanging ideas, critiquing them, building on them, and then publishing new ones is the way science works.
 
-There is another aspect of publication, though: publicizing and socializing your work. You can't expect people in your field to know what you wrote, just because you published a paper. There's too much going on even within visualization, and certainly if you try to go outside your narrow field (see <a href="http://science.sciencemag.org/content/342/6154/58.full">this wonderful comic Randall Munroe did for <em>Science</em> in 2013</a>).
+There is another aspect of publication, though: publicizing and socializing your work. You can't expect people in your field to know what you wrote, just because you published a paper. There's too much going on even within visualization, and certainly if you try to go outside your narrow field (see [this wonderful comic Randall Munroe did for *Science* in 2013](http://science.sciencemag.org/content/342/6154/58.full)).
 
-And yet, it's still rarely done. Many of the talks I saw at <a href="/blog/2016/eurovis-2016-tuesday-and-wednesday">EuroVis</a> <a href="/blog/2016/eurovis-2016-thursday-and-friday">recently</a> did not have any sort of URL on the slides. That makes it hard for people to follow up and learn more, and it also makes it hard for me to write about the work. It's not very interesting to write about some great paper without being able to point my readers to something – anything. If you want me to write about your stuff, you have to have a URL.
+And yet, it's still rarely done. Many of the talks I saw at [EuroVis](/blog/2016/eurovis-2016-tuesday-and-wednesday) [recently](/blog/2016/eurovis-2016-thursday-and-friday) did not have any sort of URL on the slides. That makes it hard for people to follow up and learn more, and it also makes it hard for me to write about the work. It's not very interesting to write about some great paper without being able to point my readers to something – anything. If you want me to write about your stuff, you have to have a URL.
 
 ## Why Publicize?
 
@@ -24,13 +24,11 @@ Also, if you're working at a public university, your work is paid for with taxpa
 
 Now that you're convinced that publicizing your work is a good idea, here are a few things you can do to go about it.
 
-<ul>
-    <li><strong>Landing page.</strong> This is the minimum. Put up a webpage somewhere. I'm not going to tell you where to find webspace – this is 2016. You have a website. Make a page. You're smart enough to write a paper, you're smart enough to make a webpage.</li>
-    <li><strong>Materials.</strong> What goes on the landing page? At a minimum, there has to be a title and abstract, plus at least one image. In addition, put any materials there that you can share: code, study data, etc. Plus of course the next item:</li>
-    <li><strong>Put the paper PDF online!</strong> It's so obvious, and yet I'm amazed by how many papers I can't find online. Don't expect everybody to have access to the various digital libraries (especially Eurographics is really hard to get to outside of Europe, making your EuroVis papers all but inaccessible). Put it out there where people can find it with just a simple Google search and a click. The more hoops I have to jump through to get to your paper, the less likely I am to read it.</li>
-    <li><strong>Have a blog.</strong> I don't understand why academics don't blog. I really don't. It makes no sense. If you have no other reason to blog than to publicize your work, then do it for that! Write a posting once a month. Even if you have a small blog, that likely gives you many times the reach your paper would otherwise have.</li>
-    <li><strong>Make noise on Twitter.</strong> The visualization community is pretty active on Twitter. Talk to people. Tweet stuff (and include pictures!). People tend to be receptive and Twitter is a great way to reach a lot of interested people.</li>
-</ul>
+- **Landing page.** This is the minimum. Put up a webpage somewhere. I'm not going to tell you where to find webspace – this is 2016. You have a website. Make a page. You're smart enough to write a paper, you're smart enough to make a webpage.
+- **Materials.** What goes on the landing page? At a minimum, there has to be a title and abstract, plus at least one image. In addition, put any materials there that you can share: code, study data, etc. Plus of course the next item:
+- **Put the paper PDF online!** It's so obvious, and yet I'm amazed by how many papers I can't find online. Don't expect everybody to have access to the various digital libraries (especially Eurographics is really hard to get to outside of Europe, making your EuroVis papers all but inaccessible). Put it out there where people can find it with just a simple Google search and a click. The more hoops I have to jump through to get to your paper, the less likely I am to read it.
+- **Have a blog.** I don't understand why academics don't blog. I really don't. It makes no sense. If you have no other reason to blog than to publicize your work, then do it for that! Write a posting once a month. Even if you have a small blog, that likely gives you many times the reach your paper would otherwise have.
+- **Make noise on Twitter.** The visualization community is pretty active on Twitter. Talk to people. Tweet stuff (and include pictures!). People tend to be receptive and Twitter is a great way to reach a lot of interested people.
 
 There are always questions about putting the papers online. The major publishers in visualization let you do that without issue. You're always allowed to have a copy of your paper on some institutional or personal website. There are some technicalities around whether it's the final version or not, and whether it's allowed to go up before actual publication. But in reality, nobody cares and nobody polices this (and what could they possibly do?). So put your papers online if you want people to read them.
 

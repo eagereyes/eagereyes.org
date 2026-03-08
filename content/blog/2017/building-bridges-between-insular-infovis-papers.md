@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500"/></figure>
 
 # Building Bridges Between Insular InfoVis Papers
 
@@ -16,15 +16,15 @@ Individual projects and creativity are important, of course. But a field also ne
 
 Papers published at EuroVis, InfoVis, VAST (with exceptions, since VAST also has a conference-only track), and SciVis are published in special editions of journals. CHI proceedings are not technically a journal, but the bar is very similar.
 
-Journal papers are great because they count much more than conference papers (especially for people unfamiliar with publishing in computer science) and thus make for a better CV. Journal papers are problematic because the bar for novelty is high and anything considered <em>incremental</em> is sure to get rejected.
+Journal papers are great because they count much more than conference papers (especially for people unfamiliar with publishing in computer science) and thus make for a better CV. Journal papers are problematic because the bar for novelty is high and anything considered *incremental* is sure to get rejected.
 
 For my talk at EuroRVVV last week, I tried to show my view of the field with this little sketch. The big red blobs are journal papers, the small circles are the minor workshop and short papers that drift around the periphery.
 
-<p align="center"><img class="aligncenter size-full wp-image-10124" src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-outside.jpg" alt="" width="660" height="495" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-outside.jpg" alt="" width="660" height="495"/></figure>
 
 This is what I think we should be doing, however: use the smaller pieces to fill in the gaps between the large ones. Make connections. Dig deeper. Iterate and increment. There is a lot of value in doing this if done right, but it’s not done much right now. But the picture would look much more like this.
 
-<p align="center"><img class="aligncenter size-full wp-image-10123" src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-inbetween.jpg" alt="" width="660" height="495" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/papers-inbetween.jpg" alt="" width="660" height="495"/></figure>
 
 This is the cohesion I’m thinking about. Small papers that build bridges and that end up clustering the larger pieces together into themes. These themes would then inspire more work, on any level, on related topics. We would know what we’re doing.
 
@@ -34,15 +34,15 @@ Attacking a problem from many different angles, and really deeply understanding 
 
 The criteria for this sort of work need to be established, and they’re more subtle than the usual novelty question. Does this paper ask an interesting question about something we’ve already seen some work about? Does it illuminate a point further than the existing work? Does it provide additional evidence to flesh out a theory? Does it draw connections that give us a new insight, potentially paving the way for interesting new work?
 
-What this sort of work does is fill in the gaps and provide more of the connective tissue between the larger pieces of more traditional research (when I talked to Fernanda Viégas at EuroVis, she called it the <em>glue</em> – another good term if you don’t like my anatomical metaphor). It then allows us to see more connections and build on that work more easily than we have been able to so far.
+What this sort of work does is fill in the gaps and provide more of the connective tissue between the larger pieces of more traditional research (when I talked to Fernanda Viégas at EuroVis, she called it the *glue* – another good term if you don’t like my anatomical metaphor). It then allows us to see more connections and build on that work more easily than we have been able to so far.
 
 ## Collections and Clusters, Not Grand Challenges
 
-In the past, there has been talk of <em>Grand Challenges</em>. The problem with those, in my opinion, is that these captial-letter Grand Challenges are hard to define and, when they’re Grand enough, they end up being quite abstract.
+In the past, there has been talk of *Grand Challenges*. The problem with those, in my opinion, is that these captial-letter Grand Challenges are hard to define and, when they’re Grand enough, they end up being quite abstract.
 
 Instead, perhaps we need to start smaller, with something lower-case and tractable. We don’t have to boil the field down to a dozen or so topics, simply have an idea of interesting, challenging problems that go beyond individual people and projects.
 
-A good name for them might be <em>open questions</em>, <em>research areas</em>, or <em>clusters</em>. Somebody come up with a clever name for them that doesn’t try to imply too much. The idea is for them to be crystallization points for more work that connects to the other parts of that collection. Over time these will grow, as will our understanding of the topic.
+A good name for them might be *open questions*, *research areas*, or *clusters*. Somebody come up with a clever name for them that doesn’t try to imply too much. The idea is for them to be crystallization points for more work that connects to the other parts of that collection. Over time these will grow, as will our understanding of the topic.
 
 These clusters are not meant to live forever as topics, quite the opposite. The size and difficulty should probably be such that they can be solved, or reasonably well understood, by a handful of researchers within five years or so – about the length of a Ph.D.
 

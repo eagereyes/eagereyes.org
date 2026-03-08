@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/printingpress.jpg" border="0" alt="Printing Press" width="540" height="379" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/printingpress.jpg" alt="Printing Press" width="540" height="379"/></figure>
 
 # Starting Your Own Visualization Blog
 
-Getting started with your own blog is so easy today that many people never get to actually doing it. One of the goals of the <em>Putting Visualization on the Web</em> workshop was to get more visualization blogs and websites going. So here are some pointers and a few tips on how to avoid some pitfalls that are especially dangerous for technical people. The goal is not to point to millions of resources, but to narrow down the choices so you can get started writing.
+Getting started with your own blog is so easy today that many people never get to actually doing it. One of the goals of the *Putting Visualization on the Web* workshop was to get more visualization blogs and websites going. So here are some pointers and a few tips on how to avoid some pitfalls that are especially dangerous for technical people. The goal is not to point to millions of resources, but to narrow down the choices so you can get started writing.
 
 ## The Danger of Knowing Too Much
 
@@ -22,9 +22,9 @@ And as for running your own server: don't do it. It's a lot of work that nobody 
 
 Here is a simple choice to get you going. It's this or that, a or b, yes or no. If you can't make a decision, flip a coin. You can't go wrong.
 
-<strong><a href="http://wordpress.com/">Wordpress</a></strong>. Wordpress is one of the best blogging systems around. Even better, Wordpress.com hosts the system for you, patches it, and keeps things up to date. Their content delivery system and server infrastructure is way better than any shared hosting, period. You never have to worry about somebody hacking your badly configured or outdated installation, spammers, etc. Wordpress does both blogging and pages (static content), you can upload images, etc. And the best part: it's free. For a small fee, you can point your domain to your blog (otherwise it's something.wordpress.com), get additional storage (the first 3GB are free), etc.
+**[Wordpress](http://wordpress.com/)**. Wordpress is one of the best blogging systems around. Even better, Wordpress.com hosts the system for you, patches it, and keeps things up to date. Their content delivery system and server infrastructure is way better than any shared hosting, period. You never have to worry about somebody hacking your badly configured or outdated installation, spammers, etc. Wordpress does both blogging and pages (static content), you can upload images, etc. And the best part: it's free. For a small fee, you can point your domain to your blog (otherwise it's something.wordpress.com), get additional storage (the first 3GB are free), etc.
 
-<strong><a href="http://tumblr.com/">Tumblr</a></strong>. This is a fairly new system, but one I really like. It's very much focused on getting you directly to writing, without much fuss. You can follow other people's tumblrs and they can follow you. There are also different types of postings, like text, image, link, etc. that make a lot of sense when combined with some smart themes. Tumblr is completely free, even if you want to run it under your own domain.
+**[Tumblr](http://tumblr.com/)**. This is a fairly new system, but one I really like. It's very much focused on getting you directly to writing, without much fuss. You can follow other people's tumblrs and they can follow you. There are also different types of postings, like text, image, link, etc. that make a lot of sense when combined with some smart themes. Tumblr is completely free, even if you want to run it under your own domain.
 
 Both Wordpress and Tumblr take only a few minutes to set up. It's not an exaggeration to say that you can have your first postings online within ten minutes. If your goal is actually creating content, you can't beat that.
 

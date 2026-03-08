@@ -1,14 +1,14 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png" width="600" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png" width="600" height="486"/></figure>
 
 # The Importance of Context
 
-I use a <a href="http://misfit.com/">Misfit activity tracker</a> to count my steps. The Misfit app does a decent job of showing me step counts per day and every month, misfit also sends me a summary of the previous month’s activity. Unfortunately, the numbers in that summary are presented without any context, making that summary almost entirely useless.
+I use a [Misfit activity tracker](http://misfit.com/) to count my steps. The Misfit app does a decent job of showing me step counts per day and every month, misfit also sends me a summary of the previous month’s activity. Unfortunately, the numbers in that summary are presented without any context, making that summary almost entirely useless.
 
 ## Misfit’s Missteps
 
 The data in the screenshot is from April. I took close to 490,000 steps, earned some number of points, burned over 100,000 calories, traveled 281 somethings, and slept 215 hours.
 
-Okay. Now what? Is that a lot? How am I supposed to know? What does it even mean to sleep 215 hours in a month? That’s not a meaningful way of stating that number. And notice that all the fields with numbers have the unit in the name, except for distance. I’m assuming it’s 281 <em>miles</em>, but why not state that?
+Okay. Now what? Is that a lot? How am I supposed to know? What does it even mean to sleep 215 hours in a month? That’s not a meaningful way of stating that number. And notice that all the fields with numbers have the unit in the name, except for distance. I’m assuming it’s 281 *miles*, but why not state that?
 
 ## Meaningful Units
 
@@ -24,7 +24,7 @@ Sleep is where it gets problematic. 215 hours of sleep total means about 7 hours
 
 ## Context: An Outlier
 
-Now both Misfit and I know that there’s an outlier in my data. It’s even on this summary: April 30. I ran the <a href="http://bsim.org/">Big Sur Marathon</a> that day and took over 50,000 steps. The summary says that this was my best day, but it doesn’t exactly tell me by how much: it’s almost 20,000 steps more than any other day during that month (and those days are long runs, so they’re also outliers). That seems relevant to point out, not just as a single “best day” – which could just be a fairly regular day.
+Now both Misfit and I know that there’s an outlier in my data. It’s even on this summary: April 30. I ran the [Big Sur Marathon](http://bsim.org/) that day and took over 50,000 steps. The summary says that this was my best day, but it doesn’t exactly tell me by how much: it’s almost 20,000 steps more than any other day during that month (and those days are long runs, so they’re also outliers). That seems relevant to point out, not just as a single “best day” – which could just be a fairly regular day.
 
 The entire month is at least remarkable for the fact that it’s the most distance I’ve ever run in a calendar month, which also makes it the most steps I’ve ever taken in a month. Pointing that out would put the data into larger context than just that one month.
 
@@ -34,7 +34,7 @@ There is a lot more potential to add context here. I still don’t know if any o
 
 Going further, what about setting a goal and showing me progress? Misfit doesn’t let me do that, but Strava does a decent job at this for both weekly and yearly goals.
 
-<p align="center"><img class="aligncenter wp-image-10144" src="https://media.eagereyes.org/wp-content/uploads/2017/07/strava-goals.png" alt="" width="356" height="275" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/strava-goals.png" alt="" width="356" height="275"/></figure>
 
 Even this could be improved (and I’ll have more to say about data display in fitness tracking more generally in another posting), but it’s a good start.
 

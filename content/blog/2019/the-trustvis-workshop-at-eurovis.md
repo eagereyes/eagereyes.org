@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg" width="660" height="995" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg" width="660" height="995"/></figure>
 
 # The TrustVis Workshop at EuroVis
 
-I'm one of the organizers of the new <a href="https://trustvis.org">TrustVis Workshop at EuroVis</a> this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5!
+I'm one of the organizers of the new [TrustVis Workshop at EuroVis](https://trustvis.org) this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5!
 
 So it's not entirely new, you may remember the EuroVis Workshop on Replicability, Validation, and Verification in Visualization, better known under its highly euphonic acronym, EuroRVVV.
 
@@ -12,6 +12,6 @@ This is also a question when it comes to users exploring a new tool. Does this s
 
 This even goes into matters of policy. For example, for a long time, doctors had to look at every single slice in a CT scan and could not base their diagnosis on 3D renderings. I don't know if that's still the case, but trust can clearly have enormous consequences.
 
-The full call and details on how to submit are available on <a href="https://trustvis.org">the TrustVis website</a>. But the gist of it is: deadline is April 5, we're looking for short/position papers, the workshop will be held at EuroVis in Porto in early June.
+The full call and details on how to submit are available on [the TrustVis website](https://trustvis.org). But the gist of it is: deadline is April 5, we're looking for short/position papers, the workshop will be held at EuroVis in Porto in early June.
 
 My co-chairs Kai Lawonn, Lars Linsen, Noeska Smit, and I are looking forward to your submissions!

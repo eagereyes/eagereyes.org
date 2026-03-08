@@ -18,6 +18,6 @@ The DC targets Ph.D. students who are close to their proposal defense, or about 
 
 All areas covered in the VisWeek conferences are welcome. In the past years, scientific visualization was underrepresented, so we want to specifically encourage people working in that area to participate. But InfoVis and VAST are certainly welcome as well, of course.
 
-As for the how, go to <a href="http://visweek.org/visweek/2011/info/call-participation/doctoral-colloquium">the Doctoral Colloquium page on the VisWeek website</a> for more information. Feel free to email us or post a comment below if you have any questions.
+As for the how, go to [the Doctoral Colloquium page on the VisWeek website](http://visweek.org/visweek/2011/info/call-participation/doctoral-colloquium) for more information. Feel free to email us or post a comment below if you have any questions.
 
 The deadline for submissions in Monday, June 27.

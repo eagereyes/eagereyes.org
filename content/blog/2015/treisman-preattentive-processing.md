@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif" width="825" height="510" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif" width="825" height="510"/></figure>
 
 # Seminal InfoVis Paper: Treisman, Preattentive Processing
 
@@ -6,27 +6,25 @@ A paper on a specific cognitive mechanism may seems like an odd choice as the fi
 
 ## Preattentive Processing in Vision
 
-<a href="http://en.wikipedia.org/wiki/Anne_Treisman">Anne Treisman’s</a> work is unfortunately misunderstood about as often as her name is misspelled (it’s <strong>not</strong> i before e). Her paper, <em><a href="http://www.sciencedirect.com/science/article/pii/S0734189X85800049">Preattentive Processing in Vision</a></em> in the journal <em>Computer Vision, Graphics, and Image Processing</em> (August 1985, vol. 31, no. 2, pp. 157–177), describes a mechanism in our perceptual system that allows us to perform a small set of well-defined operations on certain, well-defined visual properties without the need for conscious processing or serial search.
+[Anne Treisman’s](http://en.wikipedia.org/wiki/Anne_Treisman) work is unfortunately misunderstood about as often as her name is misspelled (it’s **not** i before e). Her paper, *[Preattentive Processing in Vision](http://www.sciencedirect.com/science/article/pii/S0734189X85800049)* in the journal *Computer Vision, Graphics, and Image Processing* (August 1985, vol. 31, no. 2, pp. 157–177), describes a mechanism in our perceptual system that allows us to perform a small set of well-defined operations on certain, well-defined visual properties without the need for conscious processing or serial search.
 
 This is often demonstrated with the so-called pop-out effect. Count the 9s in the following image (this example is stolen from Stephen Few).
 
-<p align="center"><img class="aligncenter size-medium wp-image-8681" src="https://media.eagereyes.org/wp-content/uploads/2015/01/nines-plain.png" alt="nines plain" width="660" height="335" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/nines-plain.png" alt="nines plain" width="660" height="335"/></figure>
 
 Not easy, and in particular it requires scanning the image line by line. You can’t quickly find a shape like a 9 among very similar ones (like 8s, 6s, and 3s). Now let’s try this in a way that activates your preattentive processor.
 
-<p align="center"><img class="aligncenter size-medium wp-image-8680" src="https://media.eagereyes.org/wp-content/uploads/2015/01/nines-bolded.png" alt="nines bolded" width="660" height="335" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/nines-bolded.png" alt="nines bolded" width="660" height="335"/></figure>
 
 Much easier! The 9s pop out. You can’t not see them. They’re there, easy to count. What you can do now is
 
-<ul>
-    <li>detect their presence (or tell their absence) and point to where they were</li>
-    <li>estimate how many there were as a fraction of the total number of objects</li>
-    <li>detect boundaries between groups of objects that have similar properties (i.e., if the 9s were grouped in some way, you would perceive that as a shape).</li>
-</ul>
+- detect their presence (or tell their absence) and point to where they were
+- estimate how many there were as a fraction of the total number of objects
+- detect boundaries between groups of objects that have similar properties (i.e., if the 9s were grouped in some way, you would perceive that as a shape).
 
 All of this is possible even if you only saw this image for a fraction of a second (50–200ms) and your precision does not change significantly if we were to increase the number of objects (up to a reasonable limit).
 
-There are a number of visual properties that this works for, including color, size, orientation, certain texture and motion attributes, etc. Chris Healey has a <a href="http://www.csc.ncsu.edu/faculty/healey/PP/">great webpage with demos and a more complete list</a>.
+There are a number of visual properties that this works for, including color, size, orientation, certain texture and motion attributes, etc. Chris Healey has a [great webpage with demos and a more complete list](http://www.csc.ncsu.edu/faculty/healey/PP/).
 
 Combining preattentive features is problematic: if the numbers were, say, blue and orange, and I wanted you to just count the bold orange ones, you'd still have to search serially (this is called conjunctive search). If they were combined so that the combination was unique (i.e., all bold digits were also orange, but there was nothing else that was orange or bold), that would make things easier and would still be preattentive (disjunctive search).
 

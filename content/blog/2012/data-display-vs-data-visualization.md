@@ -1,14 +1,14 @@
 # Data Display vs. Data Visualization
 
-Gregor Aisch recently <a href="http://vis4.net/blog/posts/lets-break-the-rules/">wrote a posting about gauges</a>, and how he finds them inspiring and beautiful in their simplicity, even though they are generally disliked in visualization. His posting highlights a common misconception about visualization, and a conflation of different uses of data display, that is worth exploring.
+Gregor Aisch recently [wrote a posting about gauges](http://vis4.net/blog/posts/lets-break-the-rules/), and how he finds them inspiring and beautiful in their simplicity, even though they are generally disliked in visualization. His posting highlights a common misconception about visualization, and a conflation of different uses of data display, that is worth exploring.
 
-Gregor takes issue with <a href="http://www.excelcharts.com/blog/thats-data-visualization/">the notion that visualization requires a certain number of data points to be displayed</a>. He also considers “breaking those rules” by showing just a single data point in a chart.
+Gregor takes issue with [the notion that visualization requires a certain number of data points to be displayed](http://www.excelcharts.com/blog/thats-data-visualization/). He also considers “breaking those rules” by showing just a single data point in a chart.
 
 ## Data Display
 
 Let’s take a step back and look at what a speed gauge in a car does, how it works, and how it is used.
 
-<p align="center"><img class="aligncenter size-full wp-image-1990" title="Tachometer_2011_honda_civic" src="https://media.eagereyes.org/wp-content/uploads/2012/07/Tachometer_2011_honda_civic.jpg" alt="" width="573" height="383" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/07/Tachometer_2011_honda_civic.jpg" alt="" width="573" height="383"/></figure>
 
 A gauge consists of a scale with tick marks and numbers, and a pointer needle that points to a value on that scale. When the value changes, perhaps because the car accelerates, the change is reflected immediately.
 
@@ -32,13 +32,13 @@ There is, of course, the possibility of realtime data visualization, where histo
 
 ## Gauges in Data Visualization
 
-Gauges are a common technique used in some areas of visualization, in particular as part of business intelligence (BI) tools, and in particular <em>dashboards</em>. They are generally ridiculed and criticized when they are used for data displays in business contexts (Stephen Few is <a href="http://www.perceptualedge.com/blog/?p=102">a particularly vocal critic</a>).
+Gauges are a common technique used in some areas of visualization, in particular as part of business intelligence (BI) tools, and in particular *dashboards*. They are generally ridiculed and criticized when they are used for data displays in business contexts (Stephen Few is [a particularly vocal critic](http://www.perceptualedge.com/blog/?p=102)).
 
 In data visualization, gauges simply solve the wrong problem. Business decisions cannot be made only on the current value of some measure, but need history and context. Values also typically do not change as fast, nor are as directly coupled, as the amount of pressure on the accelerator and the car’s speed.
 
 Gauges are also a poor choice because they use up a lot of space that could be used to display more data. In the car case, more data would be an impediment to quick perception and decision-making, but in visualization, more data is generally better.
 
-Many BI tools use gauges not because they are effective, but because they look good and can be styled to be pretty and realistic-looking (much like 3D pie charts). Of course, none of that adds any actual functionality. The term <em>dashboard</em> is also unfortunate, because it reinforces the wrong metaphor. Most uses of BI tools are way more complex than driving a car, so the control rooms of NASA mission control or a nuclear power plant (think tons of blinking lights, rows and rows of screens, huge projection screens on the walls, etc.) would be much more accurate.
+Many BI tools use gauges not because they are effective, but because they look good and can be styled to be pretty and realistic-looking (much like 3D pie charts). Of course, none of that adds any actual functionality. The term *dashboard* is also unfortunate, because it reinforces the wrong metaphor. Most uses of BI tools are way more complex than driving a car, so the control rooms of NASA mission control or a nuclear power plant (think tons of blinking lights, rows and rows of screens, huge projection screens on the walls, etc.) would be much more accurate.
 
 Dashboards have their uses as predefined data presentations where somebody put a lot of work into teasing apart the key pieces of information to show and how to present them. In all but the most trivial cases, though, gauges are still not going to be a good choice on a data visualization dashboard.
 

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png" alt="" width="560" height="152" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png" alt="" width="560" height="152"/></figure>
 
 # Beyond Bertin: Seeing the Forest despite the Trees
 
@@ -14,9 +14,9 @@ In the paper, we are calling for a structural theory of visualization, to comple
 
 These are exciting times. We are on the cusp of a major shift towards more theory work in visualization, which will enable us to take bigger steps and to explore new directions in the future. We might even end up turning this field into a science.
 
-<hr />
+---
 
-Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-CGA-2010">Beyond Bertin: Seeing the Forest despite the Trees</a>,
-<em>Computer Graphics and Applications (CG&amp;A), Visualization Viewpoints</em>, vol. 30, no. 5, pp. 7–11, 2010.
+Caroline Ziemkiewicz, Robert Kosara, [Beyond Bertin: Seeing the Forest despite the Trees](/publications/Ziemkiewicz-CGA-2010),
+*Computer Graphics and Applications (CG&amp;A), Visualization Viewpoints*, vol. 30, no. 5, pp. 7–11, 2010.
 
-See also: <a href="/blog/2010/visweek-preview-infovis-theory-workshop-and-panel">Workshop <em>The Role of Theory in Information Visualization</em></a> at VisWeek 2010
+See also: [Workshop *The Role of Theory in Information Visualization*](/blog/2010/visweek-preview-infovis-theory-workshop-and-panel) at VisWeek 2010

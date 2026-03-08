@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png" width="600" height="547" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png" width="600" height="547"/></figure>
 
 # Paper: Business Data Visualization, Beyond the Boring
 
@@ -12,6 +12,6 @@ There are also many things people do in the business world that don't follow the
 
 I hope that this paper will serve as a bit of a provocation, and to get more people interested in doing research in this area. I point out a number of concrete areas to work on, but obviously there's a lot more to be explored and done. But if data vis research can just tackle a few of these topics, that's a great start.
 
-<hr />
+---
 
-Robert Kosara, <a href="/publications/Kosara-CGA-2024">Business Data Visualization, Beyond the Boring</a>, <em>Computer Graphics &amp; Applications (CG&amp;A)</em>, vol. 44, no. 5, pp. 153-158, 2024.
+Robert Kosara, [Business Data Visualization, Beyond the Boring](/publications/Kosara-CGA-2024), *Computer Graphics &amp; Applications (CG&amp;A)*, vol. 44, no. 5, pp. 153-158, 2024.

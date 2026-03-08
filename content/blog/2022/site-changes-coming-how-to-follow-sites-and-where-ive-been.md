@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg" width="832" height="624" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg" width="832" height="624"/></figure>
 
 # Site Changes Coming, How to Follow Sites, and Where I've Been
 
@@ -20,7 +20,7 @@ So there are still decisions to be made, but I hope that by the end of the year,
 
 ## Following Blogs and People Without Social Media
 
-It's kind of sad that social media ended up becoming the way to stay informed about things happening with people or any sort of "content." Before Twitter, there was RSS (and before RSS, there was email, I'll get to that). RSS feeds are great because they're extremely simple and you can follow as many as you want, and just the ones you want. All you need is a way to consume them, or a reader app. I like <a href="https://reederapp.com">Reeder</a> on macOS and iOS, but there are also free ones like <a href="https://feedly.com">Feedly</a>.
+It's kind of sad that social media ended up becoming the way to stay informed about things happening with people or any sort of "content." Before Twitter, there was RSS (and before RSS, there was email, I'll get to that). RSS feeds are great because they're extremely simple and you can follow as many as you want, and just the ones you want. All you need is a way to consume them, or a reader app. I like [Reeder](https://reederapp.com) on macOS and iOS, but there are also free ones like [Feedly](https://feedly.com).
 
 And then there's good old-fashioned email. Email newsletters have become sort of thing over the last couple of years, though I'm a bit skeptical that they will be sustainable by themselves in the long run. You can subscribe to many websites and blogs, including this one, via email though (check the sidebar). I'm actually surprised that almost 3,000 people are doing this in my case, but it shows that this is something people want.
 
@@ -28,11 +28,11 @@ All of this is to say, we don't have to depend on centralized places like Twitte
 
 ## Twitter Alternative Mastodon
 
-A good number of people I follow have recently set up accounts on a distributed social network called Mastodon. For better or worse, it's not a Twitter clone but rather a different approach to social networking (I've seen it described as <em>the Linux of social networks</em>, which strikes me as painfully accurate).
+A good number of people I follow have recently set up accounts on a distributed social network called Mastodon. For better or worse, it's not a Twitter clone but rather a different approach to social networking (I've seen it described as *the Linux of social networks*, which strikes me as painfully accurate).
 
-Since I follow mostly data vis and HCI folks, I see many of them on <a href="https://vis.social/">vis.social</a>, and that's also <a href="https://vis.social/@eagereyes">where I am</a>. There are many other Mastodon instances out there however, and you can follow people across them (this is called federation). It's all more tech-focused than it should be, but it's not very difficult to figure out.
+Since I follow mostly data vis and HCI folks, I see many of them on [vis.social](https://vis.social/), and that's also [where I am](https://vis.social/@eagereyes). There are many other Mastodon instances out there however, and you can follow people across them (this is called federation). It's all more tech-focused than it should be, but it's not very difficult to figure out.
 
-There's also a great website called <a href="https://pruvisto.org/debirdify/">Debirdify</a> that connects to your Twitter account and shows you Mastodon account names of people you follow on Twitter, and which instances they're on.
+There's also a great website called [Debirdify](https://pruvisto.org/debirdify/) that connects to your Twitter account and shows you Mastodon account names of people you follow on Twitter, and which instances they're on.
 
 All that said, I'm not leaving Twitter just yet and I don't think it's necessarily doomed to fail (as many people seem to assume). The next months will be rough, but it might come back as a viable platform – we'll see.
 

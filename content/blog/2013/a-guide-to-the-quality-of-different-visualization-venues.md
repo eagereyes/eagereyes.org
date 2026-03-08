@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486"/></figure>
 
 # A Guide to the Quality of Different Visualization Venues
 
@@ -6,7 +6,7 @@ I recently got an email from a colleague, with the subject, “Academic research
 
 ## Journals vs. Conferences
 
-The basic unit of publication is called a <em>paper</em>. Papers can be published in journals or proceedings. Proceedings are the collection of papers presented in a conference, symposium, or workshop. The latter three categories are important because there are big quality differences between them, which I will come back to later.
+The basic unit of publication is called a *paper*. Papers can be published in journals or proceedings. Proceedings are the collection of papers presented in a conference, symposium, or workshop. The latter three categories are important because there are big quality differences between them, which I will come back to later.
 
 Academic journals tend to be of high quality: the papers are usually longer than in conference proceedings, and the review process tends to be more in-depth for journals. A journal paper can go through a number of revisions before publication, which can considerably increase its quality.
 
@@ -28,10 +28,9 @@ The difference between a conference and a symposium isn’t very clearly defined
 
 Workshops tend to be a much more ad-hoc, smaller, and generally of lower quality. The goal of a workshop is discussion and exploration of new topics much more than the presentation of completed research. However, many workshops are unfortunately run as mini-conferences with lots of presentations and little time for discussion.
 
-Workshops tend to have much higher acceptance rates than conferences (50% and higher), and to accept work that is much less finished than conferences. That’s good and bad. The good is that early work can be shown and discussed, but the bad of course is that if you expect to see high-quality work, you might be disappointed. That doesn’t mean that it’s all bad, of course. Workshops like <a href="http://www.beliv.org">BELIV</a> always have some very interesting and thought-provoking papers.
+Workshops tend to have much higher acceptance rates than conferences (50% and higher), and to accept work that is much less finished than conferences. That’s good and bad. The good is that early work can be shown and discussed, but the bad of course is that if you expect to see high-quality work, you might be disappointed. That doesn’t mean that it’s all bad, of course. Workshops like [BELIV](http://www.beliv.org) always have some very interesting and thought-provoking papers.
 
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486" /></p>
-<p></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg" alt="" width="730" height="486"/></figure>
 
 ## Short Papers and Posters
 
@@ -45,42 +44,36 @@ Posters are all over the map. Acceptance rates can be very high, which is a good
 
 While it’s easy to rank the top venues in visualization, there is a lot more debate about where the medium and lower tiers go. Below is my attempt at doing this, with the full expectation that I will get yelled at for some decision or another.
 
-<h3>Top Tier: TVCG, VAST, InfoVis, SciVis, EuroVis, CHI</h3>
+### Top Tier: TVCG, VAST, InfoVis, SciVis, EuroVis, CHI
 
 The best visualization venues are:
 
-<ul>
-    <li>The <a href="http://www.computer.org/portal/web/tvcg">Transactions for Visualization and Computer Graphics (TVCG)</a>, the top journal in the field.</li>
-    <li>The <a href="http://ieeevis.org">IEEE VIS</a> conferences: VAST, InfoVis, SciVis. Their proceedings are now all published in TVCG.</li>
-    <li><a href="http://eurovis.org">EuroVis</a>. Roughly at the same level as VIS, EuroVis papers are published in CGF.</li>
-    <li><a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659">Computer Graphics Forum (CGF)</a>. While TVCG has largely been taken over by visualization, CGF is much more mixed between visualization and other computer graphics topics.</li>
-    <li>The <a href="http://chi2014.acm.org">CHI Conference on Human Factors in Computing Systems (CHI)</a> is not a visualization conference, but does accept the odd visualization paper. Those visualization papers that do get in are generally very good.</li>
-    <li><a href="http://www.siggraph.org">SIGGRAPH</a>. I’m really only including this here because I mentioned it earlier and many people have heard of it. The visualization community has pretty much given up on SIGGRAPH, and vice versa. If you have a visualization technique that produces stunningly beautiful images, you can give a SIGGRAPH submission a shot. More than likely, it’s a waste of time, though. If you get it in, it’s a big deal however, and you join the very exclusive club of visualization researchers with SIGGRAPH papers.</li>
-</ul>
+- The [Transactions for Visualization and Computer Graphics (TVCG)](http://www.computer.org/portal/web/tvcg), the top journal in the field.
+- The [IEEE VIS](http://ieeevis.org) conferences: VAST, InfoVis, SciVis. Their proceedings are now all published in TVCG.
+- [EuroVis](http://eurovis.org). Roughly at the same level as VIS, EuroVis papers are published in CGF.
+- [Computer Graphics Forum (CGF)](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-8659). While TVCG has largely been taken over by visualization, CGF is much more mixed between visualization and other computer graphics topics.
+- The [CHI Conference on Human Factors in Computing Systems (CHI)](http://chi2014.acm.org) is not a visualization conference, but does accept the odd visualization paper. Those visualization papers that do get in are generally very good.
+- [SIGGRAPH](http://www.siggraph.org). I’m really only including this here because I mentioned it earlier and many people have heard of it. The visualization community has pretty much given up on SIGGRAPH, and vice versa. If you have a visualization technique that produces stunningly beautiful images, you can give a SIGGRAPH submission a shot. More than likely, it’s a waste of time, though. If you get it in, it’s a big deal however, and you join the very exclusive club of visualization researchers with SIGGRAPH papers.
 
-<h3>Middle Tier: InfoVis Journal, CG&amp;A, VIS Symposia, PacificVis</h3>
+### Middle Tier: InfoVis Journal, CG&amp;A, VIS Symposia, PacificVis
 
 The second tier are not quite as good as the above, but are still solid venues to get work published.
 
-<ul>
-    <li>The <a href="http://ivi.sagepub.com">Information Visualisation Journal</a> (abbreviated as IVS, IVI, or IV Journal) is a more recent journal that still seems to be struggling for attention. Paper quality is more mixed than in TVCG, though they are also more focused on information visualization.</li>
-    <li><a href="http://www.computer.org/portal/web/computingnow/cga">Computer Graphics and Applications</a> (CG&amp;A) is a magazine published by the IEEE that is more application-oriented and geared towards a broader audience. It’s a good place for systems papers and applications in general. Papers get rewritten for readability and there are some restrictions on the number of citations, etc.</li>
-    <li>IEEE VIS doesn’t just consist of the three conferences, but also of a few symposia. This year, those included LDAV (Large Data Analysis and Visualization), BioVis (bioinformatics data visualization), and VizSec (security visualization). I wasn’t excited by LDAV last year, and I didn’t attend this year. BioVis is a great effort that brings together visualization and bioinformatics researchers. I don’t know anything about VizSec. But these are good venues to talk to a more specialized audience and to explore topics that aren’t covered enough in the conferences.</li>
-    <li><a href="http://www.pvis.org">PacificVis</a> technically has a good acceptance rate, but I haven’t seen many exciting papers published there. It also seems more focused on scientific visualization, so it’s a bit outside my general awareness horizon.</li>
-</ul>
+- The [Information Visualisation Journal](http://ivi.sagepub.com) (abbreviated as IVS, IVI, or IV Journal) is a more recent journal that still seems to be struggling for attention. Paper quality is more mixed than in TVCG, though they are also more focused on information visualization.
+- [Computer Graphics and Applications](http://www.computer.org/portal/web/computingnow/cga) (CG&amp;A) is a magazine published by the IEEE that is more application-oriented and geared towards a broader audience. It’s a good place for systems papers and applications in general. Papers get rewritten for readability and there are some restrictions on the number of citations, etc.
+- IEEE VIS doesn’t just consist of the three conferences, but also of a few symposia. This year, those included LDAV (Large Data Analysis and Visualization), BioVis (bioinformatics data visualization), and VizSec (security visualization). I wasn’t excited by LDAV last year, and I didn’t attend this year. BioVis is a great effort that brings together visualization and bioinformatics researchers. I don’t know anything about VizSec. But these are good venues to talk to a more specialized audience and to explore topics that aren’t covered enough in the conferences.
+- [PacificVis](http://www.pvis.org) technically has a good acceptance rate, but I haven’t seen many exciting papers published there. It also seems more focused on scientific visualization, so it’s a bit outside my general awareness horizon.
 
-There are also a number of other small conferences and symposia that aren’t core visualization venues, but that can be interesting for certain work. Those include <a href="http://www.acm.org/uist/">User Interface Software and Technology (UIST)</a>, <a href="http://hoc12.elet.polimi.it/avi2014/">Advanced Visual Interfaces (AVI)</a>, the <a href="http://www.diagrams-conference.org/2014/">Diagrams Conference</a>, etc.
+There are also a number of other small conferences and symposia that aren’t core visualization venues, but that can be interesting for certain work. Those include [User Interface Software and Technology (UIST)](http://www.acm.org/uist/), [Advanced Visual Interfaces (AVI)](http://hoc12.elet.polimi.it/avi2014/), the [Diagrams Conference](http://www.diagrams-conference.org/2014/), etc.
 
-<h3>Lower Tier: IV, VIS workshops, VDA, WSCG</h3>
+### Lower Tier: IV, VIS workshops, VDA, WSCG
 
 Lower tier means high acceptance rate and generally low quality, but they can still be worthwhile to get master's thesis work published, etc. The point is to know what to expect, both when reading a paper from such a conference, and when submitting work there.
 
-<ul>
-    <li><em><a href="http://www.wscg.eu">International Conferences in Central Europe on Computer Graphics, <em style="color: #333333;"></em></a><em style="color: #333333;"><a href="http://www.wscg.eu">Visualization and Computer Vision</a></em></em><a href="http://www.wscg.eu"> (formerly </a><a href="http://www.wscg.eu">Winter School of Computer Graphics, WSCG)</a>. If you work in visualization, you’re probably getting the barrage of emails from Vaclav Skala each year about WSCG. The conference has a high acceptance rate, but it’s also a good opportunity to travel to Plzen (which the Pils is named after) and see work from Eastern Europe that you wouldn’t otherwise see. Also, at what other conference are you handed two bottles of beer with your name badge when you register?</li>
-    <li><a href="http://vda-conference.org">Visualization and Data Analysis (VDA)</a> is a small conference with a high acceptance rate (48% in 2012) that is part of the SPIE Electronic Imaging Conference. This could be a really solid little conference, but being tied to a large conference that has nothing to do with visualization (and that is quite expensive) doesn’t do it any favors. Though if you go, you'll be able to just skip over to <a href="http://users.eecs.northwestern.edu/~pappas/hvei/">Human Vision in Electronic Imaging (HVEI)</a>, which is a solid little perception and vision conference.</li>
-    <li>Workshops at VIS. While they are associated with a high-quality conference, the limited audience and late deadline for these workshops usually means that they don’t get a lot of submissions (and those are often rejected conference submissions). So the overall quality is just not as high. The focus on a narrow and potentially overlooked topic can still make them worthwhile, though.</li>
-    <li>A British company called graphicslink organizes a conference confusingly named <a href="http://www.graphicslink.co.uk/conferences.htm">Information Visualisation</a> (commonly referred to as IV), with a number of associated conferences, one of which is called ViS. It is usually held in London, but also travels around Europe at times; next year, it will be held in Paris. The quality is generally very low and the scope includes anything that has to do with pixels, either generating them or analyzing them. Avoid.</li>
-</ul>
+- *[International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision](http://www.wscg.eu)* (formerly [Winter School of Computer Graphics, WSCG](http://www.wscg.eu)). If you work in visualization, you’re probably getting the barrage of emails from Vaclav Skala each year about WSCG. The conference has a high acceptance rate, but it’s also a good opportunity to travel to Plzen (which the Pils is named after) and see work from Eastern Europe that you wouldn’t otherwise see. Also, at what other conference are you handed two bottles of beer with your name badge when you register?
+- [Visualization and Data Analysis (VDA)](http://vda-conference.org) is a small conference with a high acceptance rate (48% in 2012) that is part of the SPIE Electronic Imaging Conference. This could be a really solid little conference, but being tied to a large conference that has nothing to do with visualization (and that is quite expensive) doesn’t do it any favors. Though if you go, you'll be able to just skip over to [Human Vision in Electronic Imaging (HVEI)](http://users.eecs.northwestern.edu/~pappas/hvei/), which is a solid little perception and vision conference.
+- Workshops at VIS. While they are associated with a high-quality conference, the limited audience and late deadline for these workshops usually means that they don’t get a lot of submissions (and those are often rejected conference submissions). So the overall quality is just not as high. The focus on a narrow and potentially overlooked topic can still make them worthwhile, though.
+- A British company called graphicslink organizes a conference confusingly named [Information Visualisation](http://www.graphicslink.co.uk/conferences.htm) (commonly referred to as IV), with a number of associated conferences, one of which is called ViS. It is usually held in London, but also travels around Europe at times; next year, it will be held in Paris. The quality is generally very low and the scope includes anything that has to do with pixels, either generating them or analyzing them. Avoid.
 
 ## What about Visualized, Strata, eyeo, VIZBI, openvis, Tapestry, etc.?
 

@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw"/></figure>
 
 # Dance.Draw
 
-My colleague Celine Latulipe has made a nice website about her <a href="http://www.sis.uncc.edu/~clatulip/DanceDraw/Dance.Draw.html">Dance.Draw project</a>. In what she calls <em>Exquisite Interaction</em>, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful.
+My colleague Celine Latulipe has made a nice website about her [Dance.Draw project](http://www.sis.uncc.edu/~clatulip/DanceDraw/Dance.Draw.html). In what she calls *Exquisite Interaction*, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful.
 
 Celine works in human-computer interaction, specifically on two-handed interaction for one or more people. What that means is that her programs are controlled by up to six mice &ndash; two per person, up to three people at the same time. She took that a step further in this collaboration with Sybil Huskey from the Dance Department at UNC Charlotte.
 

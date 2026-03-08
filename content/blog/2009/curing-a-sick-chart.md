@@ -1,28 +1,28 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/patients-age-disease-thumb.png" alt="Patients by age and disease" width="560" height="349" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/patients-age-disease-thumb.png" alt="Patients by age and disease" width="560" height="349"/></figure>
 
 # Curing A Sick Chart
 
-I recently <a href="/criticism/cost-of-a-sick-chart">criticized Ben Fry's visualization of health care cost data from GE</a> and claimed that I knew how to do it better. While my analysis may not be as pretty and flashy as Fry's, it provides actual insight into the data. It also reveals an interesting issue: the data is really dull. So dull, in fact, that a visualization was needed to cover up that fact.
+I recently [criticized Ben Fry's visualization of health care cost data from GE](/criticism/cost-of-a-sick-chart) and claimed that I knew how to do it better. While my analysis may not be as pretty and flashy as Fry's, it provides actual insight into the data. It also reveals an interesting issue: the data is really dull. So dull, in fact, that a visualization was needed to cover up that fact.
 
-My original plan had been to create something interactive, but I simply lack the time to do that right now. So the analysis was done in <a href="http://www.tableausoftware.com/">Tableau</a> and is presented here as images. If you have Tableau, you can also grab my <a href="https://media.eagereyes.org/media/2009/sickchart/Cost-of-Getting-Sick.twbx">packaged Tableau workbook</a> to play with, or download the data in a <a href="https://media.eagereyes.org/media/2009/sickchart/cost-reshaped.csv">consolidated and reshaped CSV file</a>.
+My original plan had been to create something interactive, but I simply lack the time to do that right now. So the analysis was done in [Tableau](http://www.tableausoftware.com/) and is presented here as images. If you have Tableau, you can also grab my [packaged Tableau workbook](https://media.eagereyes.org/media/2009/sickchart/Cost-of-Getting-Sick.twbx) to play with, or download the data in a [consolidated and reshaped CSV file](https://media.eagereyes.org/media/2009/sickchart/cost-reshaped.csv).
 
-The data was extracted from the applet on <a href="http://www.ge.com/visualization/health_costs/index.html">GE's Health Costs page</a>. Tom Carden pointed out how to interpret the original data and produced some first graphs; Martin Theus also <a href="http://www.theusrus.de/blog/chicken-and-egg-problem-follow-up/">provided an analysis</a>. While they both found some first trends, I don't believe they really got to the bottom of this.
+The data was extracted from the applet on [GE's Health Costs page](http://www.ge.com/visualization/health_costs/index.html). Tom Carden pointed out how to interpret the original data and produced some first graphs; Martin Theus also [provided an analysis](http://www.theusrus.de/blog/chicken-and-egg-problem-follow-up/). While they both found some first trends, I don't believe they really got to the bottom of this.
 
 ## Overview
 
 To get a first idea of the data, let's look at the number of patients and cost over age. The age range here is actually wider than what the original applet showed: from 1 to 79 years of age (the data even contains an age 0, which I discarded).
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/patients-cost.png" border="0" alt="Number of Patients and Cost" width="560" height="328" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/patients-cost.png" alt="Number of Patients and Cost" width="560" height="328"/></figure>
 
 Not surprisingly, the number of patients increases with age up to the mid-50s and early 60s, and then decreases again. Note that these are absolute numbers that have no discernible relationship to the U.S. population as a whole. Not surprisingly, the costs very closely mirror the number of patients, with a skew towards older patients. In fact, the correlation appears to be so strong that I had to look at it in a separate chart.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/cost-patients-correlation.png" border="0" alt="Correlation between number of patients and total cost" width="250" height="237" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/cost-patients-correlation.png" alt="Correlation between number of patients and total cost" width="250" height="237"/></figure>
 
 The shade of blue here represents age, with lighter shades being younger, darker older. As people get older, the costs increase; but the overall correlation is incredibly strong. This makes exploration of this data by users somewhat pointless, but more on that below.
 
 Tom and Martin used stacked bar charts to summarize the data, though I don't find those particularly useful in and of themselves. A stacked chart does provide some context for the following analysis, though.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/stacked-patients.png" border="0" alt="Number of patients stacked" width="560" height="328" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/stacked-patients.png" alt="Number of patients stacked" width="560" height="328"/></figure>
 
 We see that the most common disease is hypertension (dark purple), and that osteoporosis (dark brown), diabetes (light green), and acid reflux (dark blue) seem to be the other major ones across most of the age range.
 
@@ -30,7 +30,7 @@ We see that the most common disease is hypertension (dark purple), and that oste
 
 My original idea for a redesign of the visualization was to use small multiples. This is very easy to do in Tableau, and much more useful to see actual patterns (without different categories distorting each other). Ignoring the less common diseases, we get a very clear, concise chart.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/patients-age-disease-percent.png" border="0" alt="Patients by age and disease small multiples" width="560" height="327" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/patients-age-disease-percent.png" alt="Patients by age and disease small multiples" width="560" height="327"/></figure>
 
 This visualization shows percent of the total number of patients at each age, so patterns do not depend on the considerable differences in the number of people in the data set over the ages (a chart showing patient numbers is at the very top of this page). It answers the original question I had when I saw the applet, but was not able to answer using it: what is the distribution of diseases over time?
 
@@ -38,7 +38,7 @@ Some interesting patterns emerge here. Acid reflux has its biggest spike at age 
 
 Of course, GE thought people would be interested in cost. So let's look at hypertension: number of patients, total cost, and cost per patient. The bottom chart essentially shows what the scatterplot showed above, but in this case only for one disease.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/hypertension.png" border="0" alt="Hypertension costs per patient" width="560" height="328" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/hypertension.png" alt="Hypertension costs per patient" width="560" height="328"/></figure>
 
 Apart from some noise at ages below 20 (where there are very few patients), there is a very clear and smooth upwards trend in cost per patient. It's not surprising, since older patients presumably need more care, surgery, etc. What this does show, though, is that the costs continue until the end, because I decoupled them from the sample size. The applet did not do that, but inexplicably showed shrinking pie slices over age 70 or so.
 
@@ -46,11 +46,11 @@ The trend is to be expected, and while you may or may not have predicted it to l
 
 One question (potential) patients as well as GE should be interested in is what fraction of the cost the patient pays compared to the insurer. So let's look at this in yet another bar chart: insurer cost is at the top, patient/personal cost in the middle, and the personal cost as a fraction of total cost at the bottom.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/insurance-cost.png" border="0" alt="Personal vs. insurer cost" width="560" height="328" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/insurance-cost.png" alt="Personal vs. insurer cost" width="560" height="328"/></figure>
 
 Another dull chart! The percentage is around 18% on average, with a very slow downwards trend with age. This chart could easily be summarized in a single number. Or maybe in another scatterplot to show how closely the two costs correlate:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2009/sickchart/insurance-correlation.png" border="0" alt="Personal/insurer cost correlation" width="247" height="237" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/sickchart/insurance-correlation.png" alt="Personal/insurer cost correlation" width="247" height="237"/></figure>
 
 This is even stronger than the cost vs. age chart above. It's really pointless to even show that information (like Fry's applet does with the two colors in every wedge) if it doesn't change in a meaningful way over time or within subsets of the data.
 
@@ -74,4 +74,4 @@ And why not make the costs part of the quiz? Guess how much you'll spend on acid
 
 ## Visualization is not Obfuscation
 
-Using visualization to make the data appear to be more complex and interesting than it is is kind of sad. Visual complexity should be used to help understand data, not to obfuscate it. Building a <a href="http://en.wikipedia.org/wiki/Potemkin_village">Potemkin Village</a> of colorful shapes is just as bad as <a href="/blog/2008/linear-vs-quadratic-change">scaling a circle by radius</a>: it's deceiving and visually dishonest.
+Using visualization to make the data appear to be more complex and interesting than it is is kind of sad. Visual complexity should be used to help understand data, not to obfuscate it. Building a [Potemkin Village](http://en.wikipedia.org/wiki/Potemkin_village) of colorful shapes is just as bad as [scaling a circle by radius](/blog/2008/linear-vs-quadratic-change): it's deceiving and visually dishonest.

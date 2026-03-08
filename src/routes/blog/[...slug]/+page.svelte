@@ -41,13 +41,13 @@
                 <!-- <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p> -->
 
                 {#each years as y}
-                    <h2 class="year-header"><a href="/blog/{y}">{y}</a> <span class="year-count">({yearTotalCounts[y]}{yearTotalCounts[y] - data.yearCounts[y] > 0 ? ` posts, ${yearTotalCounts[y] - data.yearCounts[y]} archived` : ' posts'})</span></h2>
+                    <h2 class="year-header"><a href="/blog/{y}">{y}</a> <span class="year-count">({yearTotalCounts[y]}{yearTotalCounts[y] - data.yearCounts[y] > 0 ? ` post${yearTotalCounts[y] !== 1 ? 's' : ''}, ${yearTotalCounts[y] - data.yearCounts[y]} archived` : yearTotalCounts[y] === 1 ? ' post' : ' posts'})</span></h2>
                     <div class="post-grid">
                         <BlogList year={y} posts={data.allPosts} archived={false} />
                     </div>
                 {/each}
             {:else}
-                <h1>Blog {data.allPosts[0].date.substring(0, 4)} <span class="year-count">({data.allPosts.length}{archivedCount > 0 ? ` posts, ${archivedCount} archived` : ' posts'})</span>{#if archivedCount > 0} <button class="archived-toggle" onclick={() => showArchived = !showArchived}>{showArchived ? 'hide archived' : 'show archived'}</button>{/if}</h1>
+                <h1>Blog {data.allPosts[0].date.substring(0, 4)} <span class="year-count">({data.allPosts.length}{archivedCount > 0 ? ` post${data.allPosts.length !== 1 ? 's' : ''}, ${archivedCount} archived` : data.allPosts.length === 1 ? ' post' : ' posts'})</span>{#if archivedCount > 0} <button class="archived-toggle" onclick={() => showArchived = !showArchived}>{showArchived ? 'hide archived' : 'show archived'}</button>{/if}</h1>
                 <div class="post-grid">
                     <BlogList year={data.allPosts[0].date.substring(0, 4)} posts={data.allPosts} archived={showArchived} />
                 </div>

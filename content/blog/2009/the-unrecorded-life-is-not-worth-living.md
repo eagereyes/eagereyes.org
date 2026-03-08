@@ -1,10 +1,10 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240"/></figure>
 
 # The Unrecorded Life is Not Worth Living
 
 It has never been easier to record your daily activities. The data is all well and good, but the real value comes from visualizing it. Why visualize your mundane, boring life? Because it helps you track what you are doing, and provides motivation to get your ass to the gym.
 
-<img style="float: right; margin-left: 5px;" src="https://media.eagereyes.org/media/2009/fitbit.jpg" alt="Fitbit" width="121" height="250" />For a little over a month now, I've been carrying a <a href="http://www.fitbit.com/">Fitbit</a> around with me. It records how much I move around during the day, and how often I wake up at night. It's unobtrusive and easy: I don't have to do anything, the data gets uploaded to the Fitbit servers wirelessly and automatically, so I can look at it at my leisure. The only thing I have to remember is to charge it once a week or so.
+<figure style="float: right; margin-left: 5px;"><img src="https://media.eagereyes.org/media/2009/fitbit.jpg" alt="Fitbit" width="121" height="250" style="float: right; margin-left: 5px;"/>For a little over a month now, I've been carrying a [Fitbit](http://www.fitbit.com/) around with me. It records how much I move around during the day, and how often I wake up at night. It's unobtrusive and easy: I don't have to do anything, the data gets uploaded to the Fitbit servers wirelessly and automatically, so I can look at it at my leisure. The only thing I have to remember is to charge it once a week or so.</figure>
 
 The Fitbit is basically a step counter with an Internet connection. It records the number of steps taken every minute, and can store up to a week of detailed data (and up to a month of summary data). It's simple, small, and unobtrusive.
 
@@ -14,17 +14,17 @@ Fitbit also has a very nice website that presents you your uploaded activity and
 
 The displays on the Fitbit site are thankfully simple and effective (if we disregard the bouncy animation when they are loaded). Color and bar height encode activity, there are four levels: sedentary (gray), lightly active (cyan), fairly active (yellow), and very active (red).
 
-<p class="img"><img src="https://media.eagereyes.org/media/2009/fitbit-activity-day.png" alt="Fitbit activity over one day" width="530" height="198" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/fitbit-activity-day.png" alt="Fitbit activity over one day" width="530" height="198"/></figure>
 
 There is also a monthly view to show you what you've done over a longer period. As you can see, I'm nowhere near reaching the 70,000 steps per week.
 
-<p class="img"><img src="https://media.eagereyes.org/media/2009/fitbit-activity-month.png" alt="Fitbit activity over 30 days" width="533" height="191" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/fitbit-activity-month.png" alt="Fitbit activity over 30 days" width="533" height="191"/></figure>
 
-Nike's <a href="http://nikeplus.com/">Nike+iPod</a> service has slightly fancier graphs, but also has to make do with less data. It's also a step counter, but it's only used to record runs. It shows speed and stops during a run, and your progress towards fitness goals. It's incredibly motivating: my girlfriend stated using Nike+ recently, and is already running a lot more than she used to. It's frustrating for both of us to leave our Nike+ tracker or Fitbit, respectively, at home when working out.
+Nike's [Nike+iPod](http://nikeplus.com/) service has slightly fancier graphs, but also has to make do with less data. It's also a step counter, but it's only used to record runs. It shows speed and stops during a run, and your progress towards fitness goals. It's incredibly motivating: my girlfriend stated using Nike+ recently, and is already running a lot more than she used to. It's frustrating for both of us to leave our Nike+ tracker or Fitbit, respectively, at home when working out.
 
-Nathan at FlowingData also has a service named <a href="http://your.flowingdata.com/">your.flowingdata</a> that allows you to track your activity and food intake via Twitter direct messages. His graphs are more sophisticated in terms of visualization, and provide more interaction and ways of drilling into the data. It does require actual work to record anything, though.
+Nathan at FlowingData also has a service named [your.flowingdata](http://your.flowingdata.com/) that allows you to track your activity and food intake via Twitter direct messages. His graphs are more sophisticated in terms of visualization, and provide more interaction and ways of drilling into the data. It does require actual work to record anything, though.
 
-<p class="img"><img src="https://media.eagereyes.org/media/2009/yfd.png" alt="your.flowingdata" width="516" height="414" /></p>
+<figure><img src="https://media.eagereyes.org/media/2009/yfd.png" alt="your.flowingdata" width="516" height="414"/></figure>
 
 I don't generally buy into the self-surveillance thing, and I'm simply too lazy to record my activity and food. I've gone through several food tracking applications on my iPhone without much success. Automated systems that collect the data for me make the tracking feasible, though.
 

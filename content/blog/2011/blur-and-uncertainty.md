@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2011/sdof-chess.jpg" alt="" width="600" height="290" /></p>
+<figure><img src="https://media.eagereyes.org/media/2011/sdof-chess.jpg" alt="" width="600" height="290"/></figure>
 
 # Blur and Uncertainty Visualization
 
@@ -6,7 +6,7 @@ When visualizing uncertainty in data, a common choice is to use blur. While that
 
 ## Semantic Depth of Field (SDOF)
 
-Almost ten years ago, I wrote my Ph.D. thesis about the use of blur and sharpness in visualization. I called that idea <em>Semantic Depth of Field (SDOF)</em>, in analogy to the depth of field (DOF) effect in photography. The idea was to establish blur as a new visualization dimension, in addition to the existing ones like length, color, etc.
+Almost ten years ago, I wrote my Ph.D. thesis about the use of blur and sharpness in visualization. I called that idea *Semantic Depth of Field (SDOF)*, in analogy to the depth of field (DOF) effect in photography. The idea was to establish blur as a new visualization dimension, in addition to the existing ones like length, color, etc.
 
 What I did not grasp at that time was the importance of attention for perception. Almost all our experiments were geared towards measuring the perception of blur for quantitative data, not guiding the user's attention. As a result, some of the results were quite disappointing.
 
@@ -32,10 +32,8 @@ In many quantitative studies, the qualitative comments you get are among the mos
 
 As much as I would have liked to establish blur as a useful visualization dimension, it is simply unsuitable for the task. What blur and sharpness are really good at, though, and what sets them apart from most other visual cues, is for guiding attention. That is something we haven't done much so far in visualization. But when it comes to depicting numbers and expecting users to be able to read them, blur is probably the worst choice.
 
-<hr />
+---
 
 Relevant papers:
-<ul>
-	<li>Robert Kosara, Silvia Miksch, Helwig Hauser, Johann Schrammel, Verena Giller, Manfred Tscheligi, <a href="/publications/Kosara-VisSym-2002" target="_blank">Useful Properties of Semantic Depth of Field for Better F+C Visualization</a>, <em>Proceedings of the Joint Eurographics – IEEE TCVG Symposium on Visualization (VisSym)</em>, pp. 205–210, 2002.</li>
-	<li>Robert Kosara, Silvia Miksch, Helwig Hauser, <a href="/publications/Kosara-InfoVis-2001" target="_blank">Semantic Depth of Field</a>, <em>Proceedings Information Visualization (InfoVis)</em>, pp. 97–104, 2001.</li>
-</ul>
+- Robert Kosara, Silvia Miksch, Helwig Hauser, Johann Schrammel, Verena Giller, Manfred Tscheligi, [Useful Properties of Semantic Depth of Field for Better F+C Visualization](/publications/Kosara-VisSym-2002), *Proceedings of the Joint Eurographics – IEEE TCVG Symposium on Visualization (VisSym)*, pp. 205–210, 2002.
+- Robert Kosara, Silvia Miksch, Helwig Hauser, [Semantic Depth of Field](/publications/Kosara-InfoVis-2001), *Proceedings Information Visualization (InfoVis)*, pp. 97–104, 2001.

@@ -1,9 +1,8 @@
-<p align="center"><img class="aligncenter size-full wp-image-1971" title="science" alt="" src="https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg" width="600" height="325" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg" alt="" width="600" height="325"/></figure>
 
 # Science: It's a Curiosity Thing!
 
-This video called <em><a href="http://www.youtube.com/watch?v=g032MPrSjFA&amp;feature=player_embedded">Science: It’s a Girl Thing!</a></em> has been widely criticized for being sexist. What I find even more disturbing is that there is an actual need to dress science and technology up as something they are not. When did kids lose their curiosity?
-
+This video called *[Science: It’s a Girl Thing!](http://www.youtube.com/watch?v=g032MPrSjFA&amp;feature=player_embedded)* has been widely criticized for being sexist. What I find even more disturbing is that there is an actual need to dress science and technology up as something they are not. When did kids lose their curiosity?
 
 This problem is not new; far from it, in fact. Teaching at a university, I get to see the students’ attitudes towards learning and the administration’s desperate attempts at retaining students and doing something, anything, about the appalling lack of women in computing (where I teach).
 
@@ -23,4 +22,4 @@ It also doesn’t help because it doesn’t make the work any less hard. It does
 
 There is a simple solution. One that every child knows, but one that gets lost somewhere along the way. It’s a single word, used as a question.
 
-<em>Why?</em>
+*Why?*

@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/pnnl-jobs.jpg" alt="" width="560" height="127"/></figure>
 
 # Open Positions at PNNL
 
-<a href="http://www.pnl.gov/">Pacific Northwest National Laboratory (PNNL)</a> is looking to fill three positions related to visualization and visual analytics. If you are interested, see <a href="http://jobs.pnl.gov/">their jobs website</a> for more information and to apply. All positions require the ability to obtain a future security clearance, which requires U.S. citizenship. They're all located in Richland, Washington.
+[Pacific Northwest National Laboratory (PNNL)](http://www.pnl.gov/) is looking to fill three positions related to visualization and visual analytics. If you are interested, see [their jobs website](http://jobs.pnl.gov/) for more information and to apply. All positions require the ability to obtain a future security clearance, which requires U.S. citizenship. They're all located in Richland, Washington.
 
 ## Chief Scientist, Information Analytics
 
@@ -18,6 +18,6 @@ Seeking software developer to create next generation visual information analysis
 
 PNNL will also have a booth at VisWeek, so if you are interested in any of these positions, feel free to talk to them there.
 
-<hr />
+---
 
 Even though I regularly get emails about posting job offers, I don't usually do that. This is an exception, because these jobs are particularly relevant for the people reading this website.

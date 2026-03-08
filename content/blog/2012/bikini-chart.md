@@ -2,19 +2,19 @@
 
 The Obama administration released a chart a while ago that shows job losses during the last year of the Bush administration and the first year after Obama took office. The chart is simple yet effective in the way it communicates a message. It also has some very subtle design elements that communicate a much more negative undertone than is immediately obvious.
 
-I have to say that I have admired this chart since the day it came out. It is clean with just the right amount of decoration to work: scales and legends that explain what we are seeing. The colors are based on the typical colors associated with the Republican Party (red) and the Democrats (blue). The data is also indisputable, coming from the <a href="http://www.bls.gov/">Bureau of Labor Statistics</a>.
+I have to say that I have admired this chart since the day it came out. It is clean with just the right amount of decoration to work: scales and legends that explain what we are seeing. The colors are based on the typical colors associated with the Republican Party (red) and the Democrats (blue). The data is also indisputable, coming from the [Bureau of Labor Statistics](http://www.bls.gov/).
 
 The chart shows the number of jobs lost per month over about two years, ending in early 2010. The message is clear: things were getting worse under Bush but have been getting better under Obama. It doesn't take a lot of skepticism or knowledge of politics to know that things don't happen that quickly, but the message still comes across quite clearly. (Click image for larger version)
 
-<a href="https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png"><img class="aligncenter size-medium wp-image-1774" title="Obama Job Loss Chart" src="https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart-600x334.png" alt="" width="600" height="334" /></a>
+[<img src="https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart-600x334.png" alt="" width="600" height="334"/>](https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart.png)
 
-It is interesting that they chose to use bars that are pointing down rather than up. In a way, that makes sense: negative numbers typically are represented by bars that point down. But the number of people who lost their jobs is not negative, it's only negative if you look at it as "negative job growth." This was clearly a conscious decision. Since almost all the numbers are negative, it might have still made sense to show them pointing up though, to make the chart look less unusual. Its shape has earned the chart the nickname <em>bikini chart</em>, though.
+It is interesting that they chose to use bars that are pointing down rather than up. In a way, that makes sense: negative numbers typically are represented by bars that point down. But the number of people who lost their jobs is not negative, it's only negative if you look at it as "negative job growth." This was clearly a conscious decision. Since almost all the numbers are negative, it might have still made sense to show them pointing up though, to make the chart look less unusual. Its shape has earned the chart the nickname *bikini chart*, though.
 
 But the downward-pointing bars communicate something beyond the values: there is something wrong here, these bars should not be pointing down. While longer bars are often better (more income, more votes, etc.), this is not the case here. This choice of direction for the bars explains what the viewer should be looking for.
 
 The inverted version of the chart below shows why bars pointing up would have been much less clear: the shorter bars under Obama look like something is decreasing, which is surely is not a good thing, right?
 
-<a href="https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart-inverted.png"><img class="aligncenter size-medium wp-image-1773" title="Obama Job Loss Chart, inverted" src="https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart-inverted-600x289.png" alt="" width="600" height="289" /></a>
+[<img src="https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart-inverted-600x289.png" alt="" width="600" height="289"/>](https://media.eagereyes.org/wp-content/uploads/2012/03/obama-job-loss-chart-inverted.png)
 
 All of these are good choices and make the chart both attractive and effective. This chart is one of the cleanest examples of political communication I know, and it is based on actual, real data – imagine that!
 

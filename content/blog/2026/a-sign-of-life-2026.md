@@ -1,6 +1,6 @@
 
 <figure>
-<img src="https://media.eagereyes.org/media/2026/curious-chipmunk.jpg" alt="A chipmunk looking over the edge of a rock" />
+<img src="https://media.eagereyes.org/media/2026/curious-chipmunk.jpg" alt="A chipmunk looking over the edge of a rock"/>
 </figure>
 
 # A Sign of Life in 2026!
@@ -12,7 +12,7 @@ The short version is that I've created a new static site for it that's more mode
 I'm working on bringing back some of my old interactive pieces (which I'm now calling apps), most of which I broke in the transition to my previous static site version and never ended up fixing.
 
 <figure>
-<img src="https://media.eagereyes.org/media/2026/zipscribble-florida.png" alt="ZIPScribble map of the United States" />
+<img src="https://media.eagereyes.org/media/2026/zipscribble-florida.png" alt="ZIPScribble map of the United States"/>
 </figure>
 
 In particular, [the ZIPScribble Map](https://eagereyes.org/app/zipscribble-map) is back and much better than before – though US-only for now. It has a new navigation bar along the bottom that lets you hover over ZIP code zones or states to highlight and zoom them. It's a little finicky and needs some refinement, but it's pretty interesting to explore.
@@ -30,6 +30,4 @@ I continue to be impressed by how much Claude Code can do (and I'm not even real
 Stay tuned for more! You can [subscribe to the RSS/Atom feed](https://eagereyes.org/feed) or [follow me on BlueSky](https://bsky.app/profile/eagereyes.org) or [LinkedIn](https://www.linkedin.com/in/rkosara/). I might also bring back email subscriptions, but that's a bigger project.
 
 There will be more updates on apps as I bring them back, new stuff like photo galleries, and a few other things I've been wanting to build. And of course there will even be the odd blog post on various topics like data visualization and related topics, and maybe even more videos, who knows!
-
-
 

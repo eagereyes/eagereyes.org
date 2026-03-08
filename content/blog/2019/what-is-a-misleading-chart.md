@@ -4,9 +4,9 @@ I see a lot of discussions of misleading charts lately, and there are certainly 
 
 ## A Bad Chart vs. the Wrong Chart
 
-A <a href="https://www.nytimes.com/2019/07/16/science/5g-cellphones-wireless-cancer.html?emc=rss&amp;partner=rss">recent NYTimes Story about a chart showing cell phone radiation risk</a> is a good example. The chart in question is this one showing microwave absorption in brain tissue depending on frequency. It has been used in lawsuits claiming that cell phones cause harm to children’s development. What’s wrong with the chart?
+A [recent NYTimes Story about a chart showing cell phone radiation risk](https://www.nytimes.com/2019/07/16/science/5g-cellphones-wireless-cancer.html?emc=rss&amp;partner=rss) is a good example. The chart in question is this one showing microwave absorption in brain tissue depending on frequency. It has been used in lawsuits claiming that cell phones cause harm to children’s development. What’s wrong with the chart?
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/microwave-absorption.png" alt="" class="wp-image-12266" width="709" height="575"/></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/microwave-absorption.png" alt="" width="709" height="575"/></figure>
 
 Nothing. There’s nothing wrong with this chart or the data. It’s a good enough chart showing how the rate of absorption increases sharply with higher frequencies. The data is also correct, for all we know.
 
@@ -14,13 +14,13 @@ The problem is not that anything is wrong with the chart or the data, but that i
 
 The problem with this chart is not that it’s wrong, but that it’s irrelevant. There is no way to figure that out by just looking at the chart, you need to understand the context and the science (and some common sense). The distinction is also important because no tool can save you from this kind of mistake. Your visualization program or chart chooser doesn’t know that you’re using the wrong data.
 
-And yet, the NY Times story’s subhead reads, <em>How one scientist and <strong>his inaccurate chart</strong> led to unwarranted fears of wireless technology</em> (emphasis mine). The chart is not inaccurate! It’s the wrong chart, but it’s not inaccurate.
+And yet, the NY Times story’s subhead reads, *How one scientist and **his inaccurate chart** led to unwarranted fears of wireless technology* (emphasis mine). The chart is not inaccurate! It’s the wrong chart, but it’s not inaccurate.
 
 ## The Message vs. the Content
 
 Another chart that was making the rounds to much derision a little while ago is this one showing global temperatures over time. In contrast to the famous “hockey stick” chart, however, it’s in Fahrenheit and scaled to start from zero.
 
-<figure class="wp-block-image"><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/global-warming-zero.jpg" alt="" class="wp-image-12265" width="820" height="461"/></figure>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/07/global-warming-zero.jpg" alt="" width="820" height="461"/></figure>
 
 There have been endless arguments about whether charts should start at zero in general, and this one in particular. Is a chart correct if it doesn’t start from zero? Isn’t that wrong? Then what about this one? The whole discussion is as tedious as it is pointless.
 

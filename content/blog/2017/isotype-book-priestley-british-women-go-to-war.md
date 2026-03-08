@@ -4,17 +4,17 @@ This is perhaps the oddest book with an ISOTYPE illustration, certainly of the o
 
 ## The Book
 
-<em>British Women Go To War</em> was published in 1944. The book describes the many roles women were filling in Great Britain during the Second World War. That women could do all those jobs was quite novel back then, but it's quite strange to read about today. Who knew that women could be postal workers, paramedics, welders, etc.?
+*British Women Go To War* was published in 1944. The book describes the many roles women were filling in Great Britain during the Second World War. That women could do all those jobs was quite novel back then, but it's quite strange to read about today. Who knew that women could be postal workers, paramedics, welders, etc.?
 
-There are 49 <em>colour photographs</em> showing women performing many different tasks, many of them military-related. There are women assembling grenades, riveting airplane fuselages, servicing engines, etc., but also doing actual military work, like handling barrage balloons, operating airplane spotting equipment, etc.
+There are 49 *colour photographs* showing women performing many different tasks, many of them military-related. There are women assembling grenades, riveting airplane fuselages, servicing engines, etc., but also doing actual military work, like handling barrage balloons, operating airplane spotting equipment, etc.
 
-<p align="center"><img class="aligncenter size-full wp-image-9995" src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0303.jpg" alt="" width="660" height="459" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0303.jpg" alt="" width="660" height="459"/></figure>
 
 ## The ISOTYPE Chart
 
 The front and back inside covers contain the same ISOTYPE chart. It is never referred to in the text (though neither are the photos, they're just listed in a separate table of contents). And it is quite confusing.
 
-<p align="center"><img class="aligncenter size-full wp-image-9993" src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0295.jpg" alt="" width="660" height="415" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/03/DSCF0295.jpg" alt="" width="660" height="415"/></figure>
 
 Unlike most other ISOTYPE charts, this one is almost completely incomprehensible without reading the legend. And even then, there are still open questions.
 

@@ -14,7 +14,6 @@ interface Paper {
 	publisher?: string,
 	editor?: string,
 	note?: string,
-	_thumb?: string,
 	_pdf?: string,
 	talk?: string,
 	data?: string

@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-teaser.jpg" width="560" height="236" alt="Useful Junk Teaser" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-teaser.jpg" alt="Useful Junk Teaser" width="560" height="236"/></figure>
 
 # Chart Junk Considered Useful After All
 
@@ -6,21 +6,21 @@ There is almost universal agreement that any extraneous elements in a chart or v
 
 ## Chart Junk
 
-The term <em>chart junk</em> was coined by Edward Tufte, who considers anything in a chart that does not represent data (or is a scale or label) as not just unnecessary, but harmful. A related term is the <em>data-to-ink ratio</em>, which is a term to describe how many visual items (how much "ink") representing data there are in a chart in relation to how much there is overall. The idea is to keep that ratio as high as possible, thereby producing very minimalist-looking charts that focus entirely on the data.
+The term *chart junk* was coined by Edward Tufte, who considers anything in a chart that does not represent data (or is a scale or label) as not just unnecessary, but harmful. A related term is the *data-to-ink ratio*, which is a term to describe how many visual items (how much "ink") representing data there are in a chart in relation to how much there is overall. The idea is to keep that ratio as high as possible, thereby producing very minimalist-looking charts that focus entirely on the data.
 
 ## Holmes, the Anti-Tufte
 
-The authors of <a href="http://hci.usask.ca/publications/view.php?id=173">the paper</a> refer to <a href="http://www.nigelholmes.com/">Nigel Holmes</a>, whom visualization people might remember from his fantastic capstone presentation at InfoVis 2005. They quote Holmes as saying that a data graphic "must engage the reader‘s interest." Holmes' way of doing that is through explanatory embellishments. All the charts they used in the study consequently came from one of his books.
+The authors of [the paper](http://hci.usask.ca/publications/view.php?id=173) refer to [Nigel Holmes](http://www.nigelholmes.com/), whom visualization people might remember from his fantastic capstone presentation at InfoVis 2005. They quote Holmes as saying that a data graphic "must engage the reader‘s interest." Holmes' way of doing that is through explanatory embellishments. All the charts they used in the study consequently came from one of his books.
 
 ## The Study
 
 Quick show of hands: which chart is better, this one:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-monster.jpg" width="280" height="212" alt="cost monster" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-monster.jpg" alt="cost monster" width="280" height="212"/></figure>
 
 Or this one:
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-costs.jpg" width="280" height="220" alt="cost bars" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-costs.jpg" alt="cost bars" width="280" height="220"/></figure>
 
 If you subscribe to the Tufte school of thinking, the first chart probably made you cringe. But imagine somebody who just looks at this chart on a newspaper page for a few seconds before reading another article. Which chart is more likely to get its message across?
 
@@ -30,7 +30,7 @@ The paper also presents some results from eye tracking, but I find those rather 
 
 While there have been other studies on small design variations, this one really went all out to find some of the most outrageous charts to compare. That makes this work very relevant, because these are the things that we tend to criticize as containing a lot of chart junk.
 
-<p align="center"><img src="https://media.eagereyes.org/media/2010/usefuljunk-examples.jpg" width="560" height="285" alt="examples" /></p>
+<figure><img src="https://media.eagereyes.org/media/2010/usefuljunk-examples.jpg" alt="examples" width="560" height="285"/></figure>
 
 This study was not about reading and remembering exact numbers; the authors were only concerned with understanding the elements of the chart (what time span, what kind of data, etc.), the trend, and the message. This is a good assumption when dealing with communication-style charts as they are used in newspapers and on most websites, but not for data analysis. That explains why issues like curved or tilted baselines and similar distortions were not such an issue; the overall trend would still be visible even if the values could not be very precisely identified.
 
@@ -42,10 +42,10 @@ This is great work, and the paper deserves the Best Paper Award it received. It'
 
 Does this mean we need to abandon the idea of minimalist junk-less visualizations? Certainly not for analysis tasks, but we do need to rethink how we go about presentation of information.
 
-Also note that this has nothing to do with the kind of work I criticized in the <a href="/criticism/the-visualization-cargo-cult">Cargo Cult article</a>: even the most outrageous of these examples clearly represent data that can be read (if not very precisely).
+Also note that this has nothing to do with the kind of work I criticized in the [Cargo Cult article](/criticism/the-visualization-cargo-cult): even the most outrageous of these examples clearly represent data that can be read (if not very precisely).
 
 But this clearly calls into question the role of "pure" visualization in communicating issues, and may require a rethinking of how this particular goal can be achieved more effectively.
 
-<hr>
+---
 
-Scott Bateman, Regan L. Mandryk, Carl Gutwin, Aaron Genest, David McDine, Christopher Brooks, <a href="http://hci.usask.ca/publications/view.php?id=173">Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts</a>. <em>ACM Conference on Human Factors in Computing Systems</em> (CHI), 2010.
+Scott Bateman, Regan L. Mandryk, Carl Gutwin, Aaron Genest, David McDine, Christopher Brooks, [Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts](http://hci.usask.ca/publications/view.php?id=173). *ACM Conference on Human Factors in Computing Systems* (CHI), 2010.

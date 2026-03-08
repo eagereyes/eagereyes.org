@@ -4,15 +4,15 @@ Are you looking for inspiration while writing a paper or grant? Do you feel that
 
 ## Related Work
 
-Accounts that tweet more or less random snippets of text have become a genre in themselves. If you've spent any time on Twitter, you've probably seen the one that started it all: <a href="https://twitter.com/Horse_ebooks">Horse ebooks</a>. Despite <a href="http://en.wikipedia.org/wiki/Horse_ebooks">being a spam account</a>, it has almost 170,000 followers who presumably enjoy its random and often nonsensical tweets. Following in its footsteps are more or less serious accounts, like <a href="https://twitter.com/bogost_ebooks">Bogost ebooks</a>, which tweets pieces of <a href="http://www.bogost.com">Ian Bogost</a>'s writing.
+Accounts that tweet more or less random snippets of text have become a genre in themselves. If you've spent any time on Twitter, you've probably seen the one that started it all: [Horse ebooks](https://twitter.com/Horse_ebooks). Despite [being a spam account](http://en.wikipedia.org/wiki/Horse_ebooks), it has almost 170,000 followers who presumably enjoy its random and often nonsensical tweets. Following in its footsteps are more or less serious accounts, like [Bogost ebooks](https://twitter.com/bogost_ebooks), which tweets pieces of [Ian Bogost](http://www.bogost.com)'s writing.
 
 ## Materials and Method
 
 InfoVis Ebooks takes a random piece of text from a random paper in its repository and tweets it. It has read all of last year's InfoVis papers, and is now getting started with the VAST proceedings. After that, it will start reading infovis papers published in last year's EuroVis and CHI conferences, and then work its way back to previous years.
 
-Each tweet contains a reference to the paper the snippet is from. For InfoVis, VAST, and CHI, these are <a href="http://en.wikipedia.org/wiki/Digital_object_identifier">DOIs</a> rather than links. Links get long and distracting, whereas DOIs are much easier to tune out in a tweet. If you want to see the paper, google the DOI string (keep the "doi:" part). You can also take everything but the "doi:" and append it to http://dx.doi.org/ to be redirected to the paper page. For other sources, I will probably have to use links.
+Each tweet contains a reference to the paper the snippet is from. For InfoVis, VAST, and CHI, these are [DOIs](http://en.wikipedia.org/wiki/Digital_object_identifier) rather than links. Links get long and distracting, whereas DOIs are much easier to tune out in a tweet. If you want to see the paper, google the DOI string (keep the "doi:" part). You can also take everything but the "doi:" and append it to http://dx.doi.org/ to be redirected to the paper page. For other sources, I will probably have to use links.
 
-As the name suggests, InfoVis Ebooks is about infovis papers. If you want to do the same for SciVis, HCI, or anything else, <a href="https://github.com/eagereyes/InfoVis_Ebooks">the code is available on github</a>.
+As the name suggests, InfoVis Ebooks is about infovis papers. If you want to do the same for SciVis, HCI, or anything else, [the code is available on github](https://github.com/eagereyes/InfoVis_Ebooks).
 
 ## Results
 

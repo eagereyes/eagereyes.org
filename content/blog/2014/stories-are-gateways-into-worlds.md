@@ -1,10 +1,10 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg" width="715" height="479" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg" width="715" height="479"/></figure>
 
 # Stories Are Gateways Into Worlds
 
-Moritz Stefaner recently wrote a posting titled <a href="http://well-formed-data.net/archives/1027/worlds-not-stories"><em>Worlds, not stories</em></a>. He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one.
+Moritz Stefaner recently wrote a posting titled [*Worlds, not stories*](http://well-formed-data.net/archives/1027/worlds-not-stories). He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one.
 
-Moritz views an audience that watches a story as mere consumers, while he wants them to be active. He has also said that <a href="http://well-formed-data.net/archives/868/look-ma-no-story">visualizations don’t need punchlines</a>. I don’t disagree with any of that. However, I think Moritz has a view of what a story is and how it interacts with the visualization that is much too narrow.
+Moritz views an audience that watches a story as mere consumers, while he wants them to be active. He has also said that [visualizations don’t need punchlines](http://well-formed-data.net/archives/868/look-ma-no-story). I don’t disagree with any of that. However, I think Moritz has a view of what a story is and how it interacts with the visualization that is much too narrow.
 
 ## Interactive Worlds
 
@@ -28,11 +28,11 @@ Again, watch it. You won’t find many better uses for 18 minutes of your time.
 
 ## Stories That Lead Into Worlds
 
-It is often important to lead people into a world. Rosling does that so people question their preconceived ideas and pay attention. Journalists do that when they try to tell you about something they want you to know and care about, but which you may never have heard about. And <a href="/blog/2013/revolution-visualized">activists and non-profits do that</a> when they want you to pay attention to the cause they are pursuing.
+It is often important to lead people into a world. Rosling does that so people question their preconceived ideas and pay attention. Journalists do that when they try to tell you about something they want you to know and care about, but which you may never have heard about. And [activists and non-profits do that](/blog/2013/revolution-visualized) when they want you to pay attention to the cause they are pursuing.
 
 Right now, we mostly get one or the other: a great story with very little exploration at the end, or an exploratory tool with little or now introduction. That makes it a bit more difficult to see where things are headed, but I am sure that we’ll soon see good examples that are strong on both ends.
 
-Since I mentioned Hans Rosling above: <a href="http://www.gapminder.org/world">gapminder World</a> (requires Flash) actually lets you explore the data yourself, and you can take his talk as the introductory story leading you into it. It’s not quite the same, since the talk is much better than the tool, but it illustrates the idea.
+Since I mentioned Hans Rosling above: [gapminder World](http://www.gapminder.org/world) (requires Flash) actually lets you explore the data yourself, and you can take his talk as the introductory story leading you into it. It’s not quite the same, since the talk is much better than the tool, but it illustrates the idea.
 
 ## Stories That Guide and Support
 
@@ -40,6 +40,6 @@ Stories are great vehicles to get people interested, to give them some orientati
 
 There is no contradiction between stories and exploration. Not only can they coexist, they enhance each other. The story pulls you in and gently pushes you along, the exploratory visualization lets you uncover new findings and stories yourself.
 
-<hr />
+---
 
-Teaser image by <a href="http://www.flickr.com/photos/anthonyalbright/">Anthony Albright</a>, used under creative commons.
+Teaser image by [Anthony Albright](http://www.flickr.com/photos/anthonyalbright/), used under creative commons.

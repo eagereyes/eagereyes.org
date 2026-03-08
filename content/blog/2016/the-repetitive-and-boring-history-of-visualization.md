@@ -1,5 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png" width="825" height="510" /></p>
-
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png" width="825" height="510"/></figure>
 
 # The Repetitive and Boring History of Visualization
 
@@ -19,19 +18,19 @@ Perhaps there were much more important charts and visual tools out there that ar
 
 There is some debate about when exactly the first steam indicator drew a chart, but it must have been the early or mid–1790s. These diagrams not only predate nearly all the famous visualization examples, they were also hugely important for the development of the steam engine – and they were drawn by a machine rather than by hand!
 
-James Watt or his engineer John Southern devised <a href="http://www.archivingindustry.com/Indicator/firststeps.htm">this incredible apparatus</a> that could plot the pressure inside a steam engine against the movement of the piston. The area of the diagram represents the amount of power the engine produces, and the shape of different parts described the different elements of the stroke and are useful diagnostic tools.
+James Watt or his engineer John Southern devised [this incredible apparatus](http://www.archivingindustry.com/Indicator/firststeps.htm) that could plot the pressure inside a steam engine against the movement of the piston. The area of the diagram represents the amount of power the engine produces, and the shape of different parts described the different elements of the stroke and are useful diagnostic tools.
 
 How important was this diagram? Clearly very important, or Watt wouldn’t have kept it a secret for many years. He was able to glean valuable information from it to optimize his engines and get a leg up on the competition that was quickly springing up.
 
 The steam engine is what brought about the industrial revolution – no steam engine, no industry, no railway, no electricity, etc. It’s not a stretch to say that this diagram played a crucial part in bringing all that about. And yet few people know about it or understand its significance.
 
-<p align="center"><img class="aligncenter size-full wp-image-9463" src="https://media.eagereyes.org/wp-content/uploads/2016/08/slavery-map-1861.jpg" alt="slavery-map-1861" width="660" height="527" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/slavery-map-1861.jpg" alt="slavery-map-1861" width="660" height="527"/></figure>
 
 ## The Slave Map
 
-Clive Thompson <a href="http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist">recently wrote about the history of the information graphic</a>, citing the usual suspects. He also included an example that is remarkably different, though: a map of the slave population in the Southern States of (what is now) the United States, based on the 1860 census.
+Clive Thompson [recently wrote about the history of the information graphic](http://www.smithsonianmag.com/history/surprising-history-infographic-180959563/?no-ist), citing the usual suspects. He also included an example that is remarkably different, though: a map of the slave population in the Southern States of (what is now) the United States, based on the 1860 census.
 
-This wasn’t just a statistical map. It was an early statistical map, for sure. But its impact was that it showed the people fighting the <a href="https://en.wikipedia.org/wiki/American_Civil_War">American Civil War</a> whom they were fighting, and what they were fighting for. And in particular, it was <a href="http://www.openculture.com/2013/09/visualizing-slavery-the-map-abraham-lincoln-spent-hours-studying-during-the-civil-war.html">a constant reference for Abraham Lincoln</a>. We know that because of historical accounts, and because it was included in <a href="http://www.senate.gov/artandhistory/art/artifact/Painting_33_00005.htm">a famous painting of Lincoln working on the Emancipation Declaration</a>.
+This wasn’t just a statistical map. It was an early statistical map, for sure. But its impact was that it showed the people fighting the [American Civil War](https://en.wikipedia.org/wiki/American_Civil_War) whom they were fighting, and what they were fighting for. And in particular, it was [a constant reference for Abraham Lincoln](http://www.openculture.com/2013/09/visualizing-slavery-the-map-abraham-lincoln-spent-hours-studying-during-the-civil-war.html). We know that because of historical accounts, and because it was included in [a famous painting of Lincoln working on the Emancipation Declaration](http://www.senate.gov/artandhistory/art/artifact/Painting_33_00005.htm).
 
 This was no coincidence. A painting isn’t a snapshot that includes whatever clutter might be lying around. Paintings are carefully arranged and staged, and something as complex as this map was not included just for fun. This is visual evidence of this map’s central role in the history of the United States.
 
@@ -39,7 +38,7 @@ And yet, this is not the map that everybody shows in their visualization classes
 
 ## ISOTYPE
 
-<a href="/tag/isotype">ISOTYPE</a> is largely ignored in visualization, and yet it seems to have been a major thing in the middle of the last century. There was the ISOTYPE institute that Otto and then Marie Neurath ran for decades. There were also numerous books that used ISOTYPE, beyond the ones that the Neuraths themselves wrote. I know of at least a dozen books on subjects like politics, economics, entertainment, and health that included ISOTYPE charts. The charts were not the main focus of the books, they were used to illustrate the dry numbers and to give people something interesting and memorable to look at.
+[ISOTYPE](/tag/isotype) is largely ignored in visualization, and yet it seems to have been a major thing in the middle of the last century. There was the ISOTYPE institute that Otto and then Marie Neurath ran for decades. There were also numerous books that used ISOTYPE, beyond the ones that the Neuraths themselves wrote. I know of at least a dozen books on subjects like politics, economics, entertainment, and health that included ISOTYPE charts. The charts were not the main focus of the books, they were used to illustrate the dry numbers and to give people something interesting and memorable to look at.
 
 How much impact did those have? I don’t know. I don’t even think it’s going to be possible to get numbers for print runs in the 1940s or 50s (or even much more recent ones). But these books must have reached a large number of people. There must have been a reason for authors to seek out the ISOTYPE institute to have these charts made.
 

@@ -1,12 +1,12 @@
-<p align="center"><img alt="Tapestry Triptych" src="https://media.eagereyes.org/wp-content/uploads/2013/08/1280px-Hoes_one_cylinder_printing_press.png" width="640" height="450" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/08/1280px-Hoes_one_cylinder_printing_press.png" alt="Tapestry Triptych" width="640" height="450"/></figure>
 
 # Thoughts on Blogging
 
-I was recently asked some questions via email about blogging. Rather than respond via email, I’ve decided to <a href="http://andrewgelman.com">do a Gelman</a> and post my response here.
+I was recently asked some questions via email about blogging. Rather than respond via email, I’ve decided to [do a Gelman](http://andrewgelman.com) and post my response here.
 
 ## The Biggest Challenge
 
-The first question was, <em>What’s been your biggest blogging challenge (finding the time, picking good topics, the technology, etc.)?</em>
+The first question was, *What’s been your biggest blogging challenge (finding the time, picking good topics, the technology, etc.)?*
 
 There is an obvious answer here and there is a somewhat deeper one. Of course it’s a challenge to find the time. I could do other things. I could read. I could sleep. I could go for a run.
 
@@ -20,12 +20,10 @@ To summarize it in a word, perhaps the biggest challenge is consistency. Consist
 
 ## Advice on Starting A Blog
 
-The second question was, <em>What piece of advice would you give (or have already given) to an evaluator or researcher interested in starting a blog?</em>
+The second question was, *What piece of advice would you give (or have already given) to an evaluator or researcher interested in starting a blog?*
 
 I have three pieces of advice.
-<ol>
-	<li>Don’t worry about the technology. Don’t tinker. Just write.</li>
-	<li>Pick an audience to write for, but don’t get too focused on that. Your audience might change. People you wouldn’t have expected to read your blog will read it. Be prepared to go outside the box and change direction accordingly. But to write reasonably well, you need to have an idea of who you’re writing for.</li>
-	<li>Hang in there. Nobody will read your blog at first. Nobody. After a year, you might have a few readers. Don’t give up. A blog doesn’t just explode onto the Internet (unless you’re incredibly lucky). It’s going to take time. If you give up after a few months with just a few readers, you will never get more.</li>
-</ol>
+1. Don’t worry about the technology. Don’t tinker. Just write.
+2. Pick an audience to write for, but don’t get too focused on that. Your audience might change. People you wouldn’t have expected to read your blog will read it. Be prepared to go outside the box and change direction accordingly. But to write reasonably well, you need to have an idea of who you’re writing for.
+3. Hang in there. Nobody will read your blog at first. Nobody. After a year, you might have a few readers. Don’t give up. A blog doesn’t just explode onto the Internet (unless you’re incredibly lucky). It’s going to take time. If you give up after a few months with just a few readers, you will never get more.
 That’s it. Hopefully this has been useful. Now go forth and blog!

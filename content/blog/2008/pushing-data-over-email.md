@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.eagereyes.org/media/2008/emailDog_small.jpg" alt="email dog" width="400" height="245" border="0" /></p>
+<figure><img src="https://media.eagereyes.org/media/2008/emailDog_small.jpg" alt="email dog" width="400" height="245"/></figure>
 
 # Pushing Data over Email
 
@@ -18,19 +18,18 @@ The mechanism for filtering email is known as the `.forward` file. This file liv
 
 There are several programs for this purpose (like the aptly-named `vacation` program), the best-known of which is `procmail`. Procmail uses a further dot file, `.procmailrc`, to specify conditions and actions to be performed when an email matches those conditions. This is a lot more flexible than a simple forward list, and provides actions such as moving an email to a particular folder, discarding it, or handing it over to yet another program.
 
-
 ## The Setup
 What I will describe in the following is a particular setup that I use for collecting data sent through email. To use this, you will have to have access to a Unix/Linux host, shell access (it's possible to do these things without shell access, but difficult to debug when things don't work), and some familiarity with the Unix command line. If you are running your own server, you have to have a mail transfer agent set up and accepting email.
 
 I get the data emailed to a Gmail account, which stores it as a backup and forwards it to my actual data collection account. This is important because it means that I don't have to go to great lengths to check for errors (i can always re-forward my backup), and it also hides my data collection email address.
 
-When an email is received by the data collector that matches the criteria (i.e., coming from a particular address and correct subject), it is run through a filter that extracts any attachments and stores them in a particular directory, and is then discarded. Of course, the same mechanism could also be used to do things like run a <a href="http://flowingdata.com/2008/11/05/how-to-make-your-own-twitter-bot-python-implementation/">Twitter bot</a>.
+When an email is received by the data collector that matches the criteria (i.e., coming from a particular address and correct subject), it is run through a filter that extracts any attachments and stores them in a particular directory, and is then discarded. Of course, the same mechanism could also be used to do things like run a [Twitter bot](http://flowingdata.com/2008/11/05/how-to-make-your-own-twitter-bot-python-implementation/).
 
 Other scripts are run in a cron job to pick up the files and push them into a database or do other things with them. The reason for this is that I want to do as little as possible in the actual mail filter, to reduce complexity and sources for errors.
 
 ## Procmail
 
-Like many Unix programs, <a href="http://www.procmail.org/">procmail</a> has been around for many, many years (the first version was released in December 1990). Its age does not take away from its functionality, but it does explain the cryptic definition file syntax. Documentation is also largely cryptic; there is a <a href="http://www.ii.com/internet/robots/procmail/qs/">very readable introduction</a>, but it's also rather long to cover all the program's options.
+Like many Unix programs, [procmail](http://www.procmail.org/) has been around for many, many years (the first version was released in December 1990). Its age does not take away from its functionality, but it does explain the cryptic definition file syntax. Documentation is also largely cryptic; there is a [very readable introduction](http://www.ii.com/internet/robots/procmail/qs/), but it's also rather long to cover all the program's options.
 
 The first step in using procmail is to actually have it run for every email. The way this is done is with the following line in your `.forward` file:
 
@@ -44,7 +43,7 @@ Make sure the path for procmail is correct, but other than that, this is very si
 | bin/extractAttachments.py /tmp/data/www
 ```
 
-The first line starts the rule and allows a number of flags (like c for making a copy of the mail, so it can be processed by further rules even if this one matches). The second line contains a condition, which is a <a href="http://en.wikipedia.org/wiki/Regular_expression">regular expression</a>. Any header field can be used here, and several conditions can be put on separate lines, which all have to be met for the rule to become active. The last line specifies the action, which in this case is to run a program. As the use of the pipe character (<span style="font-family: terminal, monaco;">|</span>) suggests, the program will receive the email through its standard input stream (stdin).
+The first line starts the rule and allows a number of flags (like c for making a copy of the mail, so it can be processed by further rules even if this one matches). The second line contains a condition, which is a [regular expression](http://en.wikipedia.org/wiki/Regular_expression). Any header field can be used here, and several conditions can be put on separate lines, which all have to be met for the rule to become active. The last line specifies the action, which in this case is to run a program. As the use of the pipe character (<span style="font-family: terminal, monaco;">|</span>) suggests, the program will receive the email through its standard input stream (stdin).
 
 Any program can be run in a procmail rule, just like it were run from the shell. Commands can also be passed, like in this case the directory for storing the data – which might be different for different data sources.
 

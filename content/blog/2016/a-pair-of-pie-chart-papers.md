@@ -1,23 +1,22 @@
-<p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-package-teaser.png" alt="" width="825" height="510" /></p>
-
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-package-teaser.png" alt="" width="825" height="510"/></figure>
 
 # A Pair of Pie Chart Papers
 
-How do we read pie charts? Do they differ from the even more reviled donut charts? What about common pie chart designs like exploded pies? In two papers to be presented at <a href="http://eurovis.org/">EuroVis</a> next week, Drew Skau and I show that the common wisdom about how we read these charts (by angle) is almost certainly wrong, and that things are much more complicated than we thought.
+How do we read pie charts? Do they differ from the even more reviled donut charts? What about common pie chart designs like exploded pies? In two papers to be presented at [EuroVis](http://eurovis.org/) next week, Drew Skau and I show that the common wisdom about how we read these charts (by angle) is almost certainly wrong, and that things are much more complicated than we thought.
 
-Pie charts are generally looked down on in visualization, and many people pride themselves on saying mean things about them and the people who use them. <a href="/blog/2016/ye-olde-pie-chart-debate">This is not a new phenomenon, either</a>. Yet they are incredibly common in business settings and information graphics.
+Pie charts are generally looked down on in visualization, and many people pride themselves on saying mean things about them and the people who use them. [This is not a new phenomenon, either](/blog/2016/ye-olde-pie-chart-debate). Yet they are incredibly common in business settings and information graphics.
 
-The main reason for these papers was the question: do we even know how we read these charts? Is it actually angle, as is usually claimed, or is it really arc length or maybe area? It turns out that there is no actual research to back up the claims that it's angle. The only paper we could find, and which gets cited over and over again, is from 1926. That's <em>ninety years</em> ago. And the author just asked people what they thought they used, which is quite unreliable.
+The main reason for these papers was the question: do we even know how we read these charts? Is it actually angle, as is usually claimed, or is it really arc length or maybe area? It turns out that there is no actual research to back up the claims that it's angle. The only paper we could find, and which gets cited over and over again, is from 1926. That's *ninety years* ago. And the author just asked people what they thought they used, which is quite unreliable.
 
-So we set out to do some science around this. The full paper reports on two studies to assess the mechanism for pie and donut charts. and look at the effect inner diameter has on donuts. For the short paper, we then took some of the things we had found and tested common pie chart variations. Yes, this is the <a href="/blog/2016/the-two-paper-package">full-plus-short paper package</a> I mentioned a while ago.
+So we set out to do some science around this. The full paper reports on two studies to assess the mechanism for pie and donut charts. and look at the effect inner diameter has on donuts. For the short paper, we then took some of the things we had found and tested common pie chart variations. Yes, this is the [full-plus-short paper package](/blog/2016/the-two-paper-package) I mentioned a while ago.
 
 ## Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts
 
-<p align="center"><img class="aligncenter size-full wp-image-9312" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Skau-EuroVis-2016-pages-2.png" alt="Skau-EuroVis-2016-pages" width="660" height="374" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Skau-EuroVis-2016-pages-2.png" alt="Skau-EuroVis-2016-pages" width="660" height="374"/></figure>
 
 The full paper reports on two studies. One presented participants with deconstructed charts that were designed to test encodings independently from each other. Measuring their accuracy when using any of these variations, we could assess which of them was actually being used, no matter what people claimed.
 
-<p align="center"><img class="aligncenter size-full wp-image-9306" src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-individual-encodings.png" alt="pie-individual-encodings" width="660" height="127" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-individual-encodings.png" alt="pie-individual-encodings" width="660" height="127"/></figure>
 
 From left to right, they are: pie, donut, arc-only, angle-only based on pie, angle-only based on donut, and area-only.
 
@@ -27,21 +26,21 @@ What does this mean? Angle is not likely the main, and certainly not the only, w
 
 We also wanted to see if there was an effect from the inner diameter in donut charts. So we tested a set of donuts with varying hole sizes (with the "no-hole" pie chart serving as a baseline).
 
-<p align="center"><img class="aligncenter size-full wp-image-9307" src="https://media.eagereyes.org/wp-content/uploads/2016/05/donuts.png" alt="donuts" width="660" height="110" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/donuts.png" alt="donuts" width="660" height="110"/></figure>
 
 There is no difference between them, other than the thinnest donut being worse than the rest (we're not sure exactly why). Donut charts no worse than pie charts! Who knew!?
 
-The paper has a lot more information about the studies and detailed analyses of the results: Drew Skau, Robert Kosara, <a href="/publications/Skau-EuroVis-2016"><em>Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts</em></a>, EuroVis 2016.
+The paper has a lot more information about the studies and detailed analyses of the results: Drew Skau, Robert Kosara, [*Arcs, Angles, or Areas: Individual Data Encodings in Pie and Donut Charts*](/publications/Skau-EuroVis-2016), EuroVis 2016.
 
-Code and data are also available, for both <a href="https://github.com/dwskau/arcs-angles-area">the arcs-angles-areas study</a> and for <a href="https://github.com/dwskau/donut-radii">the donut radii study</a>
+Code and data are also available, for both [the arcs-angles-areas study](https://github.com/dwskau/arcs-angles-area) and for [the donut radii study](https://github.com/dwskau/donut-radii)
 
 ## Judgment Error in Pie Chart Variations
 
-<p align="center"><img class="aligncenter size-full wp-image-9272" src="https://media.eagereyes.org/wp-content/uploads/2016/05/Kosara-EuroVis-2016-pages.png" alt="Kosara-EuroVis-2016-pages" width="660" height="187" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/Kosara-EuroVis-2016-pages.png" alt="Kosara-EuroVis-2016-pages" width="660" height="187"/></figure>
 
 Based on the full paper, we had some predictions for what should happen for specific pie chart variations that we often see in business presentations and information graphics. We ran a further study to test some of those.
 
-<p align="center"><img class="aligncenter size-full wp-image-9308" src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-variations.png" alt="pie-variations" width="550" height="143" /></p>
+<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-variations.png" alt="pie-variations" width="550" height="143"/></figure>
 
 Left to right, there's a basic pie chart, a pie chart with a larger slice (often used for emphasis), an exploded pie chart, and two pies with unusual shapes. We designed those to mimic the sort of icon-based pie charts that are fairly common in infographics, where segments are drawn on top of some shape (usually much more complex than the ellipse and square).
 
@@ -51,7 +50,7 @@ And yet, they both led to more error. The larger slice in particular led to a cl
 
 If you're after precision, don't distort your pie charts. Certainly don't change their shapes, but also don't explode them or make a slice larger.
 
-Again, the paper has quite a bit more detail and depth: Robert Kosara, Drew Skau,<a href="/publications/Kosara-EuroVis-2016"><em> Judgment Error in Pie Chart Variations</em></a>, EuroVis Short Papers 2016. Code and data are also <a href="https://github.com/dwskau/pie-variations">available on github</a>.
+Again, the paper has quite a bit more detail and depth: Robert Kosara, Drew Skau,[* Judgment Error in Pie Chart Variations*](/publications/Kosara-EuroVis-2016), EuroVis Short Papers 2016. Code and data are also [available on github](https://github.com/dwskau/pie-variations).
 
 ## So Pie Charts Are Cool?
 
