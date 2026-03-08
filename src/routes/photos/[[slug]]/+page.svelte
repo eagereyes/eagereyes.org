@@ -133,14 +133,6 @@
         border-radius: 4px;
     }
 
-    figcaption {
-        margin-top: 0.4rem;
-        font-size: 0.85rem;
-        color: var(--color-text);
-        opacity: 0.7;
-        line-height: 1.4;
-    }
-
     @media (max-width: 600px) {
         .photo-row.pair {
             flex-direction: column;

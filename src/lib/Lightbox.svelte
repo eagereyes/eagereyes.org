@@ -108,21 +108,6 @@
         }
     }
 
-    .caption {
-        margin: 0.75rem 0 0;
-        color: rgba(0, 0, 0, 0.6);
-        font-size: 0.875rem;
-        text-align: center;
-        max-width: 90vw;
-        line-height: 1.4;
-    }
-
-    @media (prefers-color-scheme: dark) {
-        .caption {
-            color: rgba(255, 255, 255, 0.7);
-        }
-    }
-
     .nav-btn {
         position: absolute;
         top: 50%;
