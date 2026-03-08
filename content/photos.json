@@ -1,6 +1,6 @@
 [
     {
-        "slug": "antarctica-2026",
+        "slug": "2026-antarctica",
         "title": "Antarctica 2026",
         "description": "A journey through the icy landscapes of Antarctica, capturing its unique wildlife and stunning glaciers.",
         "featuredImage": "https://media.eagereyes.org/photos/2026-antarctica/featured.jpg",
@@ -23,21 +23,28 @@
         ]
     },
     {
-        "slug": "flora-wolf",
+        "slug": "2024-flora-wolf",
         "title": "Flora the Wolf",
         "description": "Impressions from a two-hour walk with a gray wolf in Canada.",
-        "featuredImage": "https://media.eagereyes.org/photos/flora-wolf/featured.jpg",
-        "date": "2026-01-10",
+        "featuredImage": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5156.jpg",
+        "date": "2024-01-17",
         "photos": [
             [
-                { "src": "https://media.eagereyes.org/photos/flora-wolf/001.jpg", "alt": "" },
-                { "src": "https://media.eagereyes.org/photos/flora-wolf/002.jpg", "alt": "" }
+                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC4088.jpg", "alt": "" },
+                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5963.jpg", "alt": "" }
             ],
             [
-                { "src": "https://media.eagereyes.org/photos/flora-wolf/003.jpg", "alt": "" }
+                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5850.jpg", "alt": "" }
             ],
             [
-                { "src": "https://media.eagereyes.org/photos/flora-wolf/004.jpg", "alt": "" }
+                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC4967.jpg", "alt": "" },
+                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5506.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5416.jpg", "alt": "" }
+            ],
+            [
+                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5156.jpg", "alt": "" }
             ]
         ]
     }
