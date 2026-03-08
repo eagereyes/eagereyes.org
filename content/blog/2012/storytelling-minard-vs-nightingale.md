@@ -1,6 +1,6 @@
 # Storytelling: Minard vs. Nightingale
 
-There is a lot of confusion about storytelling and what tells a story. I have <a title="Stories Don’t Tell Themselves" href="/blog/2010/stories-dont-tell-themselves">argued previously that stories do not tell themselves</a>. Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it.
+There is a lot of confusion about storytelling and what tells a story. I have [argued previously that stories do not tell themselves](/blog/2010/stories-dont-tell-themselves). Rather, we tell the stories given raw materials. Some of these materials lend themselves better to ad-hoc storytelling, so we tend to say that they actually tell the story, when it's really us who do it.
 
 ## Exhibit A: Minard
 
@@ -12,7 +12,7 @@ What makes this such a compelling visualization? There is more to it than just t
 
 ## Exhibit B: Nightingale
 
-Another famous chart is Nightingale's depiction of deaths of British soldiers in the Crimean War in 1854-56 (often wrongly referred to as a <em>coxcomb plot</em>). The depiction here is more abstract because there is no map, but the amount of information is comparable. There are 24 months of data, with three values each (one for each cause of death). Reading the visualization is a bit more challenging: you start in the nine-o'clock position on the right chart, go around clockwise and then follow the line to the left chart where you again start at nine o'clock and follow the circle segments in a clockwise direction.
+Another famous chart is Nightingale's depiction of deaths of British soldiers in the Crimean War in 1854-56 (often wrongly referred to as a *coxcomb plot*). The depiction here is more abstract because there is no map, but the amount of information is comparable. There are 24 months of data, with three values each (one for each cause of death). Reading the visualization is a bit more challenging: you start in the nine-o'clock position on the right chart, go around clockwise and then follow the line to the left chart where you again start at nine o'clock and follow the circle segments in a clockwise direction.
 
 <p align="center"><img class="aligncenter size-medium wp-image-8239" src="https://media.eagereyes.org/wp-content/uploads/2012/08/Nightingale-mortality1-730x459.jpg" alt="Florence Nightingale, Diagram of the Causes of Mortality in the Army in the East" width="730" height="459" /></p>
 
@@ -20,7 +20,7 @@ So we have time here, and we have suffering: this is about soldiers being wounde
 
 ## Storytelling Affordances
 
-The key difference, I believe, is the map. It makes it easy for us to turn the temporal sequence into a story. It's the analog of drawing out a path on a map with your finger, a kind of virtual journey. It also helps that the first leg of Napoleon's march is going left to right on the map, the natural reading direction in the West. Movement is progress, and it pushes the story along. We are used to these kinds of stories, many of the oldest stories in existence (<em>The Odyssey</em>, for example) are based on journeys (even if not on roads).
+The key difference, I believe, is the map. It makes it easy for us to turn the temporal sequence into a story. It's the analog of drawing out a path on a map with your finger, a kind of virtual journey. It also helps that the first leg of Napoleon's march is going left to right on the map, the natural reading direction in the West. Movement is progress, and it pushes the story along. We are used to these kinds of stories, many of the oldest stories in existence (*The Odyssey*, for example) are based on journeys (even if not on roads).
 
 It's also a kind of lazy storytelling. Of course you can make people see a story when you give them a map. But what if there is no map? What if location doesn't mean anything? I don't know if Minard was interested in telling a story, or if he considered not using a map. I do know that Nightingale's goal was not to tell a story, but to convince an audience that had barely heard of statistics, much less understood what numbers could tell them. But whether those decisions were based on the intent to tell stories or not, the outcomes are vastly different.
 

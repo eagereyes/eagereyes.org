@@ -2,19 +2,19 @@
 
 # Spirals for Periodic Data
 
-The common wisdom in visualization is that to find periodicity in data, it should be displayed on a spiral whose period the user can control. Repeating patterns are easy to spot on a spiral, and its layout suggests repetition. But are spirals really the most effective way of finding periodic patterns? Here is an interactive version that lets you compare spirals against a rectangular layout to find out for yourself.<br>
+The common wisdom in visualization is that to find periodicity in data, it should be displayed on a spiral whose period the user can control. Repeating patterns are easy to spot on a spiral, and its layout suggests repetition. But are spirals really the most effective way of finding periodic patterns? Here is an interactive version that lets you compare spirals against a rectangular layout to find out for yourself.
 
 ## Spirals
 
-There are many different types of spiral, the one used here is an <a href="http://en.wikipedia.org/wiki/Archimedean_spiral">Archimedean Spiral</a>. This particular spiral maps the same amount of data to the same angle, which means that the line segments the spiral is made up from get longer the further away from the center they are.
+There are many different types of spiral, the one used here is an [Archimedean Spiral](http://en.wikipedia.org/wiki/Archimedean_spiral). This particular spiral maps the same amount of data to the same angle, which means that the line segments the spiral is made up from get longer the further away from the center they are.
 
 One of the arguments for spirals is that they neatly represent the idea of repetition, while avoiding a jump as it would be necessary with concentric circles or most other types of layout. The spiral layout is also much more precise in finding periodicity than a bar chart, for example, because similar distances between bars might look periodic when they are in fact not.
 
-I know of two papers that propose spirals for periodic data: John V. Carlis and Joseph A. Konstan, <em>Interactive Visualization of Serial Periodic Data</em>, Proceedings User Interface Software and Technology (UIST), pp. 29-38, 1998; and Marc Weber, Marc Alexa, Wolfgang Müller, <em>Visualizing Time-Series on Spirals</em>, Proceedings Information Visualization (InfoVis), pp. 7-13, 2001. It looks like Weber et al. were not aware of the Carlis/Konstan paper. Most other papers I’ve found just report on one of those papers, and nobody seems to have conducted any kind of study to test the assertion that spirals are useful for periodic data.
+I know of two papers that propose spirals for periodic data: John V. Carlis and Joseph A. Konstan, *Interactive Visualization of Serial Periodic Data*, Proceedings User Interface Software and Technology (UIST), pp. 29-38, 1998; and Marc Weber, Marc Alexa, Wolfgang Müller, *Visualizing Time-Series on Spirals*, Proceedings Information Visualization (InfoVis), pp. 7-13, 2001. It looks like Weber et al. were not aware of the Carlis/Konstan paper. Most other papers I’ve found just report on one of those papers, and nobody seems to have conducted any kind of study to test the assertion that spirals are useful for periodic data.
 
 ## Alternatives
 
-After reading <a href="/blog/2011/information-visualization-vs-statistical-graphics">my article on statistical graphics</a>, Stephen Few suggested a rectangular visualization similar to a stacked bar chart, arguing that it would be easier to see patterns stack up in one direction rather than having to look around the spiral. This would also avoid the spiral’s distortion of the interval lengths, making the comparison more precise.
+After reading [my article on statistical graphics](/blog/2011/information-visualization-vs-statistical-graphics), Stephen Few suggested a rectangular visualization similar to a stacked bar chart, arguing that it would be easier to see patterns stack up in one direction rather than having to look around the spiral. This would also avoid the spiral’s distortion of the interval lengths, making the comparison more precise.
 
 Using this type of layout instead of the spiral is something that has also occurred to me before, but I used to dismiss it for two reasons: a stacked layout has a discontinuity on the edge, where the data jumps to the next row, and the change between different period values would lead to a lot of movement in ways that aren’t obvious to the user (not just left/right within a row but also between rows). I also didn’t think that the increase in segment length of the data values was really such a big issue.
 
@@ -22,13 +22,13 @@ There are probably other alternatives one could think of, but the stacking is cl
 
 ## Interactive Version
 
-<em>This part is unfortunately not working right now… will be fixed soon!</em>
+*This part is unfortunately not working right now… will be fixed soon!*
 
-Below is an interactive version of a spiral display (implemented using <a href="http://protovis.org/">Protovis</a>), so you can try it out and draw your own conclusions. This requires a current version of Safari, Chrome, or FireFox (this should work in Internet Explorer 9 in principle, but for some reason doesn’t).
+Below is an interactive version of a spiral display (implemented using [Protovis](http://protovis.org/)), so you can try it out and draw your own conclusions. This requires a current version of Safari, Chrome, or FireFox (this should work in Internet Explorer 9 in principle, but for some reason doesn’t).
 
 Move the slider to control the period of the spiral. Change the display type between spiral and bars with the radio buttons on the left.
 
-The two datasets available are: <em>births</em> is a dataset listing the <a href="http://www.dartmouth.edu/~chance/teaching_aids/data.html">number of people born each day in the U.S. during the year 1978</a>, <em>downloads</em> is the <a href="/blog/2009/appstore-billion-apps-live-visualization-html">number of app downloads per hour from Apple's AppStore during the run-up to the billionth app download in April 2009</a>. They both show very clear periodic patterns, at different periods.
+The two datasets available are: *births* is a dataset listing the [number of people born each day in the U.S. during the year 1978](http://www.dartmouth.edu/~chance/teaching_aids/data.html), *downloads* is the [number of app downloads per hour from Apple's AppStore during the run-up to the billionth app download in April 2009](/blog/2009/appstore-billion-apps-live-visualization-html). They both show very clear periodic patterns, at different periods.
 
 I realize that showing the period as a number will bias the exploration, but try to ignore it and only look at the visualization at first. Also, this is a very simple prototype: in a real program, there would be a way to find out the actual numbers, what days/hours they correspond to, etc. But this should be sufficient to show the point I am interested in here, additional features can be added fairly easily.
 
@@ -39,7 +39,6 @@ First, try it out for yourself! It takes only a few minutes to get the hang of i
 Implementing the prototype was a bit less straight-forward than it may appear (and than I expected). One of the variables that I found to be important early on is the line width. When the period changes, so does the distance between the spiral arms. A constant line width means gaps between the lines, making comparison very difficult. Without keeping the line width in sync with the distance between the spiral arms, the rectangular version clearly wins.
 
 <p align="center"><img src="https://media.eagereyes.org/media/2011/twospirals.png" width="600" height="300" alt="spiral variations"/></p>
-
 
 The rectangular visualization also has its challenges, though. The implementation above tries to use the space without distorting the individual rectangles too much. It will squeeze the height to fit them into the space it has, but not make them higher than a square. Not restricting the height leads to much more difficult comparison between the rows, without any perceivable advantage from filling the space.
 

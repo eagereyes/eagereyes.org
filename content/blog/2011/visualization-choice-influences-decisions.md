@@ -22,6 +22,6 @@ That the icon display did so well is partially explained by the fact that this w
 
 This is an intriguing study, and a good example of the types of questions we need to ask in visualization. The results clearly tell us that there is more to the choice of representation than correct perception. Questions like this need to be asked about many other application areas as well, and we need to get a better understanding of the higher-level processes that cause these differences.
 
-<hr />
+---
 
-Linda S. Elting, Charles G. Martin, Scott B. Cantor, and Edward B. Rubenstein, <a href="http://www.bmj.com/content/318/7197/1527.abstract" target="_blank">Influence of data display formats on physician investigators' decisions to stop clinical trials: prospective trial with repeated measures</a>, <em>British Medical Journal</em>, vol. 318, pp. 1527-1531, 1999.
+Linda S. Elting, Charles G. Martin, Scott B. Cantor, and Edward B. Rubenstein, [Influence of data display formats on physician investigators' decisions to stop clinical trials: prospective trial with repeated measures](http://www.bmj.com/content/318/7197/1527.abstract), *British Medical Journal*, vol. 318, pp. 1527-1531, 1999.

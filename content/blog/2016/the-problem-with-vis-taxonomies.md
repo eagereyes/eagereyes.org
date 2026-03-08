@@ -1,13 +1,12 @@
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg" width="720" height="500" /></p>
 
-
 # The Problem with Vis Taxonomies
 
 Most taxonomies in visualization and HCI are useless. They carve up the space, but they don’t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones.
 
 ## A Taxonomy of Taxonomies
 
-Taxonomies organize the world. They’re best known from <a href="https://en.wikipedia.org/wiki/Taxonomy_(biology)">biology</a>, where animals and plants were classified by their appearance and their apparent relationships long before evolution or genes were known. Other taxonomies include the <a href="https://en.wikipedia.org/wiki/Periodic_table">Periodic Table of Elements</a>, which not only organized the known chemical elements, but also predicted a number of then-unknown ones and even suggested that some of the existing data about atomic weights was wrong.
+Taxonomies organize the world. They’re best known from [biology](https://en.wikipedia.org/wiki/Taxonomy_(biology)), where animals and plants were classified by their appearance and their apparent relationships long before evolution or genes were known. Other taxonomies include the [Periodic Table of Elements](https://en.wikipedia.org/wiki/Periodic_table), which not only organized the known chemical elements, but also predicted a number of then-unknown ones and even suggested that some of the existing data about atomic weights was wrong.
 
 That last point is quite astounding, actually. Mendeleev not only had holes in his original table, but some of the atomic weights would have put elements into different spots. Instead of building his table around the messy existing data, Mendeleev made some bold choices in placing those elements where they belonged given their properties, and ignored the data. He trusted his organizing principle more than what was known at that point about the world. And he was proven right.
 
@@ -17,15 +16,13 @@ Most of the taxonomies we know from the sciences are the ones that have proven t
 
 I propose a new taxonomy for cars. I believe that it is novel, but I can’t rule out that somebody has done it before. My taxonomy organizes cars by color. In particular, it has the following categories
 
-<ul>
-    <li>Red cars</li>
-    <li>Blue cars</li>
-    <li>Green cars</li>
-    <li>White cars</li>
-    <li>Black cars</li>
-    <li>Cars of some other single color</li>
-    <li>Cars of more than one color</li>
-</ul>
+- Red cars
+- Blue cars
+- Green cars
+- White cars
+- Black cars
+- Cars of some other single color
+- Cars of more than one color
 
 This is a taxonomy. It carves up the space of all cars. Is it useful? No. I can’t do anything with those groups. Each will contain cars that are vastly different in their interesting properties (space, weight, mileage, etc.), so I won’t be able to make any useful statements about the speed of red cars being higher than that of blue cars, etc.
 
@@ -43,12 +40,12 @@ At that least, we need people who can stand up to the existing stuff, like Mende
 
 ## Usefulness Criteria
 
-How do we know when a taxonomy is useful? I find that the taxonomies that appeal to me are the ones that let me build stuff. <a href="http://graphics.stanford.edu/papers/polaris_extended/">VizQL</a> is an example, even if it’s not a pure taxonomy. But it is the basis for <a href="https://tableau.com">a certain commercial data visualization product</a>. <a href="https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html"><em>The Grammar of Graphics</em></a> is another example. It has been implemented in a number of tools and systems, most famously it lends its two gs to <a href="http://ggplot2.org">ggplot</a>. Both VizQL and <em>The Grammar of Graphics</em> are languages, but they are based on an understanding of the space or they would not be very useful. Neither is complete, but both allow us to build new combinations and test ideas.
+How do we know when a taxonomy is useful? I find that the taxonomies that appeal to me are the ones that let me build stuff. [VizQL](http://graphics.stanford.edu/papers/polaris_extended/) is an example, even if it’s not a pure taxonomy. But it is the basis for [a certain commercial data visualization product](https://tableau.com). [*The Grammar of Graphics*](https://www.cs.uic.edu/~wilkinson/TheGrammarOfGraphics/GOG.html) is another example. It has been implemented in a number of tools and systems, most famously it lends its two gs to [ggplot](http://ggplot2.org). Both VizQL and *The Grammar of Graphics* are languages, but they are based on an understanding of the space or they would not be very useful. Neither is complete, but both allow us to build new combinations and test ideas.
 
 To be clear, this should not be the only criterion. There definitely can be highly interesting and useful taxonomies that are not directly constructive in this way. But it certainly helps if a taxonomy turns out to have this feature.
 
 Just like novelty in research papers, the ability to make predictions or build new things should be an acceptance criterion. Just shuffling things around in a new way is not interesting and not useful.
 
-<hr />
+---
 
-<a href="https://www.flickr.com/photos/limaoscarjuliet/2131512327/">Teaser image by Pawel Loj</a>
+[Teaser image by Pawel Loj](https://www.flickr.com/photos/limaoscarjuliet/2131512327/)

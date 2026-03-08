@@ -8,7 +8,7 @@ The first uses of graphics to represent data, interestingly, were very bare and 
 
 <p align="center"><img class="aligncenter size-medium wp-image-2084" title="William Playfair: Exports and Imports to and from Denmark &amp; Norway" src="https://media.eagereyes.org/wp-content/uploads/2012/11/playfair-denmark-exports.png" alt="" width="600" height="443" /></p>
 
-Those charts were drawn to communicate, not to analyze. <a title="Review: Steven Johnson, The Ghost Map" href="/criticism/review-steven-johnson-the-ghost-map">Snow’s cholera map</a> often wrongly serves as an example of visual analysis, when it was drawn to convince. Similarly, <a title="Shining a Light on Data: Florence Nightingale" href="/blog/2009/shining-a-light-on-data-florence-nightingale">Florence Nightingale’s chart of deaths in the Crimean War</a> was used to illustrate her argument that improvements in hygiene would save many lives, and William Playfair illustrated the trade balance between England and its trade partners.
+Those charts were drawn to communicate, not to analyze. [Snow’s cholera map](/criticism/review-steven-johnson-the-ghost-map) often wrongly serves as an example of visual analysis, when it was drawn to convince. Similarly, [Florence Nightingale’s chart of deaths in the Crimean War](/blog/2009/shining-a-light-on-data-florence-nightingale) was used to illustrate her argument that improvements in hygiene would save many lives, and William Playfair illustrated the trade balance between England and its trade partners.
 
 ## 1920–30s: Neurath
 
@@ -16,21 +16,21 @@ In the first thirty years of the 20th century, Otto Neurath designed a visual la
 
 <p align="center"><img class="aligncenter size-medium wp-image-2083" title="Otto Neurath: Home and Factory Weaving in England" src="https://media.eagereyes.org/wp-content/uploads/2012/11/isotype-weaving.jpg" alt="" width="600" height="597" /></p>
 
-Neurath wanted to educate people about the world: ISOTYPE is the acronym for <em>International System of TYpographic Picture Education</em>. His illustrations were meant to stand on their own, without somebody there to explain. Nightingale and Playfair worked under the assumption that there would be explanatory text or they themselves would be there to make the argument, supported by the graphic. Neurath aimed to make his images self-contained and self-explanatory.
+Neurath wanted to educate people about the world: ISOTYPE is the acronym for *International System of TYpographic Picture Education*. His illustrations were meant to stand on their own, without somebody there to explain. Nightingale and Playfair worked under the assumption that there would be explanatory text or they themselves would be there to make the argument, supported by the graphic. Neurath aimed to make his images self-contained and self-explanatory.
 
 ## 1960–70s: Bertin and Tukey
 
 Thirty years later, the focus shifted from presentation to analysis, and the explanatory parts of the graphics disappeared again. John Tukey in particular was interested in what he could learn from the graphical depiction of the data, not whether it would work as a good presentation device. Bertin used graphical means both for analysis and communication, though his more presentational graphics were mostly maps.
 
-Tukey invented <a href="http://www.statgraphics.com/eda.htm">a number of different plot types</a>, among them the box plot, the bubble chart, the radar chart, and more. Bertin, in addition to his seminal theoretical work, created the <em>reorderable matrix</em>, a simple yet powerful tool for finding clusters in data. It represents one of the first uses of interaction in visualization.
+Tukey invented [a number of different plot types](http://www.statgraphics.com/eda.htm), among them the box plot, the bubble chart, the radar chart, and more. Bertin, in addition to his seminal theoretical work, created the *reorderable matrix*, a simple yet powerful tool for finding clusters in data. It represents one of the first uses of interaction in visualization.
 
 <p align="center"><img class="aligncenter size-medium wp-image-2082" title="Jacques Bertin's Reorderable Matrix" src="https://media.eagereyes.org/wp-content/uploads/2012/11/bertin-reorderable-matrix.png" alt="" width="600" height="481" /></p>
 
 ## 1970–80s: Holmes
 
-The late 1970s and early 1980s saw a new development: the elaborate information graphic, which had existed for a while, was starting to be used to communicate numbers. <a title="List of Influences: Nigel Holmes" href="/blog/2012/nigel-holmes">Nigel Holmes</a> is perhaps the most prominent designer of this kind of visualization.
+The late 1970s and early 1980s saw a new development: the elaborate information graphic, which had existed for a while, was starting to be used to communicate numbers. [Nigel Holmes](/blog/2012/nigel-holmes) is perhaps the most prominent designer of this kind of visualization.
 
-Holmes actually uses the term <em>explanation graphic</em>, which is not only less misused, it also more clearly describes the goal: to explain the data and its context. In addition, Holmes also clearly wanted to draw the reader’s attention and entertain. The result were information graphics that were very elaborate and unique, but always based on actual, real data.
+Holmes actually uses the term *explanation graphic*, which is not only less misused, it also more clearly describes the goal: to explain the data and its context. In addition, Holmes also clearly wanted to draw the reader’s attention and entertain. The result were information graphics that were very elaborate and unique, but always based on actual, real data.
 
 ## 1980s: Tufte
 
@@ -40,7 +40,7 @@ Tufte’s influence is clearly felt in the visualization field today, and his na
 
 ## 2000s: INFOGRAPHICs vs. Visualization
 
-Today’s deluge of <a href="http://flowingdata.com/2011/09/29/the-many-words-for-visualization/">infographics</a> is a mix of many different styles, with the loud and crazy ones unfortunately sticking out (and perhaps being the most common). Often, they are used to attract eyeballs and links to otherwise mundane articles; which is not an issue in principle, Holmes’ work partly served a similar purpose.
+Today’s deluge of [infographics](http://flowingdata.com/2011/09/29/the-many-words-for-visualization/) is a mix of many different styles, with the loud and crazy ones unfortunately sticking out (and perhaps being the most common). Often, they are used to attract eyeballs and links to otherwise mundane articles; which is not an issue in principle, Holmes’ work partly served a similar purpose.
 
 What many of these infographics lack, unfortunately, is accuracy and depth. While the information graphics of the 1980s were generally useful for understanding the context of the data, many of today’s infographics just add eye candy that is of little practical use, while playing fast and loose with the data.
 

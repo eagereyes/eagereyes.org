@@ -6,7 +6,7 @@ Can gravity have an influence on how the data in a chart is perceived? How do di
 
 ## Gravity
 
-The motivation for this study came from <a href="/blog/2010/paper-implied-dynamics-in-information-visualization">an earlier paper</a>, were we had found that people interpreted charts that had an unequal distribution of "weight" (darker vs. lighter colors) as unstable. In fact, some of them even reported that they thought that an unbalanced donut chart might roll away. This can only be explained if there is a notion of gravity that can turn such an imbalance into movement.
+The motivation for this study came from [an earlier paper](/blog/2010/paper-implied-dynamics-in-information-visualization), were we had found that people interpreted charts that had an unequal distribution of "weight" (darker vs. lighter colors) as unstable. In fact, some of them even reported that they thought that an unbalanced donut chart might roll away. This can only be explained if there is a notion of gravity that can turn such an imbalance into movement.
 
 So the goal of our first study was to look for other effects that were caused by gravity. One of them was a downward shift of the remembered location of bubbles in a scatterplot, the other was how structures in the data (like clusters) would attract a bubble.
 
@@ -24,8 +24,8 @@ When comparing how strongly each of these properties connects the two bubbles co
 
 This opens up new possibilities, like being able to test and measure how clearly conceptual information will be read from a diagram by testing for the shift caused by the visual attributes used. This is theory that is not just interesting and scientifically sound, but useful.
 
-<hr />
+---
 
-Caroline Ziemkiewicz, Robert Kosara, <a href="/publications/Ziemkiewicz-InfoVis-2010">Laws of Attraction: From Perceived Forces to Conceptual Similarity</a>, <em>Transactions on Visualization and Computer Graphics (Proceedings InfoVis)</em>, 2010.
+Caroline Ziemkiewicz, Robert Kosara, [Laws of Attraction: From Perceived Forces to Conceptual Similarity](/publications/Ziemkiewicz-InfoVis-2010), *Transactions on Visualization and Computer Graphics (Proceedings InfoVis)*, 2010.
 
-The paper will be presented at VisWeek 2010 in the <a href="http://vis.computer.org/VisWeek2010/schedule/thursday.html">first morning session on Thursday</a>, <em>Perception and Cognition</em>.
+The paper will be presented at VisWeek 2010 in the [first morning session on Thursday](http://vis.computer.org/VisWeek2010/schedule/thursday.html), *Perception and Cognition*.

@@ -10,13 +10,13 @@ Both quantitative and categorical data have some finer distinctions, but I will 
 
 ## Quantitative Data: Values
 
-Most data sets contain both types of data. It’s actually quite difficult to visualize data that is purely quantitative or purely categorical (<a title="Parallel Coordinates" href="/techniques/parallel-coordinates">parallel coordinates</a> are a good way to show the former, <a title="Parallel Sets" href="/parallel-sets">parallel sets</a> for the latter).
+Most data sets contain both types of data. It’s actually quite difficult to visualize data that is purely quantitative or purely categorical ([parallel coordinates](/techniques/parallel-coordinates) are a good way to show the former, [parallel sets](/parallel-sets) for the latter).
 
 Let’s take the example of a hypothetical coffee chain and look at their profits. A simple bar chart can show this data broken down by product type.
 
 <p align="center"><img class="aligncenter size-full wp-image-2317" alt="Simple bars" src="https://media.eagereyes.org/wp-content/uploads/2013/04/bars-simple.png" width="600" height="160" /></p>
 
-As simple as this chart is, some decisions had to be made how to show the data. The quantitative <em>Profit</em> variable is shown well by position or length. The categorical <em>Product Type</em> naturally divides the data into individual items, hence the bars.
+As simple as this chart is, some decisions had to be made how to show the data. The quantitative *Profit* variable is shown well by position or length. The categorical *Product Type* naturally divides the data into individual items, hence the bars.
 
 What if we picked a different variable for the second axis, one that is continuous? This changes the type of chart we want to a line chart.
 
@@ -24,11 +24,11 @@ What if we picked a different variable for the second axis, one that is continuo
 
 Profit is now on the vertical axis, but it is still a continuous variable. We might treat time as categorical, which would give us another bar chart, perhaps with one bar per month (or whatever granularity we want). But I decided to treat time as continuous here, which results in a line chart. Time is a special case that can be either type, depending on the way you want to look at the data. To focus on individual months, treat time as discrete and use bars. To look at trends and the rate of change (and thus, the space in between the data points), use continuous time.
 
-Line and bar charts can appear to be interchangeable, but they are usually not. The encoding is subtly different (length for the bars, position for the line), and there is a clear implication in the line that there is a continuum between the points. Using a line chart for the product type chart above would not make sense, since there is nothing in between <em>Espresso</em> and <em>Herbal Tea</em>. Even if we only have one data point for each month, though, time is still continuous, so we can treat it as such if we want.
+Line and bar charts can appear to be interchangeable, but they are usually not. The encoding is subtly different (length for the bars, position for the line), and there is a clear implication in the line that there is a continuum between the points. Using a line chart for the product type chart above would not make sense, since there is nothing in between *Espresso* and *Herbal Tea*. Even if we only have one data point for each month, though, time is still continuous, so we can treat it as such if we want.
 
 ## Categorical Data: Breaking Things Down
 
-We often want to see more than two data attributes at the same time. Categorical axes can be used to break data down further. Each category is subdivided by the categories of the additional dimensions. Adding two categorical dimensions, <em>Market</em> and <em>Year</em> to the initial chart gives us a lot more bars. 
+We often want to see more than two data attributes at the same time. Categorical axes can be used to break data down further. Each category is subdivided by the categories of the additional dimensions. Adding two categorical dimensions, *Market* and *Year* to the initial chart gives us a lot more bars. 
 
 <p align="center"><img class="aligncenter size-full wp-image-2316" alt="More bars" src="https://media.eagereyes.org/wp-content/uploads/2013/04/bars-multiple.png" width="600" height="375" /></p>
 
@@ -50,7 +50,7 @@ These examples are very straight-forward. Simple charts tend to work well for a 
 
 <p align="center"><img class="aligncenter size-full wp-image-2321" alt="Scatterplot" src="https://media.eagereyes.org/wp-content/uploads/2013/04/scatter2.png" width="600" height="600" /></p>
 
-The scatterplot shows two numerical values using position along each axis. I've added two categorical ones: color and shape. This shows me that the <em>West</em> market had the highest sales in all but the <em>Coffee</em> category (look at the locations of the X marks compared to the other shapes of the same color), though not always the highest profits.
+The scatterplot shows two numerical values using position along each axis. I've added two categorical ones: color and shape. This shows me that the *West* market had the highest sales in all but the *Coffee* category (look at the locations of the X marks compared to the other shapes of the same color), though not always the highest profits.
 
 Like color, shape works well for a small number of categories, because we can really only tell a very limited number of them apart (10 is roughly the maximum for both).
 

@@ -8,7 +8,7 @@ Of all the new things at VisWeek this year, I think I liked the parties most. Th
 
 What added a lot of fun, life, and social interaction were the parties. Microsoft Research had one on Monday, which I missed. There was also the West Coast Party, organized by Tamara Munzner of UBC and Jeff Heer of Stanford. It was quite busy and a lot of fun (once you found one of the walking ticket dispensers so you could get a drink).
 
-The big event, though, was <em>The Party</em>, organized by Seattle Visualization Meetup Meister Noah Iliinsky, and sponsored by Tableau. Noah got five of us to give Ignite-style talks (15 slides with 20 seconds for each), which were fun for the few people who paid attention. The setting, at the <em>Hard Rock Cafe</em> in downtown Seattle, was amazing. They have a rooftop terrace that has great views and is set up for large parties, and we also had their second floor. I don’t know how many people attended, but it was incredibly busy and all the people I talked to seemed to enjoy themselves.
+The big event, though, was *The Party*, organized by Seattle Visualization Meetup Meister Noah Iliinsky, and sponsored by Tableau. Noah got five of us to give Ignite-style talks (15 slides with 20 seconds for each), which were fun for the few people who paid attention. The setting, at the *Hard Rock Cafe* in downtown Seattle, was amazing. They have a rooftop terrace that has great views and is set up for large parties, and we also had their second floor. I don’t know how many people attended, but it was incredibly busy and all the people I talked to seemed to enjoy themselves.
 
 Parties are not just fun, they add an important social layer to the conference. They also are a good indicator of the health of a conference, and if we’re going by this year’s, VisWeek is doing very well.
 
@@ -32,4 +32,4 @@ All the SciVis blogs I’m aware of have been dead for years or have switched ov
 
 ## VIS 2013
 
-After I wrote <a href="/blog/2012/visweek-2012-digest-part-2">last week</a> that I didn’t believe in the name change from VisWeek to VIS, <a href="http://visweek.org">the website</a> was updated and it now announces VIS 2013. It’s still under the visweek.org domain, though, and in my heart, it will live forever as <em>VisWeek</em> (or for another few months or so, anyway).
+After I wrote [last week](/blog/2012/visweek-2012-digest-part-2) that I didn’t believe in the name change from VisWeek to VIS, [the website](http://visweek.org) was updated and it now announces VIS 2013. It’s still under the visweek.org domain, though, and in my heart, it will live forever as *VisWeek* (or for another few months or so, anyway).

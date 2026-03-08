@@ -2,7 +2,7 @@
 
 # The Dumbest User Interface of 2016
 
-It is my great honor and pleasure to announce the winner of the <em>Worst User Interface Award 2016</em>: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved.
+It is my great honor and pleasure to announce the winner of the *Worst User Interface Award 2016*: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved.
 
 It is not often that a new user interface is so obviously annoying and user-hostile as these new terminals. It is even more remarkable that such a poorly thought out design could be released for such widespread use. And in 2016, no less (well, actually 2015 or even earlier, but the machines weren't accepting chip cards until some time this year in most places).
 
@@ -22,6 +22,6 @@ It may be astounding that credit card processors would drive their customers to 
 
 The award is lovingly handmade from thousands of discarded “Please Swipe!” and “Not Working” tapes and can be picked up at EagerEyes Headquarters during business hours.
 
-<hr />
+---
 
-<a href="https://www.flickr.com/photos/39160147@N03/15721764104/">Teaser image by JeepersMedia</a>
+[Teaser image by JeepersMedia](https://www.flickr.com/photos/39160147@N03/15721764104/)

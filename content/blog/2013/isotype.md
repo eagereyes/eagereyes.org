@@ -2,7 +2,7 @@
 
 Communicating data visually is not only about perception and precision, but also understanding. ISOTYPE was developed to bridge the gap between showing data in a way that's easy to read and at the same time easier to understand than unadorned bar charts.
 
-The <strong>I</strong>nternational <strong>S</strong>ystem <strong>o</strong>f <strong>Ty</strong>pographic <strong>P</strong>icture <strong>E</strong>ducation (which is what <em>ISOTYPE</em> stands for) was developed in the 1920s by <a href="http://en.wikipedia.org/wiki/Otto_Neurath">Otto Neurath</a>, his wife <a href="http://en.wikipedia.org/wiki/Marie_Neurath">Marie Neurath</a>, and <a href="http://en.wikipedia.org/wiki/Gerd_Arntz">Gerd Arntz</a>. It came out of the philosophy of the Vienna Circle (think Freud, Wittgenstein, Schrödinger, etc.), with the goal of changing the world by educating people about the world around them (see <a title="The Changing Goals of Data Visualization" href="/criticism/changing-goals-data-visualization">The Changing Goals of Data Visualization</a>).
+The **I**nternational **S**ystem **o**f **Ty**pographic **P**icture **E**ducation (which is what *ISOTYPE* stands for) was developed in the 1920s by [Otto Neurath](http://en.wikipedia.org/wiki/Otto_Neurath), his wife [Marie Neurath](http://en.wikipedia.org/wiki/Marie_Neurath), and [Gerd Arntz](http://en.wikipedia.org/wiki/Gerd_Arntz). It came out of the philosophy of the Vienna Circle (think Freud, Wittgenstein, Schrödinger, etc.), with the goal of changing the world by educating people about the world around them (see [The Changing Goals of Data Visualization](/criticism/changing-goals-data-visualization)).
 
 ISOTYPE is really a larger system, which includes two ideas that nicely complement each other: a visual language for creating icons, and the idea of using multiples to represent quantitative data.
 
@@ -24,6 +24,6 @@ Here, each figure stands for a multiple, in this case 10,000, workers, and each 
 
 The ISOTYPE may be close to 100 years old, but many of the ideas behind it are still very relevant and visualization might benefit from considering some of them.
 
-<hr />
+---
 
-The images used here, and many others from classic visualization texts, can be found in <a href="http://www.flickr.com/photos/mstoll/sets/72157631925147046">Michael Stoll's wonderful flickr collections</a>.
+The images used here, and many others from classic visualization texts, can be found in [Michael Stoll's wonderful flickr collections](http://www.flickr.com/photos/mstoll/sets/72157631925147046).

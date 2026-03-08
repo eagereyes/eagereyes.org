@@ -2,13 +2,13 @@
 
 # What Happened to ISOTYPE?
 
-Jan Willem Tulp <a href="https://twitter.com/JanWillemTulp/status/1309578237832581126">asked me an interesting question on Twitter last week</a>: if ISOTYPE was so great, why isn’t anybody using it anymore? Here are some of my thoughts, but more than that I want to see if anybody has more idea, and maybe even a bit of evidence, on why ISOTYPE fell out of fashion in the 1950s and hasn’t really come back since.
+Jan Willem Tulp [asked me an interesting question on Twitter last week](https://twitter.com/JanWillemTulp/status/1309578237832581126): if ISOTYPE was so great, why isn’t anybody using it anymore? Here are some of my thoughts, but more than that I want to see if anybody has more idea, and maybe even a bit of evidence, on why ISOTYPE fell out of fashion in the 1950s and hasn’t really come back since.
 
 ## The Heyday of ISOTYPE
 
-To set some context, <a href="/techniques/isotype" data-type="post" data-id="2233">ISOTYPE</a> wasn’t just a neat idea. I’m aware of at least 70 books that use ISOTYPE charts from the 1930s through the 1950s, and I actually own copies of close to 50 of them. Yes, you read that right. <a href="/tag/isotype">I’ve posted a handful in this series</a>, and I intend to scan and post a lot more of them in the near future.
+To set some context, [ISOTYPE](/techniques/isotype) wasn’t just a neat idea. I’m aware of at least 70 books that use ISOTYPE charts from the 1930s through the 1950s, and I actually own copies of close to 50 of them. Yes, you read that right. [I’ve posted a handful in this series](/tag/isotype), and I intend to scan and post a lot more of them in the near future.
 
-The ISOTYPE institute was around for several decades and produced a graphics for dozens of books and other media using their technique. A few others picked it up and produced more, most notably Rudolf Modley <a href="https://medium.com/nightingale/the-telefacts-of-life-rudolf-modleys-isotypes-in-american-newspapers-1938-1945-d5478faa5647">who designed around 1,000 <em>Telefact</em>s that ran from 1938 to the mid 1940s in American newspapers</a>. 
+The ISOTYPE institute was around for several decades and produced a graphics for dozens of books and other media using their technique. A few others picked it up and produced more, most notably Rudolf Modley [who designed around 1,000 *Telefact*s that ran from 1938 to the mid 1940s in American newspapers](https://medium.com/nightingale/the-telefacts-of-life-rudolf-modleys-isotypes-in-american-newspapers-1938-1945-d5478faa5647). 
 
 ## What Happened?
 
@@ -16,9 +16,9 @@ I really want to pose this as a question, but here are my thoughts. I hope other
 
 First, Modernism happened. This one’s a bit complicated because it’s clear that Gerd Arntz’s designs of the iconic shapes used in ISOTYPE have become, well, icons of modernism. At the same time though, the idea of using such shapes in data displays may have been a victim of modernist ideals that eschew all decoration. These ideas go back much further than the 1940s of course, but became much more widespread mid-century.
 
-Another reason might be the tighter coupling of statistics and charts, specifically John Tukey’s <em>Exploratory Data Analysis</em>. The charts used in the process of data exploration and analysis had to be made relatively quickly, so there was no time to consider the right kinds of shapes to use. ISOTYPE also isn’t exactly the most information-dense format, and it’s largely confined to the equivalent of bar charts, no continuous variables or two-axis plots like scatterplots are possible.
+Another reason might be the tighter coupling of statistics and charts, specifically John Tukey’s *Exploratory Data Analysis*. The charts used in the process of data exploration and analysis had to be made relatively quickly, so there was no time to consider the right kinds of shapes to use. ISOTYPE also isn’t exactly the most information-dense format, and it’s largely confined to the equivalent of bar charts, no continuous variables or two-axis plots like scatterplots are possible.
 
-Also, Tufte happened. Tufte has had a huge influence on what is considered good and proper data visualization, and he has no patience for decoration or the ‘pop journalism’ of ISOTYPE (he also considers the charts <em>ghastly</em>). Anything added to the pure data is considered <em>chart junk</em> in the Tuftean world, and so we end up with a style of data representation that has had [all of the fun and explanatory power of images and text beaten out of it](https://twitter.com/datavisFriendly/status/1308451731089633281).
+Also, Tufte happened. Tufte has had a huge influence on what is considered good and proper data visualization, and he has no patience for decoration or the ‘pop journalism’ of ISOTYPE (he also considers the charts *ghastly*). Anything added to the pure data is considered *chart junk* in the Tuftean world, and so we end up with a style of data representation that has had [all of the fun and explanatory power of images and text beaten out of it](https://twitter.com/datavisFriendly/status/1308451731089633281).
 
 And then, computers happened. This is somewhat connected to the point about statistics above. The way we deal with data is not to spend a lot of time on individual data sets or questions, we want general and efficient ways to turn any amount of data into visualizations in an instant. Computers are good at that, but much less so at thinking up clever icons to go with the data. Early computers and software (especially in 60s, but well into the 80s) also couldn’t to much beyond drawing points, lines, and rectangles, so the charts that consisted of them were the ones that got made: scatterplots, line charts, bar charts. 
 

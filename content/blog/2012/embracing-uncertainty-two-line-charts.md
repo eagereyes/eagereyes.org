@@ -2,7 +2,7 @@
 
 As we're heading towards elections again, there is a chart type that is as unavoidable as political ads, baby-kissing, and smear campaigns: line charts showing polling data. The most common pitch two candidates against each other, and often make a big deal out of the fact that the lines cross. Not only are these charts misleading in the way they depict the choice, they also hide an important fact: the number of undecided voters.
 
-The following image shows slightly different data, but the idea is the same. The data is from a <a href="http://www.gallup.com/poll/113980/Gallup-Daily-Obama-Job-Approval.aspx">long-running Gallup poll</a> about job approval ratings of President Obama, from early 2009 to the end of 2011. Each data point is actually a three-day average. Blue shows approval, green disapproval.
+The following image shows slightly different data, but the idea is the same. The data is from a [long-running Gallup poll](http://www.gallup.com/poll/113980/Gallup-Daily-Obama-Job-Approval.aspx) about job approval ratings of President Obama, from early 2009 to the end of 2011. Each data point is actually a three-day average. Blue shows approval, green disapproval.
 
 <img class="alignnone size-full wp-image-1608" title="Obama Approval Ratings as Line Chart" src="https://media.eagereyes.org/wp-content/uploads/2012/01/obama-lines.png" alt="" width="600" height="340" />
 
@@ -28,6 +28,6 @@ The scaling of this chart is also a lot more honest. The first chart is based on
 
 Finally, the stacking reinforces the idea of a part-whole-relationship. The three numbers (approval, undecided, disapproval) have to add up to 100%, the stack is always the same height. Rather than pretend that we are dealing with two independent data series that are shown as lines, the dependencies between them are clearly shown in the chart.
 
-<hr />
+---
 
-The data for these charts is coming directly from <a href="http://www.gallup.com/poll/113980/Gallup-Daily-Obama-Job-Approval.aspx">Gallup</a>, via a link on <a href="http://thedailyviz.com/post/14866525865/president-obamas-approval-ratings-at-five-month-high">The Daily Viz</a>.
+The data for these charts is coming directly from [Gallup](http://www.gallup.com/poll/113980/Gallup-Daily-Obama-Job-Approval.aspx), via a link on [The Daily Viz](http://thedailyviz.com/post/14866525865/president-obamas-approval-ratings-at-five-month-high).

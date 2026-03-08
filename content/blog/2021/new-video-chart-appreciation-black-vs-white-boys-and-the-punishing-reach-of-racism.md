@@ -2,12 +2,12 @@
 
 Dots fly across the screen, some of them moving up, some down. They represent black and white boys, and how their income differs from that of their parents and from each other. It's a great way to show this data in an engaging way and without having to explain percentiles. This is a chart appreciation.
 
-The visualization was part of <a href="https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html">an article published in the New York Times in 2018</a> by Emily Badger, Claire Cain Miller, Adam Pearce, and Kevin Quealy. It uses several different charts, some of them animated, others static. I talk about a few of them in the video, but you should check out the original article as well because there's a lot to take in there.
+The visualization was part of [an article published in the New York Times in 2018](https://www.nytimes.com/interactive/2018/03/19/upshot/race-class-white-and-black-men.html) by Emily Badger, Claire Cain Miller, Adam Pearce, and Kevin Quealy. It uses several different charts, some of them animated, others static. I talk about a few of them in the video, but you should check out the original article as well because there's a lot to take in there.
 
-I'm embedding the teaser video here, but you'll have to <a href="https://youtu.be/VDXCYV7sbmw">head over to YouTube to watch the full video</a>.
+I'm embedding the teaser video here, but you'll have to [head over to YouTube to watch the full video](https://youtu.be/VDXCYV7sbmw).
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YszGGETTY6A?si=w_WUhuSziJ91gNgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YszGGETTY6A?si=w_WUhuSziJ91gNgL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 As always, I would appreciate feedback. This was not an easy video to make, but I think it's a great piece and the topic is obviously important.
 
-I have a few <a href="https://www.youtube.com/playlist?list=PLbzq0eVw_4Dkqd5kuwY3uMANPvVBQ292V">more chart appreciations on my channel</a>, and of course more videos to come – so please subscribe on YouTube and hit the like button if you think the video was worth your time!
+I have a few [more chart appreciations on my channel](https://www.youtube.com/playlist?list=PLbzq0eVw_4Dkqd5kuwY3uMANPvVBQ292V), and of course more videos to come – so please subscribe on YouTube and hit the like button if you think the video was worth your time!

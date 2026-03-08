@@ -2,7 +2,7 @@
 
 # Parallel Sets Implemented By Third Party
 
-It's nice to see an idea evolve and get picked up by other people. Which is why I'm excited to have spotted the first third-party implementation of <a href="/parallel-sets">Parallel Sets</a> in the wild: a (Windows-only) program called <a href="http://www.knowledgeblocks.eu/kb/Default.aspx">Knowledge Blocks</a> that allows you to visually piece together a query and show the results in a table or a Parallel Sets display.
+It's nice to see an idea evolve and get picked up by other people. Which is why I'm excited to have spotted the first third-party implementation of [Parallel Sets](/parallel-sets) in the wild: a (Windows-only) program called [Knowledge Blocks](http://www.knowledgeblocks.eu/kb/Default.aspx) that allows you to visually piece together a query and show the results in a table or a Parallel Sets display.
 
 It's not interactive, but it's a start. And I like the fact that the author makes no big deal about it: it's just a Parallel Sets view after all, like a scatterplot or maybe Parallel Coordinates.
 
@@ -10,6 +10,6 @@ There hasn't been much activity on the Parallel Sets program recently, so I figu
 
 I have collected a number of important issues that need to be addressed, and I also have a few ideas about new features to add (partly based on suggestions from users). Without committing to a particular date, I am hoping to get the 2.2 release out around VisWeek 2010 (i.e., end of October).
 
-Next week, I will also be speaking on a panel at the <a href="http://nvac.pnl.gov/meeting_2010/">iVAC Consortium Meeting</a>. That panel will be about getting tools out into the hands of users, so unsurprisingly Parallel Sets will be my topic there.
+Next week, I will also be speaking on a panel at the [iVAC Consortium Meeting](http://nvac.pnl.gov/meeting_2010/). That panel will be about getting tools out into the hands of users, so unsurprisingly Parallel Sets will be my topic there.
 
 Beyond the next release, I am hoping to connect the program a lot more to Parallel Coordinates, and we actually might be getting funding to do that soon. I can't talk about specifics right now, but it looks promising. So keep your fingers crossed, and I will keep you posted on any and all developments.

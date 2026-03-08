@@ -1,4 +1,4 @@
-<p align="center"><a href="/criticism/above-all-do-no-harm"><img src="https://media.eagereyes.org/media/2011/soccer-teaser.jpg" alt="" width="600" height="200" /></a></p>
+<p align="center">[<img src="https://media.eagereyes.org/media/2011/soccer-teaser.jpg" alt="" width="600" height="200" />](/criticism/above-all-do-no-harm)</p>
 
 # Above All, Do No Harm!
 
@@ -6,11 +6,11 @@ Heatmaps and 3D pie charts are often criticized, and for good reason. But they'r
 
 ## The Chart
 
-<a href="http://well-formed-data.net/">Moritz Stefaner</a> <a href="https://twitter.com/moritz_stefaner/status/105029152993845249">tweeted</a> about this chart on the weekend, and he did not like it.
+[Moritz Stefaner](http://well-formed-data.net/) [tweeted](https://twitter.com/moritz_stefaner/status/105029152993845249) about this chart on the weekend, and he did not like it.
 
 <p align="center"><img src="https://media.eagereyes.org/media/2011/soccer-moritz.png" alt="" width="600" height="220" /></p>
 
-The <a href="http://www.spiegel.de/fotostrecke/fotostrecke-71846-2.html">image in question</a> was posted as part of an article in German magazine <em>Der Spiegel</em>. The point of it is to show the strategy of Dutch soccer player Arjen Robben in a particular match against Germany.
+The [image in question](http://www.spiegel.de/fotostrecke/fotostrecke-71846-2.html) was posted as part of an article in German magazine *Der Spiegel*. The point of it is to show the strategy of Dutch soccer player Arjen Robben in a particular match against Germany.
 
 <p align="center"><img src="https://media.eagereyes.org/media/2011/soccer-heatmap.jpg" alt="" width="600" height="448" /></p>
 

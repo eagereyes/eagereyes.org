@@ -1,16 +1,16 @@
 # An Illustrated Tour of the Pie Chart Study Results
 
-In <a href="/papers/a-pair-of-pie-chart-papers">two papers</a>, <a href="https://twitter.com/seeingstructure">Drew Skau</a> and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!
+In [two papers](/papers/a-pair-of-pie-chart-papers), [Drew Skau](https://twitter.com/seeingstructure) and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!
 
-For my talk at <a href="http://informationplusconference.com">Information+</a>, I redid the figures we had used in the <a href="/papers/a-pair-of-pie-chart-papers">EuroVis pie chart papers</a>, both for the papers themselves and for the presentations. The result is much clearer, I think. I figured I'd share them here since they give a nice walk-through of the study results using the real data, but without too much detail. While the violin plots provide useful information during analysis, they're just too detailed for presentation – I feel like <a href="/papers/presentation-oriented-visualization-techniques">I should have seen that coming</a>.
+For my talk at [Information+](http://informationplusconference.com), I redid the figures we had used in the [EuroVis pie chart papers](/papers/a-pair-of-pie-chart-papers), both for the papers themselves and for the presentations. The result is much clearer, I think. I figured I'd share them here since they give a nice walk-through of the study results using the real data, but without too much detail. While the violin plots provide useful information during analysis, they're just too detailed for presentation – I feel like [I should have seen that coming](/papers/presentation-oriented-visualization-techniques).
 
 ## How the Charts Work
 
-What I'm about to show are the results of three studies, each of which had about 80–100 participants who each answered about 60 questions (for details see <a href="/papers/a-pair-of-pie-chart-papers">the papers</a>).
+What I'm about to show are the results of three studies, each of which had about 80–100 participants who each answered about 60 questions (for details see [the papers](/papers/a-pair-of-pie-chart-papers)).
 
 The charts are all based on the difference between what people thought they were seeing and what we were showing them – called error. If we showed them a value of, say, 27% and they answered 29%, that means they were 2% off. The 2% would be the same if they had said 25%, at least in absolute terms. I'm also going to use signed error below, which would be +2% if they answered 29% in my example, and -2% if they answered 25%. In the papers, we used the logarithm of the error, which made things more complicated (but followed what others had done before).
 
-I'm showing all the results using <a href="https://en.wikipedia.org/wiki/Confidence_interval">confidence intervals</a>, or CIs. They have the advantage that they give us an idea of the data without being too overwhelming (I hope!). I use 95% CIs here, which means that we're 95% confident that the real value of what we're measuring lies inside those intervals.
+I'm showing all the results using [confidence intervals](https://en.wikipedia.org/wiki/Confidence_interval), or CIs. They have the advantage that they give us an idea of the data without being too overwhelming (I hope!). I use 95% CIs here, which means that we're 95% confident that the real value of what we're measuring lies inside those intervals.
 
 <img class="aligncenter size-full wp-image-9381" src="https://media.eagereyes.org/wp-content/uploads/2016/06/ci-explain.png" alt="ci-explain" width="1320" height="500" />
 
@@ -116,8 +116,8 @@ To be clear, these studies say nothing about the suitability of pie charts. We u
 
 What we did find, however, is that the donut chart is no worse than the pie chart. That is new, and it's a direct consequence of the fact that we're not reading pie or donut charts by angle. Donut charts are popular and are useable wherever a pie chart can be used.
 
-What is more, we questioned and debunked the prevailing idea about how pie charts work that people have believed for 90 years – <a href="/blog/2015/ye-olde-pie-chart-debate">a paper by Walter Crosby Eells in 1926</a> appears to have been the basis for many assumptions about these charts. Nobody seems to have bothered to question them since. It's time somebody did.
+What is more, we questioned and debunked the prevailing idea about how pie charts work that people have believed for 90 years – [a paper by Walter Crosby Eells in 1926](/blog/2015/ye-olde-pie-chart-debate) appears to have been the basis for many assumptions about these charts. Nobody seems to have bothered to question them since. It's time somebody did.
 
-<hr />
+---
 
-I have created <a href="https://github.com/eagereyes/pie-summaries">a github repo with the code and data</a> to recreate these images, as well as versions of them in three different formats: PDF, PNG, and SVG.
+I have created [a github repo with the code and data](https://github.com/eagereyes/pie-summaries) to recreate these images, as well as versions of them in three different formats: PDF, PNG, and SVG.

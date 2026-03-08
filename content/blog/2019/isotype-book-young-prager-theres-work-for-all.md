@@ -2,15 +2,15 @@
 
 This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz’s famous unemployed man icon.
 
-Michael Young and Theodor Prager’s <em>There’s Work for All</em> is part of a series called <em>The New Democracy </em>that contains at least ten books. Like <a href="/tag/isotype-books">many books containing ISOTYPE charts</a> from that time, the text makes no reference to the charts. They exist alongside, almost like a separate book within the book.
+Michael Young and Theodor Prager’s *There’s Work for All* is part of a series called *The New Democracy *that contains at least ten books. Like [many books containing ISOTYPE charts](/tag/isotype-books) from that time, the text makes no reference to the charts. They exist alongside, almost like a separate book within the book.
 
-Many ISOTYPE charts are structured like bar charts, where you can read the chart by either counting the symbols or looking at the lengths the of rows as if they were bars. In <a href="/papers/isotype-visualization">a research paper a few years ago</a>, my collaborators and I showed that people are quite good at reading charts like that and no worse than reading bar charts (but they remember much more about what they saw).
+Many ISOTYPE charts are structured like bar charts, where you can read the chart by either counting the symbols or looking at the lengths the of rows as if they were bars. In [a research paper a few years ago](/papers/isotype-visualization), my collaborators and I showed that people are quite good at reading charts like that and no worse than reading bar charts (but they remember much more about what they saw).
 
 This book has an interesting mix of bar-like charts and more unusual ones. There are two types of bar-like charts here, ones that simply show numbers on their own and ones that provide some context (mostly population). The unusual ones all show distributions of some kind.
 
 ## Bar-Like Charts
 
-The straight bar charts include the following three, showing the production of wheat vs. pig-iron, the volume of ships built (I also showed this in <a href="/blog/2019/eagereyestv-episode-2-unit-charts-dot-plots-and-isotype-and-what-makes-them-special">my video about ISOTYPE and unit charts</a>), and employment vs. unemployment in a number of industries.
+The straight bar charts include the following three, showing the production of wheat vs. pig-iron, the volume of ships built (I also showed this in [my video about ISOTYPE and unit charts](/blog/2019/eagereyestv-episode-2-unit-charts-dot-plots-and-isotype-and-what-makes-them-special)), and employment vs. unemployment in a number of industries.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/Work4All-04.jpg" width="660" class="wp-image-12510"/></p>
 

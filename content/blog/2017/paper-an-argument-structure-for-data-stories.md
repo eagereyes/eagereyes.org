@@ -2,7 +2,7 @@
 
 # Paper: An Argument Structure for Data Stories
 
-There is talk about stories having a beginning, middle, and end, but what does that mean for data stories? How do you create the overall structure for those? In <a href="/publications/Kosara-EuroVis-2017">a paper to be presented at EuroVis next week</a>, I discuss a simple but very useful structure that I have found "in the wild," and that I believe to be useful and generalizable.
+There is talk about stories having a beginning, middle, and end, but what does that mean for data stories? How do you create the overall structure for those? In [a paper to be presented at EuroVis next week](/publications/Kosara-EuroVis-2017), I discuss a simple but very useful structure that I have found "in the wild," and that I believe to be useful and generalizable.
 
 Let's face it: most stories are boring. That is especially true of data stories. Many attempts at classifying and categorizing these stories start with the good ones, but then also have to slog through the swamp of terrible, unstructured crap that is out there.
 
@@ -14,6 +14,6 @@ In the paper, I describe the examples in depth and formalize the pattern a bit. 
 
 BTW, the reviewers complained that the paper didn't contain any visualizations, though it does have a few figures that show story structure (which are a sort of visualization). But even if I'd had the space, it would have been impossible to get the rights to use the examples I'm referring to, unfortunately.
 
-<hr />
+---
 
-Robert Kosara, <a href="/publications/Kosara-EuroVis-2017">An Argument Structure for Data Stories</a>, <em>Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)</em>, 2017.
+Robert Kosara, [An Argument Structure for Data Stories](/publications/Kosara-EuroVis-2017), *Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)*, 2017.

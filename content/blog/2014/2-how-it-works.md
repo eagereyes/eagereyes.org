@@ -18,7 +18,7 @@ There are basically two outcomes: accept the paper or reject it (journals can al
 
 ## Blind and Double-Blind Review
 
-Almost all reviews are <em>blind</em>, which means that as the paper author, you don’t know who is reviewing your papers. There is also <em>double-blind</em> review, which means that the reviewers don’t know who wrote the paper, either. To do this, you remove all identifying information from the submitted paper. While that’s obvious for things like the list of authors, it becomes a bit tricky when referencing your own prior work. Some people simply ignore this, and it’s generally not required in visualization (i.e., you are free to no do it if you don’t care).
+Almost all reviews are *blind*, which means that as the paper author, you don’t know who is reviewing your papers. There is also *double-blind* review, which means that the reviewers don’t know who wrote the paper, either. To do this, you remove all identifying information from the submitted paper. While that’s obvious for things like the list of authors, it becomes a bit tricky when referencing your own prior work. Some people simply ignore this, and it’s generally not required in visualization (i.e., you are free to no do it if you don’t care).
 
 The goal of “blinding” the reviewers is that it helps judge the work on its own merits, rather than having the reviewers be biased by who wrote the paper, or the institution they are from. That bias can be both positive and negative, and neither is good. Since you don’t know who’s reviewing your work, you can’t retaliate against bad reviews, either. This is not a big issue in visualization, where most people are fair and reasonable, but it certainly helps keep things a bit more objective.
 
@@ -26,7 +26,7 @@ Of course, if you know your way around the field and know the people, you can of
 
 ## The Peers
 
-The reason for <em>peer</em> reviewing is that there is no central authority to decide which work is good and which isn’t. You can’t leave it to some arcane committee of the elders of the field or similar, that would be bad (plus they want to publish too!). Instead, every member of a particular field is expected to not just publish papers, but also assist in the review process.
+The reason for *peer* reviewing is that there is no central authority to decide which work is good and which isn’t. You can’t leave it to some arcane committee of the elders of the field or similar, that would be bad (plus they want to publish too!). Instead, every member of a particular field is expected to not just publish papers, but also assist in the review process.
 
 Not having a single person (or a small group) make all the decisions is clearly a good thing, and it works better in some areas than in others. In visualization, the main conferences change papers chairs every year (they’re on two-year terms, so there’s always a new one and one who has done it before), and program committee members get rotated off after three years or so. Journal associate editors and editors also have limited terms. As a result, the field is able to change and evolve, with new people moving up the ranks and taking over the reigns.
 
@@ -38,8 +38,8 @@ It’s important to be realistic about reviewing workload and to be able to say 
 
 Reviewing can be interesting and it can be annoying. But either way, it’s an important part of the scientific process. Without peer review, there is no way to judge the quality of work, and to decide which papers are worthy of publication, and which ones are not.
 
-<hr />
+---
 
-This is part of <a href="/tag/peer-review">a five-part series on peer review in visualization</a>. One posting a day will be posted throughout this week.
+This is part of [a five-part series on peer review in visualization](/tag/peer-review). One posting a day will be posted throughout this week.
 
-<a href="http://flic.kr/p/5xHEiQ">Teaser image by Dirk Schaefer</a>, used under Creative Commons.
+[Teaser image by Dirk Schaefer](http://flic.kr/p/5xHEiQ), used under Creative Commons.

@@ -1,15 +1,13 @@
 # How to Keep Following eagereyes After the End of Google Reader
 
-With Google Reader shutting down July 1st, now is the time to find alternative ways to follow your favorite blogs. For this one, you can now get new postings <a href="https://www.facebook.com/eagereyes.org">on Facebook</a> and through <a href="https://twitter.com/eagereyes_feed">a dedicated Twitter feed</a>, in addition to the RSS feed. See below for some RSS aggregator/reader alternatives to Google Reader.
+With Google Reader shutting down July 1st, now is the time to find alternative ways to follow your favorite blogs. For this one, you can now get new postings [on Facebook](https://www.facebook.com/eagereyes.org) and through [a dedicated Twitter feed](https://twitter.com/eagereyes_feed), in addition to the RSS feed. See below for some RSS aggregator/reader alternatives to Google Reader.
 
 ## Facebook and Twitter
 
 I don’t use Facebook and Twitter to follow feeds, that’s what I have my RSS reader for. But for people who like doing that, perhaps using Flipboard or similar, I have now created pure feed accounts. No talking, just links to new postings.
-<ul>
-	<li><a href="https://twitter.com/eagereyes_feed">eagereyes feed Twitter account</a></li>
-	<li><a href="https://www.facebook.com/eagereyes.org">eagereyes.org Facebook page</a></li>
-</ul>
-There’s still <a href="https://twitter.com/eagereyes">my personal Twitter account</a>, of course, where I will also retweet the new posting tweets.
+- [eagereyes feed Twitter account](https://twitter.com/eagereyes_feed)
+- [eagereyes.org Facebook page](https://www.facebook.com/eagereyes.org)
+There’s still [my personal Twitter account](https://twitter.com/eagereyes), of course, where I will also retweet the new posting tweets.
 
 ## Feedburner
 
@@ -23,16 +21,16 @@ If you’re among my 40 or so email subscribers, you will soon get an email aski
 
 It’s important to understand that Google Reader is not just a website for reading feeds, but also the service that virtually all RSS readers currently talk to to get feed items from and synchronize status between devices. So even if you’re using a client and don’t remember ever having seen Reader, you’re almost certainly using it and will lose access to your feeds come July 1.
 
-A number of alternatives have sprung up in the last few weeks. The service that has gotten the most attention from the people I talk to is <a href="http://www.feedly.com">feedly</a>. They have very nice apps for iOS and Android, as well as plugins for Chrome and Safari. At this point, they are still talking directly to Google Reader and keep it in sync when you make changes (or mark things as read). That means you can easily try feedly and if you don’t like it, you can go back to your previous reader and not have to worry about having to wade through hundreds of items you’ve already seen.
+A number of alternatives have sprung up in the last few weeks. The service that has gotten the most attention from the people I talk to is [feedly](http://www.feedly.com). They have very nice apps for iOS and Android, as well as plugins for Chrome and Safari. At this point, they are still talking directly to Google Reader and keep it in sync when you make changes (or mark things as read). That means you can easily try feedly and if you don’t like it, you can go back to your previous reader and not have to worry about having to wade through hundreds of items you’ve already seen.
 
-Eventually, feedly will let you <a href="http://blog.feedly.com/2013/03/14/google-reader/">disconnect from Reader</a> and then host their own feed aggregation service. They also seem to have some ideas that go beyond simple feed aggregation, which is good. It’s not clear whether their aggregation service will be free (like their apps currently are), but I hope that they will charge. That’s the only way they will be around for the long haul.
+Eventually, feedly will let you [disconnect from Reader](http://blog.feedly.com/2013/03/14/google-reader/) and then host their own feed aggregation service. They also seem to have some ideas that go beyond simple feed aggregation, which is good. It’s not clear whether their aggregation service will be free (like their apps currently are), but I hope that they will charge. That’s the only way they will be around for the long haul.
 
-<a href="https://feedbin.me">Feedbin</a> looks like a good service if you’re prepared to pay money ($2/month, $20/year) from the start. Its web interface is quite nice and it will be one of the backends Reeder will talk to at some point in the future (<a href="http://reederapp.com">Reeder</a> is a beautiful RSS reader app for the Mac and iOS that acts as a frontend for Reader).
+[Feedbin](https://feedbin.me) looks like a good service if you’re prepared to pay money ($2/month, $20/year) from the start. Its web interface is quite nice and it will be one of the backends Reeder will talk to at some point in the future ([Reeder](http://reederapp.com) is a beautiful RSS reader app for the Mac and iOS that acts as a frontend for Reader).
 
-Other services worth mentioning are <a href="http://theoldreader.com/">The Old Reader</a> and <a href="http://www.newsblur.com/">Newsblur</a>. I haven’t tried The Old Reader, and I’ve only played with Newsblur briefly, so I don’t have anything intelligent to say about them.
+Other services worth mentioning are [The Old Reader](http://theoldreader.com/) and [Newsblur](http://www.newsblur.com/). I haven’t tried The Old Reader, and I’ve only played with Newsblur briefly, so I don’t have anything intelligent to say about them.
 
 ## Google Reader is Dead, Long Live RSS!
 
-There is a lot of value in simple feeds and <em>Real Simple Syndication</em> (which is what RSS stands for). I love Twitter, it’s incredibly useful and fun, and I spend way too much time there. But it doesn’t do what RSS does.
+There is a lot of value in simple feeds and *Real Simple Syndication* (which is what RSS stands for). I love Twitter, it’s incredibly useful and fun, and I spend way too much time there. But it doesn’t do what RSS does.
 
 The end of Google Reader is unfortunate, but I think once we’ve all figured out what alternatives to use, it will be a good thing. Google pushed all the other RSS aggregators out of existence, and then mostly just sat there doing nothing. There is a good chance that the new crop of feed aggregators that is sprouting now will lead to some real innovation in this area.

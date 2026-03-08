@@ -1,8 +1,8 @@
 # Venn Diagrams
 
-<p id="venn_diagrams">Venn diagrams are a great way to visualize the structure of set relationships. They're also an example of a technique that works very well for a particular purpose, but that entirely fails outside its well-defined scope or when the number of sets gets too large.</p>
+Venn diagrams are a great way to visualize the structure of set relationships. They're also an example of a technique that works very well for a particular purpose, but that entirely fails outside its well-defined scope or when the number of sets gets too large.
 
-The idea of the <a href="http://en.wikipedia.org/wiki/Venn_diagram">Venn diagram</a> is simple: sets are shown as regions, typically circles. The inside of the circle represents elements of a particular set, the outside anything that is not in that set. A set might contain all dogs: anything inside the circle is a dog, anything outside is not a dog.
+The idea of the [Venn diagram](http://en.wikipedia.org/wiki/Venn_diagram) is simple: sets are shown as regions, typically circles. The inside of the circle represents elements of a particular set, the outside anything that is not in that set. A set might contain all dogs: anything inside the circle is a dog, anything outside is not a dog.
 
 It gets more interesting when more sets are involved. The typical schoolbook example is of two sets and their potential interactions. Let’s say the left set in these images contains dogs, the right one black animals.
 
@@ -38,12 +38,12 @@ All visualization techniques break down at some point. In most cases, it is fair
 
 Another piece of information Venn diagrams do not convey is the size of a set. While it is possible to imagine doing that, it typically does not work without serious distortions of the diagram. If the shape has to be altered significantly to correctly represent size, it is likely that different parts of the diagram will be very different shapes, thus being tough to compare. The Venn diagram simply isn’t able to perform this function in a reasonable way.
 
-In the medical and bioinformatics literature, Venn diagrams are a popular way of showing different study conditions, sometimes with the intention of directly reflecting set sizes, sometimes with annotations. Rather than insist on Venn diagrams, it would be a better idea to use better alternatives, like <a href="/criticism/autism-diagnosis-accuracy">I have shown</a> <a href="/blog/2008/sightings-a-vennerable-challenge">in the past</a>.
+In the medical and bioinformatics literature, Venn diagrams are a popular way of showing different study conditions, sometimes with the intention of directly reflecting set sizes, sometimes with annotations. Rather than insist on Venn diagrams, it would be a better idea to use better alternatives, like [I have shown](/criticism/autism-diagnosis-accuracy) [in the past](/blog/2008/sightings-a-vennerable-challenge).
 
 ## Conclusions: Venn to Use, Venn Not to Use
 
 Venn diagrams have their uses. They’re great for teaching basic set theory and they can help illustrate combinations of criteria, as long as there are no more than three. But it is equally important to be aware of the limitations, and to know when to look for alternatives.
 
-<hr />
+---
 
-All images from the <a href="http://en.wikipedia.org/wiki/Venn_diagram">Wikipedia page on Venn diagrams</a>.
+All images from the [Wikipedia page on Venn diagrams](http://en.wikipedia.org/wiki/Venn_diagram).

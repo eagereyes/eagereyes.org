@@ -2,9 +2,9 @@
 
 # InfoVis 2009 Discovery Exhibition
 
-After the <a href="/blog/2008/sad-state-of-infovis-contest">underwhelming participation in last year's InfoVis contest</a>, there will be a different approach this year: The <a href="http://www.discoveryexhibition.org">InfoVis Discovery Exhibition</a>. The goal is to collect reports of visualization is used in real-world scenarios, and how visualization tools can help solve real problems. There are already <a href="http://www.discoveryexhibition.org/wiki/pmwiki.php/Main/Examples">two examples</a>, and with enough participation, this should turn into a great resource. See below for how you can participate, and what's in it for you.
+After the [underwhelming participation in last year's InfoVis contest](/blog/2008/sad-state-of-infovis-contest), there will be a different approach this year: The [InfoVis Discovery Exhibition](http://www.discoveryexhibition.org). The goal is to collect reports of visualization is used in real-world scenarios, and how visualization tools can help solve real problems. There are already [two examples](http://www.discoveryexhibition.org/wiki/pmwiki.php/Main/Examples), and with enough participation, this should turn into a great resource. See below for how you can participate, and what's in it for you.
 
-<h3>Call for Participation &ndash; Discovery Exhibition</h3>
+### Call for Participation &ndash; Discovery Exhibition
 VisWeek 2009 will for the first time host a Discovery Exhibition. It is intended to be a venue for everyone in the visualization community to share stories about the results of applied research and to publish reports on the impact that visualization research or simply visualization use has had on the work and life of people. Sharing these stories with the community will help us all improve our understanding about the role of visualization in work, research, entertainment, and many other areas, after it has moved out of the research realm. To encourage publishing reports about the application of visualization systems to real world problems, we specifically allow submissions that report the impact of previously published work on its user community.
 
 ## Contents:
@@ -12,22 +12,18 @@ The content of the submissions can be insights, discoveries, or general stories 
 
 Submissions could, for example, include information on:
 
-<ul>
-<li>What discoveries have users made? What have they learned about their data that they did not know before? What insights have they gained?</li>
-<li>What impact did the findings, insights, or discoveries have on their community?</li>
-<li>What surprising uses of visualization tools were seen? Were tools re-appropriated to answer very different questions than they were designed for?</li>
-<li>What was necessary to integrate a system or tool into everyday work practices? What were the obstacles to introducing new visualization technologies (if any)?</li>
-</ul>
-<h4>Submissions:</h4>
-Please use the following link to submit your entry: <a href="http://egmcp1.cgv.tugraz.at/infovis09d">http://egmcp1.cgv.tugraz.at/infovis09d</a>
+- What discoveries have users made? What have they learned about their data that they did not know before? What insights have they gained?
+- What impact did the findings, insights, or discoveries have on their community?
+- What surprising uses of visualization tools were seen? Were tools re-appropriated to answer very different questions than they were designed for?
+- What was necessary to integrate a system or tool into everyday work practices? What were the obstacles to introducing new visualization technologies (if any)?
+#### Submissions:
+Please use the following link to submit your entry: [http://egmcp1.cgv.tugraz.at/infovis09d](http://egmcp1.cgv.tugraz.at/infovis09d)
 
 Submissions consist of:
 
-<ul>
-<li>A 2-page write-up following the VisWeek poster template. These should focus on: the domain and data, insights/discoveries/findings and process in which they were acquired, impact of visualization use, and representations, interactions, and tools used if any.</li>
-<li>Optional video submissions that explain your contribution.</li>
-<li>Please check the Discovery Exhibition website (<a href="http://www.discoveryexhibition.org">http://www.discoveryexhibition.org</a>)<span> </span>frequently for updated information on submission templates, dates, FAQ, and examples.</li>
-</ul>
+- A 2-page write-up following the VisWeek poster template. These should focus on: the domain and data, insights/discoveries/findings and process in which they were acquired, impact of visualization use, and representations, interactions, and tools used if any.
+- Optional video submissions that explain your contribution.
+- Please check the Discovery Exhibition website ([http://www.discoveryexhibition.org](http://www.discoveryexhibition.org))<span> </span>frequently for updated information on submission templates, dates, FAQ, and examples.
 
 ## Review and Rewards:
 The contest co-chairs will judge entries based on whether they meet the submission criteria. We will give out awards for various categories based on the quality of the submissions (e.g. quality of the write<span>-</span>up, of the insight, etc.). The exact award categories will depend on the received entries.
@@ -35,7 +31,7 @@ The contest co-chairs will judge entries based on whether they meet the submissi
 All accepted entries will be archived and published on the Discovery Exhibition website. At the conference all accepted submissions will be presented as posters. Please check the website for more detailed information closer to the conference.
 
 ## Important Dates:
-Submission deadline: <strong>July 17th, 2009</strong>
+Submission deadline: **July 17th, 2009**
 
 ## Contact:
 Bongshin Lee, Microsoft Research

@@ -2,11 +2,11 @@
 
 # Curing A Sick Chart
 
-I recently <a href="/criticism/cost-of-a-sick-chart">criticized Ben Fry's visualization of health care cost data from GE</a> and claimed that I knew how to do it better. While my analysis may not be as pretty and flashy as Fry's, it provides actual insight into the data. It also reveals an interesting issue: the data is really dull. So dull, in fact, that a visualization was needed to cover up that fact.
+I recently [criticized Ben Fry's visualization of health care cost data from GE](/criticism/cost-of-a-sick-chart) and claimed that I knew how to do it better. While my analysis may not be as pretty and flashy as Fry's, it provides actual insight into the data. It also reveals an interesting issue: the data is really dull. So dull, in fact, that a visualization was needed to cover up that fact.
 
-My original plan had been to create something interactive, but I simply lack the time to do that right now. So the analysis was done in <a href="http://www.tableausoftware.com/">Tableau</a> and is presented here as images. If you have Tableau, you can also grab my <a href="https://media.eagereyes.org/media/2009/sickchart/Cost-of-Getting-Sick.twbx">packaged Tableau workbook</a> to play with, or download the data in a <a href="https://media.eagereyes.org/media/2009/sickchart/cost-reshaped.csv">consolidated and reshaped CSV file</a>.
+My original plan had been to create something interactive, but I simply lack the time to do that right now. So the analysis was done in [Tableau](http://www.tableausoftware.com/) and is presented here as images. If you have Tableau, you can also grab my [packaged Tableau workbook](https://media.eagereyes.org/media/2009/sickchart/Cost-of-Getting-Sick.twbx) to play with, or download the data in a [consolidated and reshaped CSV file](https://media.eagereyes.org/media/2009/sickchart/cost-reshaped.csv).
 
-The data was extracted from the applet on <a href="http://www.ge.com/visualization/health_costs/index.html">GE's Health Costs page</a>. Tom Carden pointed out how to interpret the original data and produced some first graphs; Martin Theus also <a href="http://www.theusrus.de/blog/chicken-and-egg-problem-follow-up/">provided an analysis</a>. While they both found some first trends, I don't believe they really got to the bottom of this.
+The data was extracted from the applet on [GE's Health Costs page](http://www.ge.com/visualization/health_costs/index.html). Tom Carden pointed out how to interpret the original data and produced some first graphs; Martin Theus also [provided an analysis](http://www.theusrus.de/blog/chicken-and-egg-problem-follow-up/). While they both found some first trends, I don't believe they really got to the bottom of this.
 
 ## Overview
 
@@ -74,4 +74,4 @@ And why not make the costs part of the quiz? Guess how much you'll spend on acid
 
 ## Visualization is not Obfuscation
 
-Using visualization to make the data appear to be more complex and interesting than it is is kind of sad. Visual complexity should be used to help understand data, not to obfuscate it. Building a <a href="http://en.wikipedia.org/wiki/Potemkin_village">Potemkin Village</a> of colorful shapes is just as bad as <a href="/blog/2008/linear-vs-quadratic-change">scaling a circle by radius</a>: it's deceiving and visually dishonest.
+Using visualization to make the data appear to be more complex and interesting than it is is kind of sad. Visual complexity should be used to help understand data, not to obfuscate it. Building a [Potemkin Village](http://en.wikipedia.org/wiki/Potemkin_village) of colorful shapes is just as bad as [scaling a circle by radius](/blog/2008/linear-vs-quadratic-change): it's deceiving and visually dishonest.

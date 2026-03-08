@@ -48,7 +48,7 @@ This is usually a sign of a speaker who's nervous or unprepared. But this doesn'
 
 Instead, do stuff with your voice. Raise it to point things out. This is important! Look! Pay attention here! Am I asking a question now? Can you tell? See how modulation made all the difference, even with you just reading these words?
 
-Another strategy speaker trainers will tell you about is <em>punching words</em>. You <strong>punch</strong> the <strong>important</strong> <strong>words</strong>. <strong>Even</strong> when they're <strong>not important</strong>, you still <strong>punch</strong> <strong>them</strong> just <strong>because</strong>. The result is that there's a lot more going on in your voice and people are basically forced to pay attention.
+Another strategy speaker trainers will tell you about is *punching words*. You **punch** the **important** **words**. **Even** when they're **not important**, you still **punch** **them** just **because**. The result is that there's a lot more going on in your voice and people are basically forced to pay attention.
 
 Similarly, many people seem to believe that they continuously have to produce noise to keep the audience engaged. The opposite is true. Pauses are powerful. Stop talking for a moment, and people will look up from their email, wondering what just happened. Silence. A gust of wind. A blink of an eye.
 
@@ -62,7 +62,7 @@ You haven't thought about how to start your talk, so of course you have no idea 
 
 There is an obvious alternative to that, and it's a simple "Thank you!" Everybody will understand that that means your talk is over. It's polite and makes sense. You can also say "Thank you for your attention!" or "Thank you, and I'm looking forward to your questions!" or similar.
 
-Couple that with a final slide that has your name, talk title, and contact information, and perhaps even a meaningful image (it's <em>visualization</em>, use some pictures!) and there won't be an awkward silence or confusion, just roaring applause.
+Couple that with a final slide that has your name, talk title, and contact information, and perhaps even a meaningful image (it's *visualization*, use some pictures!) and there won't be an awkward silence or confusion, just roaring applause.
 
 ## Learn by watching people
 

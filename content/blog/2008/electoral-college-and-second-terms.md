@@ -2,7 +2,7 @@
 
 # The Electoral College and Second Terms
 
-The <a href="http://en.wikipedia.org/wiki/U.S._Electoral_College">Electoral College</a> is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called <em>battleground states &ndash;</em> and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis.
+The [Electoral College](http://en.wikipedia.org/wiki/U.S._Electoral_College) is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called *battleground states &ndash;* and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis.
 
 A presidential election in the US is essentially 51 separate elections (50 states plus the District of Columbia). All but two states have a winner-takes-all system, with Maine and Nebraska using a slightly more differentiated way of splitting up its delegates between the candidates. There are a number of consequences of this that I don't want to discuss in detail here, but what I was interested in was the boost this system gives to the strongest candidate.
 
@@ -19,7 +19,7 @@ As you can see, there were only three instances where the electoral percentage w
 
 The other thing the chart shows is where a candidate was elected with less than 50% of the popular vote. The shaded area marks the 50%, and you can see that there were quite a few presidents who where pushed across that mark by the electoral college system. The most recent is George W. Bush, but the list also includes Bill Clinton, Richard Nixon, and others.
 
-This is really only meant to provide a data point for the discussion of the merits of the electoral system &ndash; the issue is far too complex to be boiled down to a few numbers. But I think this chart illustrates quite nicely what effect the current system has. For another data-centric discussion of how less than 1% change in popular vote could have changed the outcome of many of the past elections, see Mike Sheppard's <a href="https://www.msu.edu/~sheppa28/elections.html">How close were Presidential Elections?</a>
+This is really only meant to provide a data point for the discussion of the merits of the electoral system &ndash; the issue is far too complex to be boiled down to a few numbers. But I think this chart illustrates quite nicely what effect the current system has. For another data-centric discussion of how less than 1% change in popular vote could have changed the outcome of many of the past elections, see Mike Sheppard's [How close were Presidential Elections?](https://www.msu.edu/~sheppa28/elections.html)
 
 ## Second Terms
 
@@ -41,9 +41,9 @@ While Numbers doesn't have nearly the power of Excel, I really like its approach
 
 While both Excel and Numbers do provide a large variety of chart types and settings, a lot of manual work is still necessary to make a chart really informative. And many things that should be very simple to do in these programs (including such advanced features as histograms) still require a lot of tweaking and the use of tools like PhotoShop.
 
-<hr />
-See also: <a href="/blog/2007/presidential-demographics">Presidential Demographics</a>, <a href="/blog/2008/presidential-demographics-ii">Presidential Demographics II</a>
+---
+See also: [Presidential Demographics](/blog/2007/presidential-demographics), [Presidential Demographics II](/blog/2008/presidential-demographics-ii)
 
-The <a href="https://media.eagereyes.org/media/2008/popular-electoral-data.zip">source data</a> for these charts is available.
+The [source data](https://media.eagereyes.org/media/2008/popular-electoral-data.zip) for these charts is available.
 
-A <a href="/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts">better version of the chart using stacked bar charts</a> is also available.
+A [better version of the chart using stacked bar charts](/blog/2008/popular-vs-electoral-votes-using-stacked-bar-charts) is also available.

@@ -31,5 +31,3 @@ Stay tuned for more! You can [subscribe to the RSS/Atom feed](https://eagereyes.
 
 There will be more updates on apps as I bring them back, new stuff like photo galleries, and a few other things I've been wanting to build. And of course there will even be the odd blog post on various topics like data visualization and related topics, and maybe even more videos, who knows!
 
-
-

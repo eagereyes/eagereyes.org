@@ -4,9 +4,9 @@
 
 So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one.
 
-Now that I’ve shed the blog theme, I can see a number of things that need to be fixed. Broken images, embed codes that have stopped working, JavaScript that doesn’t load, etc. If you see me running around with my toolbox in the next few weeks, this will be why. Exposing all those postings on the <a href="/app/blog-calendar">blog calendar</a> has made some of the maintenance issues I’ve been ignoring a bit more urgent.
+Now that I’ve shed the blog theme, I can see a number of things that need to be fixed. Broken images, embed codes that have stopped working, JavaScript that doesn’t load, etc. If you see me running around with my toolbox in the next few weeks, this will be why. Exposing all those postings on the [blog calendar](/app/blog-calendar) has made some of the maintenance issues I’ve been ignoring a bit more urgent.
 
-All the introspection over the <a href="/tag/eagereyes-decade">last week</a> (over 5,000 words!) was mostly about the past. History, beginnings, controversies, all that stuff. So enough about that. What about the future? Where is this thing headed from here?
+All the introspection over the [last week](/tag/eagereyes-decade) (over 5,000 words!) was mostly about the past. History, beginnings, controversies, all that stuff. So enough about that. What about the future? Where is this thing headed from here?
 
 Apart from a few minor interactive things, eagereyes will mostly stay heavy on writing. There's so much to be written! I recently went through my list of topics and cleared out many of the things that I no longer felt all that excited about (or which I couldn't remember anymore what they even were). In the meantime, the list has grown again, and I'm adding more almost daily.
 
@@ -14,7 +14,7 @@ Writing is what this site has always been about, even if writing about visualiza
 
 The key is distance: stepping back, looking at the bigger picture, seeing connections, pointing out gaps, etc. Writing is a process, and it involves thinking about things in a deeper way than just looking. That is why criticism in the arts is (or at least, can be) a great way of digesting what is going on and helping the people doing the work find new ideas and directions.
 
-It is also, of course, a way to introduce new people to the topic. It's not hard these days to create some charts. Even somebody with barely any technical skills and only a very cursory understanding what data even is can easily make them. That is a good thing, as long as that person can then start asking questions: <em>Does this work? What else can I do? How do I know I'm doing this right? How can I improve?</em>
+It is also, of course, a way to introduce new people to the topic. It's not hard these days to create some charts. Even somebody with barely any technical skills and only a very cursory understanding what data even is can easily make them. That is a good thing, as long as that person can then start asking questions: *Does this work? What else can I do? How do I know I'm doing this right? How can I improve?*
 
 More importantly though, there need to be answers to those questions. And those answers need to be accessible, both in a technical sense (you can get to them) and in terms of understanding the language. The gaps are still enormous, even with the basics.
 

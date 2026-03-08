@@ -1,8 +1,8 @@
 # VIS 2014 Observations and Thoughts
 
-While I’ve covered individual talks and events at <a href="http://ieeevis.org">IEEE VIS 2014</a>, there are also some overall observations – positive and negative – I thought would be interesting to write down to see what others were thinking.
+While I’ve covered individual talks and events at [IEEE VIS 2014](http://ieeevis.org), there are also some overall observations – positive and negative – I thought would be interesting to write down to see what others were thinking.
 
-I wrote summaries for every day I was actually at the conference: <a href="/blog/2014/vis-2014-monday">Monday</a>, <a href="/blog/2014/vis-2014-tuesday">Tuesday</a>, <a href="/blog/2014/vis-2014-wednesday">Wednesday</a>, <a href="/blog/2014/vis-2014-thursday">Thursday</a>, and <a href="/blog/2014/vis-2014-friday">Friday</a>. VIS actually now starts on Saturday with a few early things like the Doctoral Colloquium, and Sunday is a full day of workshops and tutorials.
+I wrote summaries for every day I was actually at the conference: [Monday](/blog/2014/vis-2014-monday), [Tuesday](/blog/2014/vis-2014-tuesday), [Wednesday](/blog/2014/vis-2014-wednesday), [Thursday](/blog/2014/vis-2014-thursday), and [Friday](/blog/2014/vis-2014-friday). VIS actually now starts on Saturday with a few early things like the Doctoral Colloquium, and Sunday is a full day of workshops and tutorials.
 
 Just to be clear: my daily summaries are by no means comprehensive. I did not go to a single VAST or SciVis session this year, only saw two out of five panels, did not go to a single one of the ten workshops, attended only one of the nine tutorials, and didn’t even see all the talks in some of the sessions I did go to. I also left out some of the papers I actually saw, because I didn’t find them relevant enough.
 
@@ -26,7 +26,7 @@ In addition to the work being good, presentations are also getting much better. 
 
 Several talks also largely consisted of well-structured demos, which is great. A good demo is much more effective than breaking the material up into slides. It’s also much more engaging to watch, and leaves a much stronger impression. And with some testing and rehearsals, the risk that things will crash and burn is really not that great (still not a bad idea to have a backup, though).
 
-A number of people have talked about the need for sharing more materials beyond just the paper for a while, and it is now actually starting to happen. A good number of presentations ended with a pointer to a website with at least the paper and teaser video, and often more, like data and materials for studies, and source code. After the <em>Everything But The Chart</em> tutorial, I wonder how many papers next year will have a press kit.
+A number of people have talked about the need for sharing more materials beyond just the paper for a while, and it is now actually starting to happen. A good number of presentations ended with a pointer to a website with at least the paper and teaser video, and often more, like data and materials for studies, and source code. After the *Everything But The Chart* tutorial, I wonder how many papers next year will have a press kit.
 
 The number of systems that are implemented in JavaScript and run in the browser is also increasing. That makes it much easier to try them out without the hassle of having to download software. Since many of these are prototypes that will never be turned into production software, it doesn’t matter nearly as much that they won’t be as easily maintained or extended.
 

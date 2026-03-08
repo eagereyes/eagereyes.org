@@ -2,11 +2,11 @@
 
 There are thousands of visualizations on Many Eyes, but there is little in terms of further analysis and deeper discussion. There are dozens of visualization websites now that let you upload your data, but they all provide the same few visualization techniques and practically no analysis tools. While visualization for the masses may be here, we're not actually seeing much analysis from those same masses.
 
-This issue came up last week at the <a href="http://nvac.pnl.gov/meeting_2010/index.stm">Visual Analytics Consortium Meeting</a>, in a panel that talked about responses global crises. While it's fairly easy to get people to whip up websites to collect data, there's practically no analysis of the material that gets collected.
+This issue came up last week at the [Visual Analytics Consortium Meeting](http://nvac.pnl.gov/meeting_2010/index.stm), in a panel that talked about responses global crises. While it's fairly easy to get people to whip up websites to collect data, there's practically no analysis of the material that gets collected.
 
 A lot of open data is also like this: people go to great lengths to scrape data from websites and PDFs, but they don't seem to do anything with the results. The mechanical side of this is getting a lot more attention than the creative, analytical side.
 
-On a different panel, <a href="http://ireneros.com/">Irene Ros</a> also talked about <a href="http://manybills.us/" target="_blank">Many Bills</a>, and how the most popular view is one where you can't actually read anything, but see a colorful rendition of the bills.
+On a different panel, [Irene Ros](http://ireneros.com/) also talked about [Many Bills](http://manybills.us/), and how the most popular view is one where you can't actually read anything, but see a colorful rendition of the bills.
 
 A similar issue has bugged me for a while about open-source software, as well: most of it is either blatant copies of commercial software (OpenOffice, etc.), or infrastructure-type stuff (Linux, GNU, etc.). There is very little actual innovation in open-source software, most of it is reinventing or coding things that are well-known and clearly defined. Just look at the number of open-source text editors out there.
 

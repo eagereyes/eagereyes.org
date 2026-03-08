@@ -1,12 +1,12 @@
 # VIS Tutorials and the Industry and Government Experiences Track
 
-The deadline for tutorial proposals for <a href="http://ieeevis.org">VIS 2013</a> is coming up. There are a few changes from last year. Also, there is a new <em>Industry and Government Experiences Track</em> at the conference this year.
+The deadline for tutorial proposals for [VIS 2013](http://ieeevis.org) is coming up. There are a few changes from last year. Also, there is a new *Industry and Government Experiences Track* at the conference this year.
 
 ## Tutorials
 
 There are two main changes to tutorials: first, we no longer accept full-day tutorials, only half-day. The goal is to bring in more variety and to focus the tutorials more on specific things rather than being broad and sweeping.
 
-The submission process has also changed. We are using Precision Conference for the first time this year. The <a href="http://ieeevis.org/year/2013/info/call-participation/tutorials">IEEE VIS website</a> will be updated soon to reflect this, but in the meantime, you can go <a href="https://precisionconference.com/~vgtc/">directly to PCS</a> and submit your proposals there (works just like papers and posters).
+The submission process has also changed. We are using Precision Conference for the first time this year. The [IEEE VIS website](http://ieeevis.org/year/2013/info/call-participation/tutorials) will be updated soon to reflect this, but in the meantime, you can go [directly to PCS](https://precisionconference.com/~vgtc/) and submit your proposals there (works just like papers and posters).
 
 We will also be looking for reviewers for tutorials, so if you have a moment and would like to review tutorial proposals, please go to PCS and volunteer for a review or two!
 
@@ -16,7 +16,7 @@ The deadline for tutorials is coming up soon: June 15 (same as panels, btw!)
 
 The industry track caused some confusion last year, because it was done late and the people on the respective tutorials and panels weren’t quite sure what that meant for them.
 
-This year, there will again be sessions that will be tagged as most likely relevant to industry and/or government attendees. In addition, there is a call for <a href="http://ieeevis.org/year/2013/info/call-participation/industry-and-government-track">posters talking about industry and government experiences</a>.
+This year, there will again be sessions that will be tagged as most likely relevant to industry and/or government attendees. In addition, there is a call for [posters talking about industry and government experiences](http://ieeevis.org/year/2013/info/call-participation/industry-and-government-track).
 
 From the CFP:
 

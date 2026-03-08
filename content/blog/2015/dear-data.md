@@ -2,6 +2,6 @@
 
 # Link: Dear Data
 
-Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project they call <em><a href="http://www.dear-data.com">Dear Data</a></em> (<a href="https://twitter.com/_deardata">Twitter account</a>). Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc.
+Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project they call *[Dear Data](http://www.dear-data.com)* ([Twitter account](https://twitter.com/_deardata)). Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc.
 
-<a href="http://giorgialupi.net">Giorgia</a> and <a href="http://www.stefanieposavec.co.uk">Stefanie</a> are two of the most interesting people working in data visualization/design/art right now. Both are also incredibly skilled and creative designers, well worth watching.
+[Giorgia](http://giorgialupi.net) and [Stefanie](http://www.stefanieposavec.co.uk) are two of the most interesting people working in data visualization/design/art right now. Both are also incredibly skilled and creative designers, well worth watching.

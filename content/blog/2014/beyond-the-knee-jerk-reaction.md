@@ -4,7 +4,7 @@ There is a tendency to just reflexively make fun of certain types of charts, in 
 
 ## The Chart
 
-About two weeks ago, I <a href="https://twitter.com/eagereyes/status/508322016181485569">posted this chart on Twitter</a> after seeing it in the Wired iPad app (September 2014 issue).
+About two weeks ago, I [posted this chart on Twitter](https://twitter.com/eagereyes/status/508322016181485569) after seeing it in the Wired iPad app (September 2014 issue).
 
 <img class="aligncenter size-medium wp-image-8332" src="https://media.eagereyes.org/wp-content/uploads/2014/09/wired-hard-work-730x662.jpg" alt="Hard Work, Wired September 2014" width="730" height="662" />
 

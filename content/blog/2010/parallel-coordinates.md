@@ -12,21 +12,21 @@ The usual way of describing parallel coordinates would be to talk about high-dim
 
 Now imagine each of these columns being mapped onto a vertical axis in the image above. Each data value would end up somewhere along the line, scaled to lie between the minimum at the bottom and the maximum at the top. A pure collection of points would not be terribly useful, however, so the points belonging to the same record (row) are connected with lines. That creates the characteristic jumble of lines parallel coordinates are famous for.
 
-To make some sense out of this, the easiest way is to forget the part about records that span the entire width, and look at the space between each pair of axes. Mouse over the image below to focus on just one pair of axes (this likely will not work in your newsreader, you'll have to <a href="/techniques/parallel-coordinates">visit the website</a>). Look at the patterns in each of the spaces between the axes.
+To make some sense out of this, the easiest way is to forget the part about records that span the entire width, and look at the space between each pair of axes. Mouse over the image below to focus on just one pair of axes (this likely will not work in your newsreader, you'll have to [visit the website](/techniques/parallel-coordinates)). Look at the patterns in each of the spaces between the axes.
 
 <div style="background:url(https://media.eagereyes.org/media/2010/parcoords-faded.png);width:560px;height:364px;">
 <img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords1.png" style="margin-left:23px;opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords2.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords3.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;"><img class="ghost" src="https://media.eagereyes.org/media/2010/parcoords4.png" style="opacity:0;padding:0;border:0;margin-top:35px;margin-right:0;margin-left:1px;display:inline;">
 </div>
 
-You can tell a lot about the data from looking at this visualization. The cylinders axis stands out because it only has a few different values. The number of cylinders can only be a whole number, and there aren't more than eight here, so all the lines have to pass through a small number of points. Data like this, and also categorical data, are usually not well suited for parallel coordinates. As long as there is only one or two, it's not a problem, but when the data is largely or completely categorical, parallel coordinates do not show any useful information anymore (that's why we developed <a href="/parallel-sets">Parallel Sets</a>).
+You can tell a lot about the data from looking at this visualization. The cylinders axis stands out because it only has a few different values. The number of cylinders can only be a whole number, and there aren't more than eight here, so all the lines have to pass through a small number of points. Data like this, and also categorical data, are usually not well suited for parallel coordinates. As long as there is only one or two, it's not a problem, but when the data is largely or completely categorical, parallel coordinates do not show any useful information anymore (that's why we developed [Parallel Sets](/parallel-sets)).
 
-In the space between <em>MPG</em> and <em>cylinders</em>, you can tell that eight-cylinder cars generally have lower mileage than six- and four-cylinder ones. Just follow the lines and look at how they cross: lots of crossing lines are an indication of an inverse relationship, and that is clearly the case here: the more cylinders, the lower the mileage.
+In the space between *MPG* and *cylinders*, you can tell that eight-cylinder cars generally have lower mileage than six- and four-cylinder ones. Just follow the lines and look at how they cross: lots of crossing lines are an indication of an inverse relationship, and that is clearly the case here: the more cylinders, the lower the mileage.
 
-The correlation is much more direct between <em>cylinders</em> and <em>horsepower</em>: more cylinders means more horses. There are some crossing lines here as well, of course, so more cylinders do not always mean more power, but the general trend is clearly there.
+The correlation is much more direct between *cylinders* and *horsepower*: more cylinders means more horses. There are some crossing lines here as well, of course, so more cylinders do not always mean more power, but the general trend is clearly there.
 
-Between <em>horsepower</em> and <em>weight</em>, the situation is similar: more horsepower means heavier cars in general, but there is some spread in the values of course. There is also one exception of a high-horsepower eight-cylinder car that is very light. Can you spot that outlier?
+Between *horsepower* and *weight*, the situation is similar: more horsepower means heavier cars in general, but there is some spread in the values of course. There is also one exception of a high-horsepower eight-cylinder car that is very light. Can you spot that outlier?
 
-Finally, the lines between <em>weight</em> and <em>year</em> cross over a lot, indicating that cars got lighter over the years. You can also easily tell that the <em>year</em> axis only records a small number of different values, similar to the <em>cylinders</em>, from the triangular shapes converging on a few points.
+Finally, the lines between *weight* and *year* cross over a lot, indicating that cars got lighter over the years. You can also easily tell that the *year* axis only records a small number of different values, similar to the *cylinders*, from the triangular shapes converging on a few points.
 
 While this is a very simple example, it shows the typical structures you would find in most datasets.
 
@@ -36,7 +36,7 @@ In addition to some experience in reading parallel coordinates, the best way to 
 
 <p class="img"><img src="https://media.eagereyes.org/media/2010/parcoords-80s.png" width="560" height="364" alt="Parallel Coordinates, brushing 1980-82" /></p>
 
-Here, I brushed the years 1980 to 1982 on the (right-most) <em>year</em> axis. The result is a brushed part of the lines in heavy black, with the rest still in the background in gray for context. Looking at the axes from right to left you can see that the car models in this selection were almost all in the lower half of the weight range, and all of them were in the lower half in terms of horsepower. The distribution of cylinders is also interesting: there only seems to be a single eight-cylinder car in this selection, all others are six cylinders or below. Mileage is also mostly above the mean value for all cars.
+Here, I brushed the years 1980 to 1982 on the (right-most) *year* axis. The result is a brushed part of the lines in heavy black, with the rest still in the background in gray for context. Looking at the axes from right to left you can see that the car models in this selection were almost all in the lower half of the weight range, and all of them were in the lower half in terms of horsepower. The distribution of cylinders is also interesting: there only seems to be a single eight-cylinder car in this selection, all others are six cylinders or below. Mileage is also mostly above the mean value for all cars.
 
 <p class="img"><img src="https://media.eagereyes.org/media/2010/parcoords-70s.png" width="560" height="364" alt="Parallel Coordinates, brushing 1970-72" /></p>
 
@@ -54,9 +54,9 @@ Also, as mentioned above, the data needs to be numerical. The technique does not
 
 ## Software
 
-As usual in visualization, there are lots of papers but not much software. To play with parallel coordinates in the browser, there is a <a href="http://vis.stanford.edu/protovis/ex/cars.html">Protovis example using the cars dataset</a> where you can brush on all dimensions and also pick a dimension to color the values by (which can show some interesting patterns).
+As usual in visualization, there are lots of papers but not much software. To play with parallel coordinates in the browser, there is a [Protovis example using the cars dataset](http://vis.stanford.edu/protovis/ex/cars.html) where you can brush on all dimensions and also pick a dimension to color the values by (which can show some interesting patterns).
 
-There is also an abandoned Java implementation called <a href="http://www.mediavirus.org/parvis">ParVis</a> that I used to create the images for this article. I created <a href="http://github.com/eagereyes/ParVis">a mirror that is also an eclipse project</a> that fixes a few small issues.
+There is also an abandoned Java implementation called [ParVis](http://www.mediavirus.org/parvis) that I used to create the images for this article. I created [a mirror that is also an eclipse project](http://github.com/eagereyes/ParVis) that fixes a few small issues.
 
 ## Conclusions
 

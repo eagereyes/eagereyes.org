@@ -2,11 +2,11 @@
 
 # Story: A Definition
 
-What makes a story? What does a story do? In <a href="/blog/2014/stories-are-gateways-into-worlds">part one of this little series</a>, I argued that stories and worlds are not opposites, but complements. In this part, I try to explain the differences between worlds and stories, and present a definition.
+What makes a story? What does a story do? In [part one of this little series](/blog/2014/stories-are-gateways-into-worlds), I argued that stories and worlds are not opposites, but complements. In this part, I try to explain the differences between worlds and stories, and present a definition.
 
 ## What Is a Story?
 
-Lynn Cherny has written <a href="http://blogger.ghostweather.com/2014/03/implied-stories-and-data-vis.html">a great summary</a> of some of the research about narrative, and in particular implied stories.
+Lynn Cherny has written [a great summary](http://blogger.ghostweather.com/2014/03/implied-stories-and-data-vis.html) of some of the research about narrative, and in particular implied stories.
 
 I will take the two very brief stories she quotes and use them to illustrate the difference between exploring a world and telling a story. Lynn starts with the well-known “shortest story ever” by Ernest Hemingway:
 
@@ -26,7 +26,7 @@ What is the difference? And what does this have to do with visualization?
 
 ## Stories in Visualization
 
-The Hemingway vignette is the typical way visualization works, and what Moritz Stefaner described in <a href="http://well-formed-data.net/archives/1027/worlds-not-stories">his posting a while ago</a>: give people a world to explore rather than a path through it. They have to do the work themselves, but are also free to do whatever they want.
+The Hemingway vignette is the typical way visualization works, and what Moritz Stefaner described in [his posting a while ago](http://well-formed-data.net/archives/1027/worlds-not-stories): give people a world to explore rather than a path through it. They have to do the work themselves, but are also free to do whatever they want.
 
 The actual story of the baby and the mommy is the equivalent of a story in visualization. It guides you. The author has done the work of building an actual narrative for you. It also means a particular point of view: the facts have been arranged to tell a particular story. You may not agree. But what you are told is not just a list of disconnected facts, but a path through them.
 
@@ -48,8 +48,8 @@ Here is another attempt, this time looking at what a story _does_, rather than w
 - **provides a narrative path through those facts.** In other words, it guides the viewer/reader through the world, rather than just throwing them in there.
 - **presents a particular interpretation of those facts.** A story is always a particular path through a world, so it favors one way of seeing things over all others.
 
-That last point will surely get people up in arms, but give it a moment: the point is not that the story misleads or is biased, but it’s simply one point of view. The strength of visualization is not just to give you a story, but <a href="/blog/2014/stories-are-gateways-into-worlds">also give you a world</a>. If you don’t agree with the story, or if you want to explore further, you can. Take the visualization and the data and explore for yourself.
+That last point will surely get people up in arms, but give it a moment: the point is not that the story misleads or is biased, but it’s simply one point of view. The strength of visualization is not just to give you a story, but [also give you a world](/blog/2014/stories-are-gateways-into-worlds). If you don’t agree with the story, or if you want to explore further, you can. Take the visualization and the data and explore for yourself.
 
-<hr />
+---
 
-<a href="https://www.flickr.com/photos/bethanyking/822518337">Teaser image by Bethany King</a>, used under Creative Commons.
+[Teaser image by Bethany King](https://www.flickr.com/photos/bethanyking/822518337), used under Creative Commons.

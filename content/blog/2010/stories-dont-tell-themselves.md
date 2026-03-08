@@ -6,9 +6,9 @@ Storytelling was a big topic at VisWeek this year: there was a workshop, a panel
 
 ## Time
 
-Stories, in general, require time. When there is no change, there's no story. A static scene can only be described, not told, no matter how much detail is given or how vivid the description may be. That is why the image at the top of this posting (from <a href="http://www.nytimes.com/interactive/2008/08/18/sports/olympics/18-pole-vault-graphic.html">a very clever New York Times animation</a>) tells a story, and the one below does not (click for a larger version).
+Stories, in general, require time. When there is no change, there's no story. A static scene can only be described, not told, no matter how much detail is given or how vivid the description may be. That is why the image at the top of this posting (from [a very clever New York Times animation](http://www.nytimes.com/interactive/2008/08/18/sports/olympics/18-pole-vault-graphic.html)) tells a story, and the one below does not (click for a larger version).
 
-<p class="img"><a href="https://media.eagereyes.org/media/2010/minard-large.jpg" rel="lightbox"><img src="https://media.eagereyes.org/media/2010/minard-small.jpg" alt="" width="560" height="267" /></a></p>
+<p class="img">[<img src="https://media.eagereyes.org/media/2010/minard-small.jpg" alt="" width="560" height="267" />](https://media.eagereyes.org/media/2010/minard-large.jpg)</p>
 
 This is Minard's famous map of Napoleon's march to Moscow, which Edward Tufte considers the best visualization ever made. It is also often described as telling a great story of loss and suffering. But put yourself into the position of somebody who doesn't know what this is about. What does it really tell you? You first need to figure out what the image even represents. Once you know that the width of the line represents troop strength (from 400,000 at the beginning to a mere 10,000 at the end) and the chart at the bottom shows temperatures (all of which are below freezing), you can start to think about what stories might have played out.
 
@@ -16,7 +16,7 @@ But this is where the visualization ends and your imagination begins. The image 
 
 ## Terminology
 
-If we want to throw around literary terms, the correct one to describe these visualizations is a <em>vignette</em>: a brief, impressionistic description of a scene that makes us wonder what happened (or what is about to happen next). The vignette is not a story, it just sets the stage and provides the materials (actors, etc.) for the story. But we have to make it up ourselves.
+If we want to throw around literary terms, the correct one to describe these visualizations is a *vignette*: a brief, impressionistic description of a scene that makes us wonder what happened (or what is about to happen next). The vignette is not a story, it just sets the stage and provides the materials (actors, etc.) for the story. But we have to make it up ourselves.
 
 Providing the material for a story is what a visualization can do well: it shows the phenomena, and gives us a reason to talk about them. In many cases, we will need additional information to tell a good story, drawing on our own or other people's background knowledge, research, etc. It also provides a great backdrop to point to when we need evidence to connect our story to reality. After all, visualization stories usually are meant to describe what actually happened.
 

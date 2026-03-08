@@ -12,7 +12,7 @@ I should probably have the feeling of jumping off a cliff in slow motion right n
 
 Tenure is a good idea in principle, but the way it works in practice is just backwards in many ways. A lot of young people are scared of not getting tenure if they do risky work, but once they’re tenured they’re too old and settled in their ways (and swamped with teaching and committee work) to take those risks.
 
-There has been <a href="http://highereducationquestionmark.com">growing criticism of higher education in the U.S.</a> lately, and in particular of the tenure model. I don't have a solution, but I think a lot of the criticism is valid. People leaving academia for industry is not a new thing, but it seems to become more common. Terran Lane of the University of New Mexico recently switched to Google and wrote <a href="http://cs.unm.edu/~terran/academic_blog/?p=113">a very interesting blog posting about his reasons for leaving</a>. I don't agree with all of his points, but the kinds of issues he mentions certainly resonate with me.
+There has been [growing criticism of higher education in the U.S.](http://highereducationquestionmark.com) lately, and in particular of the tenure model. I don't have a solution, but I think a lot of the criticism is valid. People leaving academia for industry is not a new thing, but it seems to become more common. Terran Lane of the University of New Mexico recently switched to Google and wrote [a very interesting blog posting about his reasons for leaving](http://cs.unm.edu/~terran/academic_blog/?p=113). I don't agree with all of his points, but the kinds of issues he mentions certainly resonate with me.
 
 ## Why Tableau?
 

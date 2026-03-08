@@ -1,13 +1,13 @@
 <p align="center"><img src="https://media.eagereyes.org/media/2011/anscombe_teaser.png" alt="" width="600" height="207" /></p>
 
 # Anscombe's Quartet
-Visualization may not be as precise as statistics, but it provides a unique view onto data that can make it much easier to discover interesting structures than numerical methods. Visualization also provides the context necessary to make better choices and to be more careful when fitting models. <a href="http://en.wikipedia.org/wiki/Anscombe's_quartet" target="_blank">Anscombe's Quartet</a> is a case in point, showing that four datasets that have identical statistical properties can indeed be very different.
+Visualization may not be as precise as statistics, but it provides a unique view onto data that can make it much easier to discover interesting structures than numerical methods. Visualization also provides the context necessary to make better choices and to be more careful when fitting models. [Anscombe's Quartet](http://en.wikipedia.org/wiki/Anscombe) is a case in point, showing that four datasets that have identical statistical properties can indeed be very different.
 
 ## Arguing for Graphics in 1973
 
-In 1973, Francis J. Anscombe published a paper titled, <em>Graphs in Statistical Analysis</em>. The idea of using graphical methods had been established relatively recently by John Tukey, but there was evidently still a lot of skepticism. Anscombe first lists some notions that textbooks were "indoctrinating" people with, like the idea that "numerical calculations are exact, but graphs are rough."
+In 1973, Francis J. Anscombe published a paper titled, *Graphs in Statistical Analysis*. The idea of using graphical methods had been established relatively recently by John Tukey, but there was evidently still a lot of skepticism. Anscombe first lists some notions that textbooks were "indoctrinating" people with, like the idea that "numerical calculations are exact, but graphs are rough."
 
-He then presents a table of numbers. It contains four distinct datasets (hence the name <em>Anscombe's Quartet</em>), each with statistical properties that are essentially identical: the mean of the <em>x</em> values is 9.0, mean of <em>y</em> values is 7.5, they all have nearly identical variances, correlations, and regression lines (to at least two decimal places).
+He then presents a table of numbers. It contains four distinct datasets (hence the name *Anscombe's Quartet*), each with statistical properties that are essentially identical: the mean of the *x* values is 9.0, mean of *y* values is 7.5, they all have nearly identical variances, correlations, and regression lines (to at least two decimal places).
 
 <table>
 <tbody>
@@ -148,13 +148,13 @@ While dataset I appears like many well-behaved datasets that have clean and well
 
 How do you find out which model can be applied? Anscombe's answer is to use graphs: looking at the data immediately reveals a lot of the structure, and makes the analyst aware of "pathological" cases like dataset IV. Computers are not limited to running numerical models, either.
 
->	A computer should make <strong>both</strong> calculations <strong>and</strong> graphs. Both sorts of output should be studied; each will contribute to understanding.
+>	A computer should make **both** calculations **and** graphs. Both sorts of output should be studied; each will contribute to understanding.
 
 ## What is an Outlier?
 
 In addition to showing how useful a clear look onto data can be, Anscombe also raises an interesting question: what, exactly, is an outlier? He describes a study on education, where he studied per-capita expenditures for public schools in the 50 U.S. states and the District of Columbia. Alaska is a bit of an outlier, so it moves the regression line away from the mainstream. The obvious response would be to remove Alaska from the data before computing the regression. But then, another state will be an outlier. Where do you stop?
 
-Anscombe argues that the correct answer is to show both the regression with Alaska, but also how much it contributes and what happens when it is removed. The tool here, again, are graphical representations. Not only the actual data needs to be shown, but also the distances from the regression line (the <em>residuals</em>), and other statistics that help judge how well the model fits. It seems like an obvious thing to do, but presumably was not the norm in the 1970s, and I can imagine that it still not always is.
+Anscombe argues that the correct answer is to show both the regression with Alaska, but also how much it contributes and what happens when it is removed. The tool here, again, are graphical representations. Not only the actual data needs to be shown, but also the distances from the regression line (the *residuals*), and other statistics that help judge how well the model fits. It seems like an obvious thing to do, but presumably was not the norm in the 1970s, and I can imagine that it still not always is.
 
 ## Scientific Paper or Blog Posting?
 
@@ -168,4 +168,4 @@ Anscombe also describes his preference for APL (an ancient programming language)
 
 Indeed.
 
-Francis J. Anscombe, <a href="http://www.jstor.org/stable/2682899" target="_blank">Graphs in Statistical Analysis</a>. <em>The American Statistician</em>, vol. 27, no. 1, pp. 17–21, 1973.
+Francis J. Anscombe, [Graphs in Statistical Analysis](http://www.jstor.org/stable/2682899). *The American Statistician*, vol. 27, no. 1, pp. 17–21, 1973.

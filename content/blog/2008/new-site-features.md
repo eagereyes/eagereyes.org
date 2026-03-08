@@ -4,7 +4,7 @@ This website just got a facelift and a few new features. I transitioned it to Dr
 
 ## Users
 
-You can now create a user on this site by simply providing a user name and email address, or using <a href="http://openid.net/get/">OpenID</a>. Why would you want to? When posting comments, your name no longer has the "not verified" next to it, you can skip the CAPTCHA, your comment appears immediately (and not when I get around to approving it), and - best of all! - you can use exciting formatting features like <strong>bold</strong> and <em>italics</em>.
+You can now create a user on this site by simply providing a user name and email address, or using [OpenID](http://openid.net/get/). Why would you want to? When posting comments, your name no longer has the "not verified" next to it, you can skip the CAPTCHA, your comment appears immediately (and not when I get around to approving it), and - best of all! - you can use exciting formatting features like **bold** and *italics*.
 
 If that's not enough to convince you, being a user also allows you to track responses to postings that you commented on, so you can stay informed what others are saying. Also, this is a bit of a test for me: if there is any interest, I want to add discussion forums to the site for a more open kind of exchange.
 
@@ -12,7 +12,7 @@ To create a user or login, use the login box at the top right. It will move down
 
 ## Theme
 
-As far as the theme is concerned, I have tried and failed to make it more minimalist. While I'm a big fan of minimalism, I don't seem to be able to do it myself. So I took the opposite route and actually added some ornamentation to the layout. And in staying true to this site's topic, I've taken a hint from <a href="/blog/2008/treemaps">Cushion Treemaps</a> to <span style="text-decoration: line-through;">sexy up</span> perceptually distinguish the menu.
+As far as the theme is concerned, I have tried and failed to make it more minimalist. While I'm a big fan of minimalism, I don't seem to be able to do it myself. So I took the opposite route and actually added some ornamentation to the layout. And in staying true to this site's topic, I've taken a hint from [Cushion Treemaps](/blog/2008/treemaps) to <span style="text-decoration: line-through;">sexy up</span> perceptually distinguish the menu.
 
 I've tested the site in Safari 3.1, FireFox 3, and IE7. Please let me know if there are problems, especially in browsers I have not yet tested.
 

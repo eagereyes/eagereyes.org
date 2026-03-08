@@ -4,11 +4,11 @@ Raw numbers are easy to report and analyze, but without the proper context, they
 
 This is a particular issue with data that has a spatial component. When the data is shown on the inevitable map, you often just see a distribution of people. Where there are more people, there are more tweets, there's more crime, there are more customers, there are more coffee shops, etc. Many maps in fact show nothing but the underlying distribution of people. As usual, xkcd has captured the issue beautifully.
 
-<p align="center"><a href="http://xkcd.com/1138/"><img class="aligncenter wp-image-8273 size-full" src="https://media.eagereyes.org/wp-content/uploads/2014/07/heatmap.png" alt="heatmap" width="250" height="271" /></a></p>
+<p align="center">[<img class="aligncenter wp-image-8273 size-full" src="https://media.eagereyes.org/wp-content/uploads/2014/07/heatmap.png" alt="heatmap" width="250" height="271" />](http://xkcd.com/1138/)</p>
 
 ## Crime on New York City Subways
 
-An example for this is <a href="http://www.nydailynews.com/new-york/nyc-crime/daily-news-analysis-reveals-crime-rankings-city-subway-system-article-1.1836918">a map recently published by <em>New York Daily News</em></a> showing the amount of crime in subway stations in New York City. Each bubble on the map shows one station, with the size of the bubble representing the number of crimes. Mousing over the bubbles soon reveals that many of the higher-crime stations are the ones with more than one line passing through (and thus likely more people).
+An example for this is [a map recently published by *New York Daily News*](http://www.nydailynews.com/new-york/nyc-crime/daily-news-analysis-reveals-crime-rankings-city-subway-system-article-1.1836918) showing the amount of crime in subway stations in New York City. Each bubble on the map shows one station, with the size of the bubble representing the number of crimes. Mousing over the bubbles soon reveals that many of the higher-crime stations are the ones with more than one line passing through (and thus likely more people).
 
 <p align="center"><img class="aligncenter wp-image-8276" src="https://media.eagereyes.org/wp-content/uploads/2014/07/nydn-mta-crime-totals-1094x1335.png" alt="nydn-mta-crime-totals" width="547" height="668" /></p>
 
@@ -30,7 +30,7 @@ So even this first step of putting the data into context is not complete, but wo
 
 ## Comparing Cities
 
-Another example is <a href="http://www.nytimes.com/2013/04/14/education/edlife/new-york-and-seattle-compete-for-data-science-crown.html">this <em>New York Times</em> story from over a year ago</a>, which still gets my blood boiling when I read it. It compares New York City to Seattle in terms of their “geek appeal,” and talks about data science, among other things. The irony is completely lost on the author, though, who uses absolute numbers to compare two cities whose populations are vastly different.
+Another example is [this *New York Times* story from over a year ago](http://www.nytimes.com/2013/04/14/education/edlife/new-york-and-seattle-compete-for-data-science-crown.html), which still gets my blood boiling when I read it. It compares New York City to Seattle in terms of their “geek appeal,” and talks about data science, among other things. The irony is completely lost on the author, though, who uses absolute numbers to compare two cities whose populations are vastly different.
 
 Did you know that Seattle had only 139 Starbucks in 2013, but New York had 271? Or that there were a puny 85,000 IT workers in Seattle, compared to 168,400 in NYC? What a provincial little town that Seattle place is!
 
@@ -46,6 +46,6 @@ The more complicated question is, what to compare to? Daily riders are a good fi
 
 But even when the comparison data is not perfect, some normalization is better than none at all. And it is important to understand the limitations and uncertainties of the analysis, even when perfect comparison data is not available.
 
-<hr />
+---
 
-Teaser image: <a href="http://xkcd.com/1138/"><em>Heatmap</em></a>, by Randall Munroe/xkcd
+Teaser image: [*Heatmap*](http://xkcd.com/1138/), by Randall Munroe/xkcd

@@ -2,4 +2,4 @@
 
 # Representational Mug
 
-This was bought in the store of the <a href="http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum">Guggenheim Museum in New York</a>.
+This was bought in the store of the [Guggenheim Museum in New York](http://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum).

@@ -2,13 +2,13 @@
 
 # One Chart To Rule Them All
 
-Finding the right chart for complex data is not an easy task. A reader pointed me to <a href="http://www.education.nh.gov/instruction/school_improve/documents/presentationtosups_dec2010.pdf" target="_blank">a presentation (PDF)</a> by the <a href="http://www.education.nh.gov/instruction/school_improve/" target="_blank">New Hampshire Department of Education</a> that illustrates some of the thinking behind choosing a new visual representation. The tool of choice here is the bubble chart.
+Finding the right chart for complex data is not an easy task. A reader pointed me to [a presentation (PDF)](http://www.education.nh.gov/instruction/school_improve/documents/presentationtosups_dec2010.pdf) by the [New Hampshire Department of Education](http://www.education.nh.gov/instruction/school_improve/) that illustrates some of the thinking behind choosing a new visual representation. The tool of choice here is the bubble chart.
 
 ## Reading
 
 The goal of the work presented in these slides is to design an accountability system for schools in New Hampshire. The slides go into some depth on the complexities of doing this from a data point of view (what kinds of measures to use, how to compare them, etc.).
 
-To show the data, the department has chosen the bubble chart. It's not really a new chart type, since it is basically a scatterplot with additional data mapped to properties like color and size. But it has gotten a lot of attention since it was featured in <a href="http://www.gapminder.org/" target="_blank">gapminder</a> and Hans Rosling's <a href="http://www.gapminder.org/videos/the-joy-of-stats/" target="_blank">widely watched presentations</a>.
+To show the data, the department has chosen the bubble chart. It's not really a new chart type, since it is basically a scatterplot with additional data mapped to properties like color and size. But it has gotten a lot of attention since it was featured in [gapminder](http://www.gapminder.org/) and Hans Rosling's [widely watched presentations](http://www.gapminder.org/videos/the-joy-of-stats/).
 
 The chart is also well designed here: labels are not only placed along the axes to show numbers, but there are qualitative labels in each corner that explain what each of them means. The goal here is obviously to make it easy for people not familiar with the chart to understand what they should be looking for.
 

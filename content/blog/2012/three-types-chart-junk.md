@@ -1,10 +1,10 @@
 # The Three Types of Chart Junk
 
-<a href="http://fadeyev.net/2012/03/02/the-ornament-extreme/">A recent posting on Dmitry Fadeyev's design blog</a> got me thinking about decoration and chart junk again. Fadeyev talks about the Victorian obsession with ornamentation, but he could equally be talking about the way charts and infographics are often decorated. A short excursion to the 1850s might help shed some light on the issue of <em>chart junk</em>.
+[A recent posting on Dmitry Fadeyev's design blog](http://fadeyev.net/2012/03/02/the-ornament-extreme/) got me thinking about decoration and chart junk again. Fadeyev talks about the Victorian obsession with ornamentation, but he could equally be talking about the way charts and infographics are often decorated. A short excursion to the 1850s might help shed some light on the issue of *chart junk*.
 
 ## Product Design in the Victorian Age
 
-Fadeyev uses some illustrations from the catalog of the <a href="http://en.wikipedia.org/wiki/The_Great_Exhibition">1851 Great Exhibition</a> in London, which is available from <a href="http://books.google.co.uk/books?id=kj6fz7beMrwC">Google Books</a>. Victorian design was incredibly ornamental and decorated, and that included everyday objects. The Victorian idea of a properly decorated home was that there would be no empty spaces. A bare wall was unthinkable, there had to be something there: a pattern, a mural, anything but a single color.
+Fadeyev uses some illustrations from the catalog of the [1851 Great Exhibition](http://en.wikipedia.org/wiki/The_Great_Exhibition) in London, which is available from [Google Books](http://books.google.co.uk/books?id=kj6fz7beMrwC). Victorian design was incredibly ornamental and decorated, and that included everyday objects. The Victorian idea of a properly decorated home was that there would be no empty spaces. A bare wall was unthinkable, there had to be something there: a pattern, a mural, anything but a single color.
 
 Fadeyev uses this stove to illustrate the obsession with ornament. Besides the intricacy of the decoration and amount of effort that must have gone into it, it also strikes me as incredibly impractical. I guess part of showing your status was not just the ornaments on the stove, but the matching set of servants that would keep all the little leaves and figurines clean und dust-free.
 
@@ -22,16 +22,14 @@ Fadeyev points out the way the decorations are not just added on here, but are w
 
 <span class="Apple-style-span" style="font-size: 20px; font-weight: bold;">Back to Chart Junk</span>
 
-The modernist movement that was largely inspired by opposition to Victorian design (and also mass-produced goods that needed to be simpler) might have coined a term for these ornaments: design junk. But even though they did not, they despised any unnecessary flourishes and ornamentation. <em>Decoration is sin</em>.
+The modernist movement that was largely inspired by opposition to Victorian design (and also mass-produced goods that needed to be simpler) might have coined a term for these ornaments: design junk. But even though they did not, they despised any unnecessary flourishes and ornamentation. *Decoration is sin*.
 
 <div>Tufte defines chart junk as all the parts of a visualization that do not convey data. Junk clutters up charts and can get in the way, but is often harmless. In contrast to ornaments on objects, chart junk can also help the user understand the data by providing context, though.</div>
 
 So the way I see it, there are three types of chart junk:
 
-<ul>
-    <li><strong>Useful junk</strong>. This includes all the parts of a graphic that do not convey data, but that carry useful or interesting context. In an infographic, this is what makes the infographic work. In a visualization, this may be annotations, explanatory text, etc.</li>
-    <li><strong>Harmless junk</strong>. This includes parts of a visualization or infographic that do not convey data and also don't help understanding, but also don't get in the way. If you add a pretty picture next to the chart that doesn't interfere, or if you insist on an elaborate border around it. A lot of chart junk falls into this category.</li>
-    <li><strong>Harmful junk</strong>. The kind of chart junk that actively interferes with reading and understanding of a visualization or infographic. This includes elaborate graphics that hide the true end of a bar, busy background images, etc.</li>
-</ul>
+- **Useful junk**. This includes all the parts of a graphic that do not convey data, but that carry useful or interesting context. In an infographic, this is what makes the infographic work. In a visualization, this may be annotations, explanatory text, etc.
+- **Harmless junk**. This includes parts of a visualization or infographic that do not convey data and also don't help understanding, but also don't get in the way. If you add a pretty picture next to the chart that doesn't interfere, or if you insist on an elaborate border around it. A lot of chart junk falls into this category.
+- **Harmful junk**. The kind of chart junk that actively interferes with reading and understanding of a visualization or infographic. This includes elaborate graphics that hide the true end of a bar, busy background images, etc.
 
 Next time you see an infographic or a visualization that includes seemingly extraneous elements, ask yourself: is this the guy with helmet on the gas lamp (harmless), or is it the fork with the outward-pointing tines (harmful)? Or, perhaps, is the junk even useful?

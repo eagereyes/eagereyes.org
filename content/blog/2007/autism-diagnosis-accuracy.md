@@ -2,36 +2,36 @@
 
 <p align="center"><img src="https://media.eagereyes.org/media/attachments/Autism-redesign.png" alt="Autism Teaser" border="0" /></p>
 
-Kaiser at <a href="http://junkcharts.typepad.com/junk_charts/">Junk Charts</a> has posted an interesting <a href="http://junkcharts.typepad.com/junk_charts/2007/09/a-challenge.html">challenge</a> based on the question how to visualize an Autism diagnosis dataset in a better way (originally posted by Igor Carron at <a href="http://nuit-blanche.blogspot.com/2007/09/on-difficulty-of-autism-diagnosis-can.html">Nuit Blanche</a>). I'm offering my own redesign of the data below, and discuss my different approach and what it tells us about the visualization of sets in general.
+Kaiser at [Junk Charts](http://junkcharts.typepad.com/junk_charts/) has posted an interesting [challenge](http://junkcharts.typepad.com/junk_charts/2007/09/a-challenge.html) based on the question how to visualize an Autism diagnosis dataset in a better way (originally posted by Igor Carron at [Nuit Blanche](http://nuit-blanche.blogspot.com/2007/09/on-difficulty-of-autism-diagnosis-can.html)). I'm offering my own redesign of the data below, and discuss my different approach and what it tells us about the visualization of sets in general.
 
 ## The Problem
 
-The original visualization of this data is shown below (click for a larger image in a separate window/tab). These <a href="http://en.wikipedia.org/wiki/Venn_diagram">Venn diagrams</a> show the performance of three different early tests for <a href="http://en.wikipedia.org/wiki/Autism">autism</a> (PL-ADOS, ADI-R, and Clinician's assessment). There are two distinct questions here, autism itself and other autism-related disorders (called autism spectrum). The diagram itself depicts the number of children that got a positive diagnosis in any combination of tests, while the fraction of children who were later found to be autistic is indicated in parentheses.
+The original visualization of this data is shown below (click for a larger image in a separate window/tab). These [Venn diagrams](http://en.wikipedia.org/wiki/Venn_diagram) show the performance of three different early tests for [autism](http://en.wikipedia.org/wiki/Autism) (PL-ADOS, ADI-R, and Clinician's assessment). There are two distinct questions here, autism itself and other autism-related disorders (called autism spectrum). The diagram itself depicts the number of children that got a positive diagnosis in any combination of tests, while the fraction of children who were later found to be autistic is indicated in parentheses.
 
-<p align="center"><a href="https://media.eagereyes.org/media/attachments/autism-test-figure-2.jpg" rel="lightbox"><img src="https://media.eagereyes.org/media/attachments/autism-test-figure-2-thumb.jpg" alt="" width="450" height="239" border="0" /></a></p>
+<p align="center">[<img src="https://media.eagereyes.org/media/attachments/autism-test-figure-2-thumb.jpg" alt="" width="450" height="239" border="0" />](https://media.eagereyes.org/media/attachments/autism-test-figure-2.jpg)</p>
 
 The redesigns posted in the Junk Charts discussion are mostly focused on improving the Venn diagram, but I believe that the original version of the diagram is already flawed. What seems to be much more interesting than the number of children diagnosed with each combination of methods is the correctness of the diagnosis. The number of children serves mostly to measure the support, since all tests agreed only on a small number of children.
 
 ## The Data
 
-The basis for a redesign is a <a href="http://en.wikipedia.org/wiki/Cross-tabulation">cross-tabulation</a> of the data, which can be easily read from the figure. A cross-tabulation lists the combinations of all categories against each other, with their relative frequencies as the value. Because we are looking at three criteria here, the shape of the table is a little different - in fact, it looks a bit like a tree!
+The basis for a redesign is a [cross-tabulation](http://en.wikipedia.org/wiki/Cross-tabulation) of the data, which can be easily read from the figure. A cross-tabulation lists the combinations of all categories against each other, with their relative frequencies as the value. Because we are looking at three criteria here, the shape of the table is a little different - in fact, it looks a bit like a tree!
 
 <table border="0">
 <thead>
 <tr>
-<td><strong> PL-ADOS</strong></td>
-<td><strong>ADI-R
-</strong></td>
-<td><strong>Clinician
-</strong></td>
-<td><strong>Number Autism
-</strong></td>
-<td><strong>Percent Autism
-</strong></td>
-<td><strong>Number Spectrum
-</strong></td>
-<td><strong>Percent Spectrum
-</strong></td>
+<td>** PL-ADOS**</td>
+<td>**ADI-R
+**</td>
+<td>**Clinician
+**</td>
+<td>**Number Autism
+**</td>
+<td>**Percent Autism
+**</td>
+<td>**Number Spectrum
+**</td>
+<td>**Percent Spectrum
+**</td>
 </tr>
 </thead>
 <tbody>
@@ -108,19 +108,19 @@ The basis for a redesign is a <a href="http://en.wikipedia.org/wiki/Cross-tabula
 <td style="text-align: right;">96</td>
 </tr>
 <tr>
-<td><em>
-</em></td>
+<td>*
+*</td>
 <td></td>
-<td> <strong>Total</strong></td>
-<td style="text-align: right;"><strong>172</strong></td>
+<td> **Total**</td>
+<td style="text-align: right;">**172**</td>
 <td style="text-align: right;"></td>
-<td style="text-align: right;"><strong>172</strong></td>
+<td style="text-align: right;">**172**</td>
 <td style="text-align: right;"></td>
 </tr>
 </tbody>
 </table>
 
-The root node of this tree is of course the entire data set, or the last row of the table. The tree splits into a yes and a no branch in every column. The columns <em>Number Autism</em> and <em>Number Spectrum</em> are shown in the Venn diagram above. But what we are really interested in are the percentages <em>Percent Autism</em> and <em>Percent Spectrum</em>. Also, the tree structure is implicit in the Venn diagram but very hard to read (in fact, I would argue that Venn diagrams are a great tool for learning about sets, but useless as a visualization).
+The root node of this tree is of course the entire data set, or the last row of the table. The tree splits into a yes and a no branch in every column. The columns *Number Autism* and *Number Spectrum* are shown in the Venn diagram above. But what we are really interested in are the percentages *Percent Autism* and *Percent Spectrum*. Also, the tree structure is implicit in the Venn diagram but very hard to read (in fact, I would argue that Venn diagrams are a great tool for learning about sets, but useless as a visualization).
 
 ## The Redesign
 
@@ -151,8 +151,8 @@ Below are PDF versions of my redesigns for closer inspection.
 <table border="0">
 <tbody>
 <tr valign="top">
-<td><a href="https://media.eagereyes.org/media/attachments/Autism.pdf" target="_blank"><img src="https://media.eagereyes.org/media/attachments/Autism-thumb.png" alt="" width="298" height="210" border="0" /></a></td>
-<td><a href="https://media.eagereyes.org/media/attachments/Autism-sorted.pdf" target="_blank"><img src="https://media.eagereyes.org/media/attachments/Autism-sorted-thumb.png" alt="" width="298" height="210" border="0" /></a></td>
+<td>[<img src="https://media.eagereyes.org/media/attachments/Autism-thumb.png" alt="" width="298" height="210" border="0" />](https://media.eagereyes.org/media/attachments/Autism.pdf)</td>
+<td>[<img src="https://media.eagereyes.org/media/attachments/Autism-sorted-thumb.png" alt="" width="298" height="210" border="0" />](https://media.eagereyes.org/media/attachments/Autism-sorted.pdf)</td>
 </tr>
 </tbody>
 </table>

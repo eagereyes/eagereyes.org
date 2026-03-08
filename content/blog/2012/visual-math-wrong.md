@@ -2,11 +2,11 @@
 
 Data visualization is often used to just display data, with little thought put into supporting visual thinking. Giving people tools to do some visual math is a good idea; the visual properties need to be picked carefully however, to make this work.
 
-The <a href="http://www.census.gov/dataviz/visualizations/040/">following example</a> is from the <a href="http://www.census.gov/dataviz/">Census Data Visualization Gallery</a>. Like many of the other visualizations there, it shows some good thinking but ultimately fails to do what it was designed to.
+The [following example](http://www.census.gov/dataviz/visualizations/040/) is from the [Census Data Visualization Gallery](http://www.census.gov/dataviz/). Like many of the other visualizations there, it shows some good thinking but ultimately fails to do what it was designed to.
 
 <p align="center"><img class="aligncenter size-full wp-image-2129" alt="Components of Metro Area Change" src="https://media.eagereyes.org/wp-content/uploads/2012/12/metro-change.png" width="440" height="290" /></p>
 
-You don’t have to be <a href="http://thefunctionalart.com">Alberto Cairo</a> to realize that using area here is problematic. Not only is it difficult to compare and properly read differences in area, it is also close to impossible to add areas to each other. The other problem is that the numbers here can be negative (which is also important for the story here, so this isn’t just an inconvenient detail), which area obviously cannot express. Using the outline to indicate negative numbers is a reasonable idea, since color is already used to indicate the different categories of numbers. It doesn’t help with the visual math though, and I’d argue that while you might have a chance to add up areas, even if it is hard and not very accurate, subtracting areas is pretty much hopeless.
+You don’t have to be [Alberto Cairo](http://thefunctionalart.com) to realize that using area here is problematic. Not only is it difficult to compare and properly read differences in area, it is also close to impossible to add areas to each other. The other problem is that the numbers here can be negative (which is also important for the story here, so this isn’t just an inconvenient detail), which area obviously cannot express. Using the outline to indicate negative numbers is a reasonable idea, since color is already used to indicate the different categories of numbers. It doesn’t help with the visual math though, and I’d argue that while you might have a chance to add up areas, even if it is hard and not very accurate, subtracting areas is pretty much hopeless.
 
 An obvious alternative here is to use bars. Stacked bars naturally communicate the idea of parts adding up to a whole. Unfortunately, stacked bars cannot typically contain negative numbers, at least not in any visualization program I am aware of. I have seen some examples where people have drawn stacked bars by hand, with negative bars hanging off the positive ones (to the side), and then perhaps more sitting on some kind of ledge at their base. That is actually quite an effective way to communicate how things add up or where they are taken from, but it requires manual drawing.
 
@@ -20,7 +20,7 @@ What we gain, though, is the ability to sort by any column. That is useful, beca
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/bars.png" width="599" height="514" /></p>
 
-Click on the column headings to sort by <em>natural growth</em>, <em>domestic migration</em>, <em>international migration</em>, or <em>net change</em> instead of <em>city name</em>. Now compare to the original and tell me that this isn’t more informative and interesting.
+Click on the column headings to sort by *natural growth*, *domestic migration*, *international migration*, or *net change* instead of *city name*. Now compare to the original and tell me that this isn’t more informative and interesting.
 
 ## Relative Change
 

@@ -2,11 +2,11 @@
 
 This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data “from all areas of science and practice.” It’s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools.
 
-I’ve been interested in these historical books for a while, especially the lesser-known ones. <a href="https://en.wikipedia.org/wiki/Felix_Auerbach">Felix Auerbach</a> (1856-1933) was a physicist with a broad set of interests (including the arts, <a href="https://de.wikipedia.org/wiki/Felix_Auerbach">his German wikipedia page</a> has some more on that, as well as a portrait of him by Edvard Munch). He published a number of books in the 1910s and 1920s, on mathematics, physics (relativity theory in particular), and music.
+I’ve been interested in these historical books for a while, especially the lesser-known ones. [Felix Auerbach](https://en.wikipedia.org/wiki/Felix_Auerbach) (1856-1933) was a physicist with a broad set of interests (including the arts, [his German wikipedia page](https://de.wikipedia.org/wiki/Felix_Auerbach) has some more on that, as well as a portrait of him by Edvard Munch). He published a number of books in the 1910s and 1920s, on mathematics, physics (relativity theory in particular), and music.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0013.jpg" alt="" class="wp-image-95299" width="800" height="594"/></p>
 
-<em>Die graphische Darstellung</em> is a very dense little book, with 100 diagrams on just under 100 pages, each one discussed briefly and often with an example. The pages are very densely laid out, as you will see below. The fact that it’s printed in a very condensed <a href="https://en.wikipedia.org/wiki/Fraktur">Fraktur</a> typeface doesn’t exactly help readability either. It’s similar to Willard Brinton’s <em>Graphic Methods for Presenting Facts</em>, also published in 1914, though Brinton had the luxury of much more space, both in terms of the size of the page (almost exactly twice as large as Auerbach’s) and the number of pages (350 instead of under 100!), as well as a much more modern typeface.
+*Die graphische Darstellung* is a very dense little book, with 100 diagrams on just under 100 pages, each one discussed briefly and often with an example. The pages are very densely laid out, as you will see below. The fact that it’s printed in a very condensed [Fraktur](https://en.wikipedia.org/wiki/Fraktur) typeface doesn’t exactly help readability either. It’s similar to Willard Brinton’s *Graphic Methods for Presenting Facts*, also published in 1914, though Brinton had the luxury of much more space, both in terms of the size of the page (almost exactly twice as large as Auerbach’s) and the number of pages (350 instead of under 100!), as well as a much more modern typeface.
 
 ## Area diagrams
 
@@ -38,7 +38,7 @@ This chart later in the book really caught my eye: it shows speeds of different 
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0016.jpg" alt="" class="wp-image-95304" width="800" height="806"/></p>
 
-To do this, the chart uses a <a href="https://en.wikipedia.org/wiki/Logarithmic_scale">log scale</a>. While these aren’t uncommon, I’ve never seen one covering quite this range. It goes from 10^11 (or 100 billion) down to 10^-6 (one millionth) centimeters per second. From left to right, you see light, radium particles (I’m assuming he means the alpha particles emitted when they decay), current in a conductor, Halley’s comet close to the sun, the earth around the sun, the shockwave of an explosion, the moon around the earth, a cannonball, sound through air, a fast train, a car (both 1914 standards), Halley’s comet at its furthest from the sun, a person walking, a snail, and a glacier.
+To do this, the chart uses a [log scale](https://en.wikipedia.org/wiki/Logarithmic_scale). While these aren’t uncommon, I’ve never seen one covering quite this range. It goes from 10^11 (or 100 billion) down to 10^-6 (one millionth) centimeters per second. From left to right, you see light, radium particles (I’m assuming he means the alpha particles emitted when they decay), current in a conductor, Halley’s comet close to the sun, the earth around the sun, the shockwave of an explosion, the moon around the earth, a cannonball, sound through air, a fast train, a car (both 1914 standards), Halley’s comet at its furthest from the sun, a person walking, a snail, and a glacier.
 
 Also note the tight layout here, with the text hugging the chart very closely. This is a feature throughout the book, and it’s both fascinating and gives me slight claustrophobia. Here’s another example from elsewhere in the book.
 
@@ -58,17 +58,16 @@ Without missing a beat, Auerbach then goes on to talk about “polar representat
 
 While he talks about the subdivision of the circle into sectors, this seems to imply that he thought that areas were representing the values. Either way, there is no mention of angle here. He says that “this representation is so common that a hint will suffice,” and only briefly explains that the chart is showing the parties represented in the German Reichstag (as of 1914, presumably).
 
-It’s a notably different treatment than Brinton, who very clearly dislikes pie charts. It’s also interesting to consider that this was published twelve years before <a href="/blog/2015/ye-olde-pie-chart-debate">The Great Pie Chart Controversy of 1926</a>. Pies have been around, and popular, for a long time!
+It’s a notably different treatment than Brinton, who very clearly dislikes pie charts. It’s also interesting to consider that this was published twelve years before [The Great Pie Chart Controversy of 1926](/blog/2015/ye-olde-pie-chart-debate). Pies have been around, and popular, for a long time!
 
 ## Venn Diagrams
 
 The final example I’m going to show here is a more diagrammatic one, what we’d call a Venn diagram today. Auerbach doesn’t mention the name though, and generally doesn’t reference sources. Brinton doesn’t have a list of references either, but does cite the sources of his illustrations and mentions people’s names in the text.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/02/DSC_0020.jpg" alt="" class="wp-image-95309" width="800" height="241"/></p>
-<p></p>
 
-## <em>Anschauungsbedürfnis</em>
+## *Anschauungsbedürfnis*
 
-In the conclusion, Auerbach argues that graphical methods are important because they cater to the universal human urge to see things – the German <em>Anschauungsbedürfnis</em> he uses is hard to fully capture in English. They also help to popularize science, which he clearly thinks is important, but even help science itself by making phenomena visible and thus easier to derive laws from them.
+In the conclusion, Auerbach argues that graphical methods are important because they cater to the universal human urge to see things – the German *Anschauungsbedürfnis* he uses is hard to fully capture in English. They also help to popularize science, which he clearly thinks is important, but even help science itself by making phenomena visible and thus easier to derive laws from them.
 
 This may not be the best-known book about graphical representation, or even a particularly important one. But it’s interesting to see how well understood graphical methods were 100 years ago. Auerbach’s book also nicely complements Brinton’s by filling in the natural sciences side of things, while Brinton focuses more on statistics and business uses.

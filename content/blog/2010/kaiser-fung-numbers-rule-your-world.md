@@ -2,11 +2,11 @@
 
 # Review: Kaiser Fung, Numbers Rule Your World
 
-You all know what statistics is, right? I mean, everybody knows. But if you had to explain why it's useful, and what it's useful for, would you have an answer? Do you know how statistics makes a difference in all our lives, all the time? Even if you (think you) do, check out Kaiser Fung's book, <em><a href="http://junkcharts.typepad.com/numbersruleyourworld/">Numbers Rule Your World</a></em>.
+You all know what statistics is, right? I mean, everybody knows. But if you had to explain why it's useful, and what it's useful for, would you have an answer? Do you know how statistics makes a difference in all our lives, all the time? Even if you (think you) do, check out Kaiser Fung's book, *[Numbers Rule Your World](http://junkcharts.typepad.com/numbersruleyourworld/)*.
 
-Just in case you were wondering: yes, that is the same Kaiser Fung who also runs the wonderful <em><a href="http://junkcharts.typepad.com/junk_charts/">Junk Charts</a></em> blog.
+Just in case you were wondering: yes, that is the same Kaiser Fung who also runs the wonderful *[Junk Charts](http://junkcharts.typepad.com/junk_charts/)* blog.
 
-After my recent <a href="/criticism/cornelia-dean-am-i-making-myself-clear">review of Cornelia Dean's <em>Am I Making Myself Clear?</em></a>, I am quite sensitive to how technical information is packaged for broad audiences. There are two very clever tricks here that I think should be copied, immediately, by everybody: first, this book about statistics is almost entirely devoid of actual statistics. It doesn't bore you with concepts like means, standard deviations, etc., but rather tells you what they're good for and what their limitations are.
+After my recent [review of Cornelia Dean's *Am I Making Myself Clear?*](/criticism/cornelia-dean-am-i-making-myself-clear), I am quite sensitive to how technical information is packaged for broad audiences. There are two very clever tricks here that I think should be copied, immediately, by everybody: first, this book about statistics is almost entirely devoid of actual statistics. It doesn't bore you with concepts like means, standard deviations, etc., but rather tells you what they're good for and what their limitations are.
 
 Secondly, every chapter is built around two related examples, which Fung alternates between in every section. That way, there's a little cliffhanger at the end of every page or two of text, which keeps you reading.
 

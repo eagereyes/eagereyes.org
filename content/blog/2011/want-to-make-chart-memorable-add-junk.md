@@ -2,15 +2,15 @@
 
 # Want to Make A Chart Memorable? Add Junk
 
-A common criticism of charts is that they are filled with <em>chart junk,</em> and that removing the extraneous elements would make the chart better and stronger. That argument works for analytical charts, but not for charts that are used for presentation. The way memory works suggests that chart junk is actually very useful to not only get a point across, but make sure the reader remembers it.
+A common criticism of charts is that they are filled with *chart junk,* and that removing the extraneous elements would make the chart better and stronger. That argument works for analytical charts, but not for charts that are used for presentation. The way memory works suggests that chart junk is actually very useful to not only get a point across, but make sure the reader remembers it.
 
 ## Recap: The Chartjunk Paper
 
-<a href="/criticism/chart-junk-considered-useful-after-all">Bateman et al. looked into the effects of what is commonly referred to as <em>chart junk</em>:</a> embellishments, graphical elements, etc. that are not strictly part of the chart, and that can be removed without reducing the amount of information the chart carries. The study found that the embellished charts were more memorable, in particular after a longer time period (two weeks) than the plain charts. Also, they found that embellishments did not interfere with subjects' understanding of the data.
+[Bateman et al. looked into the effects of what is commonly referred to as *chart junk*:](/criticism/chart-junk-considered-useful-after-all) embellishments, graphical elements, etc. that are not strictly part of the chart, and that can be removed without reducing the amount of information the chart carries. The study found that the embellished charts were more memorable, in particular after a longer time period (two weeks) than the plain charts. Also, they found that embellishments did not interfere with subjects' understanding of the data.
 
 ## Criticism. Lots of It.
 
-There has been considerable criticism of the paper, and much of it is probably valid: <a href="http://junkcharts.typepad.com/junk_charts/2010/05/8-red-flags-about-the-useful-chartjunk-paper.html">the sample size was small, the criteria left too much room for interpretation and/or experimenter influence, etc.</a> Also, <a href="http://www.stat.columbia.edu/~cook/movabletype/archives/2010/05/is_chartjunk_re.html">the charts used were very simple, with unstated assumptions about the data.</a>
+There has been considerable criticism of the paper, and much of it is probably valid: [the sample size was small, the criteria left too much room for interpretation and/or experimenter influence, etc.](http://junkcharts.typepad.com/junk_charts/2010/05/8-red-flags-about-the-useful-chartjunk-paper.html) Also, [the charts used were very simple, with unstated assumptions about the data.](http://www.stat.columbia.edu/~cook/movabletype/archives/2010/05/is_chartjunk_re.html)
 
 My point here is not to argue whether the criticism is justified, but that it misses the point. The bigger point we should get from the paper is that we need to be clearer about what we want the user to do with a chart.
 
@@ -18,7 +18,7 @@ My point here is not to argue whether the criticism is justified, but that it mi
 
 We don't remember isolated facts about the world. Confronted with information, we immediately try to make connections, and those connections help us remember facts. If you're presented with some fact that has little or no connections with the other things you know about, you won't remember it. A fact that fits well into the existing network of your knowledge will be retained much better.
 
-We also <a href="http://memory.uva.nl/memimprovement/eng/elaboration.htm">embellish and elaborate information</a> to remember it. That may be done subconsciously, or it may be an elaborate mnemonic device we use to make sure we retain a fact. Sometimes these techniques tie facts to certain locations, or we make up a little rhyme or poem around them. The interesting thing is that not only do these embellishments help us retain the information, in the long term we also remember the facts rather than the mnemonic devices.
+We also [embellish and elaborate information](http://memory.uva.nl/memimprovement/eng/elaboration.htm) to remember it. That may be done subconsciously, or it may be an elaborate mnemonic device we use to make sure we retain a fact. Sometimes these techniques tie facts to certain locations, or we make up a little rhyme or poem around them. The interesting thing is that not only do these embellishments help us retain the information, in the long term we also remember the facts rather than the mnemonic devices.
 
 ## The User and Her Task
 

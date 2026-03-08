@@ -4,7 +4,7 @@
 
 Theoretical research is a tough sell, and not just in computer science. Not only are we expected to produce things we can demo, it's also hard to tell beforehand what exactly the results will be. But that is exactly why we need to do research: because we don't know. Applied research is obviously important, but the current trend towards only applied work is worrying.
 
-Mark Changizi put it well in his piece <em><a href="http://www.psychologytoday.com/blog/nature-brain-and-culture/201008/p-np-and-is-academia-inhospitable-big-discoveries">P, NP, And Is Academia Inhospitable to Big Discoveries?</a></em>
+Mark Changizi put it well in his piece *[P, NP, And Is Academia Inhospitable to Big Discoveries?](http://www.psychologytoday.com/blog/nature-brain-and-culture/201008/p-np-and-is-academia-inhospitable-big-discoveries)*
 
 >	The problem is simply this: You can't write a grant proposal whose aim is to make a theoretical breakthrough.
 >	
@@ -24,6 +24,6 @@ When you're working on a particular practical problem, you might not know what w
 
 To add insult to injury, the results often seem obvious and easy. Few people realize how much experience, design, effort, blood, sweat, and tears it took to produce a seemingly simple but fundamental result. Some of the more recent proofs, like for the Poincare conjecture or the P!=NP problem, are very long, complicated, and impossible to follow for all but a few specialists. That suggests that they required a lot of work, but what about the elegant, simple things? Boiling something down to a few seemingly obvious steps takes a lot of effort, and it seems to often have the effect of making the achievement seem smaller.
 
-As a final illustration of the point, here's a comic from <a href="http://abstrusegoose.com/230">abstruse goose</a> that I think is incredibly accurate (click for a slightly larger version). Give it a bit of time, trust me. Like all fundamental things, it takes a bit to sink in.
+As a final illustration of the point, here's a comic from [abstruse goose](http://abstrusegoose.com/230) that I think is incredibly accurate (click for a slightly larger version). Give it a bit of time, trust me. Like all fundamental things, it takes a bit to sink in.
 
-<a href="http://abstrusegoose.com/strips/it_is_obvious.PNG" rel="lightbox"><img src="https://media.eagereyes.org/media/2010/proof_560.png" alt="" width="560" height="464" /></a>
+[<img src="https://media.eagereyes.org/media/2010/proof_560.png" alt="" width="560" height="464" />](http://abstrusegoose.com/strips/it_is_obvious.PNG)

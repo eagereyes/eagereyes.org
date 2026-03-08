@@ -1,16 +1,16 @@
 # When Details Hide the Story
 
-<a href="http://junkcharts.typepad.com/junk_charts/2015/10/is-it-worth-the-drama.html">Kaiser Fung doesn't like this graphic</a> that accompanied a <a href="http://www.wsj.com/articles/u-s-readies-for-a-return-of-bird-flu-1444665965">recent story about the bird flu in the Wall Street Journal</a>. His redesign shows a lot less overlap and a lot more detail; so much, in fact, that it obscures the point of the chart.
+[Kaiser Fung doesn't like this graphic](http://junkcharts.typepad.com/junk_charts/2015/10/is-it-worth-the-drama.html) that accompanied a [recent story about the bird flu in the Wall Street Journal](http://www.wsj.com/articles/u-s-readies-for-a-return-of-bird-flu-1444665965). His redesign shows a lot less overlap and a lot more detail; so much, in fact, that it obscures the point of the chart.
 
 Here is the offending graphic. The overlapping circles are hard to read with any precision and are hiding information. It's a pretty dramatic chart though, with the color choice reinforcing that something severe is happening.
 
 <p align="center"><img class="aligncenter size-full wp-image-9021" src="https://media.eagereyes.org/wp-content/uploads/2015/10/avian-flu-wsj.jpg" alt="avian-flu-wsj" width="640" height="292" /></p>
 
-Under the heading <em><a href="http://junkcharts.typepad.com/junk_charts/2015/10/is-it-worth-the-drama.html">Is It Worth the Drama?</a></em>, Fung proposes this no-drama redesign.
+Under the heading *[Is It Worth the Drama?](http://junkcharts.typepad.com/junk_charts/2015/10/is-it-worth-the-drama.html)*, Fung proposes this no-drama redesign.
 
 <p align="center"><img class="aligncenter size-full wp-image-9022" src="https://media.eagereyes.org/wp-content/uploads/2015/10/avian-flu-fung-redesign.png" alt="avian-flu-fung-redesign" width="620" height="539" /></p>
 
-His point seems to be to show individual days, since that is what the original data contains. But that graph is way too detailed and shows information that is of no consequence. The <a href="http://www.wsj.com/articles/u-s-readies-for-a-return-of-bird-flu-1444665965">original story</a> kindly links to <a href="https://www.aphis.usda.gov/wps/portal/aphis/ourfocus/animalhealth/sa_animal_disease_information/sa_avian_health/ct_avian_influenza_disease/!ut/p/a1/lZFbc4IwEIV_iw99ZBLD_VG8gUrt1FqEl8waQDIDgYFox_764qUd-yC1edvdczJnv0UR2qBIwIHvQPJSQH6qI4POli7pO5h405U9xt7z-8S3Fqa6dLVWELaC4XTgauYCY6xZBHsjxx2Zto-xZzzmx3feAP_lD1CEIiZkJTMUQpXxhrJSyERImvNtDfXxCTdAy31N05Ltm3MFgheQ0yyBXGa3nZg3CTQJ5SIt6-IM4TI-cBA_eiavjVaW7xPxCd_GU5iK8RiFW2Kn2CCJolp9UDS2VRXQQVeIHqdxzJipquYl_K_9pmOn3W-yeDHnM4Ln-lXQxfcs6AAYtoTNuwhtDa3-mXr2wE1J7Q_9XfstyEw50USbTsqX8Q1ltOmgHDgoCgrDwB-oKtbrwlKNV_fzLS2C0XHQ630B9ICQ5w!!/?1dmy&amp;urile=wcm:path:/aphis_content_library/sa_our_focus/sa_animal_health/sa_animal_disease_information/sa_avian_health/sa_detections_by_states/ct_ai_pacific_flyway">the underlying data</a>, which made it easy to dig into this a bit and try things out.
+His point seems to be to show individual days, since that is what the original data contains. But that graph is way too detailed and shows information that is of no consequence. The [original story](http://www.wsj.com/articles/u-s-readies-for-a-return-of-bird-flu-1444665965) kindly links to [the underlying data](https://www.aphis.usda.gov/wps/portal/aphis/ourfocus/animalhealth/sa_animal_disease_information/sa_avian_health/ct_avian_influenza_disease/!ut/p/a1/lZFbc4IwEIV_iw99ZBLD_VG8gUrt1FqEl8waQDIDgYFox_764qUd-yC1edvdczJnv0UR2qBIwIHvQPJSQH6qI4POli7pO5h405U9xt7z-8S3Fqa6dLVWELaC4XTgauYCY6xZBHsjxx2Zto-xZzzmx3feAP_lD1CEIiZkJTMUQpXxhrJSyERImvNtDfXxCTdAy31N05Ltm3MFgheQ0yyBXGa3nZg3CTQJ5SIt6-IM4TI-cBA_eiavjVaW7xPxCd_GU5iK8RiFW2Kn2CCJolp9UDS2VRXQQVeIHqdxzJipquYl_K_9pmOn3W-yeDHnM4Ln-lXQxfcs6AAYtoTNuwhtDa3-mXr2wE1J7Q_9XfstyEw50USbTsqX8Q1ltOmgHDgoCgrDwB-oKtbrwlKNV_fzLS2C0XHQ630B9ICQ5w!!/?1dmy&amp;urile=wcm:path:/aphis_content_library/sa_our_focus/sa_animal_health/sa_animal_disease_information/sa_avian_health/sa_detections_by_states/ct_ai_pacific_flyway), which made it easy to dig into this a bit and try things out.
 
 I immediately had a sense that we're seeing a weekly pattern here. The time frame is only a few months, and there are fairly regular gaps that I figured were weekends. So I made a quick chart in Tableau of just the main part of the data, with the color showing the day of week. The color legend isn't important here since the point is to find the ones that have the highest peaks (I did label those).
 
@@ -30,4 +30,4 @@ This view is also more similar to the original than Fung's. Perhaps that could h
 
 It's easy to jump on charts that hide parts of the data, and often those are poorly done. But insisting on showing more data does not always lead to a better solution. That is particularly true when the data is as noisy as in this case, and when there are artifacts that only distract from the actual point.
 
-We always need to ask why the chart was made, <a href="/blog/2015/the-point-of-a-chart">for what purpose</a>, to what end.
+We always need to ask why the chart was made, [for what purpose](/blog/2015/the-point-of-a-chart), to what end.

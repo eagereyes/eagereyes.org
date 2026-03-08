@@ -2,7 +2,7 @@
 
 As newspaper graphics go, scatterplots are a fairly advanced technique. They tend to show a reasonably large amount of data as single points, and they require the reader to have an idea what to look for. Most newspapers never bother using scatterplots for that reason, which is really too bad. With some explanation, a scatterplot can be a very effective means of displaying data, and in particular to allow the user to drill into the data a little bit.
 
-In 2010, <em>The New York Times'</em> Hannah Fairfield and Graham Roberts created a <a href="http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html">wonderful interactive visualization of the pay gap between men and women</a> (requires Flash). While at first it seems like a straightforward scatterplot, there are some simple yet clever additions that make it much more approachable.
+In 2010, *The New York Times'* Hannah Fairfield and Graham Roberts created a [wonderful interactive visualization of the pay gap between men and women](http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html) (requires Flash). While at first it seems like a straightforward scatterplot, there are some simple yet clever additions that make it much more approachable.
 
 <p align="center"><img class="aligncenter size-medium wp-image-1854" title="Wage Gap NYTimes" src="https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes.png" alt="Why Is Her Paycheck Smaller? by Hannah Fairfield and Graham Roberts" width="600" height="346" /></p>
 
@@ -12,11 +12,11 @@ What makes this design so clever is the addition of the 10%, 20%, and 30% lines 
 
 ## An Alternative Version
 
-Nathan Yau <a href="http://projects.flowingdata.com/salary/">recreated this chart in D3 and added some more recent data</a> (requires a modern browser). His version not only provides a way to show the data over time, there are also more categories.
+Nathan Yau [recreated this chart in D3 and added some more recent data](http://projects.flowingdata.com/salary/) (requires a modern browser). His version not only provides a way to show the data over time, there are also more categories.
 
 But what Nathan's version is missing is the story. The additional data mostly adds confusion: move your mouse over the year in the lower right, and what do you see? Lots of points are moving around, but there doesn't appear to be a clear trend. The additional categories are interesting, but what do they add?
 
-The <em>New York Times</em> version provides two kinds of interaction: hovering the mouse over a point shows what category that point represents and how much more or less women make than men in that category. The other is a filter that is applied when clicking on one of the <em>Occupation</em> bars. But not only does that reduce the points to only the ones in that category, it also adds annotations.
+The *New York Times* version provides two kinds of interaction: hovering the mouse over a point shows what category that point represents and how much more or less women make than men in that category. The other is a filter that is applied when clicking on one of the *Occupation* bars. But not only does that reduce the points to only the ones in that category, it also adds annotations.
 
 <p align="center"><img class="aligncenter size-full wp-image-1853" title="Wage Gap New York Times, Detail" src="https://media.eagereyes.org/wp-content/uploads/2012/04/wagegap-nytimes-detail.png" alt="" width="443" height="292" /></p>
 

@@ -2,7 +2,7 @@
 
 # VisWeek Bingo, Interactive Edition 2011
 
-Last year's VisWeek Bingo was a big success, but it was also conceived of and created in such a rush that I'm embarrassed to even link to it now. For this year, I have created an interactive version of it for your perusal and amusement. It uses code <a href="http://stevestreza.com/">Steve Streza</a> developed for his <a href="http://applebingo.me/">Apple Keynote Bingo</a>.
+Last year's VisWeek Bingo was a big success, but it was also conceived of and created in such a rush that I'm embarrassed to even link to it now. For this year, I have created an interactive version of it for your perusal and amusement. It uses code [Steve Streza](http://stevestreza.com/) developed for his [Apple Keynote Bingo](http://applebingo.me/).
 
 ## Design
 
@@ -14,7 +14,7 @@ This is optimized for mobile phones, in particular the iPhone 4(S). It works wel
 
 ## Additions
 
-I already received a few good suggestions from Wolfgang Freiler, Jérôme Cukier, and Drew Skau when I <a href="https://plus.google.com/u/0/105888953757264157781/posts/D2iVnm8ofUh">posted about it on Google+</a>. Feel free to post more suggestions below, there are still some slots I can fill in the program. They have to be very short to fit into the squares, though.
+I already received a few good suggestions from Wolfgang Freiler, Jérôme Cukier, and Drew Skau when I [posted about it on Google+](https://plus.google.com/u/0/105888953757264157781/posts/D2iVnm8ofUh). Feel free to post more suggestions below, there are still some slots I can fill in the program. They have to be very short to fit into the squares, though.
 
 ## Where to Find It
 

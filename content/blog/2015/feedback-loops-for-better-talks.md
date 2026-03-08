@@ -12,7 +12,7 @@ It’s not a lack of experience, though. Giving talks is part of academics' jobs
 
 The big issue seems to be a general lack of self-awareness and understanding of the audience. In other words, academics only tend to think about the input (their work) but not the output (the actual talk).
 
-Enter the <a href="http://en.wikipedia.org/wiki/Feedback">feedback loop</a>: it observes the deviation between its current output and a desired value (its <em>set point</em>), and makes adjustments to its internal parameters. Any machine or device of any complexity uses feedback loops, usually dozens or hundreds or more. They go back to the times of steam engines and <a href="http://en.wikipedia.org/wiki/Centrifugal_governor">James Watt’s centrifugal governor</a>, and even earlier than that.
+Enter the [feedback loop](http://en.wikipedia.org/wiki/Feedback): it observes the deviation between its current output and a desired value (its *set point*), and makes adjustments to its internal parameters. Any machine or device of any complexity uses feedback loops, usually dozens or hundreds or more. They go back to the times of steam engines and [James Watt’s centrifugal governor](http://en.wikipedia.org/wiki/Centrifugal_governor), and even earlier than that.
 
 <p align="center"><img class="aligncenter size-medium wp-image-8800" src="https://media.eagereyes.org/wp-content/uploads/2015/05/set-point.png" alt="Feedback Loop" width="660" height="256" /></p>
 

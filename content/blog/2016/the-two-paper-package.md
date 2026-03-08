@@ -4,7 +4,7 @@
 
 Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.
 
-It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of <a href="/publications/Dasgupta-EuroVis-2015">a paper</a> we had first submitted to EuroVis 2012, which then went through several different journals and conferences, to finally end up at EuroVis 2015. That somebody would openly talk about that seemed to surprise people.
+It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of [a paper](/publications/Dasgupta-EuroVis-2015) we had first submitted to EuroVis 2012, which then went through several different journals and conferences, to finally end up at EuroVis 2015. That somebody would openly talk about that seemed to surprise people.
 
 So here's more of that. Two stories of pairs of papers, one that didn't work and one that did.
 
@@ -12,7 +12,7 @@ So here's more of that. Two stories of pairs of papers, one that didn't work and
 
 In December 2014, we sent to papers to EuroVis 2015. They were both about the connected scatterplot, and since we (well, mostly I) felt that we had more than would fit into one paper, we played a little game: submit two papers that reference each other, and include the respective other paper as supplemental material for each. This mostly backfired, as some reviewers then ended up liking the other paper better than the one they were supposed to review. One of the two also ended up being a bit thin. We did have more than could fit one paper, but not quite enough for two.
 
-We then turned that back into one paper for InfoVis. This worked out well, because the InfoVis template is a bit more space-efficient, so you can fit in a bit more material. We had to drop a few things of course, but those were the weaker parts. That paper got rejected, but it ended up <a href="/papers/the-connected-scatterplot-for-presenting-paired-time-series">getting accepted soon after for TVCG</a>.
+We then turned that back into one paper for InfoVis. This worked out well, because the InfoVis template is a bit more space-efficient, so you can fit in a bit more material. We had to drop a few things of course, but those were the weaker parts. That paper got rejected, but it ended up [getting accepted soon after for TVCG](/papers/the-connected-scatterplot-for-presenting-paired-time-series).
 
 The lesson from this is that the two-paper strategy is dangerous. We told the papers chairs about the linked papers, which all but ensured that if one paper got rejected, both would be. This could perhaps have been played better, but I'd rather be upfront about these sorts of things. They would have figured it out anyway.
 
@@ -20,7 +20,7 @@ The lesson from this is that the two-paper strategy is dangerous. We told the pa
 
 Now here's one that actually worked. I wish I could say that it was all planned like this from the start, but it wasn't. I think it's an interesting blueprint for a strategy, though, that I will likely try again.
 
-<a href="http://eurovis.org">EuroVis</a> has its deadline for full papers in December. This last December, Drew Skau and I submitted a paper based on two studies he had run. During the course of doing that work and writing the paper, we found a few interesting things and came up with some recommendations and more ideas for hypotheses. It occurred to me that it would be easy to run a third study to test some of those to see how they would pan out.
+[EuroVis](http://eurovis.org) has its deadline for full papers in December. This last December, Drew Skau and I submitted a paper based on two studies he had run. During the course of doing that work and writing the paper, we found a few interesting things and came up with some recommendations and more ideas for hypotheses. It occurred to me that it would be easy to run a third study to test some of those to see how they would pan out.
 
 Of course, that thought came to me far too late, and it would also have been impossible to fit the results of a third study into that same paper. But given the infrastructure we had built for the two studies, it was going to be pretty easy to run another one using the exact same structure, just with some new stimuli. Even those were closely based on ones we had already used, so the additional work was quite minimal.
 
@@ -36,8 +36,8 @@ The short paper also got accepted (yay!), and so now we'll have a nice package o
 
 I wish I could say that I had planned this from the beginning, but now that I've seen it work, I might in the future. EuroVis makes this particularly easy with the roughly two months between the full and short paper deadlines. This might also help get more interesting work to the somewhat under-appreciated short papers program (they're not published in the journal and thus less prestigious).
 
-It's also good strategy to avoid the <em><a href="https://en.wikipedia.org/wiki/Least_publishable_unit">least publishable unit</a></em> problem by aiming higher and thinking not just in terms of what can be done for a single paper, but what would make a great story, even if that is more than can comfortably fit into one paper.
+It's also good strategy to avoid the *[least publishable unit](https://en.wikipedia.org/wiki/Least_publishable_unit)* problem by aiming higher and thinking not just in terms of what can be done for a single paper, but what would make a great story, even if that is more than can comfortably fit into one paper.
 
-<hr>
+---
 
-<a href="https://commons.wikimedia.org/wiki/File:Chess-king.JPG">Teaser image by David Lapetina</a>, used under Creative Commons
+[Teaser image by David Lapetina](https://commons.wikimedia.org/wiki/File:Chess-king.JPG), used under Creative Commons

@@ -2,7 +2,7 @@
 
 Of the several AI-powered systems that can create images from text prompts, MidJourney is the most easily accessible one right now. I've had some fun playing with it.
 
-Midjourney produces images from <em>prompts</em>, which are basically text descriptions. They don't have to be specific or concrete in any way. "Astronaut riding a horse in space" works just as well as abstract words. In fact, the latter can sometimes produce more interesting images.
+Midjourney produces images from *prompts*, which are basically text descriptions. They don't have to be specific or concrete in any way. "Astronaut riding a horse in space" works just as well as abstract words. In fact, the latter can sometimes produce more interesting images.
 
 <figure>
 <div style="display: flex;"><img src="https://media.eagereyes.org/wp-content/uploads/2022/06/e6999b3e-c346-421f-9255-0b0c12c9a554_Robert_Kosara_eagereyes_friendly_music_robot_art_nouveau.jpg" alt="" style="width: 32%; margin-right: 2%;"/><img src="https://media.eagereyes.org/wp-content/uploads/2022/06/944afefa-b1da-4734-9e64-2f5be918457c_Robert_Kosara_eagereyes_httpss.mj_.runfsefU7__friendly_music_robot_art_nouveau.jpg" alt="" style="width: 32%; margin-right: 2%;"/><img src="https://media.eagereyes.org/wp-content/uploads/2022/06/3f9894e5-c1f3-415e-8134-296650e0322f_Robert_Kosara_eagereyes_friendly_music_robot_art_nouveau.jpg" alt="" style="width: 32%;"/></div>

@@ -4,7 +4,7 @@ We all agree that the direction of the bars in a bar chart should correspond to 
 
 ## Running Pace
 
-This discussion started with <a href="https://twitter.com/visualisingdata/status/1400825403896369152">this tweet by Andy Kirk</a> making fun of a chart made by Under Armour, which shows pace for kilometer splits of somebody's run:
+This discussion started with [this tweet by Andy Kirk](https://twitter.com/visualisingdata/status/1400825403896369152) making fun of a chart made by Under Armour, which shows pace for kilometer splits of somebody's run:
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/undeararmour-bars.jpeg" alt="" class="wp-image-97316" width="375" height="461"/></p>
 
@@ -14,7 +14,7 @@ If you’re a runner, you probably understand what’s going on here. Pace is me
 
 The issue with this measurement is that unlike speed, pace gets smaller as you get faster. Running a mile in eight minutes is faster than doing it in ten minutes. So a numerically smaller 8 min/mi pace is going to make you quite a bit faster than a numerically larger 10 min/mi.
 
-In a chart, that’s kind of weird. You could just do the “correct” thing in the visualization sense and ignore the meaning. But you’d end up having to explain that the shorter bars mean faster pace. That’s not very logical, and it’s not motivating – you want to see larger bars for faster miles. Performance benchmarks that measure completion time of a task (like <a href="https://arstechnica.com/gadgets/2020/11/mac-mini-and-apple-silicon-m1-review-not-so-crazy-after-all/">these ones at <em>Ars Technica</em></a>) have a similar problem, so they usually include an annotation to say whether <em>higher is better</em> or <em>lower is better</em> (especially when that changes between different benchmarks).
+In a chart, that’s kind of weird. You could just do the “correct” thing in the visualization sense and ignore the meaning. But you’d end up having to explain that the shorter bars mean faster pace. That’s not very logical, and it’s not motivating – you want to see larger bars for faster miles. Performance benchmarks that measure completion time of a task (like [these ones at *Ars Technica*](https://arstechnica.com/gadgets/2020/11/mac-mini-and-apple-silicon-m1-review-not-so-crazy-after-all/)) have a similar problem, so they usually include an annotation to say whether *higher is better* or *lower is better* (especially when that changes between different benchmarks).
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/Mac-mini-M1-Final-Cut-vs-Intel-1440x1080-1.jpeg" alt="" class="wp-image-97314" width="720" height="540"/></p>
 
@@ -22,13 +22,13 @@ Running apps have long shown pace data upside down. Here’s a quick screenshot 
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/strava-lines.png" alt="" class="wp-image-97308" width="576" height="444"/></p>
 
-Line charts tend to get a pass when it comes to zero baselines (<a href="https://engineering.tableau.com/truncating-the-y-axis-threat-or-menace-d0bce66d4d08">though that isn't actually warranted</a>). Strava also shows splits as bars though, with the same inverted axis.
+Line charts tend to get a pass when it comes to zero baselines ([though that isn't actually warranted](https://engineering.tableau.com/truncating-the-y-axis-threat-or-menace-d0bce66d4d08)). Strava also shows splits as bars though, with the same inverted axis.
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/strava-bars.jpeg" alt="" class="wp-image-97309" width="563" height="489"/></p>
 
 Other apps tend to do the same, as far as I’m aware. If you’re a runner, I think you’re used to this representation and easily understand what it means: smaller pace number means faster means better, which should make for a taller bar – visualization rules be damned!
 
-We did discuss this a bit further <a href="https://twitter.com/eagereyes/status/1400826317466079233">in my twitter thread responding to Andy</a> and started talking about how to represent this data differently (or <em>better</em>, if you will). Andy <a href="https://twitter.com/visualisingdata/status/1400847309802512384?s=20">proposed this alternative</a>, using bars but anchoring them on the average instead of a completely arbitrary baseline:
+We did discuss this a bit further [in my twitter thread responding to Andy](https://twitter.com/eagereyes/status/1400826317466079233) and started talking about how to represent this data differently (or *better*, if you will). Andy [proposed this alternative](https://twitter.com/visualisingdata/status/1400847309802512384?s=20), using bars but anchoring them on the average instead of a completely arbitrary baseline:
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/andy-bars.jpeg" alt="" class="wp-image-97310" width="620" height="520"/></p>
 
@@ -36,7 +36,7 @@ I agree that this is a good idea. It would actually be quite useful to see negat
 
 ## Audio Software and Interfaces
 
-There are other places where axes can be scaled in unusual ways and make sense. The dB scale on the right edge in this screenshot from audio software iZotope RX goes from -∞ to 0, both up and down. Yes, <em>that</em> infinity. You're looking at not just one infinite scale, but two!
+There are other places where axes can be scaled in unusual ways and make sense. The dB scale on the right edge in this screenshot from audio software iZotope RX goes from -∞ to 0, both up and down. Yes, *that* infinity. You're looking at not just one infinite scale, but two!
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2021/06/izotope.png" alt="" class="wp-image-97312" width="605" height="454"/></p>
 

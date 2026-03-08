@@ -1,13 +1,13 @@
 # New video: Exploring the connections between companies with They Rule
 
-<a href="https://theyrule.net">Josh On's <em>They Rule</em></a> is back, and I've made a video about it.
+[Josh On's *They Rule*](https://theyrule.net) is back, and I've made a video about it.
 
-<em>They Rule</em> connects companies through their boards of directors. You can follow these connections between seemingly unrelated companies, and sometimes even competitors.
+*They Rule* connects companies through their boards of directors. You can follow these connections between seemingly unrelated companies, and sometimes even competitors.
 
-By web standards, <em>They Rule</em> is quite ancient. It has been around since 2001, and since it was initially done in Flash, it was effectively offline for the last few years. On has recreated it in React and updated the data, which should make it future-proof for the next while. It's a great project and I'm very excited to see it back for people to explore.
+By web standards, *They Rule* is quite ancient. It has been around since 2001, and since it was initially done in Flash, it was effectively offline for the last few years. On has recreated it in React and updated the data, which should make it future-proof for the next while. It's a great project and I'm very excited to see it back for people to explore.
 
-<a href="https://youtu.be/wZUgbgdx6Sc">Head over to YouTube to watch the video there</a>, or right here!
+[Head over to YouTube to watch the video there](https://youtu.be/wZUgbgdx6Sc), or right here!
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/wZUgbgdx6Sc?si=g0PUacZVKQm8ez3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wZUgbgdx6Sc?si=g0PUacZVKQm8ez3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-This is my first video with a continuous music bed. Let me know what you think! And as always, I'd appreciate it if you could like the video and <a href="https://www.youtube.com/@eagereyes">subscribe to the channel</a> over on YouTube.
+This is my first video with a continuous music bed. Let me know what you think! And as always, I'd appreciate it if you could like the video and [subscribe to the channel](https://www.youtube.com/@eagereyes) over on YouTube.

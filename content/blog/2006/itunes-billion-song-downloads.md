@@ -1,6 +1,6 @@
 # iTunes (Music) Store Billion Downloads Visualization
 
-On February 23rd, 2006, Apple's <a href="http://www.apple.com/itunes/">iTunes Music Store</a> (iTMS, now called the iTunes Store) sold its one billionth song. In the days leading up that event, Apple had a countdown on its webpages, which provided interesting information about the download habits of its customers. This page provides a visualization of the collected data, as well as of data that others collected leading up to the 100 millionth and 500 millionth downloads.
+On February 23rd, 2006, Apple's [iTunes Music Store](http://www.apple.com/itunes/) (iTMS, now called the iTunes Store) sold its one billionth song. In the days leading up that event, Apple had a countdown on its webpages, which provided interesting information about the download habits of its customers. This page provides a visualization of the collected data, as well as of data that others collected leading up to the 100 millionth and 500 millionth downloads.
 
 ## The Display
 
@@ -25,38 +25,34 @@ That is a questions I also wondered about, and so I contacted Apple. I was told 
 ## Milestones
 
 The following list is mostly taken from Apple's 500 million downloads page (which is not online anymore), with a few additions. This is the basis for the overview in the applet.
-<ul>
-	<li>January 6, 2009. Steve Jobs reports 6 billion song downloads.</li>
-	<li>June 19, 2008. Apple reports 5 billion songs.</li>
-	<li>January 15, 2008. Steve Jobs reports 4 billion songs sold "as of last week."</li>
-	<li>July 31, 2007. Apple reports 3 billion songs sold.</li>
-	<li>January 9, 2007. Jobs reports 2 billion songs sold.</li>
-	<li>September 12, 2006. Steve Jobs reports 1.5 billion songs sold.</li>
-	<li>February 23, 2006. 1 billion songs sold. One notable addition to the list of countries at this point was Japan, and there were a number of sub-sites, like a French and a Dutch site for Belgium. The grand prize at the billion consisted of: a 20" iMac, 10 fifth generation iPods, and a $10,000 Music Card. In addition, Apple established a scholarship to the world-renowned Juilliard School in the name of the winner. For every 100,000th song from 950,100,000 to 99,900,000, a 4GB iPod nano with a $100 iTMS gift card was given away.</li>
-	<li>July 17, 2005. 500 million songs sold. At this point, iTMS was available in 19 countries: US, Austria, Belgium, Canada (excluding the Province of Quebec), Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, and the UK. The grand prize consisted of 10 iPods, a 10,000 song gift card and 10 50 song gift cards for the iPods, four tickets to see a Coldplay concert in front-row seats plus transportation, and a backstage pass and meet'n'greet with the band. At every 100,000th song from 480,100,000 to 490,900,000, and iPod mini was given away, together with a 50 song gift card.</li>
-	<li>May 10, 2005. 400 million songs sold. iTMS opens in Denmark, Norway, Sweden and Switzerland</li>
-	<li>January 24, 2005. 250 million songs sold.</li>
-	<li>December 16, 2004. 200 million songs sold.</li>
-	<li>December 2, 2004. iTMS opens in Canada.</li>
-	<li>October 26, 2004. iTMS opens in the European Union.</li>
-	<li>October 14, 2004. 150 million songs sold.</li>
-	<li>July 12, 2004. 100 million songs sold - mostly in the US, the three additional stores had only opened less than a month earlier. The grand prize for the 100 million contest was a 17" PowerBook, a 40GB iPod and a gift certificate for 10,000 iTunes songs. Every 100,000th song from 95,100,000 to 99,900,000, a 20GB iPod was given away.</li>
-	<li>June 15, 2004. iTMS opens in the UK, France, and Germany.</li>
-	<li>April 28, 2004. 70 million songs sold.</li>
-	<li>March 15, 2004. 50 million songs sold.</li>
-	<li>December 15, 2003. 25 million songs sold.</li>
-	<li>October 16, 2003. iTunes available for Windows. 13 million songs sold.</li>
-	<li>September 8, 2003. 10 million songs sold.</li>
-	<li>June 23, 2003. 5 million songs sold.</li>
-	<li>May 14, 2003. 2 million songs sold.</li>
-	<li>May 5, 2003. One million songs sold.</li>
-	<li>April 28, 2003. iTMS launched in United States.</li>
-</ul>
+- January 6, 2009. Steve Jobs reports 6 billion song downloads.
+- June 19, 2008. Apple reports 5 billion songs.
+- January 15, 2008. Steve Jobs reports 4 billion songs sold "as of last week."
+- July 31, 2007. Apple reports 3 billion songs sold.
+- January 9, 2007. Jobs reports 2 billion songs sold.
+- September 12, 2006. Steve Jobs reports 1.5 billion songs sold.
+- February 23, 2006. 1 billion songs sold. One notable addition to the list of countries at this point was Japan, and there were a number of sub-sites, like a French and a Dutch site for Belgium. The grand prize at the billion consisted of: a 20" iMac, 10 fifth generation iPods, and a $10,000 Music Card. In addition, Apple established a scholarship to the world-renowned Juilliard School in the name of the winner. For every 100,000th song from 950,100,000 to 99,900,000, a 4GB iPod nano with a $100 iTMS gift card was given away.
+- July 17, 2005. 500 million songs sold. At this point, iTMS was available in 19 countries: US, Austria, Belgium, Canada (excluding the Province of Quebec), Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, and the UK. The grand prize consisted of 10 iPods, a 10,000 song gift card and 10 50 song gift cards for the iPods, four tickets to see a Coldplay concert in front-row seats plus transportation, and a backstage pass and meet'n'greet with the band. At every 100,000th song from 480,100,000 to 490,900,000, and iPod mini was given away, together with a 50 song gift card.
+- May 10, 2005. 400 million songs sold. iTMS opens in Denmark, Norway, Sweden and Switzerland
+- January 24, 2005. 250 million songs sold.
+- December 16, 2004. 200 million songs sold.
+- December 2, 2004. iTMS opens in Canada.
+- October 26, 2004. iTMS opens in the European Union.
+- October 14, 2004. 150 million songs sold.
+- July 12, 2004. 100 million songs sold - mostly in the US, the three additional stores had only opened less than a month earlier. The grand prize for the 100 million contest was a 17" PowerBook, a 40GB iPod and a gift certificate for 10,000 iTunes songs. Every 100,000th song from 95,100,000 to 99,900,000, a 20GB iPod was given away.
+- June 15, 2004. iTMS opens in the UK, France, and Germany.
+- April 28, 2004. 70 million songs sold.
+- March 15, 2004. 50 million songs sold.
+- December 15, 2003. 25 million songs sold.
+- October 16, 2003. iTunes available for Windows. 13 million songs sold.
+- September 8, 2003. 10 million songs sold.
+- June 23, 2003. 5 million songs sold.
+- May 14, 2003. 2 million songs sold.
+- May 5, 2003. One million songs sold.
+- April 28, 2003. iTMS launched in United States.
 
 ## Links
 
-<ul>
-	<li><a href="http://itunescount.tijdweb.nl/">iTunes Songs Sold Graph</a>. Toin Bloo's webpage. He supplied me with parts of the data for the billion, and also the entire 500 million dataset. In return, I made some suggestions on his visualization ;)</li>
-	<li><a href="http://www.anders.com/cms/149/iTunes/1.billionth.song/Apple">Timing Apple's 1 Billionth iTunes Sale</a>. Blog entry with link to harvested sales data.</li>
-	<li><a href="http://www.apple.com/itunes/">Apple's iTunes Store</a>. The source of everything.</li>
-</ul>
+- [iTunes Songs Sold Graph](http://itunescount.tijdweb.nl/). Toin Bloo's webpage. He supplied me with parts of the data for the billion, and also the entire 500 million dataset. In return, I made some suggestions on his visualization ;)
+- [Timing Apple's 1 Billionth iTunes Sale](http://www.anders.com/cms/149/iTunes/1.billionth.song/Apple). Blog entry with link to harvested sales data.
+- [Apple's iTunes Store](http://www.apple.com/itunes/). The source of everything.

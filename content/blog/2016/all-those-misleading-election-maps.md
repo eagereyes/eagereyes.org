@@ -8,7 +8,7 @@ Look at this map from Wikipedia that shows electoral votes on the labels and who
 
  
 
-Let's try something different. Here's a bar chart of the number of electoral votes for each state. Like with the map, the <em>label</em> shows electoral votes, the bar's <em>length</em> is the state's area. Can you tell me which state has the most electoral votes? How many more does Texas have than Montana?
+Let's try something different. Here's a bar chart of the number of electoral votes for each state. Like with the map, the *label* shows electoral votes, the bar's *length* is the state's area. Can you tell me which state has the most electoral votes? How many more does Texas have than Montana?
 
 <img class="aligncenter size-full wp-image-9772" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-alpha.png" alt="states-alpha" width="1788" height="1088" />
 
@@ -16,13 +16,13 @@ Not helpful? Of course, they were sorted alphabetically. Silly me! Let's sort by
 
 <img class="aligncenter size-full wp-image-9773" src="https://media.eagereyes.org/wp-content/uploads/2016/11/states-sorted.png" alt="states-sorted" width="1788" height="1088" />
 
-That is exactly what happens with a map. The map shows you area: rocks, farmlands, pastures, prairie, etc. It does not show you people. It does not show you the immense difference in population density even between states – and it's much more severe between smaller areas, like ZIP codes or counties. You can put all the labels on it that you want, a <a href="https://en.wikipedia.org/wiki/Choropleth_map">choropleth map</a> will always show you area.
+That is exactly what happens with a map. The map shows you area: rocks, farmlands, pastures, prairie, etc. It does not show you people. It does not show you the immense difference in population density even between states – and it's much more severe between smaller areas, like ZIP codes or counties. You can put all the labels on it that you want, a [choropleth map](https://en.wikipedia.org/wiki/Choropleth_map) will always show you area.
 
 So what if the map doesn't exactly show me votes, you say, how much of a difference could it possible make? How many square miles are there per electoral vote in the different states? Does that number differ in a meaningful way?
 
 Why yes, it does. Alaska has a staggering 190,214 square miles per electoral vote, four times that of the next state, Montana! And it doesn't stop there. California, which has the most electoral votes (55) has 2,832 square miles per vote – less than one in 67 compared to Alaska with its three votes (or 1 in 17 compared to Montana, same number of votes)!
 
-All the way down the list, we find the District of Columbia, with 20 square miles per electoral vote. The factor between Alaska and D.C. is almost 10,000! Four orders of magnitude! And they both have the same number of electoral votes, too. Yet one is <em>ten thousand times the size</em> on a map, and it often gets distorted way beyond that due to the popular Mercator projection.
+All the way down the list, we find the District of Columbia, with 20 square miles per electoral vote. The factor between Alaska and D.C. is almost 10,000! Four orders of magnitude! And they both have the same number of electoral votes, too. Yet one is *ten thousand times the size* on a map, and it often gets distorted way beyond that due to the popular Mercator projection.
 
 This is not a trivial difference, and there is nothing you can do to account for that difference other than not use a map. Transparency, blending colors, nothing will be able to account for a factor of 10,000 between what is being shown and what the data actually represents.
 

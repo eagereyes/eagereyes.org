@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png" border="0" alt="An Explorer for Data.gov" width="540" height="293" /></p>
 
-<a href="http://www.data.gov/">Data.gov</a>'s selection of data is slowly growing, but even with less than 300 datasets, it is difficult to keep an overview of what is there. Below is a little Java applet that provides a way to drill down into data.gov's catalog using a variety of categories: reporting agency, geographic coverage, frequency, data type, etc. Besides giving a better idea what is there, it also shows a number of inconsistencies that make finding data more difficult.
+[Data.gov](http://www.data.gov/)'s selection of data is slowly growing, but even with less than 300 datasets, it is difficult to keep an overview of what is there. Below is a little Java applet that provides a way to drill down into data.gov's catalog using a variety of categories: reporting agency, geographic coverage, frequency, data type, etc. Besides giving a better idea what is there, it also shows a number of inconsistencies that make finding data more difficult.
 
 The applet is represented by the little box below, which might be white or dark gray, depending on your browser and operating system. Once it says "Done," it has downloaded the catalog and you can open the actual browser by clicking on the button.
 
@@ -18,8 +18,8 @@ For technical reasons, the data is cached on my server (because an applet can on
 
 The data has been cleaned slightly to make it a bit easier to use in the lists. The program removes leading and trailing whitespace, and ignores case in comparison. It's fascinating how many ways you can write "annual," and that's not even counting variations like "updated annually."
 
-Even with that, there are still a lot of obvious problems. The geographic coverage dimension reads almost like a thesaurus: there's <em>Continental United States</em>, <em>Continental US</em>, <em>Conterminous US</em>, and <em>Coterminous US</em>, and then there are another eight or so ways to describe the entire US, or the US plus its possessions.
+Even with that, there are still a lot of obvious problems. The geographic coverage dimension reads almost like a thesaurus: there's *Continental United States*, *Continental US*, *Conterminous US*, and *Coterminous US*, and then there are another eight or so ways to describe the entire US, or the US plus its possessions.
 
 Update: Interestingly, they seem to have updated the categories. There are no more contiguous US categories, and only three "entire US" ones. The frequency dimension is also reduced from 30 or so to only a few.
 
-While I believe that it was a good idea to get the site off the ground (and <a href="/blog/2009/dish-best-served-raw">make some raw data available</a>) rather than spend years to come up with the perfect taxonomy, this little experiment shows what happens when data from different sources is simply put into one place without too much though. If data.gov is really going to grow like expected (there were supposed to be 100,000 datasets there by the end of last week), this will become an ever bigger problem. The search and very limited browsing on the site will likely become entirely useless.
+While I believe that it was a good idea to get the site off the ground (and [make some raw data available](/blog/2009/dish-best-served-raw)) rather than spend years to come up with the perfect taxonomy, this little experiment shows what happens when data from different sources is simply put into one place without too much though. If data.gov is really going to grow like expected (there were supposed to be 100,000 datasets there by the end of last week), this will become an ever bigger problem. The search and very limited browsing on the site will likely become entirely useless.

@@ -4,11 +4,11 @@
 
 Pie charts are a ubiquitous way of showing percentages. But while we can see differences in angles quite well, reading the meaning of the difference is another matter, so for precise data, we still need the numbers. A little known variant of pie charts is not round, but square, and can be read with an accuracy of one percent. We will look at data on women in information technology using this method.
 
-The <a href="http://ncwit.org/">National Center for Women and Information Technology (NCWIT)</a> publishes a very impressive <a href="http://www.ncwit.org/pdf/2006_NCWIT_Statistics.pdf">one-page summary of the under-representation of women in IT</a> (PDF). We all know, of course, how few women there are in IT, especially in leading positions. But seeing the actual numbers is still shocking. The graphics here use parts of that summary to compare numbers and charts.
+The [National Center for Women and Information Technology (NCWIT)](http://ncwit.org/) publishes a very impressive [one-page summary of the under-representation of women in IT](http://www.ncwit.org/pdf/2006_NCWIT_Statistics.pdf) (PDF). We all know, of course, how few women there are in IT, especially in leading positions. But seeing the actual numbers is still shocking. The graphics here use parts of that summary to compare numbers and charts.
 
 <p align="center"><img title="Women in the IT workforce (based on NCWIT)" src="https://media.eagereyes.org/media/attachments/NCWIT-Workforce.png" alt="Women in the IT workforce (based on NCWIT)" width="477" height="244" border="0" /></p>
 
-Square pie charts are a technique that I have so far only seen in the book <em>Diagram Collection</em>, without much description (the image at the very top is a scan from the book). But the principle is really very simple: a square is divided into 10x10 fields, and for each number, as many fields are filled in as there are percent. Consequently, the numbers remain readable by simply counting the number of fields covered by one color. Taking a hint from squarified treemaps, the areas should also be as square as possible for better comparability. Square pies are quite compact, the ones in the images on this page are only 50x50 pixels.
+Square pie charts are a technique that I have so far only seen in the book *Diagram Collection*, without much description (the image at the very top is a scan from the book). But the principle is really very simple: a square is divided into 10x10 fields, and for each number, as many fields are filled in as there are percent. Consequently, the numbers remain readable by simply counting the number of fields covered by one color. Taking a hint from squarified treemaps, the areas should also be as square as possible for better comparability. Square pies are quite compact, the ones in the images on this page are only 50x50 pixels.
 
 <p align="center"><img title="Women in advanced placement exams in IT - based on NCWIT" src="https://media.eagereyes.org/media/attachments/NCWIT-AdvancedPlacement.png" alt="Women in advanced placement exams in IT - based on NCWIT" width="505" height="176" border="0" /></p>
 
@@ -26,6 +26,6 @@ There is certainly more to be said about showing more than one value in a square
 
 Is this visualization? Probably not, because it lacks any kind of interaction. It is more a charting technique like pie charts, which can of course be used as a part of a visualization, with added interaction, etc. But it certainly is an interesting variation on existing techniques, and may offer some insight into how to structure visual metaphors for visualization more effectively.
 
-<hr />
+---
 
-<em>Juice Analytics</em> has picked up the idea of square pie charts and made it into a <a href="http://www.juiceanalytics.com/writing/squaring-the-pie/">challenge to implement them in Excel</a>. There are some very <a href="http://www.juiceanalytics.com/writing/solving-the-pie/">interesting submissions and a great screencast</a> explaining two of them.
+*Juice Analytics* has picked up the idea of square pie charts and made it into a [challenge to implement them in Excel](http://www.juiceanalytics.com/writing/squaring-the-pie/). There are some very [interesting submissions and a great screencast](http://www.juiceanalytics.com/writing/solving-the-pie/) explaining two of them.

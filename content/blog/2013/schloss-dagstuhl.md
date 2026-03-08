@@ -1,10 +1,10 @@
 # Schloß Dagstuhl
 
-For many computer science researchers, the name <em>Dagstuhl</em> rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?
+For many computer science researchers, the name *Dagstuhl* rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?
 
-<a href="http://www.dagstuhl.de">Schloß Dagstuhl</a> is a castle in Germany’s Saarland region, close to the border with France. It’s easy to reach from nearly anywhere, and yet remote enough to keep people there for an entire week. That is important to foster interaction and discussions outside the formal sessions.
+[Schloß Dagstuhl](http://www.dagstuhl.de) is a castle in Germany’s Saarland region, close to the border with France. It’s easy to reach from nearly anywhere, and yet remote enough to keep people there for an entire week. That is important to foster interaction and discussions outside the formal sessions.
 
-The castle <a href="http://www.dagstuhl.de/ueber-dagstuhl/geschichte/">originally dates from the 18th century</a>, and was turned into a conference venue in the early 1990s. The old building was completely remodeled on the inside, and a new building was added that houses most of the bedrooms, the main seminar room, and a well-stocked library. There are many different places to hang out, including a billiards room, a music room, and a wine cellar.
+The castle [originally dates from the 18th century](http://www.dagstuhl.de/ueber-dagstuhl/geschichte/), and was turned into a conference venue in the early 1990s. The old building was completely remodeled on the inside, and a new building was added that houses most of the bedrooms, the main seminar room, and a well-stocked library. There are many different places to hang out, including a billiards room, a music room, and a wine cellar.
 
 <p align="center"><img class="aligncenter size-full wp-image-2371" alt="Schloß Dagstuhl" src="https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-teaser.jpg" width="600" height="401" /></p>
 
@@ -16,7 +16,7 @@ Not content with people mingling and mixing during off-hours, the staff at Dagst
 
 The talks are also different from what you would see at a conference. The idea is to present challenges and work in progress, not results. This sometimes works well, but it can also be a challenge to do that – we just don’t tend to talk about unfinished work in front of audiences.
 
-But when you're among the first to see something unexpected and new, it can be magical. My fondest Dagstuhl memory is a talk by Jarke van Wijk in 2007. He had submitted a very bland title that didn’t promise anything specific. But he then unveiled his <a href="http://www.win.tue.nl/~vanwijk/myriahedral/">myriahedral maps</a>, which were simply astounding (the linked page doesn't quite do them justice, make sure to watch the video and look at <a href="http://www.win.tue.nl/~vanwijk/myriahedral/CAJ103.pdf">the journal article</a>).
+But when you're among the first to see something unexpected and new, it can be magical. My fondest Dagstuhl memory is a talk by Jarke van Wijk in 2007. He had submitted a very bland title that didn’t promise anything specific. But he then unveiled his [myriahedral maps](http://www.win.tue.nl/~vanwijk/myriahedral/), which were simply astounding (the linked page doesn't quite do them justice, make sure to watch the video and look at [the journal article](http://www.win.tue.nl/~vanwijk/myriahedral/CAJ103.pdf)).
 
 <p align="center"><img class="aligncenter size-full wp-image-2370" alt="Schloß Dagstuhl in the snow" src="https://media.eagereyes.org/wp-content/uploads/2013/05/dagstuhl-snow.jpg" width="600" height="400" /></p>
 

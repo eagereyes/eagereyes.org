@@ -1,6 +1,5 @@
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/lines-teaser.png" width="960" height="540" /></p>
 
-
 # All (Line) Charts are Wrong, But Some Are Useful
 
 Line charts are one of the most common and useful charts out there. But why draw straight lines between the data points? They almost never represent what the data is actually doing, no matter if the data is single observations or aggregated over time. How do line charts actually work, and what do they imply about the data?
@@ -31,11 +30,11 @@ This is what smooth transitions would look like:
 
 This would be the most reasonable chart of this data (other than the pure dots). What is so surprising about this is that nobody draws line charts like this. Why not? The typical argument is that such a smoothed line is just made up data! But the same is true of straight lines. Straight lines might seem more straightforward, but they're basically always wrong. Temperatures do not change in that way. Any reasonably smooth approximation is going to be a much more realistic picture of what is actually happening.
 
-<em>But</em>, you object, <em>nobody is fooled by the lines</em>! People surely understand that the lines are just connecting the dots, not representing data. Perhaps, but then why insist on straight lines?
+*But*, you object, *nobody is fooled by the lines*! People surely understand that the lines are just connecting the dots, not representing data. Perhaps, but then why insist on straight lines?
 
 The lines between the points either matter or they do not. If they matter, why insist on them being straight? No natural process behaves like that. And if they don't matter, then there is no reason to not draw the more realistic smoothed lines.
 
-If you're familiar with sampling theory, here's another argument for the smooth line: if we <a href="https://en.wikipedia.org/wiki/Nyquist_rate">chose our sampling interval to be fast enough</a> to pick up the fastest changes, then the smooth transitions reconstruct the actual behavior perfectly. And if we didn't, it's still the best approximation we have without making up data that doesn't exist (or bringing in some other knowledge) to force the straight lines.
+If you're familiar with sampling theory, here's another argument for the smooth line: if we [chose our sampling interval to be fast enough](https://en.wikipedia.org/wiki/Nyquist_rate) to pick up the fastest changes, then the smooth transitions reconstruct the actual behavior perfectly. And if we didn't, it's still the best approximation we have without making up data that doesn't exist (or bringing in some other knowledge) to force the straight lines.
 
 ## Aggregated Values: Sales per Month
 
@@ -57,7 +56,7 @@ If this looks like a different kind of chart, you might be thinking of this:
 
 <p align="center"><img src="https://media.eagereyes.org/wp-content/uploads/2020/11/dates-bars.png" alt="" class="wp-image-61128" width="660" height="372" /></p>
 
-Yes, a bar chart. Now I don't argue for bar charts lightly (I have a really strong aversion to the <em>everything should be a bar chart</em> school of thinking), but it's a more meaningful chart (other than the dots above). How would lines connecting the points make any sense here other than to make a nicer, more connected-looking chart?
+Yes, a bar chart. Now I don't argue for bar charts lightly (I have a really strong aversion to the *everything should be a bar chart* school of thinking), but it's a more meaningful chart (other than the dots above). How would lines connecting the points make any sense here other than to make a nicer, more connected-looking chart?
 
 The lines either matter or they don't. If they matter, they need to be meaningful. Lines between aggregated values are not meaningful. If they don't matter, why not do away with them in favor of a chart that matches the actual semantics of the data?
 
@@ -71,4 +70,4 @@ What I'm after here is simply to get a better understanding of what these common
 
 And why the aversion to smoothed lines? The common misconception aside that smoothed is somehow more made up than straight lines, one common argument is that they can overshoot the actual values, which is often perceived as a problem. I don't understand that position, though; if the Bezier curve overshoots, that might indicate that the value really was outside the range that was observed. And it might mean that more observations are needed. Instead of forcing a meaningless straight line to paper over the problem, why not figure out what is really happening? Either way, the data and the chart are not fully capturing the phenomenon they're supposed to represent.
 
-Perhaps it's time we started thinking about visualization and charts more like statisticians think about their models. <a href="https://en.wikipedia.org/wiki/All_models_are_wrong">An aphorism attributed to George Box</a> states that <em>all models are wrong, but some are useful</em>. In the same vain, I propose that <em>all charts are wrong, but some are useful</em>.
+Perhaps it's time we started thinking about visualization and charts more like statisticians think about their models. [An aphorism attributed to George Box](https://en.wikipedia.org/wiki/All_models_are_wrong) states that *all models are wrong, but some are useful*. In the same vain, I propose that *all charts are wrong, but some are useful*.
