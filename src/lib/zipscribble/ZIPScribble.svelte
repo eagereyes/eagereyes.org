@@ -6,7 +6,7 @@
 	import { tweened } from 'svelte/motion';
 	import { untrack } from 'svelte';
 
-	let { x = 0, y = 0, width, height, zipCodes, states, zoomRange, highlightRange, zoomEnabled = true } = $props();
+	let { x = 0, y = 0, width, height, zipCodes, states, zoomRange, highlightRange, zoomEnabled = true, showBaseMap = true } = $props();
 	
 	let view = $state();
 	let interpolator = $state();
@@ -111,11 +111,13 @@
 
 {#if zipCodes && view}
 <g transform={makeTransform($t)}>
-	{#each states as statePolys}
-		{#each statePolys.geo as p}
-			<path d={makePath(p)} class="state" />
+	{#if showBaseMap}
+		{#each states as statePolys}
+			{#each statePolys.geo as p}
+				<path d={makePath(p)} class="state" />
+			{/each}
 		{/each}
-	{/each}
+	{/if}
 	{#if zoomRange && zoomRange.length > 0}
 		<path d={fullPath} class="background" />
 	{/if}

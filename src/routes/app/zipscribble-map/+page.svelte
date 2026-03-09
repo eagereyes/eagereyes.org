@@ -53,6 +53,7 @@
 	let country = $state('US');
 	let container = $state();
 	let zoomEnabled = $state(true);
+	let showBaseMap = $state(true);
 
 	onMount(() => {
 		country = countryFromHash();
@@ -72,6 +73,7 @@
 
 	function onKeydown(e) {
 		if (e.key === 'z') zoomEnabled = !zoomEnabled;
+		if (e.key === 'm') showBaseMap = !showBaseMap;
 		if (e.key === 'f') toggleFullscreen();
 	}
 
@@ -109,12 +111,13 @@
 			{/each}
 		</select>
 		<div class="toolbar-right">
+			<button onclick={() => showBaseMap = !showBaseMap} class:active={showBaseMap}>🗺 Map</button>
 			<button onclick={() => zoomEnabled = !zoomEnabled} class:active={zoomEnabled}>🔍 Zoom</button>
 			<button onclick={toggleFullscreen}>&#x26F6; Fullscreen</button>
 		</div>
 	</div>
 	<div class="map-container" bind:this={container}>
-		<App {country} {zoomEnabled} />
+		<App {country} {zoomEnabled} {showBaseMap} />
 	</div>
 </div>
 

@@ -2,7 +2,7 @@
 // @ts-nocheck
 	import { geoMercator, geoPath } from 'd3-geo';
 
-	let { geoData, worldData = null, width, height } = $props();
+	let { geoData, worldData = null, width, height, showBaseMap = true } = $props();
 
 	const PADDING = 24;
 
@@ -33,9 +33,11 @@
 
 {#if scribblePaths.length > 0}
 <g>
-	{#each basePaths as d}
-		<path {d} class="country" />
-	{/each}
+	{#if showBaseMap}
+		{#each basePaths as d}
+			<path {d} class="country" />
+		{/each}
+	{/if}
 	{#each scribblePaths as d}
 		<path {d} class="scribble" />
 	{/each}
