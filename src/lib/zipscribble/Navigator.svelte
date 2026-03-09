@@ -27,10 +27,15 @@
 
 		document.onkeydown = e => {
 			if (e.key >= '0' && e.key <= '9') {
-				setActiveDigit(+e.key);
+				if (+e.key === activeFirst) {
+					setActiveDigit(-1);
+				} else {
+					setActiveDigit(+e.key);
+				}
 			} else {
 				switch(e.key) {
 					case 'x':
+					case ' ':
 						setActiveDigit(-1);
 					break;
 					case "ArrowLeft":
