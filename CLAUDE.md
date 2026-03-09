@@ -6,6 +6,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 eagereyes.org is a personal website about data visualization and visual communication by Robert Kosara. It's a SvelteKit static site that renders blog posts from Markdown files.
 
+## Workflow
+
+Do not `git push` unless explicitly asked to.
+
 ## Commands
 
 ```bash
