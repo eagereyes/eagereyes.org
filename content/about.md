@@ -4,15 +4,15 @@ description: About this site and its author, Robert Kosara. Also how to contact 
 
 # About EagerEyes
 
-EagerEyes is my (Robert Kosara)’s place to reflect on the world of information visualization and visual communication of data. The goal is to help digest things that are happening in the field and discuss new developments. The audience has always been both the academic community and anybody with an interest in visual communication with data: practitioners, artists, designers, etc.
+EagerEyes is Robert Kosara’s place to reflect on the world of information visualization and visual communication of data. The goal is to help digest things that are happening in the field and discuss new developments. The audience has always been both the academic community and anybody with an interest in visual communication with data: practitioners, artists, designers, etc.
 
 ## The Site
 
-This is really a personal blog, even though I always wanted to make sure that the posts have lasting value. There is a relatively small number of posts with a limited shelf life (which are now archived, see below), but the majority should be as relevant as on the day they were published – even if that's 10, 15, or 20 years ago.
+This is really a personal blog, even though I always wanted to make sure that the posts have lasting value. A handful of posts haven't aged well (which are now archived, see below), but the majority should be as relevant as on the day they were published – even if that's 10, 15, or 20 years ago.
 
-EagerEyes has gone through a number of reorganizations and platform changes. In the most recent one (March 2026), I marked a posts that seem outdated as archived. They are still on the site, but they are hidden by default in lists. They can be shown with a button at the top of the list (they also show up in searches).
+EagerEyes has gone through a number of reorganizations and platform changes. In the most recent one (March 2026), I marked posts that seemed outdated as archived. They are still on the site, but they are hidden by default in lists. They can be shown with a button at the top of the list (they also show up in searches).
 
-The site allowed comments until early 2020, but they were turned off with the switch to a static site generator. The world has also shifted dramatically from the early 2000s and 2010s, when people would comment on blog posts. Old comments are preserved, but new ones can't be added for the time being (and likely never will be again).
+The site allowed comments until early 2020, but they were turned off with the switch to a static site generator. The world has also shifted dramatically from the early 2000s and 2010s, when people would comment on blog posts. Old comments are preserved, but new ones can't be added for the time being.
 
 ## How to Subscribe and/or Follow
 
@@ -38,4 +38,4 @@ All original content on this site is licensed under a [Creative Commons CC-BY-4.
 
 ## Legal Disclaimer
 
-EagerEyes is Robert’s personal property and not affiliated with Metabase, Observable, Tableau Software, Salesforce, UNC Charlotte, or any other entity. The postings here are based on my own opinions and views, and do not reflect those of my employer or anybody else.
+EagerEyes is Robert’s personal site and not affiliated with Metabase, Observable, Tableau Software, Salesforce, UNC Charlotte, or any other entity. The postings here are based on my own opinions and views, and do not reflect those of my employer or anybody else.
