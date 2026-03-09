@@ -11,7 +11,7 @@
 	import Title from './Title.svelte';
 	import CountryScribble from './CountryScribble.svelte';
 
-	let { country = 'US' } = $props();
+	let { country = 'US', zoomEnabled = true } = $props();
 
 	const ZIPSFILENAME = `${base}/zipscribble-data/us-lower48.csv`;
 	const STATESFILENAME = `${base}/zipscribble-data/us-states-20m.json`;
@@ -198,7 +198,7 @@
 		{#if country === 'US' && zipCodes}
 			<ZIPScribble width={SVGWIDTH} height={SVGHEIGHT-60-TITLEHEIGHT} y={TITLEHEIGHT}
 				{zipCodes} {states}
-				{zoomRange} {highlightRange} />
+				{zoomRange} {highlightRange} {zoomEnabled} />
 			<Title width={SVGWIDTH} height={TITLEHEIGHT}
 				{title} {subtitle} />
 			<Navigator y={SVGHEIGHT-60} width={SVGWIDTH}

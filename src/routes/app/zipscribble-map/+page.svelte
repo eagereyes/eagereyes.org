@@ -52,6 +52,7 @@
 
 	let country = $state('US');
 	let container = $state();
+	let zoomEnabled = $state(true);
 
 	onMount(() => {
 		country = countryFromHash();
@@ -69,6 +70,11 @@
 		}
 	}
 
+	function onKeydown(e) {
+		if (e.key === 'z') zoomEnabled = !zoomEnabled;
+		if (e.key === 'f') toggleFullscreen();
+	}
+
 	function toggleFullscreen() {
 		if (!document.fullscreenElement) {
 			container.requestFullscreen();
@@ -77,6 +83,8 @@
 		}
 	}
 </script>
+
+<svelte:window onkeydown={onKeydown} />
 
 <svelte:head>
 	<title>The ZIPScribble Map</title>
@@ -100,10 +108,13 @@
 				<option value={c.code}>{c.name}</option>
 			{/each}
 		</select>
-		<button onclick={toggleFullscreen}>&#x26F6; Fullscreen</button>
+		<div class="toolbar-right">
+			<button onclick={() => zoomEnabled = !zoomEnabled} class:active={zoomEnabled}>🔍 Zoom</button>
+			<button onclick={toggleFullscreen}>&#x26F6; Fullscreen</button>
+		</div>
 	</div>
 	<div class="map-container" bind:this={container}>
-		<App {country} />
+		<App {country} {zoomEnabled} />
 	</div>
 </div>
 
@@ -119,6 +130,11 @@
 		justify-content: space-between;
 		align-items: center;
 		padding: 0.5rem 1rem;
+	}
+
+	.toolbar-right {
+		display: flex;
+		gap: 0.5rem;
 	}
 
 	.about-link {
@@ -162,6 +178,12 @@
 
 	.toolbar button:hover {
 		background-color: color-mix(in srgb, var(--color-theme-1) 10%, transparent);
+		color: var(--color-theme-1);
+		border-color: var(--color-theme-1);
+	}
+
+	.toolbar button.active {
+		background-color: color-mix(in srgb, var(--color-theme-1) 15%, transparent);
 		color: var(--color-theme-1);
 		border-color: var(--color-theme-1);
 	}

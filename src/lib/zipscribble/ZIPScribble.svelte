@@ -6,7 +6,7 @@
 	import { tweened } from 'svelte/motion';
 	import { untrack } from 'svelte';
 
-	let { x = 0, y = 0, width, height, zipCodes, states, zoomRange, highlightRange } = $props();
+	let { x = 0, y = 0, width, height, zipCodes, states, zoomRange, highlightRange, zoomEnabled = true } = $props();
 	
 	let view = $state();
 	let interpolator = $state();
@@ -30,9 +30,10 @@
 	});
 
 	$effect(() => {
-		const range = zoomRange, zips = zipCodes;
+		const range = zoomRange, zips = zipCodes, zoom = zoomEnabled;
 		untrack(() => {
-			if (range) subsetZIPs(zips, range);
+			if (range && zoom) subsetZIPs(zips, range);
+			else if (range && !zoom) animateTo(zips);
 		});
 	});
 
@@ -67,6 +68,19 @@
 		currentAlpha.set(1, {duration: interpolator ? interpolator.duration/2 : 200});
 
 		return newView;
+	}
+
+	function animateTo(zips) {
+		const xExt = extent(zips, z => z.lon_proj);
+		const yExt = extent(zips, z => z.lat_proj);
+		const size = xExt[1]-xExt[0] > (yExt[1]-yExt[0]) * (width/height) ? (xExt[1]-xExt[0]) * (height/width) : yExt[1]-yExt[0];
+		const newView = [(xExt[0]+xExt[1])/2, (yExt[0]+yExt[1])/2, size * 1.05];
+		if (view) {
+			interpolator = interpolateZoom(view, newView);
+			t.set(0, {duration: 0});
+			t.set(1, {duration: interpolator.duration/2});
+		}
+		view = newView;
 	}
 
 	function subsetZIPs(zips, range) {
