@@ -101,17 +101,18 @@
         <aside>
             {@html parse(data.comments)}
         </aside>
-        {#if data.meta?.archived}
-            <p class="commentscomment">Posting new comments was disabled in 2020.</p>
-        {/if}
+        <p class="commentscomment">Posting new comments was disabled in 2020.</p>
     </details>
 {/if}
 
-{#if data.meta && !data.meta.archived}
+{#if data.meta && !data.meta.archived && parseInt(data.meta.date) >= 2026}
     <hr />
     <div class="comments-details">
         <CommentForm slug="{data.meta.date.substring(0, 4)}/{data.meta.slug}" />
     </div>
+{:else if data.meta && !data.meta.archived && !data.numComments}
+    <hr />
+    <p class="comments-details commentscomment">Comments are only open on posts from 2026 onward.</p>
 {/if}
 
 {/if}
