@@ -3,6 +3,7 @@
 import BlogList from "$lib/BlogList.svelte";
 import VideoList from "$lib/VideoList.svelte";
 import AppList from "$lib/AppList.svelte";
+import GalleryList from "$lib/GalleryList.svelte";
 
 import type { PageProps } from './$types';
 
@@ -28,9 +29,17 @@ let { data }: PageProps = $props();
 		<section class="videos">
 			<h1 class="section-header"><a href="/video/">Videos</a></h1>
 			<div>
-				<VideoList videos={data.videos} numVideos={5} useHeading={false} />
+				<VideoList videos={data.videos} numVideos={3} useHeading={false} />
 			</div>
 			<a href="/video/" class="more">More…</a>
+		</section>
+
+		<section class="photos">
+			<h1 class="section-header"><a href="/photos/">Photos</a></h1>
+			<div>
+				<GalleryList galleries={data.galleries} useHeading={false} />
+			</div>
+			<a href="/photos/" class="more">More…</a>
 		</section>
 
 		<section class="apps">
@@ -61,8 +70,17 @@ let { data }: PageProps = $props();
 
 	.more {
 		display: block;
-		margin-top: 1em;
+		margin-top: 0.25em;
 		text-align: right;
+		font-size: 0.85rem;
+		color: var(--color-text);
+		text-decoration: none;
+		opacity: 0.6;
+	}
+
+	.more:hover {
+		opacity: 1;
+		color: var(--color-theme-1);
 	}
 
 	.section-header a {
@@ -90,8 +108,15 @@ let { data }: PageProps = $props();
 		flex-direction: column;
 	}
 
+	.photos {
+		border-top: 1px solid var(--color-border);
+		margin-top: 1.5em;
+		padding-top: 1em;
+	}
+
 	.apps {
 		border-top: 1px solid var(--color-border);
+		margin-top: 1.5em;
 		padding-top: 1em;
 	}
 
