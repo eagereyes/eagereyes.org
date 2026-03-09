@@ -197,7 +197,7 @@
         width: 100%;
         height: auto;
         border-radius: 4px;
-        border: 1px solid var(--color-border);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
         display: block;
     }
 
@@ -296,7 +296,7 @@
         flex-shrink: 0;
         width: 200px;
         border-radius: 3px;
-        border: 1px solid var(--color-border);
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
         display: block;
     }
 
