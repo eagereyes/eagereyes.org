@@ -7,7 +7,7 @@
     let { data }: PageProps = $props();
 
     let lightboxIndex = $state(-1);
-    let flatPhotos = $derived<Photo[]>(data.gallery.photos.flat());
+    let flatPhotos = $derived<Photo[]>(data.gallery.photos.flatMap(row => Array.isArray(row) ? row : [row]));
 </script>
 
 <svelte:head>
@@ -31,8 +31,9 @@
 
     <div class="photo-rows">
         {#each data.gallery.photos as row}
-            <div class="photo-row" class:pair={row.length === 2}>
-                {#each row as photo}
+            {@const rowPhotos = Array.isArray(row) ? row : [row]}
+            <div class="photo-row" class:pair={rowPhotos.length === 2}>
+                {#each rowPhotos as photo}
                     <figure class="photo-figure"
                         role="button"
                         tabindex="0"

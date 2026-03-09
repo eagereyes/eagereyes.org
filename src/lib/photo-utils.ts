@@ -9,7 +9,7 @@ export interface Gallery {
     description: string;
     featuredImage: string;
     date: string;
-    photos: Photo[][];
+    photos: (Photo | Photo[])[];
 }
 
 export const blankGallery: Gallery = {

@@ -30,7 +30,7 @@ Blog content lives outside `src/` in two places:
 - `content/blog/<year>/<slug>+++comments.md` — comments for posts that have them (keyed by `comments > 0` in meta)
 - `content/videos.json` — video metadata (slug, title, description, ytslug, blogpost, date)
 - `content/papers.json` — academic paper metadata
-- `content/photos.json` — photo gallery metadata (slug, title, description, featuredImage, date, photos: `Photo[][]`)
+- `content/photos.json` — photo gallery metadata (slug, title, description, featuredImage, date, photos: `(Photo | Photo[])[]`)
 - `content/apps.json` — app metadata (slug, title, description, image, url)
 
 Blog posts are plain Markdown (no frontmatter). All metadata is in `blog-meta.json`, not the files themselves.
@@ -93,7 +93,7 @@ The `tagNames` map in `src/lib/blog-utils.ts` maps tag slugs to display names. T
 
 ### Photo Galleries
 
-Photos are stored in `content/photos.json` as an array of `Gallery` objects. Each gallery has a `photos` field that is a `Photo[][]` — a 2D array of rows, where each row is 1 or 2 photos (`{ src, alt }`). The gallery detail page flattens this to a `Photo[]` for the lightbox using `data.gallery.photos.flat()`.
+Photos are stored in `content/photos.json` as an array of `Gallery` objects. Each gallery has a `photos` field typed as `(Photo | Photo[])[]` — a list of rows where a single photo is a plain `{ src, alt }` object and a pair is a two-element array. The gallery detail page normalizes rows with `Array.isArray(row) ? row : [row]` and flattens to `Photo[]` for the lightbox using `flatMap`.
 
 The `Lightbox` component is stateless — the parent (`+page.svelte`) owns `lightboxIndex` as `$state(-1)` and passes it as `index`. The lightbox uses `$effect` to toggle `document.body.style.overflow = 'hidden'` while open (always returns cleanup). `<svelte:window onkeydown>` is at the component top level (not inside `{#if}`) with an early-return guard when `index < 0`.
 
