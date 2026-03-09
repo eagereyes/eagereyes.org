@@ -88,12 +88,12 @@
         display: flex;
         flex-direction: column;
         align-items: center;
-        max-width: 90vw;
+        max-width: 95vw;
     }
 
     .lightbox-content img {
-        max-width: 90vw;
-        max-height: 80vh;
+        max-width: 95vw;
+        max-height: 90vh;
         width: auto;
         height: auto;
         object-fit: contain;
