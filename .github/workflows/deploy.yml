@@ -27,6 +27,8 @@ jobs:
         run: npm i
 
       - name: build
+        env:
+          VITE_COMMENT_LAMBDA_URL: ${{ secrets.VITE_COMMENT_LAMBDA_URL }}
         run: |
           npm run build
 

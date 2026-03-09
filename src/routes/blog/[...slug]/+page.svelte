@@ -4,6 +4,7 @@
     import { tagNames } from '$lib/blog-utils';
     import BlogList from '$lib/BlogList.svelte';
     import Sidebar from '$lib/Sidebar.svelte';
+    import CommentForm from '$lib/CommentForm.svelte';
 
     import { parse } from 'marked';
 
@@ -100,8 +101,17 @@
         <aside>
             {@html parse(data.comments)}
         </aside>
-        <p class="commentscomment">Posting new comments was disabled in 2020.</p>
+        {#if data.meta?.archived}
+            <p class="commentscomment">Posting new comments was disabled in 2020.</p>
+        {/if}
     </details>
+{/if}
+
+{#if data.meta && !data.meta.archived}
+    <hr />
+    <div class="comments-details">
+        <CommentForm slug="{data.meta.date.substring(0, 4)}/{data.meta.slug}" />
+    </div>
 {/if}
 
 {/if}

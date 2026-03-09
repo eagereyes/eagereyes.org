@@ -1,0 +1,4 @@
+dist/
+function.zip
+.env
+node_modules/
