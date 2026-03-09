@@ -12,7 +12,7 @@ This is really a personal blog, even though I always wanted to make sure that th
 
 EagerEyes has gone through a number of reorganizations and platform changes. In the most recent one (March 2026), I marked posts that seemed outdated as archived. They are still on the site, but they are hidden by default in lists. They can be shown with a button at the top of the list (they also show up in searches).
 
-The site allowed comments until early 2020, but they were turned off with the switch to a static site generator. The world has also shifted dramatically from the early 2000s and 2010s, when people would comment on blog posts. Old comments are preserved, but new ones can't be added for the time being.
+I've created (or I should say, Claude Code has…) a new system for submitting comments. We'll see if people are going to submit comments, after all things have changed quite a bit since the heyday of blogging in the early 2000s and 2010s. But it's a worthwhile experiment, if only because the implementation is kind of interesting.
 
 ## How to Subscribe and/or Follow
 
