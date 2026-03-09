@@ -111,6 +111,25 @@ The right column (`src/routes/+page.svelte`) stacks: **Videos** (3) → **Photos
 
 On desktop: all nav items visible. On mobile (≤768px): Apps/Videos/Photos/Papers/About collapse into a "More ▾" dropdown. The `moreActive` derived checks all collapsed paths for active highlighting. The `li[aria-current='page'] > a` selector uses `>` (direct child) to prevent dropdown items from inheriting the active highlight.
 
+### Comment System
+
+New comments are submitted via `src/lib/CommentForm.svelte`, which POSTs to an AWS Lambda (source in `lambda/`). The Lambda creates a GitHub branch, appends the comment to `content/blog/<year>/<slug>+++comments.md`, and opens a PR for moderation. Merging the PR publishes the comment on the next deploy.
+
+Comment format in `+++comments.md` files:
+```
+[Author Name](https://url) says…
+> Comment text
+
+Next Author says…
+> Their comment
+```
+
+`CommentForm` is shown on non-archived single posts; archived posts show a static "disabled" message. The form sets `loadTime = Date.now()` on mount (via `$effect`) and sends it as `_timestamp` — the Lambda rejects submissions under 3 seconds. A hidden `_hp` honeypot field is silently discarded server-side if non-empty.
+
+**Lambda** (`lambda/`): TypeScript, ESM (`"type": "module"`), compiled with `tsc` to `dist/`. Deploy: `npm run package` zips `dist/`, `node_modules/`, and `package.json` for upload to AWS Lambda (Node 22.x, 15s timeout). Env vars required: `GITHUB_TOKEN`, `GITHUB_OWNER`, `GITHUB_REPO`, `ALLOWED_ORIGIN`. CORS must also be configured at the API Gateway level (HTTP API → CORS settings), not just in Lambda response headers.
+
+`VITE_COMMENT_LAMBDA_URL` must be set at build time — locally via `.env`, in CI via a GitHub Actions secret (already wired in `.github/workflows/deploy.yml`).
+
 ### ZIPScribble App
 
 The interactive ZIPScribble map lives under `src/routes/app/zipscribble-map/` and `src/lib/zipscribble/`.
