@@ -30,6 +30,8 @@ Blog content lives outside `src/` in two places:
 - `content/blog/<year>/<slug>+++comments.md` — comments for posts that have them (keyed by `comments > 0` in meta)
 - `content/videos.json` — video metadata (slug, title, description, ytslug, blogpost, date)
 - `content/papers.json` — academic paper metadata
+- `content/photos.json` — photo gallery metadata (slug, title, description, featuredImage, date, photos: `Photo[][]`)
+- `content/apps.json` — app metadata (slug, title, description, image, url)
 
 Blog posts are plain Markdown (no frontmatter). All metadata is in `blog-meta.json`, not the files themselves.
 
@@ -39,7 +41,7 @@ Static content pages (about, contact, license, pie-charts, subscribe) live in `c
 
 | Route | Description |
 |---|---|
-| `/` | Homepage with recent blog posts and videos |
+| `/` | Homepage with recent blog posts, videos, photos, and apps |
 | `/blog/` | All posts index |
 | `/blog/<year>` | Posts filtered by year |
 | `/blog/<year>/<slug>` | Single post |
@@ -48,6 +50,10 @@ Static content pages (about, contact, license, pie-charts, subscribe) live in `c
 | `/tag/<tag>` | Posts filtered by tag |
 | `/publications/` | Papers list |
 | `/publications/<key>` | Single paper (key uses `-` instead of `:`) |
+| `/photos/` | Photo gallery index |
+| `/photos/<slug>` | Single gallery with lightbox |
+| `/photos/feed` | RSS feed for galleries |
+| `/app/zipscribble-map` | Interactive ZIPScribble map |
 | `/search` | Full-text search |
 | `/<slug>` or `/<prefix>/<slug>` | Catch-all: serves content pages or 301 redirects |
 
@@ -64,8 +70,13 @@ The `src/routes/[...slug]/+page.server.ts` catch-all handles two things:
 - `src/app.css` — global CSS variables (colors, fonts, layout widths)
 - `src/lib/blog-utils.ts` — `BlogPost` type, `tagNames` map, `formatDate()`
 - `src/lib/video-utils.ts` — `Video` type
+- `src/lib/photo-utils.ts` — `Photo` and `Gallery` types
+- `src/lib/app-utils.ts` — `App` type
 - `src/lib/BlogList.svelte` — reusable blog post list with filtering by year/tag/archived
 - `src/lib/VideoList.svelte` — reusable video list
+- `src/lib/GalleryList.svelte` — reusable gallery card list (`useHeading` prop toggles h2 vs p)
+- `src/lib/AppList.svelte` — reusable app card list
+- `src/lib/Lightbox.svelte` — fullscreen photo lightbox with keyboard nav (arrow keys, space, escape); parent owns index state; `onclose`/`onprev`/`onnext` callbacks
 - `src/lib/Sidebar.svelte` — sidebar component used on blog post pages
 
 ### CSS / Theming
@@ -79,6 +90,26 @@ Server-side load functions (`+page.server.ts`) import JSON data files directly a
 ### Tags
 
 The `tagNames` map in `src/lib/blog-utils.ts` maps tag slugs to display names. Tags not in this map fall back to the raw slug.
+
+### Photo Galleries
+
+Photos are stored in `content/photos.json` as an array of `Gallery` objects. Each gallery has a `photos` field that is a `Photo[][]` — a 2D array of rows, where each row is 1 or 2 photos (`{ src, alt }`). The gallery detail page flattens this to a `Photo[]` for the lightbox using `data.gallery.photos.flat()`.
+
+The `Lightbox` component is stateless — the parent (`+page.svelte`) owns `lightboxIndex` as `$state(-1)` and passes it as `index`. The lightbox uses `$effect` to toggle `document.body.style.overflow = 'hidden'` while open (always returns cleanup). `<svelte:window onkeydown>` is at the component top level (not inside `{#if}`) with an early-return guard when `index < 0`.
+
+The `/photos/feed` route serves an RSS feed from `src/routes/photos/feed/+server.ts`.
+
+### Apps
+
+Apps are stored in `content/apps.json`. The home page sidebar shows apps via `AppList.svelte`. Currently only the ZIPScribble Map is listed.
+
+### Home Page Sidebar
+
+The right column (`src/routes/+page.svelte`) stacks: **Videos** (3) → **Photos** (2 most recent) → **Apps**. Each section except Videos is separated by a border-top with `margin-top: 1.5em`. The "More…" links use a muted style (`opacity: 0.6`) that brightens on hover.
+
+### Header Navigation
+
+On desktop: all nav items visible. On mobile (≤768px): Apps/Videos/Photos/Papers/About collapse into a "More ▾" dropdown. The `moreActive` derived checks all collapsed paths for active highlighting. The `li[aria-current='page'] > a` selector uses `>` (direct child) to prevent dropdown items from inheriting the active highlight.
 
 ### ZIPScribble App
 
