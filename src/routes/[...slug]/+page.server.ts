@@ -5,6 +5,7 @@ import { error, redirect } from '@sveltejs/kit';
 const CONTENT_PAGES: Record<string, string> = {
     about: 'About EagerEyes',
     'pie-charts': 'Understanding Pie Charts',
+    'app/zipscribble-map/about': 'About the ZIPScribble Map',
 };
 
 const REDIRECTS: Record<string, string> = {

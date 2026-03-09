@@ -86,7 +86,7 @@
 	<meta property="og:image" content="https://media.eagereyes.org/media/og-images/zipscribble-og.png" />
 </svelte:head>
 
-<h1>The ZIPScribble Map</h1>
+<h1>The ZIPScribble Map <a href="/app/zipscribble-map/about" class="about-link">About</a></h1>
 {#if country === 'US'}
 <p>Mouse over the navigator on the bottom to show individual states and numerical ZIP code ranges.</p>
 {:else}
@@ -121,7 +121,25 @@
 		padding: 0.5rem 1rem;
 	}
 
-	.map-container {
+	.about-link {
+		font-size: 0.4em;
+		font-weight: normal;
+		color: var(--color-theme-1);
+		border: 1px solid var(--color-theme-1);
+		border-radius: 1em;
+		padding: 0.2em 0.7em;
+		vertical-align: middle;
+		margin-left: 0.6em;
+		text-decoration: none;
+		white-space: nowrap;
+	}
+
+	.about-link:hover {
+		background-color: var(--color-theme-1);
+		color: white;
+	}
+
+.map-container {
 		flex: 1;
 		min-height: 0;
 	}
