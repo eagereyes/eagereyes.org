@@ -11,7 +11,7 @@ What happens if you connect all the ZIP codes in the US in ascending order? Is t
 <img src="https://media.eagereyes.org/media/2026/zipscribble-no-bg.png" alt="ZIPScribble map of the United States"/>
 </figure>
 
-The patterns and density distribution are readily apparent, and much clearer than when only the dots are drawn. The scribbling quality of the lines (looks like somebody was bored while talking on the phone) led to the clever name for the map.
+The lines make patterns appear and emphasize the density distribution between different parts of the country. The scribbling quality of the lines (looks like somebody was bored while talking on the phone) led to the clever name for the map.
 
 There seem to be dividing lines between clusters of lines. Might those be state lines? Let's zoom in on the southeast.
 
@@ -25,19 +25,17 @@ These are all the U.S. ZIP codes starting with 3, and it appears that they span 
 <img src="https://media.eagereyes.org/media/2026/zipscribble-39xxx.png" alt="ZIPScribble map of the United States, zoomed into Florida"/>
 </figure>
 
-You can explore this yourself on [the interactive map](http://localhost:5173/app/zipscribble-map).
+You can explore all of this yourself on [the interactive map](http://localhost:5173/app/zipscribble-map).
 
 ## Inspiration
 
-The idea for the ZIPScribble came from playing with Ben Fry's excellent <a href="http://benfry.com/zipdecode/">zipdecode</a>. That little app allows you to explore the ZIP codes interactively, and reveals some very interesting patterns. What it does not give you, however, is an idea of the overall structure of the ZIP space. I wanted to see what simply connecting the dots would do.
+The idea for the ZIPScribble came from Ben Fry's excellent <a href="http://benfry.com/zipdecode/">zipdecode</a>. That little app allows you to explore the ZIP codes interactively, and reveals some very interesting patterns. What it does not give you, however, is an idea of the overall structure of the ZIP space. I wanted to see what simply connecting the dots would do.
 
-Is this visualization? Sure, because it shows data. The pictures are not interactive (though there is [an interactive version](/app/zipscribble-map)), but they do allow some insight into the patterns created by the numbers. Is it useful? Probably not. But it sure is surprising and interesting, rather like a fractal image.
-
----
+Is this visualization? Sure, because it shows data. Is it useful? Probably not. But it sure is surprising and interesting, rather like a fractal image.
 
 ## Explore the Map
 
-The [interactive ZIPScribble Map](/app/zipscribble-map) covers not just the US, but 39 countries (though the data quality seems to be a little uneven, unfortunately). Select a country to see its ZIP/postal code scribble:
+I've created ZIP/postal code scribble maps not just for the US, but 39 countries (though the data quality seems to be a little uneven, unfortunately):
 
 [Argentina](/app/zipscribble-map#AR) &middot;
 [Australia](/app/zipscribble-map#AU) &middot;
