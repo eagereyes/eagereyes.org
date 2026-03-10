@@ -1,7 +1,7 @@
 <script lang="ts">
     let { compact = false }: { compact?: boolean } = $props();
 
-    const LAMBDA_URL = import.meta.env.VITE_SUBSCRIBE_LAMBDA_URL as string;
+    const LAMBDA_URL: string = import.meta.env.VITE_SUBSCRIBE_LAMBDA_URL ?? '';
 
     let email = $state('');
     let status = $state<'idle' | 'submitting' | 'success' | 'error'>('idle');
@@ -37,6 +37,7 @@
     }
 </script>
 
+{#if LAMBDA_URL}
 <div class="subscribe-form" class:compact>
     {#if status === 'success'}
         <p class="success-message">Check your inbox for a confirmation email!</p>
@@ -75,6 +76,7 @@
         </form>
     {/if}
 </div>
+{/if}
 
 <style>
     .subscribe-form {
