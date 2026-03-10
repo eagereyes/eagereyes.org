@@ -5,33 +5,31 @@ description: What would happen if you were to connect all the ZIP codes in the U
 
 # About the ZIPScribble Map
 
-What would happen if you were to connect all the ZIP codes in the US in ascending order? Is there a system behind the assignment of ZIP codes? Are they organized in a grid? The result is surprising and much more interesting than expected.
+What happens if you connect all the ZIP codes in the US in ascending order? Is there a system behind the assignment of ZIP codes? Are they organized in a grid? The result is surprising and much more interesting than expected.
 
-The idea for the ZIPScribble came from playing with Ben Fry's excellent <a href="http://benfry.com/zipdecode/">zipdecode</a>. That little applet allows you to explore the ZIP codes interactively, and reveals some very interesting patterns. What it does not give you, however, is an idea of the overall structure of the ZIP space. Jeffrey Heer reimplemented zipdecode using his prefuse toolkit, and provides a file containing ZIP codes and coordinates. So off I went on a little programming exercise to see what simply connecting the dots would do.
+<figure>
+<img src="https://media.eagereyes.org/media/2026/zipscribble-no-bg.png" alt="ZIPScribble map of the United States"/>
+</figure>
 
-<p align="center"><img title="ZIPScribble Map b/w" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap.jpg" alt="ZIPScribble Map b/w" width="600" height="350" border="0" /></p>
-<p align="center">(<a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMap.pdf" target="_blank">ZIPScribble Map PDF</a>)</p>
+The patterns and density distribution are readily apparent, and much clearer than when only the dots are drawn. The scribbling quality of the lines (looks like somebody was bored while talking on the phone) led to the clever name for the map.
 
-The patterns and density distribution are readily apparent, and can in fact be seen much better than when only the dots are drawn. The scribbling quality of the lines (looks like somebody was bored while talking on the phone) lead to the clever name for the map. So let's enhance the map, and see if those apparent borders are in fact state lines or just artifacts.
+There seem to be dividing lines between clusters of lines. Might those be state lines? Let's zoom in on the southeast.
 
-<p align="center"><img title="ZIPScribble Map color" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color.png" alt="ZIPScribble Map color" width="600" height="350" border="0" /></p>
-<p align="center">(<a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color.pdf" target="_blank">ZIPScribble Map Color PDF</a>)</p>
+<figure>
+<img src="https://media.eagereyes.org/media/2026/zipscribble-florida.png" alt="ZIPScribble map of the United States, zoomed into Florida"/>
+</figure>
 
-Not surprisingly, some of the white lines really separate states, others don't. For the non-US folks (like yours truly), it makes sense to add state names for better readability, and also to disambiguate some problems with the rather simplistic coloring algorithm.
+These are all the U.S. ZIP codes starting with 3, and it appears that they span Georgia, Florida, Alabama, Mississippi, and Tennessee – in order of increasing numerical ZIP code. Interestingly, the ZIP codes in the 39xxx block start in Mississippi and end back in Georgia (38xxx also spans two states, Tennessee and Mississippi).
 
-<p align="center"><img title="ZIPScribble Map color, names" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names.png" alt="ZIPScribble Map color, names" width="600" height="350" border="0" /></p>
-<p align="center">(<a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names.pdf" target="_blank">ZIPScribble Map Color with Names PDF</a>)</p>
+<figure>
+<img src="https://media.eagereyes.org/media/2026/zipscribble-39xxx.png" alt="ZIPScribble map of the United States, zoomed into Florida"/>
+</figure>
 
-Adding the colors clearly adds information, but it also removes some of the mystery. The scribble quality is much more apparent from the monochrome version (nobody has lots of differently colored pens lying around). The colored version looks more interesting, but also looks much more like any other map than the monochrome version.
+You can explore this yourself on [the interactive map](http://localhost:5173/app/zipscribble-map).
 
-Since the lines between the denser areas could still be artifacts, let's add a backdrop to see if they really are state lines.
+## Inspiration
 
-<p align="center"><img title="ZIPScribble Map Color Names Borders" src="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders.png" alt="ZIPScribble Map Color Names Borders" width="600" height="350" border="0" /></p>
-<p align="center">(<a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-borders.pdf" target="_blank">ZIPScribble Map B/W with Borders</a>) (<a href="https://media.eagereyes.org/media/attachments/ZIPScribbleMap-color-names-borders.pdf" target="_blank">ZIPScribble Map Color with Borders PDF</a>)</p>
-
-Alaska and Hawaii are also included:
-
-<p align="center"><img title="ZIPScribble of Alaska and Hawaii" src="https://media.eagereyes.org/media/attachments/ZIPScribble-AKHI.png" alt="ZIPScribble of Alaska and Hawaii" width="600" height="272" border="0" /></p>
+The idea for the ZIPScribble came from playing with Ben Fry's excellent <a href="http://benfry.com/zipdecode/">zipdecode</a>. That little app allows you to explore the ZIP codes interactively, and reveals some very interesting patterns. What it does not give you, however, is an idea of the overall structure of the ZIP space. I wanted to see what simply connecting the dots would do.
 
 Is this visualization? Sure, because it shows data. The pictures are not interactive (though there is [an interactive version](/app/zipscribble-map)), but they do allow some insight into the patterns created by the numbers. Is it useful? Probably not. But it sure is surprising and interesting, rather like a fractal image.
 
@@ -39,7 +37,7 @@ Is this visualization? Sure, because it shows data. The pictures are not interac
 
 ## Explore the Map
 
-The [interactive ZIPScribble Map](/app/zipscribble-map) covers 39 countries. Select a country to see its postal code scribble:
+The [interactive ZIPScribble Map](/app/zipscribble-map) covers not just the US, but 39 countries (though the data quality seems to be a little uneven, unfortunately). Select a country to see its ZIP/postal code scribble:
 
 [Argentina](/app/zipscribble-map#AR) &middot;
 [Australia](/app/zipscribble-map#AU) &middot;
