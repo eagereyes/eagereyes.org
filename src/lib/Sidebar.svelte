@@ -1,6 +1,7 @@
 <script lang="ts">
     import { untrack } from 'svelte';
     import { tagNames } from '$lib/blog-utils';
+    import SubscribeForm from '$lib/SubscribeForm.svelte';
 
     interface Props {
         years: string[];
@@ -37,6 +38,11 @@
         {/each}
     </nav>
 {/if}
+
+<div class="subscribe-section">
+    <p class="subscribe-heading">Subscribe</p>
+    <SubscribeForm compact />
+</div>
 
 <style>
     .sidebar-tabs {
@@ -94,6 +100,22 @@
     .tag-nav a.current {
         background: color-mix(in srgb, var(--color-theme-1) 12%, transparent);
         color: var(--color-theme-1);
+    }
+
+    .subscribe-section {
+        margin-top: 1.25rem;
+        padding-top: 1.25rem;
+        border-top: 1px solid var(--color-border);
+    }
+
+    .subscribe-heading {
+        font-size: 0.75rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        opacity: 0.4;
+        margin: 0 0 0.4rem 0;
+        padding: 0 0.5rem;
     }
 
     .count {
