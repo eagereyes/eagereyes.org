@@ -134,6 +134,32 @@ Next Author says…
 
 `VITE_COMMENT_LAMBDA_URL` must be set at build time — locally via `.env`, in CI via a GitHub Actions secret (already wired in `.github/workflows/deploy.yml`).
 
+### Email Subscription System
+
+Subscribers are stored in DynamoDB (`eagereyes-subscribers` table, PK: `email`, GSI: `token-index` on `token`). Each record has `confirmed` (bool), `unsubscribed` (bool), and `token` (UUID used for confirm/unsubscribe links). A special `_last_sent` record tracks the last newsletter slug to prevent duplicate sends.
+
+**Lambda** (`lambda-newsletter/`): same TypeScript/ESM/Node 22.x pattern as the comment Lambda. Single handler with path-based routing:
+- `POST /subscribe` — honeypot + 3s timing check, writes unconfirmed record, sends confirmation email via SES
+- `GET /confirm?token=` — marks confirmed, redirects to `/subscribe/confirmed`
+- `GET /unsubscribe?token=` — marks unsubscribed, returns inline HTML page
+- `POST /send` — protected by `X-Send-Key` header; if `auto:true` fetches `/blog-meta.json` from the live site, skips if same slug as `_last_sent`; sends HTML email to all confirmed subscribers
+
+CORS must be configured at the API Gateway level. `SES_FROM` supports display names: `"eagereyes news <newsletter@eagereyes.org>"`.
+
+`VITE_SUBSCRIBE_LAMBDA_URL` is the base API Gateway URL (no trailing path). The subscribe form posts to `${LAMBDA_URL}/subscribe`. Set at build time via `.env` / GitHub Actions secret.
+
+**Local scripts** (`lambda-newsletter/scripts/`, run with `npx tsx`):
+- `import.ts <emails.txt>` — bulk-import emails as unconfirmed; skips existing records
+- `send-reconfirm.ts <message.txt> "<subject>"` — sends custom intro email + confirm button to all unconfirmed
+- `stats.ts` — confirmed/unconfirmed/unsubscribed counts
+- `list.ts [confirmed|unconfirmed|unsubscribed]` — list emails with status
+
+All scripts load env vars from `lambda-newsletter/.env`. See `lambda-newsletter/SETUP.md` for full AWS setup instructions.
+
+**Site**: `src/lib/SubscribeForm.svelte` (hidden when `VITE_SUBSCRIBE_LAMBDA_URL` is unset), `src/routes/subscribe/+page.svelte`, `src/routes/subscribe/confirmed/+page.svelte`. Form is also embedded in the blog post sidebar (`src/lib/Sidebar.svelte`) and home page right column (`src/routes/+page.svelte`).
+
+Auto-newsletter: `.github/workflows/deploy.yml` has a `notify` job that runs after deploy and calls `POST /send` with `{"auto": true}`.
+
 ### ZIPScribble App
 
 The interactive ZIPScribble map lives under `src/routes/app/zipscribble-map/` and `src/lib/zipscribble/`.
