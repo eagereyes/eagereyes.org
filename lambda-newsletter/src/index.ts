@@ -245,7 +245,7 @@ async function handleSend(event: APIGatewayProxyEventV2): Promise<APIGatewayProx
         // Fetch blog-meta.json from the live site
         const metaRes = await fetch(`${SITE_URL}/blog-meta.json`);
         if (!metaRes.ok) return jsonResponse(500, { error: 'Failed to fetch blog metadata' });
-        const posts: Array<{ slug: string; title: string; description: string; date: string; archived: boolean; featuredImage?: string }> = await metaRes.json();
+        const posts = await metaRes.json() as Array<{ slug: string; title: string; description: string; date: string; archived: boolean; featuredImage?: string }>;
         const latest = posts.find(p => !p.archived);
         if (!latest) return jsonResponse(200, { ok: true, sent: 0, reason: 'No posts found' });
 
@@ -265,7 +265,7 @@ async function handleSend(event: APIGatewayProxyEventV2): Promise<APIGatewayProx
         // Manual send for a specific slug (format: "2026/post-slug")
         const metaRes = await fetch(`${SITE_URL}/blog-meta.json`);
         if (!metaRes.ok) return jsonResponse(500, { error: 'Failed to fetch blog metadata' });
-        const posts: Array<{ slug: string; title: string; description: string; date: string; archived: boolean; featuredImage?: string }> = await metaRes.json();
+        const posts = await metaRes.json() as Array<{ slug: string; title: string; description: string; date: string; archived: boolean; featuredImage?: string }>;
         const slugPart = body.slug.split('/').pop();
         const post = posts.find(p => p.slug === slugPart);
         if (!post) return jsonResponse(404, { error: 'Post not found' });
