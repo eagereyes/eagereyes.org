@@ -4,6 +4,7 @@ import BlogList from "$lib/BlogList.svelte";
 import VideoList from "$lib/VideoList.svelte";
 import AppList from "$lib/AppList.svelte";
 import GalleryList from "$lib/GalleryList.svelte";
+import SubscribeForm from "$lib/SubscribeForm.svelte";
 
 import type { PageProps } from './$types';
 
@@ -47,6 +48,11 @@ let { data }: PageProps = $props();
 			<div>
 				<AppList apps={data.apps} />
 			</div>
+		</section>
+
+		<section class="subscribe">
+			<h1 class="section-header">Subscribe</h1>
+			<SubscribeForm />
 		</section>
 	</div>
 </main>
@@ -115,6 +121,12 @@ let { data }: PageProps = $props();
 	}
 
 	.apps {
+		border-top: 1px solid var(--color-border);
+		margin-top: 1.5em;
+		padding-top: 1em;
+	}
+
+	.subscribe {
 		border-top: 1px solid var(--color-border);
 		margin-top: 1.5em;
 		padding-top: 1em;

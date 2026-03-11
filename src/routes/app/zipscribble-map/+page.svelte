@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import { onMount } from 'svelte';
 	import App from '$lib/zipscribble/App.svelte';
 
@@ -51,7 +51,7 @@
 	}
 
 	let country = $state('US');
-	let container = $state();
+	let container = $state<HTMLDivElement>();
 	let zoomEnabled = $state(true);
 	let showBaseMap = $state(true);
 
@@ -62,7 +62,7 @@
 		return () => window.removeEventListener('hashchange', onHashChange);
 	});
 
-	function setCountry(code) {
+	function setCountry(code: string) {
 		country = code;
 		if (code === 'US') {
 			history.replaceState(null, '', window.location.pathname);
@@ -71,7 +71,7 @@
 		}
 	}
 
-	function onKeydown(e) {
+	function onKeydown(e: KeyboardEvent) {
 		if (e.key === 'z') zoomEnabled = !zoomEnabled;
 		if (e.key === 'm') showBaseMap = !showBaseMap;
 		if (e.key === 'f') toggleFullscreen();
@@ -79,7 +79,7 @@
 
 	function toggleFullscreen() {
 		if (!document.fullscreenElement) {
-			container.requestFullscreen();
+			container?.requestFullscreen();
 		} else {
 			document.exitFullscreen();
 		}

@@ -16,3 +16,4 @@ node_modules
 static/search-data.json
 
 function.zip
+emails*.txt

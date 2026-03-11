@@ -29,6 +29,7 @@ jobs:
       - name: build
         env:
           VITE_COMMENT_LAMBDA_URL: ${{ secrets.VITE_COMMENT_LAMBDA_URL }}
+          VITE_SUBSCRIBE_LAMBDA_URL: ${{ secrets.VITE_SUBSCRIBE_LAMBDA_URL }}
         run: |
           npm run build
 
@@ -54,3 +55,17 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
+
+  notify:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send newsletter for new posts
+        env:
+          NEWSLETTER_SEND_KEY: ${{ secrets.NEWSLETTER_SEND_KEY }}
+          NEWSLETTER_LAMBDA_URL: ${{ secrets.NEWSLETTER_LAMBDA_URL }}
+        run: |
+          curl -sf -X POST "$NEWSLETTER_LAMBDA_URL/send" \
+            -H "Content-Type: application/json" \
+            -H "X-Send-Key: $NEWSLETTER_SEND_KEY" \
+            -d '{"auto": true}' || echo "Newsletter send skipped"

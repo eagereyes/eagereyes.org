@@ -15,7 +15,7 @@ const REDIRECTS: Record<string, string> = {
     'parallel-sets': '/publications/Kosara-TVCG-2006',
     'contact': '/about#contact',
     'license': '/about#content-license',
-    'subscribe': '/about#how-to-subscribe',
+
 
     // attention/[slug]
     'attention/banking-45-degrees': '/blog/2013/banking-45-degrees',
