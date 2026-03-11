@@ -43,7 +43,7 @@
         <p class="success-message">Check your inbox for a confirmation email!</p>
     {:else}
         {#if !compact}
-            <p class="description">Get notified when new posts are published.</p>
+            <p class="description">Get notified when new posts are published</p>
         {/if}
 
         {#if status === 'error'}
