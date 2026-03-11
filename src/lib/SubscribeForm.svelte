@@ -37,7 +37,6 @@
     }
 </script>
 
-{#if LAMBDA_URL}
 <div class="subscribe-form" class:compact>
     {#if status === 'success'}
         <p class="success-message">Check your inbox for a confirmation email!</p>
@@ -75,7 +74,6 @@
         </form>
     {/if}
 </div>
-{/if}
 
 <style>
     .subscribe-form {
