@@ -16,7 +16,7 @@ I've created (or I should say, Claude Code has…) a new system for submitting c
 
 ## How to Subscribe and/or Follow
 
-Currently, the only way to subscribe to the site is [via the feed](/feed), using an RSS reader.
+You can subscribe to the site [using the feed](/feed) and an RSS reader, or you can [subscribe to receive emails when new posts go live](/subscribe).
 
 You can also [follow me on BlueSky](https://bsky.app/profile/eagereyes.org), where I post whenever I add anything here.
 

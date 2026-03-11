@@ -9,8 +9,8 @@
 
 <h1>Subscribe</h1>
 
-<p>Enter your email address to get notified when new posts are published on eagereyes. You'll receive one email per post — no spam, no marketing, just the posts.</p>
+<p>Enter your email address to get notified when new posts are published on eagereyes.</p>
 
-<p>You can unsubscribe at any time via a link in every email.</p>
+<p>You can unsubscribe at any time using a link in each email.</p>
 
 <SubscribeForm />
