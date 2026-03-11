@@ -18,7 +18,7 @@
         errorMessage = '';
 
         try {
-            const res = await fetch(LAMBDA_URL, {
+            const res = await fetch(`${LAMBDA_URL}/subscribe`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ email, _timestamp: loadTime, _hp: '' }),
