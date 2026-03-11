@@ -190,7 +190,7 @@ async function handleConfirm(event: APIGatewayProxyEventV2): Promise<APIGatewayP
         ExpressionAttributeValues: { ':t': true, ':now': new Date().toISOString() },
     }));
 
-    return htmlResponse(302, '', { Location: `${SITE_URL}/?subscribed=1` });
+    return htmlResponse(302, '', { Location: `${SITE_URL}/subscribe/confirmed` });
 }
 
 async function handleUnsubscribe(event: APIGatewayProxyEventV2): Promise<APIGatewayProxyResultV2> {
