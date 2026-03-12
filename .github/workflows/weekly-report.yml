@@ -1,0 +1,20 @@
+name: Weekly report
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # Every Monday at 09:00 UTC
+  workflow_dispatch:        # Allow manual triggering from Actions UI
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send weekly report
+        env:
+          NEWSLETTER_SEND_KEY: ${{ secrets.NEWSLETTER_SEND_KEY }}
+          NEWSLETTER_LAMBDA_URL: ${{ secrets.NEWSLETTER_LAMBDA_URL }}
+        run: |
+          curl -sf -X POST "$NEWSLETTER_LAMBDA_URL/report" \
+            -H "Content-Type: application/json" \
+            -H "X-Send-Key: $NEWSLETTER_SEND_KEY" \
+            -d '{}' || echo "Report send failed"

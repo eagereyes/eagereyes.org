@@ -1,9 +1,14 @@
 import type { APIGatewayProxyEventV2, APIGatewayProxyResultV2 } from 'aws-lambda';
 import { Octokit } from '@octokit/rest';
+import { SESClient, SendEmailCommand } from '@aws-sdk/client-ses';
 
 const OWNER = process.env.GITHUB_OWNER ?? '';
 const REPO = process.env.GITHUB_REPO ?? '';
 const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN ?? '';
+const SES_FROM = process.env.SES_FROM ?? '';
+const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL ?? '';
+
+const ses = new SESClient({});
 const MIN_SUBMIT_MS = 3000;
 const SLUG_RE = /^\d{4}\/[\w-]+$/;
 
@@ -29,6 +34,23 @@ function formatComment(name: string, url: string, comment: string): string {
         .map((l) => `> ${l}`)
         .join('\n');
     return `${author} says…\n${lines}`;
+}
+
+function commentNotificationEmail(name: string, url: string, comment: string, slug: string, prUrl: string) {
+    const author = url ? `<a href="${url}" style="color:#8e68a0">${name}</a>` : name;
+    const preview = comment.length > 300 ? comment.slice(0, 300) + '…' : comment;
+    return {
+        subject: `New comment on: ${slug}`,
+        html: `<!DOCTYPE html><html><body style="font-family:sans-serif;max-width:560px;margin:40px auto;color:#333">
+<h2 style="color:#8e68a0;margin-bottom:4px">eagereyes</h2>
+<hr style="border:none;border-top:1px solid #eee;margin-bottom:24px">
+<p><strong>From:</strong> ${author}</p>
+<p><strong>On:</strong> ${slug}</p>
+<blockquote style="border-left:3px solid #8e68a0;margin:16px 0;padding:8px 16px;color:#555;background:#faf9fb">${preview.replace(/\n/g, '<br>')}</blockquote>
+<p><a href="${prUrl}" style="display:inline-block;padding:10px 20px;background:#8e68a0;color:white;text-decoration:none;border-radius:6px">Review PR →</a></p>
+</body></html>`,
+        text: `New comment on ${slug}\nFrom: ${name}${url ? ` (${url})` : ''}\n\n${comment}\n\nReview PR: ${prUrl}`,
+    };
 }
 
 // Support both HTTP API (v2) and REST API (v1) event shapes
@@ -151,6 +173,19 @@ export const handler = async (event: APIGatewayProxyEventV2): Promise<APIGateway
                 comment.trim(),
             ].join('\n'),
         });
+
+        // Fire-and-forget notification — never let email failure affect the commenter's response
+        if (NOTIFY_EMAIL && SES_FROM) {
+            const tmpl = commentNotificationEmail(name.trim(), url.trim(), comment.trim(), slug, pr.html_url);
+            ses.send(new SendEmailCommand({
+                Source: SES_FROM,
+                Destination: { ToAddresses: [NOTIFY_EMAIL] },
+                Message: {
+                    Subject: { Data: tmpl.subject },
+                    Body: { Html: { Data: tmpl.html }, Text: { Data: tmpl.text } },
+                },
+            })).catch(err => console.error('Notification email failed:', err));
+        }
 
         return response(200, { ok: true, pr: pr.html_url });
     } catch (err: any) {

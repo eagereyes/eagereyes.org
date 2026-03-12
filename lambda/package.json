@@ -8,7 +8,8 @@
     "package": "npm run build && cd dist && zip -r ../function.zip . && cd .. && zip -r function.zip node_modules package.json"
   },
   "dependencies": {
-    "@octokit/rest": "^21.0.2"
+    "@octokit/rest": "^21.0.2",
+    "@aws-sdk/client-ses": "^3.758.0"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.145",

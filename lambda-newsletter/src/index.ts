@@ -2,6 +2,7 @@ import type { APIGatewayProxyEventV2, APIGatewayProxyResultV2 } from 'aws-lambda
 import { DynamoDBClient } from '@aws-sdk/client-dynamodb';
 import { DynamoDBDocumentClient, GetCommand, PutCommand, UpdateCommand, QueryCommand, ScanCommand } from '@aws-sdk/lib-dynamodb';
 import { SESClient, SendEmailCommand } from '@aws-sdk/client-ses';
+import { BetaAnalyticsDataClient } from '@google-analytics/data';
 
 const TABLE = process.env.DYNAMODB_TABLE ?? '';
 const SES_FROM = process.env.SES_FROM ?? '';
@@ -9,6 +10,9 @@ const SITE_URL = process.env.SITE_URL ?? '';
 const LAMBDA_BASE_URL = process.env.LAMBDA_BASE_URL ?? '';
 const SEND_KEY = process.env.SEND_KEY ?? '';
 const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN ?? '';
+const GA_PROPERTY_ID = process.env.GA_PROPERTY_ID ?? '';
+const GA_SERVICE_ACCOUNT_KEY = process.env.GA_SERVICE_ACCOUNT_KEY ?? '';
+const REPORT_TO = process.env.REPORT_TO ?? '';
 const MIN_SUBMIT_MS = 3000;
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -328,6 +332,102 @@ async function handleSend(event: APIGatewayProxyEventV2): Promise<APIGatewayProx
     return jsonResponse(200, { ok: true, sent });
 }
 
+// --- Report ---
+
+function reportEmail(
+    confirmed: number, unconfirmed: number, unsubscribed: number,
+    views7: number, views30: number, views90: number,
+    date: string,
+): { subject: string; html: string; text: string } {
+    const fmt = (n: number) => n.toLocaleString('en-US');
+    const total = confirmed + unconfirmed + unsubscribed;
+    return {
+        subject: `eagereyes weekly report — ${date}`,
+        html: `<!DOCTYPE html><html><body style="font-family:sans-serif;max-width:560px;margin:40px auto;color:#333">
+<h2 style="color:#8e68a0;margin-bottom:4px">eagereyes</h2>
+<hr style="border:none;border-top:1px solid #eee;margin-bottom:24px">
+<h3 style="margin-bottom:8px">Subscribers</h3>
+<table style="border-collapse:collapse;width:100%">
+  <tr><td style="padding:4px 0;color:#555">Confirmed</td><td style="padding:4px 0;text-align:right;font-weight:600">${fmt(confirmed)}</td></tr>
+  <tr><td style="padding:4px 0;color:#555">Unconfirmed</td><td style="padding:4px 0;text-align:right;font-weight:600">${fmt(unconfirmed)}</td></tr>
+  <tr><td style="padding:4px 0;color:#555">Unsubscribed</td><td style="padding:4px 0;text-align:right;font-weight:600">${fmt(unsubscribed)}</td></tr>
+  <tr style="border-top:1px solid #eee"><td style="padding:6px 0;font-weight:600">Total</td><td style="padding:6px 0;text-align:right;font-weight:600">${fmt(total)}</td></tr>
+</table>
+<h3 style="margin:24px 0 8px">Pageviews</h3>
+<table style="border-collapse:collapse;width:100%">
+  <tr><td style="padding:4px 0;color:#555">Last 7 days</td><td style="padding:4px 0;text-align:right;font-weight:600">${fmt(views7)}</td></tr>
+  <tr><td style="padding:4px 0;color:#555">Last 30 days</td><td style="padding:4px 0;text-align:right;font-weight:600">${fmt(views30)}</td></tr>
+  <tr><td style="padding:4px 0;color:#555">Last 90 days</td><td style="padding:4px 0;text-align:right;font-weight:600">${fmt(views90)}</td></tr>
+</table>
+</body></html>`,
+        text: `eagereyes weekly report — ${date}\n\nSubscribers\nConfirmed: ${fmt(confirmed)}\nUnconfirmed: ${fmt(unconfirmed)}\nUnsubscribed: ${fmt(unsubscribed)}\nTotal: ${fmt(total)}\n\nPageviews\nLast 7 days: ${fmt(views7)}\nLast 30 days: ${fmt(views30)}\nLast 90 days: ${fmt(views90)}`,
+    };
+}
+
+async function handleReport(event: APIGatewayProxyEventV2): Promise<APIGatewayProxyResultV2> {
+    if (event.headers['x-send-key'] !== SEND_KEY) {
+        return jsonResponse(403, { error: 'Forbidden' });
+    }
+    if (!REPORT_TO || !SES_FROM) {
+        return jsonResponse(500, { error: 'REPORT_TO or SES_FROM not configured' });
+    }
+
+    // Subscriber counts
+    let confirmed = 0, unconfirmed = 0, unsubscribed = 0;
+    let lastKey: Record<string, unknown> | undefined;
+    do {
+        const result = await dynamo.send(new ScanCommand({
+            TableName: TABLE,
+            ExclusiveStartKey: lastKey,
+        }));
+        for (const item of result.Items ?? []) {
+            if (item.email === '_last_sent') continue;
+            if (item.unsubscribed) unsubscribed++;
+            else if (item.confirmed) confirmed++;
+            else unconfirmed++;
+        }
+        lastKey = result.LastEvaluatedKey as Record<string, unknown> | undefined;
+    } while (lastKey);
+
+    // GA4 pageviews
+    let views7 = 0, views30 = 0, views90 = 0;
+    if (GA_PROPERTY_ID && GA_SERVICE_ACCOUNT_KEY) {
+        try {
+            const credentials = JSON.parse(Buffer.from(GA_SERVICE_ACCOUNT_KEY, 'base64').toString('utf-8'));
+            const ga = new BetaAnalyticsDataClient({ credentials });
+            const property = `properties/${GA_PROPERTY_ID}`;
+            const metric = [{ name: 'screenPageViews' }];
+
+            const [r7, r30, r90] = await Promise.all([
+                ga.runReport({ property, dateRanges: [{ startDate: '7daysAgo', endDate: 'today' }], metrics: metric }),
+                ga.runReport({ property, dateRanges: [{ startDate: '30daysAgo', endDate: 'today' }], metrics: metric }),
+                ga.runReport({ property, dateRanges: [{ startDate: '90daysAgo', endDate: 'today' }], metrics: metric }),
+            ]);
+
+            views7 = parseInt(r7[0].rows?.[0]?.metricValues?.[0]?.value ?? '0', 10);
+            views30 = parseInt(r30[0].rows?.[0]?.metricValues?.[0]?.value ?? '0', 10);
+            views90 = parseInt(r90[0].rows?.[0]?.metricValues?.[0]?.value ?? '0', 10);
+        } catch (err) {
+            console.error('GA4 error:', err);
+            // Send report anyway with 0s for pageviews
+        }
+    }
+
+    const date = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+    const tmpl = reportEmail(confirmed, unconfirmed, unsubscribed, views7, views30, views90, date);
+
+    await ses.send(new SendEmailCommand({
+        Source: SES_FROM,
+        Destination: { ToAddresses: [REPORT_TO] },
+        Message: {
+            Subject: { Data: tmpl.subject },
+            Body: { Html: { Data: tmpl.html }, Text: { Data: tmpl.text } },
+        },
+    }));
+
+    return jsonResponse(200, { ok: true });
+}
+
 // --- Main handler ---
 
 export const handler = async (event: APIGatewayProxyEventV2): Promise<APIGatewayProxyResultV2> => {
@@ -342,6 +442,7 @@ export const handler = async (event: APIGatewayProxyEventV2): Promise<APIGateway
     if (path.endsWith('/confirm') && method === 'GET') return handleConfirm(event);
     if (path.endsWith('/unsubscribe') && method === 'GET') return handleUnsubscribe(event);
     if (path.endsWith('/send') && method === 'POST') return handleSend(event);
+    if (path.endsWith('/report') && method === 'POST') return handleReport(event);
 
     return jsonResponse(404, { error: 'Not found' });
 };
