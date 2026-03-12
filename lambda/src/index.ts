@@ -174,17 +174,22 @@ export const handler = async (event: APIGatewayProxyEventV2): Promise<APIGateway
             ].join('\n'),
         });
 
-        // Fire-and-forget notification — never let email failure affect the commenter's response
+        // Send notification — awaited so Lambda doesn't freeze before it completes;
+        // errors are caught so they never affect the commenter's response
         if (NOTIFY_EMAIL && SES_FROM) {
             const tmpl = commentNotificationEmail(name.trim(), url.trim(), comment.trim(), slug, pr.html_url);
-            ses.send(new SendEmailCommand({
-                Source: SES_FROM,
-                Destination: { ToAddresses: [NOTIFY_EMAIL] },
-                Message: {
-                    Subject: { Data: tmpl.subject },
-                    Body: { Html: { Data: tmpl.html }, Text: { Data: tmpl.text } },
-                },
-            })).catch(err => console.error('Notification email failed:', err));
+            try {
+                await ses.send(new SendEmailCommand({
+                    Source: SES_FROM,
+                    Destination: { ToAddresses: [NOTIFY_EMAIL] },
+                    Message: {
+                        Subject: { Data: tmpl.subject },
+                        Body: { Html: { Data: tmpl.html }, Text: { Data: tmpl.text } },
+                    },
+                }));
+            } catch (err) {
+                console.error('Notification email failed:', err);
+            }
         }
 
         return response(200, { ok: true, pr: pr.html_url });
