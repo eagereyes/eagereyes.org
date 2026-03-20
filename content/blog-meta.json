@@ -120,7 +120,7 @@
     "archived": false,
     "comments": 0,
     "title": "Watch My Outlier Talk: This Should Have Been A Bar Chart!",
-    "description": "I gave a talk at the Outlier conference earlier this year, with the somewhat elaborate title, The Joys – and Dangers – of Bespoke and Unusual Chart Types. Though I eventually decided to go with the much shorter, This Should Have Been A Bar Chart! You can watch it on YouTube now.",
+    "description": "I gave a talk at the Outlier conference earlier this year, with the somewhat elaborate title, The Joys \u2013 and Dangers \u2013 of Bespoke and Unusual Chart Types. Though I eventually decided to go with the much shorter, This Should Have Been A Bar Chart! You can watch it on YouTube now.",
     "date": "2022-04-26T06:38:30-08:00",
     "tags": [
       "talk"
@@ -144,7 +144,7 @@
     "archived": false,
     "comments": 1,
     "title": "The (Possible) Stratagem Behind the Biden Bar",
-    "description": "A bar chart with a distorted vertical axis isn't very unusual. But what if that chart was posted by the White House and what if it was done on purpose – not to overstate the number shown, but rather to evoke a particular kind of response?",
+    "description": "A bar chart with a distorted vertical axis isn't very unusual. But what if that chart was posted by the White House and what if it was done on purpose \u2013 not to overstate the number shown, but rather to evoke a particular kind of response?",
     "date": "2022-01-30T20:47:25-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2022/01/economic-growth-1.jpeg"
@@ -216,7 +216,7 @@
     "archived": false,
     "comments": 0,
     "title": "New video: Chart Appreciation, Iraq's Bloody Toll by Simon Scarr",
-    "description": "How do you make people not just see numbers when looking at a chart, but feel something? This chart of the number of deaths during the Iraq war has always given me a visceral response like no other, and it’s still as powerful as when it was made almost ten years ago. So I made a chart appreciation video to explain what I think is so great about it.",
+    "description": "How do you make people not just see numbers when looking at a chart, but feel something? This chart of the number of deaths during the Iraq war has always given me a visceral response like no other, and it\u2019s still as powerful as when it was made almost ten years ago. So I made a chart appreciation video to explain what I think is so great about it.",
     "date": "2021-07-22T07:25:13-08:00",
     "tags": [
       "eagereyestv",
@@ -230,7 +230,7 @@
     "archived": false,
     "comments": 0,
     "title": "When the Wrong Chart Is the Right Choice",
-    "description": "We all agree that the direction of the bars in a bar chart should correspond to the direction in which the values grow. Or do we? When it comes to running or audio recording and processing, it turns out that the seemingly wrong choice can be the right one – because a more semantically meaningful representation can help us understand and use the data much more easily.",
+    "description": "We all agree that the direction of the bars in a bar chart should correspond to the direction in which the values grow. Or do we? When it comes to running or audio recording and processing, it turns out that the seemingly wrong choice can be the right one \u2013 because a more semantically meaningful representation can help us understand and use the data much more easily.",
     "date": "2021-06-27T18:05:14-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2021/06/undeararmour-bars.jpeg"
@@ -240,7 +240,7 @@
     "archived": false,
     "comments": 1,
     "title": "New Video: Linear vs. Quadratic Change",
-    "description": "Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right – and how this issue inspired ISOTYPE.",
+    "description": "Scaling objects to represent a value is a key part of visualization, but it's not without its pitfalls. Especially when it comes to fancy infographic bar charts, it can easily distort the value's appearance. Why that is, and where else this can happen, isn't always obvious. In my new video, I show how it happens and how to do it right \u2013 and how this issue inspired ISOTYPE.",
     "date": "2021-06-15T07:29:42-08:00",
     "tags": [
       "eagereyestv"
@@ -287,7 +287,7 @@
     "slug": "eagereyestv-minards-famous-napoleons-march-chart-what-it-shows-what-it-doesnt",
     "archived": false,
     "comments": 4,
-    "title": "eagereyesTV: Minard's Famous \"Napoleon's March\" Chart – What It Shows, What It Doesn't",
+    "title": "eagereyesTV: Minard's Famous \"Napoleon's March\" Chart \u2013 What It Shows, What It Doesn't",
     "description": "This chart is a staple in every visualization course and many visualization talks. But what does it show, and what does it leave out? There's a lot more to Napoleon's Russian Campaign and to Charles Minard's work than this one chart. My new video looks beyond the surface of what is perhaps the most famous chart out there.",
     "date": "2021-03-14T18:43:25-08:00",
     "tags": [
@@ -301,7 +301,7 @@
     "archived": false,
     "comments": 2,
     "title": "Felix Auerbach, Die Graphische Darstellung (Graphical Representation, 1914)",
-    "description": "This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data “from all areas of science and practice.” It’s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools.",
+    "description": "This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data \u201cfrom all areas of science and practice.\u201d It\u2019s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools.",
     "date": "2021-02-07T22:13:56-08:00",
     "tags": [
       "book-review"
@@ -325,7 +325,7 @@
     "archived": false,
     "comments": 0,
     "title": "eagereyesTV: Chart Appreciation, What's Really Warming the World",
-    "description": "Line charts – they're not the most glamorous. And yet, they can be used to tell a compelling story about global warming. In this video, I talk about what I consider a modern classic of data journalism, What's Really Warming the World by Eric Roston and Blacki Migliozzi: how it works, how it's structured, and why it works so well.",
+    "description": "Line charts \u2013 they're not the most glamorous. And yet, they can be used to tell a compelling story about global warming. In this video, I talk about what I consider a modern classic of data journalism, What's Really Warming the World by Eric Roston and Blacki Migliozzi: how it works, how it's structured, and why it works so well.",
     "date": "2020-12-08T07:19:57-08:00",
     "tags": [
       "eagereyestv",
@@ -361,7 +361,7 @@
     "archived": false,
     "comments": 1,
     "title": "eagereyesTV: Index Charts, Part 1: Making Time Series Data Comparable",
-    "description": "To show change over time, you typically use a line chart. But when you’re comparing time series whose values are very different, the differences between the lines can obscure the changes within them. Index charts can help with that. They align values to a reference, or fold the time axis on itself, or even do both.",
+    "description": "To show change over time, you typically use a line chart. But when you\u2019re comparing time series whose values are very different, the differences between the lines can obscure the changes within them. Index charts can help with that. They align values to a reference, or fold the time axis on itself, or even do both.",
     "date": "2020-10-29T21:17:35-08:00",
     "tags": [
       "eagereyestv"
@@ -384,8 +384,8 @@
     "slug": "an-outsiders-guide-to-ieee-vis-2020",
     "archived": false,
     "comments": 2,
-    "title": "An Outsider’s Guide to the IEEE VIS Conference 2020",
-    "description": "Want to watch a keynote by a Nobel laureate, catch the presentations of the best papers, or attend a workshop on visualization for communication? The IEEE VIS conference is taking place online in two weeks, October 25 to 30, and is free to attend this year. Here are a few starting points if you’ve never been to VIS and don't know why you should attend or what to watch.",
+    "title": "An Outsider\u2019s Guide to the IEEE VIS Conference 2020",
+    "description": "Want to watch a keynote by a Nobel laureate, catch the presentations of the best papers, or attend a workshop on visualization for communication? The IEEE VIS conference is taking place online in two weeks, October 25 to 30, and is free to attend this year. Here are a few starting points if you\u2019ve never been to VIS and don't know why you should attend or what to watch.",
     "date": "2020-10-11T19:34:14-08:00",
     "tags": [
       "ieeevis"
@@ -397,7 +397,7 @@
     "archived": false,
     "comments": 10,
     "title": "What Happened to ISOTYPE?",
-    "description": "Jan Willem Tulp asked me an interesting question on Twitter last week: if ISOTYPE was so great, why isn’t anybody using it anymore? Here are some of my thoughts, but more than that I want to see if anybody has more idea, and maybe even a bit of evidence, on why ISOTYPE fell out of fashion in the 1950s and hasn’t really come back since.",
+    "description": "Jan Willem Tulp asked me an interesting question on Twitter last week: if ISOTYPE was so great, why isn\u2019t anybody using it anymore? Here are some of my thoughts, but more than that I want to see if anybody has more idea, and maybe even a bit of evidence, on why ISOTYPE fell out of fashion in the 1950s and hasn\u2019t really come back since.",
     "date": "2020-09-28T19:15:54-08:00",
     "tags": [
       "isotype"
@@ -422,7 +422,7 @@
     "archived": false,
     "comments": 0,
     "title": "Prior Work We Missed In Our Connected Scatterplots Paper",
-    "description": "In 2016, Steve Haroz, Steven Franconeri, and I published a paper on a technique commonly called the Connected Scatterplot. It turns out that somebody else had research on essentially the same chart 15 years earlier, which we were not aware of. Our work is quite different, but it’s interesting context and it’s also worth reflecting on how we missed this piece of relevant prior work.",
+    "description": "In 2016, Steve Haroz, Steven Franconeri, and I published a paper on a technique commonly called the Connected Scatterplot. It turns out that somebody else had research on essentially the same chart 15 years earlier, which we were not aware of. Our work is quite different, but it\u2019s interesting context and it\u2019s also worth reflecting on how we missed this piece of relevant prior work.",
     "date": "2020-08-31T19:45:12-08:00",
     "tags": [
       "paper"
@@ -471,7 +471,7 @@
     "archived": false,
     "comments": 4,
     "title": "The Visual Evolution of the \"Flattening the Curve\" Information Graphic",
-    "description": "Communication has been quite a challenge during the COVID-19 pandemic, and data visualization hasn't been the most helpful given the low quality of the data – see Amanda Makulec's plea to think harder about making another coronavirus chart. A great example of how to do things right is the widely-circulated Flatten the Curve information graphic/cartoon. Here's a look at the work it is built on and how that has evolved from a figure in an academic paper to one of the clearest pieces of visual communication in some time.",
+    "description": "Communication has been quite a challenge during the COVID-19 pandemic, and data visualization hasn't been the most helpful given the low quality of the data \u2013 see Amanda Makulec's plea to think harder about making another coronavirus chart. A great example of how to do things right is the widely-circulated Flatten the Curve information graphic/cartoon. Here's a look at the work it is built on and how that has evolved from a figure in an academic paper to one of the clearest pieces of visual communication in some time.",
     "date": "2020-03-15T20:10:24-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2020/03/Covid-19-curves-graphic-social-v3.gif"
@@ -492,8 +492,8 @@
     "slug": "isotype-book-young-prager-theres-work-for-all",
     "archived": false,
     "comments": 2,
-    "title": "ISOTYPE Book: Young, Prager, There’s Work for All",
-    "description": "This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz’s famous unemployed man icon.",
+    "title": "ISOTYPE Book: Young, Prager, There\u2019s Work for All",
+    "description": "This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz\u2019s famous unemployed man icon.",
     "date": "2019-12-01T17:54:26-08:00",
     "tags": [
       "isotype"
@@ -505,7 +505,7 @@
     "archived": false,
     "comments": 0,
     "title": "Review: Alberto Cairo, How Charts Lie",
-    "description": "Alberto Cairo’s new book, How Charts Lie, takes readers on a tour of how charts are used and misused, and teaches them how to not be misled. It’s a useful book for both makers and consumers of charts, in the news, business, and pretty much anywhere else.",
+    "description": "Alberto Cairo\u2019s new book, How Charts Lie, takes readers on a tour of how charts are used and misused, and teaches them how to not be misled. It\u2019s a useful book for both makers and consumers of charts, in the news, business, and pretty much anywhere else.",
     "date": "2019-11-11T21:07:05-08:00",
     "tags": [
       "book-review"
@@ -517,7 +517,7 @@
     "archived": false,
     "comments": 0,
     "title": "eagereyesTV: What is Data? Part 1, File Formats and Intent",
-    "description": "We all use data all the time, but what exactly is data? How do different programs know what to do with our data? How is visualizing data different from other uses of data? And isn’t everything inside a computer data in the end?",
+    "description": "We all use data all the time, but what exactly is data? How do different programs know what to do with our data? How is visualizing data different from other uses of data? And isn\u2019t everything inside a computer data in the end?",
     "date": "2019-11-06T08:07:40-08:00",
     "tags": [
       "eagereyestv"
@@ -529,7 +529,7 @@
     "archived": false,
     "comments": 0,
     "title": "Prolific, the (Much Better) Mechnical Turk Alternative",
-    "description": "Prolific is a crowd-sourcing platform for running studies. In contrast to the widely-used Mechanical Turk, it’s specific to studies, has a much better interface, pricing that’s fair to participants, and useful filters to find the right people for your study.",
+    "description": "Prolific is a crowd-sourcing platform for running studies. In contrast to the widely-used Mechanical Turk, it\u2019s specific to studies, has a much better interface, pricing that\u2019s fair to participants, and useful filters to find the right people for your study.",
     "date": "2019-11-04T23:17:08-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/11/prolific-teaser.png"
@@ -539,7 +539,7 @@
     "archived": false,
     "comments": 3,
     "title": "eagereyesTV Episode 3: 3D Pie Charts For Science!",
-    "description": "How do we read pie charts? This seems like a straightforward question to answer, but it turns out that most of what you’ve probably heard is wrong. We don’t actually know whether we use angle, area, or arc length. In a short paper at the VIS conference this week I’m presenting a study I ran to answer this question – a study using 3D pie charts!",
+    "description": "How do we read pie charts? This seems like a straightforward question to answer, but it turns out that most of what you\u2019ve probably heard is wrong. We don\u2019t actually know whether we use angle, area, or arc length. In a short paper at the VIS conference this week I\u2019m presenting a study I ran to answer this question \u2013 a study using 3D pie charts!",
     "date": "2019-10-20T22:00:03-08:00",
     "tags": [
       "pie-charts",
@@ -552,7 +552,7 @@
     "archived": false,
     "comments": 2,
     "title": "Paper: Evidence for Area as the Primary Visual Cue in Pie Charts",
-    "description": "How we read pie charts is still an open question: is it angle? Is it area? Is it arc length? In a study I'm presenting as a short paper at the IEEE VIS conference in Vancouver next week, I tried to tease the visual cues apart – using modeling and 3D pie charts.",
+    "description": "How we read pie charts is still an open question: is it angle? Is it area? Is it arc length? In a study I'm presenting as a short paper at the IEEE VIS conference in Vancouver next week, I tried to tease the visual cues apart \u2013 using modeling and 3D pie charts.",
     "date": "2019-10-17T07:52:12-08:00",
     "tags": [
       "paper",
@@ -565,7 +565,7 @@
     "archived": false,
     "comments": 0,
     "title": "eagereyesTV Episode 2: Unit Charts, Dot Plots, ISOTYPE, and What Makes Them Special",
-    "description": "Charts usually show values as visual properties, like the length in a bar chart, the location in a scatterplot, the area in a bubble chart, etc. Unit charts show values as multiples instead. One famous example of these charts is called ISOTYPE, and you may have seen them in information graphics as well. They’re an interesting family of charts and they seem to have some unusual properties that most other charts don’t have.",
+    "description": "Charts usually show values as visual properties, like the length in a bar chart, the location in a scatterplot, the area in a bubble chart, etc. Unit charts show values as multiples instead. One famous example of these charts is called ISOTYPE, and you may have seen them in information graphics as well. They\u2019re an interesting family of charts and they seem to have some unusual properties that most other charts don\u2019t have.",
     "date": "2019-10-08T23:17:21-08:00",
     "tags": [
       "eagereyestv",
@@ -578,7 +578,7 @@
     "archived": false,
     "comments": 4,
     "title": "XIII",
-    "description": "This website is now thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things.",
+    "description": "This website is now thirteen years old. While it has slowed down somewhat recently, it\u2019s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things.",
     "date": "2019-10-02T07:32:16-08:00",
     "tags": [
       "meta"
@@ -600,7 +600,7 @@
     "archived": false,
     "comments": 1,
     "title": "Introducing eagereyesTV, My New YouTube Channel",
-    "description": "After writing about visualization for over a decade, it’s time to mix things up a bit and try a new medium: video. I just uploaded the first video to my new YouTube channel, which I’m calling eagereyesTV. Take a look and tell me what you think!",
+    "description": "After writing about visualization for over a decade, it\u2019s time to mix things up a bit and try a new medium: video. I just uploaded the first video to my new YouTube channel, which I\u2019m calling eagereyesTV. Take a look and tell me what you think!",
     "date": "2019-09-16T22:21:36-08:00",
     "tags": [
       "eagereyestv"
@@ -611,8 +611,8 @@
     "slug": "eagereyestv-episode-1-the-datasaurus-anscombes-quartet-and-why-summary-statistics-need-to-be-taken-with-a-grain-of-salt",
     "archived": false,
     "comments": 4,
-    "title": "eagereyesTV Episode 1: The DataSaurus, Anscombe’s Quartet, and why summary statistics need to be taken with a grain of salt",
-    "description": "When dealing with large amounts of data, we often use summary statistics like average, median, standard deviation, sum, etc. They’re useful because they actually hide data, they reduce the amount of information we need to look at to give us a sense of the data. But the same averages and can describe datasets that look vastly different.",
+    "title": "eagereyesTV Episode 1: The DataSaurus, Anscombe\u2019s Quartet, and why summary statistics need to be taken with a grain of salt",
+    "description": "When dealing with large amounts of data, we often use summary statistics like average, median, standard deviation, sum, etc. They\u2019re useful because they actually hide data, they reduce the amount of information we need to look at to give us a sense of the data. But the same averages and can describe datasets that look vastly different.",
     "date": "2019-09-16T22:20:56-08:00",
     "tags": [
       "eagereyestv"
@@ -624,7 +624,7 @@
     "archived": false,
     "comments": 0,
     "title": "Highlights from EuroVis 2019, Part 2",
-    "description": "This is the second part of my highlights from EuroVis earlier this year in Porto, Portugal. There are papers about decision making and interaction, as well as a report on the capstone talk and a look to next year’s conference, which will be a bit different.",
+    "description": "This is the second part of my highlights from EuroVis earlier this year in Porto, Portugal. There are papers about decision making and interaction, as well as a report on the capstone talk and a look to next year\u2019s conference, which will be a bit different.",
     "date": "2019-09-02T17:00:28-08:00",
     "tags": [
       "conference",
@@ -637,7 +637,7 @@
     "archived": false,
     "comments": 0,
     "title": "Highlights from EuroVis 2019, Part 1",
-    "description": "The EuroVis 2019 conference took place in early June this year in Porto, Portugal. While I enjoyed the city and conference venue, I found the program a bit underwhelming this time around. I’ve kept pushing off writing this report because I found myself griping rather than talking about the content.",
+    "description": "The EuroVis 2019 conference took place in early June this year in Porto, Portugal. While I enjoyed the city and conference venue, I found the program a bit underwhelming this time around. I\u2019ve kept pushing off writing this report because I found myself griping rather than talking about the content.",
     "date": "2019-08-26T19:51:37-08:00",
     "tags": [
       "conference",
@@ -650,17 +650,17 @@
     "archived": false,
     "comments": 2,
     "title": "What Is A Misleading Chart?",
-    "description": "I see a lot of discussions of misleading charts lately, and there are certainly many of them out there. One distinction that isn’t always made, but that I feel is important, is whether the chart itself is poorly designed, or whether an otherwise correct chart is taken to mean something it does not. It’s an important difference that often gets glossed over.",
+    "description": "I see a lot of discussions of misleading charts lately, and there are certainly many of them out there. One distinction that isn\u2019t always made, but that I feel is important, is whether the chart itself is poorly designed, or whether an otherwise correct chart is taken to mean something it does not. It\u2019s an important difference that often gets glossed over.",
     "date": "2019-07-23T21:45:08-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2019/07/global-warming-zero.jpg"
   },
   {
     "slug": "visualization-for-communication-workshop-deadline-pushed-to-july-15",
-    "archived": true,
+    "archived": false,
     "comments": 0,
     "title": "Visualization for Communication Workshop Deadline Pushed to July 15",
-    "description": "You may not be aware that we’re organizing the Visualization for Communication (VisComm) workshop at VIS again this year. That’s why we’ve decided to push back the deadline to July 15, so you can submit all your amazing research papers, position papers, posters, and visual case studies.",
+    "description": "You may not be aware that we\u2019re organizing the Visualization for Communication (VisComm) workshop at VIS again this year. That\u2019s why we\u2019ve decided to push back the deadline to July 15, so you can submit all your amazing research papers, position papers, posters, and visual case studies.",
     "date": "2019-06-21T07:49:00-08:00",
     "tags": [
       "ieeevis",
@@ -673,7 +673,7 @@
     "archived": false,
     "comments": 1,
     "title": "Two Short Papers on Part-to-Whole Charts at EuroVis",
-    "description": "Why do pie charts look the way they do? What makes this particular way of slicing up a circle the preferred way of showing part-to-whole relationships? In two short papers that I’m presenting this week at EuroVis, I looked at the design space of circular part-to-whole charts, including pie charts.",
+    "description": "Why do pie charts look the way they do? What makes this particular way of slicing up a circle the preferred way of showing part-to-whole relationships? In two short papers that I\u2019m presenting this week at EuroVis, I looked at the design space of circular part-to-whole charts, including pie charts.",
     "date": "2019-06-03T01:08:43-08:00",
     "tags": [
       "paper",
@@ -696,7 +696,7 @@
   },
   {
     "slug": "the-trustvis-workshop-at-eurovis",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "The TrustVis Workshop at EuroVis",
     "description": "I'm one of the organizers of the new TrustVis Workshop at EuroVis this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5!",
@@ -724,7 +724,7 @@
     "archived": false,
     "comments": 2,
     "title": "New Vis Research Blog: Multiple Views",
-    "description": "While activity on this site has been a bit slow this year, I’ve helped start a new group blog focused on visualization research, called Multiple Views.",
+    "description": "While activity on this site has been a bit slow this year, I\u2019ve helped start a new group blog focused on visualization research, called Multiple Views.",
     "date": "2018-12-10T23:25:34-08:00",
     "tags": [
       "link"
@@ -733,7 +733,7 @@
   },
   {
     "slug": "tapestry-2018-program-call-for-demos",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Tapestry 2018 Program, Call for Demos",
     "description": "The Tapestry 2018 program is complete, including the three keynotes and eight newly-added short stories. We are now looking for proposals for demos and will send out a call for PechaKucha-style talks to attendees soon, too.",
@@ -796,7 +796,7 @@
   },
   {
     "slug": "tapestry-2018-details-and-keynote-speakers",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Tapestry 2018, Details and Keynote Speakers",
     "description": "We recently announced the speakers for Tapestry 2018, which takes place November 29 and 30 at the University of Miami. It will again be focused on telling stories with data, but we're also making a few changes.",
@@ -851,7 +851,7 @@
     "archived": false,
     "comments": 0,
     "title": "Portrait: Jason Dykes",
-    "description": "Jason Dykes is professor at City University London, where he also co-leads the giCentre. He straddles the line between cartography and visualization, publishing in both communities and combining ideas from both – which have led to crossover ideas like spatially-ordered treemaps and map lineups.",
+    "description": "Jason Dykes is professor at City University London, where he also co-leads the giCentre. He straddles the line between cartography and visualization, publishing in both communities and combining ideas from both \u2013 which have led to crossover ideas like spatially-ordered treemaps and map lineups.",
     "date": "2018-05-24T07:13:55-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/05/jason-dykes.jpg"
@@ -871,7 +871,7 @@
     "archived": false,
     "comments": 3,
     "title": "Seven Visualization Talks That Terrified Me At CHI",
-    "description": "I recently attended CHI 2018 in Montréal, QC. Normally conferences leave me excited for the next idea or the next direction (and also physically exhausted). This was one of the first where I was left feeling terrified: a lot of the work did an excellent job of highlighting core problems about our assumptions as visualization researchers, and poked at big intractable issues that I had mostly been ignoring for a long time. Here are the seven most terrifying talks.",
+    "description": "I recently attended CHI 2018 in Montr\u00e9al, QC. Normally conferences leave me excited for the next idea or the next direction (and also physically exhausted). This was one of the first where I was left feeling terrified: a lot of the work did an excellent job of highlighting core problems about our assumptions as visualization researchers, and poked at big intractable issues that I had mostly been ignoring for a long time. Here are the seven most terrifying talks.",
     "date": "2018-05-02T08:53:48-08:00",
     "tags": [
       "conference"
@@ -883,7 +883,7 @@
     "archived": false,
     "comments": 0,
     "title": "How to Get Excited About Standard Datasets",
-    "description": "It can be hard to get excited about the standard datasets that we keep using to show how visualization and statistics work. But if that's the case for you, it's not the datasets's fault, it's you! Here’s how to keep that spark going!",
+    "description": "It can be hard to get excited about the standard datasets that we keep using to show how visualization and statistics work. But if that's the case for you, it's not the datasets's fault, it's you! Here\u2019s how to keep that spark going!",
     "date": "2018-03-21T21:18:20-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2018/03/iris.jpg"
@@ -902,10 +902,10 @@
   },
   {
     "slug": "eurorvvv-call-for-papers",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "EuroRVVV Call For Papers!",
-    "description": "I'm delighted to be one of the co-chairs of the workshop on reproducibility, verification, and validation in visualization (EuroRVVV – quite possibly the worst-acronymed workshop in visualization) at EuroVis. The topic this year is uncertainty, and we're looking for all kinds of contributions to this important topic.",
+    "description": "I'm delighted to be one of the co-chairs of the workshop on reproducibility, verification, and validation in visualization (EuroRVVV \u2013 quite possibly the worst-acronymed workshop in visualization) at EuroVis. The topic this year is uncertainty, and we're looking for all kinds of contributions to this important topic.",
     "date": "2018-01-25T08:17:46-08:00",
     "tags": [
       "eurovis"
@@ -929,7 +929,7 @@
     "archived": false,
     "comments": 2,
     "title": "Speaking: How to Use A Microphone",
-    "description": "When you’re speaking in front of an audience, you’re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can’t do that if you don’t know how to use it or if you actively work against it.",
+    "description": "When you\u2019re speaking in front of an audience, you\u2019re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can\u2019t do that if you don\u2019t know how to use it or if you actively work against it.",
     "date": "2017-11-09T14:57:59-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg"
@@ -1038,7 +1038,7 @@
     "archived": false,
     "comments": 0,
     "title": "IEEE VIS 2017: Best Papers and Other Awards",
-    "description": "The IEEE VIS 2017 conference took place last week in Phoenix, AZ. I’m slower to write about it than in previous years, but to make up for that I’m not going in chronological order this time, but will break this report up in a more logical manner. This first part covers the opening, which included presentations of the best papers from all three tracks plus a new Test of Time award category.",
+    "description": "The IEEE VIS 2017 conference took place last week in Phoenix, AZ. I\u2019m slower to write about it than in previous years, but to make up for that I\u2019m not going in chronological order this time, but will break this report up in a more logical manner. This first part covers the opening, which included presentations of the best papers from all three tracks plus a new Test of Time award category.",
     "date": "2017-10-08T18:17:48-08:00",
     "tags": [
       "conference",
@@ -1051,7 +1051,7 @@
     "archived": false,
     "comments": 2,
     "title": "Visualization as a Field Is Still Invisible",
-    "description": "A new series by the New York Times is equally exciting and painful: it presents visualizations for discussion in class, but the outside help they are getting is coming from statistics rather than visualization. It’s another reminder of just how far we still have to go to even be noticed as a research field.",
+    "description": "A new series by the New York Times is equally exciting and painful: it presents visualizations for discussion in class, but the outside help they are getting is coming from statistics rather than visualization. It\u2019s another reminder of just how far we still have to go to even be noticed as a research field.",
     "date": "2017-09-25T19:53:39-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg"
@@ -1061,7 +1061,7 @@
     "archived": false,
     "comments": 0,
     "title": "Vis Potpourri, September 2017",
-    "description": "A potpourri is a collection of spices and plants that create a pleasant aroma together. This new series assembles a list of links to recently interesting things in visualization, from both information visualization (InfoVis, which I normally cover on this site) and scientific visualization (SciVis) – the latter covered by new blog collaborator and medical visualization assistant professor, Noeska Smit.",
+    "description": "A potpourri is a collection of spices and plants that create a pleasant aroma together. This new series assembles a list of links to recently interesting things in visualization, from both information visualization (InfoVis, which I normally cover on this site) and scientific visualization (SciVis) \u2013 the latter covered by new blog collaborator and medical visualization assistant professor, Noeska Smit.",
     "date": "2017-09-21T06:32:12-08:00",
     "tags": [
       "link"
@@ -1073,7 +1073,7 @@
     "archived": false,
     "comments": 0,
     "title": "Review: Putting Stories to Work and Out On the Wire",
-    "description": "Two books I’ve read recently make good points about stories that apply to data stories, without the books being about data: Shawn Callahan’s Putting Stories to Work and Jessica Abel’s Out On the Wire.",
+    "description": "Two books I\u2019ve read recently make good points about stories that apply to data stories, without the books being about data: Shawn Callahan\u2019s Putting Stories to Work and Jessica Abel\u2019s Out On the Wire.",
     "date": "2017-09-18T18:57:44-08:00",
     "tags": [
       "book-review",
@@ -1086,7 +1086,7 @@
     "archived": false,
     "comments": 0,
     "title": "The Season of Storytelling: Kicking It Off With A Podcast",
-    "description": "It's (almost) Fall – a good time for telling stories! Jon Schwabish invited me to be on his PolicyViz podcast again to kick off its new season. And I have a long list of things to write about around that topic, too.",
+    "description": "It's (almost) Fall \u2013 a good time for telling stories! Jon Schwabish invited me to be on his PolicyViz podcast again to kick off its new season. And I have a long list of things to write about around that topic, too.",
     "date": "2017-09-13T07:30:54-08:00",
     "tags": [
       "storytelling"
@@ -1098,7 +1098,7 @@
     "archived": false,
     "comments": 4,
     "title": "Communicating Uncertainty When Lives Are on the Line",
-    "description": "Showing when and where natural disasters like hurricanes are going to cause damage is not just a question of aesthetics – it is literally a matter of life and death. The traditional way hurricane forecasts are shown has a number of problems, but are the alternatives actually better?",
+    "description": "Showing when and where natural disasters like hurricanes are going to cause damage is not just a question of aesthetics \u2013 it is literally a matter of life and death. The traditional way hurricane forecasts are shown has a number of problems, but are the alternatives actually better?",
     "date": "2017-09-06T20:35:59-08:00",
     "tags": [
       "journalism"
@@ -1110,7 +1110,7 @@
     "archived": false,
     "comments": 0,
     "title": "The Importance of Context",
-    "description": "I use a Misfit activity tracker to count my steps. The Misfit app does a decent job of showing me step counts per day and every month, misfit also sends me a summary of the previous month’s activity. Unfortunately, the numbers in that summary are presented without any context, making that summary almost entirely useless.",
+    "description": "I use a Misfit activity tracker to count my steps. The Misfit app does a decent job of showing me step counts per day and every month, misfit also sends me a summary of the previous month\u2019s activity. Unfortunately, the numbers in that summary are presented without any context, making that summary almost entirely useless.",
     "date": "2017-07-17T18:17:51-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png"
@@ -1120,7 +1120,7 @@
     "archived": false,
     "comments": 6,
     "title": "Joy Plots",
-    "description": "Let’s talk about plots and joy. The Joy of Plots, if you will. Also, Joy Plots.",
+    "description": "Let\u2019s talk about plots and joy. The Joy of Plots, if you will. Also, Joy Plots.",
     "date": "2017-07-10T20:41:08-08:00",
     "tags": [
       "technique"
@@ -1132,7 +1132,7 @@
     "archived": false,
     "comments": 1,
     "title": "Building Bridges Between Insular InfoVis Papers",
-    "description": "Can you describe what information visualization research does in a few words? What are the driving questions and problems right now? It’s harder than it might seem. I believe that the lack of cohesion in the field is due, at least in part, to how we publish research.",
+    "description": "Can you describe what information visualization research does in a few words? What are the driving questions and problems right now? It\u2019s harder than it might seem. I believe that the lack of cohesion in the field is due, at least in part, to how we publish research.",
     "date": "2017-06-26T18:32:32-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg"
@@ -1168,7 +1168,7 @@
     "archived": false,
     "comments": 0,
     "title": "EuroVis 2017 Conference Report, Part 1",
-    "description": "EuroVis is currently taking place in Barcelona. In the interest of shorter postings, I’m breaking this report up into three parts. This first part covers the EuroRVVV workshop as well as the opening session and keynote.",
+    "description": "EuroVis is currently taking place in Barcelona. In the interest of shorter postings, I\u2019m breaking this report up into three parts. This first part covers the EuroRVVV workshop as well as the opening session and keynote.",
     "date": "2017-06-14T12:18:52-08:00",
     "tags": [
       "conference",
@@ -1235,7 +1235,7 @@
     "archived": false,
     "comments": 0,
     "title": "Linkstravaganza: Schwabish's Story Links and Andrews' Seeking Minard",
-    "description": "I don't normally do link dumps, but since I'm behind on blogging and have been meaning to link to these things for a while… here are some articles for you to check out. The first set is on what storytelling means with data, the second about an interesting discovery around Charles Minard.",
+    "description": "I don't normally do link dumps, but since I'm behind on blogging and have been meaning to link to these things for a while\u2026 here are some\u00a0articles for you to check out. The first set is on what storytelling means with data, the second about an interesting discovery around Charles Minard.",
     "date": "2017-05-17T06:17:24-08:00",
     "tags": [
       "link"
@@ -1266,8 +1266,8 @@
     "slug": "how-do-we-know-that",
     "archived": false,
     "comments": 0,
-    "title": "How Do We Know That? – Video of My Talk at UW",
-    "description": "I gave a talk at the University of Washington a few weeks ago. This is an extended version of my BELIV paper An Empire Built on Sand from last year, with more examples and a lot more jokes. You'll learn about various things we know and don't know about visualization, and also whether spinach and carrots actually are good for you.",
+    "title": "How Do We Know That? \u2013\u00a0Video of My Talk at UW",
+    "description": "I gave a talk at the University of Washington a few weeks ago. This is an extended version of my BELIV paper An Empire Built on Sand from last year, with more examples\u00a0and a lot more jokes. You'll learn about various things we know and don't know about visualization,\u00a0and also whether spinach and carrots actually are good for you.",
     "date": "2017-04-04T20:04:30-08:00",
     "tags": [
       "talk"
@@ -1303,7 +1303,7 @@
     "archived": false,
     "comments": 7,
     "title": "Encoding vs. Decoding",
-    "description": "Visualization techniques encode data into visual shapes and colors. We assume that what the user of a visualization does is decode those values, but things aren’t that simple.",
+    "description": "Visualization techniques encode data into visual shapes and colors. We assume that what the user of a visualization does is decode those values, but things aren\u2019t that simple.",
     "date": "2017-02-20T21:25:18-08:00",
     "tags": [
       "perception"
@@ -1325,16 +1325,16 @@
     "archived": false,
     "comments": 0,
     "title": "Hans Rosling: An Appreciation",
-    "description": "Hans Rosling died earlier today (Tuesday, February 7). He championed the idea of showing people what the world was really like – and how it was different from their preconceptions – using data and visualization. And he did it with enthusiasm and humor. This is a brief appreciation of his work and legacy.",
+    "description": "Hans Rosling died earlier today (Tuesday, February 7). He championed the idea of showing people what the world was really like \u2013 and how it was different from their preconceptions \u2013 using data and visualization. And he did it with enthusiasm and humor. This is a brief appreciation of his work and legacy.",
     "date": "2017-02-07T21:22:17-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2017/02/hans-rosling-tc14.jpg"
   },
   {
     "slug": "lets-crowd-fund-the-data-stories-podcast",
-    "archived": false,
+    "archived": true,
     "comments": 0,
-    "title": "Let’s Crowd-Fund the Data Stories Podcast!",
+    "title": "Let\u2019s Crowd-Fund the Data Stories Podcast!",
     "description": "Enrico and Moritz, the two hosts of the only visualization podcast in the known universe, are trying to crowd-fund their work rather than rely on advertising. If we all chip in a few dollars or euros per show, this will be easy to accomplish.",
     "date": "2017-01-25T07:17:00-08:00",
     "tags": [],
@@ -1394,7 +1394,7 @@
     "archived": false,
     "comments": 0,
     "title": "A Roundup of Year-End News Graphics Roundups",
-    "description": "The end of the year is always a good time to look back at the great work done in the world of news graphics – and this year in particular, to relive all the heartbreak and disillusionment. Here is a list of year-end news graphics round-ups for your enjoyment and edification.",
+    "description": "The end of the year is always a good time to look back at the great work done in the world of news graphics \u2013 and this year in particular, to relive all the heartbreak and disillusionment. Here is a list of year-end news graphics round-ups for your enjoyment and edification.",
     "date": "2016-12-29T17:27:59-08:00",
     "tags": [
       "journalism",
@@ -1441,7 +1441,7 @@
     "archived": false,
     "comments": 0,
     "title": "Review: Jon Schwabish, Better Presentations",
-    "description": "Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she’d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began).",
+    "description": "Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she\u2019d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began).",
     "date": "2016-11-30T08:19:57-08:00",
     "tags": [
       "book-review",
@@ -1454,7 +1454,7 @@
     "archived": false,
     "comments": 2,
     "title": "The Problem with Vis Taxonomies",
-    "description": "Most taxonomies in visualization and HCI are useless. They carve up the space, but they don’t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones.",
+    "description": "Most taxonomies in visualization and HCI are useless. They carve up the space, but they don\u2019t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones.",
     "date": "2016-11-27T20:32:42-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg"
@@ -1474,7 +1474,7 @@
     "archived": false,
     "comments": 0,
     "title": "Dealing with Paper Rejections",
-    "description": "For some reason, the topic of reviewing and getting papers rejected came up several times in conversations at VIS recently. Getting your work rejected and learning to deal with rejection is part of life as an academic, and it’s worthwhile to think about the process a bit.",
+    "description": "For some reason, the topic of reviewing and getting papers rejected came up several times in conversations at VIS recently.\u00a0Getting your work rejected and learning to deal with rejection is part of life as an academic, and it\u2019s worthwhile to think about the process a bit.",
     "date": "2016-11-13T19:17:19-08:00",
     "tags": [
       "peer-review"
@@ -1519,7 +1519,7 @@
     "slug": "vis-2016-thursday-friday-empirical-methods-better-presentations",
     "archived": false,
     "comments": 1,
-    "title": "VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations",
+    "title": "VIS 2016 \u2013 Thursday, Friday: Empirical Methods, Better Presentations",
     "description": "A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday.",
     "date": "2016-11-01T20:26:20-08:00",
     "tags": [
@@ -1532,7 +1532,7 @@
     "slug": "vis-2016-wednesday-thursday-papers-and-the-death-of-scivis",
     "archived": false,
     "comments": 2,
-    "title": "VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis",
+    "title": "VIS 2016 \u2013 Wednesday, Thursday: Papers and the Death of SciVis",
     "description": "Two more postings about VIS 2016 last week! Wednesday got a lot of us talking, with the Death of SciVis panel. There were also more papers on a variety of topics.",
     "date": "2016-10-30T19:17:06-08:00",
     "tags": [
@@ -1545,7 +1545,7 @@
     "slug": "vis-2016-tuesday",
     "archived": false,
     "comments": 4,
-    "title": "VIS 2016 – Tuesday",
+    "title": "VIS 2016 \u2013 Tuesday",
     "description": "The official opening of the main conference was today, Tuesday. The conference is now in full swing until Friday.",
     "date": "2016-10-25T18:31:22-08:00",
     "tags": [
@@ -1558,7 +1558,7 @@
     "slug": "vis-2016-sunday-monday-beliv-and-being-contrarian",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2016 – Sunday, Monday: BELIV and Being Contrarian",
+    "title": "VIS 2016 \u2013 Sunday, Monday: BELIV and Being Contrarian",
     "description": "The early part of IEEE VIS 2016 is already behind us. This includes many workshops, tutorials, as well as the Doctoral Colloquium. It has been an interesting three days (considering Saturday here as well). This posting is less a report as a number of observations from a several discussions and talks.",
     "date": "2016-10-24T19:57:55-08:00",
     "tags": [
@@ -1594,7 +1594,7 @@
     "archived": false,
     "comments": 1,
     "title": "IEEE VIS Pointers and Running",
-    "description": "VIS is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup – plus a reminder to bring your running shoes!",
+    "description": "VIS is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup \u2013 plus a reminder to bring your running shoes!",
     "date": "2016-10-18T06:17:36-08:00",
     "tags": [
       "ieeevis"
@@ -1697,10 +1697,10 @@
   },
   {
     "slug": "blogstravaganza",
-    "archived": false,
+    "archived": true,
     "comments": 5,
     "title": "The Ten Years of EagerEyes Blogstravaganza",
-    "description": "October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!",
+    "description": "October 1 marks the ten-year anniversary of this website. Well, it\u2019s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!",
     "date": "2016-09-25T16:16:02-08:00",
     "tags": [
       "meta"
@@ -1711,7 +1711,7 @@
     "slug": "pie-charts-unloved-unstudied-and-misunderstood",
     "archived": false,
     "comments": 5,
-    "title": "Talk: Pie Charts – Unloved, Unstudied, and Misunderstood",
+    "title": "Talk: Pie Charts \u2013\u00a0Unloved, Unstudied, and Misunderstood",
     "description": "I gave a talk at Information+ earlier this year that has now been posted. It's about pie charts! And it was a fun talk, too.",
     "date": "2016-09-21T18:48:40-08:00",
     "tags": [
@@ -1722,10 +1722,10 @@
   },
   {
     "slug": "tapestry-2017-st-augustine-fl-on-march-1st",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Tapestry 2017: St. Augustine, FL on March 1st",
-    "description": "We just announced next year's Tapestry Conference – the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos!",
+    "description": "We just announced next year's Tapestry Conference \u2013 the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos!",
     "date": "2016-09-19T18:12:48-08:00",
     "tags": [
       "tapestry"
@@ -1747,7 +1747,7 @@
     "archived": false,
     "comments": 2,
     "title": "Link: xkcd's Earth Temperature Timeline",
-    "description": "Randall Munroe has done it again. His latest xkcd comic is an enormous timeline of the Earth's temperature, showing the enormously long time we have temperature estimates for, and how little it has changed until very, very recently.",
+    "description": "Randall Munroe has done it again. His latest xkcd comic is an enormous timeline of the Earth's temperature, showing the enormously long\u00a0time we have temperature estimates for, and how little it has changed until very, very recently.",
     "date": "2016-09-12T21:29:52-08:00",
     "tags": [
       "link"
@@ -1770,8 +1770,8 @@
     "slug": "jerome-cukiers-series-on-visualization-with-react",
     "archived": false,
     "comments": 0,
-    "title": "Link: Jérôme Cukier's Series on Visualization with React",
-    "description": "While D3 is the standard way of doing visualization on the web right now, there's a lot of interesting stuff happening in the world of JavaScript framework React. And it turns out, you can do some really interesting visualization stuff with React, once you understand the basics. In a series of very thorough postings, Jérôme Cukier takes you through the fundamentals of React and how to use it by itself or together with D3.",
+    "title": "Link: J\u00e9r\u00f4me Cukier's Series on Visualization with React",
+    "description": "While D3 is the standard way\u00a0of doing\u00a0visualization on the web right now, there's a lot of interesting stuff happening in the world of JavaScript framework React. And it turns out, you can do some really interesting visualization stuff with\u00a0React, once you understand the basics. In a series of very thorough postings,\u00a0J\u00e9r\u00f4me Cukier takes you through the fundamentals\u00a0of React and how to use it\u00a0by itself or together with D3.",
     "date": "2016-09-05T17:10:39-08:00",
     "tags": [
       "link"
@@ -1819,8 +1819,7 @@
     "title": "The Repetitive and Boring History of Visualization",
     "description": "When people talk about the history of data visualization, the same set of names always comes up: Playfair, Nightingale, Snow, Minard. They are historically important, alright, but why do they overshadow all the other work that was done? And what do we know about how important they actually were?",
     "date": "2016-08-14T20:27:53-08:00",
-    "tags": [
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png"
   },
   {
@@ -1828,7 +1827,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: Our World in Data",
-    "description": "Our World in Data looks at a wide variety of data about the world: health, population, energy, growth, inequality, etc. Max Roser and his colleagues dig through the vast amounts of open data to find many interesting connections and insights.",
+    "description": "Our World in Data looks at a wide variety of data about the world: health, population, energy, growth, inequality, etc. Max Roser and his colleagues dig through the vast amounts of open data to find\u00a0many interesting connections and insights.",
     "date": "2016-08-10T07:32:20-08:00",
     "tags": [
       "journalism",
@@ -1865,7 +1864,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: Mona Chalabi's Data Sketches on Instagram",
-    "description": "Mona Chalabi has one of the most interesting Instagram feeds for people interested in data visualization. She draws data by hand. It's interesting data, too, and her approach is accessible and inspiring.",
+    "description": "Mona Chalabi\u00a0has one of the most interesting Instagram feeds for people interested in data visualization. She draws data by hand. It's interesting data, too, and her approach is accessible and inspiring.",
     "date": "2016-07-07T07:17:22-08:00",
     "tags": [
       "journalism",
@@ -1890,8 +1889,8 @@
     "slug": "the-cafe-wall-illusion-in-a-bar-chart",
     "archived": false,
     "comments": 1,
-    "title": "The Café Wall Illusion in a Bar Chart",
-    "description": "The Café Wall Illusion makes you to see perfectly parallel lines as being at an angle. It's a curiosity and a cool perceptual illusion – except when it shows up in a bar chart, as it did in this example.",
+    "title": "The Caf\u00e9 Wall Illusion in a Bar Chart",
+    "description": "The Caf\u00e9 Wall Illusion makes you to see perfectly parallel lines as being at an angle. It's a curiosity and a cool perceptual illusion \u2013 except when it shows up in a bar chart, as it did in this example.",
     "date": "2016-06-30T08:00:33-08:00",
     "tags": [
       "perception"
@@ -1950,7 +1949,7 @@
   },
   {
     "slug": "eurovis-coverage-and-running",
-    "archived": false,
+    "archived": true,
     "comments": 1,
     "title": "EuroVis Coverage and Running",
     "description": "For people not attending EuroVis: I will be tweeting from there next week and write postings here, like I have in the previous years. For people who will be attending: let's meet up and run!",
@@ -2086,7 +2085,7 @@
     "archived": false,
     "comments": 0,
     "title": "Links: Scott Klein on the History of Data Journalism",
-    "description": "The history of data journalism goes back much farther than most people assume. Long before computers or punch cards, and before even the first newspapers the way we know them today, data was being published. ProPublica's Scott Klein has been digging up a lot of interesting history.",
+    "description": "The history of\u00a0data journalism goes back\u00a0much farther than most people assume. Long before computers or\u00a0punch cards, and before even the first newspapers the way we know them today, data was being published. ProPublica's Scott Klein has been digging up a lot of interesting history.",
     "date": "2016-04-06T21:06:35-08:00",
     "tags": [
       "journalism"
@@ -2098,7 +2097,7 @@
     "archived": false,
     "comments": 1,
     "title": "The Two-Paper Package",
-    "description": "Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.",
+    "description": "Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy \u2013 beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.",
     "date": "2016-03-20T21:50:44-08:00",
     "tags": [
       "peer-review"
@@ -2134,7 +2133,7 @@
     "archived": false,
     "comments": 0,
     "title": "2015 Year in Graphics Links",
-    "description": "A bit late, but here are links to a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year.",
+    "description": "A bit late, but here are links to\u00a0a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year.",
     "date": "2016-02-01T22:47:38-08:00",
     "tags": [
       "journalism",
@@ -2144,10 +2143,10 @@
   },
   {
     "slug": "tamara-munzner-has-a-blog",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Link: Tamara Munzner Has A Blog!",
-    "description": "Late last year, Tamara Munzner started a blog, called Vis &amp; More. So far, she mostly writes in response to Stephen Few's postings late last year about some recent visualization papers. Her style is quite academic (most of her posting titles start with \"On\"…), but very readable and she has lots of interesting things to say.",
+    "description": "Late last year, Tamara Munzner started a blog,\u00a0called Vis &amp; More.\u00a0So far, she mostly writes in response to Stephen Few's postings late last year about some recent visualization papers. Her style is quite academic (most of her posting titles start with \"On\"\u2026), but very readable and she has lots of interesting things to say.",
     "date": "2016-01-27T20:16:26-08:00",
     "tags": [
       "link"
@@ -2197,7 +2196,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: The Tapestry YouTube Channel",
-    "description": "We recently redesigned the Tapestry website, and unfortunately lost the archive page. It will definitely come back (and better than before), but in the meantime, there's the Tapestry YouTube Channel. You can watch all the talks from the last three years. This includes people like Hannah Fairfield, Alberto Cairo, Martin Wattenberg and Fernanda Viègas, Kim Rees, and many more.",
+    "description": "We recently redesigned the Tapestry website, and unfortunately lost the archive page.\u00a0It will definitely come back (and better than before), but in the meantime, there's the Tapestry YouTube Channel. You can watch all the talks from the last three years. This includes people like Hannah Fairfield,\u00a0Alberto Cairo, Martin Wattenberg and Fernanda Vi\u00e8gas, Kim Rees, and many more.",
     "date": "2015-12-14T09:55:21-08:00",
     "tags": [
       "tapestry",
@@ -2222,7 +2221,7 @@
     "archived": false,
     "comments": 2,
     "title": "Paper: The Connected Scatterplot for Presenting Paired Time Series",
-    "description": "I’m very happy to finally be able to announce our paper on the connected scatterplot technique. It describes the technique, provides some historical perspective, and most of all looks into how easy to understand and engaging the technique actually is.",
+    "description": "I\u2019m very happy to finally be able to announce our paper on the connected scatterplot technique. It describes the technique, provides some historical perspective, and most of all looks into how easy to understand and engaging the technique actually is.",
     "date": "2015-11-22T21:04:50-08:00",
     "tags": [
       "paper"
@@ -2231,10 +2230,10 @@
   },
   {
     "slug": "the-nips-experiment",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Link: The NIPS Experiment",
-    "description": "The conference on Neural Information Processing Systems (NIPS) has conducted a fascinating experiment: split the program committee into two and get 10% of submissions reviewed by both. The article I'm linking to above has a great analysis of what they found (and it's not encouraging).",
+    "description": "The conference on\u00a0Neural Information Processing Systems (NIPS) has conducted a fascinating experiment: split the program\u00a0committee into two and\u00a0get 10% of submissions reviewed by both. The\u00a0article I'm linking to above has a great analysis of what they found (and it's not encouraging).",
     "date": "2015-11-17T22:54:02-08:00",
     "tags": [
       "link"
@@ -2243,7 +2242,7 @@
   },
   {
     "slug": "tapestry-2016-open-for-applications",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Tapestry 2016 Open For Applications",
     "description": "Tapestry 2016 will take place March 9 next year in a historic hotel near Denver, CO. We have put together another exciting line-up of keynote speakers and are looking for applications from people who want to attend or speak.",
@@ -2270,7 +2269,7 @@
     "slug": "vis-2015-friday",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2015 – Friday",
+    "title": "VIS 2015 \u2013 Friday",
     "description": "The final day of the conference was much shorter, only one full session and then the closing with the capstone. Here is a report on a few more papers, the capstone, a panel left over from Thursday, and a few random tidbits.",
     "date": "2015-11-02T21:11:39-08:00",
     "tags": [
@@ -2283,7 +2282,7 @@
     "slug": "vis-2015-thursday",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2015 – Thursday",
+    "title": "VIS 2015 \u2013 Thursday",
     "description": "Between the sessions, parties, discussions, running, and the occasional short sleep break, I fell a bit behind on the blogging about VIS 2015. After separate postings for Tuesday and Wednesday, this part covers Thursday. The posting about Friday will be short, but squeezing both days into one felt like a bit too much.",
     "date": "2015-11-01T21:40:23-08:00",
     "tags": [
@@ -2296,7 +2295,7 @@
     "slug": "vis-2015-wednesday",
     "archived": false,
     "comments": 2,
-    "title": "VIS 2015 – Wednesday",
+    "title": "VIS 2015 \u2013 Wednesday",
     "description": "The second full day of VIS 2015 brought lots of papers on applications and design studies, and also a panel on solved problems in visualization. As on the first day, I have some observations and thoughts.",
     "date": "2015-10-28T15:34:28-08:00",
     "tags": [
@@ -2309,7 +2308,7 @@
     "slug": "vis-2015-tuesday",
     "archived": false,
     "comments": 2,
-    "title": "VIS 2015 – Tuesday",
+    "title": "VIS 2015 \u2013 Tuesday",
     "description": "IEEE VIS 2015 started today. The first sessions included network visualization and projections, as well as a panel on the use of color in visualization.",
     "date": "2015-10-27T20:33:28-08:00",
     "tags": [
@@ -2382,7 +2381,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: PolicyViz Blog and Podcast",
-    "description": "Jon Schwabish is running a blog and podcast called PolicyViz. In both, he talks about communicating data and how to deal with numbers for the general public. He recently had two interesting guests back-to-back on his podcast: Nigel Holmes and Edward Tufte. Both episodes are well worth listening to.",
+    "description": "Jon Schwabish\u00a0is running a blog and podcast called PolicyViz. In both, he talks about communicating data and how to deal with numbers for the general public. He recently had two interesting guests back-to-back on his podcast: Nigel Holmes and Edward Tufte. Both episodes are well worth listening to.",
     "date": "2015-10-13T19:53:29-08:00",
     "tags": [
       "link"
@@ -2396,8 +2395,7 @@
     "title": "Visualization Research, Part I: Engineering",
     "description": "Conventions in visualization can seem arbitrary, and quite a few are. But there is also a vast body of research, and it is growing every day. Just how does visualization research work? How do we learn new things about visualization and how it can and should be used?",
     "date": "2015-09-29T18:02:44-08:00",
-    "tags": [
-    ],
+    "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/09/finviz-sep2015.png"
   },
   {
@@ -2415,7 +2413,7 @@
     "archived": false,
     "comments": 0,
     "title": "Encounters with HCI Pioneers",
-    "description": "Ben Shneiderman has put together a series of postings about the Pioneers of Human-Computer Interaction (HCI). Each includes a brief biography, some personal notes by Ben, as well as Ben's photos of them. The latter are particularly remarkable, often going back to the 1980s – like the gem at the top of this page, showing the man himself in 1986.",
+    "description": "Ben Shneiderman has put together a series of postings about the Pioneers of Human-Computer Interaction (HCI). Each includes a brief biography, some personal notes by Ben, as well as Ben's photos of them. The latter are particularly remarkable, often going back to the 1980s \u2013 like the gem at the top of this page, showing the man himself\u00a0in 1986.",
     "date": "2015-09-01T20:14:09-08:00",
     "tags": [
       "influences"
@@ -2446,10 +2444,10 @@
   },
   {
     "slug": "visualization-publication-data-collection",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Link: Visualization Publication Data Collection",
-    "description": "People from Georgia Tech, INRIA, University of Stuttgart, and other institutions have put together a comprehensive dataset of all papers presented at Vis/VisWeek/VIS since 1990. This was first collected for a set of visualizations last year, but has been updated with the 2014 data. They intend on keeping it up to date.",
+    "description": "People from Georgia Tech, INRIA, University of Stuttgart, and other institutions have put together a comprehensive dataset of all papers presented at Vis/VisWeek/VIS\u00a0since 1990. This was first collected for a set of visualizations last year, but has been updated with the 2014 data. They intend on keeping it up to date.",
     "date": "2015-06-17T07:43:08-08:00",
     "tags": [
       "conference",
@@ -2462,7 +2460,7 @@
     "archived": false,
     "comments": 1,
     "title": "Link: Disinformation Visualization",
-    "description": "In his piece Disinformation Visualization: How to lie with datavis, Mushon Zer-Aviv makes some interesting points about how framing the same data differently in visualization can make a big difference. Using the example of the abortion debate, he shows the usual chart tricks, cherry-picking, subsetting, etc., that is done to make the data support a particular story.",
+    "description": "In his piece Disinformation Visualization: How to lie with datavis, Mushon Zer-Aviv makes\u00a0some interesting points about how framing the same data differently in visualization can make a big difference. Using the example of the abortion debate, he shows the usual chart tricks, cherry-picking, subsetting, etc., that is done to make the data support\u00a0a particular story.",
     "date": "2015-06-03T06:17:30-08:00",
     "tags": [
       "criticism",
@@ -2497,7 +2495,7 @@
   },
   {
     "slug": "eurovis-running-club",
-    "archived": false,
+    "archived": true,
     "comments": 1,
     "title": "EuroVis Running Club",
     "description": "I'm organizing a very informal running club at EuroVis next week. If you're attending the conference, don't forget to bring your running shoes and leave your excuses at home.",
@@ -2534,7 +2532,7 @@
     "archived": false,
     "comments": 1,
     "title": "Conference Report: CHI 2015",
-    "description": "Last week, I had the pleasure of attending the CHI 2015 conference in Seoul, South Korea. CHI technically stands for Computer-Human Interaction, but it has become a name rather than an acronym in recent years. And CHI’s scope is very broad, it covers many areas that are not strictly part of HCI (Human-Computer Interaction – why use one acronym when you can have two?).",
+    "description": "Last week, I had the pleasure of attending the CHI 2015 conference in Seoul, South Korea. CHI technically stands for Computer-Human Interaction, but it has become a name rather than an acronym in recent years. And CHI\u2019s scope is very broad, it covers many areas that are not strictly part of HCI (Human-Computer Interaction \u2013 why use one acronym when you can have two?).",
     "date": "2015-04-26T18:17:23-08:00",
     "tags": [
       "conference",
@@ -2547,7 +2545,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: The Power of Wee Things",
-    "description": "Lena Groeger (of ProPublica) has written a beautiful piece about the Power of Wee Things. She talks about using small things, multiples, and units to display data and get people interested. The article goes through many, many examples covering many different areas and ideas. She also gave a great talk on the topic at OpenVis 2014.",
+    "description": "Lena Groeger (of ProPublica) has written a beautiful piece about the Power of Wee Things. She talks about using small\u00a0things, multiples, and units to display data and get people interested. The article goes through many, many examples\u00a0covering many different areas and ideas.\u00a0She also gave a great talk on the topic\u00a0at OpenVis 2014.",
     "date": "2015-04-22T06:17:53-08:00",
     "tags": [
       "isotype",
@@ -2560,8 +2558,8 @@
     "slug": "isotype-visualization",
     "archived": false,
     "comments": 2,
-    "title": "Paper: ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs",
-    "description": "Unit charts are not common in visualization, and they are often considered a bad idea. The same is true for using shapes other than rectangles. Neither is based on much actual research, however. In a new paper, we look at the specific example of ISOTYPE-style charts – and find them to be quite effective.",
+    "title": "Paper: ISOTYPE Visualization \u2013 Working Memory, Performance, and Engagement with Pictographs",
+    "description": "Unit charts are not common in visualization, and they are often considered a bad idea. The same is true for using shapes other than rectangles. Neither is based on much actual research, however. In a new paper, we look at the specific example of ISOTYPE-style charts \u2013 and find them to be quite effective.",
     "date": "2015-04-19T22:15:26-08:00",
     "tags": [
       "isotype",
@@ -2574,7 +2572,7 @@
     "archived": false,
     "comments": 1,
     "title": "Link: Design and Redesign in Data Visualization",
-    "description": "Fernanda Viégas and Martin Wattenberg have written a wonderful piece titled Design and Redesign in Data Visualization about criticism in data visualization. They thoughtfully analyze the practice and point out some of the issues when people create redesigns, including intellectual honesty and perfect hindsight.",
+    "description": "Fernanda Vi\u00e9gas and Martin Wattenberg have written a wonderful piece titled Design and Redesign\u00a0in Data Visualization\u00a0about criticism in data visualization. They thoughtfully analyze the practice and point out some of the issues when people create redesigns, including intellectual honesty and perfect hindsight.",
     "date": "2015-04-15T06:17:53-08:00",
     "tags": [
       "criticism",
@@ -2587,7 +2585,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: Dear Data",
-    "description": "Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project they call Dear Data (Twitter account). Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc.",
+    "description": "Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project\u00a0they call Dear Data\u00a0(Twitter account).\u00a0Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc.",
     "date": "2015-04-01T06:17:58-08:00",
     "tags": [
       "link"
@@ -2599,7 +2597,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: Data Journalism in the 19th Century",
-    "description": "Scott Klein of ProPublica has written a great story about an early use of data in journalism, and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today.",
+    "description": "Scott Klein of ProPublica has written a great story\u00a0about\u00a0an early use of data in journalism, and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today.",
     "date": "2015-03-25T06:17:39-08:00",
     "tags": [
       "journalism",
@@ -2622,7 +2620,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: CG&A Article on Tapestry",
-    "description": "I've written a short piece about the Tapestry conference for the Graphically Speaking column in Computer Graphics and Applications. The article talks about the reasoning behind Tapestry, how it's different from academic conferences, and gives a few examples of talks. It even includes anecdotal evidence to show that the conference has enabled actual knowledge transfer.",
+    "description": "I've written a short piece about the Tapestry conference for the\u00a0Graphically Speaking column in\u00a0Computer Graphics and Applications. The article talks about the reasoning behind Tapestry, how it's different from academic conferences, and gives a few examples of talks. It even includes\u00a0anecdotal evidence to show that the\u00a0conference has enabled actual\u00a0knowledge transfer.",
     "date": "2015-03-18T06:17:24-08:00",
     "tags": [
       "tapestry",
@@ -2647,7 +2645,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: The Graphic Continuum",
-    "description": "The Graphic Continuum is a poster created by Jon Schwabish and Severino Ribecca (the man behind the Data Visualisation Catalogue). It lists almost 90 different chart types and organizes them into five large groups: distribution, time, comparing categories, geospatial, part-to-whole, and relationships. Some of them are connected across groups where there are further similarities.\nThe poster is printed very nicely and makes for a great piece of wall art to stare at when thinking about data, and maybe to get an idea for what new visualization to try.",
+    "description": "The Graphic Continuum is a poster created by Jon Schwabish and\u00a0Severino Ribecca (the man behind the Data Visualisation Catalogue). It\u00a0lists almost\u00a090 different chart types\u00a0and organizes them into five large groups: distribution, time, comparing categories, geospatial, part-to-whole, and relationships.\u00a0Some of them are connected across groups where there are further similarities.\nThe poster is printed very nicely\u00a0and makes for a great piece of wall art to stare at when thinking about data, and maybe to get an idea for what new visualization to try.",
     "date": "2015-02-25T07:17:10-08:00",
     "tags": [
       "link"
@@ -2659,7 +2657,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: Joint Committee on Standards for Graphic Presentation (1915)",
-    "description": "An article in the Publications of the American Statistical Association by the Joint Committee on Standards for Graphic Presentation laid down some standards for how to create good data visualizations. In 1915.",
+    "description": "An article in the Publications of the American Statistical Association by the\u00a0Joint Committee on Standards for Graphic Presentation laid down some standards for how to\u00a0create good data visualizations. In 1915.",
     "date": "2015-02-18T07:17:47-08:00",
     "tags": [
       "link"
@@ -2671,7 +2669,7 @@
     "archived": false,
     "comments": 1,
     "title": "Video: Nigel Holmes on Humor in Visualization and Infographics",
-    "description": "In this talk, Nigel Holmes talks about the value of and use of humor in communicating visualization. He also has some interesting criticism of academic visualization research (and also some more artistic pieces). It's a fun and interesting talk, as always with Nigel Holmes.",
+    "description": "In this talk, Nigel Holmes talks about the value of and use of humor in communicating visualization. He\u00a0also has some interesting criticism of academic visualization research (and also some more artistic pieces). It's a\u00a0fun and interesting talk, as always with Nigel Holmes.",
     "date": "2015-02-11T07:17:26-08:00",
     "tags": [
       "link"
@@ -2683,7 +2681,7 @@
     "archived": false,
     "comments": 5,
     "title": "Link: Becksploitation: The Over-Use of a Cartographic Icon",
-    "description": "The paper Becksploitation: The Over-Use of a Cartographic Icon by Kenneth Field and William Cartwright in The Cartographic Journal describes Harry Beck's famous map of the London Underground and what makes it great. It also offers a collection of misuses of the superficial structure, and critiques them. I wish we'd had papers (and titles!) like this in visualization.",
+    "description": "The paper Becksploitation: The Over-Use of a Cartographic Icon by Kenneth Field and William Cartwright\u00a0in The Cartographic Journal describes Harry Beck's famous map of the London Underground and what makes it great. It also offers a collection of misuses of the\u00a0superficial structure, and critiques them. I wish we'd had papers (and titles!) like this in visualization.",
     "date": "2015-02-04T07:17:02-08:00",
     "tags": [
       "criticism",
@@ -2706,10 +2704,10 @@
   },
   {
     "slug": "link-tapestry-2015",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Link: Tapestry 2015",
-    "description": "Tapestry 2015 will take place March 4 in Athens, GA. This is the third time we are holding the conference, and it is again taking place on the day before NICAR. As in the past years, have a kick-ass line-up of speakers.",
+    "description": "Tapestry 2015 will take place March 4 in Athens, GA. This is the third time we are holding the conference, and it is again taking place on the day before NICAR. As in the past years,\u00a0have a kick-ass line-up of speakers.",
     "date": "2015-01-28T07:17:49-08:00",
     "tags": [
       "tapestry",
@@ -2745,7 +2743,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: Data Stories Podcast 2014 Review",
-    "description": "Episode 46 of the Data Stories podcast features Andy Kirk and yours truly in an epic battle for podcast dominance a review of the year 2014.",
+    "description": "Episode 46 of the Data Stories podcast features Andy Kirk and yours truly in\u00a0an epic battle for podcast dominance\u00a0a review of the year 2014.",
     "date": "2015-01-22T07:17:26-08:00",
     "tags": [
       "link"
@@ -2757,7 +2755,7 @@
     "archived": false,
     "comments": 1,
     "title": "Link: Data Viz Done Right",
-    "description": "Andy Kriebel's Data Viz Done Right is a remarkable little website. He collects good examples of data visualization and talks about what works and what doesn't. He does have bits of criticism sometimes, but he always has more positive than negative things to say about his picks. Good stuff.",
+    "description": "Andy Kriebel's Data Viz Done Right is a remarkable little website. He collects good examples of data visualization and talks about what works and what doesn't.\u00a0He does have bits of criticism sometimes, but\u00a0he always has more positive than negative\u00a0things to say about his picks. Good stuff.",
     "date": "2015-01-21T07:17:48-08:00",
     "tags": [
       "criticism",
@@ -2770,7 +2768,7 @@
     "archived": false,
     "comments": 14,
     "title": "Why Is Paper-Writing Software So Awful?",
-    "description": "The tools of the trade for academics and others who write research papers are among the worst software has to offer. Whether it’s writing or citation management, there are countless issues and annoyances. How is it possible that this fairly straightforward category of software is so outdated and awful?",
+    "description": "The tools of the trade for academics and others who write research papers are among the worst software has to offer. Whether it\u2019s writing or citation management, there are countless issues and annoyances. How is it possible that this fairly straightforward category of software is so outdated and awful?",
     "date": "2015-01-18T19:58:12-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2015/01/eg-guidelines.gif"
@@ -2805,7 +2803,7 @@
     "archived": false,
     "comments": 0,
     "title": "Link: Businessweek Vintage Graphics",
-    "description": "The BizWeekGraphics tumblr (well worth following in general) has a series of postings with a beautiful collection of graphics from the very early days of Businessweek, and also some more recent ones.",
+    "description": "The BizWeekGraphics tumblr (well worth following in general) has a series of postings with a beautiful collection of\u00a0graphics from the very early days of Businessweek, and also some more recent ones.",
     "date": "2015-01-07T07:13:16-08:00",
     "tags": [
       "journalism",
@@ -2868,7 +2866,7 @@
     "archived": false,
     "comments": 1,
     "title": "VIS 2014 Observations and Thoughts",
-    "description": "While I’ve covered individual talks and events at IEEE VIS 2014, there are also some overall observations – positive and negative – I thought would be interesting to write down to see what others were thinking.",
+    "description": "While I\u2019ve covered individual talks and events at IEEE VIS 2014, there are also some overall observations \u2013 positive and negative \u2013 I thought would be interesting to write down to see what others were thinking.",
     "date": "2014-11-17T19:19:38-08:00",
     "tags": [
       "conference",
@@ -2880,8 +2878,8 @@
     "slug": "vis-2014-friday",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2014 – Friday",
-    "description": "Wow, that was fast! VIS 2014 is already over. This year’s last day was shorter than in previous years, with just one morning session and then the closing session with the capstone talk.",
+    "title": "VIS 2014 \u2013 Friday",
+    "description": "Wow, that was fast! VIS 2014 is already over. This year\u2019s last day was shorter than in previous years, with just one morning session and then the closing session with the capstone talk.",
     "date": "2014-11-14T07:46:11-08:00",
     "tags": [
       "conference",
@@ -2893,7 +2891,7 @@
     "slug": "vis-2014-thursday",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2014 – Thursday",
+    "title": "VIS 2014 \u2013 Thursday",
     "description": "Thursday was the penultimate day of VIS 2014. I ended up only going to InfoVis sessions, and unfortunately missed a panel I had been planning to see. The papers were a bit more mixed, but there were agains some really good ones.",
     "date": "2014-11-13T23:16:04-08:00",
     "tags": [
@@ -2906,7 +2904,7 @@
     "slug": "vis-2014-wednesday",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2014 – Wednesday",
+    "title": "VIS 2014 \u2013 Wednesday",
     "description": "Wednesday is more than the halfway point of the conference, and was clearly the high point so far. There were some great papers, the arts program, and I got to see the Bertin exhibit.",
     "date": "2014-11-13T06:29:26-08:00",
     "tags": [
@@ -2919,7 +2917,7 @@
     "slug": "vis-2014-tuesday",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2014 – Tuesday",
+    "title": "VIS 2014 \u2013 Tuesday",
     "description": "The big opening day of the conference, Tuesday, brought us a keynote, talks, and panels. Also, a new trend I really like: many talks end with the URL of a webpage that contains a brief summary of the paper, the PDF, and often even a link to the source code of the tool they developed.",
     "date": "2014-11-12T00:46:27-08:00",
     "tags": [
@@ -2932,7 +2930,7 @@
     "slug": "vis-2014-monday",
     "archived": false,
     "comments": 0,
-    "title": "VIS 2014 – Monday",
+    "title": "VIS 2014 \u2013 Monday",
     "description": "IEEE VIS 2014 technically began on Saturday, with the first full day open to all attendees being Sunday. Monday continued the workshops and tutorials, and that is where we join our intrepid reporter.",
     "date": "2014-11-11T00:41:05-08:00",
     "tags": [
@@ -2946,7 +2944,7 @@
     "archived": false,
     "comments": 0,
     "title": "The VIS Sports Authority",
-    "description": "When you think of a conference, does sitting around a lot come to mind? Lots of food? Bad coffee? No time to work out? For the first time in VIS history, there will be a way to exercise your body, not just your mind. The VIS Sports Authority, which is totally an official thing that I didn’t just make up, will kick your ass at VIS 2014.",
+    "description": "When you think of a conference, does sitting around a lot come to mind? Lots of food? Bad coffee? No time to work out? For the first time in VIS history, there will be a way to exercise your body, not just your mind. The VIS Sports Authority, which is totally an official thing that I didn\u2019t just make up, will kick your ass at VIS 2014.",
     "date": "2014-10-19T15:35:44-08:00",
     "tags": [
       "ieeevis"
@@ -2958,7 +2956,7 @@
     "archived": false,
     "comments": 8,
     "title": "Large Multiples",
-    "description": "Getting a sense of scale can be difficult, and the usual chart types like bars and lines don’t help. Showing scale requires a different approach, one that makes the multiplier directly visible.",
+    "description": "Getting a sense of scale can be difficult, and the usual chart types like bars and lines don\u2019t help. Showing scale requires a different approach, one that makes the multiplier directly visible.",
     "date": "2014-10-12T19:43:17-08:00",
     "tags": [
       "technique",
@@ -3075,7 +3073,7 @@
     "archived": false,
     "comments": 0,
     "title": "Review: Manuel Lima, The Book of Trees",
-    "description": "Trees. They’re everywhere. And not just in the physical world, but in data visualization and knowledge representation as well. This is not a new phenomenon, it goes back thousands of years. Manuel Lima’s new book, The Book of Trees, gives an overview.",
+    "description": "Trees. They\u2019re everywhere. And not just in the physical world, but in data visualization and knowledge representation as well. This is not a new phenomenon, it goes back thousands of years. Manuel Lima\u2019s new book, The Book of Trees, gives an overview.",
     "date": "2014-04-13T19:57:09-08:00",
     "tags": [
       "book-review",
@@ -3100,7 +3098,7 @@
     "archived": false,
     "comments": 3,
     "title": "Stories Are Gateways Into Worlds",
-    "description": "Moritz Stefaner recently wrote a posting titled Worlds, not stories. He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one.",
+    "description": "Moritz Stefaner recently wrote a posting titled Worlds, not stories. He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they\u2019re told. I have a few things to say about this, and will do so in two parts. This is part one.",
     "date": "2014-03-23T19:58:31-08:00",
     "tags": [
       "storytelling"
@@ -3109,7 +3107,7 @@
   },
   {
     "slug": "newsvis-org-the-directory-of-news-visualizations",
-    "archived": false,
+    "archived": true,
     "comments": 10,
     "title": "NewsVis.org, The Directory of News Visualizations",
     "description": "When I was in Portland over the holidays a few weeks ago, I noticed a visualization in the local newspaper, The Oregonian. I had never heard of that before, nor of Mark Friesen, who created it. Wondering how many visualizations I might be missing, I decided to build a website that would collect them all: newsvis.org.",
@@ -3147,7 +3145,7 @@
     "archived": false,
     "comments": 14,
     "title": "Peer Review, Part 5: The Importance of Gatekeepers",
-    "description": "The purpose of peer review is to separate the wheat from the chaff, the good from the bad, the brilliant from the clinically insane – you get the picture. But why? Why filter and not just let anybody publish whatever they want?",
+    "description": "The purpose of peer review is to separate the wheat from the chaff, the good from the bad, the brilliant from the clinically insane \u2013 you get the picture. But why? Why filter and not just let anybody publish whatever they want?",
     "date": "2014-01-23T21:11:07-08:00",
     "tags": [
       "peer-review"
@@ -3171,7 +3169,7 @@
     "archived": false,
     "comments": 4,
     "title": "Peer Review, Part 3: A Taxonomy of Bad Papers",
-    "description": "Reviewing is great when you get a good paper where you can make some suggestions to make it even better, and everybody’s happy. Bad papers are much less fun, but they are also much more common. Here are some examples I’ve seen and that I keep seeing.",
+    "description": "Reviewing is great when you get a good paper where you can make some suggestions to make it even better, and everybody\u2019s happy. Bad papers are much less fun, but they are also much more common. Here are some examples I\u2019ve seen and that I keep seeing.",
     "date": "2014-01-21T21:40:51-08:00",
     "tags": [
       "peer-review"
@@ -3195,7 +3193,7 @@
     "archived": false,
     "comments": 3,
     "title": "Peer Review, Part 1: Quilt Plots",
-    "description": "What is peer review? How does it work? And is it really as flawed as people claim it is? In this little series, I will talk about all that, and then end up arguing that peer review does, in fact, work - at least in visualization. But first an example where it didn’t.",
+    "description": "What is peer review? How does it work? And is it really as flawed as people claim it is? In this little series, I will talk about all that, and then end up arguing that peer review does, in fact, work - at least in visualization. But first an example where it didn\u2019t.",
     "date": "2014-01-19T21:14:01-08:00",
     "tags": [
       "peer-review"
@@ -3232,7 +3230,7 @@
     "archived": false,
     "comments": 1,
     "title": "Ben Shneiderman's Treemap Art",
-    "description": "Art imitates life, and sometimes art is inspired by research. Ben Shneiderman’s Treemap Art is unique in that it is the researcher himself (with Kazi Minhazur Rahman), rather than an artist, who has created the art pieces.",
+    "description": "Art imitates life, and sometimes art is inspired by research. Ben Shneiderman\u2019s Treemap Art is unique in that it is the researcher himself (with Kazi Minhazur Rahman), rather than an artist, who has created the art pieces.",
     "date": "2013-12-22T20:45:41-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian.png"
@@ -3242,7 +3240,7 @@
     "archived": false,
     "comments": 5,
     "title": "Scaling An Axis to Make A Point",
-    "description": "A clever chart redesign last week got a lot of people talking about which one is “right.” What is more interesting to me is not which one is (supposedly) the better representation of the truth, but which purpose each one serves.",
+    "description": "A clever chart redesign last week got a lot of people talking about which one is \u201cright.\u201d What is more interesting to me is not which one is (supposedly) the better representation of the truth, but which purpose each one serves.",
     "date": "2013-12-15T20:56:30-08:00",
     "tags": [
       "criticism",
@@ -3255,7 +3253,7 @@
     "archived": false,
     "comments": 8,
     "title": "A Lack of Communication and Visibility",
-    "description": "Finding visualization projects and pretty pictures on the web isn’t exactly difficult, but what about actual research? What if you wanted to know what’s going on in visualization, and get a sense of what current work is the most interesting? There is no resource for this that I’m aware of, but there should be.",
+    "description": "Finding visualization projects and pretty pictures on the web isn\u2019t exactly difficult, but what about actual research? What if you wanted to know what\u2019s going on in visualization, and get a sense of what current work is the most interesting? There is no resource for this that I\u2019m aware of, but there should be.",
     "date": "2013-12-10T19:27:23-08:00",
     "tags": [],
     "featuredImage": null
@@ -3265,7 +3263,7 @@
     "archived": false,
     "comments": 8,
     "title": "A Guide to the Quality of Different Visualization Venues",
-    "description": "I recently got an email from a colleague with the subject, “Academic research, is it all bad?” He had looked at a paper presented at a VIS workshop that people were pointing to on Twitter, and had found it lacking (“it’s just a blog posting”). While there are high-quality venues for visualization research, it’s not easy to be sure which ones are good, and which ones are lower quality.",
+    "description": "I recently got an email from a colleague with the subject, \u201cAcademic research, is it all bad?\u201d He had looked at a paper presented at a VIS workshop that people were pointing to on Twitter, and had found it lacking (\u201cit\u2019s just a blog posting\u201d). While there are high-quality venues for visualization research, it\u2019s not easy to be sure which ones are good, and which ones are lower quality.",
     "date": "2013-11-10T20:53:23-08:00",
     "tags": [
       "peer-review"
@@ -3274,7 +3272,7 @@
   },
   {
     "slug": "tapestry-2014-announced",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Tapestry 2014 Announced",
     "description": "After a very successful Tapestry conference in February this year, we have been getting a steady stream of questions from people about another event next year. Now we're finally able to announce next year's event. And it will be awesome, again.",
@@ -3304,7 +3302,7 @@
     "archived": false,
     "comments": 2,
     "title": "Review: Isabel Meirelles, Design for Information",
-    "description": "When I’m asked for a good book about visualization, I usually try to change the subject. There is no book I really love, they all have their issues. But thanks to Isabel Meirelles, I can now give a straight answer: Design for Information.",
+    "description": "When I\u2019m asked for a good book about visualization, I usually try to change the subject. There is no book I really love, they all have their issues. But thanks to Isabel Meirelles, I can now give a straight answer: Design for Information.",
     "date": "2013-10-20T20:12:31-08:00",
     "tags": [
       "book-review",
@@ -3351,7 +3349,7 @@
   },
   {
     "slug": "watch-tcc-keynote-live-monday",
-    "archived": false,
+    "archived": true,
     "comments": 8,
     "title": "Watch the TCC Keynote Live on Monday",
     "description": "The Tableau Customer Conference (TCC) starts tomorrow with a big keynote that includes demos of upcoming features. Watch it live at this link, and see me demo something new and exciting.",
@@ -3376,7 +3374,7 @@
     "archived": false,
     "comments": 3,
     "title": "Thoughts on Blogging",
-    "description": "I was recently asked some questions via email about blogging. Rather than respond via email, I’ve decided to do a Gelman and post my response here.",
+    "description": "I was recently asked some questions via email about blogging. Rather than respond via email, I\u2019ve decided to do a Gelman and post my response here.",
     "date": "2013-08-27T20:42:26-08:00",
     "tags": [
       "meta"
@@ -3442,7 +3440,7 @@
     "archived": false,
     "comments": 3,
     "title": "It's Just Too Easy",
-    "description": "Once you’ve seen one visualization book, you’ve seen them all. They tend to all look similar, use the same examples, and don’t provide much depth. Is it too easy to write a book when you can use such compelling images?",
+    "description": "Once you\u2019ve seen one visualization book, you\u2019ve seen them all. They tend to all look similar, use the same examples, and don\u2019t provide much depth. Is it too easy to write a book when you can use such compelling images?",
     "date": "2013-07-17T20:14:31-08:00",
     "tags": [
       "criticism",
@@ -3518,7 +3516,7 @@
     "slug": "schloss-dagstuhl",
     "archived": false,
     "comments": 0,
-    "title": "Schloß Dagstuhl",
+    "title": "Schlo\u00df Dagstuhl",
     "description": "For many computer science researchers, the name Dagstuhl rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?",
     "date": "2013-05-26T20:19:51-08:00",
     "tags": [
@@ -3574,7 +3572,7 @@
   },
   {
     "slug": "eagereyes-google-reader",
-    "archived": false,
+    "archived": true,
     "comments": 3,
     "title": "How to Keep Following eagereyes After the End of Google Reader",
     "description": "With Google Reader shutting down July 1st, now is the time to find alternative ways to follow your favorite blogs. For this one, you can now get new postings on Facebook and through a dedicated Twitter feed, in addition to the RSS feed. See below for some RSS aggregator/reader alternatives to Google Reader.",
@@ -3589,7 +3587,7 @@
     "archived": false,
     "comments": 0,
     "title": "The Revolution Will Be Visualized",
-    "description": "In the 1970s, it was the protest songs. In the 1980s, it was the anti-war movies. Today, the protest is no longer happening in songs or movies. Today, it’s online, based on data, and using visualization.",
+    "description": "In the 1970s, it was the protest songs. In the 1980s, it was the anti-war movies. Today, the protest is no longer happening in songs or movies. Today, it\u2019s online, based on data, and using visualization.",
     "date": "2013-04-03T20:11:35-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/04/drone-victims.png"
@@ -3599,7 +3597,7 @@
     "archived": false,
     "comments": 1,
     "title": "Glimpses of Data: The CBO's Snapshots",
-    "description": "Arguments in data visualization are so fierce because the stakes are so low is a great zinger that I’ve heard a few times recently. But it’s not always true. Data visualization influences important decisions every day. The Congressional Budget Office’s new snapshots are but one example.",
+    "description": "Arguments in data visualization are so fierce because the stakes are so low is a great zinger that I\u2019ve heard a few times recently. But it\u2019s not always true. Data visualization influences important decisions every day. The Congressional Budget Office\u2019s new snapshots are but one example.",
     "date": "2013-03-24T03:00:17-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2013/03/43983-land-UI.png"
@@ -3690,7 +3688,7 @@
     "archived": false,
     "comments": 1,
     "title": "Review: Scott Christianson, 100 Diagrams That Changed the World",
-    "description": "I recently came across this book that claims to collect the 100 most important diagrams in the history of mankind. It’s a good collection, with many wonderful examples, though it has its flaws.",
+    "description": "I recently came across this book that claims to collect the 100 most important diagrams in the history of mankind. It\u2019s a good collection, with many wonderful examples, though it has its flaws.",
     "date": "2013-02-14T20:52:49-08:00",
     "tags": [
       "book-review",
@@ -3716,7 +3714,7 @@
     "archived": false,
     "comments": 8,
     "title": "The State of Information Visualization, 2013",
-    "description": "Well, the world hasn’t ended, so here’s a look back at what happened in visualization in 2012, and a look ahead in case the world is still around a year from now.",
+    "description": "Well, the world hasn\u2019t ended, so here\u2019s a look back at what happened in visualization in 2012, and a look ahead in case the world is still around a year from now.",
     "date": "2013-01-21T22:09:22-08:00",
     "tags": [
       "state-of-infovis"
@@ -3879,7 +3877,7 @@
     "archived": false,
     "comments": 0,
     "title": "A Few VisWeek Pointers",
-    "description": "What good is a blog if it doesn’t serve the noble goal of self-promotion? Here are a few pointers to papers I’m involved in at VisWeek, as well a job posting that’s kind of my fault.",
+    "description": "What good is a blog if it doesn\u2019t serve the noble goal of self-promotion? Here are a few pointers to papers I\u2019m involved in at VisWeek, as well a job posting that\u2019s kind of my fault.",
     "date": "2012-10-10T20:41:11-08:00",
     "tags": [
       "ieeevis"
@@ -3904,7 +3902,7 @@
     "archived": false,
     "comments": 1,
     "title": "A VisWeek Survival Guide, Part 2",
-    "description": "Less than two weeks to go until VisWeek 2012, so it’s time for the crucial second part of the survival guide. There are tons of things to see and do in Seattle, it’s easy to get distracted.",
+    "description": "Less than two weeks to go until VisWeek 2012, so it\u2019s time for the crucial second part of the survival guide. There are tons of things to see and do in Seattle, it\u2019s easy to get distracted.",
     "date": "2012-10-03T08:26:41-08:00",
     "tags": [
       "ieeevis"
@@ -3928,7 +3926,7 @@
     "archived": false,
     "comments": 5,
     "title": "Storytelling and Focus",
-    "description": "There are many differences between data analysis and presentation. One that is often overlooked is the need to focus a story to just the essential points, and not overload it with unnecessary detail. Minard’s famous map is a great example of reduction to the bare minimum.",
+    "description": "There are many differences between data analysis and presentation. One that is often overlooked is the need to focus a story to just the essential points, and not overload it with unnecessary detail. Minard\u2019s famous map is a great example of reduction to the bare minimum.",
     "date": "2012-09-09T20:30:15-08:00",
     "tags": [
       "storytelling"
@@ -3964,7 +3962,7 @@
     "archived": false,
     "comments": 74,
     "title": "Edward Tufte's One Day Course: A Review",
-    "description": "Last Monday, I got to attend Edward Tufte’s one-day course. I was looking forward to a day of interesting examples, ideas, and discussions, but was disappointed by the amount of rambling and largely historical examples, with little connection to real, current visualization (or presentation) work.",
+    "description": "Last Monday, I got to attend Edward Tufte\u2019s one-day course. I was looking forward to a day of interesting examples, ideas, and discussions, but was disappointed by the amount of rambling and largely historical examples, with little connection to real, current visualization (or presentation) work.",
     "date": "2012-08-05T21:25:20-08:00",
     "tags": [
       "criticism"
@@ -4013,7 +4011,7 @@
     "archived": false,
     "comments": 3,
     "title": "Science: It's a Curiosity Thing!",
-    "description": "This video called Science: It’s a Girl Thing! has been widely criticized for being sexist. What I find even more disturbing is that there is an actual need to dress science and technology up as something they are not. When did kids lose their curiosity?",
+    "description": "This video called Science: It\u2019s a Girl Thing! has been widely criticized for being sexist. What I find even more disturbing is that there is an actual need to dress science and technology up as something they are not. When did kids lose their curiosity?",
     "date": "2012-06-25T22:12:52-08:00",
     "tags": [],
     "featuredImage": "https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg"
@@ -4122,7 +4120,7 @@
     "archived": false,
     "comments": 8,
     "title": "How Much Data Do You Really Need?",
-    "description": "One of the many things Malofiej 20 made me wonder about is how we present data and what we expect from such a presentation. Very often, we essentially narrate the process of discovery, but is that really the best way? And how much data do we need to show when making a point? Just because we start out with lots of data does not mean we really need to show it all.",
+    "description": "One of the many things Malofiej 20\u00a0made me wonder about is how we present data and what we expect from such a presentation. Very often, we essentially narrate the process of discovery, but is that really the best way? And how much data do we need to show when making a point? Just because we start out with lots of data does not mean we really need to show it all.",
     "date": "2012-05-24T21:44:43-08:00",
     "tags": [
       "journalism"
@@ -4198,7 +4196,7 @@
   },
   {
     "slug": "april-visualization-challenge-time",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "April is Visualization Challenge Time!",
     "description": "While there has been some criticism of a particular type of visualization challenge recently, there are many other challenges that are organized well and provide good opportunities for people to work on their skills. Two challenges in particular have caught my attention, and are presented here with the official EagerEyes Quality Seal and Stamp of Approval.",
@@ -4231,7 +4229,7 @@
   },
   {
     "slug": "upcoming-travel-sxsw-malofiej",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Upcoming Travel: SxSW and Malofiej",
     "description": "I will be at South-by-Southwest (SxSW) this year to speak on a panel, and also take part in the Malofiej awards and summit, where I will be a judge and speaker. Here are some pointers for those of you who might be at one (or both!) of those events.",
@@ -4241,7 +4239,7 @@
   },
   {
     "slug": "storytelling-experiment",
-    "archived": false,
+    "archived": true,
     "comments": 6,
     "title": "A Storytelling Experiment",
     "description": "I need two minutes of your time. By clicking on the following link, you will be taken to one of several slightly different versions of a visual story about the development of the gross domestic product (GDP) in different countries. Watch it, play with it, and if you like it: share it. You will help us understand which types of storytelling work and which don't. There is no annoying survey, just a little story.",
@@ -4396,7 +4394,7 @@
   },
   {
     "slug": "posting-frequency-2012",
-    "archived": false,
+    "archived": true,
     "comments": 4,
     "title": "New Posting Frequency for 2012",
     "description": "In my enthusiasm about switching to WordPress, I made the mistake of tweeting about potentially increasing my posting frequency in 2012. While I have tried to stick to a roughly weekly schedule in the past, there have been weeks when I did not write anything. My hope is to increase the frequency to roughly twice a week and see how that goes. John Peltier and Jorge Camoes are planning on doing the same.",
@@ -4456,7 +4454,7 @@
     "archived": false,
     "comments": 0,
     "title": "List of Influences: Ben Shneiderman",
-    "description": "Ben Shneiderman’s name has been with me through my entire computing life. In high school, we used to draw Nassi-Shneiderman diagrams to understand structured programming. In the HCI course at my university, his name was on the papers and book chapters we read. When I got into information visualization, he was still everywhere, with treemaps, the visual information seeking mantra, and many other greatly influential pieces of work. What follows below is Ben’s list of influences, in his own words.",
+    "description": "Ben Shneiderman\u2019s name has been with me through my entire computing life. In high school, we used to draw Nassi-Shneiderman diagrams to understand structured programming. In the HCI course at my university, his name was on the papers and book chapters we read. When I got into information visualization, he was still everywhere, with treemaps, the visual information seeking mantra, and many other greatly influential pieces of work. What follows below is Ben\u2019s list of influences, in his own words.",
     "date": "2011-12-18T20:44:01-08:00",
     "tags": [
       "influences"
@@ -4552,7 +4550,7 @@
     "archived": false,
     "comments": 3,
     "title": "Five Years of EagerEyes",
-    "description": "In dog years, this website is now (almost) as old as I am. Over the years, it has changed both its direction and design several times; there have been times when I was overwhelmed with my readers' reactions and times when nobody seemed to read the stuff I wrote. While I generally hate “best of” postings and indulging in nostalgia, I want to look back at a few of the things that I believe have shaped this site and how I think about what I'm doing, and revisit a few of the more interesting and/or successful things I've managed to do and write over the years.",
+    "description": "In dog years, this website is now (almost) as old as I am. Over the years, it has changed both its direction and design several times; there have been times when I was overwhelmed with my readers' reactions and times when nobody seemed to read the stuff I wrote. While I generally hate \u201cbest of\u201d postings and indulging in nostalgia, I want to look back at a few of the things that I believe have shaped this site and how I think about what I'm doing, and revisit a few of the more interesting and/or successful things I've managed to do and write over the years.",
     "date": "2011-09-30T22:18:36-08:00",
     "tags": [
       "meta"
@@ -4573,7 +4571,7 @@
   },
   {
     "slug": "sxsw",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Vote for our SxSW Panel on Visualization!",
     "description": "It's that time of year again when annoying hipsters and wannabes start bugging you about their stupid SxSW panels. The panel proposal that Irene Ros has put together (and that includes yours truly) is different though, and well worth your time to vote.",
@@ -4625,7 +4623,7 @@
   },
   {
     "slug": "visweek-2011-doctoral-colloquium",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "VisWeek 2011 Doctoral Colloquium",
     "description": "The deadline for the VisWeek 2011 Doctoral Colloquium is only a few days away! This is your chance to get your work reviewed and discussed in detail by some of the most experienced researchers in information visualization, scientific visualization, or visual analytics. There is also a stipend to help with your conference registration and travel costs.",
@@ -4834,7 +4832,7 @@
     "archived": false,
     "comments": 0,
     "title": "Blogging BOF at VisWeek",
-    "description": "Enrico Bertini and I will host a Birds-of-a-Feather meeting Thursday night on Blogging in Visualization. We will talk about our experiences, answer questions, and hopefully dispel some myths about blogging in science. Whether you're going or not, I recommend reading the article You Aren’t Blogging Yet?!? in The Scientist.",
+    "description": "Enrico Bertini and I will host a Birds-of-a-Feather meeting Thursday night on Blogging in Visualization. We will talk about our experiences, answer questions, and hopefully dispel some myths about blogging in science. Whether you're going or not, I recommend reading the article You Aren\u2019t Blogging Yet?!? in The Scientist.",
     "date": "2010-10-25T18:19:58-08:00",
     "tags": [
       "ieeevis"
@@ -4881,7 +4879,7 @@
   },
   {
     "slug": "open-positions-at-pnnl",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Open Positions at PNNL",
     "description": "Pacific Northwest National Laboratory (PNNL) is looking to fill three positions related to visualization and visual analytics. If you are interested, see their jobs website for more information and to apply. All positions require the ability to obtain a future security clearance, which requires U.S. citizenship. They're all located in Richland, Washington.",
@@ -4996,7 +4994,7 @@
   },
   {
     "slug": "infovis-theory-workshop-deadline-extended",
-    "archived": true,
+    "archived": false,
     "comments": 2,
     "title": "InfoVis Theory Workshop Deadline Extended",
     "description": "We have received a few good submissions for the InfoVis Theory Workshop at VisWeek, but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance.",
@@ -5048,7 +5046,7 @@
   },
   {
     "slug": "follow-me-on-twitter",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Follow Me on Twitter!",
     "description": "If you enjoy reading my website, why not follow me on Twitter, too? So click the birdie above to get to my Twitter page!",
@@ -5335,7 +5333,7 @@
     "archived": true,
     "comments": 2,
     "title": "Data Visualization: Should We Divide It?",
-    "description": "For some time now there has been some discussion about finding a new terminology for the Data Visualization field. The intention is to find names that reflects the two main different directions that are seen today on Dataviz: visual data analysis and data driven aesthetics images. The concern is that Data Visualization might lose its ‘serious’ role as an analytic tool by including works that, without doubt, praise aesthetics before clarity.",
+    "description": "For some time now there has been some discussion about finding a new terminology for the Data Visualization field. The intention is to find names that reflects the two main different directions that are seen today on Dataviz: visual data analysis and data driven aesthetics images. The concern is that Data Visualization might lose its \u2018serious\u2019 role as an analytic tool by including works that, without doubt, praise aesthetics before clarity.",
     "date": "2010-01-17T20:56:59-08:00",
     "tags": [
       "criticism"
@@ -5535,7 +5533,7 @@
   },
   {
     "slug": "qnch-data-description-language-for-tabular-data",
-    "archived": false,
+    "archived": true,
     "comments": 7,
     "title": "qnch - A Data Description Language for Tabular Data",
     "description": "A lot of data is tabular in nature, and is efficiently encoded in text files. While such files are easy to produce and read, they bring with them several challenges when used in visualization tools and other programs that have to understand some of the data's properties. Examples include categorical data, special values in numerical columns (which are common in Census data), and information about the data like its producer. Here is a proposal for a simple data description format that provides that missing information. I call it qnch.",
@@ -5565,7 +5563,7 @@
   },
   {
     "slug": "parsets-users-with-real-data",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Looking for Parallel Sets Users with Real Data",
     "description": "We are looking for people who use Parallel Sets with real-world data and who would be interested in taking part in writing up a case study for the InfoVis Discovery Exhibition. You don't have to share your data, and the images can be anonymized, but it has to be real data (and you have to be able to describe what it is and what you learned in a way that is not too general).",
@@ -5575,9 +5573,9 @@
   },
   {
     "slug": "putting-visualization-on-the-web-visweek",
-    "archived": false,
+    "archived": true,
     "comments": 3,
-    "title": "Putting Visualization on the Web – at VisWeek 2009",
+    "title": "Putting Visualization on the Web \u2013 at VisWeek 2009",
     "description": "A while ago, I complained about the state of visualization on the web. To improve things, I am co-organizing a workshop at VisWeek in October to discuss the status quo, potential problems, and to find new ways to get visualization people to make their mark online. Whether you have a blog or website, don't have a blog or website, plan on starting one, are afraid of starting one, or think this whole web thing is just a fad &ndash; we want to hear from you!",
     "date": "2009-06-26T06:25:59-08:00",
     "tags": [],
@@ -5673,7 +5671,7 @@
   },
   {
     "slug": "parallel-sets-release-date-html",
-    "archived": false,
+    "archived": true,
     "comments": 1,
     "title": "Parallel Sets Release Date",
     "description": "We promised the release of the Parallel Sets program for the end of April, but we have to push it to May 7. The reason is quite simply lack of time: the semester is ending here at UNC Charlotte, and things are rather busy as a result. There is also the nuts-and-bolts work of making this work as an application for end-users that works well on at least two platforms (Windows and Mac OS X), and that can provide useful information when it doesn't.",
@@ -6137,7 +6135,7 @@
   },
   {
     "slug": "youtube-screening-room",
-    "archived": false,
+    "archived": true,
     "comments": 1,
     "title": "The YouTube Screening Room",
     "description": "I'm not generally a big YouTube fan. Sure, I've watched all the funny cat movies and seen people dump Mentos into bottles of Diet Coke. But little else has made me go there in some months. This has changed, though, with a new feature of the website: The YouTube Screen Room. Twice a month, four independent short films are added to the site, and the quality is amazing.",
@@ -6196,7 +6194,7 @@
   },
   {
     "slug": "visualization-day-at-city-college-of-new-york",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Visualization Day at City College of New York",
     "description": "The City College of New York will be hosting a visualization day on April 30, with a very interesting line-up of speakers: Ben Shneiderman (who is also listed as a sponsor), Matthew Ericson (NY Times), Catherine Plaisant (University of Maryland), Martin Wattenberg (IBM/Many Eyes), and others.",
@@ -6220,7 +6218,7 @@
   },
   {
     "slug": "visualization-in-the-world-syposium",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Visualization in the World",
     "description": "On April 24 and 25, the Charlotte Visualization Center at UNC Charlotte will host its second symposium, titled Visualization in the World. We have an impressive line-up of speakers and are expecting fascinating discussions.",
@@ -6276,7 +6274,7 @@
   },
   {
     "slug": "further-steps-world-visualization-day",
-    "archived": false,
+    "archived": true,
     "comments": 0,
     "title": "Further Steps Towards World Visualization Day",
     "description": "Since my first posting about the need for a World Visualization Day, I have started a basic website, opened a Facebook group, and taken a first shot at designing a logo. I have refined my ideas on the next steps as well as the support needed. Please support this idea by joining the facebook group, commenting here and on the WVD website, and most of all, by attending the BOF meeting at Vis.",
@@ -6321,7 +6319,7 @@
   },
   {
     "slug": "we-need-a-world-visualization-day",
-    "archived": false,
+    "archived": true,
     "comments": 2,
     "title": "We Need a World Visualization Day!",
     "description": "Visualization is still mostly done by academics, who are notoriously bad at communicating their work to the world. This is why we need a World Visualization Day: to show the world what visualization can do, and to get some attention from the public and the media. If you're attending the Vis/InfoVis conference, come to the BOF meeting (Mon, Oct 29 at 6pm) to discuss further steps!",
@@ -6353,7 +6351,7 @@
   },
   {
     "slug": "summer-lull-is-officially-over",
-    "archived": false,
+    "archived": true,
     "comments": 2,
     "title": "The Summer Lull is Officially Over!",
     "description": "This summer has been a busy one for me and a rather inactive one for EagerEyes. But it is almost over now, and even though things are not getting quieter (quite the opposite with the semester starting), this site will see regular updates (at least once a week) again.",
@@ -6673,7 +6671,7 @@
     "archived": false,
     "comments": 0,
     "title": "Sets of Possible Occurrences",
-    "description": "Visual representations of time are particularly interesting, because they seem so logical. A point in time is a point in the visualization, an interval is a line. But things are not always that simple: planning and temporal uncertainty require more powerful visual tools. Sets of Possible Occurrences (SOPOs) are an example of a visual representation of time that is very flexible and powerful – and totally unintuitive.",
+    "description": "Visual representations of time are particularly interesting, because they seem so logical. A point in time is a point in the visualization, an interval is a line. But things are not always that simple: planning and temporal uncertainty require more powerful visual tools. Sets of Possible Occurrences (SOPOs) are an example of a visual representation of time that is very flexible and powerful \u2013 and totally unintuitive.",
     "date": "2006-10-24T07:17:22-08:00",
     "tags": [
       "technique"
