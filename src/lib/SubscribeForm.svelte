@@ -80,10 +80,6 @@
         margin-top: 1em;
     }
 
-    h3 {
-        margin-bottom: 0.25em;
-    }
-
     .description {
         font-size: 0.9rem;
         opacity: 0.75;
@@ -146,9 +142,5 @@
         margin-bottom: 0.4em;
     }
 
-    .compact h3 {
-        font-size: 0.95rem;
-        font-weight: 600;
-        margin-bottom: 0.4em;
-    }
+
 </style>
