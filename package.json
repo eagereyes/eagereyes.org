@@ -26,6 +26,7 @@
 		"@types/topojson-client": "^3.1.5",
 		"marked": "^18.0.0",
 		"marked-gfm-heading-id": "^4.1.4",
+		"probe-image-size": "^7.2.3",
 		"svelte": "^5.55.3",
 		"svelte-check": "^4.4.6",
 		"typescript": "^6.0.2",

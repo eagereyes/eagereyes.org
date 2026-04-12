@@ -6,28 +6,98 @@
         "featuredImage": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1870.jpg",
         "date": "2026-03-08T11:00:00-08:00",
         "photos": [
-            { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC6560.jpg", "alt": "Bear cubs playing in the distance" },
+            {
+                "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC6560.jpg",
+                "alt": "Bear cubs playing in the distance",
+                "width": 4000,
+                "height": 2665
+            },
             [
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC2152.jpg", "alt": "Close-up of a bear eating salmon in the water" },
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC8255.jpg", "alt": "Bear walking on a trail" }
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC2152.jpg",
+                    "alt": "Close-up of a bear eating salmon in the water",
+                    "width": 3200,
+                    "height": 4000
+                },
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC8255.jpg",
+                    "alt": "Bear walking on a trail",
+                    "width": 3200,
+                    "height": 4000
+                }
             ],
-            { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1914.jpg", "alt": "Bear about to catch a fish jumping into its mouth" },
+            {
+                "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1914.jpg",
+                "alt": "Bear about to catch a fish jumping into its mouth",
+                "width": 4000,
+                "height": 2667
+            },
             [
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC2231.jpg", "alt": "Bears playing aggressively" },
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC8079.jpg", "alt": "Bears playing aggressively" }
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC2231.jpg",
+                    "alt": "Bears playing aggressively",
+                    "width": 3200,
+                    "height": 4000
+                },
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC8079.jpg",
+                    "alt": "Bears playing aggressively",
+                    "width": 3200,
+                    "height": 4000
+                }
             ],
-            { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC0251.jpg", "alt": "Three bears looking into the distance" },
+            {
+                "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC0251.jpg",
+                "alt": "Three bears looking into the distance",
+                "width": 4000,
+                "height": 2667
+            },
             [
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC0308.jpg", "alt": "Bear watching salmon at Brooks Falls" },
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3274.jpg", "alt": "Bear watching salmon at Brooks Falls" }
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC0308.jpg",
+                    "alt": "Bear watching salmon at Brooks Falls",
+                    "width": 3200,
+                    "height": 4000
+                },
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3274.jpg",
+                    "alt": "Bear watching salmon at Brooks Falls",
+                    "width": 3200,
+                    "height": 4000
+                }
             ],
-            { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3251.jpg", "alt": "Bear in tall grass looking at the camera" },
-            { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1870.jpg", "alt": "Bear about to catch a fish jumping into its mouth" },
+            {
+                "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3251.jpg",
+                "alt": "Bear in tall grass looking at the camera",
+                "width": 4000,
+                "height": 2667
+            },
+            {
+                "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1870.jpg",
+                "alt": "Bear about to catch a fish jumping into its mouth",
+                "width": 4000,
+                "height": 2667
+            },
             [
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC7860.jpg", "alt": "Bear scratching itself" },
-                { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3243.jpg", "alt": "Bear cubs checking something out" }
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC7860.jpg",
+                    "alt": "Bear scratching itself",
+                    "width": 3200,
+                    "height": 4000
+                },
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC3243.jpg",
+                    "alt": "Bear cubs checking something out",
+                    "width": 3200,
+                    "height": 4000
+                }
             ],
-            { "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1784.jpg", "alt": "Bear with a freshly-caught salmon in its mouth" }
+            {
+                "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1784.jpg",
+                "alt": "Bear with a freshly-caught salmon in its mouth",
+                "width": 4000,
+                "height": 2667
+            }
         ]
     },
     {
@@ -38,16 +108,51 @@
         "date": "2026-03-07T11:00:00-08:00",
         "photos": [
             [
-                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC4088.jpg", "alt": "Wolf seemingly hiding in the snow and some low branches" },
-                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5963.jpg", "alt": "Wolf looking over a snow bank" }
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC4088.jpg",
+                    "alt": "Wolf seemingly hiding in the snow and some low branches",
+                    "width": 3200,
+                    "height": 4000
+                },
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5963.jpg",
+                    "alt": "Wolf looking over a snow bank",
+                    "width": 3200,
+                    "height": 4000
+                }
             ],
-            { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5850.jpg", "alt": "Wolf walking through the snow with a little snow on her nose" },
+            {
+                "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5850.jpg",
+                "alt": "Wolf walking through the snow with a little snow on her nose",
+                "width": 4000,
+                "height": 2667
+            },
             [
-                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC4967.jpg", "alt": "Wolf standing next to a snow-covered boulder" },
-                { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5506.jpg", "alt": "Close-up shot of wolf with snow on her nose" }
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC4967.jpg",
+                    "alt": "Wolf standing next to a snow-covered boulder",
+                    "width": 3200,
+                    "height": 4000
+                },
+                {
+                    "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5506.jpg",
+                    "alt": "Close-up shot of wolf with snow on her nose",
+                    "width": 3200,
+                    "height": 4000
+                }
             ],
-            { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5416.jpg", "alt": "Wolf walking through the snow" },
-            { "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5156.jpg", "alt": "Wolf standing on a log majestically, with snow falling around her" }
+            {
+                "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5416.jpg",
+                "alt": "Wolf walking through the snow",
+                "width": 4000,
+                "height": 2667
+            },
+            {
+                "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5156.jpg",
+                "alt": "Wolf standing on a log majestically, with snow falling around her",
+                "width": 4000,
+                "height": 2667
+            }
         ]
     }
 ]

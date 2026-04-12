@@ -48,7 +48,7 @@
     >&#8249;</button>
 
     <div class="lightbox-content" onclick={(e) => e.stopPropagation()}>
-        <img src={photo.src} alt={photo.alt} />
+        <img src={photo.src} alt={photo.alt} width={photo.width} height={photo.height} />
     </div>
 
     <button

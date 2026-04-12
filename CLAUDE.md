@@ -97,7 +97,9 @@ The `tagNames` map in `src/lib/blog-utils.ts` maps tag slugs to display names. T
 
 ### Photo Galleries
 
-Photos are stored in `content/photos.json` as an array of `Gallery` objects. Each gallery has a `photos` field typed as `(Photo | Photo[])[]` — a list of rows where a single photo is a plain `{ src, alt }` object and a pair is a two-element array. The gallery detail page normalizes rows with `Array.isArray(row) ? row : [row]` and flattens to `Photo[]` for the lightbox using `flatMap`.
+Photos are stored in `content/photos.json` as an array of `Gallery` objects. Each gallery has a `photos` field typed as `(Photo | Photo[])[]` — a list of rows where a single photo is a plain `{ src, alt, width?, height? }` object and a pair is a two-element array. The gallery detail page normalizes rows with `Array.isArray(row) ? row : [row]` and flattens to `Photo[]` for the lightbox using `flatMap`.
+
+`width` and `height` on `Photo` are optional integers storing the intrinsic image dimensions. They are passed to `<img>` tags so the browser can reserve space before images load (the CSS `width: 100%; height: auto` still controls rendered size). Run `node scripts/fetch-photo-dimensions.mjs` to populate missing dimensions for any new photos added to `content/photos.json`.
 
 The `Lightbox` component is stateless — the parent (`+page.svelte`) owns `lightboxIndex` as `$state(-1)` and passes it as `index`. The lightbox uses `$effect` to toggle `document.body.style.overflow = 'hidden'` while open (always returns cleanup). `<svelte:window onkeydown>` is at the component top level (not inside `{#if}`) with an early-return guard when `index < 0`.
 

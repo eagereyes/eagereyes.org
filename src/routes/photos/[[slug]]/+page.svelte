@@ -40,7 +40,7 @@
                         onclick={() => lightboxIndex = flatPhotos.indexOf(photo)}
                         onkeydown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); lightboxIndex = flatPhotos.indexOf(photo); } }}
                     >
-                        <img src={photo.src} alt={photo.alt} loading="lazy" />
+                        <img src={photo.src} alt={photo.alt} loading="lazy" width={photo.width} height={photo.height} />
                     </figure>
                 {/each}
             </div>
