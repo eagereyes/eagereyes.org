@@ -66,7 +66,7 @@
                     <div class="card-image">
                         <img
                             src={post.featuredImage.src}
-                            alt={post.title}
+                            alt={post.featuredImage.alt || post.title}
                             loading="lazy"
                             width={post.featuredImage.width}
                             height={post.featuredImage.height}

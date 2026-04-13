@@ -7,6 +7,7 @@ export interface FeaturedImage {
     src: string;
     width?: number;
     height?: number;
+    alt?: string;
 }
 
 export interface BlogPost {
