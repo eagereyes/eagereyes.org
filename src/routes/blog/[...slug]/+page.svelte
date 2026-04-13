@@ -10,10 +10,8 @@
 
 	let { data }: PageProps = $props();
 
-    let archivedPosts = $derived(data.allPosts.filter(post => post.archived));
     let years = $derived(data.allYears ?? []);
     let currentYear = $derived(data.display === PageType.oneYear ? data.allPosts[0]?.date.substring(0, 4) : undefined);
-    let yearTotalCounts = $derived(Object.fromEntries(years.map(y => [y, data.allPosts.filter(p => p.date.startsWith(y)).length])));
     let archivedCount = $derived(currentYear ? data.allPosts.length - (data.yearCounts[currentYear] ?? 0) : 0);
     let showArchived = $state(false);
 </script>
@@ -42,7 +40,7 @@
                 <!-- <p>There are {data.allPosts.length} blog posts, {archivedPosts.length} of which are archived.</p> -->
 
                 {#each years as y}
-                    <h2 class="year-header"><a href="/blog/{y}">{y}</a> <span class="year-count">({yearTotalCounts[y]}{yearTotalCounts[y] - data.yearCounts[y] > 0 ? ` post${yearTotalCounts[y] !== 1 ? 's' : ''}, ${yearTotalCounts[y] - data.yearCounts[y]} archived` : yearTotalCounts[y] === 1 ? ' post' : ' posts'})</span></h2>
+                    <h2 class="year-header"><a href="/blog/{y}">{y}</a> <span class="year-count">({data.yearTotalCounts[y]}{data.yearTotalCounts[y] - data.yearCounts[y] > 0 ? ` post${data.yearTotalCounts[y] !== 1 ? 's' : ''}, ${data.yearTotalCounts[y] - data.yearCounts[y]} archived` : data.yearTotalCounts[y] === 1 ? ' post' : ' posts'})</span></h2>
                     <div class="post-grid">
                         <BlogList year={y} posts={data.allPosts} archived={false} />
                     </div>

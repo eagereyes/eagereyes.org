@@ -1,12 +1,10 @@
+import type { FeaturedImage } from '$lib/blog-utils';
+
+export type { FeaturedImage };
+
 export interface Photo {
     src: string;
     alt: string;
-    width?: number;
-    height?: number;
-}
-
-export interface FeaturedImage {
-    src: string;
     width?: number;
     height?: number;
 }

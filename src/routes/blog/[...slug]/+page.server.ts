@@ -54,6 +54,7 @@ export const load: PageServerLoad = async ({ params }) => {
     const nonArchivedPosts = (posts as Array<BlogPost>).filter(p => !p.archived);
     const allYears = [...new Set(nonArchivedPosts.map(post => post.date.substring(0, 4)))].sort((a, b) => b.localeCompare(a));
     const yearCounts = Object.fromEntries(allYears.map(y => [y, nonArchivedPosts.filter(p => p.date.startsWith(y)).length]));
+    const yearTotalCounts = Object.fromEntries(allYears.map(y => [y, (posts as Array<BlogPost>).filter(p => p.date.startsWith(y)).length]));
     const allTags = [...new Set(nonArchivedPosts.flatMap(p => p.tags ?? []))];
     const tagCounts = Object.fromEntries(allTags.map(tag => [tag, nonArchivedPosts.filter(p => (p.tags ?? []).includes(tag)).length]));
     const sortedTags = allTags.sort((a, b) => tagCounts[b] - tagCounts[a]);
@@ -67,6 +68,7 @@ export const load: PageServerLoad = async ({ params }) => {
         allPosts: display == PageType.singlePost ? [] : allPosts,
         allYears,
         yearCounts,
+        yearTotalCounts,
         sortedTags,
         tagCounts,
         numComments: posts[metaIndex] ? posts[metaIndex].comments : 0,

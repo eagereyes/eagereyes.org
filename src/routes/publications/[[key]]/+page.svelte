@@ -63,13 +63,6 @@
 		return `https://media.eagereyes.org/papers/${yr}/${key.replaceAll(':', '-')}.pdf`;
 	}
 
-	function thumbUrl(key: string) {
-		return `https://media.eagereyes.org/paper-thumbs/${key.replaceAll(':', '-')}-thumb.png`;
-	}
-
-	function previewUrl(key: string) {
-		return `https://media.eagereyes.org/paper-previews/${key.replaceAll(':', '-')}.png`;
-	}
 
 	function toBibtex(paper: typeof currentPaper): string {
 		const type = paper._type;
@@ -116,7 +109,7 @@
     <div class="paper-body">
         {#if currentPaper._pdf !== 'no'}
             <img class="paper-thumb"
-                src={currentPaper.preview?.src ?? previewUrl(currentPaper._key)}
+                src={currentPaper.preview?.src}
                 alt="Preview for {currentPaper.title}"
                 width={currentPaper.preview?.width}
                 height={currentPaper.preview?.height}
@@ -150,7 +143,7 @@
         <a class="card-link" href="/publications/{paper._key.replaceAll(':', '-')}" aria-label={paper.title}></a>
         {#if paper._pdf !== 'no'}
             <img class="card-thumb"
-                src={paper.thumbnail?.src ?? thumbUrl(paper._key)}
+                src={paper.thumbnail?.src}
                 alt="Thumbnail for {paper.title}"
                 loading="lazy"
                 width={paper.thumbnail?.width}
