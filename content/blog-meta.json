@@ -13,6 +13,7 @@
             "src": "https://media.eagereyes.org/media/2026/curious-chipmunk.jpg",
             "width": 1200,
             "height": 675,
+            "alt": "A chipmunk looking over the edge of a rock",
             "render": true
         }
     },
