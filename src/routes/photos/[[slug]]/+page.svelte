@@ -20,7 +20,7 @@
     <meta property="og:description" content={data.gallery.description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={`https://eagereyes.org/photos/${data.gallery.slug}`} />
-    <meta property="og:image" content={data.gallery.featuredImage} />
+    <meta property="og:image" content={data.gallery.featuredImage.src} />
     {/if}
 </svelte:head>
 

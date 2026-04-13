@@ -58,11 +58,12 @@ export const load: PageServerLoad = async ({ params }) => {
     const tagCounts = Object.fromEntries(allTags.map(tag => [tag, nonArchivedPosts.filter(p => (p.tags ?? []).includes(tag)).length]));
     const sortedTags = allTags.sort((a, b) => tagCounts[b] - tagCounts[a]);
 
+    const typedPosts = posts as Array<BlogPost>;
     return {
         display,
-        meta: metaIndex >= 0 ? posts[metaIndex] : null,
-        nextPost: nextIndex < posts.length ? posts[nextIndex] : null,
-        prevPost: prevIndex >= 0 ? posts[prevIndex] : null,
+        meta: metaIndex >= 0 ? typedPosts[metaIndex] : null,
+        nextPost: nextIndex < posts.length ? typedPosts[nextIndex] : null,
+        prevPost: prevIndex >= 0 ? typedPosts[prevIndex] : null,
         allPosts: display == PageType.singlePost ? [] : allPosts,
         allYears,
         yearCounts,

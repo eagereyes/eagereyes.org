@@ -29,7 +29,7 @@
     <meta property="og:description" content={data.meta.description} />
     <meta property="og:type" content="article" />
     {#if data.meta.featuredImage}
-    <meta property="og:image" content={data.meta.featuredImage} />
+    <meta property="og:image" content={data.meta.featuredImage.src} />
     {/if}
 {/if}
 </svelte:head>

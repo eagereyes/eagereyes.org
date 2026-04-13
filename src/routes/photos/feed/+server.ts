@@ -14,7 +14,7 @@ export const GET: RequestHandler = async () => {
       <link>${url}</link>
       <guid>${url}</guid>
       <pubDate>${pubDate}</pubDate>
-      <description><![CDATA[<img src="${gallery.featuredImage}" alt="${escapeXml(gallery.title)}" /><p>${escapeXml(gallery.description)}</p>]]></description>
+      <description><![CDATA[<img src="${gallery.featuredImage.src}" alt="${escapeXml(gallery.title)}" /><p>${escapeXml(gallery.description)}</p>]]></description>
     </item>`;
     });
 

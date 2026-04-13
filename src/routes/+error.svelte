@@ -45,7 +45,7 @@
         });
 
         for (const post of posts as Array<BlogPost>) {
-            index.add({ ...post, body: bodyMap.get(post.slug) ?? '' });
+            index.add({ ...post, body: bodyMap.get(post.slug) ?? '' } as any);
         }
 
         const raw = index.search(query, { enrich: true });

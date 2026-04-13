@@ -3,6 +3,12 @@ export enum PageType {
     singlePost, oneYear, allPosts
 }
 
+export interface FeaturedImage {
+    src: string;
+    width?: number;
+    height?: number;
+}
+
 export interface BlogPost {
     slug: string,
     title: string,
@@ -10,7 +16,7 @@ export interface BlogPost {
     date: string,
     tags: Array<string>,
     archived: boolean,
-    featuredImage: string,
+    featuredImage: FeaturedImage | null,
 }
 
 export const tagNames: { [key: string]: string } = {

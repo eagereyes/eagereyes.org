@@ -3,7 +3,11 @@
         "slug": "2024-katmai-bears",
         "title": "Katmai Bears",
         "description": "Bears at Brooks Falls in Katmai National Park, Alaska.",
-        "featuredImage": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1870.jpg",
+        "featuredImage": {
+            "src": "https://media.eagereyes.org/photos/2024-katmai-bears/_DSC1870.jpg",
+            "width": 4000,
+            "height": 2667
+        },
         "date": "2026-03-08T11:00:00-08:00",
         "photos": [
             {
@@ -104,7 +108,11 @@
         "slug": "2024-flora-wolf",
         "title": "Flora the Wolf",
         "description": "Impressions from a two-hour walk with a gray wolf in Canada.",
-        "featuredImage": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5156.jpg",
+        "featuredImage": {
+            "src": "https://media.eagereyes.org/photos/2024-flora-wolf/_DSC5156.jpg",
+            "width": 4000,
+            "height": 2667
+        },
         "date": "2026-03-07T11:00:00-08:00",
         "photos": [
             [

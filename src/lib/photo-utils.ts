@@ -5,11 +5,17 @@ export interface Photo {
     height?: number;
 }
 
+export interface FeaturedImage {
+    src: string;
+    width?: number;
+    height?: number;
+}
+
 export interface Gallery {
     slug: string;
     title: string;
     description: string;
-    featuredImage: string;
+    featuredImage: FeaturedImage;
     date: string;
     photos: (Photo | Photo[])[];
 }
@@ -18,7 +24,7 @@ export const blankGallery: Gallery = {
     slug: '',
     title: '',
     description: '',
-    featuredImage: '',
+    featuredImage: { src: '' },
     date: '',
     photos: []
 };

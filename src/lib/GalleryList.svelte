@@ -20,7 +20,7 @@ let filteredGalleries = $derived(galleries.slice(0, numGalleries === -1 ? galler
     <article class="gallery-card">
         <a class="card-image-link" href="/photos/{gallery.slug}" tabindex="-1" aria-hidden="true">
             <div class="card-image">
-                <img src={gallery.featuredImage} alt="{gallery.title} featured photo" loading="lazy" />
+                <img src={gallery.featuredImage.src} alt="{gallery.title} featured photo" loading="lazy" width={gallery.featuredImage.width} height={gallery.featuredImage.height} />
             </div>
         </a>
         <div class="card-body">

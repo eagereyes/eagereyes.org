@@ -29,10 +29,10 @@
 			}
 		});
 		for (const post of posts) {
-			index.add({ ...post, body: bodyMap.get(post.slug) ?? '' });
+			index.add({ ...post, body: bodyMap.get(post.slug) ?? '' } as any);
 		}
 		for (const page of pages) {
-			index.add({ ...page, body: bodyMap.get(page.slug) ?? '' });
+			index.add({ ...page, body: bodyMap.get(page.slug) ?? '' } as any);
 		}
 
 		const q = new URLSearchParams(window.location.search).get('q');
