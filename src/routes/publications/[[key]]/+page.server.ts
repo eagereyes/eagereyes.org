@@ -1,32 +1,6 @@
 import type { PageServerLoad, EntryGenerator } from './$types';
-
-interface Paper {
-	_key: string,
-    _type: string,
-    title: string,
-	author: string,
-	venue: string,
-	volume?: string,
-	number?: string,
-	pages?: string,
-	doi?: string,
-	abstract: string,
-	publisher?: string,
-	editor?: string,
-	note?: string,
-	_pdf?: string,
-	talk?: string,
-	data?: string
-}
-
-const blankPaper: Paper = {
-    _key: '',
-    _type: '',
-    title: '',
-    author: '',
-    venue: '',
-    abstract: ''
-}
+import type { Paper } from '$lib/paper-utils';
+import { blankPaper } from '$lib/paper-utils';
 
 import papers from '../../../../content/papers.json';
 

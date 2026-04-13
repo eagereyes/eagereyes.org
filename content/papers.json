@@ -9,7 +9,17 @@
     "number": 5,
     "pages": "153-158",
     "doi": "10.1109/MCG.2024.3407489",
-    "abstract": "Business uses of charts and visualizations, and by extension business users, are usually considered mundane and boring. But they, too, want to get their audience's attention, emphasize a point they're making, or simply break out of the monotony of the limited palette of common chart types. I believe that there is ample opportunity to develop new approaches and build better tools that go far beyond the current one-size-fits-all approach to creating charts - much more than is currently recognized in the visualization community. The first step is to reexamine our notions of who business users are, and what they actually want and need."
+    "abstract": "Business uses of charts and visualizations, and by extension business users, are usually considered mundane and boring. But they, too, want to get their audience's attention, emphasize a point they're making, or simply break out of the monotony of the limited palette of common chart types. I believe that there is ample opportunity to develop new approaches and build better tools that go far beyond the current one-size-fits-all approach to creating charts - much more than is currently recognized in the visualization community. The first step is to reexamine our notions of who business users are, and what they actually want and need.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2024-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2024.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Kosara:CGA:2023",
@@ -21,7 +31,17 @@
     "number": 1,
     "pages": "91-96",
     "doi": "10.1109/MCG.2022.3222024",
-    "abstract": "Notebooks are a relatively new way of analyzing data and creating visualizations. They differ from the common graphical user interfaces used for visualization tools in many ways, and have their own strengths and weaknesses. In particular, they allow easy sharing, experimentation, and collaboration, and provide context about the data for different kinds of users. They also integrate modeling, forecasting, and complex analyses directly with the visualization. We believe that notebooks provide a unique and fundamentally new way of working with and understanding data. By laying out their unique properties, we hope to inspire both researchers and practitioners to investigate their many uses, explore their pros and cons, and share their findings."
+    "abstract": "Notebooks are a relatively new way of analyzing data and creating visualizations. They differ from the common graphical user interfaces used for visualization tools in many ways, and have their own strengths and weaknesses. In particular, they allow easy sharing, experimentation, and collaboration, and provide context about the data for different kinds of users. They also integrate modeling, forecasting, and complex analyses directly with the visualization. We believe that notebooks provide a unique and fundamentally new way of working with and understanding data. By laying out their unique properties, we hope to inspire both researchers and practitioners to investigate their many uses, explore their pros and cons, and share their findings.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2023-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2023.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Kosara:CGA:2022",
@@ -33,7 +53,17 @@
     "number": 2,
     "pages": "110-114",
     "doi": "10.1109/MCG.2021.3138608",
-    "abstract": "Encoding data visually is at the heart of visualization. We usually assume that encodings are read as specified (i.e., if a bar chart is drawn by the length of the bars based on the data, that is also how we read them). In this paper, we question this assumption and demonstrate that observed encodings often differ from the ones used to specify the visualization. The value of a chart also often comes from higher level derived encodings, and which encodings end up getting used also depends on the user’s task."
+    "abstract": "Encoding data visually is at the heart of visualization. We usually assume that encodings are read as specified (i.e., if a bar chart is drawn by the length of the bars based on the data, that is also how we read them). In this paper, we question this assumption and demonstrate that observed encodings often differ from the ones used to specify the visualization. The value of a chart also often comes from higher level derived encodings, and which encodings end up getting used also depends on the user’s task.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2022-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2022.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Brehmer:VIS:2021a",
@@ -45,7 +75,17 @@
     "number": 1,
     "pages": "1139-1149",
     "doi": "10.1109/TVCG.2021.3114760",
-    "abstract": "Prior research on communicating with visualization has focused on public presentation and asynchronous individual consumption, such as in the domain of journalism. The visualization research community knows comparatively little about synchronous and multimodal communication around data within organizations, from team meetings to executive briefings. We conducted two qualitative interview studies with individuals who prepare and deliver presentations about data to audiences in organizations. In contrast to prior work, we did not limit our interviews to those who self-identify as data analysts or data scientists. Both studies examined aspects of speaking about data with visual aids such as charts, dashboards, and tables. One study was a retrospective examination of current practices and difficulties, from which we identified three scenarios involving presentations of data. We describe these scenarios using an analogy to musical performance: small collaborative team meetings are akin to jam session, while more structured presentations can range from semi-improvisational performances among peers to formal recitals given to executives or customers. In our second study, we grounded the discussion around three design probes, each examining a different aspect of presenting data: the progressive reveal of visualization to direct attention and advance a narrative, visualization presentation controls that are hidden from the audience's view, and the coordination of a presenter's video with interactive visualization. Our distillation of interviewees' responses surfaced twelve themes, from ways of authoring presentations to creating accessible and engaging audience experiences."
+    "abstract": "Prior research on communicating with visualization has focused on public presentation and asynchronous individual consumption, such as in the domain of journalism. The visualization research community knows comparatively little about synchronous and multimodal communication around data within organizations, from team meetings to executive briefings. We conducted two qualitative interview studies with individuals who prepare and deliver presentations about data to audiences in organizations. In contrast to prior work, we did not limit our interviews to those who self-identify as data analysts or data scientists. Both studies examined aspects of speaking about data with visual aids such as charts, dashboards, and tables. One study was a retrospective examination of current practices and difficulties, from which we identified three scenarios involving presentations of data. We describe these scenarios using an analogy to musical performance: small collaborative team meetings are akin to jam session, while more structured presentations can range from semi-improvisational performances among peers to formal recitals given to executives or customers. In our second study, we grounded the discussion around three design probes, each examining a different aspect of presenting data: the progressive reveal of visualization to direct attention and advance a narrative, visualization presentation controls that are hidden from the audience's view, and the coordination of a presenter's video with interactive visualization. Our distillation of interviewees' responses surfaced twelve themes, from ways of authoring presentations to creating accessible and engaging audience experiences.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Brehmer-VIS-2021a-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Brehmer-VIS-2021a.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Brehmer:VIS:2021b",
@@ -57,7 +97,17 @@
     "number": 1,
     "pages": "389-399",
     "doi": "10.1109/TVCG.2021.3114792",
-    "abstract": "We introduce Diatoms, a technique that generates design inspiration for glyphs by sampling from palettes of mark shapes, encoding channels, and glyph scaffold shapes. Diatoms allows for a degree of randomness while respecting constraints imposed by columns in a data table: their data types and domains as well as semantic associations between columns as specified by the designer. We pair this generative design process with two forms of interactive design externalization that enable comparison and critique of the design alternatives. First, we incorporate a familiar small multiples configuration in which every data point is drawn according to a single glyph design, coupled with the ability to page between alternative glyph designs. Second, we propose a small permutables design gallery, in which a single data point is drawn according to each alternative glyph design, coupled with the ability to page between data points. We demonstrate an implementation of our technique as an extension to Tableau featuring three example palettes, and to better understand how Diatoms could fit into existing design workflows, we conducted interviews and chauffeured demos with 12 designers. Finally, we reflect on our process and the designers' reactions, discussing the potential of our technique in the context of visualization authoring systems. Ultimately, our approach to glyph design and comparison can kickstart and inspire visualization design, allowing for the serendipitous discovery of shape and channel combinations that would have otherwise been overlooked."
+    "abstract": "We introduce Diatoms, a technique that generates design inspiration for glyphs by sampling from palettes of mark shapes, encoding channels, and glyph scaffold shapes. Diatoms allows for a degree of randomness while respecting constraints imposed by columns in a data table: their data types and domains as well as semantic associations between columns as specified by the designer. We pair this generative design process with two forms of interactive design externalization that enable comparison and critique of the design alternatives. First, we incorporate a familiar small multiples configuration in which every data point is drawn according to a single glyph design, coupled with the ability to page between alternative glyph designs. Second, we propose a small permutables design gallery, in which a single data point is drawn according to each alternative glyph design, coupled with the ability to page between data points. We demonstrate an implementation of our technique as an extension to Tableau featuring three example palettes, and to better understand how Diatoms could fit into existing design workflows, we conducted interviews and chauffeured demos with 12 designers. Finally, we reflect on our process and the designers' reactions, discussing the potential of our technique in the context of visualization authoring systems. Ultimately, our approach to glyph design and comparison can kickstart and inspire visualization design, allowing for the serendipitous discovery of shape and channel combinations that would have otherwise been overlooked.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Brehmer-VIS-2021b-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Brehmer-VIS-2021b.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Kosara:VISShort:2019",
@@ -67,7 +117,17 @@
     "venue": "IEEE VIS Short Paper Proceedings",
     "doi": "10.1109/VISUAL.2019.8933547",
     "data": "https://osf.io/7y842/",
-    "abstract": "The long-standing assumption of angle as the primary visual cue used to read pie charts has recently been called into question. We conducted a controlled, preregistered study using parallel-projected 3D pie charts. Angle, area, and arc length differ dramatically when projected and change over a large range of values. Modeling these changes and comparing them to study participants’ estimates allows us to rank the different visual cues by model fit. Area emerges as the most likely cue used to read pie charts."
+    "abstract": "The long-standing assumption of angle as the primary visual cue used to read pie charts has recently been called into question. We conducted a controlled, preregistered study using parallel-projected 3D pie charts. Angle, area, and arc length differ dramatically when projected and change over a large range of values. Modeling these changes and comparing them to study participants’ estimates allows us to rank the different visual cues by model fit. Area emerges as the most likely cue used to read pie charts.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-VISShort-2019-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-VISShort-2019.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Dasgupta:VizSec:2019",
@@ -76,7 +136,17 @@
     "author": "Aritra Dasgupta and Robert Kosara and Min Chen",
     "venue": "Proceedings IEEE Symposium on Visualization for Cyber Security",
     "doi": "10.1109/VizSec48167.2019.9161608",
-    "abstract": "Minimization of disclosure risks is a key challenge in publicly available visualizations that can potentially reveal personal information. Such risks are inherently dependent on the amount of information that adversaries can gain by manipulating visual representations and by using their background knowledge. Conventional risk quantification models proposed in the field of privacy-preserving data mining suffer from a lack of transparency in letting data owners control privacy parameters and understand their implications for disclosure risks. To fill this gap, we propose a visual uncertainty model for letting data owners understand the relationships between privacy parameters and vulnerable visualization configurations. Our main contribution is a probabilistic analysis of the disclosure risks associated with vulnerabilities in privacy-preserving parallel coordinates and scatter plots. We quantify the relationship among attack scenarios, adversarial knowledge, and the inherent uncertainty in cluster-based visualizations that can act as defense mechanisms. We present examples and a case study to demonstrate the effectiveness of the model."
+    "abstract": "Minimization of disclosure risks is a key challenge in publicly available visualizations that can potentially reveal personal information. Such risks are inherently dependent on the amount of information that adversaries can gain by manipulating visual representations and by using their background knowledge. Conventional risk quantification models proposed in the field of privacy-preserving data mining suffer from a lack of transparency in letting data owners control privacy parameters and understand their implications for disclosure risks. To fill this gap, we propose a visual uncertainty model for letting data owners understand the relationships between privacy parameters and vulnerable visualization configurations. Our main contribution is a probabilistic analysis of the disclosure risks associated with vulnerabilities in privacy-preserving parallel coordinates and scatter plots. We quantify the relationship among attack scenarios, adversarial knowledge, and the inherent uncertainty in cluster-based visualizations that can act as defense mechanisms. We present examples and a case study to demonstrate the effectiveness of the model.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-VizSec-2019-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-VizSec-2019.png",
+      "width": 1600,
+      "height": 828
+    }
   },
   {
     "_key": "Kosara:EuroVis:2019b",
@@ -85,7 +155,17 @@
     "author": "Robert Kosara",
     "venue": "Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)",
     "doi": "10.2312/evs.20191162",
-    "abstract": "Pie charts and treemaps are commonly used in business settings to show part-to-whole relationships. In a study, we compare pie charts, treemaps, stacked bars, and two circular charts when answering part-to-whole questions with multiple slices and different distributions of values. We find that the circular charts, including the unusual variations, perform better than the treemap, and that their performance depends on whether participants are asked to judge the largest slice or a smaller one."
+    "abstract": "Pie charts and treemaps are commonly used in business settings to show part-to-whole relationships. In a study, we compare pie charts, treemaps, stacked bars, and two circular charts when answering part-to-whole questions with multiple slices and different distributions of values. We find that the circular charts, including the unusual variations, perform better than the treemap, and that their performance depends on whether participants are asked to judge the largest slice or a smaller one.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-EuroVis-2019b-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-EuroVis-2019b.png",
+      "width": 1600,
+      "height": 1507
+    }
   },
   {
     "_key": "Kosara:EuroVis:2019a",
@@ -94,7 +174,17 @@
     "author": "Robert Kosara",
     "venue": "Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)",
     "doi": "10.2312/evs.20191163",
-    "abstract": "Studies of chart types can reveal unexplored design spaces, like the circular diagrams used in recent studies on pie charts. In this paper, we explore several variations of part-to-whole charts that use area to represent a fraction within a circle. We find one chart that performs very similarly to the pie chart, even though it is visually more complex. Centered shapes turn out to lead to much worse accuracy than any other stimuli, even the same shape when not centered. These first results point to the need for more systematic explorations of the design spaces around existing charts."
+    "abstract": "Studies of chart types can reveal unexplored design spaces, like the circular diagrams used in recent studies on pie charts. In this paper, we explore several variations of part-to-whole charts that use area to represent a fraction within a circle. We find one chart that performs very similarly to the pie chart, even though it is visually more complex. Centered shapes turn out to lead to much worse accuracy than any other stimuli, even the same shape when not centered. These first results point to the need for more systematic explorations of the design spaces around existing charts.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-EuroVis-2019a-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-EuroVis-2019a.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Kosara:BELIV:2018",
@@ -104,7 +194,17 @@
     "venue": "Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)",
     "doi": "10.1109/BELIV.2018.8634392",
     "talk": "https://vimeo.com/305865159",
-    "abstract": "Replications are rare in visualization research, but if they were more common, it is not unreasonable to believe that they would show a similar rate of unreproducible results as in the psychological and social sciences. While a replication crisis in visualization research would be a helpful wake-up call, examining and correcting the underlying problems in many studies is ultimately more productive.  In this paper, we survey the state of replication in visualization research. We examine six threats to the validity of studies in visu- alization and suggest ways to address them. Finally, we describe possible models for publishing replications that satisfy the novelty criterion that can keep replications from being accepted."
+    "abstract": "Replications are rare in visualization research, but if they were more common, it is not unreasonable to believe that they would show a similar rate of unreproducible results as in the psychological and social sciences. While a replication crisis in visualization research would be a helpful wake-up call, examining and correcting the underlying problems in many studies is ultimately more productive.  In this paper, we survey the state of replication in visualization research. We examine six threats to the validity of studies in visu- alization and suggest ways to address them. Finally, we describe possible models for publishing replications that satisfy the novelty criterion that can keep replications from being accepted.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-BELIV-2018-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-BELIV-2018.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Drucker:DDS:2018",
@@ -124,7 +224,17 @@
     "author": "Robert Kosara",
     "venue": "Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)",
     "doi": "10.2312/eurovisshort.20171129",
-    "abstract": "Many data stories in journalism do not have a story arc, but rather present facts without much structure. This mirrors the popular inverted pyramid style of writing that presents the most important information up front, to be followed by evidence. We have found a subset of stories that follow a more structured approach, however. These stories begin with a claim or question, but do not immediately present that as the conclusion. Instead, they then present pieces of evidence that are only tied together, and back to the initial claim, at the end. In this paper, we formalize and discuss this structure, and present a few examples. We believe that this is a viable and practical model for data stories more generally, and certainly a stronger arc than most existing stories today."
+    "abstract": "Many data stories in journalism do not have a story arc, but rather present facts without much structure. This mirrors the popular inverted pyramid style of writing that presents the most important information up front, to be followed by evidence. We have found a subset of stories that follow a more structured approach, however. These stories begin with a claim or question, but do not immediately present that as the conclusion. Instead, they then present pieces of evidence that are only tied together, and back to the initial claim, at the end. In this paper, we formalize and discuss this structure, and present a few examples. We believe that this is a viable and practical model for data stories more generally, and certainly a stronger arc than most existing stories today.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-EuroVis-2017-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-EuroVis-2017.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Skau:EuroVis:2017",
@@ -133,7 +243,17 @@
     "author": "Drew Skau and Robert Kosara",
     "venue": "Short Paper Proceedings of the Eurographics/IEEE VGTC Symposium on Visualization (EuroVis)",
     "doi": "10.2312/eurovisshort.20171139",
-    "abstract": "Bar charts embellished with unique artistic styles, or made to look like real objects, are common in information graphics. Embellishments are typically considered detrimental to readability and accuracy, since they add clutter and noise. Previous work has found that some of the shapes used, like rounded tops, triangles, etc., decreased accuracy when judging relative and absolute sizes, while T-shaped bars even showed a slight increase relative to the basic bar chart. In this paper, we report on a study that adds pictorial elements to bar charts of four different shapes tested previously, thus also including the elements of color and texture. We find that pictorial bar charts reduce accuracy, but not beyond the effect already observed for their shape. They also do not significantly increase response time. Embellished bar charts may not be as problematic as commonly assumed."
+    "abstract": "Bar charts embellished with unique artistic styles, or made to look like real objects, are common in information graphics. Embellishments are typically considered detrimental to readability and accuracy, since they add clutter and noise. Previous work has found that some of the shapes used, like rounded tops, triangles, etc., decreased accuracy when judging relative and absolute sizes, while T-shaped bars even showed a slight increase relative to the basic bar chart. In this paper, we report on a study that adds pictorial elements to bar charts of four different shapes tested previously, thus also including the elements of color and texture. We find that pictorial bar charts reduce accuracy, but not beyond the effect already observed for their shape. They also do not significantly increase response time. Embellished bar charts may not be as problematic as commonly assumed.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Skau-EuroVis-2017-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Skau-EuroVis-2017.png",
+      "width": 1600,
+      "height": 1507
+    }
   },
   {
     "_key": "Hullman:EuroVis:2017",
@@ -145,7 +265,17 @@
     "number": 3,
     "doi": "10.1111/cgf.13194",
     "talk": "https://vimeo.com/232095703",
-    "abstract": "Little is known about how people structure sets of visualizations to support sequential viewing. We contribute findings from several studies examining visualization sequencing and reception. In our first study, people made decisions between various possible structures as they ordered a set of related visualizations (consisting of either bar charts or thematic maps) into what they considered the clearest sequence for showing the data. We find that most people structure visualization sequences hierarchically: they create high level groupings based on shared data properties like time period, measure, level of aggregation, and spatial region, then order the views within these groupings. We also observe a tendency for certain types of similarities between views, like a common spatial region or aggregation level, to be seen as more appropriate categories for organizing views in a sequence than others, like a common time period or measure. In a second study, we find that viewers’ perceptions of the quality and intention of different sequences are largely consistent with the perceptions of the users who created them. The understanding of sequence preferences and perceptions that emerges from our studies has implications for the development of visualization authoring tools and sequence recommendations for guided analysis."
+    "abstract": "Little is known about how people structure sets of visualizations to support sequential viewing. We contribute findings from several studies examining visualization sequencing and reception. In our first study, people made decisions between various possible structures as they ordered a set of related visualizations (consisting of either bar charts or thematic maps) into what they considered the clearest sequence for showing the data. We find that most people structure visualization sequences hierarchically: they create high level groupings based on shared data properties like time period, measure, level of aggregation, and spatial region, then order the views within these groupings. We also observe a tendency for certain types of similarities between views, like a common spatial region or aggregation level, to be seen as more appropriate categories for organizing views in a sequence than others, like a common time period or measure. In a second study, we find that viewers’ perceptions of the quality and intention of different sequences are largely consistent with the perceptions of the users who created them. The understanding of sequence preferences and perceptions that emerges from our studies has implications for the development of visualization authoring tools and sequence recommendations for guided analysis.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Hullman-EuroVis-2017-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Hullman-EuroVis-2017.png",
+      "width": 1600,
+      "height": 753
+    }
   },
   {
     "_key": "Kosara:BELIV:2016",
@@ -154,7 +284,17 @@
     "author": "Robert Kosara",
     "venue": "Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)",
     "doi": "10.1145/2993901.2993909",
-    "abstract": "If we were to design Information Visualization from scratch, we would start with the basics: understand the principles of perception, test how they apply to different data encodings, build up those encodings to see if the principles still apply, etc. Instead, visualization was created from the other end: by building visual displays without an idea of how or if they worked, and then finding the relevant perceptual and other basics here and there. This approach has the problem that we end up with a very patchy understanding of the foundations of our field. More than that, there is a good amount of unproven assumptions, aesthetic judgments, etc.~mixed in with the evidence. We often don't even realize how much we rely on the latter, and can't easily identify them because they have been so deeply incorporated into the fabric of our field. In this paper, I attempt to tease apart what we know and what we only think we know, using a few examples. The goal is to point out specific gaps in our knowledge, and to encourage researchers in the field to start questioning the underlying assumptions. Some of them are probably sound and will hold up to scrutiny. But some of them will not. We need to find out which is which and systematically build up a better foundation for our field. If we intend to develop ever more and better techniques and systems, we can't keep ignoring the base, or it will all come tumbling down sooner or later."
+    "abstract": "If we were to design Information Visualization from scratch, we would start with the basics: understand the principles of perception, test how they apply to different data encodings, build up those encodings to see if the principles still apply, etc. Instead, visualization was created from the other end: by building visual displays without an idea of how or if they worked, and then finding the relevant perceptual and other basics here and there. This approach has the problem that we end up with a very patchy understanding of the foundations of our field. More than that, there is a good amount of unproven assumptions, aesthetic judgments, etc.~mixed in with the evidence. We often don't even realize how much we rely on the latter, and can't easily identify them because they have been so deeply incorporated into the fabric of our field. In this paper, I attempt to tease apart what we know and what we only think we know, using a few examples. The goal is to point out specific gaps in our knowledge, and to encourage researchers in the field to start questioning the underlying assumptions. Some of them are probably sound and will hold up to scrutiny. But some of them will not. We need to find out which is which and systematically build up a better foundation for our field. If we intend to develop ever more and better techniques and systems, we can't keep ignoring the base, or it will all come tumbling down sooner or later.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-BELIV-2016-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-BELIV-2016.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Kosara:C4PGV:2016",
@@ -162,7 +302,17 @@
     "title": "Reflecting on the Design Criteria for Explanatory Visualizations",
     "author": "Robert Kosara and Aritra Dasgupta and Enrico Bertini",
     "venue": "Workshop on Creation, Curation, Critique and Conditioning of Principles and Guidelines in Visualization (C4PGV)",
-    "abstract": "The visualization field has developed a good set of design criteria, metrics, and methods to assess visualization techniques and systems. These are all focused on analytical and exploratory uses, however. A large class of visualizations are created to present and communicate data and issues, however, and are seen by millions of people. We do not currently have a good grasp of what criteria should be used to systematically design and compare them, and how to do that. The aim of this paper is to raise the issue, describe different uses of visualizations, and propose criteria that should be considered while designing and critiquing them."
+    "abstract": "The visualization field has developed a good set of design criteria, metrics, and methods to assess visualization techniques and systems. These are all focused on analytical and exploratory uses, however. A large class of visualizations are created to present and communicate data and issues, however, and are seen by millions of people. We do not currently have a good grasp of what criteria should be used to systematically design and compare them, and how to do that. The aim of this paper is to raise the issue, describe different uses of visualizations, and propose criteria that should be considered while designing and critiquing them.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-C4PGV-2016-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-C4PGV-2016.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Kosara:EuroVis:2016",
@@ -173,7 +323,17 @@
     "pages": "91–95",
     "doi": "10.2312/eurovisshort.20161167",
     "data": "https://github.com/dwskau/pie-variations",
-    "abstract": "Pie charts and their variants are prevalent in business settings and many other uses, even if they are not popular with the academic community. In a recent study, we found that contrary to general belief, there is no clear evidence that these charts are read based on the central angle. Instead, area and arc length appear to be at least equally important. In this paper, we build on that study to test several pie chart variations that are popular in information graphics: exploded pie chart, pie with larger slice, elliptical pie, and square pie (in addition to a regular pie chart used as the baseline). We find that even variants that do not distort central angle cause greater error than regular pie charts. Charts that distort the shape show the highest error. Many of our predictions based on the previous study’s results are borne out by this study’s findings."
+    "abstract": "Pie charts and their variants are prevalent in business settings and many other uses, even if they are not popular with the academic community. In a recent study, we found that contrary to general belief, there is no clear evidence that these charts are read based on the central angle. Instead, area and arc length appear to be at least equally important. In this paper, we build on that study to test several pie chart variations that are popular in information graphics: exploded pie chart, pie with larger slice, elliptical pie, and square pie (in addition to a regular pie chart used as the baseline). We find that even variants that do not distort central angle cause greater error than regular pie charts. Charts that distort the shape show the highest error. Many of our predictions based on the previous study’s results are borne out by this study’s findings.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-EuroVis-2016-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-EuroVis-2016.png",
+      "width": 1600,
+      "height": 1507
+    }
   },
   {
     "_key": "Skau:EuroVis:2016",
@@ -187,7 +347,17 @@
     "doi": "10.1111/cgf.12888",
     "data": "https://github.com/dwskau/arcs-angles-area",
     "talk": "https://vimeo.com/176995237",
-    "abstract": "Pie and donut charts have been a hotly debated topic in the visualization community for some time now. Even though pie charts have been around for over 200 years, our understanding of the perceptual factors used to read data in them is still limited. Data is encoded in pie and donut charts in three ways: arc length, center angle, and segment area. For our first study, we designed variations of pie charts to test the importance of individual encodings for reading accuracy. In our second study, we varied the inner radius of a donut chart from a filled pie to a thin outline to test the impact of removing the central angle. Both studies point to angle being the least important visual cue for both charts, and the donut chart being as accurate as the traditional pie chart."
+    "abstract": "Pie and donut charts have been a hotly debated topic in the visualization community for some time now. Even though pie charts have been around for over 200 years, our understanding of the perceptual factors used to read data in them is still limited. Data is encoded in pie and donut charts in three ways: arc length, center angle, and segment area. For our first study, we designed variations of pie charts to test the importance of individual encodings for reading accuracy. In our second study, we varied the inner radius of a donut chart from a filled pie to a thin outline to test the impact of removing the central angle. Both studies point to angle being the least important visual cue for both charts, and the donut chart being as accurate as the traditional pie chart.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Skau-EuroVis-2016-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Skau-EuroVis-2016.png",
+      "width": 1600,
+      "height": 904
+    }
   },
   {
     "_key": "Burlinson:SIGCSE:2016",
@@ -197,7 +367,17 @@
     "pages": "18–23",
     "doi": "10.1145/2839509.2844635",
     "_type": "article",
-    "abstract": "Although undergraduate enrollment in Computer Science has remained strong and seen substantial increases in the past decade, retention of majors remains a significant concern, particularly for students at the freshman and sophomore level that are tackling foundational courses on algorithms and data structures. In this work, we present BRIDGES, a software infrastructure designed to enable the creation of more engaging assignments in introductory data structures courses by providing students with a simplified API that allows them to populate their own data structure implementations with live, real-world, and interesting data sets, such as those from popular social networks (e.g., Twitter, Facebook). BRIDGES also provides the ability for students to create and explore visualizations of the execution of the data structures that they construct in their course assignments, which can promote better understanding of the data structure and its underlying algorithms; these visualizations can be easily shared via a weblink with peers, family, and instructional staff. In this paper, we present the BRIDGES system, its design, architecture and its use in our data structures course over two semesters."
+    "abstract": "Although undergraduate enrollment in Computer Science has remained strong and seen substantial increases in the past decade, retention of majors remains a significant concern, particularly for students at the freshman and sophomore level that are tackling foundational courses on algorithms and data structures. In this work, we present BRIDGES, a software infrastructure designed to enable the creation of more engaging assignments in introductory data structures courses by providing students with a simplified API that allows them to populate their own data structure implementations with live, real-world, and interesting data sets, such as those from popular social networks (e.g., Twitter, Facebook). BRIDGES also provides the ability for students to create and explore visualizations of the execution of the data structures that they construct in their course assignments, which can promote better understanding of the data structure and its underlying algorithms; these visualizations can be easily shared via a weblink with peers, family, and instructional staff. In this paper, we present the BRIDGES system, its design, architecture and its use in our data structures course over two semesters.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Burlinson-SIGCSE-2016-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Burlinson-SIGCSE-2016.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Kosara:CGA:2016",
@@ -209,7 +389,17 @@
     "number": 1,
     "pages": "80–85",
     "doi": "10.1109/MCG.2016.2",
-    "abstract": "Data visualization research focuses on data exploration and analysis, yet the vast majority of visualizations people see were created for a different purpose: presentation. Whether we are talking about charts showing data to help make a presenter’s point, data visuals created to accompany a news story, or the ubiquitous infographics, many more people consume charts than make them.The techniques used to present data are mostly those used in analysis: bar charts, line charts, and so on. Although we understand them well, that understanding is based on their role in analysis. What if the presentation goals were different? How would that impact how the techniques we used? And are there techniques uniquely suited to data presentation but not necessarily as ideal for exploration and analysis?"
+    "abstract": "Data visualization research focuses on data exploration and analysis, yet the vast majority of visualizations people see were created for a different purpose: presentation. Whether we are talking about charts showing data to help make a presenter’s point, data visuals created to accompany a news story, or the ubiquitous infographics, many more people consume charts than make them.The techniques used to present data are mostly those used in analysis: bar charts, line charts, and so on. Although we understand them well, that understanding is based on their role in analysis. What if the presentation goals were different? How would that impact how the techniques we used? And are there techniques uniquely suited to data presentation but not necessarily as ideal for exploration and analysis?",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2016-thumb.png",
+      "width": 800,
+      "height": 541
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2016.png",
+      "width": 1600,
+      "height": 1443
+    }
   },
   {
     "_key": "Haroz:TVCG:2016",
@@ -222,7 +412,17 @@
     "pages": "2174–2186",
     "doi": "10.1109/TVCG.2015.2502587",
     "abstract": "The connected scatterplot visualizes two related time series in a scatterplot and connects the points with a line in temporal sequence. News media are increasingly using this technique to present data under the intuition that it is understandable and engaging. To explore these intuitions, we (1) describe how paired time series relationships appear in a connected scatterplot, (2) qualitatively evaluate how well people understand trends depicted in this format, (3) quantitatively measure the types and frequency of misinterpretations, and (4) empirically evaluate whether viewers will preferentially view graphs in this format over the more traditional format. The results suggest that low-complexity connected scatterplots can be understood with little explanation, and that viewers are biased towards inspecting connected scatterplots over the more traditional format. We also describe misinterpretations of connected scatterplots and propose further research into mitigating these mistakes for viewers unfamiliar with the technique.",
-    "website": "http://steveharoz.com/research/connected_scatterplot/"
+    "website": "http://steveharoz.com/research/connected_scatterplot/",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Haroz-TVCG-2016-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Haroz-TVCG-2016.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Skau:EuroVis:2015",
@@ -234,7 +434,17 @@
     "number": 3,
     "pages": "221–230",
     "doi": "10.1111/cgf.12634",
-    "abstract": "As data visualization becomes further intertwined with the field of graphic design and information graphics, small graphical alterations are made to many common chart formats. Despite the growing prevalence of these embellishments, their effects on communication of the charts’ data is unknown. From an overview of the design space, we have outlined some of the common embellishments that are made to bar charts. We have studied the effects of these chart embellishments on the communication of the charts’ data through a series of user studies on Amazon’s Mechanical Turk platform. The results of these studies lead to a better understanding of how each chart type is perceived, and help provide guiding principles for the graphic design of charts."
+    "abstract": "As data visualization becomes further intertwined with the field of graphic design and information graphics, small graphical alterations are made to many common chart formats. Despite the growing prevalence of these embellishments, their effects on communication of the charts’ data is unknown. From an overview of the design space, we have outlined some of the common embellishments that are made to bar charts. We have studied the effects of these chart embellishments on the communication of the charts’ data through a series of user studies on Amazon’s Mechanical Turk platform. The results of these studies lead to a better understanding of how each chart type is perceived, and help provide guiding principles for the graphic design of charts.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Skau-EuroVis-2015-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Skau-EuroVis-2015.png",
+      "width": 1600,
+      "height": 904
+    }
   },
   {
     "_key": "Haroz:CHI:2015",
@@ -245,7 +455,17 @@
     "pages": "1191–1200",
     "doi": "10.1145/2702123.2702275",
     "website": "http://steveharoz.com/research/isotype/",
-    "abstract": "Although the infographic and design communities have used simple pictographic representations for decades, it is still unclear whether they can make visualizations more effective. Using simple charts, we tested how pictographic representations impact (1) memory for information just viewed, as well as under the load of additional information, (2) speed of finding information, and (3) engagement and preference in seeking out these visualizations. We find that superfluous images can distract. But we find no user costs – and some intriguing benefits – when pictographs are used to represent the data."
+    "abstract": "Although the infographic and design communities have used simple pictographic representations for decades, it is still unclear whether they can make visualizations more effective. Using simple charts, we tested how pictographic representations impact (1) memory for information just viewed, as well as under the load of additional information, (2) speed of finding information, and (3) engagement and preference in seeking out these visualizations. We find that superfluous images can distract. But we find no user costs – and some intriguing benefits – when pictographs are used to represent the data.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Haroz-CHI-2015-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Haroz-CHI-2015.png",
+      "width": 1600,
+      "height": 828
+    }
   },
   {
     "_key": "Dasgupta:EuroVis:2015",
@@ -257,7 +477,17 @@
     "number": 3,
     "pages": "341–350",
     "doi": "10.1111/cgf.12646",
-    "abstract": "Observing interactions among chemical species and microorganisms in the earth’s sub-surface is a common task in the field of geology. Bioremediation experiments constitute one such class of interactions which focus on getting rid of pollutants through processes such as carbon sequestration. The main goal of scientists’ observations is to analyze the dynamics of the chemical reactions and understand how they collectively affect the carbon content of the soil. In our work, we extract the high-level goals of geologists and propose a visual analytics solution which helps scientists in deriving insights about multivariate, temporal behavior of these chemical species. Specifically, our key contributions are the following: i) characterization of the domain-specific goals and their translation to exploratory data analysis tasks, ii) developing an analytical abstraction in the form of perceptually motivated screen-space metrics for bridging the gap between the tasks and the visualization, and iii) realization of the tasks and metrics in the form of VIMTEX, which is a set of coordinated multiple views for letting scientists observe multivariate, temporal relationships in the data. We provide several examples and case studies along with expert feedback for demonstrating the efficacy of our solution."
+    "abstract": "Observing interactions among chemical species and microorganisms in the earth’s sub-surface is a common task in the field of geology. Bioremediation experiments constitute one such class of interactions which focus on getting rid of pollutants through processes such as carbon sequestration. The main goal of scientists’ observations is to analyze the dynamics of the chemical reactions and understand how they collectively affect the carbon content of the soil. In our work, we extract the high-level goals of geologists and propose a visual analytics solution which helps scientists in deriving insights about multivariate, temporal behavior of these chemical species. Specifically, our key contributions are the following: i) characterization of the domain-specific goals and their translation to exploratory data analysis tasks, ii) developing an analytical abstraction in the form of perceptually motivated screen-space metrics for bridging the gap between the tasks and the visualization, and iii) realization of the tasks and metrics in the form of VIMTEX, which is a set of coordinated multiple views for letting scientists observe multivariate, temporal relationships in the data. We provide several examples and case studies along with expert feedback for demonstrating the efficacy of our solution.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-EuroVis-2015-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-EuroVis-2015.png",
+      "width": 1600,
+      "height": 828
+    }
   },
   {
     "_key": "Kosara:CGA:2015",
@@ -269,7 +499,17 @@
     "number": 2,
     "pages": "12–14",
     "doi": "10.1109/MCG.2015.43",
-    "abstract": "Tapestry is an unusual conference, at least compared with academic gatherings. There are no proceedings, and the presentations are not chosen through peer review. What it is, however, is a place to meet and exchange ideas for people with a common interest."
+    "abstract": "Tapestry is an unusual conference, at least compared with academic gatherings. There are no proceedings, and the presentations are not chosen through peer review. What it is, however, is a place to meet and exchange ideas for people with a common interest.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2015-thumb.png",
+      "width": 800,
+      "height": 541
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2015.png",
+      "width": 1600,
+      "height": 721
+    }
   },
   {
     "_key": "Morton:SIGMOD:2014",
@@ -281,7 +521,17 @@
     "number": 2,
     "pages": "17–22",
     "doi": "10.1145/2694413.2694417",
-    "abstract": "Recently, online visual analytics systems have emerged as popular tools for data analysis and sharing. The database community has an important role to play in shaping the design and implementation of these new types of systems. Little, however, is known about how these systems are used today. In this paper, we address this shortcoming by presenting an analysis of usage patterns of Many Eyes and Tableau Public, two popular Web-based, collaborative visual analytics systems."
+    "abstract": "Recently, online visual analytics systems have emerged as popular tools for data analysis and sharing. The database community has an important role to play in shaping the design and implementation of these new types of systems. Little, however, is known about how these systems are used today. In this paper, we address this shortcoming by presenting an analysis of usage patterns of Many Eyes and Tableau Public, two popular Web-based, collaborative visual analytics systems.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Morton-SIGMOD-2014-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Morton-SIGMOD-2014.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Dasgupta:CGF:2013",
@@ -293,7 +543,17 @@
     "number": 8,
     "pages": "35–47",
     "doi": "10.1111/cgf.12142",
-    "abstract": "In previous work, we proposed a technique for preserving the privacy of quasi-identifiers in sensitive data when visualized using parallel coordinates. This paper builds on that work by introducing a number of metrics that can be used to assess both the level of privacy and the amount of utility that can be gained from the resulting visualizations. We also generalize our approach beyond parallel coordinates to scatter plots and other visualization techniques. Privacy preservation generally entails a trade-off between privacy and utility: the more the data are protected, the less useful the visualization. Using a visually-oriented approach, we can provide a higher amount of utility than directly applying data anonymization techniques used in data mining. To demonstrate this, we use the visual uncertainty framework for systematically defining metrics based on cluster artifacts and information theoretic principles. In a case study, we demonstrate the effectiveness of our technique as compared to standard data-based clustering in the context of privacy-preserving visualization."
+    "abstract": "In previous work, we proposed a technique for preserving the privacy of quasi-identifiers in sensitive data when visualized using parallel coordinates. This paper builds on that work by introducing a number of metrics that can be used to assess both the level of privacy and the amount of utility that can be gained from the resulting visualizations. We also generalize our approach beyond parallel coordinates to scatter plots and other visualization techniques. Privacy preservation generally entails a trade-off between privacy and utility: the more the data are protected, the less useful the visualization. Using a visually-oriented approach, we can provide a higher amount of utility than directly applying data anonymization techniques used in data mining. To demonstrate this, we use the visual uncertainty framework for systematically defining metrics based on cluster artifacts and information theoretic principles. In a case study, we demonstrate the effectiveness of our technique as compared to standard data-based clustering in the context of privacy-preserving visualization.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-CGF-2013-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-CGF-2013.png",
+      "width": 1600,
+      "height": 646
+    }
   },
   {
     "_key": "Dhou:InfoVisPoster:2013",
@@ -301,7 +561,17 @@
     "title": "Size Judgment and Comparison in Tag Clouds",
     "author": "Khaldoon (Kal) Dhou and Robert Kosara and Mirsad Hadzikadic and Mark Faust",
     "venue": "IEEE Information Visualization Posters",
-    "abstract": "Tag clouds can be used for a variety of purposes, like providing a high-level understanding of a document. It is still unclear how users perceive the size of the words in tag clouds and how they make their judgments of the size of words. In this poster, we look at how users estimate the relative sizes of words given different characteristics. We studied the influence of decorations like filled areas, boxes, and shadows to determine whether they would influence the perceived size. Another parameter we tested was the appearance of words (i.e. by choosing words with and without ascenders and descenders). We found significant effects from all of those parameters, which suggests that designers of tag clouds need to be aware of the influence of design choices on the perceived data."
+    "abstract": "Tag clouds can be used for a variety of purposes, like providing a high-level understanding of a document. It is still unclear how users perceive the size of the words in tag clouds and how they make their judgments of the size of words. In this poster, we look at how users estimate the relative sizes of words given different characteristics. We studied the influence of decorations like filled areas, boxes, and shadows to determine whether they would influence the perceived size. Another parameter we tested was the appearance of words (i.e. by choosing words with and without ascenders and descenders). We found significant effects from all of those parameters, which suggests that designers of tag clouds need to be aware of the influence of design choices on the perceived data.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dhou-InfoVisPoster-2013-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dhou-InfoVisPoster-2013.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Kosara:Computer:2013",
@@ -314,7 +584,17 @@
     "pages": "44–50",
     "doi": "10.1109/MC.2013.36",
     "abstract": "Presentation and communication of data have so far played a minor role in visualization research, with most work focused on exploration and analysis. We propose that presentation, in particular using elements from storytelling, is the next logical step and should be a research focus of at least equal importance as each of the other two. Stories package information into a structure that is easily remembered, which is important in many collaborative scenarios when an analyst is not the same person as the one who makes decisions, or simply needs to share information with peers. Data visualization lends itself well to being a communication medium for storytelling, in particular when the story also contains a lot of data. We review the literature on storytelling and presentation and outline the research area.",
-    "website": "http://www.computer.org/portal/web/computingnow/archive/january2014"
+    "website": "http://www.computer.org/portal/web/computingnow/archive/january2014",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-Computer-2013-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-Computer-2013.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Kosara:JCGS:2013",
@@ -326,7 +606,17 @@
     "number": 1,
     "pages": "29–32",
     "doi": "10.1080/10618600.2012.755465",
-    "abstract": "I welcome the opportunity to respond to Andrew Gelman and Antony Unwin’s article, Infovis and Statistical Graphics: Different Goals, Different Looks. Their view of information visualization is very distorted, but unfortunately not uncommon. In the following, I will try to give readers a sense of what information visualization (InfoVis) is really about, show some recent contributions, list some challenges, and show that there is a lot of opportunity for collaboration between InfoVis and statistics."
+    "abstract": "I welcome the opportunity to respond to Andrew Gelman and Antony Unwin’s article, Infovis and Statistical Graphics: Different Goals, Different Looks. Their view of information visualization is very distorted, but unfortunately not uncommon. In the following, I will try to give readers a sense of what information visualization (InfoVis) is really about, show some recent contributions, list some challenges, and show that there is a lot of opportunity for collaboration between InfoVis and statistics.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-JCGS-2013-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-JCGS-2013.png",
+      "width": 1600,
+      "height": 2070
+    }
   },
   {
     "_key": "Dasgupta:BELIV:2012",
@@ -335,7 +625,17 @@
     "author": "Aritra Dasgupta and Robert Kosara",
     "venue": "Beyond Time and Errors – Novel Evaluation Methods for Visualization (BELIV)",
     "doi": "10.1145/2442576.2442585",
-    "abstract": "Visualization research focuses either on the transformation steps necessary to create a visualization from data, or on the perception of structures after they have been shown on the screen. We argue that an end-to-end approach is necessary that tracks the data all the way through the required steps, and provides ways of measuring the impact of any of the transformations. By feeding that information back into the pipeline, visualization systems will be able to adapt the dis- play to the data to be shown, the parameters of the output device, and even the user."
+    "abstract": "Visualization research focuses either on the transformation steps necessary to create a visualization from data, or on the perception of structures after they have been shown on the screen. We argue that an end-to-end approach is necessary that tracks the data all the way through the required steps, and provides ways of measuring the impact of any of the transformations. By feeding that information back into the pipeline, visualization systems will be able to adapt the dis- play to the data to be shown, the parameters of the output device, and even the user.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-BELIV-2012-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-BELIV-2012.png",
+      "width": 1600,
+      "height": 1507
+    }
   },
   {
     "_key": "Dasgupta:LDAV:2012",
@@ -345,7 +645,17 @@
     "venue": "Symposium on Large-Scale Data Analysis and Visualization (LDAV)",
     "pages": "85–89",
     "doi": "10.1109/LDAV.2012.6378980",
-    "abstract": "Managing computational complexity and designing effective visual representations are two important challenges for the visualization of large, complex, high-dimensional datasets. Parallel coordinates are an effective technique for visualizing high-dimensional data, but do not scale well to very large datasets. The addition of the tempo- ral dimension leads to more uncertainty due to clutter on screen. Consequently, this poses a significant challenge for visually find- ing trends and patterns that maximize insight about the underlying time-varying properties of the data. To address these problems, we present meta parallel coordinates, a parallel coordinates display that is guided by perceptually motivated visual metrics. These metrics describe the visual structures typically found in parallel coordinates and thus aid the user’s analysis by providing meaningful views of the data. Since they are computed in screen space, our metrics are computationally more efficient than data-based metrics. Our choice of metrics is driven by the different analytical tasks that a user typically wants to perform with time-varying multivariate data. In particular, we have worked with domain scientists who performed simulations of bioremediation experiments, and use their data and results to demonstrate the usefulness of our approach."
+    "abstract": "Managing computational complexity and designing effective visual representations are two important challenges for the visualization of large, complex, high-dimensional datasets. Parallel coordinates are an effective technique for visualizing high-dimensional data, but do not scale well to very large datasets. The addition of the tempo- ral dimension leads to more uncertainty due to clutter on screen. Consequently, this poses a significant challenge for visually find- ing trends and patterns that maximize insight about the underlying time-varying properties of the data. To address these problems, we present meta parallel coordinates, a parallel coordinates display that is guided by perceptually motivated visual metrics. These metrics describe the visual structures typically found in parallel coordinates and thus aid the user’s analysis by providing meaningful views of the data. Since they are computed in screen space, our metrics are computationally more efficient than data-based metrics. Our choice of metrics is driven by the different analytical tasks that a user typically wants to perform with time-varying multivariate data. In particular, we have worked with domain scientists who performed simulations of bioremediation experiments, and use their data and results to demonstrate the usefulness of our approach.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-LDAV-2012-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-LDAV-2012.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Price:BioVis:2012",
@@ -354,7 +664,17 @@
     "author": "Adam Price and Cynthia Gibas and Robert Kosara",
     "venue": "Symposium on Biological Data Visualization (BioVis)",
     "doi": "10.1109/biovis.2012.6378593",
-    "abstract": "The genomes of prokaryotes are dynamic and shuffling of gene order occurs frequently, along with horizontal transfer of genes from external sources. Local conservation of gene order tends to reflect functional constraints on the genome or on a biochemical subsystem. Comparison of the local gene neighborhoods surrounding a gene of interest gives insight into evolutionary history and functional potential of the gene. The Genomic Ring Visualization Tool (Gene-RiViT) is a high speed, intuitive visualization tool for investigating sequence environments of conserved genes among related genomes. Gene-RiViT allows the user to interact with interconnected global and local visualizations of gene neighborhoods and gene order, through a web-based interface that is easily accessible in any browser. The primary visualization is a wheel of nested rotating circles, each of which represents a single genome. This visualization is similar to common circular genome alignment views, except that the rings can be realigned with each other dynamically based on user selections within the ring view or one of the coordinated views. By allowing the user to dynamically realign genomes and focus on a locally conserved region of interest, and using orthology connections to highlight corresponding structures among genomes, this view provides insight into gene context and preservation of neighbor relationships as genomes evolve. Visualizations are linked into a coordinated multiple view interface to provide multiple selection methods and entry points into the data. These approaches make Gene-RiViT a flexible, unique tool for examining gene neighborhoods that improves on existing methods."
+    "abstract": "The genomes of prokaryotes are dynamic and shuffling of gene order occurs frequently, along with horizontal transfer of genes from external sources. Local conservation of gene order tends to reflect functional constraints on the genome or on a biochemical subsystem. Comparison of the local gene neighborhoods surrounding a gene of interest gives insight into evolutionary history and functional potential of the gene. The Genomic Ring Visualization Tool (Gene-RiViT) is a high speed, intuitive visualization tool for investigating sequence environments of conserved genes among related genomes. Gene-RiViT allows the user to interact with interconnected global and local visualizations of gene neighborhoods and gene order, through a web-based interface that is easily accessible in any browser. The primary visualization is a wheel of nested rotating circles, each of which represents a single genome. This visualization is similar to common circular genome alignment views, except that the rings can be realigned with each other dynamically based on user selections within the ring view or one of the coordinated views. By allowing the user to dynamically realign genomes and focus on a locally conserved region of interest, and using orthology connections to highlight corresponding structures among genomes, this view provides insight into gene context and preservation of neighbor relationships as genomes evolve. Visualizations are linked into a coordinated multiple view interface to provide multiple selection methods and entry points into the data. These approaches make Gene-RiViT a flexible, unique tool for examining gene neighborhoods that improves on existing methods.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Price-BioVis-2012-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Price-BioVis-2012.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Dasgupta:EuroVis:2012",
@@ -366,7 +686,17 @@
     "number": 3,
     "pages": "1015–1024",
     "doi": "10.1111/j.1467-8659.2012.03094.x",
-    "abstract": "Uncertainty is an intrinsic part of any visual representation in visualization, no matter how precise the input data. Existing research on uncertainty in visualization mainly focuses on depicting data-space uncertainty in a visual form. Uncertainty is thus often seen as a problem to deal with, in the data, and something to be avoided if possible. In this paper, we highlight the need for analyzing visual uncertainty in order to design more effective visual representations. We study various forms of uncertainty in the visual representation of parallel coordinates and propose a taxonomy for categorizing them. By building a taxonomy, we aim to identify different sources of uncertainty in the screen space and relate them to different effects of uncertainty upon the user. We examine the literature on parallel coordinates and apply our taxonomy to categorize various techniques for reducing uncertainty. In addition, we consider uncertainty from a different perspective by identifying cases where increasing certain forms of uncertainty may even be useful, with respect to task, data type and analysis scenario. This work suggests that uncertainty is a feature that can be both useful and problematic in visualization, and it is beneficial to augment an information visualization pipeline with a facility for visual uncertainty analysis."
+    "abstract": "Uncertainty is an intrinsic part of any visual representation in visualization, no matter how precise the input data. Existing research on uncertainty in visualization mainly focuses on depicting data-space uncertainty in a visual form. Uncertainty is thus often seen as a problem to deal with, in the data, and something to be avoided if possible. In this paper, we highlight the need for analyzing visual uncertainty in order to design more effective visual representations. We study various forms of uncertainty in the visual representation of parallel coordinates and propose a taxonomy for categorizing them. By building a taxonomy, we aim to identify different sources of uncertainty in the screen space and relate them to different effects of uncertainty upon the user. We examine the literature on parallel coordinates and apply our taxonomy to categorize various techniques for reducing uncertainty. In addition, we consider uncertainty from a different perspective by identifying cases where increasing certain forms of uncertainty may even be useful, with respect to task, data type and analysis scenario. This work suggests that uncertainty is a feature that can be both useful and problematic in visualization, and it is beneficial to augment an information visualization pipeline with a facility for visual uncertainty analysis.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-EuroVis-2012-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-EuroVis-2012.png",
+      "width": 1600,
+      "height": 904
+    }
   },
   {
     "_key": "Dasgupta:VDA:2011",
@@ -376,7 +706,17 @@
     "venue": "Visualization and Data Analysis (VDA)",
     "pages": "78680O-1–78680O-12",
     "doi": "10.1117/12.872635",
-    "abstract": "The proliferation of data in the past decade has created demand for innovative tools in different areas of exploratory data analysis, like data mining and information visualization. However, the problem with real-world datasets is that many of their attributes can identify individuals, or the data are proprietary and valuable. The field of data mining has developed a variety of ways for dealing with such data, and has established an entire subfield for privacy-preserving data mining. Visualization, on the other hand, has seen little, if any, work on handling sensitive data. With the growing applicability of data visualization in real-world scenarios, the handling of sensitive data has become a non-trivial issue we need to address in developing visualization tools. With this goal in mind, in this paper, we analyze the issue of privacy from a visualization perspective and propose a privacy-preserving visualization technique based on clustering in parallel coordinates. We also outline the key differences in approach from the privacy-preserving data mining field and compare the advantages and drawbacks of our approach."
+    "abstract": "The proliferation of data in the past decade has created demand for innovative tools in different areas of exploratory data analysis, like data mining and information visualization. However, the problem with real-world datasets is that many of their attributes can identify individuals, or the data are proprietary and valuable. The field of data mining has developed a variety of ways for dealing with such data, and has established an entire subfield for privacy-preserving data mining. Visualization, on the other hand, has seen little, if any, work on handling sensitive data. With the growing applicability of data visualization in real-world scenarios, the handling of sensitive data has become a non-trivial issue we need to address in developing visualization tools. With this goal in mind, in this paper, we analyze the issue of privacy from a visualization perspective and propose a privacy-preserving visualization technique based on clustering in parallel coordinates. We also outline the key differences in approach from the privacy-preserving data mining field and compare the advantages and drawbacks of our approach.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-VDA-2011-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-VDA-2011.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Kosara:VDA:2011",
@@ -386,7 +726,17 @@
     "venue": "Visualization and Data Analysis (VDA)",
     "pages": "786809-1–786809-7",
     "doi": "10.1117/12.872645",
-    "abstract": "Interaction in visualization is often complicated and tedious. Brushing data in a visualization such as parallel coordinates is a central part of the data analysis process, and sets visualization apart from static charts. Modifying a brush, or combining it with another one, usually requires a lot of effort and mode switches, though, slowing down interaction and even discouraging more complex questions. We propose the use of multi-touch interaction to provide fast and convenient interaction with parallel coordinates. By using a multi-touch trackpad rather than the screen directly, the user’s hands do not obscure the visualization during interaction. Using one, two, three, or four fingers, the user can easily and quickly perform complex selections. Being able to change the selections rapidly, the user can explore the data set more easily and effectively, and can focus on the data rather than the interaction."
+    "abstract": "Interaction in visualization is often complicated and tedious. Brushing data in a visualization such as parallel coordinates is a central part of the data analysis process, and sets visualization apart from static charts. Modifying a brush, or combining it with another one, usually requires a lot of effort and mode switches, though, slowing down interaction and even discouraging more complex questions. We propose the use of multi-touch interaction to provide fast and convenient interaction with parallel coordinates. By using a multi-touch trackpad rather than the screen directly, the user’s hands do not obscure the visualization during interaction. Using one, two, three, or four fingers, the user can easily and quickly perform complex selections. Being able to change the selections rapidly, the user can explore the data set more easily and effectively, and can focus on the data rather than the interaction.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-VDA-2011-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-VDA-2011.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Dasgupta:InfoVis:2011",
@@ -399,7 +749,17 @@
     "pages": "2241–2248",
     "doi": "10.1109/TVCG.2011.163",
     "abstract": "Current information visualization techniques assume unrestricted access to data. However, privacy protection is a key issue for a lot of real-world data analyses. Corporate data, medical records, etc. are rich in analytical value but cannot be shared without first going through a transformation step where explicit identifiers are removed and the data is sanitized. Researchers in the field of data mining have proposed different techniques over the years for privacy-preserving data publishing and subsequent mining techniques on such sanitized data. A well-known drawback in these methods is that for even a small guarantee of privacy, the utility of the datasets is greatly reduced. In this paper, we propose an adaptive technique for privacy preservation in parallel coordinates. Based on knowledge about the sensitivity of the data, we compute a clustered representation on the fly, which allows the user to explore the data without breaching privacy. Through the use of screen-space privacy metrics, the technique adapts to the user’s screen parameters and interaction. We demonstrate our method in a case study and discuss potential attack scenarios.",
-    "acceptance-rate": 26
+    "acceptance-rate": 26,
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-InfoVis-2011-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-InfoVis-2011.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Ziemkiewicz:InfoVis:2010",
@@ -412,7 +772,17 @@
     "pages": "1009–1016",
     "doi": "10.1109/TVCG.2010.174",
     "acceptance-rate": 26,
-    "abstract": "Many of the pressing questions in information visualization deal with how exactly a user reads a collection of visual marks as information about relationships between entities. Previous research has suggested that people see parts of a visualization as objects, and may metaphorically interpret apparent physical relationships between these objects as suggestive of data relationships. We explored this hypothesis in detail in a series of user experiments. Inspired by the concept of implied dynamics in psychology, we first studied whether perceived gravity acting on a mark in a scatterplot can lead to errors in a participant’s recall of the mark’s position. The results of this study suggested that such position errors exist, but may be more strongly influenced by attraction between marks. We hypothesized that such apparent attraction may be influenced by elements used to suggest relationship between objects, such as connecting lines, grouping elements, and visual similarity. We further studied what visual elements are most likely to cause this attraction effect, and whether the elements that best predicted attraction errors were also those which suggested conceptual relationships most strongly. Our findings show a correlation between attraction errors and intuitions about relatedness, pointing towards a possible mechanism by which the perception of visual marks becomes an interpretation of data relationships."
+    "abstract": "Many of the pressing questions in information visualization deal with how exactly a user reads a collection of visual marks as information about relationships between entities. Previous research has suggested that people see parts of a visualization as objects, and may metaphorically interpret apparent physical relationships between these objects as suggestive of data relationships. We explored this hypothesis in detail in a series of user experiments. Inspired by the concept of implied dynamics in psychology, we first studied whether perceived gravity acting on a mark in a scatterplot can lead to errors in a participant’s recall of the mark’s position. The results of this study suggested that such position errors exist, but may be more strongly influenced by attraction between marks. We hypothesized that such apparent attraction may be influenced by elements used to suggest relationship between objects, such as connecting lines, grouping elements, and visual similarity. We further studied what visual elements are most likely to cause this attraction effect, and whether the elements that best predicted attraction errors were also those which suggested conceptual relationships most strongly. Our findings show a correlation between attraction errors and intuitions about relatedness, pointing towards a possible mechanism by which the perception of visual marks becomes an interpretation of data relationships.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Ziemkiewicz-InfoVis-2010-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Ziemkiewicz-InfoVis-2010.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Dasgupta:InfoVis:2010",
@@ -425,7 +795,17 @@
     "pages": "1017–1026",
     "doi": "10.1109/TVCG.2010.184",
     "acceptance-rate": 26,
-    "abstract": "Interactive visualization requires the translation of data into a screen space of limited resolution. While currently ignored by most visualization models, this translation entails a loss of information and the introduction of a number of artifacts that can be useful, (e.g., aggregation, structures) or distracting (e.g., over-plotting, clutter) for the analysis. This phenomenon is observed in parallel coordinates, where overlapping lines between adjacent axes form distinct patterns, representing the relation between variables they connect. However, even for a small number of dimensions, the challenge is to effectively convey the relationships for all combinations of dimensions. The size of the dataset and a large number of dimensions only add to the complexity of this problem. To address these issues, we propose Pargnostics, parallel coordinates diagnostics, a model based on screen-space metrics that quantify the different visual structures. Pargnostics metrics are calculated for pairs of axes and take into account the resolution of the display as well as potential axis inversions. Metrics include the number of line crossings, crossing angles, convergence, over-plotting, etc. To construct a visualization view, the user can pick from a ranked display showing pairs of coordinate axes and the structures between them, or examine all possible combinations of axes at once in a matrix display. Picking the best axes layout is an NP-complete problem in general, but we provide a way of automatically optimizing the display according to the user’s preferences based on our metrics and model."
+    "abstract": "Interactive visualization requires the translation of data into a screen space of limited resolution. While currently ignored by most visualization models, this translation entails a loss of information and the introduction of a number of artifacts that can be useful, (e.g., aggregation, structures) or distracting (e.g., over-plotting, clutter) for the analysis. This phenomenon is observed in parallel coordinates, where overlapping lines between adjacent axes form distinct patterns, representing the relation between variables they connect. However, even for a small number of dimensions, the challenge is to effectively convey the relationships for all combinations of dimensions. The size of the dataset and a large number of dimensions only add to the complexity of this problem. To address these issues, we propose Pargnostics, parallel coordinates diagnostics, a model based on screen-space metrics that quantify the different visual structures. Pargnostics metrics are calculated for pairs of axes and take into account the resolution of the display as well as potential axis inversions. Metrics include the number of line crossings, crossing angles, convergence, over-plotting, etc. To construct a visualization view, the user can pick from a ranked display showing pairs of coordinate axes and the structures between them, or examine all possible combinations of axes at once in a matrix display. Picking the best axes layout is an NP-complete problem in general, but we provide a way of automatically optimizing the display according to the user’s preferences based on our metrics and model.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Dasgupta-InfoVis-2010-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Dasgupta-InfoVis-2010.png",
+      "width": 1600,
+      "height": 828
+    }
   },
   {
     "_key": "Kosara:InfoVisPoster:2010",
@@ -433,7 +813,17 @@
     "title": "Indirect Multi-Touch Interaction for Brushing in Parallel Coordinates",
     "author": "Robert Kosara",
     "venue": "IEEE Information Visualization Posters",
-    "abstract": "Interaction in visualization is often complicated and tedious. Brushing data in a visualization such as parallel coordinates allows the user to select data points according to certain criteria; modifying a brush requires a lot of effort and mode switches. We propose the use of multi-touch interaction to provide fast and convenient interaction with parallel coordinates. By using a multi-touch trackpad rather than the screen directly, the user’s hands do not obscure the visualization during interaction. Using one, two, three, or four fingers, the user can easily and quickly perform complex selections."
+    "abstract": "Interaction in visualization is often complicated and tedious. Brushing data in a visualization such as parallel coordinates allows the user to select data points according to certain criteria; modifying a brush requires a lot of effort and mode switches. We propose the use of multi-touch interaction to provide fast and convenient interaction with parallel coordinates. By using a multi-touch trackpad rather than the screen directly, the user’s hands do not obscure the visualization during interaction. Using one, two, three, or four fingers, the user can easily and quickly perform complex selections.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-InfoVisPoster-2010-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-InfoVisPoster-2010.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Ziemkiewicz:IIS:2010",
@@ -443,7 +833,17 @@
     "venue": "Advances in Information and Intelligent Systems",
     "editor": "Ras, Ribarsky",
     "doi": "10.1007/978-3-642-04141-9_15",
-    "abstract": "Despite its often technical nature, visualization is in many ways a form of visual representation. Just how visualization relates to illustration, information graphics, digital art, visual languages, etc., is nonetheless poorly understood. We propose a theory that embeds information visualization within other visual traditions in terms of criteria that are not purely technical: dependence on data, mapping, interactivity, and notationality. In addition to providing the means for a classification, these criteria also foster a different understanding of information visualization. We further adapt our criteria to differentiate within visualization, using mapping, readability and information loss, and notationality as the criteria. Both sets of criteria are demonstrated in a number of case studies. We believe that our novel taxonomies of visualization methods serve as a step towards a more comprehensive theoretical context to understanding the essential purposes, properties, and functions of information visualization."
+    "abstract": "Despite its often technical nature, visualization is in many ways a form of visual representation. Just how visualization relates to illustration, information graphics, digital art, visual languages, etc., is nonetheless poorly understood. We propose a theory that embeds information visualization within other visual traditions in terms of criteria that are not purely technical: dependence on data, mapping, interactivity, and notationality. In addition to providing the means for a classification, these criteria also foster a different understanding of information visualization. We further adapt our criteria to differentiate within visualization, using mapping, readability and information loss, and notationality as the criteria. Both sets of criteria are demonstrated in a number of case studies. We believe that our novel taxonomies of visualization methods serve as a step towards a more comprehensive theoretical context to understanding the essential purposes, properties, and functions of information visualization.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Ziemkiewicz-IIS-2010-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Ziemkiewicz-IIS-2010.png",
+      "width": 1600,
+      "height": 414
+    }
   },
   {
     "_key": "Ziemkiewicz:AVI:2010",
@@ -453,7 +853,17 @@
     "venue": "Proceedings Advanced Visual Interfaces (AVI)",
     "pages": "215–222",
     "doi": "10.1145/1842993.1843031",
-    "abstract": "Information visualization is a powerful method for understanding and working with data. However, we still have an incomplete understanding of how people use visualization to think about information. We propose that people use visualization to support comprehension and reasoning by viewing abstract visual representations as physical scenes with a set of implied dynamics between objects. Inferences based on these implied dynamics are metaphorically extended to form inferences about the represented information. This view predicts that even seemingly meaningless properties of a visualization, including such minor design elements as borders, background areas, and the connectedness of parts, may affect how people perceive semantic aspects of data by suggesting different potential dynamics between data points. We present a study that supports this claim and discuss the design implications of this theory of information visualization."
+    "abstract": "Information visualization is a powerful method for understanding and working with data. However, we still have an incomplete understanding of how people use visualization to think about information. We propose that people use visualization to support comprehension and reasoning by viewing abstract visual representations as physical scenes with a set of implied dynamics between objects. Inferences based on these implied dynamics are metaphorically extended to form inferences about the represented information. This view predicts that even seemingly meaningless properties of a visualization, including such minor design elements as borders, background areas, and the connectedness of parts, may affect how people perceive semantic aspects of data by suggesting different potential dynamics between data points. We present a study that supports this claim and discuss the design implications of this theory of information visualization.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Ziemkiewicz-AVI-2010-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Ziemkiewicz-AVI-2010.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Kosara:BELIV:2010",
@@ -463,7 +873,17 @@
     "venue": "Proceedings BEyond time and errors: novel evaLuation methods for Information Visualization (BELIV)",
     "pages": "373–382",
     "doi": "10.1145/2110192.2110202",
-    "abstract": "Online studies are an attractive alternative to the labor- intensive lab study, and promise the possibility of reaching a larger variety and number of people than at a typical university. There are also a number of draw-backs, however, that have made these studies largely impractical so far. Amazon’s Mechanical Turk is a web service that facilitates the assignment of small, web-based tasks to a large pool of anonymous workers. We used it to conduct several perception and cognition studies, one of which was identical to a previous study performed in our lab. We report on our experiences and present ways to avoid common problems by taking them into account in the study design, and taking advantage of Mechanical Turk’s features."
+    "abstract": "Online studies are an attractive alternative to the labor- intensive lab study, and promise the possibility of reaching a larger variety and number of people than at a typical university. There are also a number of draw-backs, however, that have made these studies largely impractical so far. Amazon’s Mechanical Turk is a web service that facilitates the assignment of small, web-based tasks to a large pool of anonymous workers. We used it to conduct several perception and cognition studies, one of which was identical to a previous study performed in our lab. We report on our experiences and present ways to avoid common problems by taking them into account in the study design, and taking advantage of Mechanical Turk’s features.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-BELIV-2010-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-BELIV-2010.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Ziemkiewicz:CGA:2010",
@@ -475,7 +895,17 @@
     "number": 5,
     "pages": "7–11",
     "doi": "10.1109/MCG.2010.83",
-    "abstract": "Visualization is at a point in its development where its practitioners frequently find themselves grappling with big questions about its nature and purpose. These include fundamental questions about how visualization works—that is, how do people interpret visual forms as information? Classical visualization theory sees this as a process of encoding data variables as visual variables, which the viewer then decodes. Although this body of theory is useful, it doesn’t account for visual structure’s role in shaping information. Experiments on how design affects users’ interpretations of simple visualizations suggest that structural elements such as borders, fills, and arrangement (in addition to the traditional marks) carry significant, predictable semantic information. Drawing on these findings as well as design traditions, the authors argue that visual structure’s apparent dynamics play a major role in a user's understanding of data and must be considered in the design and evaluation of visualizations."
+    "abstract": "Visualization is at a point in its development where its practitioners frequently find themselves grappling with big questions about its nature and purpose. These include fundamental questions about how visualization works—that is, how do people interpret visual forms as information? Classical visualization theory sees this as a process of encoding data variables as visual variables, which the viewer then decodes. Although this body of theory is useful, it doesn’t account for visual structure’s role in shaping information. Experiments on how design affects users’ interpretations of simple visualizations suggest that structural elements such as borders, fills, and arrangement (in addition to the traditional marks) carry significant, predictable semantic information. Drawing on these findings as well as design traditions, the authors argue that visual structure’s apparent dynamics play a major role in a user's understanding of data and must be considered in the design and evaluation of visualizations.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Ziemkiewicz-CGA-2010-thumb.png",
+      "width": 800,
+      "height": 541
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Ziemkiewicz-CGA-2010.png",
+      "width": 1600,
+      "height": 1443
+    }
   },
   {
     "_key": "Kosara:BeautifulVis:2010",
@@ -486,7 +916,17 @@
     "venue": "Beautiful Visualization",
     "pages": "193–204",
     "publisher": "O'Reilley Media",
-    "abstract": "Academic software projects tend to grow organically from an initial idea into something complex and unwieldy that has enough novelty to publish a paper about. Features get added at the last minute to be able to include them in the paper, without much time to think about how to integrate them well – or how to adapt the underlying architecture of the entire program to make them fit. The result is that many of these programs are hacked together, buggy, and embarrassing. Consequently, they do not get released together with the paper, which leads to a fundamental problem in visualization: reproducibility is possible in theory, but in practice rarely happens. Many programs and new techniques are also built from scratch rather than based on existing ones. The optimal model would be to release the software right away, then come back to it later to refine and re-architect it to reflect the overall design goals of the project. This is seldom done, because there is usually nothing to be gained from a re-implementation (or thorough refactoring), so people move on to the next project. The original prototype implementation of Parallel Sets was no different. But we decided that in order to get the idea out of academia into actual use, we would need a working program. So we set out to rethink and redesign it, based on a better understanding of the necessary internal structures we gained over time. We did not only re-engineer the program, but also revise the visualization itself to clarify the overall idea."
+    "abstract": "Academic software projects tend to grow organically from an initial idea into something complex and unwieldy that has enough novelty to publish a paper about. Features get added at the last minute to be able to include them in the paper, without much time to think about how to integrate them well – or how to adapt the underlying architecture of the entire program to make them fit. The result is that many of these programs are hacked together, buggy, and embarrassing. Consequently, they do not get released together with the paper, which leads to a fundamental problem in visualization: reproducibility is possible in theory, but in practice rarely happens. Many programs and new techniques are also built from scratch rather than based on existing ones. The optimal model would be to release the software right away, then come back to it later to refine and re-architect it to reflect the overall design goals of the project. This is seldom done, because there is usually nothing to be gained from a re-implementation (or thorough refactoring), so people move on to the next project. The original prototype implementation of Parallel Sets was no different. But we decided that in order to get the idea out of academia into actual use, we would need a working program. So we set out to rethink and redesign it, based on a better understanding of the necessary internal structures we gained over time. We did not only re-engineer the program, but also revise the visualization itself to clarify the overall idea.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-BeautifulVis-2010-thumb.png",
+      "width": 800,
+      "height": 520
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-BeautifulVis-2010.png",
+      "width": 1600,
+      "height": 694
+    }
   },
   {
     "_key": "Kosara:DiscoveryExhibition:2009",
@@ -494,7 +934,17 @@
     "title": "Parallel Sets in the Real World: Three Case Studies",
     "author": "Robert Kosara and Caroline Ziemkiewicz and F. Joseph Mako III and Jonathan Miles and Kam Tin Seong",
     "venue": "IEEE InfoVis Discovery Exhibition",
-    "abstract": "Parallel Sets are a visualization technique for categorical data. We recently released an implementation to the public in an effort to make our research useful to real users. This paper presents three case studies of Parallel Sets in use with real data."
+    "abstract": "Parallel Sets are a visualization technique for categorical data. We recently released an implementation to the public in an effort to make our research useful to real users. This paper presents three case studies of Parallel Sets in use with real data.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-DiscoveryExhibition-2009-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-DiscoveryExhibition-2009.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Ziemkiewicz:InfoVisPoster:2009",
@@ -502,7 +952,17 @@
     "title": "Design Elements and the Perception of Information Structure",
     "author": "Caroline Ziemkiewicz and Robert Kosara",
     "venue": "IEEE Information Visualization Posters",
-    "abstract": "While there has been significant research on how low-level perceptual elements contribute to a user’s ability to compare or discern data points, less is known about how seemingly meaningless properties of a visual scene contribute to the perception of information structure. We present the results of a study in which participants viewed five types of simple data visualizations that supposedly depicted information about the departmental structure of a series of companies. Although the underlying data was the same in each case, we altered simple design elements such as enclosure, connectedness of parts, whether parts were placed within a visible area, and whether the parts themselves were enclosed by borders. Participants were asked to rate each company on a series of semantic dimensions. The results show a significant effect of minor design elements on semantic interpretations of data, and comments by participants further suggest that these effects may be grounded in physical and emotional inferences derived from the appearance of charts."
+    "abstract": "While there has been significant research on how low-level perceptual elements contribute to a user’s ability to compare or discern data points, less is known about how seemingly meaningless properties of a visual scene contribute to the perception of information structure. We present the results of a study in which participants viewed five types of simple data visualizations that supposedly depicted information about the departmental structure of a series of companies. Although the underlying data was the same in each case, we altered simple design elements such as enclosure, connectedness of parts, whether parts were placed within a visible area, and whether the parts themselves were enclosed by borders. Participants were asked to rate each company on a series of semantic dimensions. The results show a significant effect of minor design elements on semantic interpretations of data, and comments by participants further suggest that these effects may be grounded in physical and emotional inferences derived from the appearance of charts.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Ziemkiewicz-InfoVisPoster-2009-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Ziemkiewicz-InfoVisPoster-2009.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Chang:AAAI:2009",
@@ -510,7 +970,17 @@
     "title": "Towards A Role of Visualization in Social Modeling",
     "author": "Remco Chang and Robert Kosara and Alex Godwin and William Ribarsky",
     "venue": "AAAI 2009 Spring Symposium on Technosocial Predictive Analytics",
-    "abstract": "The traditional role of visualization in large scale social modeling projects has mostly been relegated to presentation and reporting. While these projects see the potential of communicating information visually, the visualization component has too often been considered as the final stage of a long process, sometimes as a last- minute add-on. The result is that these visualization components are limited in capabilities, and often appear disjointed and forced from the rest of the project. In this paper, we propose that for visualization to be more commonly accepted, it needs to fit the role as an analytical tool on top of being a presentation component. We use our probe-based visualization as an example of how such cross-over can occur, and present some challenges in social modeling that can be addressed using visualization techniques."
+    "abstract": "The traditional role of visualization in large scale social modeling projects has mostly been relegated to presentation and reporting. While these projects see the potential of communicating information visually, the visualization component has too often been considered as the final stage of a long process, sometimes as a last- minute add-on. The result is that these visualization components are limited in capabilities, and often appear disjointed and forced from the rest of the project. In this paper, we propose that for visualization to be more commonly accepted, it needs to fit the role as an analytical tool on top of being a presentation component. We use our probe-based visualization as an example of how such cross-over can occur, and present some challenges in social modeling that can be addressed using visualization techniques.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Chang-AAAI-2009-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Chang-AAAI-2009.png",
+      "width": 1600,
+      "height": 2070
+    }
   },
   {
     "_key": "Ziemkiewicz:EuroVis:2009",
@@ -522,7 +992,17 @@
     "number": 3,
     "pages": "911–918",
     "doi": "10.1111/j.1467-8659.2009.01442.x",
-    "abstract": "Understanding information visualization is more than a matter of reading a series of data values; it is also a matter of incorporating a visual structure into one's own thinking about a problem. We have proposed visual metaphors as a framework for understanding high-level visual structure and its effect on visualization use. Although there is some evidence that visual metaphors can affect visualization use, the nature of this effect is still ambiguous. We propose that a user's preconceived metaphors for data and other individual differences play an important role in her ability to think in a variety of visual metaphors, and subsequently in her ability to use a visualization. We test this hypothesis by conducting a study in which a participant's preconceptions and thinking style were compared with the degree to which she is affected by conflicting metaphors in a visualization and its task questions. The results show that metaphor compatibility has a significant effect on accuracy, but that factors such as spatial ability and personality can lessen this effect. We also find a complex influence of self-reported metaphor preference on performance. These findings shed light on how people use visual metaphors to understand a visualization."
+    "abstract": "Understanding information visualization is more than a matter of reading a series of data values; it is also a matter of incorporating a visual structure into one's own thinking about a problem. We have proposed visual metaphors as a framework for understanding high-level visual structure and its effect on visualization use. Although there is some evidence that visual metaphors can affect visualization use, the nature of this effect is still ambiguous. We propose that a user's preconceived metaphors for data and other individual differences play an important role in her ability to think in a variety of visual metaphors, and subsequently in her ability to use a visualization. We test this hypothesis by conducting a study in which a participant's preconceptions and thinking style were compared with the degree to which she is affected by conflicting metaphors in a visualization and its task questions. The results show that metaphor compatibility has a significant effect on accuracy, but that factors such as spatial ability and personality can lessen this effect. We also find a complex influence of self-reported metaphor preference on performance. These findings shed light on how people use visual metaphors to understand a visualization.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Ziemkiewicz-EuroVis-2009-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Ziemkiewicz-EuroVis-2009.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Godwin:SPIE:2008",
@@ -531,7 +1011,17 @@
     "author": "Alex Godwin and Remco Chang and Robert Kosara and William Ribarsky",
     "venue": "SPIE Defense and Security",
     "doi": "10.1117/12.778084",
-    "abstract": "With the increase of terrorist activity around the world, it has become more important than ever to analyze and understand these activities over time. Although the data on terrorist activities are detailed and relevant, the complexity of the data has rendered the understanding and analysis difficult. We present a visual analytical approach to effectively identify related entities such as terrorist groups, events, locations, etc. based on a 2D layout. Our methods are based on sequence comparison from bioinformatics, modified to incorporate the element of time. By allowing the user the freedom to link entities by their activities over time, we provide a new framework for comparison of event sequences. Our scoring mechanism is robust and flexible, giving the user the flexibility to define the extent to which time is considered in aligning entities. Incorporated with high interactivity, the user can efficiently navigate through tens of thousands of records recorded in over a hundred dimensions of data by choosing combinations of categories to examine. Exploration of the terrorist activities in our system reveals relationships between entities that are not easily detectable using traditional methods."
+    "abstract": "With the increase of terrorist activity around the world, it has become more important than ever to analyze and understand these activities over time. Although the data on terrorist activities are detailed and relevant, the complexity of the data has rendered the understanding and analysis difficult. We present a visual analytical approach to effectively identify related entities such as terrorist groups, events, locations, etc. based on a 2D layout. Our methods are based on sequence comparison from bioinformatics, modified to incorporate the element of time. By allowing the user the freedom to link entities by their activities over time, we provide a new framework for comparison of event sequences. Our scoring mechanism is robust and flexible, giving the user the flexibility to define the extent to which time is considered in aligning entities. Incorporated with high interactivity, the user can efficiently navigate through tens of thousands of records recorded in over a hundred dimensions of data by choosing combinations of categories to examine. Exploration of the terrorist activities in our system reveals relationships between entities that are not easily detectable using traditional methods.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Godwin-SPIE-2008-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Godwin-SPIE-2008.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Ziemkiewicz:InfoVis:2008",
@@ -545,7 +1035,17 @@
     "doi": "10.1109/TVCG.2008.171",
     "acceptance-rate": 26,
     "note": "Best Paper Honorable Mention",
-    "abstract": "The nature of an information visualization can be considered to lie in the visual metaphors it uses to structure information. The process of understanding a visualization therefore involves an interaction between these external visual metaphors and the user’s internal knowledge representations. To investigate this claim, we conducted an experiment to test the effects of visual and verbal metaphor on the understanding of tree visualizations. Participants answered simple data comprehension questions while viewing either a treemap or a node-link diagram. Questions were worded to reflect a verbal metaphor that was either compatible or incompatible with the visualization a participant was using. The results (based on correctness and response time) suggest that the visual metaphor indeed affects how a user derives information from a visualization. Additionally, we found that the degree to which a user is affected by the metaphor is strongly correlated with the user’s ability to answer task questions correctly. These findings are a first step towards illuminating how visual metaphors shape user understanding and have significant implications for the evaluation, application, and theory of visualization."
+    "abstract": "The nature of an information visualization can be considered to lie in the visual metaphors it uses to structure information. The process of understanding a visualization therefore involves an interaction between these external visual metaphors and the user’s internal knowledge representations. To investigate this claim, we conducted an experiment to test the effects of visual and verbal metaphor on the understanding of tree visualizations. Participants answered simple data comprehension questions while viewing either a treemap or a node-link diagram. Questions were worded to reflect a verbal metaphor that was either compatible or incompatible with the visualization a participant was using. The results (based on correctness and response time) suggest that the visual metaphor indeed affects how a user derives information from a visualization. Additionally, we found that the degree to which a user is affected by the metaphor is strongly correlated with the user’s ability to answer task questions correctly. These findings are a first step towards illuminating how visual metaphors shape user understanding and have significant implications for the evaluation, application, and theory of visualization.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Ziemkiewicz-InfoVis-2008-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Ziemkiewicz-InfoVis-2008.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Chang:InfoVis:2008",
@@ -557,7 +1057,17 @@
     "number": 1,
     "pages": "63–76",
     "doi": "10.1057/palgrave.ivs.9500172",
-    "abstract": "Large financial institutions such as Bank of America handle hundreds of thousands of wire transactions per day. Although most transactions are legitimate, these institutions have legal and financial obligations in discovering those that are suspicious. With the methods of fraudulent activities ever changing, searching on predefined patterns is often insufficient in detecting previously undiscovered methods. In this paper, we present a set of coordinated visualizations based on identifying specific keywords within the wire transactions. The different views used in our system depict relationships among keywords and accounts over time. Furthermore, we introduce a search-by-example technique which extracts accounts that show similar transaction patterns. Our system can be connected to a database to handle millions of transactions and still preserve high interactivity. In collaboration with the Anti-Money Laundering division at Bank of America, we demonstrate that using our tool, investigators are able to detect accounts and transactions that exhibit suspicious behaviors."
+    "abstract": "Large financial institutions such as Bank of America handle hundreds of thousands of wire transactions per day. Although most transactions are legitimate, these institutions have legal and financial obligations in discovering those that are suspicious. With the methods of fraudulent activities ever changing, searching on predefined patterns is often insufficient in detecting previously undiscovered methods. In this paper, we present a set of coordinated visualizations based on identifying specific keywords within the wire transactions. The different views used in our system depict relationships among keywords and accounts over time. Furthermore, we introduce a search-by-example technique which extracts accounts that show similar transaction patterns. Our system can be connected to a database to handle millions of transactions and still preserve high interactivity. In collaboration with the Anti-Money Laundering division at Bank of America, we demonstrate that using our tool, investigators are able to detect accounts and transactions that exhibit suspicious behaviors.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Chang-InfoVis-2008-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Chang-InfoVis-2008.png",
+      "width": 1600,
+      "height": 828
+    }
   },
   {
     "_key": "Godwin:VASTPoster:2008",
@@ -565,7 +1075,17 @@
     "title": "Visual Data Mining of Unevenly-Spaced Event Sequences",
     "author": "Alex Godwin and Remco Chang and Robert Kosara and William Ribarsky",
     "venue": "IEEE VAST Posters",
-    "abstract": "We present a process for the exploration and analysis of large databases of events. A typical database is characterized by the sequential actions of a number of individual entities. These entities can be compared by their similarities in sequence and changes in sequence over time. The correlation of two sequences can provide important clues as to the possibility of a connection between the responsible entities, but an analyst might not be able to specify the type of connection sought prior to examination. Our process incorporates extensive automated calculation and data mining but permits diversity of analysis by providing visualization of results at multiple levels, taking advantage of human intuition and visual processing to generate avenues of inquiry."
+    "abstract": "We present a process for the exploration and analysis of large databases of events. A typical database is characterized by the sequential actions of a number of individual entities. These entities can be compared by their similarities in sequence and changes in sequence over time. The correlation of two sequences can provide important clues as to the possibility of a connection between the responsible entities, but an analyst might not be able to specify the type of connection sought prior to examination. Our process incorporates extensive automated calculation and data mining but permits diversity of analysis by providing visualization of results at multiple levels, taking advantage of human intuition and visual processing to generate avenues of inquiry.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Godwin-VASTPoster-2008-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Godwin-VASTPoster-2008.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Kosara:CGA:2008",
@@ -577,7 +1097,17 @@
     "number": 3,
     "pages": "13–15",
     "doi": "10.1109/MCG.2008.63",
-    "abstract": "Criticism is a vital part of the practice of design, architecture, and art, and as such is taught and practiced around the world. It is extremely difficult – if not impossible – to establish rules for making good art or designing a new object. Instead of generative rules, there are well-established guidelines, styles, and best practices that often only apply to a finished object, or at least a reasonable sketch. Criticizing a work means applying these standards to identify weaknesses and suggest improvements. Some say that it is much less important in art to know how to do something specific than it is to know how to \"see.\" Visualization is in many respects similar to design and art: we know a good visualization when we see it (or run a controlled user study on it), but it is impossible to define constructive rules how to design an effective visualization. Critiquing can be a useful tool for teaching, developing better techniques, and more theoretical thinking about visualization."
+    "abstract": "Criticism is a vital part of the practice of design, architecture, and art, and as such is taught and practiced around the world. It is extremely difficult – if not impossible – to establish rules for making good art or designing a new object. Instead of generative rules, there are well-established guidelines, styles, and best practices that often only apply to a finished object, or at least a reasonable sketch. Criticizing a work means applying these standards to identify weaknesses and suggest improvements. Some say that it is much less important in art to know how to do something specific than it is to know how to \"see.\" Visualization is in many respects similar to design and art: we know a good visualization when we see it (or run a controlled user study on it), but it is impossible to define constructive rules how to design an effective visualization. Critiquing can be a useful tool for teaching, developing better techniques, and more theoretical thinking about visualization.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2008-thumb.png",
+      "width": 800,
+      "height": 541
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2008.png",
+      "width": 1600,
+      "height": 721
+    }
   },
   {
     "_key": "Cain:IBE:2008",
@@ -598,7 +1128,17 @@
     "pages": "1169–1175",
     "doi": "10.1109/TVCG.2007.70574",
     "acceptance-rate": 23,
-    "abstract": "Numerous systems have been developed to display large collections of data for urban contexts; however, most have focused on layering of single dimensions of data and manual calculations to understand relationships within the urban environment. Furthermore, these systems often limit the user's perspectives on the data, thereby diminishing the user's spatial understanding of the viewing region. In this paper, we introduce a highly interactive urban visualization tool that provides intuitive understanding of the urban data. Our system utilizes an aggregation method that combines buildings and city blocks into legible clusters, thus providing continuous levels of abstraction while preserving the user's mental model of the city. In conjunction with a 3D view of the urban model, a separate but integrated information visualization view displays multiple disparate dimensions of the urban data, allowing the user to understand the urban environment both spatially and cognitively in one glance. For our evaluation, expert users from various backgrounds viewed a real city model with census data and confirmed that our system allowed them to gain more intuitive and deeper understanding of the urban model from different perspectives and levels of abstraction than existing commercial urban visualization systems."
+    "abstract": "Numerous systems have been developed to display large collections of data for urban contexts; however, most have focused on layering of single dimensions of data and manual calculations to understand relationships within the urban environment. Furthermore, these systems often limit the user's perspectives on the data, thereby diminishing the user's spatial understanding of the viewing region. In this paper, we introduce a highly interactive urban visualization tool that provides intuitive understanding of the urban data. Our system utilizes an aggregation method that combines buildings and city blocks into legible clusters, thus providing continuous levels of abstraction while preserving the user's mental model of the city. In conjunction with a 3D view of the urban model, a separate but integrated information visualization view displays multiple disparate dimensions of the urban data, allowing the user to understand the urban environment both spatially and cognitively in one glance. For our evaluation, expert users from various backgrounds viewed a real city model with census data and confirmed that our system allowed them to gain more intuitive and deeper understanding of the urban model from different perspectives and levels of abstraction than existing commercial urban visualization systems.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Chang-InfoVis-2007-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Chang-InfoVis-2007.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Chang:VAST:2007",
@@ -608,7 +1148,17 @@
     "venue": "IEEE Symposium on Visual Analytics Science and Technology (VAST)",
     "pages": "155–162",
     "doi": "10.1109/VAST.2007.4389009",
-    "abstract": "Large financial institutions such as Bank of America handle hundreds of thousands of wire transactions per day. Although most transactions are legitimate, these institutions have legal and financial obligations in discovering those that are suspicious. With the methods of fraudulent activities ever changing, searching on predefined patterns is often insufficient in detecting previously undiscovered methods. In this paper, we present a set of coordinated visualizations based on identifying specific keywords within the wire transactions. The different views used in our system depict relationships among keywords and accounts over time. Furthermore, we introduce a search-by-example technique which extracts accounts that show similar transaction patterns. In collaboration with the Anti-Money Laundering division at Bank of America, we demonstrate that using our tool, investigators are able to detect accounts and transactions that exhibit suspicious behaviors."
+    "abstract": "Large financial institutions such as Bank of America handle hundreds of thousands of wire transactions per day. Although most transactions are legitimate, these institutions have legal and financial obligations in discovering those that are suspicious. With the methods of fraudulent activities ever changing, searching on predefined patterns is often insufficient in detecting previously undiscovered methods. In this paper, we present a set of coordinated visualizations based on identifying specific keywords within the wire transactions. The different views used in our system depict relationships among keywords and accounts over time. Furthermore, we introduce a search-by-example technique which extracts accounts that show similar transaction patterns. In collaboration with the Anti-Money Laundering division at Bank of America, we demonstrate that using our tool, investigators are able to detect accounts and transactions that exhibit suspicious behaviors.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Chang-VAST-2007-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Chang-VAST-2007.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Kelly:SPT:2007",
@@ -626,7 +1176,17 @@
     "venue": "Proceedings of the 11th International Conference on Information Visualisation (IV)",
     "pages": "631–636",
     "doi": "10.1109/IV.2007.130",
-    "abstract": "Classifications of visualization are often based on technical criteria, and leave out artistic ways of visualizing information. Understanding the differences between information visualization and other forms of visual communication provides important insights into the way the field works, though, and also shows the path to new approaches. We propose a classification of several types of information visualization based on aesthetic criteria. The notions of artistic and pragmatic visualization are introduced, and their properties discussed. Finally, the idea of visualization criticism is proposed, and its rules are laid out. Visualization criticism bridges the gap between design, art, and technical/pragmatic information visualization. It guides the view away from implementation details and single mouse clicks to the meaning of a visualization."
+    "abstract": "Classifications of visualization are often based on technical criteria, and leave out artistic ways of visualizing information. Understanding the differences between information visualization and other forms of visual communication provides important insights into the way the field works, though, and also shows the path to new approaches. We propose a classification of several types of information visualization based on aesthetic criteria. The notions of artistic and pragmatic visualization are introduced, and their properties discussed. Finally, the idea of visualization criticism is proposed, and its rules are laid out. Visualization criticism bridges the gap between design, art, and technical/pragmatic information visualization. It guides the view away from implementation details and single mouse clicks to the meaning of a visualization.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-IV-2007-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-IV-2007.png",
+      "width": 1600,
+      "height": 1380
+    }
   },
   {
     "_key": "Kulyk:HCVE:2007",
@@ -672,7 +1232,17 @@
     "number": 4,
     "pages": "558–568",
     "doi": "10.1109/TVCG.2006.76",
-    "abstract": "Categorical data dimensions appear in many real-world data sets, but few visualization methods exist that properly deal with them. Parallel Sets are a new method for the visualization and interactive exploration of categorical data that shows data frequencies instead of the individual data points. The method is based on the axis layout of parallel coordinates, with boxes representing the categories and parallelograms between the axes showing the relations between categories. In addition to the visual representation, we designed a rich set of interactions. Parallel Sets allow the user to interactively remap the data to new categorizations, and thus to consider more data dimensions during exploration and analysis than usually possible. At the same time, a meta-level, semantic representation of the data is built. Common procedures, like building the cross product of two or more dimensions, can be performed automatically, thus complementing the interactive visualization. We demonstrate Parallel Sets by analyzing a large CRM data set, as well as investigating housing data of two US states."
+    "abstract": "Categorical data dimensions appear in many real-world data sets, but few visualization methods exist that properly deal with them. Parallel Sets are a new method for the visualization and interactive exploration of categorical data that shows data frequencies instead of the individual data points. The method is based on the axis layout of parallel coordinates, with boxes representing the categories and parallelograms between the axes showing the relations between categories. In addition to the visual representation, we designed a rich set of interactions. Parallel Sets allow the user to interactively remap the data to new categorizations, and thus to consider more data dimensions during exploration and analysis than usually possible. At the same time, a meta-level, semantic representation of the data is built. Common procedures, like building the cross product of two or more dimensions, can be performed automatically, thus complementing the interactive visualization. We demonstrate Parallel Sets by analyzing a large CRM data set, as well as investigating housing data of two US states.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-TVCG-2006-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-TVCG-2006.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Wolber:PPS:2006",
@@ -692,7 +1262,17 @@
     "venue": "IEEE Symposium on Information Visualization (InfoVis)",
     "pages": "133–140",
     "doi": "10.1109/INFVIS.2005.1532139",
-    "abstract": "The discrete nature of categorical data makes it a particular challenge for visualization. Methods that work very well for continuous data are often hardly usable with categorical dimensions. Only few methods deal properly with such data, mostly because of the discrete nature of categorical data, which does not translate well into the continuous domains of space and color. Parallel Sets is a new visualization method that adopts the layout of parallel coordinates, but substitutes the individual data points by a frequency-based representation. This abstracted view, combined with a set of carefully designed interactions, supports visual data analysis of large and complex data sets. The technique allows efficient work with meta data, which is particularly important when dealing with categorical datasets. By creating new dimensions from existing ones, for example, the user can filter the data according to his or her current needs. We also present the results from an interactive analysis of CRM data using Parallel Sets. We demonstrate how the flexible lay- out eases the process of knowledge crystallization, especially when combined with a sophisticated interaction scheme."
+    "abstract": "The discrete nature of categorical data makes it a particular challenge for visualization. Methods that work very well for continuous data are often hardly usable with categorical dimensions. Only few methods deal properly with such data, mostly because of the discrete nature of categorical data, which does not translate well into the continuous domains of space and color. Parallel Sets is a new visualization method that adopts the layout of parallel coordinates, but substitutes the individual data points by a frequency-based representation. This abstracted view, combined with a set of carefully designed interactions, supports visual data analysis of large and complex data sets. The technique allows efficient work with meta data, which is particularly important when dealing with categorical datasets. By creating new dimensions from existing ones, for example, the user can filter the data according to his or her current needs. We also present the results from an interactive analysis of CRM data using Parallel Sets. We demonstrate how the flexible lay- out eases the process of knowledge crystallization, especially when combined with a sophisticated interaction scheme.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Bendix-InfoVis-2005-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Bendix-InfoVis-2005.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Piringer:CMV:2004",
@@ -702,7 +1282,17 @@
     "venue": "2nd International Conference on Coordinated and Multiple Views in Exploratory Visualization (CMV)",
     "pages": "49–60",
     "doi": "10.1109/CMV.2004.1319526",
-    "abstract": "Scatterplots in 2D and 3D are very useful tools, but also suffer from a number of problems. Overplotting hides the true number of points that are displayed, and showing point clouds in 3D is problematic both in terms of perception and interaction. We propose a combination of 2D and 3D scatterplots, together with some extensions to overcome these problems. By linking 2D and 3D views, it is possible to interact in 2D and get feedback in 3D. That feedback is also enhanced by depth cues (color and point size) such that the user gets a better depth impression. Histograms in 2D and 3D show additional information about point densities and additional context can be displayed. An example application demonstrates the usefulness of the technique."
+    "abstract": "Scatterplots in 2D and 3D are very useful tools, but also suffer from a number of problems. Overplotting hides the true number of points that are displayed, and showing point clouds in 3D is problematic both in terms of perception and interaction. We propose a combination of 2D and 3D scatterplots, together with some extensions to overcome these problems. By linking 2D and 3D views, it is possible to interact in 2D and get feedback in 3D. That feedback is also enhanced by depth cues (color and point size) such that the user gets a better depth impression. Histograms in 2D and 3D show additional information about point densities and additional context can be displayed. An example application demonstrates the usefulness of the technique.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Piringer-CMV-2004-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Piringer-CMV-2004.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Votruba:MedInfo:2004",
@@ -712,7 +1302,17 @@
     "venue": "11th World Congress on Medical Informatics (MedInfo)",
     "pages": "57–61",
     "doi": "10.3233/978-1-60750-949-3-57",
-    "abstract": "Clinical protocols and guidelines are widely used in the medical domain to improve disease management techniques. Different software systems are in development to support the design and the execution of such guidelines. The bottleneck in the guideline software developing process is the transformation of the text-based clinical guidelines into a formal representation, which can be used by the execution software. This paper introduces a method and a tool that was designed to provide a solution for that bottleneck. The so-called Guideline Markup Tool (GMT) facilitates the translation of guidelines into a formal representation written in XML. This tool enables the protocol designer to create links between the original guideline and its formal representation and ease the editing of guidelines applying design patterns in the form of macros. The usefulness of our approach is illustrated using GMT to edit Asbru protocols. We performed a usability study with eight participants to examine the usefulness of the GMT and of the Asbru macros, which showed that the proposed approach is very appropriate to author and maintain clinical guidelines."
+    "abstract": "Clinical protocols and guidelines are widely used in the medical domain to improve disease management techniques. Different software systems are in development to support the design and the execution of such guidelines. The bottleneck in the guideline software developing process is the transformation of the text-based clinical guidelines into a formal representation, which can be used by the execution software. This paper introduces a method and a tool that was designed to provide a solution for that bottleneck. The so-called Guideline Markup Tool (GMT) facilitates the translation of guidelines into a formal representation written in XML. This tool enables the protocol designer to create links between the original guideline and its formal representation and ease the editing of guidelines applying design patterns in the form of macros. The usefulness of our approach is illustrated using GMT to edit Asbru protocols. We performed a usability study with eight participants to examine the usefulness of the GMT and of the Asbru macros, which showed that the proposed approach is very appropriate to author and maintain clinical guidelines.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Votruba-MedInfo-2004-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Votruba-MedInfo-2004.png",
+      "width": 1600,
+      "height": 1509
+    }
   },
   {
     "_key": "Kosara:VisSym:2004",
@@ -722,7 +1322,17 @@
     "venue": "Joint Eurographics - IEEE TCVG Symposium on Visualization (VisSym)",
     "pages": "45–54",
     "doi": "10.2312/VisSym/VisSym04/045-054",
-    "abstract": "Histograms are a very useful tool for data analysis, because they show the distribution of values over a data dimension. Many data sets in engineering (like computational fluid dynamics, CFD), however, are time-dependent. While standard histograms can certainly show such data sets, they do not account for the special role time plays in physical processes and our perception of the world. We present TimeHistograms, which are an extension to standard histograms that take time into account. In several 2D and 3D views, the data is presented in different ways that allow the user to understand different aspects of the temporal development of a dimension. A number of interaction techniques are also provided to make best use of the display, and to allow the user to brush in the histograms."
+    "abstract": "Histograms are a very useful tool for data analysis, because they show the distribution of values over a data dimension. Many data sets in engineering (like computational fluid dynamics, CFD), however, are time-dependent. While standard histograms can certainly show such data sets, they do not account for the special role time plays in physical processes and our perception of the world. We present TimeHistograms, which are an extension to standard histograms that take time into account. In several 2D and 3D views, the data is presented in different ways that allow the user to understand different aspects of the temporal development of a dimension. A number of interaction techniques are also provided to make best use of the display, and to allow the user to brush in the histograms.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-VisSym-2004-thumb.png",
+      "width": 800,
+      "height": 527
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-VisSym-2004.png",
+      "width": 1600,
+      "height": 843
+    }
   },
   {
     "_key": "Votruba:CGP:2004",
@@ -732,7 +1342,17 @@
     "venue": "Symposium on Computerized Guidelines and Protocols (CGP)",
     "pages": "172–176",
     "doi": "10.3233/978-1-60750-944-8-172",
-    "abstract": "This paper presents a new guideline authoring tool, called Guideline Markup Tool (GMT). It proposes two useful features, which are missing in existing tools. First, it facilitates the translation of a free-text guideline into a formal representation, providing special XML macros. Second, it can be used to create links between the original guideline and its formal representation. Therefore, the GMT eases the implementation of clinical guidelines in a formal representation, which can be used in monitoring and therapy planning systems."
+    "abstract": "This paper presents a new guideline authoring tool, called Guideline Markup Tool (GMT). It proposes two useful features, which are missing in existing tools. First, it facilitates the translation of a free-text guideline into a formal representation, providing special XML macros. Second, it can be used to create links between the original guideline and its formal representation. Therefore, the GMT eases the implementation of clinical guidelines in a formal representation, which can be used in monitoring and therapy planning systems.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Votruba-CGP-2004-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Votruba-CGP-2004.png",
+      "width": 1600,
+      "height": 1509
+    }
   },
   {
     "_key": "Kosara:WSCG:2004",
@@ -741,7 +1361,17 @@
     "author": "Robert Kosara and Gerald N. Sahling and Helwig Hauser",
     "venue": "Short Communication Papers Proceedings of the 12th International Conference in Central Europe on Computer Graphics, Visualization, and Computer Vision (WSCG)",
     "pages": "133–140",
-    "abstract": "3D scatterplots are an extension of the ubiquitous 2D scatterplots that is conceptually simple, but so far proved hard to use in practice. But by combining them with a state-of-the-art volume rendering engine, multiple views, and interaction between these views, 3D scatterplots become usable and, in fact, useful. 3D scatterplots can not only show abstract data dimensions, but also the physical layout of points, and thus provide a link between feature space and the actual object. Brushing reveals connections between parts and features that otherwise are hard to find. This link also works not only from feature space to the spatial display, but also vice versa, which gives the user more freedom in exploring the data."
+    "abstract": "3D scatterplots are an extension of the ubiquitous 2D scatterplots that is conceptually simple, but so far proved hard to use in practice. But by combining them with a state-of-the-art volume rendering engine, multiple views, and interaction between these views, 3D scatterplots become usable and, in fact, useful. 3D scatterplots can not only show abstract data dimensions, but also the physical layout of points, and thus provide a link between feature space and the actual object. Brushing reveals connections between parts and features that otherwise are hard to find. This link also works not only from feature space to the spatial display, but also vice versa, which gives the user more freedom in exploring the data.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-WSCG-2004-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-WSCG-2004.png",
+      "width": 1600,
+      "height": 1130
+    }
   },
   {
     "_key": "Kosara:VPDAE:2004",
@@ -769,7 +1399,17 @@
     "number": 4,
     "pages": "20–25",
     "doi": "10.1109/MCG.2003.1210860",
-    "abstract": "In crafting today’s visualizations, we often design and evaluate methods by presenting results informally to potential users. No matter how efficient a visualization technique may be, or how well motivated from theory, if it doesn’t convey information effectively, it’s of little use."
+    "abstract": "In crafting today’s visualizations, we often design and evaluate methods by presenting results informally to potential users. No matter how efficient a visualization technique may be, or how well motivated from theory, if it doesn’t convey information effectively, it’s of little use.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2003-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2003.png",
+      "width": 1600,
+      "height": 1132
+    }
   },
   {
     "_key": "Kosara:STAR:2003",
@@ -779,7 +1419,17 @@
     "venue": "State-of-the-Art Proceedings of EUROGRAPHICS",
     "pages": "123–137",
     "doi": "10.2312/egst.20031092",
-    "abstract": "Information Visualization (InfoVis) encompasses techniques of visualization that deal primarily with abstract data, that is, data for which the user has no preconceived mental model. This is in contrast to, for example, volume or flow data. For this reason, interaction is particularly important in InfoVis: for exploration, analysis, and presentation of data. Interaction allows the user to implicitly form mental models of the correlations and relationships in the data, through recognition of patterns, marking or focusing in on those patterns, forming mental hypotheses and testing them, and so on. Some interaction techniques are very specific to InfoVis (even though they can be and are applied to other areas as well), such as Focus+Context and Linking+Brushing. This paper surveys InfoVis techniques with an orientation toward interaction aspects, rather than data model or display dimension. It also tries to put the work into perspective by including aspects such as user studies for the evaluation of methods "
+    "abstract": "Information Visualization (InfoVis) encompasses techniques of visualization that deal primarily with abstract data, that is, data for which the user has no preconceived mental model. This is in contrast to, for example, volume or flow data. For this reason, interaction is particularly important in InfoVis: for exploration, analysis, and presentation of data. Interaction allows the user to implicitly form mental models of the correlations and relationships in the data, through recognition of patterns, marking or focusing in on those patterns, forming mental hypotheses and testing them, and so on. Some interaction techniques are very specific to InfoVis (even though they can be and are applied to other areas as well), such as Focus+Context and Linking+Brushing. This paper surveys InfoVis techniques with an orientation toward interaction aspects, rather than data model or display dimension. It also tries to put the work into perspective by including aspects such as user studies for the evaluation of methods ",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-STAR-2003-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-STAR-2003.png",
+      "width": 1600,
+      "height": 565
+    }
   },
   {
     "_key": "Votruba:AIME:2003",
@@ -789,7 +1439,17 @@
     "venue": "Artificial Intelligence in Medicine (AIME)",
     "pages": "152–157",
     "doi": "10.1007/978-3-540-39907-0_21",
-    "abstract": "Clinical guidelines have been used in the medical domain for some time now, primarily to reduce proneness to errors during the treatment of specific diseases. Recently, physicians have special software at their disposal, which supports them at decision-making based on computerized protocols and guidelines. Using such tools, physicians sometimes want to know the reason why the computer recommends a particular treatment method. To comprehend the suggestions, a connection between the original guideline and its computerized representation is needed. This paper introduces a tool that was designed to provide a solution for that, the so-called Guideline Markup Tool (GMT). This tool enables the protocol designer to create links between the original guideline and its formal representation."
+    "abstract": "Clinical guidelines have been used in the medical domain for some time now, primarily to reduce proneness to errors during the treatment of specific diseases. Recently, physicians have special software at their disposal, which supports them at decision-making based on computerized protocols and guidelines. Using such tools, physicians sometimes want to know the reason why the computer recommends a particular treatment method. To comprehend the suggestions, a connection between the original guideline and its computerized representation is needed. This paper introduces a tool that was designed to provide a solution for that, the so-called Guideline Markup Tool (GMT). This tool enables the protocol designer to create links between the original guideline and its formal representation.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Votruba-AIME-2003-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Votruba-AIME-2003.png",
+      "width": 1600,
+      "height": 1509
+    }
   },
   {
     "_key": "Schrammel:INTERACT:2003",
@@ -798,7 +1458,17 @@
     "author": "Johann Schrammel and Verena Giller and Manfred Tscheligi and Robert Kosara and Silvia Miksch and Helwig Hauser",
     "venue": "Proceedings of the Ninth IFIP TC13 International Conference on Human-Computer Interaction (INTERACT)",
     "pages": "888–891",
-    "abstract": "This paper presents the results of a thorough user study that was performed to assess special features and the general usefulness of Semantic Depth of Field (SDOF). Semantic Depth of Field is a focus+context (F+C) technique that uses blur to point the user to the most relevant objects. SDOF was found to be an effective means for guiding the viewer’s attention and for giving him or her a quick overview of a data set."
+    "abstract": "This paper presents the results of a thorough user study that was performed to assess special features and the general usefulness of Semantic Depth of Field (SDOF). Semantic Depth of Field is a focus+context (F+C) technique that uses blur to point the user to the most relevant objects. SDOF was found to be an effective means for guiding the viewer’s attention and for giving him or her a quick overview of a data set.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Schrammel-INTERACT-2003-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Schrammel-INTERACT-2003.png",
+      "width": 1600,
+      "height": 2264
+    }
   },
   {
     "_key": "Kosara:IJMI:2002",
@@ -810,7 +1480,17 @@
     "number": "1–3",
     "pages": "141–153",
     "doi": "10.1016/s1386-5056(02)00072-2",
-    "abstract": "Time plays an important role in medicine, both the past and the future. The medical history of a patient represents the past, which needs to be understood by the physician to make the right decisions. The past contains two different kinds of information: measured data (such as blood pressure) and incidents (such as seizures). Planning therapies, on the other hand, requires looking into the future to a certain extent. Visual representations exist for both the past and the future, and they are very useful for getting a better understanding of data or a plan. This paper surveys visualization techniques for both data analysis and planning, and compares them based on a number of criteria."
+    "abstract": "Time plays an important role in medicine, both the past and the future. The medical history of a patient represents the past, which needs to be understood by the physician to make the right decisions. The past contains two different kinds of information: measured data (such as blood pressure) and incidents (such as seizures). Planning therapies, on the other hand, requires looking into the future to a certain extent. Visual representations exist for both the past and the future, and they are very useful for getting a better understanding of data or a plan. This paper surveys visualization techniques for both data analysis and planning, and compares them based on a number of criteria.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-IJMI-2002-thumb.png",
+      "width": 800,
+      "height": 546
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-IJMI-2002.png",
+      "width": 1600,
+      "height": 624
+    }
   },
   {
     "_key": "Kosara:CGA:2002",
@@ -822,7 +1502,17 @@
     "number": 1,
     "pages": "22–29",
     "doi": "10.1109/38.974515",
-    "abstract": "Pointing out relevant information to a user is one application of focus+context techniques in information visualization. We present a method for doing this which uses selective blur to direct the user’s attention. This method is based on the depth of field (DOF) effect used in photography and cinematography, and is therefore both familiar to users and perceptually effective. Because this method blurs objects based on their relevance rather than their distance, we call it Semantic Depth of Field (SDOF). We also present four example applications that use SDOF to show its usefulness in practice, and also provide details of a fast implementation that makes it possible to use blur in interactive applications. A short report on the results of a user study we performed is also given."
+    "abstract": "Pointing out relevant information to a user is one application of focus+context techniques in information visualization. We present a method for doing this which uses selective blur to direct the user’s attention. This method is based on the depth of field (DOF) effect used in photography and cinematography, and is therefore both familiar to users and perceptually effective. Because this method blurs objects based on their relevance rather than their distance, we call it Semantic Depth of Field (SDOF). We also present four example applications that use SDOF to show its usefulness in practice, and also provide details of a fast implementation that makes it possible to use blur in interactive applications. A short report on the results of a user study we performed is also given.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-CGA-2002-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-CGA-2002.png",
+      "width": 1600,
+      "height": 754
+    }
   },
   {
     "_key": "Kosara:IDPT:2002",
@@ -830,7 +1520,17 @@
     "title": "Tools for Acquiring Clinical Guidelines in Asbru",
     "author": "Robert Kosara and Silvia Miksch and Andreas Seyfang and Peter Votruba",
     "venue": "Proceedings of the Sixth World Conference on Integrated Design and Process Technology (IDPT)",
-    "abstract": "In order for clinical guidelines to be verified, they must first be acquired or at least translated into a format that can be treated formally. Most guidelines today either exist as plain text, tables, or flow-charts. We present two tools that support this translation: The Guideline Markup Tool (GMT) and the Pontifex Intelligent XML Editor Extension (PIXEE). The GMT provides a relatively easy way to translate free text into Asbru. It does this by displaying both the original text and the translation, and showing the user which parts of the Asbru code correspond to which elements of the original text. This not only makes it easier to author plans, but also to understand the resulting Asbru constructs in terms of the original guideline. PIXEE is a more general XML editor that has some special features due to a richer representation of the language than pure XML. It provides means to aggregate information dynamically and also to more effectively work with language constructs. Both these tools make the translation into a formal language easier and therefore enable us to formally verify guidelines, thus reducing errors and ambiguities in them."
+    "abstract": "In order for clinical guidelines to be verified, they must first be acquired or at least translated into a format that can be treated formally. Most guidelines today either exist as plain text, tables, or flow-charts. We present two tools that support this translation: The Guideline Markup Tool (GMT) and the Pontifex Intelligent XML Editor Extension (PIXEE). The GMT provides a relatively easy way to translate free text into Asbru. It does this by displaying both the original text and the translation, and showing the user which parts of the Asbru code correspond to which elements of the original text. This not only makes it easier to author plans, but also to understand the resulting Asbru constructs in terms of the original guideline. PIXEE is a more general XML editor that has some special features due to a richer representation of the language than pure XML. It provides means to aggregate information dynamically and also to more effectively work with language constructs. Both these tools make the translation into a formal language easier and therefore enable us to formally verify guidelines, thus reducing errors and ambiguities in them.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-IDPT-2002-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-IDPT-2002.png",
+      "width": 1600,
+      "height": 1507
+    }
   },
   {
     "_key": "Kosara:VisSym:2002",
@@ -840,7 +1540,17 @@
     "venue": "Proceedings of the Joint Eurographics – IEEE TCVG Symposium on Visualization (VisSym)",
     "pages": "205–210",
     "doi": "10.2312/VisSym/VisSym02/205-210",
-    "abstract": "This paper presents the results of a thorough user study that was performed to assess some features and the general usefulness of Semantic Depth of Field (SDOF). Based on these results, concrete hints are given on how SDOF can be used for visualization. SDOF was found to be a very effective means for guiding the viewer’s attention and for giving him or her a quick overview of a data set. It can also very quickly be perceived, and therefore provides an efficient visual channel. Semantic Depth of Field is a focus+context (F+C) technique that uses blur to point the user to the most relevant objects. It was inspired by the depth of field (DOF) effect in photography, which serves a very similar purpose."
+    "abstract": "This paper presents the results of a thorough user study that was performed to assess some features and the general usefulness of Semantic Depth of Field (SDOF). Based on these results, concrete hints are given on how SDOF can be used for visualization. SDOF was found to be a very effective means for guiding the viewer’s attention and for giving him or her a quick overview of a data set. It can also very quickly be perceived, and therefore provides an efficient visual channel. Semantic Depth of Field is a focus+context (F+C) technique that uses blur to point the user to the most relevant objects. It was inspired by the depth of field (DOF) effect in photography, which serves a very similar purpose.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-VisSym-2002-thumb.png",
+      "width": 800,
+      "height": 565
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-VisSym-2002.png",
+      "width": 1600,
+      "height": 1507
+    }
   },
   {
     "_key": "Kosara:DRR:2002",
@@ -860,7 +1570,17 @@
     "venue": "Proceedings Information Visualization (InfoVis)",
     "pages": "97–104",
     "doi": "10.1109/INFVIS.2001.963286",
-    "abstract": "We present a new technique called Semantic Depth of Field (SDOF) as an alternative approach to focus-and-context displays of information. We utilize a well-known method from photography and cinematography (depth-of-field effect) for information visualization, which is to blur different parts of the depicted scene in dependence of their relevance. Independent of their spatial locations, objects of interest are depicted sharply in SDOF, whereas the context of the visualization is blurred. In this paper, we present a flexible model of SDOF which can be easily adopted to various types of applications. We discuss pros and cons of the new technique, give examples of application, and describe a fast prototype implementation of SDOF."
+    "abstract": "We present a new technique called Semantic Depth of Field (SDOF) as an alternative approach to focus-and-context displays of information. We utilize a well-known method from photography and cinematography (depth-of-field effect) for information visualization, which is to blur different parts of the depicted scene in dependence of their relevance. Independent of their spatial locations, objects of interest are depicted sharply in SDOF, whereas the context of the visualization is blurred. In this paper, we present a flexible model of SDOF which can be easily adopted to various types of applications. We discuss pros and cons of the new technique, give examples of application, and describe a fast prototype implementation of SDOF.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-InfoVis-2001-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-InfoVis-2001.png",
+      "width": 1600,
+      "height": 1035
+    }
   },
   {
     "_key": "Kosara:MedInfo:2001",
@@ -869,7 +1589,17 @@
     "author": "Robert Kosara and Silvia Miksch",
     "venue": "Proceedings of the Conference on Medical Informatics (MedInfo)",
     "pages": "211–215",
-    "abstract": "Time plays an important role in medicine. Conditions are not just evaluated at single instants in time, but traced over periods. Medications must be administered within specified temporal limits, and their effects observed with regard to time. When planning treatments, the temporal aspect becomes even more complicated. The planner has to deal with uncertainty and allowable intervals. A visual representation of the information would be helpful, but there are few visualizations of time that are powerful enough. We present a visualization that graphically represents a complex notion of time, and has also been implemented in a program that allows users to directly specify this information. The results of a small user study are reported."
+    "abstract": "Time plays an important role in medicine. Conditions are not just evaluated at single instants in time, but traced over periods. Medications must be administered within specified temporal limits, and their effects observed with regard to time. When planning treatments, the temporal aspect becomes even more complicated. The planner has to deal with uncertainty and allowable intervals. A visual representation of the information would be helpful, but there are few visualizations of time that are powerful enough. We present a visualization that graphically represents a complex notion of time, and has also been implemented in a program that allows users to directly specify this information. The results of a small user study are reported.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-MedInfo-2001-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-MedInfo-2001.png",
+      "width": 1600,
+      "height": 1509
+    }
   },
   {
     "_key": "Miksch:EUNITE:2001",
@@ -899,7 +1629,17 @@
     "number": 2,
     "pages": "111–131",
     "doi": "10.1016/s0933-3657(00)00103-2",
-    "abstract": "Therapy planning plays an increasingly important role in the everyday work of physicians. Clinical protocols or guidelines are typically represented using ̄ow-charts, decision tables, or plain text. These representations are badly suited, however, for complex medical procedures. One representation method that overcomes these problems is the language Asbru. But because Asbru has a LISP-like syntax (and also incorporates many concepts from computer science), it is not suitable for physicians. Therefore, we developed a visualization and user interface to deal with treatment plans expressed in Asbru. We use graphical metaphors to make the underlying concepts easier to grasp, employ glyphs to communicate complex temporal information and colors to make it possible to understand the connection between the two views (Topological View and Temporal View) available in the system. In this paper, we present the design ideas behind AsbruView, and discuss its usefulness based on the results of a usability study we performed with six physicians."
+    "abstract": "Therapy planning plays an increasingly important role in the everyday work of physicians. Clinical protocols or guidelines are typically represented using ̄ow-charts, decision tables, or plain text. These representations are badly suited, however, for complex medical procedures. One representation method that overcomes these problems is the language Asbru. But because Asbru has a LISP-like syntax (and also incorporates many concepts from computer science), it is not suitable for physicians. Therefore, we developed a visualization and user interface to deal with treatment plans expressed in Asbru. We use graphical metaphors to make the underlying concepts easier to grasp, employ glyphs to communicate complex temporal information and colors to make it possible to understand the connection between the two views (Topological View and Temporal View) available in the system. In this paper, we present the design ideas behind AsbruView, and discuss its usefulness based on the results of a usability study we performed with six physicians.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-AIMJ-2001-thumb.png",
+      "width": 800,
+      "height": 547
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-AIMJ-2001.png",
+      "width": 1600,
+      "height": 398
+    }
   },
   {
     "_key": "Kosara:TIME:2000",
@@ -909,7 +1649,17 @@
     "venue": "Proceedings of the Seventh International Workshop on Temporal Representation and Reasoning (TIME)",
     "pages": "153–181",
     "doi": "10.1109/TIME.2000.856599",
-    "abstract": "Medical therapy planning shares a number of properties of project management. It is, however, different in a few very important aspects — most notably, the more complex notion of time it requires. Asbru is a language that can represent medical therapy plans in terms of time-oriented, skeletal plans. But due to its formal nature, it cannot be used directly by physicians. Therefore, we developed a visualization and user interface to deal with plans defined in Asbru, which can deal with most of its complexity. We present this interface (called AsbruView), and discuss its features and advantages over the two representations typically used in project management: Gantt and PERT charts."
+    "abstract": "Medical therapy planning shares a number of properties of project management. It is, however, different in a few very important aspects — most notably, the more complex notion of time it requires. Asbru is a language that can represent medical therapy plans in terms of time-oriented, skeletal plans. But due to its formal nature, it cannot be used directly by physicians. Therefore, we developed a visualization and user interface to deal with plans defined in Asbru, which can deal with most of its complexity. We present this interface (called AsbruView), and discuss its features and advantages over the two representations typically used in project management: Gantt and PERT charts.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-TIME-2000-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-TIME-2000.png",
+      "width": 1600,
+      "height": 828
+    }
   },
   {
     "_key": "Miksch:DEXA:1999",
@@ -918,7 +1668,17 @@
     "author": "Silvia Miksch and Robert Kosara",
     "venue": "Proceedings of the 10th International Conference on Database and Expert Systems Applications (DEXA)",
     "pages": "1041–1051",
-    "abstract": "Practical planning systems for real-world environments imply a striking challenge, because the planning and visualization techniques available are not that straightforwardly applicable. Skeletal plans are an effective way to reuse existing domain-specific procedural knowledge, but leave room for execution-time flexibility. However, the basic concepts of skeletal plans are not sufficient in our medical domain. First, the temporal dimensions and variability of plans have to be modelled explicitly. Second, the compositions and the interdependencies of different plans are not lucid to medical domain experts. The aim of our paper is to overcome these limitations and to present an intuitive user interface to the plan-representation language Asbru. We explored different representations and developed a powerful plan visualization, called AsbruView. AsbruView consists of two views, first, a topological view, which utilizes the metaphor graphics of “running tracks” and “traffic” and, second, a temporal view, which utilizes the idea of LifeLines."
+    "abstract": "Practical planning systems for real-world environments imply a striking challenge, because the planning and visualization techniques available are not that straightforwardly applicable. Skeletal plans are an effective way to reuse existing domain-specific procedural knowledge, but leave room for execution-time flexibility. However, the basic concepts of skeletal plans are not sufficient in our medical domain. First, the temporal dimensions and variability of plans have to be modelled explicitly. Second, the compositions and the interdependencies of different plans are not lucid to medical domain experts. The aim of our paper is to overcome these limitations and to present an intuitive user interface to the plan-representation language Asbru. We explored different representations and developed a powerful plan visualization, called AsbruView. AsbruView consists of two views, first, a topological view, which utilizes the metaphor graphics of “running tracks” and “traffic” and, second, a temporal view, which utilizes the idea of LifeLines.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Miksch-DEXA-1999-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Miksch-DEXA-1999.png",
+      "width": 1600,
+      "height": 690
+    }
   },
   {
     "_key": "Kosara:AIMDM:1999",
@@ -927,7 +1687,17 @@
     "author": "Robert Kosara and Silvia Miksch",
     "venue": "Proceedings of the Joint European Conference on Artificial Intelligence in Medicine and Medical Decision Making (AIMDM)",
     "pages": "291–300",
-    "abstract": "In order to utilize elaborate tools and techniques (like verication) for use with clinical protocols, these must be represented in an appropriate way. Protocols are typically represented by means of formal languages (e.g., Asbru), which are very hard to understand for medical experts and lead to many problems in practical use. Therefore, a powerful user interface is needed. We identify the key problems the user-interface designer is faced with, and present a number of \"classic\" solutions and their shortcomings, which led to our own solution called AsbruView. Its two different views (Topological View and Temporal View) are presented."
+    "abstract": "In order to utilize elaborate tools and techniques (like verication) for use with clinical protocols, these must be represented in an appropriate way. Protocols are typically represented by means of formal languages (e.g., Asbru), which are very hard to understand for medical experts and lead to many problems in practical use. Therefore, a powerful user interface is needed. We identify the key problems the user-interface designer is faced with, and present a number of \"classic\" solutions and their shortcomings, which led to our own solution called AsbruView. Its two different views (Topological View and Temporal View) are presented.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-AIMDM-1999-thumb.png",
+      "width": 800,
+      "height": 517
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-AIMDM-1999.png",
+      "width": 1600,
+      "height": 828
+    }
   },
   {
     "_key": "Kosara:CareVue:1999",
@@ -944,7 +1714,17 @@
     "author": "Robert Kosara and Silvia Miksch and Yuval Shahar and Peter Johnson",
     "venue": "The Second Workshop on Thinking with Diagrams 1998 (TwD)",
     "pages": "119–126",
-    "abstract": "Flow charts are one of the standard means of representing actions or algorithms in many domains. However, applying flow charts in dynamically changing environments, like clinical treatment planning, reveals their limitations. Flow charts do not include the temporal dimension in their design, do not allow complex paths through many components, and scale very badly. These are only some of the requirements for a means of communicating clinical therapy plans. As an alternative, a plan-representation language called Asbru was designed, which overcomes all the limitations of flow charts. It is, however, impossible for a domain expert to work with Asbru directly. Therefore, a visualisation called AsbruView is presented here, which uses three-dimensional diagrams and metaphors — running tracks and traffic signs — to make the parts of Asbru easily understandable and usable. Even very complex clinical plans are easy to understand with AsbruView."
+    "abstract": "Flow charts are one of the standard means of representing actions or algorithms in many domains. However, applying flow charts in dynamically changing environments, like clinical treatment planning, reveals their limitations. Flow charts do not include the temporal dimension in their design, do not allow complex paths through many components, and scale very badly. These are only some of the requirements for a means of communicating clinical therapy plans. As an alternative, a plan-representation language called Asbru was designed, which overcomes all the limitations of flow charts. It is, however, impossible for a domain expert to work with Asbru directly. Therefore, a visualisation called AsbruView is presented here, which uses three-dimensional diagrams and metaphors — running tracks and traffic signs — to make the parts of Asbru easily understandable and usable. Even very complex clinical plans are easy to understand with AsbruView.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Kosara-TwD-1998-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Kosara-TwD-1998.png",
+      "width": 1600,
+      "height": 1132
+    }
   },
   {
     "_key": "Miksch:AIPS:1998",
@@ -953,6 +1733,16 @@
     "author": "Silvia Miksch and Robert Kosara and Yuval Shahar and Peter Johnson",
     "venue": "The Fourth International Conference on Artificial Intelligence Planning Systems (AIPS)",
     "pages": "11–18",
-    "abstract": "Skeletal plans are a powerful way to reuse existing domain-specific procedural knowledge. The main drawbacks are that the compositions and the interdependencies of different skeletal plans and their components are not lucid. The aim of this paper is to overcome these limitations and to present the visualization of time-oriented, skeletal plans. Within the Asgaard project, we have developed a time-oriented and intention-based language, called Asbru, to represent such skeletal plans. The Asbru syntax is defined in Backus-Naur form (BNF). Reading BNF or similar forms are next to impossible even for domain experts. We explored different representations and automated knowledge-acquisition tools. However, the domain experts did not accept any of these representations. Consequently, we investigated different metaphor graphics and ended up with a plan visualization utilizing the metaphors of tracks and traffic, called AsbruView. We formatively evaluated different approaches of this plan visualization with physicians applying treatment protocols of mechanical ventilated newborn infants."
+    "abstract": "Skeletal plans are a powerful way to reuse existing domain-specific procedural knowledge. The main drawbacks are that the compositions and the interdependencies of different skeletal plans and their components are not lucid. The aim of this paper is to overcome these limitations and to present the visualization of time-oriented, skeletal plans. Within the Asgaard project, we have developed a time-oriented and intention-based language, called Asbru, to represent such skeletal plans. The Asbru syntax is defined in Backus-Naur form (BNF). Reading BNF or similar forms are next to impossible even for domain experts. We explored different representations and automated knowledge-acquisition tools. However, the domain experts did not accept any of these representations. Consequently, we investigated different metaphor graphics and ended up with a plan visualization utilizing the metaphors of tracks and traffic, called AsbruView. We formatively evaluated different approaches of this plan visualization with physicians applying treatment protocols of mechanical ventilated newborn infants.",
+    "thumbnail": {
+      "src": "https://media.eagereyes.org/paper-thumbs/Miksch-AIPS-1998-thumb.png",
+      "width": 800,
+      "height": 566
+    },
+    "preview": {
+      "src": "https://media.eagereyes.org/paper-previews/Miksch-AIPS-1998.png",
+      "width": 1600,
+      "height": 1132
+    }
   }
 ]

@@ -70,3 +70,49 @@ for (const post of posts) {
 
 await writeFile(blogMetaPath, JSON.stringify(posts, null, 4) + '\n');
 console.log(`Updated ${blogUpdated} image(s) in content/blog-meta.json`);
+
+// --- papers.json: thumbnail and preview images ---
+
+const papersPath = join(__dirname, '..', 'content', 'papers.json');
+const papers = JSON.parse(await readFile(papersPath, 'utf-8'));
+let papersUpdated = 0;
+
+for (const paper of papers) {
+    if (paper._pdf === 'no') continue;
+
+    const keyDashed = paper._key.replaceAll(':', '-');
+    const yr = paper._key.split(':').at(-1).slice(0, 4);
+
+    const thumbSrc = `https://media.eagereyes.org/paper-thumbs/${keyDashed}-thumb.png`;
+    const previewSrc = `https://media.eagereyes.org/papers/${yr}/${keyDashed}.pdf`;
+
+    // thumbnail
+    if (!paper.thumbnail?.width || !paper.thumbnail?.height) {
+        process.stdout.write(`Fetching thumb ${thumbSrc} ... `);
+        try {
+            const dims = await fetchDimensions(thumbSrc);
+            paper.thumbnail = { src: thumbSrc, ...dims };
+            console.log(`${dims.width}x${dims.height}`);
+            papersUpdated++;
+        } catch {
+            console.log('not found, skipping');
+        }
+    }
+
+    // preview (PNG version alongside the PDF)
+    const previewPngSrc = `https://media.eagereyes.org/paper-previews/${keyDashed}.png`;
+    if (!paper.preview?.width || !paper.preview?.height) {
+        process.stdout.write(`Fetching preview ${previewPngSrc} ... `);
+        try {
+            const dims = await fetchDimensions(previewPngSrc);
+            paper.preview = { src: previewPngSrc, ...dims };
+            console.log(`${dims.width}x${dims.height}`);
+            papersUpdated++;
+        } catch {
+            console.log('not found, skipping');
+        }
+    }
+}
+
+await writeFile(papersPath, JSON.stringify(papers, null, 2) + '\n');
+console.log(`Updated ${papersUpdated} image(s) in content/papers.json`);

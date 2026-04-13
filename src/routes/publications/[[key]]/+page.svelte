@@ -1,7 +1,9 @@
 <script lang="ts">
 	import type { PageProps } from './$types';
+	import type { Paper } from '$lib/paper-utils';
 
 	let { data }: PageProps = $props();
+	let currentPaper = $derived(data.paper as Paper);
 
 	function year(key: string) {
 		return key.split(':').at(-1)!.slice(0, 4);
@@ -17,7 +19,7 @@
 		return text.slice(0, cut > 0 ? cut : max).trimEnd() + '…';
 	}
 
-	function formatCitation(paper: typeof data.paper): string {
+	function formatCitation(paper: typeof currentPaper): string {
 		const yr = year(paper._key);
 		const names = paper.author.split(' and ').map(s => s.trim());
 		const authorStr = names.length === 1
@@ -69,7 +71,7 @@
 		return `https://media.eagereyes.org/paper-previews/${key.replaceAll(':', '-')}.png`;
 	}
 
-	function toBibtex(paper: typeof data.paper): string {
+	function toBibtex(paper: typeof currentPaper): string {
 		const type = paper._type;
 		const key = paper._key;
 		const yr = year(key);
@@ -100,37 +102,42 @@
 </script>
 
 <svelte:head>
-{#if data.paper.title.length}<title>Paper: {data.paper.title} – eagereyes</title>
+{#if currentPaper.title.length}<title>Paper: {currentPaper.title} – eagereyes</title>
 {:else}<title>Robert Kosara's Publications – eagereyes</title>
 {/if}
     <!-- <meta name="description" content={data.description} /> -->
 </svelte:head>
 
-{#if data.paper.title.length}
+{#if currentPaper.title.length}
 
 <div class="single-paper">
-    <h1>{data.paper.title}</h1>
+    <h1>{currentPaper.title}</h1>
 
     <div class="paper-body">
-        {#if data.paper._pdf !== 'no'}
-            <img class="paper-thumb" src={previewUrl(data.paper._key)} alt="Preview for {data.paper.title}" />
+        {#if currentPaper._pdf !== 'no'}
+            <img class="paper-thumb"
+                src={currentPaper.preview?.src ?? previewUrl(currentPaper._key)}
+                alt="Preview for {currentPaper.title}"
+                width={currentPaper.preview?.width}
+                height={currentPaper.preview?.height}
+            />
         {/if}
 
-        <p class="paper-citation">{@html formatCitation(data.paper)}</p>
+        <p class="paper-citation">{@html formatCitation(currentPaper)}</p>
         <div class="paper-pills">
-            {#if data.paper._pdf !== 'no'}<a class="pill" href={pdfUrl(data.paper._key)}>PDF</a>{/if}
-            {#if data.paper.doi}<a class="pill" href="https://dx.doi.org/{data.paper.doi}">DOI</a>{/if}
-            {#if data.paper.talk}<a class="pill" href={data.paper.talk}>Talk</a>{/if}
-            {#if data.paper.data}<a class="pill" href={data.paper.data}>Data</a>{/if}
+            {#if currentPaper._pdf !== 'no'}<a class="pill" href={pdfUrl(currentPaper._key)}>PDF</a>{/if}
+            {#if currentPaper.doi}<a class="pill" href="https://dx.doi.org/{currentPaper.doi}">DOI</a>{/if}
+            {#if currentPaper.talk}<a class="pill" href={currentPaper.talk}>Talk</a>{/if}
+            {#if currentPaper.data}<a class="pill" href={currentPaper.data}>Data</a>{/if}
         </div>
     </div>
 
     <details class="bibtex-block">
         <summary>BibTeX</summary>
-        <pre><code>{toBibtex(data.paper)}</code></pre>
+        <pre><code>{toBibtex(currentPaper)}</code></pre>
     </details>
     
-    <p class="paper-abstract">{data.paper.abstract}</p>
+    <p class="paper-abstract">{currentPaper.abstract}</p>
 
 </div>
 
@@ -142,7 +149,13 @@
     <article class="paper-card">
         <a class="card-link" href="/publications/{paper._key.replaceAll(':', '-')}" aria-label={paper.title}></a>
         {#if paper._pdf !== 'no'}
-            <img class="card-thumb" src={thumbUrl(paper._key)} alt="Thumbnail for {paper.title}" loading="lazy" />
+            <img class="card-thumb"
+                src={paper.thumbnail?.src ?? thumbUrl(paper._key)}
+                alt="Thumbnail for {paper.title}"
+                loading="lazy"
+                width={paper.thumbnail?.width}
+                height={paper.thumbnail?.height}
+            />
         {/if}
         <div class="card-body">
             <h2 class="card-title">{paper.title}</h2>
