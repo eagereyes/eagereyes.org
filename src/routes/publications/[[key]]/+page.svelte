@@ -308,6 +308,7 @@
     .card-thumb {
         flex-shrink: 0;
         width: 200px;
+        height: auto;
         border-radius: 3px;
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
         display: block;
