@@ -33,7 +33,7 @@ Blog content lives outside `src/` in two places:
 - `content/blog/<year>/<slug>.md` — full Markdown content for each post
 - `content/blog/<year>/<slug>+++comments.md` — comments for posts that have them (keyed by `comments > 0` in meta)
 - `content/videos.json` — video metadata (slug, title, description, ytslug, blogpost, date)
-- `content/papers.json` — academic paper metadata
+- `content/papers.json` — academic paper metadata (includes `thumbnail` and `preview` as `PaperImage` objects)
 - `content/photos.json` — photo gallery metadata (slug, title, description, featuredImage, date, photos: `(Photo | Photo[])[]`)
 - `content/apps.json` — app metadata (slug, title, description, image, url)
 
@@ -72,9 +72,10 @@ The `src/routes/[...slug]/+page.server.ts` catch-all handles two things:
 - `src/routes/+layout.svelte` — app shell with `Header.svelte` and global layout
 - `src/routes/Header.svelte` — site navigation with active page highlighting
 - `src/app.css` — global CSS variables (colors, fonts, layout widths)
-- `src/lib/blog-utils.ts` — `BlogPost` type, `tagNames` map, `formatDate()`
+- `src/lib/blog-utils.ts` — `BlogPost`, `FeaturedImage` types, `tagNames` map, `formatDate()`
 - `src/lib/video-utils.ts` — `Video` type
-- `src/lib/photo-utils.ts` — `Photo` and `Gallery` types
+- `src/lib/photo-utils.ts` — `Photo`, `FeaturedImage`, and `Gallery` types
+- `src/lib/paper-utils.ts` — `Paper`, `PaperImage`, and `blankPaper`
 - `src/lib/app-utils.ts` — `App` type
 - `src/lib/BlogList.svelte` — reusable blog post list with filtering by year/tag/archived
 - `src/lib/VideoList.svelte` — reusable video list
@@ -95,11 +96,21 @@ Server-side load functions (`+page.server.ts`) import JSON data files directly a
 
 The `tagNames` map in `src/lib/blog-utils.ts` maps tag slugs to display names. Tags not in this map fall back to the raw slug.
 
+### Image Dimensions
+
+All image objects throughout the site (`FeaturedImage`, `Photo`, `PaperImage`) carry optional `width` and `height` integers. These are passed to `<img>` tags so browsers can reserve space before images load (CSS still controls rendered size). Run `node scripts/fetch-photo-dimensions.mjs` to populate missing dimensions — it handles `content/photos.json` (gallery photos and featuredImages), `content/blog-meta.json` (post featuredImages), and `content/papers.json` (thumbnail and preview images) in one pass, skipping entries that already have dimensions.
+
+### FeaturedImage
+
+`FeaturedImage` is defined in `src/lib/blog-utils.ts` and `src/lib/photo-utils.ts` (same shape: `{ src, width?, height?, alt?, render? }`). It is used by `BlogPost`, `Gallery`, and (as `PaperImage`) `Paper`.
+
+For blog posts, when `featuredImage.render` is `true`, the single-post page renders the image above the article body via `.post-featured-image`. The markdown source no longer contains a leading `<figure>` in these cases — it was stripped during a migration. When adding a new post with a leading image, set `"render": true` on the featuredImage in `blog-meta.json` instead of embedding a `<figure>` in the markdown.
+
 ### Photo Galleries
 
 Photos are stored in `content/photos.json` as an array of `Gallery` objects. Each gallery has a `photos` field typed as `(Photo | Photo[])[]` — a list of rows where a single photo is a plain `{ src, alt, width?, height? }` object and a pair is a two-element array. The gallery detail page normalizes rows with `Array.isArray(row) ? row : [row]` and flattens to `Photo[]` for the lightbox using `flatMap`.
 
-`width` and `height` on `Photo` are optional integers storing the intrinsic image dimensions. They are passed to `<img>` tags so the browser can reserve space before images load (the CSS `width: 100%; height: auto` still controls rendered size). Run `node scripts/fetch-photo-dimensions.mjs` to populate missing dimensions for any new photos added to `content/photos.json`.
+Each gallery also has a `featuredImage` object (`{ src, width?, height? }`) used by `GalleryList.svelte` for card thumbnails and the OG image meta tag.
 
 The `Lightbox` component is stateless — the parent (`+page.svelte`) owns `lightboxIndex` as `$state(-1)` and passes it as `index`. The lightbox uses `$effect` to toggle `document.body.style.overflow = 'hidden'` while open (always returns cleanup). `<svelte:window onkeydown>` is at the component top level (not inside `{#if}`) with an early-return guard when `index < 0`.
 
