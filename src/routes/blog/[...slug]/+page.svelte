@@ -66,6 +66,16 @@
         </aside>
     </div>
 {:else}
+{#if data.meta?.featuredImage?.render}
+<figure class="post-featured-image">
+    <img
+        src={data.meta.featuredImage.src}
+        alt={data.meta.featuredImage.alt ?? ''}
+        width={data.meta.featuredImage.width}
+        height={data.meta.featuredImage.height}
+    />
+</figure>
+{/if}
 <article>
     {@html parse(data?.content)}
 
@@ -235,6 +245,21 @@
 
     article :global(p) {
         line-height: 1.7;
+    }
+
+    .post-featured-image {
+        max-width: 100%;
+        margin: 0 0 2rem;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .post-featured-image img {
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        border-radius: 4px;
     }
 
     article :global(figure) {

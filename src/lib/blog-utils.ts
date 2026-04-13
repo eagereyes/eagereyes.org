@@ -8,6 +8,7 @@ export interface FeaturedImage {
     width?: number;
     height?: number;
     alt?: string;
+    render?: boolean;
 }
 
 export interface BlogPost {

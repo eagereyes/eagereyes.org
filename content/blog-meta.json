@@ -12,7 +12,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2026/curious-chipmunk.jpg",
             "width": 1200,
-            "height": 675
+            "height": 675,
+            "render": true
         }
     },
     {
@@ -28,7 +29,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png",
             "width": 1200,
-            "height": 1093
+            "height": 1093,
+            "render": true
         }
     },
     {
@@ -44,7 +46,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png",
             "width": 1293,
-            "height": 970
+            "height": 970,
+            "render": true
         }
     },
     {
@@ -76,7 +79,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2023/05/Kosara-CGA-2023-thumb.png",
             "width": 1200,
-            "height": 1093
+            "height": 1093,
+            "render": true
         }
     },
     {
@@ -90,7 +94,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2023/02/vis-course-thumb.png",
             "width": 1320,
-            "height": 990
+            "height": 990,
+            "render": true
         }
     },
     {
@@ -122,7 +127,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2022/11/mastodon-eagereyes.jpeg",
             "width": 1664,
-            "height": 1248
+            "height": 1248,
+            "render": true
         }
     },
     {
@@ -168,7 +174,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2022/04/outlier-talk.png",
             "width": 1794,
-            "height": 1345
+            "height": 1345,
+            "render": true
         }
     },
     {
@@ -184,7 +191,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2022/04/Kosara-CGA-2022b.png",
             "width": 1600,
-            "height": 686
+            "height": 686,
+            "render": true
         }
     },
     {
@@ -248,7 +256,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2021/10/pexels-photo-3184292.jpeg",
             "width": 1880,
-            "height": 1057
+            "height": 1057,
+            "render": true
         }
     },
     {
@@ -264,7 +273,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2021/09/eagereyes-xv.jpeg",
             "width": 1600,
-            "height": 1200
+            "height": 1200,
+            "render": true
         }
     },
     {
@@ -376,7 +386,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2021/04/tv.jpeg",
             "width": 1600,
-            "height": 1200
+            "height": 1200,
+            "render": true
         }
     },
     {
@@ -457,7 +468,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2020/11/lines-teaser.png",
             "width": 1920,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -505,7 +517,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020_v2.jpg",
             "width": 1075,
-            "height": 806
+            "height": 806,
+            "render": true
         }
     },
     {
@@ -521,7 +534,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020-why.png",
             "width": 1053,
-            "height": 791
+            "height": 791,
+            "render": true
         }
     },
     {
@@ -537,7 +551,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2020/09/DSCF1951-crop.jpg",
             "width": 1850,
-            "height": 1200
+            "height": 1200,
+            "render": true
         }
     },
     {
@@ -586,7 +601,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png",
             "width": 1660,
-            "height": 977
+            "height": 977,
+            "render": true
         }
     },
     {
@@ -603,7 +619,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2020/06/DSC_0212b.jpg",
             "width": 1280,
-            "height": 857
+            "height": 857,
+            "render": true
         }
     },
     {
@@ -681,7 +698,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg",
             "width": 1600,
-            "height": 1138
+            "height": 1138,
+            "render": true
         }
     },
     {
@@ -745,7 +763,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/10/Kosara-VISShort-2019.png",
             "width": 1320,
-            "height": 854
+            "height": 854,
+            "render": true
         }
     },
     {
@@ -778,7 +797,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/10/number-437931_1920.jpg",
             "width": 1920,
-            "height": 1440
+            "height": 1440,
+            "render": true
         }
     },
     {
@@ -792,7 +812,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/09/data-rows.jpg",
             "width": 1320,
-            "height": 990
+            "height": 990,
+            "render": true
         }
     },
     {
@@ -808,7 +829,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/09/eagereyesTV.jpg",
             "width": 2388,
-            "height": 1343
+            "height": 1343,
+            "render": true
         }
     },
     {
@@ -841,7 +863,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/09/11526F34-8208-4DAB-B21B-A25A99A199E6.jpeg",
             "width": 2048,
-            "height": 1536
+            "height": 1536,
+            "render": true
         }
     },
     {
@@ -858,7 +881,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/08/porto-window.jpg",
             "width": 2048,
-            "height": 1536
+            "height": 1536,
+            "render": true
         }
     },
     {
@@ -889,7 +913,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/06/talk.jpg",
             "width": 1320,
-            "height": 990
+            "height": 990,
+            "render": true
         }
     },
     {
@@ -906,7 +931,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png",
             "width": 1320,
-            "height": 908
+            "height": 908,
+            "render": true
         }
     },
     {
@@ -939,7 +965,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg",
             "width": 1320,
-            "height": 990
+            "height": 990,
+            "render": true
         }
     },
     {
@@ -972,7 +999,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png",
             "width": 1400,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -988,7 +1016,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/11/Tapestry_01.png",
             "width": 2565,
-            "height": 1419
+            "height": 1419,
+            "render": true
         }
     },
     {
@@ -1055,7 +1084,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg",
             "width": 2316,
-            "height": 750
+            "height": 750,
+            "render": true
         }
     },
     {
@@ -1088,7 +1118,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/06/setcola.png",
             "width": 1400,
-            "height": 464
+            "height": 464,
+            "render": true
         }
     },
     {
@@ -1105,7 +1136,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/06/Berry-Nucleosomes-cropped.jpg",
             "width": 1440,
-            "height": 959
+            "height": 959,
+            "render": true
         }
     },
     {
@@ -1123,7 +1155,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/05/Tapestry_01.png",
             "width": 2565,
-            "height": 1419
+            "height": 1419,
+            "render": true
         }
     },
     {
@@ -1137,7 +1170,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/05/jason-dykes.jpg",
             "width": 1440,
-            "height": 1029
+            "height": 1029,
+            "render": true
         }
     },
     {
@@ -1151,7 +1185,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg",
             "width": 1400,
-            "height": 1358
+            "height": 1358,
+            "render": true
         }
     },
     {
@@ -1167,7 +1202,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/05/basilica1by1.jpg",
             "width": 1000,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1181,7 +1217,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/03/iris.jpg",
             "width": 1400,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1213,7 +1250,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2018/01/eurorvvv-teaser.png",
             "width": 1120,
-            "height": 396
+            "height": 396,
+            "render": true
         }
     },
     {
@@ -1243,7 +1281,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/11/microphone.jpg",
             "width": 1440,
-            "height": 960
+            "height": 960,
+            "render": true
         }
     },
     {
@@ -1259,7 +1298,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/archer-vis.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1289,7 +1329,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg",
             "width": 1440,
-            "height": 960
+            "height": 960,
+            "render": true
         }
     },
     {
@@ -1306,7 +1347,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg",
             "width": 1440,
-            "height": 960
+            "height": 960,
+            "render": true
         }
     },
     {
@@ -1323,7 +1365,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg",
             "width": 1440,
-            "height": 960
+            "height": 960,
+            "render": true
         }
     },
     {
@@ -1340,7 +1383,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/imagining-replications.png",
             "width": 750,
-            "height": 405
+            "height": 405,
+            "render": true
         }
     },
     {
@@ -1357,7 +1401,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg",
             "width": 1400,
-            "height": 753
+            "height": 753,
+            "render": true
         }
     },
     {
@@ -1374,7 +1419,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/giorgia-lupi-talking.jpg",
             "width": 1440,
-            "height": 960
+            "height": 960,
+            "render": true
         }
     },
     {
@@ -1391,7 +1437,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png",
             "width": 750,
-            "height": 409
+            "height": 409,
+            "render": true
         }
     },
     {
@@ -1405,7 +1452,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg",
             "width": 1500,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1421,7 +1469,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg",
             "width": 1510,
-            "height": 1200
+            "height": 1200,
+            "render": true
         }
     },
     {
@@ -1438,7 +1487,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/09/abel-callahan.jpg",
             "width": 1520,
-            "height": 973
+            "height": 973,
+            "render": true
         }
     },
     {
@@ -1454,7 +1504,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/09/policyviz-storytelling.jpg",
             "width": 1024,
-            "height": 576
+            "height": 576,
+            "render": true
         }
     },
     {
@@ -1484,7 +1535,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png",
             "width": 1200,
-            "height": 972
+            "height": 972,
+            "render": true
         }
     },
     {
@@ -1514,7 +1566,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1531,7 +1584,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona-sunset.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1548,7 +1602,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1565,7 +1620,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/06/dragon-gate.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1600,7 +1656,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/06/Skau-EuroVis-2017.jpg",
             "width": 1440,
-            "height": 510
+            "height": 510,
+            "render": true
         }
     },
     {
@@ -1618,7 +1675,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg",
             "width": 1440,
-            "height": 816
+            "height": 816,
+            "render": true
         }
     },
     {
@@ -1635,7 +1693,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-teasr.png",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1665,7 +1724,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/05/Image-4-30-17-9-47-PM.jpeg",
             "width": 1248,
-            "height": 610
+            "height": 610,
+            "render": true
         }
     },
     {
@@ -1679,7 +1739,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/04/percent-teaser.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1743,7 +1804,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/02/vispipeline-teaser.png",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1757,7 +1819,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/02/uw-posters.png",
             "width": 1154,
-            "height": 613
+            "height": 613,
+            "render": true
         }
     },
     {
@@ -1771,7 +1834,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/02/hans-rosling-tc14.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1785,7 +1849,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg",
             "width": 1440,
-            "height": 900
+            "height": 900,
+            "render": true
         }
     },
     {
@@ -1834,7 +1899,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1850,7 +1916,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2017/01/DSCF0541.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1867,7 +1934,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/12/new-year-2017.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1883,7 +1951,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1899,7 +1968,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/12/baby-names.jpg",
             "width": 1700,
-            "height": 950
+            "height": 950,
+            "render": true
         }
     },
     {
@@ -1913,7 +1983,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/12/stars.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1930,7 +2001,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1944,7 +2016,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/11/bugs.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -1958,7 +2031,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-the-Parks-by-RJ-Andrews_10.jpeg",
             "width": 1400,
-            "height": 788
+            "height": 788,
+            "render": true
         }
     },
     {
@@ -1988,7 +2062,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-cards.jpg",
             "width": 1440,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2033,7 +2108,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4512.jpg",
             "width": 1440,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2050,7 +2126,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4473.jpg",
             "width": 1440,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2067,7 +2144,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/10/vis16-tuesday.jpg",
             "width": 1440,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2084,7 +2162,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/10/vis2016-monday.jpg",
             "width": 1440,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2098,7 +2177,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/10/speaker.jpg",
             "width": 1440,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2130,7 +2210,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/10/baltimore-teaser.jpg",
             "width": 1440,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2146,7 +2227,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -2176,7 +2258,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -2192,7 +2275,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/origin-story.jpg",
             "width": 1440,
-            "height": 654
+            "height": 654,
+            "render": true
         }
     },
     {
@@ -2208,7 +2292,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/why-teaser.jpg",
             "width": 1440,
-            "height": 1081
+            "height": 1081,
+            "render": true
         }
     },
     {
@@ -2224,7 +2309,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/new-theme-teaser.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -2240,7 +2326,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/controversies-teaser.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -2256,7 +2343,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/history-teaser.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -2272,7 +2360,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg",
             "width": 1440,
-            "height": 1000
+            "height": 1000,
+            "render": true
         }
     },
     {
@@ -2289,7 +2378,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png",
             "width": 1720,
-            "height": 968
+            "height": 968,
+            "render": true
         }
     },
     {
@@ -2305,7 +2395,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/14061151590_547435d61f_o.jpg",
             "width": 1544,
-            "height": 1024
+            "height": 1024,
+            "render": true
         }
     },
     {
@@ -2319,7 +2410,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg",
             "width": 1632,
-            "height": 1224
+            "height": 1224,
+            "render": true
         }
     },
     {
@@ -2351,7 +2443,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/09/dear-data-book-teaser.jpg",
             "width": 1364,
-            "height": 843
+            "height": 843,
+            "render": true
         }
     },
     {
@@ -2413,7 +2506,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/08/6668006863_6a594e2ec4_o.jpg",
             "width": 1920,
-            "height": 1080
+            "height": 1080,
+            "render": true
         }
     },
     {
@@ -2427,7 +2521,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png",
             "width": 825,
-            "height": 510
+            "height": 510,
+            "render": true
         }
     },
     {
@@ -2460,7 +2555,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2510,7 +2606,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2526,7 +2623,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png",
             "width": 575,
-            "height": 373
+            "height": 373,
+            "render": true
         }
     },
     {
@@ -2558,7 +2656,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png",
             "width": 1254,
-            "height": 775
+            "height": 775,
+            "render": true
         }
     },
     {
@@ -2575,7 +2674,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/06/DSCF2799.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2592,7 +2692,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2608,7 +2709,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/05/groningen-running.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2626,7 +2728,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/05/pie-package-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2642,7 +2745,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/05/scrollytelling-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2658,7 +2762,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/05/rubik_cube.png",
             "width": 1650,
-            "height": 1700
+            "height": 1700,
+            "render": true
         }
     },
     {
@@ -2674,7 +2779,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/05/openvis-teaser.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2690,7 +2796,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/05/013438038X.jpg",
             "width": 521,
-            "height": 648
+            "height": 648,
+            "render": true
         }
     },
     {
@@ -2706,7 +2813,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/05/mturk.png",
             "width": 800,
-            "height": 514
+            "height": 514,
+            "render": true
         }
     },
     {
@@ -2739,7 +2847,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/04/image-2.jpeg",
             "width": 2048,
-            "height": 1389
+            "height": 1389,
+            "render": true
         }
     },
     {
@@ -2769,7 +2878,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/04/shneiderman-direct-crushed.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2801,7 +2911,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2833,7 +2944,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/02/dear-data.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2883,7 +2995,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg",
             "width": 1650,
-            "height": 1490
+            "height": 1490,
+            "render": true
         }
     },
     {
@@ -2916,7 +3029,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser2.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -2949,7 +3063,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/12/pinker-munroe-teaser.png",
             "width": 1380,
-            "height": 970
+            "height": 970,
+            "render": true
         }
     },
     {
@@ -2965,7 +3080,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg",
             "width": 1650,
-            "height": 856
+            "height": 856,
+            "render": true
         }
     },
     {
@@ -2997,7 +3113,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/11/tapestry16-teaser.jpg",
             "width": 1620,
-            "height": 1001
+            "height": 1001,
+            "render": true
         }
     },
     {
@@ -3014,7 +3131,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3031,7 +3149,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3048,7 +3167,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser2.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3065,7 +3185,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-wed-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3082,7 +3203,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-tue-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3117,7 +3239,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/10/tableau-vis-papers-teaser.jpg",
             "width": 1650,
-            "height": 720
+            "height": 720,
+            "render": true
         }
     },
     {
@@ -3161,7 +3284,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/10/running-teaser.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3281,7 +3405,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/05/disinformation-teaser.jpg",
             "width": 1500,
-            "height": 927
+            "height": 927,
+            "render": true
         }
     },
     {
@@ -3298,7 +3423,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/06/DSCF5939.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3314,7 +3440,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/05/embellishments-teaser.jpg",
             "width": 1650,
-            "height": 934
+            "height": 934,
+            "render": true
         }
     },
     {
@@ -3330,7 +3457,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg",
             "width": 1280,
-            "height": 960
+            "height": 960,
+            "render": true
         }
     },
     {
@@ -3344,7 +3472,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3373,7 +3502,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/04/chi-teaser.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3408,7 +3538,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser.jpg",
             "width": 1650,
-            "height": 855
+            "height": 855,
+            "render": true
         }
     },
     {
@@ -3425,7 +3556,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/04/cairo-redesign.png",
             "width": 1450,
-            "height": 661
+            "height": 661,
+            "render": true
         }
     },
     {
@@ -3441,7 +3573,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/03/dear-data.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3458,7 +3591,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/03/greely.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3489,7 +3623,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/03/cga-tapestry-teaser.jpg",
             "width": 1650,
-            "height": 746
+            "height": 746,
+            "render": true
         }
     },
     {
@@ -3583,7 +3718,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/02/spelling-teaser.gif",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3617,7 +3753,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3674,7 +3811,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/01/eg-guidelines.gif",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3707,7 +3845,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/01/soiv-teaser.jpg",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3741,7 +3880,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2015/01/cairo-teaser.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -3900,7 +4040,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/10/le-tour-de-vis.png",
             "width": 1053,
-            "height": 190
+            "height": 190,
+            "render": true
         }
     },
     {
@@ -4025,7 +4166,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTime_lg.jpg",
             "width": 500,
-            "height": 500
+            "height": 500,
+            "render": true
         }
     },
     {
@@ -4090,7 +4232,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/04/dictionary.jpg",
             "width": 1430,
-            "height": 860
+            "height": 860,
+            "render": true
         }
     },
     {
@@ -4106,7 +4249,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/03/opendoor.jpg",
             "width": 1430,
-            "height": 957
+            "height": 957,
+            "render": true
         }
     },
     {
@@ -4169,7 +4313,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/01/gate.jpg",
             "width": 1460,
-            "height": 973
+            "height": 973,
+            "render": true
         }
     },
     {
@@ -4185,7 +4330,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/01/spam.jpg",
             "width": 1460,
-            "height": 800
+            "height": 800,
+            "render": true
         }
     },
     {
@@ -4201,7 +4347,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/01/lemons.jpg",
             "width": 1460,
-            "height": 940
+            "height": 940,
+            "render": true
         }
     },
     {
@@ -4217,7 +4364,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/01/justitia-cropped.jpg",
             "width": 1460,
-            "height": 860
+            "height": 860,
+            "render": true
         }
     },
     {
@@ -4266,7 +4414,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz.jpg",
             "width": 1460,
-            "height": 560
+            "height": 560,
+            "render": true
         }
     },
     {
@@ -4323,7 +4472,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/11/DSC_0495.jpg",
             "width": 1460,
-            "height": 971
+            "height": 971,
+            "render": true
         }
     },
     {
@@ -4340,7 +4490,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych.jpeg",
             "width": 1460,
-            "height": 646
+            "height": 646,
+            "render": true
         }
     },
     {
@@ -4375,7 +4526,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg",
             "width": 831,
-            "height": 500
+            "height": 500,
+            "render": true
         }
     },
     {
@@ -4470,7 +4622,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/08/1280px-Hoes_one_cylinder_printing_press.png",
             "width": 1280,
-            "height": 900
+            "height": 900,
+            "render": true
         }
     },
     {
@@ -4816,7 +4969,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/03/wealth-inequality.png",
             "width": 600,
-            "height": 310
+            "height": 310,
+            "render": true
         }
     },
     {
@@ -4874,7 +5028,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg",
             "width": 600,
-            "height": 259
+            "height": 259,
+            "render": true
         }
     },
     {
@@ -4935,7 +5090,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2012/12/tapestry.png",
             "width": 600,
-            "height": 180
+            "height": 180,
+            "render": true
         }
     },
     {
@@ -5233,7 +5389,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg",
             "width": 600,
-            "height": 325
+            "height": 325,
+            "render": true
         }
     },
     {
@@ -5639,7 +5796,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg",
             "width": 600,
-            "height": 287
+            "height": 287,
+            "render": true
         }
     },
     {
@@ -5656,7 +5814,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png",
             "width": 600,
-            "height": 390
+            "height": 390,
+            "render": true
         }
     },
     {
@@ -5702,7 +5861,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png",
             "width": 600,
-            "height": 381
+            "height": 381,
+            "render": true
         }
     },
     {
@@ -5718,7 +5878,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2011/12/features.png",
             "width": 600,
-            "height": 142
+            "height": 142,
+            "render": true
         }
     },
     {
@@ -5732,7 +5893,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2011/12/plot-io.png",
             "width": 600,
-            "height": 280
+            "height": 280,
+            "render": true
         }
     },
     {
@@ -5770,7 +5932,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/color-names-teaser.png",
             "width": 600,
-            "height": 200
+            "height": 200,
+            "render": true
         }
     },
     {
@@ -5824,7 +5987,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/privacy-teaser.png",
             "width": 600,
-            "height": 388
+            "height": 388,
+            "render": true
         }
     },
     {
@@ -5840,7 +6004,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png",
             "width": 600,
-            "height": 170
+            "height": 170,
+            "render": true
         }
     },
     {
@@ -5854,7 +6019,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/nametag.jpg",
             "width": 600,
-            "height": 120
+            "height": 120,
+            "render": true
         }
     },
     {
@@ -5870,7 +6036,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/manyyearsago.png",
             "width": 600,
-            "height": 168
+            "height": 168,
+            "render": true
         }
     },
     {
@@ -5883,7 +6050,13 @@
         "tags": [
             "criticism"
         ],
-        "featuredImage": null
+        "featuredImage": {
+            "src": "https://media.eagereyes.org/media/2011/soccer-teaser.jpg",
+            "width": 600,
+            "height": 200,
+            "alt": "",
+            "render": true
+        }
     },
     {
         "slug": "sxsw",
@@ -5896,7 +6069,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/sxsw.png",
             "width": 600,
-            "height": 148
+            "height": 148,
+            "render": true
         }
     },
     {
@@ -5912,7 +6086,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/spiral-teaser.png",
             "width": 600,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -5926,7 +6101,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/scgn.jpg",
             "width": 600,
-            "height": 194
+            "height": 194,
+            "render": true
         }
     },
     {
@@ -5940,7 +6116,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/visually-teaser.png",
             "width": 600,
-            "height": 220
+            "height": 220,
+            "render": true
         }
     },
     {
@@ -5954,7 +6131,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/memory-monster.jpg",
             "width": 600,
-            "height": 235
+            "height": 235,
+            "render": true
         }
     },
     {
@@ -5988,7 +6166,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/elting-teaser.png",
             "width": 600,
-            "height": 220
+            "height": 220,
+            "render": true
         }
     },
     {
@@ -6026,7 +6205,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/eagerfeet-header.png",
             "width": 600,
-            "height": 93
+            "height": 93,
+            "render": true
         }
     },
     {
@@ -6043,7 +6223,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/piecharts-teaser.png",
             "width": 600,
-            "height": 360
+            "height": 360,
+            "render": true
         }
     },
     {
@@ -6059,7 +6240,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/bubbles-teaser.png",
             "width": 600,
-            "height": 166
+            "height": 166,
+            "render": true
         }
     },
     {
@@ -6085,7 +6267,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/anscombe_teaser.png",
             "width": 600,
-            "height": 207
+            "height": 207,
+            "render": true
         }
     },
     {
@@ -6101,7 +6284,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/sdof-chess.jpg",
             "width": 600,
-            "height": 290
+            "height": 290,
+            "render": true
         }
     },
     {
@@ -6117,7 +6301,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/challenger.jpg",
             "width": 600,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -6133,7 +6318,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2011/theory.png",
             "width": 600,
-            "height": 200
+            "height": 200,
+            "render": true
         }
     },
     {
@@ -6147,7 +6333,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/canvas.png",
             "width": 560,
-            "height": 168
+            "height": 168,
+            "render": true
         }
     },
     {
@@ -6176,7 +6363,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/broadstreetmap.png",
             "width": 560,
-            "height": 283
+            "height": 283,
+            "render": true
         }
     },
     {
@@ -6192,7 +6380,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/swivel2.jpg",
             "width": 560,
-            "height": 303
+            "height": 303,
+            "render": true
         }
     },
     {
@@ -6208,7 +6397,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/polevaulting.jpg",
             "width": 560,
-            "height": 279
+            "height": 279,
+            "render": true
         }
     },
     {
@@ -6236,7 +6426,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/visweekwordle.png",
             "width": 560,
-            "height": 234
+            "height": 234,
+            "render": true
         }
     },
     {
@@ -6253,7 +6444,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/attraction.png",
             "width": 560,
-            "height": 362
+            "height": 362,
+            "render": true
         }
     },
     {
@@ -6270,7 +6462,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/Dasgupta-InfoVis-2010.png",
             "width": 560,
-            "height": 290
+            "height": 290,
+            "render": true
         }
     },
     {
@@ -6284,7 +6477,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/pnnl-jobs.jpg",
             "width": 560,
-            "height": 127
+            "height": 127,
+            "render": true
         }
     },
     {
@@ -6300,7 +6494,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/math.jpg",
             "width": 560,
-            "height": 389
+            "height": 389,
+            "render": true
         }
     },
     {
@@ -6314,7 +6509,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/thomas-bartz-bertin.jpg",
             "width": 560,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -6356,7 +6552,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/empty-frame.jpg",
             "width": 560,
-            "height": 374
+            "height": 374,
+            "render": true
         }
     },
     {
@@ -6385,7 +6582,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/numbersrule.jpg",
             "width": 560,
-            "height": 200
+            "height": 200,
+            "render": true
         }
     },
     {
@@ -6401,7 +6599,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png",
             "width": 560,
-            "height": 152
+            "height": 152,
+            "render": true
         }
     },
     {
@@ -6429,7 +6628,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/maths.jpg",
             "width": 560,
-            "height": 401
+            "height": 401,
+            "render": true
         }
     },
     {
@@ -6443,7 +6643,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/ResultBlocks.jpg",
             "width": 381,
-            "height": 339
+            "height": 339,
+            "render": true
         }
     },
     {
@@ -6457,7 +6658,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/proof-teaser.png",
             "width": 560,
-            "height": 139
+            "height": 139,
+            "render": true
         }
     },
     {
@@ -6485,7 +6687,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/magic-trackpad.jpg",
             "width": 560,
-            "height": 202
+            "height": 202,
+            "render": true
         }
     },
     {
@@ -6499,7 +6702,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/bird.png",
             "width": 332,
-            "height": 384
+            "height": 384,
+            "render": true
         }
     },
     {
@@ -6516,7 +6720,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg",
             "width": 560,
-            "height": 527
+            "height": 527,
+            "render": true
         }
     },
     {
@@ -6558,7 +6763,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/multitouch-brushing.png",
             "width": 560,
-            "height": 232
+            "height": 232,
+            "render": true
         }
     },
     {
@@ -6574,7 +6780,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/infovistheory-teaser.png",
             "width": 560,
-            "height": 311
+            "height": 311,
+            "render": true
         }
     },
     {
@@ -6600,7 +6807,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/verifiable.png",
             "width": 560,
-            "height": 247
+            "height": 247,
+            "render": true
         }
     },
     {
@@ -6616,7 +6824,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/beautifulvis.jpg",
             "width": 560,
-            "height": 220
+            "height": 220,
+            "render": true
         }
     },
     {
@@ -6630,7 +6839,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/protovis-primer/eq7.png",
             "width": 560,
-            "height": 250
+            "height": 250,
+            "render": true
         }
     },
     {
@@ -6670,7 +6880,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png",
             "width": 560,
-            "height": 362
+            "height": 362,
+            "render": true
         }
     },
     {
@@ -6687,7 +6898,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/cellphone-call.jpg",
             "width": 560,
-            "height": 330
+            "height": 330,
+            "render": true
         }
     },
     {
@@ -6703,7 +6915,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/parcoords-full.png",
             "width": 560,
-            "height": 364
+            "height": 364,
+            "render": true
         }
     },
     {
@@ -6719,7 +6932,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/tansey-modern-postmodern.jpg",
             "width": 560,
-            "height": 281
+            "height": 281,
+            "render": true
         }
     },
     {
@@ -6736,7 +6950,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/usefuljunk-teaser.jpg",
             "width": 560,
-            "height": 236
+            "height": 236,
+            "render": true
         }
     },
     {
@@ -6753,7 +6968,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/mturk-paper.jpg",
             "width": 560,
-            "height": 362
+            "height": 362,
+            "render": true
         }
     },
     {
@@ -6769,7 +6985,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/stock-mountain.jpg",
             "width": 560,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -6783,7 +7000,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/richardson-protein.jpg",
             "width": 560,
-            "height": 275
+            "height": 275,
+            "render": true
         }
     },
     {
@@ -6797,7 +7015,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/mappings.png",
             "width": 537,
-            "height": 178
+            "height": 178,
+            "render": true
         }
     },
     {
@@ -6813,7 +7032,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg",
             "width": 500,
-            "height": 254
+            "height": 254,
+            "render": true
         }
     },
     {
@@ -6827,7 +7047,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/tableau-public.jpg",
             "width": 560,
-            "height": 200
+            "height": 200,
+            "render": true
         }
     },
     {
@@ -6857,7 +7078,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/protovis-code.png",
             "width": 560,
-            "height": 144
+            "height": 144,
+            "render": true
         }
     },
     {
@@ -6873,7 +7095,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/roadtoC.jpg",
             "width": 560,
-            "height": 332
+            "height": 332,
+            "render": true
         }
     },
     {
@@ -6890,7 +7113,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/chocolatepiechart.jpg",
             "width": 490,
-            "height": 320
+            "height": 320,
+            "render": true
         }
     },
     {
@@ -6906,7 +7130,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/minard.jpg",
             "width": 560,
-            "height": 173
+            "height": 173,
+            "render": true
         }
     },
     {
@@ -6922,7 +7147,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png",
             "width": 536,
-            "height": 232
+            "height": 232,
+            "render": true
         }
     },
     {
@@ -6939,7 +7165,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/climate/look-at-climate-teaser.png",
             "width": 560,
-            "height": 228
+            "height": 228,
+            "render": true
         }
     },
     {
@@ -6956,7 +7183,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png",
             "width": 560,
-            "height": 246
+            "height": 246,
+            "render": true
         }
     },
     {
@@ -6972,7 +7200,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/sickchart/patients-age-disease-thumb.png",
             "width": 560,
-            "height": 349
+            "height": 349,
+            "render": true
         }
     },
     {
@@ -6986,7 +7215,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/nikeplus.png",
             "width": 560,
-            "height": 240
+            "height": 240,
+            "render": true
         }
     },
     {
@@ -7002,7 +7232,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/foxpie.jpg",
             "width": 548,
-            "height": 411
+            "height": 411,
+            "render": true
         }
     },
     {
@@ -7018,7 +7249,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/GE-healthcare-header.png",
             "width": 560,
-            "height": 318
+            "height": 318,
+            "render": true
         }
     },
     {
@@ -7034,7 +7266,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2009/11/google-import.png",
             "width": 1650,
-            "height": 1020
+            "height": 1020,
+            "render": true
         }
     },
     {
@@ -7060,7 +7293,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/printingpress.jpg",
             "width": 540,
-            "height": 379
+            "height": 379,
+            "render": true
         }
     },
     {
@@ -7076,7 +7310,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/changeWorldPanel.jpg",
             "width": 560,
-            "height": 527
+            "height": 527,
+            "render": true
         }
     },
     {
@@ -7092,7 +7327,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/visweektweet.png",
             "width": 560,
-            "height": 126
+            "height": 126,
+            "render": true
         }
     },
     {
@@ -7108,7 +7344,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/redpin.jpg",
             "width": 560,
-            "height": 326
+            "height": 326,
+            "render": true
         }
     },
     {
@@ -7134,7 +7371,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/qnch-logo-color.png",
             "width": 558,
-            "height": 240
+            "height": 240,
+            "render": true
         }
     },
     {
@@ -7148,7 +7386,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/parsets-2.1-teaser.png",
             "width": 560,
-            "height": 243
+            "height": 243,
+            "render": true
         }
     },
     {
@@ -7182,7 +7421,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/VisWebTeaser.jpg",
             "width": 560,
-            "height": 374
+            "height": 374,
+            "render": true
         }
     },
     {
@@ -7214,7 +7454,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/data-zoom.jpg",
             "width": 550,
-            "height": 140
+            "height": 140,
+            "render": true
         }
     },
     {
@@ -7228,7 +7469,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/parsets-release.png",
             "width": 574,
-            "height": 301
+            "height": 301,
+            "render": true
         }
     },
     {
@@ -7244,7 +7486,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/discoveryexhibition.png",
             "width": 560,
-            "height": 107
+            "height": 107,
+            "render": true
         }
     },
     {
@@ -7258,7 +7501,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg",
             "width": 560,
-            "height": 264
+            "height": 264,
+            "render": true
         }
     },
     {
@@ -7274,7 +7518,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/periodictable.jpg",
             "width": 560,
-            "height": 307
+            "height": 307,
+            "render": true
         }
     },
     {
@@ -7288,7 +7533,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/parsets-delay.png",
             "width": 560,
-            "height": 158
+            "height": 158,
+            "render": true
         }
     },
     {
@@ -7302,7 +7548,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/imallears.png",
             "width": 560,
-            "height": 250
+            "height": 250,
+            "render": true
         }
     },
     {
@@ -7316,7 +7563,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/parsets-announce.png",
             "width": 560,
-            "height": 169
+            "height": 169,
+            "render": true
         }
     },
     {
@@ -7332,7 +7580,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/VisWeekTutorials.png",
             "width": 568,
-            "height": 309
+            "height": 309,
+            "render": true
         }
     },
     {
@@ -7348,7 +7597,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/billionapps.png",
             "width": 503,
-            "height": 140
+            "height": 140,
+            "render": true
         }
     },
     {
@@ -7362,7 +7612,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/toolbox.jpg",
             "width": 568,
-            "height": 376
+            "height": 376,
+            "render": true
         }
     },
     {
@@ -7392,7 +7643,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/Nightingale-mortality.jpg",
             "width": 500,
-            "height": 332
+            "height": 332,
+            "render": true
         }
     },
     {
@@ -7406,7 +7658,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/parsets-teaser.png",
             "width": 574,
-            "height": 301
+            "height": 301,
+            "render": true
         }
     },
     {
@@ -7420,7 +7673,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png",
             "width": 452,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -7434,7 +7688,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/nda.png",
             "width": 326,
-            "height": 325
+            "height": 325,
+            "render": true
         }
     },
     {
@@ -7448,7 +7703,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/halfempty600.jpg",
             "width": 600,
-            "height": 328
+            "height": 328,
+            "render": true
         }
     },
     {
@@ -7464,7 +7720,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/Sigthings-VennerableChallenge.jpg",
             "width": 452,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -7480,7 +7737,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/chocolatepiechart.jpg",
             "width": 490,
-            "height": 320
+            "height": 320,
+            "render": true
         }
     },
     {
@@ -7506,7 +7764,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/emailDog_small.jpg",
             "width": 400,
-            "height": 245
+            "height": 245,
+            "render": true
         }
     },
     {
@@ -7546,7 +7805,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/nytimes-vizlab.png",
             "width": 451,
-            "height": 248
+            "height": 248,
+            "render": true
         }
     },
     {
@@ -7584,7 +7844,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/Obama-Cents-teaser.png",
             "width": 409,
-            "height": 163
+            "height": 163,
+            "render": true
         }
     },
     {
@@ -7600,7 +7861,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png",
             "width": 407,
-            "height": 170
+            "height": 170,
+            "render": true
         }
     },
     {
@@ -7616,7 +7878,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/mispronouncing-cropped.png",
             "width": 241,
-            "height": 136
+            "height": 136,
+            "render": true
         }
     },
     {
@@ -7632,7 +7895,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/Ziemkiewicz_InfoVis_2008.jpg",
             "width": 464,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -7646,7 +7910,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/Sightings-2008-11-Richardson.jpg",
             "width": 452,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -7660,7 +7925,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png",
             "width": 266,
-            "height": 88
+            "height": 88,
+            "render": true
         }
     },
     {
@@ -7677,7 +7943,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/fisheye-yahoo-calendar.jpg",
             "width": 480,
-            "height": 326
+            "height": 326,
+            "render": true
         }
     },
     {
@@ -7691,7 +7958,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/Popular-Electoral-teaser.png",
             "width": 250,
-            "height": 155
+            "height": 155,
+            "render": true
         }
     },
     {
@@ -7707,7 +7975,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/MrEagerEyes.jpg",
             "width": 500,
-            "height": 169
+            "height": 169,
+            "render": true
         }
     },
     {
@@ -7721,7 +7990,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/MarketMeltdown-20080929-thumb.png",
             "width": 375,
-            "height": 250
+            "height": 250,
+            "render": true
         }
     },
     {
@@ -7735,7 +8005,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/icharts.gif",
             "width": 300,
-            "height": 56
+            "height": 56,
+            "render": true
         }
     },
     {
@@ -7752,7 +8023,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/nytimes_graphs.png",
             "width": 500,
-            "height": 200
+            "height": 200,
+            "render": true
         }
     },
     {
@@ -7769,7 +8041,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/LinearQuadratic-teaser.png",
             "width": 411,
-            "height": 188
+            "height": 188,
+            "render": true
         }
     },
     {
@@ -7802,7 +8075,8 @@
         "featuredImage": {
             "src": "http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg",
             "width": 514,
-            "height": 189
+            "height": 189,
+            "render": true
         }
     },
     {
@@ -7818,7 +8092,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/gladiator.jpg",
             "width": 400,
-            "height": 264
+            "height": 264,
+            "render": true
         }
     },
     {
@@ -7846,7 +8121,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/presdemo.png",
             "width": 327,
-            "height": 142
+            "height": 142,
+            "render": true
         }
     },
     {
@@ -7862,7 +8138,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/Sightings-BatFlight.jpg",
             "width": 451,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -7890,7 +8167,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/visdefteaser.jpg",
             "width": 550,
-            "height": 133
+            "height": 133,
+            "render": true
         }
     },
     {
@@ -7906,7 +8184,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/wallstats-energy.jpg",
             "width": 550,
-            "height": 197
+            "height": 197,
+            "render": true
         }
     },
     {
@@ -7920,7 +8199,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg",
             "width": 570,
-            "height": 200
+            "height": 200,
+            "render": true
         }
     },
     {
@@ -7960,7 +8240,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg",
             "width": 638,
-            "height": 225
+            "height": 225,
+            "render": true
         }
     },
     {
@@ -7977,7 +8258,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/VVP-Criticism.png",
             "width": 666,
-            "height": 300
+            "height": 300,
+            "render": true
         }
     },
     {
@@ -8005,7 +8287,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/treemaps-generations.png",
             "width": 700,
-            "height": 342
+            "height": 342,
+            "render": true
         }
     },
     {
@@ -8031,7 +8314,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/undata-flowers.png",
             "width": 497,
-            "height": 346
+            "height": 346,
+            "render": true
         }
     },
     {
@@ -8045,7 +8329,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/vis-is-communication.png",
             "width": 600,
-            "height": 230
+            "height": 230,
+            "render": true
         }
     },
     {
@@ -8061,7 +8346,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
             "width": 602,
-            "height": 288
+            "height": 288,
+            "render": true
         }
     },
     {
@@ -8077,7 +8363,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/visualization-for-the-people-thumb.jpg",
             "width": 258,
-            "height": 338
+            "height": 338,
+            "render": true
         }
     },
     {
@@ -8104,7 +8391,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png",
             "width": 615,
-            "height": 247
+            "height": 247,
+            "render": true
         }
     },
     {
@@ -8118,7 +8406,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg",
             "width": 423,
-            "height": 243
+            "height": 243,
+            "render": true
         }
     },
     {
@@ -8134,7 +8423,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/salavon_american_varietal_38.jpg",
             "width": 600,
-            "height": 150
+            "height": 150,
+            "render": true
         }
     },
     {
@@ -8174,7 +8464,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/titanicvisualizations.png",
             "width": 610,
-            "height": 220
+            "height": 220,
+            "render": true
         }
     },
     {
@@ -8272,7 +8563,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg",
             "width": 400,
-            "height": 267
+            "height": 267,
+            "render": true
         }
     },
     {
@@ -8286,7 +8578,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/flowerpoint6.gif",
             "width": 498,
-            "height": 376
+            "height": 376,
+            "render": true
         }
     },
     {
@@ -8382,7 +8675,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png",
             "width": 523,
-            "height": 198
+            "height": 198,
+            "render": true
         }
     },
     {
@@ -8410,7 +8704,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/PresidentialDemographics.png",
             "width": 602,
-            "height": 288
+            "height": 288,
+            "render": true
         }
     },
     {
@@ -8426,7 +8721,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg",
             "width": 600,
-            "height": 260
+            "height": 260,
+            "render": true
         }
     },
     {
@@ -8491,7 +8787,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png",
             "width": 1276,
-            "height": 719
+            "height": 719,
+            "render": true
         }
     },
     {
@@ -8515,7 +8812,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/Guggenheim_Mug.jpg",
             "width": 500,
-            "height": 429
+            "height": 429,
+            "render": true
         }
     },
     {
@@ -8573,7 +8871,13 @@
             "technique",
             "pie-charts"
         ],
-        "featuredImage": null
+        "featuredImage": {
+            "src": "https://media.eagereyes.org/media/attachments/squarepie.png",
+            "width": 272,
+            "height": 297,
+            "alt": "Square Pie Chart from Diagrams Collection",
+            "render": true
+        }
     },
     {
         "slug": "visualization-criticism",
