@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/GE-healthcare-header.png" alt="GE Cost of Healthcare Visualization" width="560" height="318"/></figure>
-
 # The Cost of a Sick Chart
 
 General Electric recently commissioned Ben Fry and Seed Media to visualize health data to communicate the costs of different kinds of diseases to the public. The result is pretty and colorful, but of little value if you actually want to learn something.

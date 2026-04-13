@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/isotype-teaser.jpg" alt="" width="825" height="467"/></figure>
-
 # Paper: ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs
 
 Unit charts are not common in visualization, and they are often considered a bad idea. The same is true for using shapes other than rectangles. Neither is based on much actual research, however. In a new paper, we look at the specific example of ISOTYPE-style charts – and find them to be quite effective.

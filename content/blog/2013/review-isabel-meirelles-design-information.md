@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/10/meirelles-design-for-information1.jpg" alt="Treemap explanation by Isabel Meirelles" width="416" height="250"/></figure>
-
 # Review: Isabel Meirelles, Design for Information
 
 When I’m asked for a good book about visualization, I usually try to change the subject. There is no book I really love, they all have their issues. But thanks to [Isabel Meirelles](http://isabelmeirelles.com/), I can now give a straight answer: *[Design for Information](http://www.amazon.com/gp/product/1592538061/)*.

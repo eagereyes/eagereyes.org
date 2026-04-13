@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/DSCF0541.jpg" width="720" height="500"/></figure>
-
 # Posters Program for Tapestry 2017
 
 The [Fifth Tapestry conference for storytelling with data](/blog/2016/tapestry-2017-st-augustine-fl-on-march-1st) is only about six weeks away. To make it easier for academics and students to attend, we are adding a more formal posters program this year.

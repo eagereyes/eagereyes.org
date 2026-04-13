@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/periodictable.jpg" alt="Periodic Table of Visualization Methods" width="560" height="307"/></figure>
-
 # Visualization is not Periodic, Period!
 
 Of all the sins committed against visualization on the Internet, the [Periodic Table of Visualization Methods](http://www.visual-literacy.org/periodic_table/periodic_table.html) stands out as the most egregious. Its collection of actual visualization methods, structural diagrams, and feel-good business bullshit does not fit a structure that was devised to understand the world – and that is actually a very effective visualization in itself.

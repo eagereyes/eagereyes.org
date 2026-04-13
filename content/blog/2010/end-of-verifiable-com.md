@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/verifiable.png" width="560" height="247"/></figure>
-
 # The End of Verifiable.com
 
 On August 1, 2010, the visualization website Verifiable.com will close. If you don't know Verifiable, I recommend checking them out despite this, it's an interesting site that has explored an important niche of the online visualization (*visualization-as-a-service*, if you will) world. Its demise can teach us a lot about how visualization for the masses works, and what we need to do to actually make it happen.

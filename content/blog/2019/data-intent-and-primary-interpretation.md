@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/09/data-rows.jpg" width="660" height="495"/></figure>
-
 # Data: Intent and Primary Interpretation
 
 Take a JPEG image file and a CSV file. Which of these two is data? Is one of them more obviously data than the other? I think the key difference is the intent behind the data and its primary interpretation.

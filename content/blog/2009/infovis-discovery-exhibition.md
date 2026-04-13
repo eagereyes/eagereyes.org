@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/discoveryexhibition.png" alt="Discovery Exhibition" width="560" height="107"/></figure>
-
 # InfoVis 2009 Discovery Exhibition
 
 After the [underwhelming participation in last year's InfoVis contest](/blog/2008/sad-state-of-infovis-contest), there will be a different approach this year: The [InfoVis Discovery Exhibition](http://www.discoveryexhibition.org). The goal is to collect reports of visualization is used in real-world scenarios, and how visualization tools can help solve real problems. There are already [two examples](http://www.discoveryexhibition.org/wiki/pmwiki.php/Main/Examples), and with enough participation, this should turn into a great resource. See below for how you can participate, and what's in it for you.

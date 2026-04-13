@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/visweektweet.png" alt="VisWeek Tweet" width="560" height="126"/></figure>
-
 # VisWeek Preview: Live Coverage
 
 Like last year, I will be live-blogging and tweeting from [VisWeek](http://vis.computer.org/VisWeek2009/). Here is some information on my plans and links to what others will be doing (that I know of). Feel free to add your links, Twitter handles, etc. in the comments.

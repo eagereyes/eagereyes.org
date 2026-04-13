@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/eagerfeet-header.png" alt="" width="600" height="93"/></figure>
-
 # EagerFeet.org: Free Your Nike+ GPS Data
 
 While Nike+ is a neat app and website that gets a lot of people running, it becomes limiting quite quickly: the site is slow and tedious to use, and the cuteness factor wears off fairly quickly to reveal very limited usefulness. There are lots of better services, but many people are reluctant to switch unless they can take their data with them. EagerFeet was designed to let you do just that: you can export all your run GPS data as GPX files, which you can then import into other programs and websites. And even though it's still April, this is a real site and not a joke.

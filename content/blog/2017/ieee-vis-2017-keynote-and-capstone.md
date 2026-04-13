@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/giorgia-lupi-talking.jpg" width="720" height="480"/></figure>
-
 # IEEE VIS 2017: Keynote and Capstone
 
 Part 2 of my IEEE VIS 2017 report covers the keynote and capstone talks at the conference. They were not just at opposite ends of the conference, but also about as different as they can be in terms of content and delivery.

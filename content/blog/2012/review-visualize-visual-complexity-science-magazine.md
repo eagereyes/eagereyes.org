@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2011/12/science-book-review.png" alt="" width="600" height="381"/></figure>
-
 # My Review of Visualize This and Visual Complexity for Science Magazine
 
 I was asked to write a review of two recent visualization books for *Science*: Nathan Yau's *[Visualize This](http://book.flowingdata.com/)* and Manuel Lima's *[Visual Complexity](http://www.visualcomplexity.com/vc/book/)*. The piece appeared in the last issue of 2011, right before Christmas. Below is a link to the review and some additional comments on it and the two books.

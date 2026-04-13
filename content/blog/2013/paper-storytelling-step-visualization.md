@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/02/Computer-Storytelling-teaser.jpg" width="600" height="259"/></figure>
-
 # Paper: Storytelling, The Next Step for Visualization
 
 Visualization is often considered to consist of three phases: exploration, analysis, and presentation. While the former two topics are covered well in the literature, there has been very little work specifically on presentation. In an upcoming paper, Jock Mackinlay and I argue that presentation, and in particular storytelling and communication of data, are the logical next step for the field, and provide some research directions.

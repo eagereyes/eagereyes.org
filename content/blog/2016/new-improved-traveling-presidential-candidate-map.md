@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/ziptpcmap-teaser.png" width="825" height="510"/></figure>
-
 # New, Improved Traveling Presidential Candidate Map
 
 Many years ago, when this website was still young, I created [a map of all the ZIP codes in the U.S. in numeric order](/zipscribble-maps/united-states) and then wondered about the shortest path through all of them. I dubbed that [*The Traveling Presidential Candidate Map*](/zipscribble-maps/travelling-presidential-candidate-map). Here is an improved version that's interactive and much more efficient than the old one.

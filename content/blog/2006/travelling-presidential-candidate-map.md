@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/ZIPTPCMap-color-names-borders.png" alt="Travelling Presidential Candidate Map" width="600" height="338"/></figure>
-
 # The Travelling Presidential Candidate Map
 
 While working on the [ZIPScribble map](/zipscribble-maps/united-states), I started to wonder how to untangle the beautifully scribbly lines, and finding the shortest path through all ZIP codes. In computer science, this is called the [Travelling Salesman Problem](http://en.wikipedia.org/wiki/Travelling_salesman_problem) (TSP), and so I decided to make this the *Travelling Presidential Candidate Map*.

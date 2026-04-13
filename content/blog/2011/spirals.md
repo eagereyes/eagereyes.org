@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/spiral-teaser.png" alt=""/></figure>
-
 # Spirals for Periodic Data
 
 The common wisdom in visualization is that to find periodicity in data, it should be displayed on a spiral whose period the user can control. Repeating patterns are easy to spot on a spiral, and its layout suggests repetition. But are spirals really the most effective way of finding periodic patterns? Here is an interactive version that lets you compare spirals against a rectangular layout to find out for yourself.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/wallstats-energy.jpg" alt="Budget"/></figure>
-
 # The Visual Display of Relevant Information
 
 When Al Gore talks about [global warming](http://www.climatecrisis.net/), Hans Rosling shows the [relationship between health and wealth](http://www.ted.com/index.php/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html), and the New York Times visualizes [primary results](http://www.nytimes.com/2008/06/04/us/politics/04margins_graphic.html) and [American consumer debt](http://www.nytimes.com/interactive/2008/07/20/business/20debt-trap.html), they communicate visually. But they only use visual representation to get their point across, as a means to an end. When we want to show why visualization is effective, we have to care about the message, too &ndash; not just the method.

@@ -1,5 +1,3 @@
-<figure><a href="/criticism/above-all-do-no-harm"><img src="https://media.eagereyes.org/media/2011/soccer-teaser.jpg" alt="" width="600" height="200"/></a></figure>
-
 # Above All, Do No Harm!
 
 Heatmaps and 3D pie charts are often criticized, and for good reason. But they're not always a bad choice, and can work for simple data presentation. Context is important when criticizing visualizations, especially when there are no obvious improvements that can be made.

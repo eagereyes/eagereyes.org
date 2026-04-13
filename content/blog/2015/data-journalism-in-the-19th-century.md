@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/greely.jpg" width="825" height="510"/></figure>
-
 # Link: Data Journalism in the 19th Century
 
 Scott Klein of ProPublica has written a great story about [an early use of data in journalism](http://www.propublica.org/nerds/item/antebellum-data-journalism-busted-abe-lincoln), and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today.

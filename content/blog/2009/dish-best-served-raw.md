@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/data-zoom.jpg" alt="Data Zoom" width="550" height="140"/></figure>
-
 # Data Is A Dish Best Served Raw
 
 The recent opening of [Data.gov](http://data.gov/) has led to a [number of discussions](http://sunlightlabs.com/blog/2009/05/28/what-id-change-about-datagov/) on data formats, feeds, what kinds of data, which agencies are or are not participating, etc. One key aspect that gets overlooked very easily, but that is really essential, is that what is being published is actual data: original, raw, unprocessed, undigested, naked data. Everything else is secondary.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/broadstreetmap.png" alt="Snow" width="560" height="283"/></figure>
-
 # Review: Steven Johnson, The Ghost Map
 
 John Snow's map of the cholera dead after London's 1854 epidemic is often heralded as one of the earliest examples of graphical data analysis. Steven Johnson's *The Ghost Map* gives a lot of background about the London of the 1850s, Snow's work, and how central the map really was.

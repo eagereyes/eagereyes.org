@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/mturk-paper.jpg" alt="MTurk Paper" width="560" height="362"/></figure>
-
 # Do Mechanical Turks Dream of Square Pie Charts?
 
 User studies are an important part of visualization, but they also require a considerable amount of effort and time. In a paper presented at the [BELIV workshop](http://www.beliv.org/beliv2010/index.php?title=Main_Page) (part of [CHI 2010](http://chi2010.org/)), we discussed our experiences with running a number of visualization studies using [Amazon's Mechanical Turk](http://mturk.com/) (MTurk) service. Using MTurk, we are able to run large studies in much less time than usual, and at very low cost. We also show how to avoid gaming the system, which had been reported in earlier work using MTurk.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/11/how-charts-lie-cover.jpg" width="800" height="569"/></figure>
-
 # Review: Alberto Cairo, How Charts Lie
 
 Alberto Cairo’s new book, *[How Charts Lie](http://www.thefunctionalart.com/p/reviews.html)*, takes readers on a tour of how charts are used and misused, and teaches them how to not be misled. It’s a useful book for both makers and consumers of charts, in the news, business, and pretty much anywhere else.

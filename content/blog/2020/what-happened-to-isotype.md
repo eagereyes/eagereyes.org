@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/09/DSCF1951-crop.jpg" width="925" height="600"/></figure>
-
 # What Happened to ISOTYPE?
 
 Jan Willem Tulp [asked me an interesting question on Twitter last week](https://twitter.com/JanWillemTulp/status/1309578237832581126): if ISOTYPE was so great, why isn’t anybody using it anymore? Here are some of my thoughts, but more than that I want to see if anybody has more idea, and maybe even a bit of evidence, on why ISOTYPE fell out of fashion in the 1950s and hasn’t really come back since.

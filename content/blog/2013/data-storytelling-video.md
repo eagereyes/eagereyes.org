@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/03/wealth-inequality.png" alt="" width="600" height="310"/></figure>
-
 # Data Storytelling in Video
 
 I'm not a fan of video. I don't spend time randomly surfing YouTube, and when given the choice between reading an article and watching a video, I'll read. The reason is that videos often don't work well for me: they're too fast or too slow, they take a long time to get to the point, they don't let me skip around and browse easily. I'd rather be in control than having the information pre-packaged for me. But two examples have surfaced in the last few days that show data visualization can tell a very effective story in well-designed, well-paced videos.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/06/MappingTime_lg.jpg" alt="Kraak, Mapping Time" width="500" height="500"/></figure>
-
 # Review: Kraak, Mapping Time
 Can you write an entire book about a single chart? Even if that chart is supposedly the best one ever? Menno-Jan Kraak's new book, *[Mapping Time: Illustrated by Minard's Map of Napoleon's Russian Campaign of 1812](http://esripress.esri.com/display/index.cfm?fuseaction=display&amp;websiteID=254&amp;moduleID=0)*, discusses the historical context of Minard's work, his, life, and walks through a number of design exercises to show the same or similar data in different ways.
 

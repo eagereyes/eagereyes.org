@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/decade-teaser.png" width="720" height="500"/></figure>
-
 # A Decade of EagerEyes
 
 So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/11/VIS-Social-Run.jpg" alt="" width="640" height="480"/></figure>
-
 # EuroVis Running Club
 
 I'm organizing a very informal running club at [EuroVis](http://www.eurovis2015.it/) next week. If you're attending the conference, don't forget to bring your running shoes and leave your excuses at home.

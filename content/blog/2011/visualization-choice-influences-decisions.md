@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/elting-teaser.png" alt="" width="600" height="220"/></figure>
-
 # Visualization Choice Influences Decisions
 
 Can different ways of showing the same data lead to different decisions? And can those decisions be about something important, like continuing a clinical trial? A study published in 1999 shows that they can, and the way the data is represented does make a difference.

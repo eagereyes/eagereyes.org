@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/Dasgupta-InfoVis-2010.png" alt="" width="560" height="290"/></figure>
-
 # Pargnostics: Screen-Space Metrics for Parallel Coordinates
 
 [Parallel coordinates](/techniques/parallel-coordinates) are a very popular visualization technique for multi-dimensional numerical data. In this paper, we propose a set of metrics to better understand the types of visual structures users commonly look for using this technique. Based on the metrics, we can optimize the display to make it more readable, and allow the user to select dimensions based on their visual structures, rather than their existing ideas about the data.

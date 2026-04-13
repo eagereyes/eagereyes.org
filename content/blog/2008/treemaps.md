@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/treemaps-generations.png" alt="Three Generations of Treemaps" width="700" height="342"/></figure>
-
 # Treemaps
 
 Treemaps are the single most used 'real' InfoVis technique there is. Interestingly, they have proven to be even more useful for unstructured data than for the hierarchies which they were originally developed for. Here is a brief history, discussion of current practical uses, and of the importance of treemaps for the adoption and understanding of information visualization.

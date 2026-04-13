@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/EuroVis-2016-teaser1.jpg" width="825" height="510"/></figure>
-
 # EuroVis 2016, Tuesday and Wednesday
 
 [EuroVis 2016](http://eurovis.org) is happening this week in Groningen, The Netherlands. This is the report from the first two-and-a-half days,  which saw some symposia, a keynote, and many paper presentations.

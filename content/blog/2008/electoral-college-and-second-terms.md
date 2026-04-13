@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser.png" alt="Popular vs. Electoral Vote Teaser"/></figure>
-
 # The Electoral College and Second Terms
 
 The [Electoral College](http://en.wikipedia.org/wiki/U.S._Electoral_College) is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called *battleground states &ndash;* and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis.

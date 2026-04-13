@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/visweek-bingo-teaser.png" alt="" width="600" height="170"/></figure>
-
 # VisWeek Bingo, Interactive Edition 2011
 
 Last year's VisWeek Bingo was a big success, but it was also conceived of and created in such a rush that I'm embarrassed to even link to it now. For this year, I have created an interactive version of it for your perusal and amusement. It uses code [Steve Streza](http://stevestreza.com/) developed for his [Apple Keynote Bingo](http://applebingo.me/).

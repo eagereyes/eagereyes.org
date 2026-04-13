@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/danielle-albers-szafir-bw.jpg" alt="" width="720" height="480"/></figure>
-
 # Portrait: Danielle Albers Szafir
 
 [Danielle Albers Szafir](http://danielleszafir.com) received the Best Paper award for her single-author paper, *[Modeling Color Difference for Visualization Design](http://cmci.colorado.edu/visualab/VisColors/)* at InfoVis this year. She is assistant professor at University of Colorado Boulder and runs the [CU VisuaLab](http://cmci.colorado.edu/visualab/) there.

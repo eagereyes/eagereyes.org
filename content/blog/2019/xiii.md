@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/10/number-437931_1920.jpg" width="960" height="720"/></figure>
-
 # XIII
 
 This website is now thirteen years old. While it has slowed down somewhat recently, it’s still alive and kicking. Now in its teens, it is looking for new experiences and trying out new things.

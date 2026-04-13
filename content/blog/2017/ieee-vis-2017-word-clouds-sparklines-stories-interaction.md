@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/story-curves.jpg" width="700" height="377"/></figure>
-
 # IEEE VIS 2017: Word Clouds, Stories, Interaction
 
 I usually stick to the InfoVis track at VIS, and that was also the case this time. The papers in this part of my report from VIS 2017 cover text, small visualizations like sparklines and glyphs, tools for showing story structure, and multi-device interaction with data.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/toolbox.jpg" alt="Toolbox" width="568" height="375"/></figure>
-
 # Where are the Visualization Tools?
 
 I got several requests in the last few days about tools for doing visualization and visual analytics. Looking around, I don't see a lot of good, affordable (or free) visualization software. There are lots of papers, but few of those programs are available. And those that are often are of very low quality, very limited in their functionality, and are not being maintained. Please help me collect links to visualization tools that let people with data experience that visualization magic.

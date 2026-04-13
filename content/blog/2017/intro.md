@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/ISOTYPE-series.jpg" width="720" height="500"/></figure>
-
 # New Series: ISOTYPE Books
 
 Presenting facts through data is not a recent idea. Otto and Marie Neurath created ISOTYPE in the 1920s and then ran their ISOTYPE Institute for more than two decades. During that time, they created charts for a wide variety of publications. In this series, I will show a number of these charts that I have found, and discuss the context they appeared in.

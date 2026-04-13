@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/piecharts-teaser.png" alt="" width="600" height="350"/></figure>
-
 # In Defense of Pie Charts
 
 [Pie charts](/pie-charts) don't get much respect. They're almost always considered the wrong choice by those supposedly in the know. But how do we know that this is true? What evidence do we have to support this? The truth is, not much. And when we start digging for proof, it turns out that pie charts are much better than we want to admit.

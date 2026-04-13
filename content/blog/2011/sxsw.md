@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/sxsw.png" alt="" width="600" height="148"/></figure>
-
 # Vote for our SxSW Panel on Visualization!
 
 It's that time of year again when annoying hipsters and wannabes start bugging you about their stupid SxSW panels. [The panel proposal](http://longlivedatavis.com/) that Irene Ros has put together (and that includes yours truly) is different though, and [well worth your time to vote](http://panelpicker.sxsw.com/ideas/view/11637).

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/12/multiple-views.png" width="700" height="500"/></figure>
-
 # New Vis Research Blog: Multiple Views
 
 While activity on this site has been a bit slow this year, I’ve helped start a new group blog focused on visualization research, called *[Multiple Views](https://medium.com/multiple-views-visualization-research-explained)*. 

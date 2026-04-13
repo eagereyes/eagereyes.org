@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/MoreZIPScribbleMaps.jpg" alt="More ZIPScribble Maps" width="600" height="260"/></figure>
-
 # More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE
 
 The family of [ZIPScribble Maps](/app/zipscribble-map) is growing. This update adds maps for a dozen countries, most of them European.

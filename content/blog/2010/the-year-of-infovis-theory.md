@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/mappings.png" alt="Mappings" width="537" height="178"/></figure>
-
 # The Year of InfoVis Theory
 
 2010 is *The Year of Information Visualization Theory*. Here's why.

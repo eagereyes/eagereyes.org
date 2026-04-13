@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/blogstravaganza3.jpg" width="720" height="500"/></figure>
-
 # The Ten Years of EagerEyes Blogstravaganza
 
 October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!

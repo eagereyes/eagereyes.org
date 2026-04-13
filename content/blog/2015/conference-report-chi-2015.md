@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/chi-teaser.jpg" alt="" width="825" height="510"/></figure>
-
 # Conference Report: CHI 2015
 
 Last week, I had the pleasure of attending the [CHI 2015 conference](http://chi2015.acm.org/) in Seoul, South Korea. *CHI* technically stands for *Computer-Human Interaction*, but it has become a name rather than an acronym in recent years. And CHI’s scope is very broad, it covers many areas that are not strictly part of HCI (*Human-Computer Interaction* – why use one acronym when you can have two?).

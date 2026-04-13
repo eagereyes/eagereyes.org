@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/03/dear-data.jpg" width="825" height="510"/></figure>
-
 # Link: Dear Data
 
 Giorgia Lupi and Stefanie Posavec are collaborating on a clever and beautiful new project they call *[Dear Data](http://www.dear-data.com)* ([Twitter account](https://twitter.com/_deardata)). Every week, they are sending post cards to each other with hand-drawn visualizations of data they have gathered: public transportation, ways they communicate, etc.

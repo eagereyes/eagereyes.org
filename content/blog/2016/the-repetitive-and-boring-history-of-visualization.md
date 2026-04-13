@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/watt-teaser.png" width="825" height="510"/></figure>
-
 # The Repetitive and Boring History of Visualization
 
 When people talk about the history of data visualization, the same set of names always comes up: Playfair, Nightingale, Snow, Minard. They are historically important, alright, but why do they overshadow all the other work that was done? And what do we know about how important they actually were?

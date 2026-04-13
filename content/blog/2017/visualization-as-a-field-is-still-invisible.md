@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/whats-going-on.jpg" width="750" height="500"/></figure>
-
 # Visualization as a Field Is Still Invisible
 
 A new series by the New York Times is equally exciting and painful: it presents visualizations for discussion in class, but the outside help they are getting is coming from statistics rather than visualization. It’s another reminder of just how far we still have to go to even be noticed as a research field.

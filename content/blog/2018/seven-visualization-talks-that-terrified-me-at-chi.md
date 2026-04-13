@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/basilica1by1.jpg" width="1000" height="1000"/></figure>
-
 # Seven Visualization Talks That Terrified Me At CHI
 
 *This is a guest posting by my Tableau Research colleague [Michael Correll](http://correll.io).*

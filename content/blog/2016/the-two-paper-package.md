@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/03/Chess-king.jpg" width="825" height="510"/></figure>
-
 # The Two-Paper Package
 
 Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.

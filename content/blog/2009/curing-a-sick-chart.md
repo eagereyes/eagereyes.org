@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/sickchart/patients-age-disease-thumb.png" alt="Patients by age and disease" width="560" height="349"/></figure>
-
 # Curing A Sick Chart
 
 I recently [criticized Ben Fry's visualization of health care cost data from GE](/criticism/cost-of-a-sick-chart) and claimed that I knew how to do it better. While my analysis may not be as pretty and flashy as Fry's, it provides actual insight into the data. It also reveals an interesting issue: the data is really dull. So dull, in fact, that a visualization was needed to cover up that fact.

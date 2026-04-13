@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/ExquisiteInteraction.jpg" alt="Dance.Draw"/></figure>
-
 # Dance.Draw
 
 My colleague Celine Latulipe has made a nice website about her [Dance.Draw project](http://www.sis.uncc.edu/~clatulip/DanceDraw/Dance.Draw.html). In what she calls *Exquisite Interaction*, three dancers wield inertial mice and thus control shapes in a projection behind them. The result is interesting and beautiful.

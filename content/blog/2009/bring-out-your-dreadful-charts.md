@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/foxpie.jpg" alt="Pie Chart adding up to 193% on Fox News" width="548" height="411"/></figure>
-
 # Bring Out Your Dreadful Charts!
 
 There are many terrible charts out there, whether visually ugly and cluttered, or pretty but empty or even misleading (like this [beautiful pie chart example featured on Fox News](http://tweetphoto.com/b64lawq7) recently). Andrew Vande Moere at infosthetics is hosting a [competition to find the ugliest and most useless charts](http://infosthetics.com/archives/2009/11/competition_most_ugly_and_useless_visualization_online.html).

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/titanicvisualizations.png" alt="Titanic visualizations" width="610" height="220"/></figure>
-
 # Caring about the Data
 
 When demonstrating [Parallel Sets](/parallel-sets) to guests and visitors, I often use the Titanic data set, because people can relate to it and it is entirely categorical. I like pointing out interesting facts the visualization shows (like that the second class was smaller than the first class), but it's really just a collection of numbers to show what the visualization can do. Some of the people I have shown this to feel different about it, though.

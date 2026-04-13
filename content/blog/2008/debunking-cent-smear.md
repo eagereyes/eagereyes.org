@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/Obama-Cents-teaser.png" alt="Obama Cents Teaser" width="410" height="165"/></figure>
-
 # Debunking the Cent Smear
 
 A story is making the rounds recently that the Obama campaign has received many contributions with "odd" amounts (i.e., not whole dollars), which is supposedly proof that Obama was being funded by foreign money. Here is a quick look at the data, which shows some interesting patterns, but no evidence of foreign intervention.

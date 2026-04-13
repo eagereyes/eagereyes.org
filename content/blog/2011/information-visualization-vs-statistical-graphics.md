@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/scgn.jpg" alt="" width="600" height="194"/></figure>
-
 # Information Visualization vs. Statistical Graphics
 
 Information Visualization shares part of its history and some techniques with statistical graphics. The two fields differ in their approaches though, and in the expectations people have of what they will gain from a visual representation. In two articles, Andrew Gelman and I have written about what we think visualization is, and our points of view could hardly be more different.

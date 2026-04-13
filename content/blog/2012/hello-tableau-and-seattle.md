@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/tableau.jpg" alt="" width="600" height="287"/></figure>
-
 # Hello from Tableau (and Seattle)!
 
 I am spending the entire year 2012 in Seattle, working with [Tableau Software](http://www.tableausoftware.com/). The topics I will be working on include storytelling and Tableau Public, plus some super-secret projects even I don't know yet (mostly because we haven't decided on them).

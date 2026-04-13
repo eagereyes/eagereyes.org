@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/presdemo.png" alt="Presidential Demographics"/></figure>
-
 # Presidential Demographics, Part II
 
 Would McCain be the oldest US President? Would Obama be the youngest? Who was the youngest president? Were presidents younger in the past or older? What is the highest number of years a former president lived after leaving office? Who served the longest? Whose term was the shortest? The interactive visualization below lets you answer these and a few other questions.

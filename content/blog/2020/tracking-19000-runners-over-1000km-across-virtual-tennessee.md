@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/08/gvrat-histogram3.png" width="830" height="489"/></figure>
-
 # Tracking 19,000 Runners Over 1,000km Across Virtual Tennessee
 
 How do you show large numbers of people without losing track of the outliers? How do you keep a chart useful when the maximum values are orders of magnitude higher than the common ones? In [an animated visualization I've built](/app/gvrat-1000k-tracker) of the progress of over 19,000 runners across a virtual 1000km (635mi) race over 123 days, I've tried to solve some of these issues.

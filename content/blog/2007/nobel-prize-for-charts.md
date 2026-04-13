@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/an-inconvenient-truth.jpg" width="423" height="243"/></figure>
-
 # A Nobel Prize for Charts
 
 The recipients of the Nobel Peace Prize 2007 are [Al Gore and the UN Intergovernmental Panel on Climate Change](http://www.nytimes.com/2007/10/13/world/13nobel.html). While the decision is undoubtedly a political one (not unlike this year's Nobel Literature Prize), Gore has made a huge impact with his documentary, *[An Inconvenient Truth](http://www.climatecrisis.net/)*. A large part of that comes from his use of graphs and charts.

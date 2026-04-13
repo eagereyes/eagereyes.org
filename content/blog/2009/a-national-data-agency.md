@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/nda.png" alt="National Data Agency" width="326" height="326"/></figure>
-
 # A National Data Agency
 
 President Obama promises a more responsible and accountable government that openly shares information with its people. This includes publishing executive orders and laws before they are signed, so everybody can comment. But it also needs to include the data decisions are based on. An information society needs its data to be available and accessible to make informed decisions &ndash; just like its leaders.

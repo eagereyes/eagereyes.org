@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/Popular-Electoral-teaser-new.png" alt="Popular vs. Electoral Vote Teaser" width="266" height="88"/></figure>
-
 # Popular vs. Electoral Votes Using Stacked Bar Charts
 
 A few days ago, I looked at [how the electoral college system amplifies the lead](/blog/2008/electoral-college-and-second-terms) of the strongest candidate in a US presidential election. The way I made the chart (with the help of PhotoShop) created some interesting reactions, and finally led me to what I consider the best way to do it (using stacked bar charts). I also want to respond to a few comments about the kind of chart used and why I think it is the most effective way to show what it does.

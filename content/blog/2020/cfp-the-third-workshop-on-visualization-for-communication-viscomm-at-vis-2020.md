@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/06/DSC_0212b.jpg" width="640" height="429"/></figure>
-
 # CFP: The Third Workshop on Visualization for Communication (VisComm) at VIS 2020
 
 At IEEE VIS this year, we're organizing the third [Workshop on Visualization for Communication, also known as VisComm](https://viscomm.io). The deadline is July 16, so still plenty of time to put together a paper, whether on communicating around COVID-19 or not. We're not only looking for the usual academic research, but also *visual case studies*, which means work by journalists, designers, or non-profits.

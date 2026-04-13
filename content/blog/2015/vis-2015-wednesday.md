@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-wed-teaser.png" alt="" width="825" height="510"/></figure>
-
 # VIS 2015 – Wednesday
 
 The second full day of VIS 2015 brought lots of papers on applications and design studies, and also a panel on solved problems in visualization. As [on the first day](/blog/2015/vis-2015-tuesday), I have some observations and thoughts.

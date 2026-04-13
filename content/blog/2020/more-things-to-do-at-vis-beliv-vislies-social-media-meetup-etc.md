@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2020/10/vis2020_v2.jpg" width="528" height="403"/></figure>
-
 # More Things To Do at VIS: BELIV, VisLies, Social Media Meetup, Etc.
 
 For next week's IEEE VIS conference, here are some more pointers to things that I think are worth checking out [in addition to my previous list](/blog/2020/an-outsiders-guide-to-ieee-vis-2020). This includes a few of the major events as well as some meetups you might otherwise have missed.

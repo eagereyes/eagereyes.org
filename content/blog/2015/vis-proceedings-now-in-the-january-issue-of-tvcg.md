@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tvcg-teaser.png" alt="" width="825" height="510"/></figure>
-
 # VIS Proceedings now in the January Issue of TVCG
 
 There has been a change in the way papers presented at [IEEE VIS](/tag/ieeevis) are published in the TVCG journal. It used to be the last issue of the year, but starting in 2015, it's now the January issue of the next year. So all VIS 2015 papers have a publication date of 2016.

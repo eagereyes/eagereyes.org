@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/vis15-tue-teaser.png" alt="" width="825" height="510"/></figure>
-
 # VIS 2015 – Tuesday
 
 IEEE VIS 2015 started today. The first sessions included network visualization and projections, as well as a panel on the use of color in visualization.

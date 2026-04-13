@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/polevaulting.jpg" alt="" width="560" height="279"/></figure>
-
 # Stories Don't Tell Themselves
 
 Storytelling was a big topic at VisWeek this year: there was a workshop, a panel, and at least one paper about how to tell stories with visualization. One sentence I heard over and over was, "this photo/visualization/illustration tells a great story." But pictures don't tell stories, people do. An image, a visualization, data, etc. can only be the material the story is made from. I think it's going to be important for visualization to understand this fundamental difference.

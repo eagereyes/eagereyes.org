@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/parsets-announce.png" alt="Parallel Sets Announcement" width="560" height="169"/></figure>
-
 # Parallel Sets Release Date
 
 We [promised the release of the Parallel Sets program](/blog/2009/a-spike-of-interest-in-parallel-sets) for the end of April, but we have to push it to May 7. The reason is quite simply lack of time: the semester is ending here at UNC Charlotte, and things are rather busy as a result. There is also the nuts-and-bolts work of making this work as an application for end-users that works well on at least two platforms (Windows and Mac OS X), and that can provide useful information when it doesn't.

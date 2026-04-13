@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/continuum-cards.jpg" width="720" height="540"/></figure>
-
 # Graphic Continuum Flash Cards
 
 [Jon Schwabish](http://policyviz.com/) and[ Severino Ribecca](http://www.datavizcatalogue.com) have turned their [Graphic Continuum poster](http://policyviz.com/graphic-continuum/) into a set of cards. They're a good way to expand your visual vocabulary and find new ideas for how to represent your data.

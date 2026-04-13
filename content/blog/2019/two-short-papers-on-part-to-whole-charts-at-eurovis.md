@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/05/EuroVis-Pie-Papers-2.png" width="660" height="454"/></figure>
-
 # Two Short Papers on Part-to-Whole Charts at EuroVis
 
 Why do pie charts look the way they do? What makes this particular way of slicing up a circle the preferred way of showing part-to-whole relationships? In two short papers that I’m presenting this week at [EuroVis](https://www.eurovis.org), I looked at the design space of circular part-to-whole charts, including pie charts.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/06/science.jpg" alt="" width="600" height="325"/></figure>
-
 # Science: It's a Curiosity Thing!
 
 This video called *[Science: It’s a Girl Thing!](http://www.youtube.com/watch?v=g032MPrSjFA&amp;feature=player_embedded)* has been widely criticized for being sexist. What I find even more disturbing is that there is an actual need to dress science and technology up as something they are not. When did kids lose their curiosity?

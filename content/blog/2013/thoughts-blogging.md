@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/08/1280px-Hoes_one_cylinder_printing_press.png" alt="Tapestry Triptych" width="640" height="450"/></figure>
-
 # Thoughts on Blogging
 
 I was recently asked some questions via email about blogging. Rather than respond via email, I’ve decided to [do a Gelman](http://andrewgelman.com) and post my response here.

@@ -1,5 +1,3 @@
-<figure><img src="http://graphics8.nytimes.com/images/2008/07/20/business/20debtgraphic.jpg"/></figure>
-
 # Engaging Readers with Square Pie/Waffle Charts
 
 Engaging viewers with interesting depictions of data always bears the risk of creating misleading or unreadable graphics. The [square pie chart](/blog/2006/square-pie-charts) (or waffle chart) strikes a good balance between being interesting and not distorting the data. Here is an argument for the power of the pie and against the boredom of the bar.

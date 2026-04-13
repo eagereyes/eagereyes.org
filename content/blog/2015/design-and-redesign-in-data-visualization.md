@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/04/cairo-redesign.png" width="725" height="331"/></figure>
-
 # Link: Design and Redesign in Data Visualization
 
 Fernanda Viégas and Martin Wattenberg have written a wonderful piece titled *[Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9)* about criticism in data visualization. They thoughtfully analyze the practice and point out some of the issues when people create redesigns, including intellectual honesty and perfect hindsight.

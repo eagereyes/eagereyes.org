@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_AVI_2010.png" alt="" width="560" height="362"/></figure>
-
 # Paper: Implied Dynamics in Information Visualization
 
 Design is usually considered a minor point in visualization. Does it make a difference what color scheme you use (as long as it's not an atrocious one), how thick your lines are, whether you put a background behind your chart, etc.? Caroline Ziemkiewicz and I presented a paper at [*Advanced Visual Interfaces* (AVI)](http://www.dis.uniroma1.it/~avi2010/) where we reported on a study we had performed to find out.

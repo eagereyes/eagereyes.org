@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/maths.jpg" alt="" width="560" height="401"/></figure>
-
 # InfoVis Theory Workshop Deadline Extended
 
 We have received a few good submissions for the InfoVis Theory Workshop at [VisWeek](http://vis.computer.org/VisWeek2010/), but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance.

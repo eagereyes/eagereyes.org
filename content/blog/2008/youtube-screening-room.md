@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/YTScreeningRoom.jpg" alt="YouTube Screening Room"/></figure>
-
 # The YouTube Screening Room
 
 I'm not generally a big YouTube fan. Sure, I've watched all the funny cat movies and seen people dump Mentos into bottles of Diet Coke. But little else has made me go there in some months. This has changed, though, with a new feature of the website: [The YouTube Screen Room](http://youtube.com/ytscreeningroom). Twice a month, four independent short films are added to the site, and the quality is amazing.

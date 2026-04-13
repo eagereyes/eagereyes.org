@@ -35,10 +35,6 @@ export const load: PageServerLoad = async ({ params }) => {
         try {
             content = await readFile(`content/blog/${params.slug}.md`, 'utf-8');
             display = PageType.singlePost;
-            const meta = (posts as Array<BlogPost>)[metaIndex];
-            if (meta?.featuredImage?.render && content.trimStart().startsWith('<figure>')) {
-                content = content.replace(/^\s*<figure>[\s\S]*?<\/figure>\s*/, '');
-            }
         } catch (err: any) {
             error = String(err);
         }

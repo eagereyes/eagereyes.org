@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/tape-recorder.jpg" width="700" height="679"/></figure>
-
 # Visualization: Three Alternate Histories
 
 The academic visualization community largely comes from computer science: most of the professors teach in computer science (or similar) departments, most of the students doing research are computer science students of some flavor or other. It's interesting to consider how the field might be different if visualization had emerged from a different discipline.

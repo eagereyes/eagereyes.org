@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/06/DSCF5939.jpg" alt="" width="825" height="510"/></figure>
-
 # Report: EuroVis 2015
 
 I attended [EuroVis 2015](http://eurovis2015.it) last week in Cagliari, Sardinia. This is the second-most important conference in the academic visualization world, and there were plenty of good sessions to choose from (full and short papers, state-of-the-art reports, and industry sessions).

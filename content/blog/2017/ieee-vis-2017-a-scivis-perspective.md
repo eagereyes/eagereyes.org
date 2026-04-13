@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/image001.jpg" width="720" height="480"/></figure>
-
 # IEEE VIS 2017: A SciVis Perspective
 
 *Since my (Robert)'s conference reports are almost entirely focused on InfoVis (and a bit of VAST), I have asked [Noeska Smit](http://noeskasmit.com), medical visualization professor and my collaborator in the *[Vis Potpourri](/tag/vis-potpourri)*[ postings](/tag/vis-potpourri), to write about VIS from the SciVis perspective. Everything below are Noeska's words.*

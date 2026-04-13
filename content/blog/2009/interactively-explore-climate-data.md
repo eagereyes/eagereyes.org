@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/climate/climate-teaser-cropped.png" alt="Climate data 1740-2008" width="560" height="246"/></figure>
-
 # Interactively Explore Climate Data
 
 The United Kingdom's Met Office [recently released temperature data for about 1700 weather stations](http://www.metoffice.gov.uk/climatechange/science/monitoring/subsets.html) across the globe from 1701 to 2009. Here is an interactive visualization (built using [Protovis](http://protovis.org/)) of that data for you to explore.

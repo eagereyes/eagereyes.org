@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/Sigthings-SpacePlease.png" alt="Sightings: A Little Space, Please" width="452" height="300"/></figure>
-
 # Sightings: A Little Space, Please!
 
 "[InfoVis and SciVis face off](http://www.americanscientist.org/issues/pub/2009/3/a-little-space-please)" is how the *American Scientist* homepage teases for my latest *Sightings* column. While the comparison between information visualization (InfoVis) and scientific visualization (SciVis) is part of the discussion, I am also describing work by my colleague Anthony Fodor (who works in bioinformatics) to demonstrate the usefulness of InfoVis in science.

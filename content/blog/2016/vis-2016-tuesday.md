@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/vis16-tuesday.jpg" width="720" height="540"/></figure>
-
 # VIS 2016 – Tuesday
 
 The official opening of the main conference was today, Tuesday. The conference is now in full swing until Friday.

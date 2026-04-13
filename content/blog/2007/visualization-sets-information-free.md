@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/flowerpoint6.gif" alt="FlowerPoint - gapminder.org" width="498" height="376"/></figure>
-
 # Visualization Sets Information Free
 
 Enormous amounts of information are technically freely available, but are hard to access in practice. A lot of that data comes from data collection funded by taxpayers, or from data that needs to be reported for legal reasons. While much of that data has been lying around on the Internet for some time, only recently have people started building tools that make it easy (and often even fun) to play with it. Even though the types of data are very different, all these tools have one thing in common: they are primarily visual.

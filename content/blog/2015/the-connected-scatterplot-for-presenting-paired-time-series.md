@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/cs-teaser.jpg" alt="" width="825" height="428"/></figure>
-
 # Paper: The Connected Scatterplot for Presenting Paired Time Series
 
 I’m very happy to finally be able to announce [our paper on the connected scatterplot technique](/publications/Haroz-TVCG-2016). It describes the technique, provides some historical perspective, and most of all looks into how easy to understand and engaging the technique actually is.

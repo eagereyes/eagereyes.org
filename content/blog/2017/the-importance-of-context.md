@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/07/misfit-april.png" width="600" height="486"/></figure>
-
 # The Importance of Context
 
 I use a [Misfit activity tracker](http://misfit.com/) to count my steps. The Misfit app does a decent job of showing me step counts per day and every month, misfit also sends me a summary of the previous month’s activity. Unfortunately, the numbers in that summary are presented without any context, making that summary almost entirely useless.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/Ziemkiewicz_InfoVis_2008.jpg" alt="Paper" width="464" height="300"/></figure>
-
 # The Shaping of Information by Visual Metaphors
 
 In January, my Ph.D. student [Caroline Ziemkiewicz](http://www.cs.brown.edu/people/cziemki/) told me about an interesting observation she had made: in different papers comparing tree visualizations, [treemaps](/blog/2008/treemaps) came out as best, worst, or somewhere in the middle. One difference she noticed was how the questions were worded: when a levels metaphor was used, treemaps did badly; a containment metaphor, on the other hand, seemed to favor treemaps. So we decided to investigate – the result will be presented at [InfoVis](http://vis.computer.org/VisWeek2008/infovis/sessions_papers.html#design) on Monday, October 20.

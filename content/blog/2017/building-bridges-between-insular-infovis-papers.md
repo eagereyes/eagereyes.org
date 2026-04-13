@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/islands.jpg" width="720" height="500"/></figure>
-
 # Building Bridges Between Insular InfoVis Papers
 
 Can you describe what information visualization research does in a few words? What are the driving questions and problems right now? It’s harder than it might seem. I believe that the lack of cohesion in the field is due, at least in part, to how we publish research.

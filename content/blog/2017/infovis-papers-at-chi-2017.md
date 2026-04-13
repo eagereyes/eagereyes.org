@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/05/chi2017-teasr.png" width="720" height="500"/></figure>
-
 # InfoVis Papers at CHI 2017
 
 The two main conferences in visualization are VIS and EuroVis, but recently [CHI](https://chi2017.acm.org/) has also gotten some very interesting submissions (CHI is technically a conference about human-computer interaction, or HCI). This year looked particularly strong,

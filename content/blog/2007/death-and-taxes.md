@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/DeathAndTaxes.jpg" alt="Death and Taxes - thebudgetgraph.com" width="400" height="267"/></figure>
-
 # Death and Taxes
 
 With Tax Day (Observed) in the US <span style="text-decoration: line-through;">tomorrow</span> on Tuesday ([even the IRS gets confused](http://www.irs.gov/newsroom/article/0,,id=167195,00.html)), I felt like a link to *[Death and Taxes: A Visual Guide to Where Your Federal Tax Dollars Go](http://thebudgetgraph.com/view/)* would be in order. This beautiful information graphic breaks spending down into all the 'small' things that tax money is spent on, from the FCC to the Army Corps of Engineers. A zoomable interface similar to Google Maps makes it possible to explore this huge graph. As [Terry Yoo](http://erie.nlm.nih.gov/~yoo/) likes to say, *the government's a big place!* - and this graph gives you an idea just how much there is.

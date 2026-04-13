@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/multitouch-brushing.png" width="560" height="232"/></figure>
-
 # Multi-touch Brushing for Parallel Coordinates
 
 Interaction in visualization is incredibly important, but often more tedious than it needs to be. I have developed a new way of brushing in parallel coordinates that uses the multi-touch trackpads on Apple's MacBook and MacBook Pro laptops for faster interaction. The video below demonstrates the technique, and the source code is available.

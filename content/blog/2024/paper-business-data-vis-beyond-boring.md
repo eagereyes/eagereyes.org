@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2024/10/Kosara-CGA-2024-thumb.png" width="600" height="547"/></figure>
-
 # Paper: Business Data Visualization, Beyond the Boring
 
 The words _business_ and _data visualization_ probably put you to sleep before you even reach the end of this sentence. But wake up! There's actually a lot of interesting work to be done in this area, if only we give it a chance. I think research has ignored this space for too long, and is missing out not only on more ways to create better applications, but to find really interesting research problems to work on.

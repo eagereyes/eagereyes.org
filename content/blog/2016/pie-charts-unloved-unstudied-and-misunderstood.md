@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/informationplus-teaser.png" width="860" height="484"/></figure>
-
 # Talk: Pie Charts – Unloved, Unstudied, and Misunderstood
 
 I gave a talk at [Information+](http://informationplusconference.com) earlier this year that has now been posted. It's about pie charts! And it was a fun talk, too.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/SocialVisPanelLogo.png" width="615" height="247"/></figure>
-
 # InfoVis Panel: The Impact of Social Data Visualization
 
 Visualization for the masses is a powerful means of communication, in an age where we have access to incredible amounts of data, but still little understanding based of what it all means. I have argued that [visualization sets information free](/blog/2007/visualization-sets-information-free), I have [criticized Swivel and Many-Eyes](/blog/2007/swivel-vs-many-eyes), and I have argued for [reassessing who our users are](/blog/2007/rethinking-the-user). At Vis/InfoVis, I am organizing a panel with people from Many-Eyes, Swivel, and Gapminder.

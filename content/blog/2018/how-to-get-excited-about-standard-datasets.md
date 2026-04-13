@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/03/iris.jpg" width="700" height="500"/></figure>
-
 # How to Get Excited About Standard Datasets
 
 It can be hard to get excited about the standard datasets that we keep using to show how visualization and statistics work. But if that's the case for you, it's not the datasets's fault, it's you! Here’s how to keep that spark going!

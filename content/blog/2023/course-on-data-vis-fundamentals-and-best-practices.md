@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2023/02/vis-course-thumb.png" width="660" height="495"/></figure>
-
 # Course on Data Vis Fundamentals and Best Practices
 
 I'm teaching [a short course on data visualization for Observable](https://observablehq.com/@observablehq/datavizcourse?utm_medium=video&amp;utm_campaign=datavizcourse&amp;utm_source=videoembed). It's free, and you should join! Starts March 7.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/eg-guidelines.gif" alt="" width="825" height="510"/></figure>
-
 # Why Is Paper-Writing Software So Awful?
 
 The tools of the trade for academics and others who write research papers are among the worst software has to offer. Whether it’s writing or citation management, there are countless issues and annoyances. How is it possible that this fairly straightforward category of software is so outdated and awful?

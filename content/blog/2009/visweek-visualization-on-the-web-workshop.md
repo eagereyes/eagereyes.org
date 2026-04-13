@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/redpin.jpg" alt="Grayscale map with red pin" width="560" height="326"/></figure>
-
 # VisWeek Preview: Visualization on the Web Workshop
 
 The workshop *Putting Visualization on the Web* will be held on Sunday, October 11, from 2pm to 5:30pm at [VisWeek 2009](http://vis.computer.org/VisWeek2009/). If you are there on Sunday, please join us for discussions on everything related to visualization, blogging, web-based visualization, and a whole lot more. You do not have to register for the workshop separately, and you are welcome whether you submitted a position paper or not.

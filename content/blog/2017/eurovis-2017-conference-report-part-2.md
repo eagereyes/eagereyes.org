@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona.jpg" width="720" height="500"/></figure>
-
 # EuroVis 2017 Conference Report, Part 2
 
 On the first full day of the main [EuroVis conference](http://eurovis2017.virvig.es), we learned that estimating correlation from scatterplots may not be as great as we thought, saw a number of new ways to show what is and is not in the data, and got some new tools for making browser-based visualization fast.

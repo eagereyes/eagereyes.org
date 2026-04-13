@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/squarepie.png" alt="Square Pie Chart from Diagrams Collection" width="272" height="297"/></figure>
-
 # Women in IT - Squaring the Pie?
 
 Pie charts are a ubiquitous way of showing percentages. But while we can see differences in angles quite well, reading the meaning of the difference is another matter, so for precise data, we still need the numbers. A little known variant of pie charts is not round, but square, and can be read with an accuracy of one percent. We will look at data on women in information technology using this method.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/nytimes-vizlab.png" alt="NYTimes VizLab" width="451" height="248"/></figure>
-
 # The New York Times Visualization Lab
 
 The New York Times' new [Visualization Lab](http://vizlab.nytimes.com/) uses IBM's [Many Eyes](http://many-eyes.com/) technology. While it provides easy access to a wealth of visualization techniques and the possibility to comment, there is one major difference: only data provided by the NY Times can be used. The kind and quality of that data will determine the success of this new site.

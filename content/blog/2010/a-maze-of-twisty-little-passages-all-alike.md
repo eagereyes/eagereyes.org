@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/proof-teaser.png" alt="" width="560" height="139"/></figure>
-
 # A Maze of Twisty Little Passages, All Alike
 
 Theoretical research is a tough sell, and not just in computer science. Not only are we expected to produce things we can demo, it's also hard to tell beforehand what exactly the results will be. But that is exactly why we need to do research: because we don't know. Applied research is obviously important, but the current trend towards only applied work is worrying.

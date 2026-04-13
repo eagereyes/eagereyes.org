@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/12/credit-card-reader.jpg" width="720" height="500"/></figure>
-
 # The Dumbest User Interface of 2016
 
 It is my great honor and pleasure to announce the winner of the *Worst User Interface Award 2016*: it goes to the new chip-enabled credit card terminals introduced in the U.S. this year. My congratulations, as it is very well deserved.

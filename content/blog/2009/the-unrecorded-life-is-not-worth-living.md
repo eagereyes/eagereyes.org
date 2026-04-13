@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/nikeplus.png" alt="Nike Plus" width="560" height="240"/></figure>
-
 # The Unrecorded Life is Not Worth Living
 
 It has never been easier to record your daily activities. The data is all well and good, but the real value comes from visualizing it. Why visualize your mundane, boring life? Because it helps you track what you are doing, and provides motivation to get your ass to the gym.

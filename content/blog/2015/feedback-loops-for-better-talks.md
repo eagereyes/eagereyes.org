@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/centrifugal-governor-teaser.png" alt="" width="825" height="510"/></figure>
-
 # Feedback Loops for Better Talks
 
 Feedback loops are a common concept in engineering. When it comes to giving talks, academics would do well to apply some of the thinking behind them to improve their output by observing how it deviates from the desired one, and making changes to adjust it.

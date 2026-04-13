@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/09/shneiderman-chartpies.jpg" width="816" height="612"/></figure>
-
 # Ben Shneiderman's Chart Pies
 
 So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form of charts. Rather than, you know, the other way around. Feast your eyes on delicious-looking chart pies!

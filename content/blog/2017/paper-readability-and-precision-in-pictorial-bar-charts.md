@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/Skau-EuroVis-2017.jpg" width="720" height="255"/></figure>
-
 # Paper: Readability and Precision in Pictorial Bar Charts
 
 Embellished charts are common in information graphics. But are embellished bar charts actually harder to read than plain ones? In [a short paper to be presented at EuroVis](/publications/Skau-EuroVis-2017) next week, Drew Skau and I present a study that looked into this question.

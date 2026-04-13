@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/ResultBlocks.jpg" alt="" width="381" height="339"/></figure>
-
 # Parallel Sets Implemented By Third Party
 
 It's nice to see an idea evolve and get picked up by other people. Which is why I'm excited to have spotted the first third-party implementation of [Parallel Sets](/parallel-sets) in the wild: a (Windows-only) program called [Knowledge Blocks](http://www.knowledgeblocks.eu/kb/Default.aspx) that allows you to visually piece together a query and show the results in a table or a Parallel Sets display.

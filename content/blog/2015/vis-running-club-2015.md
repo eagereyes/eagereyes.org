@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/running-teaser.jpg" alt="" width="825" height="510"/></figure>
-
 # VIS Running Club 2015
 
 I will organize runs again at [IEEE VIS](http://ieeevis.org) in Chicago two weeks from now. As with previous years, organization will be minimal: just show up ready to run. I will prepare routes in the 3-6mi (5-10km) range.

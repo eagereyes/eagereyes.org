@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/openvis-teaser.jpg" width="825" height="510"/></figure>
-
 # OpenVis 2016 Talk Videos and Pointers
 
 [The OpenVis Conference](https://openvisconf.com/) had another great selection of talks this year. Here is a list of my favorites, with talk videos and pointers to some additional materials.

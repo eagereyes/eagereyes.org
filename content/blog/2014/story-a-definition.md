@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/04/dictionary.jpg" width="715" height="430"/></figure>
-
 # Story: A Definition
 
 What makes a story? What does a story do? In [part one of this little series](/blog/2014/stories-are-gateways-into-worlds), I argued that stories and worlds are not opposites, but complements. In this part, I try to explain the differences between worlds and stories, and present a definition.

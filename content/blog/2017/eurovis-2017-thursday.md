@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/barcelona-sunset.jpg" width="720" height="500"/></figure>
-
 # EuroVis 2017 Conference Report, Part 3
 
 Thursday and Friday at EuroVis brought a few papers on storytelling, a new toolkit for running online studies, a better way to put your list of publications online, and a lot more.

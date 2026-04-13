@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/climate/climatediff-teaser.png" alt="Climate Differences" width="536" height="232"/></figure>
-
 # Temperature Baseline Differences
 
 Tableau started the beta of its [Tableau Public](http://www.tableausoftware.com/) program today, and what better way to kick the tires than to run some more climate data through it? Below, you can look at temperature data from 343 weather stations over twenty years (77172 obervations) to compare the difference from the baseline numbers in the 1970s and 2000s.

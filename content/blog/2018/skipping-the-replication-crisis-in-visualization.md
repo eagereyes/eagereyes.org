@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/10/skipping-replication-crisis.jpg" width="772" height="250"/></figure>
-
 # Paper: Skipping the Replication Crisis in Visualization
 
 Visualization doesn't have the replication issues that some other fields are struggling with right now, but is that because our science is so strong or because nobody actually bothers with replications? And what can we do to get ahead of potential problems before we run into a full-on crisis? In a paper to be presented at BELIV, Steve Haroz and I list potential pitfalls and present possible solutions.

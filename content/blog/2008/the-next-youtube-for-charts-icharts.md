@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/icharts.gif" alt="iCharts"/></figure>
-
 # The Next YouTube for Charts: iCharts
 
 There's new competition for Swivel and Many Eyes: [iCharts](http://www.icharts.net/). A good name, to be sure, but will they live up to their promise of being "YouTube for Charts" (a claim Swivel also made in the beginning)? A first look at their website suggests that they likely will not.

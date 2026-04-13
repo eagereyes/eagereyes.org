@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/tensorboard.png" width="750" height="409"/></figure>
-
 # IEEE VIS 2017: Best Papers and Other Awards
 
 The [IEEE VIS 2017 conference](http://ieeevis.org/) took place last week in Phoenix, AZ. I’m slower to write about it than in previous years, but to make up for that I’m not going in chronological order this time, but will break this report up in a more logical manner. This first part covers the opening, which included presentations of the best papers from all three tracks plus a new *Test of Time* award category.

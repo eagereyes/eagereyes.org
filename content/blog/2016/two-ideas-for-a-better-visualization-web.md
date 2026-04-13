@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/08/6668006863_6a594e2ec4_o.jpg" width="960" height="540"/></figure>
-
 # Two Ideas for a Better Visualization Web
 
 There is a reasonable amount of information about visualization available on the web. There are still huge gaps though, especially when it comes to bridging the gap between academic research and the rest of the world, though. Here are two ideas: one simple, one rather involved.

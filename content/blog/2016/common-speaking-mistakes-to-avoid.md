@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/speaker.jpg" width="720" height="540"/></figure>
-
 # Common Speaking Mistakes To Avoid
 
 Whenever I go to academic conferences, I have to sit through some terrible talks. It continues to amaze me that so many people make mistakes that are so easy to avoid. Here are a few I noticed just in the last two days.

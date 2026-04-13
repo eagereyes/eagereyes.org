@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/bird.png" alt="" width="332" height="384"/></figure>
-
 # Follow Me on Twitter!
 
 If you enjoy reading my website, why not [follow me on Twitter](http://twitter.com/eagereyes), too? So click the birdie above to get to my Twitter page!

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2011/12/features.png" alt="" width="600" height="142"/></figure>
-
 # Why I Switched From Drupal to WordPress
 
 After [more than five years](/blog/2011/five-years-of-eagereyes), switching the content management system (CMS) on [eagereyes](/) was not an easy decision. I've been thinking about doing that for a while though, and I want to explain my reasons and what I expect WordPress to do better than Drupal below. This should also be useful for anybody who is on the fence about starting a blog (or has a blog that hasn't been updated in a while).

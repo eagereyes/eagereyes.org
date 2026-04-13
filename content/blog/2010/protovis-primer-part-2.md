@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/protovis-primer/eq7.png" width="560" height="250"/></figure>
-
 # A Protovis Primer, Part 2
 
 The second installment of the [Protovis](http://protovis.org/) tutorial ([see part 1 here](/blog/2010/protovis-primer-part-2)) introduces some more of its JavaScript-specific features like scales, shows how to anchor marks on other marks, and how to use rules. We also start using real data, and learn how to load that data from a remote source.

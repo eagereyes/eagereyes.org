@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/changeWorldPanel.jpg" alt="" width="560" height="527"/></figure>
-
 # Review: Cornelia Dean, Am I Making Myself Clear?
 
 The first episode of season 4 of *Mad Men* opens with Don Draper being interviewed by a journalist. He doesn't tell him anything that's of interest and then dodges the question *Who is Don Draper?* by claiming that he was taught as a child not to talk about himself. Scientists do an equally terrible job at communication, and for many of the same reasons. Cornelia Dean's book *[Am I Making Myself Clear?](http://www.amazon.com/Am-Making-Myself-Clear-Scientists/dp/0674036352/)* offers fascinating insights into both journalism and science, and provides concrete ideas for how to do better.

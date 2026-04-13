@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/lemons.jpg" alt="Lemons" width="730" height="470"/></figure>
-
 # Peer Review, Part 3: A Taxonomy of Bad Papers
 
 Reviewing is great when you get a good paper where you can make some suggestions to make it even better, and everybody’s happy. Bad papers are much less fun, but they are also much more common. Here are some examples I’ve seen and that I keep seeing.

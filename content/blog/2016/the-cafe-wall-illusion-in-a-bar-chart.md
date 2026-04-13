@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/cafe-wall-bars.png" width="575" height="373"/></figure>
-
 # The Café Wall Illusion in a Bar Chart
 
 [The Café Wall Illusion](https://en.wikipedia.org/wiki/Café_wall_illusion) makes you to see perfectly parallel lines as being at an angle. It's a curiosity and a cool perceptual illusion – except when it shows up in a bar chart, as it did in this example.

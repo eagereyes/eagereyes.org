@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/tapestry16-teaser.jpg" alt="" width="810" height="500"/></figure>
-
 # Tapestry 2016 Open For Applications
 
 [*Tapestry* 2016](http://www.tapestryconference.com) will take place March 9 next year in a historic hotel near Denver, CO. We have put together another exciting line-up of keynote speakers and are looking for applications from people who want to attend or speak.

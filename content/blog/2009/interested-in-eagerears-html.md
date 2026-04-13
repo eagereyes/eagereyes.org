@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/imallears.png" alt="I" width="560" height="250"/></figure>
-
 # Anybody interested in eagerears.org/.com?
 
 I got the domains EagerEars.org and EagerEars.com for my [April Fool's joke](/blog/2009/new-sister-site-eagerears). Now the question is: what to do with them? If you have an idea and want to have the domain, let me know. You can have it for the remaining period it was registered for (until January 2010), and then decide what to do with it. I will keep some control over it until then though to make sure EagerEars does not become a spam or phishing site.

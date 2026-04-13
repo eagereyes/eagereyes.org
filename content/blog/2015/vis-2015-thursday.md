@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser2.jpg" alt="" width="825" height="510"/></figure>
-
 # VIS 2015 – Thursday
 
 Between the sessions, parties, discussions, running, and the occasional short sleep break, I fell a bit behind on the blogging about [VIS 2015](http://ieeevis.org). After separate postings for [Tuesday](/blog/2015/vis-2015-tuesday) and [Wednesday](/blog/2015/vis-2015-wednesday), this part covers Thursday. The posting about Friday will be short, but squeezing both days into one felt like a bit too much.

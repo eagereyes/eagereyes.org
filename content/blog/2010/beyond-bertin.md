@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/Ziemkiewicz_CGA_2010.png" alt="" width="560" height="152"/></figure>
-
 # Beyond Bertin: Seeing the Forest despite the Trees
 
 Visualization needs a new theory. Bertin's ideas about marks and retinal variables have provided a great starting point, but we are now seeing their limitations. We need to turn a new page and move beyond those cosy, familiar ideas, into new territory. A recent paper by Caroline Ziemkiewicz and myself makes an argument why, and provides some possible directions.

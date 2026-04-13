@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/ishr-dictators-thumb.jpg" alt="Dictators" width="560" height="264"/></figure>
-
 # Democracy, Public Data, and Data.gov
 
 It's not quite the [National Data Agency](/blog/2009/a-national-data-agency) I envisioned earlier this year, but [Data.gov](http://www.data.gov/) is now live. It's a laudable effort, and there is quite a bit of data there, but it's still very labor-intensive to get the data sets and convert them into usable formats. But it's becoming clear that data needs to be shared, and that access to government data will soon be regarded as much as an inherent part of a democracy as free elections.

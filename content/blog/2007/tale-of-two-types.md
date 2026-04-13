@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/salavon_american_varietal_38.jpg" alt="" width="600" height="150"/></figure>
-
 # A Tale of Two Types of Visualization and Much Confusion
 
 The term *visualization* is used to mean different things in different contexts, and even visualization that is based on data can be done for different reasons and with different goals. Mixing up these different types of visualization leads to misunderstandings and confusion. Here is an attempt at teasing apart the two major types of data-based visualization, and understanding the differences.

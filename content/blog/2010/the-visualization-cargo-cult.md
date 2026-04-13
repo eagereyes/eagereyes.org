@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/stock-mountain.jpg" alt="Stock Mountain" width="560" height="300"/></figure>
-
 # The Visualization Cargo Cult
 
 Visualization is not a very clearly defined field. There are many variations, ways of doing it, and ideas around it. That is valuable, because it keeps the field moving and brings in fresh ideas. But it also brings with it people who like using visualization's tools and talk about visualization, but what they are doing is something else. We need to start calling these things what they are: a cargo cult of visualization.

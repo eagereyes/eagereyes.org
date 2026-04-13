@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/11/tapestry-triptych-730x323.jpeg" alt="Tapestry Triptych" width="730" height="323"/></figure>
-
 # Tapestry 2014 Announced
 
 After a very successful [Tapestry conference](/blog/2013/conference-report-tapestry-2013) in February this year, we have been getting a steady stream of questions from people about another event next year. Now we're finally able to announce next year's event. And it will be awesome, again.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2018/05/jason-dykes.jpg" alt="" width="720" height="1015"/></figure>
-
 # Portrait: Jason Dykes
 
 [Jason Dykes](https://www.gicentre.net/jsndyks/) is professor at City University London, where he also co-leads the [giCentre](http://www.gicentre.net/). He straddles the line between cartography and visualization, publishing in both communities and combining ideas from both – which have led to crossover ideas like [spatially-ordered treemaps](http://openaccess.city.ac.uk/536/) and [map lineups](http://openaccess.city.ac.uk/15119/).

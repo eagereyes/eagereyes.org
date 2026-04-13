@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/math.jpg" alt="" width="560" height="389"/></figure>
-
 # VisWeek Preview: InfoVis Theory Workshop and Panel
 
 This year's VisWeek conference has a distinct theory scent. It starts with the workshop, The Role of Theory in Information Visualization on Monday, and ends with a panel on theory on Friday. There is also a related BOF and a paper session at Vis.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/undata-flowers.png" width="497" height="346"/></figure>
-
 # UN Make Large Amounts of Data Available
 
 Data is being set free: the United Nations have started a new website called [UN Data](http://data.un.org/) to share the data collected by a number of UN agencies. 55 million data records are waiting to be explored and visualized. The search interface is very nice and usable, but still lacks power.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/ZIPScribblevsTPC.png" alt="ZIPScribbleMap vs. TPCMap" width="523" height="198"/></figure>
-
 # What Travelling Presidential Candidates Save
 
 An anonymous commenter asked what the savings were of the Travelling Presidential Candidate Map ([ZIPTPCMap](/blog/2006/travelling-presidential-candidate-map)) vs. the [ZIPScribbleMap](/zipscribble-maps/united-states). That was not something I had even thought about, and so the result was quite surprising.

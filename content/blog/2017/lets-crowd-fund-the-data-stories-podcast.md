@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/shutup.jpg" width="720" height="450"/></figure>
-
 # Let’s Crowd-Fund the Data Stories Podcast!
 
 Enrico and Moritz, the two hosts of the [only visualization podcast in the known universe](http://datastori.es/data-stories-crowdfunding/), are trying to crowd-fund their work rather than rely on advertising. If we all chip in a few dollars or euros per show, this will be easy to accomplish.

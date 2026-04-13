@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/02/spelling-teaser.gif" alt="" width="825" height="510"/></figure>
-
 # Spelling Things Out
 
 When visualizing data, we often strive for efficiency: show the data, nothing else. But there can be tremendous value in redundancy to make a point and drive it home. Two recent examples from news graphics illustrate this nicely.

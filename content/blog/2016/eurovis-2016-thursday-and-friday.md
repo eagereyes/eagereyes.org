@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/DSCF2799.jpg" width="825" height="510"/></figure>
-
 # EuroVis 2016, Thursday and Friday
 
 [After Tuesday and Wednesday](/blog/2016/eurovis-2016-tuesday-and-wednesday), EuroVis continued for the rest of the week. There were papers about visualization, interaction, networks, and other stuff, a dinner in a former church, and finally the capstone. 

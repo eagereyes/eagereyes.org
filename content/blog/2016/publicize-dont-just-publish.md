@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/06/how-much-science.png" width="637" height="388"/></figure>
-
 # Publicize, Don't Just Publish!
 
 What does it mean to publish a paper? Is it just to add a bullet point to your CV, or do you want the world to know about your research? What does it mean to publish today? Here are some thoughts and pointers on how to get the word out about the amazing work you do.

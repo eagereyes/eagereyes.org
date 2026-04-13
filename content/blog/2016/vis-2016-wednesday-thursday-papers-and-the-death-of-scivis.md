@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4473.jpg" width="720" height="540"/></figure>
-
 # VIS 2016 – Wednesday, Thursday: Papers and the Death of SciVis
 
 Two more postings about VIS 2016 last week! Wednesday got a lot of us talking, with the Death of SciVis panel. There were also more papers on a variety of topics.

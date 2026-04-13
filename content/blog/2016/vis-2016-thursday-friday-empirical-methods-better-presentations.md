@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/DSCF4512.jpg" width="720" height="540"/></figure>
-
 # VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations
 
 A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/WorstPieChartEver.jpg" alt="Worst Pie Chart Ever" width="500" height="254"/></figure>
-
 # March Chart Madness
 
 Terrible charts seem to be in season. Rarely have I come across so many incredibly bad charts in such a short time: information graphics that don't actually depict data, distorted representations, useless color schemes, and the worst pie chart ever.

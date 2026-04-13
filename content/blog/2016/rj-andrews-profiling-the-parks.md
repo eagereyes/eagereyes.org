@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/Profiling-the-Parks-by-RJ-Andrews_10.jpeg" width="700" height="394"/></figure>
-
 # RJ Andrews' Profiling the Parks
 
 [RJ Andrews](http://www.infowetrust.com/) has created [a great little video about the National Parks in the U.S.](https://www.youtube.com/watch?v=q3zt7BXEMPQ) Have you ever thought about how the different parks compare? Which one is wider, which one is deeper, which one's at higher or lower elevation?

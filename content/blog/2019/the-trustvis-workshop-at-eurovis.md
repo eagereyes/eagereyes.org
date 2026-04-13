@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2019/03/trust-lies.jpg" width="660" height="995"/></figure>
-
 # The TrustVis Workshop at EuroVis
 
 I'm one of the organizers of the new [TrustVis Workshop at EuroVis](https://trustvis.org) this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5!

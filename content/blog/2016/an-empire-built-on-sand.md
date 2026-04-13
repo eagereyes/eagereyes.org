@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/beliv-teaser.jpg" width="720" height="500"/></figure>
-
 # Paper: An Empire Built On Sand
 
 It's not a secret that I think that we need to ask some harder questions about the foundations that we're building visualization on. In a paper to be presented at [the BELIV workshop](http://beliv.cs.univie.ac.at) at VIS next week, I'm making the case for that more extensively than I have so far. The full title of the paper is [*An Empire Built On Sand: Reexamining What We Think We Know About Visualization*](/publications/Kosara-BELIV-2016).

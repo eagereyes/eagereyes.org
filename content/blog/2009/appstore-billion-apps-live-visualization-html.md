@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/billionapps.png" alt="We" width="503" height="140"/></figure>
-
 # AppStore Billion Apps Live Visualization
 
 Apple's AppStore for iPhone and iPod touch is about to sell its billionth application. You can watch [Apple's pretty counter webpage](http://www.apple.com/itunes/billion-app-countdown/), or you can see the downloads piling up and the rate of downloads visualized below. Unlike the [billionth song download](/blog/2006/itunes-billion-song-downloads) a few years ago, this is in (almost) real-time. The collected data and the Python script that generates the images using Google Charts is included.

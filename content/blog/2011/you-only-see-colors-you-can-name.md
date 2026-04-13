@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2011/color-names-teaser.png" width="600" height="200"/></figure>
-
 # You Only See Colors You Can Name
 
 While color is a purely visual phenomenon, the way we see color is not only a matter of our visual systems. It is well known that we are faster in telling colors apart that have different names, but do the names determine the colors or the colors the names? Recent work shows that language has a stronger influence than previously thought.

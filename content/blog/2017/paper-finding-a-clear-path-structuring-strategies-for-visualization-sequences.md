@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/06/Hullman-EuroVis-2017.jpg" width="720" height="408"/></figure>
-
 # Paper: Finding a Clear Path: Structuring Strategies for Visualization Sequences
 
 How should you sequence information in a data story so it makes the most sense? Are some sequences better than others? Does time have to move forward or does it not matter? In [a paper to be published at EuroVis next week](/publications/Hullman-EuroVis-2017), with [Jessica Hullman at UW](http://faculty.washington.edu/jhullman/) and my [Tableau Research colleague Heidi Lam](https://research.tableau.com/user/heidi-lam), we report on a pair of studies that looked into this.

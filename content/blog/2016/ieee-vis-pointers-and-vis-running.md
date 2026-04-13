@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/10/baltimore-teaser.jpg" width="720" height="540"/></figure>
-
 # IEEE VIS Pointers and Running
 
 [VIS](http://ieeevis.org) is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup – plus a reminder to bring your running shoes!

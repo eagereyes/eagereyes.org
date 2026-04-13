@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/nytimes-presidentseconomy.png" alt="NY Times, Can a President Tame the Business Cycle?" width="407" height="170"/></figure>
-
 # NY Times looks at Presidents and the Economy
 
 The New York Times has an interesting interactive visualization on the influence of presidents on the economy. They ask, [Can a President Tame the Business Cycle?](http://www.nytimes.com/interactive/2008/10/18/business/20081019-metrics-graphic.html) The visualization they use is not bad, but would be much more readable if it used a better color scale.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/02/vispipeline-teaser.png" alt="" width="720" height="500"/></figure>
-
 # Encoding vs. Decoding
 
 Visualization techniques encode data into visual shapes and colors. We assume that what the user of a visualization does is decode those values, but things aren’t that simple.

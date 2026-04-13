@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/wtfviz-730x280.jpg" alt="WTFViz" width="730" height="280"/></figure>
-
 # WTFViz, ThumbsUpViz, and HelpMeViz
 
 I have [complained](/blog/2009/a-better-vis-web-community), [repeatedly](/blog/2013/a-lack-of-communication-and-visibility), about the lack of good online resources for visualization; in particular, when it comes to discussion and critical reflection. Also, where can you go to get help with a visualization project? A few recent websites are tackling these issues in different ways.

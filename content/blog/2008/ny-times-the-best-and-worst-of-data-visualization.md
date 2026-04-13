@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2008/nytimes_graphs.png" alt="Recent NYTimes graphs"/></figure>
-
 # NY Times: The Best and Worst of Data Visualization
 
 The New York Times uses some of the best information graphics and visualizations on its web site and in the printed paper. But there is also a strange undercurrent of bad graphics, many of which commissioned from other sources, and often published in the New York Times Magazine. It almost feels like between all the good graphs, they need an outlet for the crazy stuff.

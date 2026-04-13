@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/soiv-teaser.jpg" alt="" width="825" height="510"/></figure>
-
 # The State of Information Visualization, 2015
 
 It seems to be a foregone conclusion that 2014 was not an exciting year in visualization. When we recorded the Data Stories episode looking back at 2014 last week (to be released soon), everybody started out with a bit of a downer. But plenty of things happened, and they point to even more new developments in 2015.

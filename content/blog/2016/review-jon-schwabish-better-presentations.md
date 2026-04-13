@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/11/schwabish-book.jpg" width="720" height="500"/></figure>
-
 # Review: Jon Schwabish, Better Presentations
 
 Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she’d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began).

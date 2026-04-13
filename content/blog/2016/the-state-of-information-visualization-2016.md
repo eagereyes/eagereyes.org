@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/02/dear-data.jpg" width="825" height="510"/></figure>
-
 # The State of Information Visualization, 2016
 
 Oh hello, new year! I almost didn't see you there! Lots of interesting things happened last year: *Dear Data*, deceptive visualization, storytelling research, new tools and ideas, etc. And this year is already shaping up to be quite strong, too.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/beautifulvis.jpg" alt="Beautiful Visualization" width="560" height="220"/></figure>
-
 # Beautiful Visualization
 
 [*Beautiful Visualization*](http://oreilly.com/catalog/0636920000617) is a collection of essays on a wide range of topics in visualization. Don't let the title mislead you: while it has its share of artistic visualization, there is also quite a bit of technical information in there. One of the chapters was written by yours truly.

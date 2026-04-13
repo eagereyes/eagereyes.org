@@ -1,8 +1,3 @@
-
-<figure>
-<img src="https://media.eagereyes.org/media/2026/curious-chipmunk.jpg" alt="A chipmunk looking over the edge of a rock"/>
-</figure>
-
 # A Sign of Life in 2026!
 
 Well look at that, a new blog post! This site has been dormant for a while, but now it's ready to come back.

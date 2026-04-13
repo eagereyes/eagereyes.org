@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/attraction.png" alt="" width="560" height="362"/></figure>
-
 # Laws of Attraction: From Perceived Forces to Conceptual Similarity
 
 Can gravity have an influence on how the data in a chart is perceived? How do different kinds of connections between circles change our perception of the distance between them? And what does that mean for how strongly we perceive them to be connected? We conducted some user studies to find out.

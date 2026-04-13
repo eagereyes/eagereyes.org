@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/01/treisman-teaser.gif" width="825" height="510"/></figure>
-
 # Seminal InfoVis Paper: Treisman, Preattentive Processing
 
 A paper on a specific cognitive mechanism may seems like an odd choice as the first paper in this series, but it is the one that sparked the idea for it. It is also the one that has its 30th birthday this year, having been published in August 1985. And it is an important paper, and could play an even bigger role in visualization if properly understood and used.

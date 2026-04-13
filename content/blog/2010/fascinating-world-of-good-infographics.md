@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/cellphone-call.jpg" alt="How A Cell Phone Call Works" width="560" height="330"/></figure>
-
 # The Fascinating World of (Good) Infographics
 
 Information graphics (infographics) have gotten a bad rep lately because of a sudden wave of badly designed, uninformative graphics. But when they are done right, infographics can be both highly informative and enjoyable to look at and discover. Here are a few recent examples to demonstrate that.

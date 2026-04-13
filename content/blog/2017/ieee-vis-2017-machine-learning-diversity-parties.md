@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/10/vis-party-ibm-2.jpg" width="720" height="480"/></figure>
-
 # IEEE VIS 2017: Machine Learning, Diversity, Parties
 
 I've ignored the major new topic this year so far: machine learning. Another new thing this year, though way overdue, was that we finally started to talk about diversity. And then there were the parties.

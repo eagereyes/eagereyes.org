@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/09/brainsplode-big.jpg" width="755" height="600"/></figure>
-
 # Vis Potpourri, September 2017
 
 A potpourri is a collection of spices and plants that create a pleasant aroma together. This new series assembles a list of links to recently interesting things in visualization, from both information visualization (InfoVis, which I normally cover on this site) and scientific visualization (SciVis) – the latter covered by new blog collaborator and medical visualization assistant professor, [Noeska Smit](http://noeskasmit.com). 

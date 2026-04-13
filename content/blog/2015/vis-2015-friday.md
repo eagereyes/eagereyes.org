@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/11/vis-thu-teaser.jpg" alt="" width="825" height="510"/></figure>
-
 # VIS 2015 – Friday
 
 The final day of the conference was much shorter, only one full session and then the closing with the capstone. Here is a report on a few more papers, the capstone, a panel left over from Thursday, and a few random tidbits.

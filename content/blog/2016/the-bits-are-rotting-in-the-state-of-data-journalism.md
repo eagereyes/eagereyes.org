@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/07/bitrot-teaser.png" width="825" height="510"/></figure>
-
 # The Bits Are Rotting in the State of Data Journalism
 
 News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today.

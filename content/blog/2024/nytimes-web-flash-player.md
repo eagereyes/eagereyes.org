@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2024/01/turning-corner.png" alt="screenshot of the last step of the NY Times pieces titled, Turning A Corner" width="646" height="485"/></figure>
-
 # The New York Times now has a web Flash player
 
 Before we had D3 and all this fancy web technology, interactive news pieces on the web were usually built using Adobe Flash. Some of my favorite news graphics are from that era, and when I talk about them I like to joke that _they're so old they were done in Flash_ (a joke that dates me as much as it dates these news graphics)!

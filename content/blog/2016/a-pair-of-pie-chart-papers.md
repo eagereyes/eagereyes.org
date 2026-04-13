@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/05/pie-package-teaser.png" alt="" width="825" height="510"/></figure>
-
 # A Pair of Pie Chart Papers
 
 How do we read pie charts? Do they differ from the even more reviled donut charts? What about common pie chart designs like exploded pies? In two papers to be presented at [EuroVis](http://eurovis.org/) next week, Drew Skau and I show that the common wisdom about how we read these charts (by angle) is almost certainly wrong, and that things are much more complicated than we thought.

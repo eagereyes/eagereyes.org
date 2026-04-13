@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2015/05/embellishments-teaser.jpg" alt="" width="825" height="467"/></figure>
-
 # Paper: An Evaluation of the Impact of Visual Embellishments in Bar Charts
 
 Information graphics often use variations and embellishments of standard charts that may distort the way people read the data. But how bad are these distortions really? In [a paper to be presented](/publications/Skau-EuroVis-2015) at [EuroVis](http://www.eurovis2015.it) this week, Drew Skau, Lane Harrison, and I tested their effects in an experiment.

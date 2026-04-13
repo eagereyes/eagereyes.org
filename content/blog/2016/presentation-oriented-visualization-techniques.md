@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg" width="850" height="745"/></figure>
-
 # Paper: Presentation-Oriented Visualization Techniques
 
 Presentation is often considered a part of visualization, but what does that mean for the kinds of techniques we use? Are they the same as used for analysis? What criteria should we use to pick them? In a new paper, I discuss a class of techniques I call *presentation-only*.

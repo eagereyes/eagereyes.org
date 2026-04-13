@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/parsets-release.png" alt="Parallel Sets Release Party" width="574" height="301"/></figure>
-
 # Parallel Sets Released!
 
 After [an initial commitment](/blog/2009/a-spike-of-interest-in-parallel-sets), [an announcement](/blog/2009/parallel-sets-release-date), and [a delay](/blog/2009/parsets-delay), we are proud to announce that the [Parallel Sets](/parallel-sets) application has been released! Mac OS X and Windows versions are ready to be downloaded, and the source code is available for your enlightenment and/or entertainment.

@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/01/zipscribble-us-interactive.png" alt="" width="600" height="390"/></figure>
-
 # An Interactive Version of the ZIPScribble Map
 
 For more than five years, the [ZIPScribble Map](/zipscribble-maps) and its related pages have been the most popular feature on my website. To freshen things up a bit, I am adding [an interactive version that runs in your browser](/zipscribble-maps/interactive-zipscribble-map). I have also added a few more countries, for a new total of 38.

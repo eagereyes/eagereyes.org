@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/parsets-2.1-teaser.png" alt="Parallel Sets 2.1" width="560" height="243"/></figure>
-
 # Parallel Sets 2.1 Released
 
 We are happy to announce the release of [Parallel Sets 2.1](/parallel-sets). The new version fixes a number of bugs and introduces a few new features. The biggest changes are under hood, with a new database model that can now handle much more complex datasets (in terms of number of dimensions and categories), and the new streaming import can load in datasets with a much larger number of records. We have also added a way to automatically sort categories by name and size, a screenshot function, and more. Upgrading is strongly recommended.

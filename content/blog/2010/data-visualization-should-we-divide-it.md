@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/roadtoC.jpg" alt="Road to Copenhagen (detail)" width="560" height="332"/></figure>
-
 # Data Visualization: Should We Divide It?
 
 For some time now there has been some discussion about finding a new terminology for the Data Visualization field. The intention is to find names that reflects the two main different directions that are seen today on Dataviz: *visual data analysis* and *data driven aesthetics images*. The concern is that Data Visualization might lose its ‘serious’ role as an analytic tool by including works that, without doubt, praise aesthetics before clarity.
