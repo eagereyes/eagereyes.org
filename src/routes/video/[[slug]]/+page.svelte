@@ -22,11 +22,15 @@
 <div class="video-page">
     <h1>{data.video.title}</h1>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/{data.video.ytslug}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <div class="video-embed">
+        <iframe src="https://www.youtube-nocookie.com/embed/{data.video.ytslug}" title={data.video.title} frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
     <p><em>{data.video.description}</em></p>
 
+    {#if data.video.blogpost}
     <p>See also <a href="{data.video.blogpost}">the related blog post</a>!</p>
+    {/if}
 </div>
 {:else}
 
@@ -38,6 +42,25 @@
 {/if}
 
 <style>
+    .video-page {
+        max-width: 48rem;
+        margin: 2rem auto 0;
+        width: 100%;
+    }
+
+    .video-embed {
+        aspect-ratio: 16 / 9;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+
+    .video-embed iframe {
+        width: 100%;
+        height: 100%;
+        display: block;
+        border-radius: 4px;
+    }
+
     .video-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
