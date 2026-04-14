@@ -1,7 +1,3 @@
----
-description: About this site and its author, Robert Kosara. Also how to contact Robert, how to subscribe, content license, and legal disclaimer.
----
-
 # About EagerEyes
 
 EagerEyes is Robert Kosara’s place to reflect on the world of information visualization and visual communication of data. The goal is to help digest things that are happening in the field and discuss new developments. The audience has always been both the academic community and anybody with an interest in visual communication with data: practitioners, artists, designers, etc.
