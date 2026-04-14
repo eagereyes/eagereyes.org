@@ -1,5 +1,3 @@
-# Tableau Desktop Now Free For University Students
-
 If you are a student at a university, you can now get a [free license for the full version of Tableau Desktop](http://tableausoftware.com/freeforstudents). No matter if you use it in class or for research, this is the full version that does not restrict the amount of data or the kind of connectivity (like [Tableau Public](http://www.tableausoftware.com/products/public) does). The license is good for one year and can be renewed as long as you are enrolled at university.
 
 This has been in the works for a while, and I'm very happy to finally see it happen. Tableau's roots are in academia, so it only makes sense to make it available to students and faculty. There was a poorly advertised way of getting a discounted version of Tableau before, but that still cost a bit of money and required you to jump through some hoops. The new program asks you a minimum of information for verification, and is automated, so in most cases you will get your license within minutes. This is not restricted to the U.S. either, though verification can take a bit longer in that case.

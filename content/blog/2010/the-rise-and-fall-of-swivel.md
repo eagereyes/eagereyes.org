@@ -1,5 +1,3 @@
-# The Rise and Fall of Swivel.com
-
 <figure><img src="https://media.eagereyes.org/media/2010/minor-swivel.png" alt="Swivel is about data" width="560" height="232"/></figure>
 
 Earlier this summer, the visualization website Swivel.com disappeared from the internet. To find out what happened, I tracked down and interviewed Swivel's two founders, Brian Mulloy and Dmitry Dimov (I also did [a follow-up with VC Halsey Minor](/blog/2010/swivel-part-2-solving-a-single-problem)).

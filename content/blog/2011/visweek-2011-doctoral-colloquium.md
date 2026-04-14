@@ -1,5 +1,3 @@
-# VisWeek 2011 Doctoral Colloquium
-
 The deadline for the VisWeek 2011 Doctoral Colloquium is only a few days away! This is your chance to get your work reviewed and discussed in detail by some of the most experienced researchers in information visualization, scientific visualization, or visual analytics. There is also a stipend to help with your conference registration and travel costs.
 
 ## What

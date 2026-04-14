@@ -1,5 +1,3 @@
-# The State of Information Visualization, 2012
-
 Another year has come and gone, and many exciting things have happened in information visualization. Here is a look back at some interesting events from last year, as well as what I expect for 2012 and the next few years.
 
 ## 2011: What Was

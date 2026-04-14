@@ -1,5 +1,3 @@
-# When Informative Art Isn't
-
 <figure><img src="https://media.eagereyes.org/media/attachments/Skogetal-buses.png" alt="Two bus lines - Skog et al, InfoVis 2003" width="538" height="210"/></figure>
 
 Making visualization more aesthetically pleasing is certainly an important goal. Another one is to make visualization a part of our everyday lives. Ambient information displays are a way of doing both, and they are often inspired by pieces of art. But what if the viewers think they are just looking at a picture, and don't realize that it presents information to them?

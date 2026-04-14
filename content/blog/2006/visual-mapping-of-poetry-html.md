@@ -1,5 +1,3 @@
-# The Visual Mapping of Poetry
-
 Visualization people often talk about *mapping*. Mapping is the process that translates data into a visual representation, and the main challenge in the visualization of abstract data. A good mapping is one that leads to insights into the data, while a bad mapping does not. It is important, however, to keep in mind what the purpose of the depiction is, or one runs the risk of applying the wrong standards.
 
 Enrico Bertini [criticized the following image](http://diuf.unifr.ch/people/bertinie/visuale/2006/11/visual_poetry_mimicking_textar_1.html) for being a bad visualization on his [Visuale Blog](http://diuf.unifr.ch/people/bertinie/visuale/):

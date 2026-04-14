@@ -1,5 +1,3 @@
-# More ZIPScribble Maps: AT, AU, CA, CH, DE, ES, FR, HU, IT, NL, NO, SE
-
 The family of [ZIPScribble Maps](/app/zipscribble-map) is growing. This update adds maps for a dozen countries, most of them European.
 
 The data for countries other than the US is hard to obtain, and were it not for the tremendous effort the folks at [geonames.org](http://geonames.org/) put into collecting it, these maps would not have been possible. That data is somewhat less reliable than the US one – having said that, however, [Marc](http://www.monte-bre.ch/) (the guy behind geonames.org) has been extremely responsive and fixed several problems that became apparent when drawing the maps. Misplaced points and mismatched names become quite apparent when a line is protruding into another state or province, or far into the ocean. So these maps actually have some use, after all. The shape data for drawing country outlines was obtained from [VDSTech](http://www.vdstech.com/map_data.htm), but there seem to be many other sources for them.

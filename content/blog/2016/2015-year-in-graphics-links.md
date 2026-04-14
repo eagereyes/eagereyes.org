@@ -1,5 +1,3 @@
-# 2015 Year in Graphics Links
-
 A bit late, but here are links to a few round-ups of graphical journalism work from last year. These are always worth a look, no matter what time of year.
 
 - *Bloomberg, *[2015 in Graphics](http://www.bloomberg.com/graphics/2015-in-graphics/)

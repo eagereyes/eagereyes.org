@@ -1,5 +1,3 @@
-# Five Years of EagerEyes
-
 In dog years, this website is now (almost) as old as I am. Over the years, it has changed both its direction and design several times; there have been times when I was overwhelmed with my readers' reactions and times when nobody seemed to read the stuff I wrote. While I generally hate “best of” postings and indulging in nostalgia, I want to look back at a few of the things that I believe have shaped this site and how I think about what I'm doing, and revisit a few of the more interesting and/or successful things I've managed to do and write over the years.
 
 ## Criticism

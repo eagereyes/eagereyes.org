@@ -1,5 +1,3 @@
-# Expressive Visualization, Updated Presidents Chart
-
 I used the [Presidential Demographics](/blog/2007/presidential-demographics) chart in my talk at the [Impact of Social Data Visualization](/blog/2007/panel-social-data-visualization) panel at [InfoVis 2007](/blog/2007/infovis-2007-infovis-for-the-masses), and got some interesting responses to that. There is some interest in printing this out, so I have made a new version of the chart that is now also [available as a PDF](/blog/2007/infovis-2007-infovis-for-the-masses). Stephen Few used Joseph Berk's term "interocular traumatic impact" – a visualization that hits you between the eyes – to describe it. And this is exactly what visualization can do extremely effectively: visual communication, and not just of data.
 
 Visualization can tell a story, just like a comic/graphic novel or a silent movie can. Expressive visualization takes the idea of visualization as visual communication further, and uses almost exclusively visual means to make a point. And it doesn't even have to be dumbed down or prettied up for that purpose: a simple chart can be much more effective in delivering such a message.

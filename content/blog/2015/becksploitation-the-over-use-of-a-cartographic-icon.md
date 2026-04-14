@@ -1,5 +1,3 @@
-# Link: Becksploitation: The Over-Use of a Cartographic Icon
-
 The paper [*Becksploitation: The Over-Use of a Cartographic Icon* by Kenneth Field and William Cartwright](http://www.maneyonline.com/doi/abs/10.1179/0008704114Z.000000000150) ([free pre-print PDF](https://drive.google.com/file/d/0B74oo5QGpleoVi1Ya1hTNms4REE/view?usp=sharing)) in *The Cartographic Journal* describes Harry Beck's famous map of the London Underground and what makes it great. It also offers a collection of misuses of the superficial structure, and critiques them. I wish we'd had papers (and titles!) like this in visualization.
 
 The paper is available online for free for the next twelve months, along with [a selection of other *Editor's Choice* papers](http://www.maneyonline.com/action/showMostReadArticles?journalCode=CAJ#97f82663-59b5-4d49-bbef-7ae8d9060d91-753f8c65-32d3-490a-a727-8e09499b383c) (including [Jack van Wijk's *Myriahedral Projections*](http://www.maneyonline.com/doi/abs/10.1179/000870408X276594) paper – [watch the video](https://www.youtube.com/watch?v=TMKaxQvJQp4) if you haven't seen it).

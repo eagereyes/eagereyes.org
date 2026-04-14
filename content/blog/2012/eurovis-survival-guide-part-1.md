@@ -1,5 +1,3 @@
-# A EuroVis Survival Guide, Part 1
-
 [EuroVis 2012](http://eurovis.org/) is only about six weeks away, so if you haven't booked your travel or hotel, now is the time. Here are a few pointers on where to stay, transportation options in Vienna, etc.
 
 [<img src="https://media.eagereyes.org/wp-content/uploads/2012/04/eurovis-2012.png" alt="" width="600" height="165"/>](http://eurovis.org/)

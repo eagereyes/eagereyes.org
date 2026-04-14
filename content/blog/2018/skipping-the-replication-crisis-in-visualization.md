@@ -1,5 +1,3 @@
-# Paper: Skipping the Replication Crisis in Visualization
-
 Visualization doesn't have the replication issues that some other fields are struggling with right now, but is that because our science is so strong or because nobody actually bothers with replications? And what can we do to get ahead of potential problems before we run into a full-on crisis? In a paper to be presented at BELIV, Steve Haroz and I list potential pitfalls and present possible solutions.
 
 Replication is a part of the scientific process, and in some of the more established sciences like physics, it's a given that any single finding needs to be repeated by others before it is accepted. Over the last few years, researchers in fields like psychology have found that they were unable to produce similar results when repeating experiments, leading to what is called the *replication crisis*: if many studies only produced an effect once, how much of what we think is true is just due to chance or mistakes (to say nothing of data manipulation or fraud)?

@@ -1,5 +1,3 @@
-# Paper: Privacy-Preserving Visualization
-
 The point of visualization is usually to reveal as much of the structure of a dataset as possible. But what if the data is sensitive or proprietary, and the person doing the analysis is not supposed to be able to know everything about it? In a paper to be presented [next week at InfoVis](http://visweek.org/visweek/2011/paper-session/all/infovis), my Ph.D. student Aritra Dasgupta and I describe the issues involved in privacy-preserving visualization, and propose a variation of [parallel coordinates](/techniques/parallel-coordinates) that controls the amount of information shown to the user.
 
 ## Naive Approaches

@@ -1,5 +1,3 @@
-# Visualization is Growing Up
-
 Several topics at this year's VisWeek conference have come up because visualization is playing a bigger role in important decisions. When the consequences can be severe, it is important to know whether a visualization actually works, whether we can trust it, and what biases it might present.
 
 ## Verification and Validation

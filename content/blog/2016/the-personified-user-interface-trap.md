@@ -1,5 +1,3 @@
-# The Personified User Interface Trap
-
 Personified user interfaces, like chat bots or agents, are the new thing once again. But despite advances in artificial intelligence, they still have many issues and drawbacks compared to direct-manipulation interfaces. There was a debate around these interfaces in the 1990s, and it seems to be bound to repeat itself.
 
 In the last few weeks, Facebook unveiled a new push to use [chat bots on Messenger](http://newsroom.fb.com/news/2016/04/messenger-platform-at-f8/), and Microsoft has a [new platform for building bots](http://arstechnica.com/information-technology/2016/03/microsofts-new-ai-tools-help-developers-build-smart-apps-and-bots/). These bots are supposed to be the new way of doing everything, from delivering news (like [Quartz' recent iPhone app](http://qz.com/613700/its-here-quartzs-first-news-app-for-iphone/)) to letting you order pizza, flowers, and everything else.

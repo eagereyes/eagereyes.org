@@ -1,5 +1,3 @@
-# How The Rainbow Color Map Misleads
-
 Colors are perhaps the visual property that people most often misuse in visualization without being aware of it. Variations of the rainbow colormap are very popular, and at the same time the most problematic and misleading.
 
 The rainbow color map is based on the colors in the light spectrum, and is sometimes done correctly, sometimes the colors are in the wrong order. Quick, name the colors in the rainbow in order! See, that's part of the problem. Even if they were used consistently, nobody would know the right sequence anyway. Here is an image to jog your memory, [courtesy of Wikipedia](https://en.wikipedia.org/wiki/Rainbow).

@@ -1,5 +1,3 @@
-# Four Values Can Still Be Worth A Chart
-
 A while ago, [Kaiser Fung criticized a chart](http://junkcharts.typepad.com/junk_charts/2012/12/four-numbers-say-little-even-on-a-busy-chart.html) for its uselessness because it only showed four numbers. The chart appeared on the smart web comic [Abstruse Goose](http://abstrusegoose.com/) (which, as of this writing, is down for a site reorganization).
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/12/perception-abstrusegoose.png" alt="Perception, from Abstruse Goose" width="744" height="623"/></figure>

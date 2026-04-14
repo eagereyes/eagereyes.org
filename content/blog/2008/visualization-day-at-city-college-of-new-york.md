@@ -1,5 +1,3 @@
-# Visualization Day at City College of New York
-
 The City College of New York will be hosting a [visualization day](http://www-cs.ccny.cuny.edu/general/VisualizationDay.htm) on April 30, with a very interesting line-up of speakers: [Ben Shneiderman](http://www.cs.umd.edu/~ben/) (who is also listed as a sponsor), [Matthew Ericson](http://ericson.net/home/index.php) (NY Times), [Catherine Plaisant](http://www.cs.umd.edu/hcil/members/cplaisant/) (University of Maryland), [Martin Wattenberg](http://bewitched.com/) (IBM/Many Eyes), and others.
 
 Of course, this reminds of my own plans for not just a local, but a [world visualization day](/blog/2007/we-need-a-world-visualization-day). That one is on hold for the moment, but I hope to have some news in the near future. I have been asked about it by several people recently, and I am still convinced that there is a need for such an event. More to come soon ...

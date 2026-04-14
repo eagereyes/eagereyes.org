@@ -1,5 +1,3 @@
-# Talk: How to Visualize Data
-
 Last week, I gave one of the visualization primer talks at [BioVis](http://biovis.net) in Dublin. My goal was to show people some examples, but also criticize the rather poor visualization culture in bioinformatics and challenge people to do better. Here is a write-up of that talk.
 
 Seán O’Donoghue introduced me by calling me “infamous” for speaking my mind and criticizing things, which was the perfect setup for my talk. I had originally planned a more academic talk about data mapping etc., but I think this will have more impact in the end. Also, it was more fun to prepare and deliver.

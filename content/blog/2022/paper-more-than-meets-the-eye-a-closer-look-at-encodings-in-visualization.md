@@ -1,5 +1,3 @@
-# Paper: More Than Meets the Eye: A Closer Look at Encodings in Visualization
-
 Encodings play a central role in visualization, but I believe our thinking about them is too simplistic. In a new paper, I argue that we need to distinguish between the encodings that specify how a visualization is drawn and the ones that are readable or actually read by an observer. While they largely or entirely overlap in some charts (like bar charts or scatterplots) they don't in others (pie charts, line charts, etc.). And what exactly do you even specify in more complex visualizations like treemaps?
 
 Encodings are deceptively simple, once you've learned what they are. After all, they're what you see when you look at a chart, right? Well, it's not so easy. I keep harping on how we don't know how pie charts are read, and I've summarized the issue in this figure from the paper.

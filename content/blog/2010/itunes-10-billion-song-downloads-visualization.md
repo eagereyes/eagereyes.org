@@ -1,5 +1,3 @@
-# iTunes Ten Billion Song Downloads Visualization
-
 <figure><img src="https://media.eagereyes.org/media/2010/iTunes10billion-teaser.png" alt="iTunes10billion-teaser" width="522" height="175"/></figure>
 
 Apple's iTunes Store is [counting down](http://www.apple.com/itunes/10-billion-song-countdown/) to the ten-billionth (10,000,000,000th) song download. As in [previous](/blog/2006/itunes-billion-song-downloads) [cases](/blog/2009/appstore-billion-apps-live-visualization-html) when they were running a download counter on their website, I am harvesting the data and visualizing it below.

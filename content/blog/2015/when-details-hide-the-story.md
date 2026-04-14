@@ -1,5 +1,3 @@
-# When Details Hide the Story
-
 [Kaiser Fung doesn't like this graphic](http://junkcharts.typepad.com/junk_charts/2015/10/is-it-worth-the-drama.html) that accompanied a [recent story about the bird flu in the Wall Street Journal](http://www.wsj.com/articles/u-s-readies-for-a-return-of-bird-flu-1444665965). His redesign shows a lot less overlap and a lot more detail; so much, in fact, that it obscures the point of the chart.
 
 Here is the offending graphic. The overlapping circles are hard to read with any precision and are hiding information. It's a pretty dramatic chart though, with the color choice reinforcing that something severe is happening.

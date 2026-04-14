@@ -1,5 +1,3 @@
-# Tableau Public
-
 With all the data that is now available, more powerful tools are needed to make more sense of it. [Tableau Public](http://www.tableausoftware.com/public/) provides some of the most powerful visualization tools available today, and it's free to use with public data.
 <!--break-->
 

@@ -1,5 +1,3 @@
-# A Guide to the Quality of Different Visualization Venues
-
 I recently got an email from a colleague, with the subject, “Academic research is it all bad?” He had looked at a paper presented at a VIS workshop that people were pointing to on Twitter, and had found it lacking (“it’s just a blog posting”). While there are high-quality venues for visualization research, it’s not easy to be sure which ones are good, and which ones are lower quality.
 
 ## Journals vs. Conferences

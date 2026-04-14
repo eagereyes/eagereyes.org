@@ -1,5 +1,3 @@
-# A Few VisWeek Pointers
-
 What good is a blog if it doesn’t serve the noble goal of self-promotion? Here are a few pointers to papers I’m involved in at VisWeek, as well a job posting that’s kind of my fault.
 
 ## Papers

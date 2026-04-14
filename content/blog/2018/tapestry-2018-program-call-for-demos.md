@@ -1,5 +1,3 @@
-# Tapestry 2018 Program, Call for Demos
-
 The Tapestry 2018 program is complete, including the three keynotes and eight newly-added short stories. We are now looking for proposals for demos and will send out a call for PechaKucha-style talks to attendees soon, too.
 
 You can find the full program on the [Tapestry website](http://www.tapestryconference.com). I've [mentioned the keynotes before](/blog/2018/tapestry-2018-details-and-keynote-speakers) (Mona Chalabi of the Guardian, Matthew Kay of the University of Wisconsin, and Elijah Meeks of Netflix).

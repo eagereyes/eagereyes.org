@@ -1,5 +1,3 @@
-# ISOTYPE Book: Mackenzie, The Vital Flame
-
 The first book in the [new series on ISOTYPE books](/tag/isotope-books) is *The Vital Flame* by Compton Mackenzie, published by The British Gas Council in 1947. It contains 42 color photographs and five ISOTYPE charts, with a nice variety of different topics and styles.
 
 ## A Bit of Context

@@ -1,5 +1,3 @@
-# eagereyesTV: Index Charts, Part 1: Making Time Series Data Comparable
-
 To show change over time, you typically use a line chart. But when you’re comparing time series whose values are very different, the differences between the lines can obscure the changes within them. Index charts can help with that. They align values to a reference, or fold the time axis on itself, or even do both.
 
 In this video, I'm talking about indexing on the vertical, or value, axis. I'm showing a few examples, including housing prices and the Case-Schiller Home Prince Index, but also climate data and retail sales during the current economic downturn. I'll do a second part about indexing on the time axis (which is more fun) in a couple of weeks.

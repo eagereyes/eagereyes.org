@@ -1,5 +1,3 @@
-# Meet the New Logo and Theme!
-
 This site has gone through many different looks and designs. I haven't kept count, but I'd be surprised if it was fewer than ten. So far, they have all either been off-the-shelf generic designs or ones I had created myself. For its tenth birthday, I decided to splurge and get eagereyes a complete makeover: a new theme and a real, custom logo.
 
 ## The Logo

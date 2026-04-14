@@ -1,5 +1,3 @@
-# VIS 2015 – Tuesday
-
 IEEE VIS 2015 started today. The first sessions included network visualization and projections, as well as a panel on the use of color in visualization.
 
 As usual, this is very selective: only the things I happened to see, and of those only the ones I felt strongly enough to mention here. You can follow the conference under the <span class="externalcitation">[#IEEEVIS hashtag on Twitter](https://twitter.com/hashtag/ieeevis)</span>, though that is also biased towards InfoVis and VAST. I haven’t heard a peep from the SciVis cave.

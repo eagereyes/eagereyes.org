@@ -1,5 +1,3 @@
-# Paper: ISOTYPE Visualization – Working Memory, Performance, and Engagement with Pictographs
-
 Unit charts are not common in visualization, and they are often considered a bad idea. The same is true for using shapes other than rectangles. Neither is based on much actual research, however. In a new paper, we look at the specific example of ISOTYPE-style charts – and find them to be quite effective.
 
 [I have written about ISOTYPE before](/techniques/isotype): Otto and Marie Neurath developed the idea in the 1920s, Gerd Arntz created the iconic shapes. Neurath's idea was to communicate facts about the world in terms of numbers that would be easy to understand. The charts they produced showed data like the kinds of technology used by people (radio receivers, cars, telephones), changes in the way people worked through the course of the industrial revolution, etc.

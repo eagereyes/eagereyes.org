@@ -1,5 +1,3 @@
-# How Do We Know That? – Video of My Talk at UW
-
 I gave a talk at the University of Washington a few weeks ago. This is an extended version of [my BELIV paper *An Empire Built on Sand*](/blog/2016/an-empire-built-on-sand) from last year, with more examples and a lot more jokes. You'll learn about various things we know and don't know about visualization, and also whether spinach and carrots actually are good for you.
 
 <iframe src="https://player.vimeo.com/video/209294413?portrait=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

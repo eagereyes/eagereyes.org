@@ -1,5 +1,3 @@
-# The Value of Illustrating Numbers
-
 Showing data isn't always about trying to convey an insight, or giving people the means to understand the intricacies of data. It can also be a tool to communicate a fact, an amount, or an issue beyond just the sheer numbers. Data illustration is poorly understood, but it can be very powerful.
 
 About a year ago, I had a Twitter conversation with [Stefanie Posavec](http://www.stefanieposavec.co.uk) about the difference between data visualization and data illustration. We ended up with [a sort of definition](https://twitter.com/eagereyes/status/443790466970963969).

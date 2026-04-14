@@ -1,5 +1,3 @@
-# The State of Information Visualization
-
 Information Visualization (InfoVis) is an exciting field to watch grow and expand into ever new areas. Last year brought some interesting developments that point towards changes in how we do and see visualization. What does 2010 hold in store? Here is a look back and some ideas where we're heading.
 
 ## 2009: What Was

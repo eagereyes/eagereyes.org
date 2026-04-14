@@ -1,5 +1,3 @@
-# Review: Alberto Cairo, How Charts Lie
-
 Alberto Cairo’s new book, *[How Charts Lie](http://www.thefunctionalart.com/p/reviews.html)*, takes readers on a tour of how charts are used and misused, and teaches them how to not be misled. It’s a useful book for both makers and consumers of charts, in the news, business, and pretty much anywhere else.
 
 When Alberto started talking about the title on Twitter, he got [some pushback from academics](https://twitter.com/jdfaviz/status/1115274913756139520?s=20). Are you saying that all charts lie? Will people read it as such? Isn’t it too negative to lead with the fact that they lie? Etc.

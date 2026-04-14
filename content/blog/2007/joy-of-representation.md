@@ -1,5 +1,3 @@
-# The Joy of Representation
-
 <figure><img src="https://media.eagereyes.org/media/attachments/kaboom.jpg" alt="Kaboom! by PES" width="600" height="221"/></figure>
 
 When peanuts are bombs, clown-shaped cake ornaments are muzzle fires, and young guys are skateboards, we are talking about representation. We take it for granted that words can refer to things or abstract concepts, and colored spots on a piece of paper can depict data. Representation is really quite remarkable, and a better understanding of it will make a big difference in how we build visualizations.

@@ -1,5 +1,3 @@
-# VIS 2014 – Tuesday
-
 The big opening day of the conference, Tuesday, brought us a keynote, talks, and panels. Also, a new trend I really like: many talks end with the URL of a webpage that contains a brief summary of the paper, the PDF, and often even a link to the source code of the tool they developed.
 
 ## Opening

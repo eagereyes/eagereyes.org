@@ -1,5 +1,3 @@
-# Stacked Bars Are the Worst
-
 Bar charts are great. They always work. They're always the safe choice. Right? Well, no. Stacked bar charts are deceiving because we think they work just like regular bars, when they're really pretty terrible.
 
 ## Some Examples

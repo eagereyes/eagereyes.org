@@ -1,5 +1,3 @@
-# ISOTYPE Book: Priestley, British Women Go To War
-
 This is perhaps the oddest book with an ISOTYPE illustration, certainly of the ones I have seen so far. It also contains the most confusing chart produced by the ISOTYPE Institute I am aware of.
 
 ## The Book

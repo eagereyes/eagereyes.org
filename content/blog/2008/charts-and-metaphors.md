@@ -1,5 +1,3 @@
-# Charts and Metaphors
-
 What do pies, waffles, and donuts have in common? They're charts, or rather metaphors for popular charts. Why do we need to name charts after food? And what can we learn from this for getting the idea of visualization across more effectively?
 
 The heatmap is another example. As I [learned recently](/blog/2008/ethics-of-business-presentations), people like to call treemaps "heatmaps." And perhaps they're not even that far off, given that most of these are based on entirely flat data, anyway. And a heatmap is easy to understand: it's a map. It shows where it's hot. We're looking for the hot spots. What's hard about that? A treemap on the other hand looks nothing like a tree, and when it's actually showing a hierarchy, it gets confusing.

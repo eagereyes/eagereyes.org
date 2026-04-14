@@ -1,5 +1,3 @@
-# Putting Data Into Context
-
 Raw numbers are easy to report and analyze, but without the proper context, they can be misleading. Is the effect you're seeing real, or a simple result of the underlying, obvious distribution? Too many analyses and news stories end up reporting things we already know.
 
 This is a particular issue with data that has a spatial component. When the data is shown on the inevitable map, you often just see a distribution of people. Where there are more people, there are more tweets, there's more crime, there are more customers, there are more coffee shops, etc. Many maps in fact show nothing but the underlying distribution of people. As usual, xkcd has captured the issue beautifully.

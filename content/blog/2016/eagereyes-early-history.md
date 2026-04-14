@@ -1,5 +1,3 @@
-# Eagereyes' Early History
-
 Just ahead of the first decade of this website's history clicking over, here's a look back at where things started. Some of those postings were terrible, some of them were quite prescient or are even still popular.
 
 This is partly why I created the [interactive posting calendar](/app/blog-calendar). It makes it easy browse postings just by mousing over, especially those early ones (clicking opens them in a new tab).

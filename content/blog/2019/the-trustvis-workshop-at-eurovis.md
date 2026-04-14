@@ -1,5 +1,3 @@
-# The TrustVis Workshop at EuroVis
-
 I'm one of the organizers of the new [TrustVis Workshop at EuroVis](https://trustvis.org) this year. We haven't done a good publicizing its existence, so here is a reminder and a deadline extension: submit your papers on trust in visualization until April 5!
 
 So it's not entirely new, you may remember the EuroVis Workshop on Replicability, Validation, and Verification in Visualization, better known under its highly euphonic acronym, EuroRVVV.

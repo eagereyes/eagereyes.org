@@ -1,5 +1,3 @@
-# The Two-Paper Package
-
 Much of academic work is focused on writing papers. This doesn't just include the work that goes into the research and the writing, but also strategy – beyond the single paper. Here is one that worked. Even if it's a bit coincidental, I think it's a good model for other papers.
 
 It's fairly unusual to talk about paper strategy, in particular when it fails. I had a little spiel at the beginning of a EuroVis talk last year where I described the tortured history of [a paper](/publications/Dasgupta-EuroVis-2015) we had first submitted to EuroVis 2012, which then went through several different journals and conferences, to finally end up at EuroVis 2015. That somebody would openly talk about that seemed to surprise people.

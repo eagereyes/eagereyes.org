@@ -1,5 +1,3 @@
-# What is Visualization? A Definition
-
 What is a visualization? The word is problematic, and there have been very few definitions that try to define this field we are working in. More importantly: what is not a visualization? It is easy to argue that anything visual is a visualization in some way – but does that mean anything? Here is a definition of visualization and a few examples to illustrate the different criteria.
 
 ## Definition

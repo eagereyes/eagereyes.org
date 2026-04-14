@@ -1,5 +1,3 @@
-# A Sign of Life in 2026!
-
 Well look at that, a new blog post! This site has been dormant for a while, but now it's ready to come back.
 
 The short version is that I've created a new static site for it that's more modern and hopefully easier to navigate. It also makes it a lot easier to build new sections and add interactive pages and little apps.

@@ -1,5 +1,3 @@
-# Where Infographics Are Going
-
 [At their best](/criticism/fascinating-world-of-good-infographics), information graphics can be informative, exciting, and attractive. At their worst, they can be misleading, overdesigned, and empty. Infographics are still in their infancy, with a lot of untapped potential. Ideas from visualization can help figure out a future that is much more exciting.
 
 Imagine a slider to control the amount of decoration in an infographic: 0 for no decoration, 1 for the maximum amount possible. Most current infographics are close to 1, with a lot decoration applied. For an infographic to be interesting and compelling, there is clearly a minimum of decoration that is necessary. However, I believe that much of it is gratuitous and unnecessary, and not only distracts from the message, but undermines it.

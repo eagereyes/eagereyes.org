@@ -1,5 +1,3 @@
-# EuroVis 2016, Thursday and Friday
-
 [After Tuesday and Wednesday](/blog/2016/eurovis-2016-tuesday-and-wednesday), EuroVis continued for the rest of the week. There were papers about visualization, interaction, networks, and other stuff, a dinner in a former church, and finally the capstone. 
 
 ****First a little update: you can now [watch Anders Ynnerman's epic keynote](https://vimeo.com/groups/383543/videos/169967499).

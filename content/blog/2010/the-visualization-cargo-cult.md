@@ -1,5 +1,3 @@
-# The Visualization Cargo Cult
-
 Visualization is not a very clearly defined field. There are many variations, ways of doing it, and ideas around it. That is valuable, because it keeps the field moving and brings in fresh ideas. But it also brings with it people who like using visualization's tools and talk about visualization, but what they are doing is something else. We need to start calling these things what they are: a cargo cult of visualization.
 
 John Grimwade describes how [his students are getting confused](http://www.snd.org/2010/02/visualize-this-is-it-info-or-is-it-art/): *My students keep bringing stunning examples they have found on the Internet. But they are rarely able to tell me what the graphic shows.*

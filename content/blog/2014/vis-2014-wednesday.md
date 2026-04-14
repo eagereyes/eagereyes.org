@@ -1,5 +1,3 @@
-# VIS 2014 – Wednesday
-
 Wednesday is more than the halfway point of the conference, and was clearly the high point so far. There were some great papers, the arts program, and I got to see the Bertin exhibit.
 
 ## InfoVis: Interaction and Authoring

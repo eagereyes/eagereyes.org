@@ -1,5 +1,3 @@
-# Pushing Data over Email
-
 Email is still a useful transport mechanism for data (like Google Analytics, etc.), despite ftp, web services, etc. Some websites offer email for cheap, while other access can cost a lot of money. Email is also a push service, meaning you do not have to ask periodically if new data has arrived - if you do it right. Of course, that service is rather useless without an automated way to get that data into a database. Here is an introduction to the procmail program and the ancient art of the Unix mail filter.
 
 ## Pushing Email

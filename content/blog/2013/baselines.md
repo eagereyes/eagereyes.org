@@ -1,5 +1,3 @@
-# Continuous Values and Baselines
-
 One of the most common mistakes people make when creating charts is to cut off the vertical axis. But why is that a problem? And what can you do when you need to show data where the amount of change is small compared to the absolute values?
 
 When we think of [continuous data](/basics/data-continuous-vs-categorical), we almost always think of values that have a meaningful zero. There is no question what an amount of money is measured from, we understand the meaning of zero money. The same is true for most other things: length, weight, volume, etc. all have an obvious zero. It doesn’t matter what unit you use, zero meters is zero feet is zero furlongs is zero lightyears.

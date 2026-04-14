@@ -1,5 +1,3 @@
-# Visualization Choice Influences Decisions
-
 Can different ways of showing the same data lead to different decisions? And can those decisions be about something important, like continuing a clinical trial? A study published in 1999 shows that they can, and the way the data is represented does make a difference.
 
 ## The Study

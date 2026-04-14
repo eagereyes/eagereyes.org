@@ -1,5 +1,3 @@
-# Nassi-Shneiderman Diagrams
-
 Programming languages use words and symbols to represent structures like blocks and conditions. A visual representation of these structures seems useful to keep track of all the different cases, see the scope of variables, etc. Nassi-Shneiderman diagrams offer just such a representation.
 
 The structure of programs is sometimes shown using flow charts: decisions create branches, repetitions can be seen by arrows that point back, etc. Flow charts are an adequate representation of assembly language programs, but they're a poor fit for the structured, high-level programming languages almost everybody has been using for many decades now.

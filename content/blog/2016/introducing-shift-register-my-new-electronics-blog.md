@@ -1,5 +1,3 @@
-# Introducing Shift Register, My New Electronics Blog
-
 I have started a new blog, which I call [shift register](https://shift-register.org/). It's about electronics projects I'm doing, mostly building circuits on breadboards and playing with Arduinos.
 
 Electronics have been an interest of mine since I was a child. I played with electronics kits from a very early age, and as a teenager spent countless hours soldering and desoldering stuff (mostly the latter even, there was a great little store that sold random circuit boards for cheap that I had a lot of fun taking apart and trying to figure out what the different components were).

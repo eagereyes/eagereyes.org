@@ -1,5 +1,3 @@
-# Curing A Sick Chart
-
 I recently [criticized Ben Fry's visualization of health care cost data from GE](/criticism/cost-of-a-sick-chart) and claimed that I knew how to do it better. While my analysis may not be as pretty and flashy as Fry's, it provides actual insight into the data. It also reveals an interesting issue: the data is really dull. So dull, in fact, that a visualization was needed to cover up that fact.
 
 My original plan had been to create something interactive, but I simply lack the time to do that right now. So the analysis was done in [Tableau](http://www.tableausoftware.com/) and is presented here as images. If you have Tableau, you can also grab my [packaged Tableau workbook](https://media.eagereyes.org/media/2009/sickchart/Cost-of-Getting-Sick.twbx) to play with, or download the data in a [consolidated and reshaped CSV file](https://media.eagereyes.org/media/2009/sickchart/cost-reshaped.csv).

@@ -1,5 +1,3 @@
-# Caring about the Data
-
 When demonstrating [Parallel Sets](/parallel-sets) to guests and visitors, I often use the Titanic data set, because people can relate to it and it is entirely categorical. I like pointing out interesting facts the visualization shows (like that the second class was smaller than the first class), but it's really just a collection of numbers to show what the visualization can do. Some of the people I have shown this to feel different about it, though.
 
 Perhaps the first reaction that made me think of the Titanic as not just numbers was an artist who asked me how I could present such a horrible incident with such lovely colors. Of course I was aware that almost 1500 people died when the Titanic sank, and most of them in horrible ways. But it's also almost 100 years ago now and just so abstract and distant that it never occurred to me to be specifically sensitive about it.

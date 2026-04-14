@@ -1,5 +1,3 @@
-# A Smart Take on Election Maps
-
 When maps are used to display data, there is often a discrepancy between the data being shown, which almost never relates to area, and the area of the different parts of the map. This is [particularly common in election maps](/blog/2016/all-those-misleading-election-maps). This new [map of votes in the 2016 U.S. Presidential election](https://xkcd.com/1939/) cleverly combines geography and data in a clear and compelling way.
 
 This map is another piece by [xkcd](https://xkcd.com)'s Randall Munroe (also author of [*Thing Explainer*](/blog/2015/review-munroes-thing-explainer-and-pinkers-sense-of-style)). It works well for a number of reasons.

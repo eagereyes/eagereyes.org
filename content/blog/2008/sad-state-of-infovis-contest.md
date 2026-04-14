@@ -1,5 +1,3 @@
-# The Sad State of the InfoVis Contest
-
 In some fields, contests drive research and the entire field forward. Those contests are prestigious, and people list the fact that they won the contest in their CVs. In InfoVis, the contest is trying to appeal to researchers, but is getting little attention. What should the role of the contest be? And how can we make it more interesting?
 
 I've been one of the InfoVis contest co-chairs for two years, and I wanted to make it more appealing by learning from past mistakes. My main point of reference was the [US census data](http://sun.cs.lsus.edu/iv06/) that had been used in 2006. The data was in huge, fixed-width ASCII files that were difficult to parse. The encoding of values was explained in a large PDF, and needed to be extracted by hand. That year, the contest only got a handful of submissions, and I could understand why.

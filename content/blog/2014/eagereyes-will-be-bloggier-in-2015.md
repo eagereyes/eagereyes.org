@@ -1,5 +1,3 @@
-# eagereyes will be bloggier in 2015
-
 I always mess with my site around the new year, and this year is no exception. In addition to a new theme, I've also been thinking about content. Here are some thoughts on what I want to do in 2015.
 
 I don't know what it is, but I always start hating my website theme after about a year. We'll see if this one is any different. Either way, it's new. If you're curious, this is the new [*Twenty Fifteen* Theme](http://codex.wordpress.org/Twenty_Fifteen) that's part of WordPress 4.1, with some minor tweaks. It's nice, simple, clean, and has a few subtle little features.

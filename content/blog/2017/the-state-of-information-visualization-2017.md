@@ -1,5 +1,3 @@
-# The State of Information Visualization, 2017
-
 Between *Surprise Maps*, *Dear Data*, and election graphics, 2016 was an exciting year. There have also been some gaps, however, notably around storytelling. How far have we come, and where is visualization going?
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2017/01/nytimes-gauges-cropped.png" alt="" width="1320" height="328"/></figure>

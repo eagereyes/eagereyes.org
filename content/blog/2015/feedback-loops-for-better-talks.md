@@ -1,5 +1,3 @@
-# Feedback Loops for Better Talks
-
 Feedback loops are a common concept in engineering. When it comes to giving talks, academics would do well to apply some of the thinking behind them to improve their output by observing how it deviates from the desired one, and making changes to adjust it.
 
 I’ve been to a number of conferences lately that had a mix of speakers from design, journalism, and academia. It was striking that academics’ talks were consistently the most boring, poorly structured, and out of place. There are exceptions, of course, but most of them were just bad talks.

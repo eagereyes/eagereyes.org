@@ -1,5 +1,3 @@
-# Rainbow Colormaps Are Not All Bad (Paper)
-
 Rainbow colormaps are among the most derided ideas in data visualization, second only to pie charts. And yet, people use them. Why? [A recent paper](https://www.computer.org/csdl/magazine/cg/2023/03/10128890/1NdJMHqISnS?fbclid=IwAR2Aq4iRqdmeIUCw5_Oy4vjJDGVek23wNWEGlEJMML82BWyYGplFXqK8uqU) looks at some of the reasons why they are so popular and points to research showing that they might not be so bad if used for the right tasks. There's even opportunity for interesting research in rainbow colormaps!
 
 Finger-wagging about rainbow colormaps is a pretty common pastime in visualization, I've done it too! And it's not like there aren't good reasons. Look at this map of maximum temperatures in the US, [published by NOAA](https://digital.mdl.nws.noaa.gov), for example:

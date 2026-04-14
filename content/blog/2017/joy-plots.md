@@ -1,5 +1,3 @@
-# Joy Plots
-
 Let’s talk about plots and joy. The Joy of Plots, if you will. Also, Joy Plots.
 
 Henrik Lindberg [ coined the term *Joy Plot* on the weekend ](https://twitter.com/hnrklndbrg/status/883675698300420098), and it’s quite clever. Not only does it describe a plot of things people enjoy, it’s also a nice reference to [that *Joy Division* album cover everybody knows](https://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-s-unknown-pleasures-album-cover-video/) even if they’ve never heard the actual music.

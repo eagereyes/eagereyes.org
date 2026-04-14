@@ -1,5 +1,3 @@
-# EuroVis 2012, Day 3
-
 I missed a few of the papers I wanted to see today, but there were again some interesting ones. The big event of the day was of course the social event [at a Heuriger](http://en.wikipedia.org/wiki/Heuriger).
 
 *ClockMap: Enhancing Circular Treemaps with Temporal Glyphs for Time-Series Data* by Fabian Fischer, Johannes Fuchs, and Florian Mansmann is an interesting approach for finding temporal trends in a large amount of data. The visual metaphor is based on circles, with some gradients to make them look prettier, which drew some criticism during the discussion. It’s also unclear how well this works for periods that are longer than one day.

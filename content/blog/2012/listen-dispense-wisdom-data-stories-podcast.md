@@ -1,5 +1,3 @@
-# Listen To Me Dispense My Wisdom on the Data Stories Podcast!
-
 Last week, I recorded a guest appearance on the Data Stories podcast with Enrico Bertini and Moritz Stefaner. Find out if the voice you imagine when reading this blog sounds like my voice (spoiler: it doesn't), and how my Austrian accent meshes with Moritz' German and Enrico's Italian ones (spoiler: very well).
 
 You can listen directly on [the podcast website](http://datastori.es/episode-15-with-robert-kosara/) in your browser, or you can subscribe to the podcast. You should really do the latter, so you won't miss episodes in the future. Another thing to do, once you've listened to the latest episode, is to go through the archive and listen to some of the previous episodes with guests like Andy Kirk, Jeff Heer, and Alberto Cairo.

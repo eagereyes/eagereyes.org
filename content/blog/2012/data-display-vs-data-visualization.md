@@ -1,5 +1,3 @@
-# Data Display vs. Data Visualization
-
 Gregor Aisch recently [wrote a posting about gauges](http://vis4.net/blog/posts/lets-break-the-rules/), and how he finds them inspiring and beautiful in their simplicity, even though they are generally disliked in visualization. His posting highlights a common misconception about visualization, and a conflation of different uses of data display, that is worth exploring.
 
 Gregor takes issue with [the notion that visualization requires a certain number of data points to be displayed](http://www.excelcharts.com/blog/thats-data-visualization/). He also considers “breaking those rules” by showing just a single data point in a chart.

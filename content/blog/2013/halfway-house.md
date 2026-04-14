@@ -1,5 +1,3 @@
-# The Halfway House To Nowhere
-
 What is visualization for? Is it a tool help us understand data and the world, and to make better decisions because of that? Or is it just a debugging tool, a stepping stone towards intelligent machines?
 
 As machines are getting smarter and more capable, we expect them to make more decisions for us. While that is natural, it's easy to walk into a trap: to think that we can hand things over to machines entirely and stop caring and understanding. But things don't work like that.

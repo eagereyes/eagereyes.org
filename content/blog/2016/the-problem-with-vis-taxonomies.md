@@ -1,5 +1,3 @@
-# The Problem with Vis Taxonomies
-
 Most taxonomies in visualization and HCI are useless. They carve up the space, but they don’t provide new insights or make predictions. Designing a useful taxonomy is a difficult problem, but that's no excuse for publishing lots of mediocre ones.
 
 ## A Taxonomy of Taxonomies

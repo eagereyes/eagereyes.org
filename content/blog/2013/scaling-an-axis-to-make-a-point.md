@@ -1,5 +1,3 @@
-# Scaling An Axis to Make A Point
-
 A clever chart redesign last week got a lot of people talking about which one is “right.” What is more interesting to me is not which one is (supposedly) the better representation of the truth, but which purpose each one serves.
 
 The original chart is the following, which [shows the number of female CEOs in Fortune 500 companies](http://blogs.reuters.com/data-dive/2013/12/10/gms-new-ceo-is-another-small-crack-in-the-glass-ceiling/) (i.e., the top 500 U.S. companies by revenue).

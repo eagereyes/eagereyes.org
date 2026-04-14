@@ -1,5 +1,3 @@
-# Paper: Implied Dynamics in Information Visualization
-
 Design is usually considered a minor point in visualization. Does it make a difference what color scheme you use (as long as it's not an atrocious one), how thick your lines are, whether you put a background behind your chart, etc.? Caroline Ziemkiewicz and I presented a paper at [*Advanced Visual Interfaces* (AVI)](http://www.dis.uniroma1.it/~avi2010/) where we reported on a study we had performed to find out.
 
 The prevailing view in visualization is that information is encoded in graphical marks, and those marks are read by the viewer when looking at a visualization. But we know that different chart types have different meanings, and work better for different kinds of data. And, [as we have seen](/criticism/chart-junk-considered-useful-after-all), what is often considered chart junk can actually be useful for remembering a chart's message and data.

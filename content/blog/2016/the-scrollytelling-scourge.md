@@ -1,5 +1,3 @@
-# The Scrollytelling Scourge
-
 Scrollytelling is a common way of interacting with stories these days. Scroll down and the story unfolds! Except it's often awkward, brittle, and gets in the way.
 
 ## The Age of Scrollytelling

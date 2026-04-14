@@ -1,5 +1,3 @@
-# Watch the TCC Keynote Live on Monday
-
 The [*Tableau Customer Conference*](http://tcc13.tableauconference.com/) (TCC) starts tomorrow with a big keynote that includes demos of upcoming features. [Watch it live at this link,](http://www.ustream.tv/recorded/39494039) and see me demo something new and exciting.
 
 Now don’t think that this is purely a marketing keynote. The people there are almost all customers already, so they don’t need to be convinced. CEO Christian Chabot gives a great talk about how discoveries happen based on data, and some of the features we will be presenting will also be of more general interest.

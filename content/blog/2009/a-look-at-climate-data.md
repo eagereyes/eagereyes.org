@@ -1,5 +1,3 @@
-# A Look At Climate Data
-
 Wether you believe that global warming is real or not, a bit of validation of the source data is still interesting. This is my second look at the global temperature data [recently released by the UK's Met Office](http://www.metoffice.gov.uk/climatechange/science/monitoring/subsets.html), this time using [Tableau](http://www.tableausoftware.com/). There are some interesting data issues here, and a rather analytical visualization.
 
 ## Data Preparation

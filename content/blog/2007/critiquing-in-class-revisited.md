@@ -1,5 +1,3 @@
-# Critiquing in Class Revisited
-
 Another semester is ending, and another class being taught using criticism as a main component is winding down. This time, I had a good mix of computer science, design, architecture, and liberal studies students. All the comments I received regarding the critiques were very positive, and the students' progress in their visualization designs reinforces those.
 
 This class is called *Visual Communication in Computer Graphics and Art*, and the idea is to show the students a broad range of visual means of communication. Visualization is of course the main one, but I also talk about photography, painting, information graphics, aesthetics, perception, and representation.

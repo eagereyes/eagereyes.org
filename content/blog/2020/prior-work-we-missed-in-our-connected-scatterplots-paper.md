@@ -1,5 +1,3 @@
-# Prior Work We Missed In Our Connected Scatterplots Paper
-
 In 2016, Steve Haroz, Steven Franconeri, and I published [a paper on a technique commonly called the Connected Scatterplot](/papers/the-connected-scatterplot-for-presenting-paired-time-series). It turns out that somebody else had research on essentially the same chart 15 years earlier, which we were not aware of. Our work is quite different, but it’s interesting context and it’s also worth reflecting on how we missed this piece of relevant prior work.
 
 In four papers published from 1999 through 2003, David Peebles, Peter Cheng, and Nigel Shadbolt looked into charts that might look familiar if you’ve seen our Connected Scatterplot paper. In the figure below, I put together Figure 1 from [Peebles, Cheng, and Shadbolt 1999](https://peebles.sdfeu.org/papers/pee_che_sha1999.pdf) with the teaser/Figure 1 from our paper. Guess which one is which.

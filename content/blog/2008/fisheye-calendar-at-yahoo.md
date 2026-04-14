@@ -1,5 +1,3 @@
-# A Fisheye Calendar at Yahoo!
-
 What a difference 22 years make! In 1986, George Furnas published his paper, *Generalized Fisheye Views*, which described what was to become one of the first (and most prominent) focus+context techniques. One of the examples he used was a calendar that showed the current day in most detail, with less space for the surrounding ones. Yahoo! just started an [opt-in beta](http://switch.calendar.yahoo.com/) of their new calendar that uses the same idea.
 
 Furnas observed that people tend to represent their immediate environment (whether physically, temporally, or simply the focus of their current work) in more detail than things that are further away. He called that effect *fisheye view*, after the [fisheye lens](http://en.wikipedia.org/wiki/Fisheye_lens) that is used in photography and that enlarges objects in the center of the image, while compressing towards the edges (that lens also uses a metaphor for its name, which describes the view fish supposedly see when looking straight up).

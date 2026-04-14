@@ -1,5 +1,3 @@
-# Talk: Pie Charts – Unloved, Unstudied, and Misunderstood
-
 I gave a talk at [Information+](http://informationplusconference.com) earlier this year that has now been posted. It's about pie charts! And it was a fun talk, too.
 
 The video is focused a bit too much on me at the beginning, so you'll miss a few of the early jokes. But for the most part, you'll see the (much more important) slides rather than me. This is the talk I made the materials for that I then posted in [my pie charts study results walk-through](https://eagereyes.org/blog/2016/an-illustrated-tour-of-the-pie-chart-study-results).

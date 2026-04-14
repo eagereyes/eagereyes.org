@@ -1,5 +1,3 @@
-# The Golden Age of Information Graphics
-
 Infographics today are mostly pointless decorations around a few simple facts that add nothing meaningful. But information graphics once deserved their name with dense, meticulously-drawn, well-researched information. Here is an example from 1944.
 
 The Lawrence Livermoore National Lab recently posted this *[Chart of Electromagnetic Radiations](http://www.flickr.com/photos/llnl/9403051123/),* which was originally published in 1944, on their flickr stream. It's a beautiful example of the kind of poster or magazine fold-out that was fairly common during the golden age of information graphics, from the 1940s (if not earlier) to the early 1990s. As a kid, I'd spend hours poring over books and magazines with detailed illustrations and explanations of all sorts of technology, from power plants to the Space Shuttle.

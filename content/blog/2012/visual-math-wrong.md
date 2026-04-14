@@ -1,5 +1,3 @@
-# Visual Math Gone Wrong
-
 Data visualization is often used to just display data, with little thought put into supporting visual thinking. Giving people tools to do some visual math is a good idea; the visual properties need to be picked carefully however, to make this work.
 
 The [following example](http://www.census.gov/dataviz/visualizations/040/) is from the [Census Data Visualization Gallery](http://www.census.gov/dataviz/). Like many of the other visualizations there, it shows some good thinking but ultimately fails to do what it was designed to.

@@ -1,5 +1,3 @@
-# EuroVis Running Club
-
 I'm organizing a very informal running club at [EuroVis](http://www.eurovis2015.it/) next week. If you're attending the conference, don't forget to bring your running shoes and leave your excuses at home.
 
 This is even less organized than than the [VIS running club.](/blog/2014/vis-2014-monday) I'm not going to have you fill out a form. Instead, just drop me an email (rkosara at my [employer's domain](http://tableau.com/) or use the [contact form](/contact)) if you're interested in joining. This is just so I can send out information about the secret meeting place and time (most likely Monday morning at 7am in the conference hotel lobby).

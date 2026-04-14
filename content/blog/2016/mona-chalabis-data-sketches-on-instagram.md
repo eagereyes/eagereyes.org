@@ -1,5 +1,3 @@
-# Link: Mona Chalabi's Data Sketches on Instagram
-
 [Mona Chalabi](https://www.instagram.com/mona_chalabi/) has one of the most interesting Instagram feeds for people interested in data visualization. She draws data by hand. It's interesting data, too, and her approach is accessible and inspiring.
 
 Mona is data editor at Guardian US, and was formerly at FiveThirtyEight and before that at The Guardian in the UK.

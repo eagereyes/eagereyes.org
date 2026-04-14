@@ -1,5 +1,3 @@
-# Peer Review, Part 2: How It Works
-
 Peer review is one of the central pillars of academic publishing. But how does it actually work? What is blind review, and what is it good for? This part will answer those questions, and then tell you how to be a good reviewer yourself.
 
 ## The Process

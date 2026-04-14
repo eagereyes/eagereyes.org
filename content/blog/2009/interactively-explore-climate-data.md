@@ -1,5 +1,3 @@
-# Interactively Explore Climate Data
-
 The United Kingdom's Met Office [recently released temperature data for about 1700 weather stations](http://www.metoffice.gov.uk/climatechange/science/monitoring/subsets.html) across the globe from 1701 to 2009. Here is an interactive visualization (built using [Protovis](http://protovis.org/)) of that data for you to explore.
 
 If you are reading this in your newsreader or using Internet Explorer, you will not see anything interesting below. Use a modern browser like Safari, FireFox, or Chrome. Internet Explorer is missing some crucial features that Protovis depends on.

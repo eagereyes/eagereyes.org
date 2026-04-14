@@ -1,5 +1,3 @@
-# The Winding Path of Data Analysis
-
 Data analysis is not a straight-forward process: you try out lots of things, you go down a path that seems promising but then turns out to not work out, and suddenly you hit upon the thing you were looking for.
 
 [This comic](http://abstrusegoose.com/230) is about mathematical proofs, but what hit me recently is how well it also applies to data analysis.

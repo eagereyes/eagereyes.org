@@ -1,5 +1,3 @@
-# The Visual Evolution of the "Flattening the Curve" Information Graphic
-
 Communication has been quite a challenge during the COVID-19 pandemic, and data visualization hasn't been the most helpful given the low quality of the data – see [Amanda Makulec's plea to think harder about making another coronavirus chart](https://medium.com/nightingale/ten-considerations-before-you-create-another-chart-about-covid-19-27d3bd691be8). A great example of how to do things right is the widely-circulated *Flatten the Curve* information graphic/cartoon. Here's a look at the work it is built on and how that has evolved from a figure in an academic paper to one of the clearest pieces of visual communication in some time.
 
 ## The Cartoon

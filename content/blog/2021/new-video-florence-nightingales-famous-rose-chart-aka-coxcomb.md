@@ -1,5 +1,3 @@
-# New video: Florence Nightingale's Famous Rose Chart (aka "Coxcomb")
-
 It's Florence Nightingale's 201st birthday tomorrow! Since I missed her 200th, I figured I'd make a video about her famous chart. What made it tick? What was it about? Who was Nightingale, anyway?
 
 This is one of the most famous charts in data visualization, and like Minard's it's a complicated one. It's not a generally usable chart type, but the chart itself was important to make very significant change happen and save and many lives. Nightingale used it to effect changes that meant wounded soldiers would no longer die like flies from infectious disease. And not just soldiers, her pioneering of nursing saved countless lives and greatly reduced unnecessary suffering.

@@ -1,5 +1,3 @@
-# Bring Out Your Dreadful Charts!
-
 There are many terrible charts out there, whether visually ugly and cluttered, or pretty but empty or even misleading (like this [beautiful pie chart example featured on Fox News](http://tweetphoto.com/b64lawq7) recently). Andrew Vande Moere at infosthetics is hosting a [competition to find the ugliest and most useless charts](http://infosthetics.com/archives/2009/11/competition_most_ugly_and_useless_visualization_online.html).
 
 In his description, Andrew points to [my complaints about most visualizations on the web being pretty rather than useful](/blog/2009/a-better-vis-web-community). His aim is to find visualizations that are both ugly *and* useless.

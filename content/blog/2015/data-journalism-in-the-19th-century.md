@@ -1,5 +1,3 @@
-# Link: Data Journalism in the 19th Century
-
 Scott Klein of ProPublica has written a great story about [an early use of data in journalism](http://www.propublica.org/nerds/item/antebellum-data-journalism-busted-abe-lincoln), and Horace Greeley, the colorful journalist behind it. Greeley found an issue and then gathered the data to show the extent of the problem. This is not unlike today.
 
 In Greeley's case, the issue was how much money members of Congress were paid for their travels to their home states, despite modern conveniences like railroads that made those journeys much faster than they had been in the past.

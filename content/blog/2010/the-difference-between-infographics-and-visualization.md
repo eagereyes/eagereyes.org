@@ -1,5 +1,3 @@
-# The Difference Between Infographics and Visualization
-
 What is the key difference between a visualization and a data-based infographic? The visualization is created by a program that can be applied to many datasets, the infographic is hand-crafted for a particular dataset. It's obvious, which is why it's so hard to figure out.
 
 I had this little insight when reading *[Lies, damn lies, and visualizations](http://radar.oreilly.com/2010/08/visualization-as-journalism.html)* on O'Reilly Radar. The story starts with a discussion of data science and visualization, but then uses this image as an example why visualization is not objective.

@@ -1,5 +1,3 @@
-# Linear vs. Quadratic Change
-
 One of the most common mistakes in chart design is to scale an area by two sides at the same time, producing a quadratic effect for a linear change. That overstates the larger numbers and produces a badly skewed chart. A little care and some basic high-school math can help avoid the problem.
 
 The following detail from a information graphic produced by Princeton's [International Networks Archive](http://www.princeton.edu/~ina/infographics/index.html) illustrates the problem (the numbers are presumably from 2002):

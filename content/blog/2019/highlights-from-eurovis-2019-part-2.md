@@ -1,5 +1,3 @@
-# Highlights from EuroVis 2019, Part 2
-
 This is the second part of my highlights from EuroVis earlier this year in Porto, Portugal. There are papers about decision making and interaction, as well as a report on the capstone talk and a look to next year’s conference, which will be a bit different.
 
 ## Decision Making

@@ -1,5 +1,3 @@
-# Review: Putting Stories to Work and Out On the Wire
-
 Two books I’ve read recently make good points about stories that apply to data stories, without the books being about data: Shawn Callahan’s *Putting Stories to Work* and Jessica Abel’s *Out On the Wire*.
 
 ## Strategic Use of Stories

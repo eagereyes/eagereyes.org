@@ -1,5 +1,3 @@
-# Why the Obsession with Tables?
-
 Lots of data are still presented and released as tables. But why, when we know that visual representations are so much easier to read and understand? Eric Newburger from the U.S. Census Bureau has an interesting theory.
 
 In a [short talk on visualization at the Census Bureau](http://www.howto.gov/training/classes/creating-data-visualizations), he describes how in the 1880s, the Census published maps and charts. Many of those are actually amazingly well done, even by today's standards. But starting with 1890 census, they were replaced with tables.

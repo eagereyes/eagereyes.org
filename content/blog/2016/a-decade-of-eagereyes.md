@@ -1,5 +1,3 @@
-# A Decade of EagerEyes
-
 So here we are. 10 years. A decade. 3653 days. 452 postings. Some good stuff. Some bad stuff. Some terrible stuff. A decade is a long time. But its end is also just the beginning of the next one.
 
 Now that I’ve shed the blog theme, I can see a number of things that need to be fixed. Broken images, embed codes that have stopped working, JavaScript that doesn’t load, etc. If you see me running around with my toolbox in the next few weeks, this will be why. Exposing all those postings on the [blog calendar](/app/blog-calendar) has made some of the maintenance issues I’ve been ignoring a bit more urgent.

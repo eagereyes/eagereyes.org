@@ -1,5 +1,3 @@
-# InfoVis 2007: InfoVis for the Masses
-
 The [InfoVis conference ](http://conferences.computer.org/infovis/infovis2007/)this year had a theme that was not planned, but that made it even more impressive. That theme was *InfoVis for the Masses*, or *Visualization for the People*, and it was present throughout the [keynote](http://conferences.computer.org/infovis/infovis2007/keynote.html), many paper presentations, the [panel](/blog/2007/panel-social-data-visualization), the [World Visualization Day](/blog/2007/we-need-a-world-visualization-day) BOF, and the [capstone](http://conferences.computer.org/infovis/infovis2007/capstone.html). This is the beginning of a new era in visualization, and it is exciting to watch it happen.
 
 ## Keynote: Matthew Ericson, Visualizing Data for the Masses

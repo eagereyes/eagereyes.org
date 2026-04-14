@@ -1,5 +1,3 @@
-# Links: 2014 News Graphics Round-Ups
-
 In the past, it used to be difficult to find news graphics from the main news organizations. In the last few years, they have started to post year-end lists of their work, which are always a treat to walk through. With the new year a few weeks behind us, this is a good time to look at these as collections of news graphics.
 
 - The BBC, [*2014: A Year in Graphics*](http://www.bbc.com/news/world-30295961)

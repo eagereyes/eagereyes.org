@@ -1,5 +1,3 @@
-# The Changing Goals of Data Visualization
-
 The visual representation of data has gone through a number of phases, with its goals switching back and forth between analysis and presentation over time. Many introductions to visualization tend to portray historical examples as all being done for the same purpose. That, I argue in this short, incomplete, and cherry-picked history, is not true.
 
 ## Early to Mid–1800s: Playfair, Nightingale, Snow, Minard

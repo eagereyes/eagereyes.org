@@ -1,5 +1,3 @@
-# A Lack of Communication and Visibility
-
 Finding visualization projects and pretty pictures on the web isn’t exactly difficult, but what about actual research? What if you wanted to know what’s going on in visualization, and get a sense of what current work is the most interesting? There is no resource for this that I’m aware of, but there should be.
 
 I’m currently in Washington, D.C., where I spoke at the [DC Data Vis meetup](http://www.meetup.com/Data-Visualization-DC/events/153228162/) last night (that was not my main reason for coming, but it worked out nicely). One of the questions I got afterwards was from a journalist who wanted to know how he could follow developments in the field. I didn’t have a good answer.

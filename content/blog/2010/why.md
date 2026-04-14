@@ -1,5 +1,3 @@
-# Why Am I Doing This, Again?
-
 Today marks the fourth anniversary of this humble little website. I've spent countless hours writing, designing, arguing, and thinking about the things that I publish here. What others may consider a waste of time has helped me tremendously to make new connections, meet new people, refine my thinking, and broaden my horizons. If you're not running a website (or blog), you're really losing out.
 
 Looks like I've already given away the conclusion there. Oops.

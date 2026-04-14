@@ -1,5 +1,3 @@
-# Shaking the "Pretty Picture" Stigma
-
 Coming from the academic and computer science side of visualization, I always assumed that it would be self-evident to anybody that visualization is first and foremost useful, and only happens to also produce nice pictures. Alas, this is not actually the case. To most people, visualization means pretty pictures first, and maybe also a fact or two. We have to fight that or risk the trivialization and marginalization of visualization as an analytic tool.
 
 ## Insight, not Pictures

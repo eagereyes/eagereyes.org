@@ -1,5 +1,3 @@
-# VIS 2014 – Friday
-
 Wow, that was fast! VIS 2014 is already over. This year’s last day was shorter than in previous years, with just one morning session and then the closing session with the capstone talk.
 
 ## Running Roundup

@@ -1,5 +1,3 @@
-# The Island of Knowledge and the Shoreline of Wonder
-
 In his keynote at [IEEE VIS in Paris](/tag/ieeevis) two months ago, [Alberto Cairo](http://thefunctionalart.com/) talked about journalism, visual explanations, and what makes a good news visualization. But mostly, he talked about curiosity.
 
 When I wrote my [IEEE VIS report for Tuesday](/blog/2014/vis-2014-tuesday) of that week, I knew that I could either do a shoddy job of describing the keynote and get the posting done, or have to push the entire thing back by a few days. So I decided to turn this into a separate posting.

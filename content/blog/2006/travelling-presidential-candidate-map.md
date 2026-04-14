@@ -1,5 +1,3 @@
-# The Travelling Presidential Candidate Map
-
 While working on the [ZIPScribble map](/zipscribble-maps/united-states), I started to wonder how to untangle the beautifully scribbly lines, and finding the shortest path through all ZIP codes. In computer science, this is called the [Travelling Salesman Problem](http://en.wikipedia.org/wiki/Travelling_salesman_problem) (TSP), and so I decided to make this the *Travelling Presidential Candidate Map*.
 
 The TSP is a very hard problem to solve, and would have taken forever for the over 37000 points on the map, even when using a very efficient algorithm. So I had the idea of using a [Hilbert curve](http://en.wikipedia.org/wiki/Hilbert_curve) to get an approximation. A Hilbert curve is a recursive space-filling curve that provides a linear path through all locations in a square. Here is one level of it, in the next level each line segment is replaced by a more coplex curve, etc.

@@ -1,5 +1,3 @@
-# The Bikini Chart
-
 The Obama administration released a chart a while ago that shows job losses during the last year of the Bush administration and the first year after Obama took office. The chart is simple yet effective in the way it communicates a message. It also has some very subtle design elements that communicate a much more negative undertone than is immediately obvious.
 
 I have to say that I have admired this chart since the day it came out. It is clean with just the right amount of decoration to work: scales and legends that explain what we are seeing. The colors are based on the typical colors associated with the Republican Party (red) and the Democrats (blue). The data is also indisputable, coming from the [Bureau of Labor Statistics](http://www.bls.gov/).

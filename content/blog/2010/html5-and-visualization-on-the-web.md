@@ -1,5 +1,3 @@
-# HTML5 and Visualization on the Web
-
 HTML5 is an upcoming new standard not just for web markup, but also new graphical features. It will make it possible to build interactive visualizations right in the web browser, written in JavaScript. And despite what you might think about JavaScript, they will be fast.
 
 ## Why not Java or Flash?

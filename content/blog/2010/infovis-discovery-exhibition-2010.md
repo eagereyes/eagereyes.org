@@ -1,5 +1,3 @@
-# InfoVis Discovery Exhibition 2010
-
 Showing the impact of visualization work is not something we as a community are particularly good at. The [Discovery Exhibition](http://www.discoveryexhibition.org/) at the Information Visualization conferences is a great venue for doing just that. If you have a tool that's used by real users for real work, submit a brief description by July 19.
 
 We (three readers of this website, my student Caroline Ziemkiewicz, and I) submitted [an entry](http://www.discoveryexhibition.org/pmwiki.php/Entries/Kosara2009) on [Parallel Sets](/parallel-sets), and won the *Best Presentation Award*. Petra Isenberg is writing a series of postings over at infosthetics on last year's entries, [starting with ours](http://infosthetics.com/archives/2010/07/visweek_discovery_exhibition_submit_story_about_impact_of_visualization.html).

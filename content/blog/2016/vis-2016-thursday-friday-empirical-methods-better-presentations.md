@@ -1,5 +1,3 @@
-# VIS 2016 – Thursday, Friday: Empirical Methods, Better Presentations
-
 A panel on empirical methods, papers on time series, and perhaps the best capstone at VIS ever rounded out the conference on Thursday and Friday.
 
 ## **Empirical Methods Panel**

@@ -1,5 +1,3 @@
-# Visualization in the World
-
 On April 24 and 25, the [Charlotte Visualization Center](http://viscenter.uncc.edu/) at UNC Charlotte will host its second symposium, titled [Visualization in the World](http://viscenter.uncc.edu/symposium08.htm). We have an impressive line-up of speakers and are expecting fascinating discussions.
 
 The speakers will be

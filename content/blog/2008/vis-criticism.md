@@ -1,5 +1,3 @@
-# Paper on Visualization Criticism in CG&A
-
 A paper on [visualization criticism](/blog/2006/visualization-criticism) just appeared in the Visualization Viewpoints section of this month's [Computer Graphics and Applications (CG&amp;A)](http://csdl2.computer.org/persagen/DLAbsToc.jsp?resourcePath=/dl/mags/cg/&amp;toc=comp/mags/cg/2008/03/mcg03toc.xml). Authors are yours truly, Fritz Drury, Lars Erik Holmquist, and David Laidlaw.
 
 The idea behind this article was to discuss the background of vis criticism a bit, talk about practical experiences, and offer a glimpse into a possible future. David and Fritz share their experiences teaching a class of computer science and design students, where critiquing played a big role. Lars responds to [my criticism](/blog/2006/informative-art) with a critique of critiquing. And I claim that criticism is something we're already doing (paper reviews) and need to do more to further develop the theory in our field.

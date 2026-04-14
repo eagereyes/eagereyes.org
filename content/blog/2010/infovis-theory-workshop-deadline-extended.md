@@ -1,5 +1,3 @@
-# InfoVis Theory Workshop Deadline Extended
-
 We have received a few good submissions for the InfoVis Theory Workshop at [VisWeek](http://vis.computer.org/VisWeek2010/), but we're looking for some more. We are therefore opening submissions again, with a new, final deadline: September 13, 2010. If you couldn't make the first deadline, this is your chance.
 
 We now also have a time and day for the workshop: [Monday (October 25), from 2pm to 6pm](http://www.facebook.com/event.php?eid=113280158726509).

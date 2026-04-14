@@ -1,5 +1,3 @@
-# New Series: ISOTYPE Books
-
 Presenting facts through data is not a recent idea. Otto and Marie Neurath created ISOTYPE in the 1920s and then ran their ISOTYPE Institute for more than two decades. During that time, they created charts for a wide variety of publications. In this series, I will show a number of these charts that I have found, and discuss the context they appeared in.
 
 Over the past year, I have bought a number of books containing [ISOTYPE charts](/tag/isotype). Some contain many of them, some just a single one. Some use them throughout, some just have them as the inside cover. These are all from the 1940s through the 1960s.

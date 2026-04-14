@@ -1,5 +1,3 @@
-# Review: Scott Christianson, 100 Diagrams That Changed the World
-
 I recently came across this book that claims to collect the 100 most important diagrams in the history of mankind. It’s a good collection, with many wonderful examples, though it has its flaws.
 
 To get the main issue out of the way: the title is misleading. The selection in the book is not based on the quality of the diagrams, but rather of the invention or cultural shift they are associated with. I didn’t bother to count, but there are many examples of diagrams in the book that, by themselves, are really not interesting, but which are attached to important: the mobile phone, Apple computers, cotton gin, and the camera obscura, to name just a few.

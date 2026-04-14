@@ -1,5 +1,3 @@
-# SPSS Viz Designer
-
 <figure><img src="https://media.eagereyes.org/media/2008/vizdesigner.jpg" alt="SPSS Viz Designer"/></figure>
 
 SPSS recently released their new [Viz Designer](http://www.spss.com/VizDesigner/), a visualization engine built on Leland Wilkinson's work (*[The Grammar of Graphics](http://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448/)* and [nViZn](http://www.spss.com/research/Wilkinson/nViZn/nvizn.html)). The comparison with [Tableau](http://tableausoftware.com/) is unavoidable since both are based on the same underlying ideas. Right now, Viz Designer does not look good in that comparison. 

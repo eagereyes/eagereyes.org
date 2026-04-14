@@ -1,5 +1,3 @@
-# A VisWeek Survival Guide, Part 2
-
 Less than two weeks to go until [VisWeek 2012](http://visweek.org/), so it’s time for the crucial second part of the survival guide. There are tons of things to see and do in Seattle, it’s easy to get distracted.
 
 ## Climate, Weather

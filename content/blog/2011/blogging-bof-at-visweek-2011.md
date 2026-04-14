@@ -1,5 +1,3 @@
-# Blogging BOF at VisWeek 2011
-
 Enrico Bertini and I are organizing a birds-of-a-feather meeting on blogging. Due to some miscommunication, this has turned into two venues, one being the BOF, the other a dinner or drinks or a dinner with drinks or something. Anyway, if you’re going to VisWeek, you should definitely attend.
 
 ## Blogging BOF

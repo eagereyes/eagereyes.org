@@ -1,5 +1,3 @@
-# Democracy, Public Data, and Data.gov
-
 It's not quite the [National Data Agency](/blog/2009/a-national-data-agency) I envisioned earlier this year, but [Data.gov](http://www.data.gov/) is now live. It's a laudable effort, and there is quite a bit of data there, but it's still very labor-intensive to get the data sets and convert them into usable formats. But it's becoming clear that data needs to be shared, and that access to government data will soon be regarded as much as an inherent part of a democracy as free elections.
 
 A lot of the data is available in shape files. Many of the data sets have a geographic component, but why does the map portion have to dictate the file format? There are lots of libraries for reading these files and the accompanying (stone-age) dbf-files, but they require an additional conversion step. A simple CSV file would be much more useful.

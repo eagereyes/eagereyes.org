@@ -1,5 +1,3 @@
-# The EagerEyes Origin Story
-
 Have you ever wondered where the weird name comes from, what the site was like before it was a blog, and how it all got started? This posting has all the answers.
 
 ## The Name

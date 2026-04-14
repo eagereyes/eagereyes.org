@@ -1,5 +1,3 @@
-# Hans Rosling: An Appreciation
-
 [Hans Rosling died earlier today (Tuesday, February 7](http://www.gapminder.org/news/sad-to-announce-hans-rosling-passed-away-this-morning/)). He championed the idea of showing people what the world was really like – and how it was different from their preconceptions – using data and visualization. And he did it with enthusiasm and humor. This is a brief appreciation of his work and legacy.
 
 ## Gapminder and the 2006 TED Talk

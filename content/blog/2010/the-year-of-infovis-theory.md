@@ -1,5 +1,3 @@
-# The Year of InfoVis Theory
-
 2010 is *The Year of Information Visualization Theory*. Here's why.
 
 ## Setting the Stage

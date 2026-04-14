@@ -1,5 +1,3 @@
-# Posters Program for Tapestry 2017
-
 The [Fifth Tapestry conference for storytelling with data](/blog/2016/tapestry-2017-st-augustine-fl-on-march-1st) is only about six weeks away. To make it easier for academics and students to attend, we are adding a more formal posters program this year.
 
 We’re looking for posters about all kinds of topics around storytelling with data:

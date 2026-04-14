@@ -1,5 +1,3 @@
-# The Repetitive and Boring History of Visualization
-
 When people talk about the history of data visualization, the same set of names always comes up: Playfair, Nightingale, Snow, Minard. They are historically important, alright, but why do they overshadow all the other work that was done? And what do we know about how important they actually were?
 
 ## The Usual Suspects

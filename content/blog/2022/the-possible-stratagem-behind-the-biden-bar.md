@@ -1,5 +1,3 @@
-# The (Possible) Stratagem Behind the Biden Bar
-
 A bar chart with a distorted vertical axis isn't very unusual. But what if that chart was posted by the White House and what if it was done on purpose – not to overstate the number shown, but rather to evoke a particular kind of response?
 
 ## The Chart

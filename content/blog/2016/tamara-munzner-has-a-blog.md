@@ -1,5 +1,3 @@
-# Link: Tamara Munzner Has A Blog!
-
 Late last year, Tamara Munzner started a blog, called [Vis &amp; More](https://tamaramunzner.wordpress.com). So far, she mostly writes in response to Stephen Few's postings late last year about some recent visualization papers. Her style is quite academic (most of her posting titles start with "On"…), but very readable and she has lots of interesting things to say.
 
 Just in case you don't know her: [Tamara Munzner](https://www.cs.ubc.ca/~tmm/) is a professor of computer science at University of British Columbia in Vancouver. She has been working in the field for many years, and last year published [a highly-regarded book](https://www.cs.ubc.ca/~tmm/vadbook/). Until recently, she was chair of the VIS Executive Committee, which runs the IEEE VIS conference and is involved in many other important decisions that affect the academic visualization community.

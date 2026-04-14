@@ -1,5 +1,3 @@
-# Common Speaking Mistakes To Avoid
-
 Whenever I go to academic conferences, I have to sit through some terrible talks. It continues to amaze me that so many people make mistakes that are so easy to avoid. Here are a few I noticed just in the last two days.
 
 ## Spend first two minutes apologizing

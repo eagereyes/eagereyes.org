@@ -1,5 +1,3 @@
-# eagereyesTV: Minard's Famous "Napoleon's March" Chart – What It Shows, What It Doesn't
-
 This chart is a staple in every visualization course and many visualization talks. But what does it show, and what does it leave out? There's a lot more to Napoleon's Russian Campaign and to Charles Minard's work than this one chart. My new video looks beyond the surface of what is perhaps the most famous chart out there.
 
 In the video, I explain what the chart shows (it's actually a map, but I keep calling it a chart) and how it works. But more than that, I'm looking at what Minard did not include. He had to simplify things significantly to make the chart work. But because the chart is so well known now, that means that we're missing the complete other side of that war (the Russian military and militias fighting the French), and the civilian toll.

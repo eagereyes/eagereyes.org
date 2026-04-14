@@ -1,5 +1,3 @@
-# Review: Wainer, Picturing the Uncertain World
-
 [*Picturing the Uncertain World*](http://press.princeton.edu/titles/8863.html) by Howard Wainer is a book about statistics and statistical thinking, aided by visual depictions of data. Each article in the collection starts by stating a question or phenomenon, which is then investigated further using some clever statistics.
 
 I bought the book after [Scott Murray](http://alignedleft.com) pointed me to it as the source of his assertion that in order to show uncertainty, the best way was to use blurry dots. I was surprised by that, since my own work had shown people to be pretty bad at judging blurriness, so that didn’t seem to be a particularly good choice (at least if you want people to be able to judge the amount of uncertainty).

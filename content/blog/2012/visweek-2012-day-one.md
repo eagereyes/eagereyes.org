@@ -1,5 +1,3 @@
-# VisWeek 2012, Day One
-
 VisWeek 2012 started today, and it started with quite a bang. Here are some observations and highlights from the first day.
 
 A great milestone is that as of a few hours ago, there were over 1,000 people registered. Surprisingly, over 700 people picked up their badges yesterday night and today, which probably makes this the busiest first VisWeek day ever.

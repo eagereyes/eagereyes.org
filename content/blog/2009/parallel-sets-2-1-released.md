@@ -1,5 +1,3 @@
-# Parallel Sets 2.1 Released
-
 We are happy to announce the release of [Parallel Sets 2.1](/parallel-sets). The new version fixes a number of bugs and introduces a few new features. The biggest changes are under hood, with a new database model that can now handle much more complex datasets (in terms of number of dimensions and categories), and the new streaming import can load in datasets with a much larger number of records. We have also added a way to automatically sort categories by name and size, a screenshot function, and more. Upgrading is strongly recommended.
 
 We have **added a menu**. We are still trying to figure out what to put in the menu, what to have available as buttons or other interactions, and also how many actions should be redundant between the two. Most of the menu options should be self-explanatory, and most are discussed below.

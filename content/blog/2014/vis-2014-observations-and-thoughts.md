@@ -1,5 +1,3 @@
-# VIS 2014 Observations and Thoughts
-
 While I’ve covered individual talks and events at [IEEE VIS 2014](http://ieeevis.org), there are also some overall observations – positive and negative – I thought would be interesting to write down to see what others were thinking.
 
 I wrote summaries for every day I was actually at the conference: [Monday](/blog/2014/vis-2014-monday), [Tuesday](/blog/2014/vis-2014-tuesday), [Wednesday](/blog/2014/vis-2014-wednesday), [Thursday](/blog/2014/vis-2014-thursday), and [Friday](/blog/2014/vis-2014-friday). VIS actually now starts on Saturday with a few early things like the Doctoral Colloquium, and Sunday is a full day of workshops and tutorials.

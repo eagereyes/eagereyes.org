@@ -1,5 +1,3 @@
-# All Responses to Gelman and Unwin in One Convenient Posting
-
 After [posting my response to Gelman and Unwin's article on visualization and statistical graphics](/blog/2012/scholarly-discussion-gelman-unwin) recently, I have now collected links to all the three other responses as well: Stephen Few, Paul Murrell, and Hadley Wickham.
 
 Here is the complete set, including the original article, my response, and the rejoinder (which I had already posted):

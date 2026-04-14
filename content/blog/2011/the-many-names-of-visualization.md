@@ -1,5 +1,3 @@
-# The Many Names of Visualization
-
 Nathan Yau recently wrote a [posting about the different words used for visualization and infographics](http://flowingdata.com/2011/09/29/the-many-words-for-visualization/). His definitions are interesting because they reveal quite a bit about his background and main focus, and his blind spots give some insights into the community he's working in.
 
 ## Definitions

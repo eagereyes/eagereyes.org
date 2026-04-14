@@ -1,5 +1,3 @@
-# Storytelling and Focus
-
 There are many differences between data analysis and presentation. One that is often overlooked is the need to focus a story to just the essential points, and not overload it with unnecessary detail. Minard’s famous map is a great example of reduction to the bare minimum.
 
 [Minard’s famous map](/journalism/storytelling-minard-vs-nightingale) of [Napoleon’s invasion of Russia](http://en.wikipedia.org/wiki/French_invasion_of_Russia) summarizes the fate of some 420,000 men over more than six months. They were not alone, either: roughly the same number of Russian soldiers died, and untold numbers of civilians were killed and many atrocities committed.

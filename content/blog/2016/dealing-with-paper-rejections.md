@@ -1,5 +1,3 @@
-# Dealing with Paper Rejections
-
 For some reason, the topic of reviewing and getting papers rejected came up several times in conversations at VIS recently. Getting your work rejected and learning to deal with rejection is part of life as an academic, and it’s worthwhile to think about the process a bit.
 
 I’m basing this on [a nice piece by Niklas Elmqvist titled *Dealing with Rejection*](https://sites.umiacs.umd.edu/elm/2016/10/25/dealing-with-rejection/), so read that first. His perspective is that of the nice academic (and recent InfoVis papers chair). My perspective is less academic, and a little less nice.

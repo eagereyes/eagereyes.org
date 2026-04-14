@@ -1,5 +1,3 @@
-# My Favorite Charts
-
 There are many charts I hate, because they're badly done, sloppy, meaningless, deceiving, ugly, or for any number of other reasons. But then there are the ones I keep coming back to because they're just so clear, well-designed, and effective.
 
 All of these are a few years old. Like a fine wine analogy that I could insert here, it probably takes a while for a chart to come up again and again in conversation and when looking for examples to realize how good it is.

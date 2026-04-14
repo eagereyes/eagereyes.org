@@ -1,5 +1,3 @@
-# List of Influences: Colin Ware
-
 Several [lists of influences](/tag/influences) reference work by [Colin Ware](http://ccom.unh.edu/vislab/CWBio.html), mostly of course his book [Information Visualization: Perception for Design](http://www.amazon.com/Information-Visualization-Second-Interactive-Technologies/dp/1558608192/). It therefore makes sense to ask an influencer of influencers about his influences. As it turns out, there are some vicious circles here, with the influenced influencing the influencers back.
 
 Colin has degrees in both computer science and perceptual psychology. In addition to that, he also worked as an artist for three years. So he clearly brings a unique and interesting perspective to visualization. He is the director of the [Data Visualization Research Lab](http://www.ccom.unh.edu/vislab/index.html) (part of the Center for Coastal and Ocean Mapping) at the University of New Hampshire.

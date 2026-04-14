@@ -1,5 +1,3 @@
-# Visualization Can Never Be Art
-
 Is visualization art? [Are video games art](http://blogs.suntimes.com/ebert/2010/04/video_games_can_never_be_art.html)? Is programming art? Is art art? You can discuss these questions at length, but without concrete criteria, they end up being academic exercises rather than leading to some kind of conclusion. One criterion, which I believe to be suited especially well for visualization, is the sublime. Art is sublime, visualization is not. Hence, visualization is not art.
 
 ## Some Context

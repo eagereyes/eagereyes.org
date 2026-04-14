@@ -1,5 +1,3 @@
-# All Those Misleading Election Maps
-
 Would you make a bar chart where the length of the bar doesn't actually scale with the number being shown? Would you draw a line chart with the lines all over the place, not where the values actually are? Of course not. Yet somehow, every single election map works like that.
 
 Look at this map from Wikipedia that shows electoral votes on the labels and who won each state. Tell me which candidate won the 2012 election. Don't go with what you know, use the map that is supposed to show you the data and tell me: who won?

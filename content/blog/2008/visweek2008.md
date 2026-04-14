@@ -1,5 +1,3 @@
-# VisWeek 2008 Live-Microblog Archive
-
 During VisWeek 2008, I wrote short updates on my website, which I called *glimpses* (a little pun on tweet). This is an archive of all of those, in reverse chronological order. In my transition to WordPress, I had to get rid of the comments, unfortunately. There were only a small number of those attached to these postings, though.
 
 ## VisWeek Wrap-Up

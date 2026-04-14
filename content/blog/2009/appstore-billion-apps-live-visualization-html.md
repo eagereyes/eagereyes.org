@@ -1,5 +1,3 @@
-# AppStore Billion Apps Live Visualization
-
 Apple's AppStore for iPhone and iPod touch is about to sell its billionth application. You can watch [Apple's pretty counter webpage](http://www.apple.com/itunes/billion-app-countdown/), or you can see the downloads piling up and the rate of downloads visualized below. Unlike the [billionth song download](/blog/2006/itunes-billion-song-downloads) a few years ago, this is in (almost) real-time. The collected data and the Python script that generates the images using Google Charts is included.
 
 The images below show the number of downloads (the scale goes from 900 million to 1 billion) as the dark gray background "mountain," and the rate of downloads (0 to 500,000 per hour) as the green line. Light gray stripes in the background indicate six hour intervals (the time zone is PDT). The images change once per hour, when new data becomes available. The best time to check is shortly after the full hour.

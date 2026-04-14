@@ -1,5 +1,3 @@
-# VisComm Workshop at VIS and Tapestry 2018
-
 If you're into visualization for communication and storytelling, these two events should be on your radar: the [Visualization for Communication Workshop (VisComm)](https://viscomm.io) at VIS and [Tapestry 2018](http://www.tapestryconference.com).
 
 ## VisComm

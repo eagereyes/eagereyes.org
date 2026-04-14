@@ -1,5 +1,3 @@
-# What Is A Misleading Chart?
-
 I see a lot of discussions of misleading charts lately, and there are certainly many of them out there. One distinction that isn’t always made, but that I feel is important, is whether the chart itself is poorly designed, or whether an otherwise correct chart is taken to mean something it does not. It’s an important difference that often gets glossed over.
 
 ## A Bad Chart vs. the Wrong Chart

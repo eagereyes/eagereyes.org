@@ -1,5 +1,3 @@
-# Schloß Dagstuhl
-
 For many computer science researchers, the name *Dagstuhl* rings a bell. Anybody who has been there has fond memories of interesting talks, great conversations, and lots of social interaction (lubricated by the abundantly available wine and beer). But what is Dagstuhl?
 
 [Schloß Dagstuhl](http://www.dagstuhl.de) is a castle in Germany’s Saarland region, close to the border with France. It’s easy to reach from nearly anywhere, and yet remote enough to keep people there for an entire week. That is important to foster interaction and discussions outside the formal sessions.

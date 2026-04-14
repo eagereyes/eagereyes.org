@@ -1,5 +1,3 @@
-# EuroVis 2012, Day 1
-
 EuroVis 2012 has officially begun, so here is a brief recap of some of the things I found interesting. Today, that included the EuroRVVV workshop and two papers.
 
 My goal with these postings, as with [my tweeting](http://twitter.com/eagereyes), will not be to cover everything that happens, but very selectively describe things that were remarkable for whatever reason.

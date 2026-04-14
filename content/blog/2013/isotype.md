@@ -1,5 +1,3 @@
-# The ISOTYPE
-
 Communicating data visually is not only about perception and precision, but also understanding. ISOTYPE was developed to bridge the gap between showing data in a way that's easy to read and at the same time easier to understand than unadorned bar charts.
 
 The **I**nternational **S**ystem **o**f **Ty**pographic **P**icture **E**ducation (which is what *ISOTYPE* stands for) was developed in the 1920s by [Otto Neurath](http://en.wikipedia.org/wiki/Otto_Neurath), his wife [Marie Neurath](http://en.wikipedia.org/wiki/Marie_Neurath), and [Gerd Arntz](http://en.wikipedia.org/wiki/Gerd_Arntz). It came out of the philosophy of the Vienna Circle (think Freud, Wittgenstein, Schrödinger, etc.), with the goal of changing the world by educating people about the world around them (see [The Changing Goals of Data Visualization](/criticism/changing-goals-data-visualization)).

@@ -1,5 +1,3 @@
-# VisWeek Preview: Changing the World with Visualization (Panel)
-
 What good is visualization if it can't save the world? Or maybe at least change it. Make it a little better. Make a difference. I am organizing a panel at InfoVis next week to discuss what visualization already does, and what else we can do to free visualization from the confines of the ivory tower and have an impact in the real world. Three remarkable people will present their views and discuss with the audience.
 <!--break-->
 Sarah Cohen is a Pulitzer Prize-winning journalist who used to work for the Washington Post and now is a professor at Duke University. She has a lot of experience using visualization, though interestingly mostly in analyzing data to find stories, not so much presenting them.

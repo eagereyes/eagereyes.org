@@ -1,5 +1,3 @@
-# EuroVis 2018, Monday and Tuesday
-
 [EuroVis 2018 in Brno, Czechia](http://www.eurovis.org/), is in full swing. The first two days included workshops, the opening with a very fun and interesting keynote, and some good papers.
 
 ## EuroRVVV Workshop

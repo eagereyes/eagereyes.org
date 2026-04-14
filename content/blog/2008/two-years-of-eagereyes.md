@@ -1,5 +1,3 @@
-# Two Years of EagerEyes
-
 This site turns two today. There have been frantic periods of posting and periods of silence. There have been times when I thought nobody would read this and times when I had more than 50,000 visitors in a day. Here is a bit of history, some thoughts on what the site has accomplished, and what I am planning for the future.
 
 *[Here's to the crazy ones.](http://www.virtualteacher.com.au/crazyone.html)*

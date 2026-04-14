@@ -1,5 +1,3 @@
-# Embracing Uncertainty in Two-Line Charts
-
 As we're heading towards elections again, there is a chart type that is as unavoidable as political ads, baby-kissing, and smear campaigns: line charts showing polling data. The most common pitch two candidates against each other, and often make a big deal out of the fact that the lines cross. Not only are these charts misleading in the way they depict the choice, they also hide an important fact: the number of undecided voters.
 
 The following image shows slightly different data, but the idea is the same. The data is from a [long-running Gallup poll](http://www.gallup.com/poll/113980/Gallup-Daily-Obama-Job-Approval.aspx) about job approval ratings of President Obama, from early 2009 to the end of 2011. Each data point is actually a three-day average. Blue shows approval, green disapproval.

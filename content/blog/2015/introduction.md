@@ -1,5 +1,3 @@
-# Seminal InfoVis Papers: Introduction
-
 Some of the most fundamental and important papers in information visualization are around 30 years old. This is interesting for several reasons. For one, it shows that the field is still very young. Most research fields go back much, much further. Even within such a short time frame, though, there is a danger of not knowing some of the most important pieces of research.
 
 While 30 years is not much, it is also a lot. Some papers get cited over and over again, but more for convenience than with an eye towards truly building upon them and questioning them. They are treated as gospel a bit too much.

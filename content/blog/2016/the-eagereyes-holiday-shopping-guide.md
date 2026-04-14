@@ -1,5 +1,3 @@
-# The EagerEyes Holiday Shopping Guide
-
 Are you looking for the perfect gift for the data or visualization geek in your life? Did that crazy self-driving water bottle Kickstarter still not deliver, leaving you hunting for an overpriced Nintendo Classic? *The EagerEyes Holiday Shopping Guide* has all the geeky, uncool gifts you could possibly want.
 
 To be clear, none of the links below are affiliate links. That smug, righteous feeling is easily worth the twelve cents I might make from a few people purchasing stuff through my links.

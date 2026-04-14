@@ -1,5 +1,3 @@
-# Another Look at Many Eyes, 18 Months Later
-
 In February of last year, I wrote [a posting based on some data I had scraped from Many Eyes](/criticism/quo-vadis-many-eyes), and criticizing where I thought it was going (or not going). Here is an update, eighteen months later, of some of the things that have happened in the meantime, and some new data.
 
 My interest in Many Eyes is not new. [I’ve followed them from the very beginning](/criticism/swivel-vs-many-eyes), and I keep watching them because they were the pioneers of social, web-based visualization. But after the initial excitement and interesting work, there was a period of four years or so when nothing happened. I will not rehash the [points from my previous posting](/criticism/quo-vadis-many-eyes), but some of them will come up below when I talk about what has changed, and what hasn’t.

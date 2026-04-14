@@ -1,5 +1,3 @@
-# Opining or Murmuring: Infographics vs. Visualization
-
 Commenting on a diagram showing the flow of electricity from its production to its use (and waste), the author of the Junk Charts blog writes: [*As it stands, this chart murmurs but does not opine*](http://junkcharts.typepad.com/junk_charts/2006/10/graphical_equit_2.html)*.* Which is exactly what it should do.
 
 I think he summed up the difference between informational graphics and visualization really well in this one sentence. The visualization is supposed to be unbiased, unopinionated, neutral; the viewer wants to have the information presented and draw his or her own conclusions, and not have the conclusion presented to her or him.

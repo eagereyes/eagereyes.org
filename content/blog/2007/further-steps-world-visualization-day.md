@@ -1,5 +1,3 @@
-# Further Steps Towards World Visualization Day
-
 Since my first posting about the [need for a World Visualization Day](/blog/2007/we-need-a-world-visualization-day), I have started a basic [website](http://worldvisualizationday.org/), opened a [Facebook group](http://facebook.com/group.php?gid=18677702960), and taken a first shot at [designing a logo](http://worldvisualizationday.org/blog/first-attempt-at-logo.html). I have refined my ideas on the next steps as well as the support needed. Please support this idea by joining the facebook group, commenting here and on the WVD website, and most of all, by attending the [BOF meeting at Vis](/blog/2007/we-need-a-world-visualization-day).
 
 You may have noticed the little news feed below the bookmarks on the right. I will slowly move over discussions of this topic to the dedicated website, so I can again concentrate on other topics here.

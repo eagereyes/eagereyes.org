@@ -1,5 +1,3 @@
-# Speaking: How to Use A Microphone
-
 When you’re [speaking in front of an audience](/tag/speaking), you’re almost always using a microphone. The point of the microphone is to help your audience hear you. But it can’t do that if you don’t know how to use it or if you actively work against it.
 
 **Listen for your own voice**. This is the key and basically subsumes all of my points below. You have to listen to your own voice coming through the speakers. Can’t hear it? Neither can your audience. Is it fading in and out? Same for your audience. This isn’t magic, it’s just a matter of some basic self-awareness.

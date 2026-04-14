@@ -1,5 +1,3 @@
-# NY Times looks at Presidents and the Economy
-
 The New York Times has an interesting interactive visualization on the influence of presidents on the economy. They ask, [Can a President Tame the Business Cycle?](http://www.nytimes.com/interactive/2008/10/18/business/20081019-metrics-graphic.html) The visualization they use is not bad, but would be much more readable if it used a better color scale.
 
 What exactly is a "high" or "low" change? This is how the legend describes the different colors used, and it turns out that "low" sometimes means negative. The color scale as shown in the legend is continuous, but one with just a few values (maybe five on either side of zero) would have been much more readable. Also, it is kind of important if things go up or down, which is impossible to see in this chart. Where exactly is zero on the color scale? The bar chart has no such problem.

@@ -1,5 +1,3 @@
-# Graphs Beyond the Hairball
-
 Networks are usually drawn using a technique called node-link diagrams. While that works well for small graphs (the technical name for networks), it breaks down beyond a few dozen nodes. Better techniques exist, though these are currently focused on specific types of graphs or answer particular questions.
 
 ## Node-Link Diagrams

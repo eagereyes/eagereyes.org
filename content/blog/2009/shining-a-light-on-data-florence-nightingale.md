@@ -1,5 +1,3 @@
-# Shining a Light on Data: Florence Nightingale
-
 [Florence Nightingale](http://en.wikipedia.org/wiki/Florence_Nightingale) invented modern nursing, and established its importance based on data she collected during the Crimean War in the 19th century. She was not only the first one to realize the role of hygiene and care for wounded soldiers to prevent the spread of disease and death, she also was the first to understand that sound decisions can only be made on data. Not only did she collect that data, she also devised ways to communicate it to decision makers who lacked knowledge of statistics or math.
 
 Looking around the web, there is a lot of material on Nightingale's writing on nursing and related topics. But I would argue that her larger contribution was in making the care for the wounded (and, in extension, nursing in general) a priority. Without that, all her writing and collections of best practices would not have had nearly the same practical impact.

@@ -1,5 +1,3 @@
-# Series: Lists of Influences
-
 Ever wondered where the successful visualization researchers take their ideas from? How they got to know all that stuff that they draw from? What made them work on a certain project? Well wonder no more. EagerEyes.org brings you twelve lists of books, articles, and other things that influenced twelve researchers who influence us.
 
 I had a very interesting discussion about influential books with Pat Hanrahan at the Vis 2006 conference in Baltimore. Not long before that, I had seen an article about a [book containing lists of influences](http://www.designobserver.com/archives/019524.html) by influential designers. Thus was born the idea to do the same thing for visualization.

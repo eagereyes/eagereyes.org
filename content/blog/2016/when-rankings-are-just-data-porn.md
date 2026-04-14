@@ -1,5 +1,3 @@
-# When Rankings Are Just Data Porn
-
 Rankings are a common way of talking about data: who made the most money, who won the most medals, etc. But they hide issues in the underlying data. Is the difference between first and second meaningful or just noise? Here is a data video that nicely demonstrates the problem.
 
 Watch the first few minutes of this video about baby names in the U.S. over time. I find it fascinating, though not for the reason most people probably do.

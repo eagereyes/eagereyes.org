@@ -1,5 +1,3 @@
-# An Outsider’s Guide to the IEEE VIS Conference 2020
-
 Want to watch a keynote by a Nobel laureate, catch the presentations of the best papers, or attend a workshop on visualization for communication? The [IEEE VIS conference](http://ieeevis.org/) is taking place online in two weeks, October 25 to 30, and is free to attend this year. Here are a few starting points if you’ve never been to VIS and don't know why you should attend or what to watch.
 
 VIS bills itself as *the premier forum for advances in visualization and visual analytics*, and it certainly is an academic conference. It is trying to become more accessible and useful to people outside the academic visualization community, however. Many of the things I'm listing below are accessible and interesting to people outside of the immediate visualization field.

@@ -1,5 +1,3 @@
-# Link: Jérôme Cukier's Series on Visualization with React
-
 While D3 is the standard way of doing visualization on the web right now, there's a lot of interesting stuff happening in the world of JavaScript framework React. And it turns out, you can do some really interesting visualization stuff with React, once you understand the basics. In [a series of very thorough postings](http://www.jeromecukier.net/blog/2016/08/09/visualization-with-react/), Jérôme Cukier takes you through the fundamentals of React and how to use it by itself or together with D3.
 
 Reading all the postings is not a small undertaking, so be prepared to spend some time on them. You'll also have to work on a project to actually put those things into practice, or they won't stick. Jérôme happened to post his series just as I started work on a new prototype, and I had been curious about React for a while – so this turned out to be a great match for what I was starting to build. Jérôme is now a *visualization person at Uber* (according to [his Twitter bio](https://twitter.com/jcukier)), but he worked at Facebook before and is quite familiar with React from his time there.

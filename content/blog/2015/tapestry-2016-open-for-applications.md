@@ -1,5 +1,3 @@
-# Tapestry 2016 Open For Applications
-
 [*Tapestry* 2016](http://www.tapestryconference.com) will take place March 9 next year in a historic hotel near Denver, CO. We have put together another exciting line-up of keynote speakers and are looking for applications from people who want to attend or speak.
 
 The goal behind *Tapestry* is to connect people who are interested in storytelling with data. It's a small conference (about 130 people), and very focused. We are very picky about speakers and attendees, but that also means that we get a density of conversations about storytelling and data that you won't find anywhere else.

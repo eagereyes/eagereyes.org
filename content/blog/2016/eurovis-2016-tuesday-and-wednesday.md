@@ -1,5 +1,3 @@
-# EuroVis 2016, Tuesday and Wednesday
-
 [EuroVis 2016](http://eurovis.org) is happening this week in Groningen, The Netherlands. This is the report from the first two-and-a-half days,  which saw some symposia, a keynote, and many paper presentations.
 
 The pre-conference program kicked off on Monday afternoon. In addition to a few small symposia, there was also a tutorial on machine learning and visualization. It was pretty basic, but [the materials are available online](http://mlvis2016.hiit.fi) in case you want to take a look.

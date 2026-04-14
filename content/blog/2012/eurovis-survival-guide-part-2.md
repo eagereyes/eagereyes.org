@@ -1,5 +1,3 @@
-# A EuroVis Survival Guide, Part 2
-
 Only a few more sleeps until [EuroVis](http://eurovis.org/)! As we approach the big date, here are some practical tips and tricks about Vienna, the local culture and the exotic customs of the natives.
 
 *Just to avoid misunderstandings: I am Austrian and I lived in Vienna for 10 years before coming to the U.S. This is important context for any criticism and making fun of Vienna, Austria, the Viennese, etc. in this part and [the previous one](/blog/2012/eurovis-survival-guide-part-1).*

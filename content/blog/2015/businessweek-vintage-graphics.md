@@ -1,5 +1,3 @@
-# Link: Businessweek Vintage Graphics
-
 The [BizWeekGraphics tumblr](http://bizweekgraphics.tumblr.com/post/105369006776/) (well worth following in general) has a series of postings with a beautiful collection of graphics from the very early days of Businessweek, and also some more recent ones:
 
 - [1929–1935: Depression](http://bizweekgraphics.tumblr.com/post/104341001376)

@@ -1,5 +1,3 @@
-# NY Times: The Best and Worst of Data Visualization
-
 The New York Times uses some of the best information graphics and visualizations on its web site and in the printed paper. But there is also a strange undercurrent of bad graphics, many of which commissioned from other sources, and often published in the New York Times Magazine. It almost feels like between all the good graphs, they need an outlet for the crazy stuff.
 
 The NYTimes folks do not only know what's going on in information visualization: Matthew Ericson, thir Deputy Graphics Director, gave the [keynote at InfoVis 2007](http://conferences.computer.org/infovis/InfoVis2007/keynote.html). He talked about their attempts to adapt visualization techniques for use with a general audience and how they add hints for people to understand what is being shown.

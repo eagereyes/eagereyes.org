@@ -1,5 +1,3 @@
-# The Unbearable Subjectivity of Visualization
-
 While reading Jarke van Wijk's *Views on Visualization*, I could not help but notice the negative references he makes to the subjectivity of visualization. A visualization science on par with statistics would certainly require the elimination of any and all subjectivity. I do not think that visualization is such a science, or that it being that is even all that desirable.
 
 The subjectivity argument stands out especially in a paper titled *Views on Visualization*, which is more of a position statement than a traditional technical paper. While van Wijk presents ideas that are common in visualization (or at least acceptable once presented), he stresses the personal nature of his views in the introduction, and uses the first person deliberately when talking about his experiences and anecdotal evidence.

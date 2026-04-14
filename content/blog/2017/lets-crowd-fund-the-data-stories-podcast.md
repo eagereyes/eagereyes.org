@@ -1,5 +1,3 @@
-# Let’s Crowd-Fund the Data Stories Podcast!
-
 Enrico and Moritz, the two hosts of the [only visualization podcast in the known universe](http://datastori.es/data-stories-crowdfunding/), are trying to crowd-fund their work rather than rely on advertising. If we all chip in a few dollars or euros per show, this will be easy to accomplish.
 
 You know those awkward breaks in the middle of the podcast where somebody gets cut off mid-sentence so Moritz can say, “Now is a great time to talk about our sponsor!”? Yeah, nobody likes those. It's up to you to make them go away, by paying for their costs so they don't have to run ads.

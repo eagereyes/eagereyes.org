@@ -1,5 +1,3 @@
-# Large Multiples
-
 Getting a sense of scale can be difficult, and the usual chart types like bars and lines don’t help. Showing scale requires a different approach, one that makes the multiplier directly visible.
 
 ## Bars

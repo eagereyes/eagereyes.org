@@ -1,5 +1,3 @@
-# Live-Microblog from VisWeek (InfoVis/VAST/Vis) 2008
-
 As [promised earlier](/blog/2008/two-years-of-eagereyes), I will be live-blogging [VisWeek 2008](http://vis.computer.org/VisWeek2008/Vis/index.html), which will take place next week in Columbus, OH. I will mostly attend InfoVis and VAST, with the odd Vis session and workshop thrown in. The live-blog will appear in a box at the top of the frontpage, and there will be a separate RSS feed for these posts. Coverage should start Sunday (October 19) morning, and there will also be [pictures](http://www.flickr.com/photos/eagereyes/collections/72157603647232879/).
 
 This is an experiment, and we'll see how much interest there will be. The idea is stolen from Mr. [FlowingData](http://flowingdata.com/), though in contrast I'm planning on actually following through. ;) I will write about the sessions I attend, papers I find notable, and any insights I think are worth sharing.

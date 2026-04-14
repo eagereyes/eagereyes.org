@@ -1,5 +1,3 @@
-# Meet @InfoVis_Ebooks, Your Source for Random InfoVis Paper Snippets
-
 Are you looking for inspiration while writing a paper or grant? Do you feel that there is a lack of information visualization content on Twitter? Is your timeline too empty and slow? Follow @InfoVis_Ebooks, a Twitter account that posts random pieces of text from infovis papers.
 
 ## Related Work

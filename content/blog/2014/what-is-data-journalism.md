@@ -1,5 +1,3 @@
-# What is Data Journalism?
-
 Is a data journalist one who unearths the data, who finds the insights in the data, who finds the right way to visually communicate the data? The answer is, of course, all three. But let's tease them apart and look at each separately.
 
 ## Unearthing the Data

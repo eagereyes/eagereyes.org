@@ -1,5 +1,3 @@
-# A Roundup of Year-End News Graphics Roundups
-
 The end of the year is always a good time to look back at the great work done in the world of news graphics – and this year in particular, to relive all the heartbreak and disillusionment. Here is a list of year-end news graphics round-ups for your enjoyment and edification.
 
 - The New York Times, [*2016: The Year in Visual Stories and Graphics*](http://www.nytimes.com/interactive/2016/12/28/us/year-in-interactive-graphics.html?_r=0)

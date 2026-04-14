@@ -1,5 +1,3 @@
-# Upcoming Travel: SxSW and Malofiej
-
 I will be at South-by-Southwest (SxSW) this year to speak on a panel, and also take part in the Malofiej awards and summit, where I will be a judge and speaker. Here are some pointers for those of you who might be at one (or both!) of those events.
 
 ## SxSW

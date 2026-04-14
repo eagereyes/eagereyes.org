@@ -1,5 +1,3 @@
-# Design Tutorials for VisWeek 2009
-
 As one of the Tutorials Chairs at this year's VisWeek (which is the combination of the IEEE Vis and InfoVis conferences, and the VAST symposium), I want to make you aware of the upcoming deadline for submitting tutorial proposals: April 28. We are looking for a wide variety of ideas, but I want to especially encourage the [submission of tutorials](http://vis.computer.org/VisWeek2009/tutorials.html) on design for visualization. VisWeek will take place October 10&ndash;16 in Atlantic City, NJ.
 
 This is in continuation of, and response to, last year's excellent workshop on [Design, Vision, and Visualization](http://www.stonesc.com/Vis08_Workshop/). There was a lot of interest from attendees beyond the small circle of workshop participants (who had submitted images and descriptions of problems). We came up with a list of [interesting questions](/blog/2008/design-workshop-questions) there that could clearly use some more discussion.

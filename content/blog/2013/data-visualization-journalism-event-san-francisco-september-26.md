@@ -1,5 +1,3 @@
-# Data Visualization and Journalism Event in San Francisco on September 26
-
 Visual.ly is hosting [an event on data visualization and journalism](http://blog.visual.ly/data-visualization-and-journalism/) on September 26 in San Francisco, under the rather clever heading of DV'n'J (think [PB&amp;J](http://en.wikipedia.org/wiki/Peanut_butter_and_jelly_sandwich)). I'm one of the speakers.
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/09/dvnj.jpg" alt="DVnJ" width="600" height="437"/></figure>

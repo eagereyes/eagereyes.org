@@ -1,5 +1,3 @@
-# Playable Data
-
 How do you engage people with data? How do you make them care and pay attention and remember anything about a particular piece of data? One way is dressing the data up as an information graphic. Another might be to get people to play a little game with the data. Nick Diakopoulos and colleagues have built a fascinating research prototype of what this might look like.
 
 The idea of *[gamification](http://en.wikipedia.org/wiki/Gamification)* is hard to escape these days, with many websites offering achievements of different kinds for activities from [just being somewhere](https://foursquare.com/) to [pushing yourself harder to exercise](http://www.fitocracy.com/). At worst, gamification can be an annoying contest for its own sake, but at best it can turn passive observers into active participants.

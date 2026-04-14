@@ -1,4 +1,3 @@
-# Anscombe's Quartet
 Visualization may not be as precise as statistics, but it provides a unique view onto data that can make it much easier to discover interesting structures than numerical methods. Visualization also provides the context necessary to make better choices and to be more careful when fitting models. [Anscombe's Quartet](http://en.wikipedia.org/wiki/Anscombe) is a case in point, showing that four datasets that have identical statistical properties can indeed be very different.
 
 ## Arguing for Graphics in 1973

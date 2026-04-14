@@ -1,5 +1,3 @@
-# The Cost of a Sick Chart
-
 General Electric recently commissioned Ben Fry and Seed Media to visualize health data to communicate the costs of different kinds of diseases to the public. The result is pretty and colorful, but of little value if you actually want to learn something.
 
 This would be less of an issue if it were a small hobby project done by somebody dabbling in visualization for the first time. But [General Electric (GE)](http://en.wikipedia.org/wiki/General_Electric) is the world's largest company, it employs over 300,000 people around the world and had over 180 billion dollars of revenue in 2008. In addition to electric appliances, it makes almost anything you can imagine (plus a lot of things you probably didn't even know existed).

@@ -1,5 +1,3 @@
-# Six Niche Visualization Blogs
-
 I don't have to link to infosthetics or flowingdata, you know those. But there are many others that are not as well known, but often contain really interesting work. They offer thoughtful criticism, discussions of the cognitive aspects of visualization, or designers' perspectives on visualization. Here is a list of six of them.
 
 ## Zhicheng "Leo" Liu, Designing and Understanding Visual Sensemaking

@@ -1,5 +1,3 @@
-# VIS 2015 – Friday
-
 The final day of the conference was much shorter, only one full session and then the closing with the capstone. Here is a report on a few more papers, the capstone, a panel left over from Thursday, and a few random tidbits.
 
 ## Running Wrap-Up

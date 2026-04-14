@@ -1,5 +1,3 @@
-# The NY Times COVID Spiral Is Off-Center
-
 An opinion piece in the New York Times last week got a lot of attention in visualization circles for its use of a spiral chart as its opener. While the choice of chart and color scheme can be debated, I want to discuss the fact that the spiral is disconcertingly off-center.
 
 The piece in question is titled *[Here’s When We Expect Omicron to Peak](https://www.nytimes.com/2022/01/06/opinion/omicron-covid-us.html)*. The opener image, which attracted a lot of attention on Twitter, shows the number of new COVID cases in the U.S. since the beginning of 2020.

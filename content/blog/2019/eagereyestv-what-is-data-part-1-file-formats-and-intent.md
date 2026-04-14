@@ -1,5 +1,3 @@
-# eagereyesTV: What is Data? Part 1, File Formats and Intent
-
 We all use data all the time, but what exactly is data? How do different programs know what to do with our data? How is visualizing data different from other uses of data? And isn’t everything inside a computer data in the end?
 
 The latest episode of eagereyesTV looks at what data is and what can set one kind of data apart from another. You can [watch on YouTube](https://youtu.be/pdVTaBGSddg) and right here.

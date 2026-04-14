@@ -1,5 +1,3 @@
-# Beyond Bertin: Seeing the Forest despite the Trees
-
 Visualization needs a new theory. Bertin's ideas about marks and retinal variables have provided a great starting point, but we are now seeing their limitations. We need to turn a new page and move beyond those cosy, familiar ideas, into new territory. A recent paper by Caroline Ziemkiewicz and myself makes an argument why, and provides some possible directions.
 
 Our criticism of the status quo is based on Caroline's Ph.D. work on structure in visualization. She found that the physical layout has a lot more influence on our understanding of a visualization than we were previously aware of.

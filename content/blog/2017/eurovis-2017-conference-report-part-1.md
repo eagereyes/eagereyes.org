@@ -1,5 +1,3 @@
-# EuroVis 2017 Conference Report, Part 1
-
 [EuroVis](http://eurovis2017.virvig.es) is currently taking place in Barcelona. In the interest of shorter postings, I’m breaking this report up into three parts. This first part covers the EuroRVVV workshop as well as the opening session and keynote.
 
 ## EuroRVVV Keynote

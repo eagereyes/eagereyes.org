@@ -1,5 +1,3 @@
-# Watch My Outlier Talk: This Should Have Been A Bar Chart!
-
 I gave a talk at the Outlier conference earlier this year, with the somewhat elaborate title, *The Joys – and Dangers – of Bespoke and Unusual Chart Types*. Though I eventually decided to go with the much shorter, *[This Should Have Been A Bar Chart!](https://www.youtube.com/watch?v=GeRgED7LWr8)* You can watch it on YouTube now.
 
 In the talk, I go through a number of examples, some of them recent, some of them a little older, of charts that are unusual in one way or another. These aren't the kinds of charts that work for any old data, they're often quite specific (or, bespoke) to the context and situation. And they don't always show a lot of data, either. But that can be a strength when it makes a chart stand out, stick in your head, or makes you look in the first place.

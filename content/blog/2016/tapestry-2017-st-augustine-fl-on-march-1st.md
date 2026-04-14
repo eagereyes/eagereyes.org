@@ -1,5 +1,3 @@
-# Tapestry 2017: St. Augustine, FL on March 1st
-
 We just announced next year's [Tapestry Conference](http://www.tapestryconference.com) – the fifth episode (chapter? act?)! It will take place on March 1st, 2017, in St. Augustine, FL. We have three exciting keynotes, and we're looking for your talk proposals, posters, and demos!
 
 Tapestry is a conference about storytelling with data. The goal is to bring together people from different backgrounds and have them talk to each other: journalists, designers, folks working for NGOs or government, academics, etc.

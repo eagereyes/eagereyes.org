@@ -1,5 +1,3 @@
-# VIS 2016 – Tuesday
-
 The official opening of the main conference was today, Tuesday. The conference is now in full swing until Friday.
 
 ## Opening

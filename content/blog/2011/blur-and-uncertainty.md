@@ -1,5 +1,3 @@
-# Blur and Uncertainty Visualization
-
 When visualizing uncertainty in data, a common choice is to use blur. While that may seem natural, it is unfortunately ineffective. Blur has the effect of guiding attention, but is hard to quantify and annoying to look at. Uncertainty information, or any other data, cannot be shown effectively this way.
 
 ## Semantic Depth of Field (SDOF)

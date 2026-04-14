@@ -1,5 +1,3 @@
-# Paper: Storytelling, The Next Step for Visualization
-
 Visualization is often considered to consist of three phases: exploration, analysis, and presentation. While the former two topics are covered well in the literature, there has been very little work specifically on presentation. In an upcoming paper, Jock Mackinlay and I argue that presentation, and in particular storytelling and communication of data, are the logical next step for the field, and provide some research directions.
 
 The paper is titled *[Storytelling: The Next Step for Visualization](/publications/Kosara-Computer-2013)* and was written for *IEEE Computer*, in particular the *Special Issue on Cutting-Edge Research in Visualization*, to be published in May. This is important context to understand what we were trying to achieve and why the paper's style is a bit unusual.

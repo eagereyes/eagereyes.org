@@ -1,5 +1,3 @@
-# Multi-touch Brushing for Parallel Coordinates
-
 Interaction in visualization is incredibly important, but often more tedious than it needs to be. I have developed a new way of brushing in parallel coordinates that uses the multi-touch trackpads on Apple's MacBook and MacBook Pro laptops for faster interaction. The video below demonstrates the technique, and the source code is available.
 
 This is a little experiment that has gotten out of hand a bit. I recently submitted a paper to a conference that doesn't let me attach additional materials, so I figured I'd put the video up on vimeo and link to it in the paper. I also posted a link on my secondary blog (edit: long defunct), which got posted on Twitter, and which ended up being blogged by some [other](http://www.theusrus.de/blog/why-do-we-do-it-–-cause-we-can/) [people](http://interactivemultimediatechnology.blogspot.com/2010/07/multi-touch-parallel-coordinates-for.html).

@@ -1,5 +1,3 @@
-# List of Influences: Pat Hanrahan
-
 Since Pat Hanrahan was part of the reason for starting [this project](/tag/influences), it was only fair to ask him first. I also didn't get all the titles written down that he mentioned, so there is also a practical reason ...
 
 Pat Hanrahan is a professor of computer science at Stanford, and has published not just in visualization, but also in many other areas of computer graphics. Instead of listing his achievements here, let me just tell you this: if you don't know who he is, you better find out.

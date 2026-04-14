@@ -1,5 +1,3 @@
-# Why I Do This
-
 Why spend countless hours writing a blog like this? What do I get out of it? What do I hope to accomplish? What is the purpose?
 
 ## To Get Information Out

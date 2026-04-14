@@ -1,5 +1,3 @@
-# eagereyesTV: Index Charts, Part 2: Chopping Up and Folding the Time Axis
-
 I covered the more commonly known value index charts in my  [my last video on index charts](https://youtu.be/qs7h19vaqQc), this one is about indexing on the horizontal, or time, axis. It's kind of fascinating how you can fold the time axis to get a better view of your data. I show how it works and walk through a number of examples, using housing prices, camera sales, global warming, and even data about my running!
 
 I'm again embedding the video below, but please [head over to YouTube](https://youtu.be/0Yy90fvusEw) if you want to comment or maybe even give the video a thumbs-up.

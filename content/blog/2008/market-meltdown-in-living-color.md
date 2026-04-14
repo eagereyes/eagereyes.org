@@ -1,5 +1,3 @@
-# The Market Meltdown in Living Color
-
 Images speak louder than words. A lot louder. It would be hard to find a more vivid and impressive visualization of what happened today on the New York Stock Exchange.
 
 If you're wondering what that little green spot is: it's Barrick Gold, with a plus of 4.53%. Good for them.

@@ -1,5 +1,3 @@
-# ISOTYPE Book: Young, Prager, There’s Work for All
-
 This book from 1945 contains a very interesting mix of different charts made by the ISOTYPE Institute, some classic and some quite unusual. As a book about labor and unemployment, it also makes extensive use of Gerd Arntz’s famous unemployed man icon.
 
 Michael Young and Theodor Prager’s *There’s Work for All* is part of a series called *The New Democracy *that contains at least ten books. Like [many books containing ISOTYPE charts](/tag/isotype-books) from that time, the text makes no reference to the charts. They exist alongside, almost like a separate book within the book.

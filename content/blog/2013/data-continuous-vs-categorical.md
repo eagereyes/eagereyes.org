@@ -1,5 +1,3 @@
-# Data: Continuous vs. Categorical
-
 Data comes in a number of different types, which determine what kinds of mapping can be used for them. The most basic distinction is that between continuous (or quantitative) and categorical data, which has a profound impact on the types of visualizations that can be used.
 
 The main distinction is quite simple, but it has a lot of important consequences. Quantitative data is data where the values can change continuously, and you cannot count the number of different values. Examples include weight, price, profits, counts, etc. Basically, anything you can measure or count is quantitative.

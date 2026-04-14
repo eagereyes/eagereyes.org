@@ -1,5 +1,3 @@
-# EuroRVVV Call For Papers!
-
 I'm delighted to be one of the co-chairs of the workshop on reproducibility, verification, and validation in visualization ([EuroRVVV](http://www.eurorvvv.org/) – quite possibly the worst-acronymed workshop in visualization) at [EuroVis](http://eurovis.org). The topic this year is uncertainty, and we're looking for all kinds of contributions to this important topic.
 
 We talk a lot about uncertainty, but we're still lacking the tools to deal with many kinds of uncertainty. We're also lacking a good picture of what kinds of uncertainty we need to deal with, and what good strategies even look like (will all that information about the uncertainty in the data confuse and overload users?).

@@ -1,5 +1,3 @@
-# Malofiej 20
-
 [Malofiej](http://www.malofiej20.com/) was an exhausting week with many great conversations, fascinating insights, and great company. My sleep-deprived and jet-lagged brain is buzzing with things to write about, and this is only the first of several articles about or inspired by Malofiej. I start with a discussion on why I think *The New York Times* did so well this year, and what other newspapers can do to catch up.
 
 Co-jurors [Andy Kirk](http://www.visualisingdata.com/index.php/2012/03/personal-reflections-on-malofiej-20/) and [Bryan Christie](http://bryanchristieblog.blogspot.com/2012/03/initial-thoughts-on-malofiej20.html) have already written about their experiences, the process, and some of the reactions to the awards. I do not mean to defer to them entirely here, but I want to focus on some of the things they have not discussed for now.

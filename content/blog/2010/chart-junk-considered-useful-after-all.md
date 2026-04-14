@@ -1,5 +1,3 @@
-# Chart Junk Considered Useful After All
-
 There is almost universal agreement that any extraneous elements in a chart or visualization, elements that do not represent numbers, are detrimental to understanding the data. A paper that was presented at CHI recently described a study to figure out just how bad all this chart junk really was. As it turns out, it's actually rather helpful.
 
 ## Chart Junk

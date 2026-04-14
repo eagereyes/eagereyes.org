@@ -1,5 +1,3 @@
-# Women in IT - Squaring the Pie?
-
 Pie charts are a ubiquitous way of showing percentages. But while we can see differences in angles quite well, reading the meaning of the difference is another matter, so for precise data, we still need the numbers. A little known variant of pie charts is not round, but square, and can be read with an accuracy of one percent. We will look at data on women in information technology using this method.
 
 The [National Center for Women and Information Technology (NCWIT)](http://ncwit.org/) publishes a very impressive [one-page summary of the under-representation of women in IT](http://www.ncwit.org/pdf/2006_NCWIT_Statistics.pdf) (PDF). We all know, of course, how few women there are in IT, especially in leading positions. But seeing the actual numbers is still shocking. The graphics here use parts of that summary to compare numbers and charts.

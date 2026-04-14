@@ -1,5 +1,3 @@
-# A Scholarly Discussion with Andrew Gelman and Anthony Unwin
-
 This is how scholarly exchanges used to work: Scientist A publishes a result, Scientist B then writes an angry letter saying that Scientist A is full of it, to which A responds with more insults, etc., and all that published in a fine scholarly journal. I was recently asked to respond to a piece Andrew Gelman and Anthony Unwin had written about visualization for the *Journal of Computational and Graphical Statistics*, which had some issues.
 
 In addition to yours truly, the journal's editor Richard Levine also asked Hadley Wickham, Stephen Few, and Paul Murrell for comment. The original article, responses, and Gelman and Unwin's rejoinder are only going to appear in the March 2013 issue of the journal. However, since [Gelman has already put both of his articles online and blogged about them](http://andrewgelman.com/2012/11/tradeoffs-in-information-graphics/), it makes sense to also make my part of the conversation available; in particular since Gelman and Unwin extensively refer to my piece in their rejoinder.

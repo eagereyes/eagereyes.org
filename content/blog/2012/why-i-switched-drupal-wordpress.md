@@ -1,5 +1,3 @@
-# Why I Switched From Drupal to WordPress
-
 After [more than five years](/blog/2011/five-years-of-eagereyes), switching the content management system (CMS) on [eagereyes](/) was not an easy decision. I've been thinking about doing that for a while though, and I want to explain my reasons and what I expect WordPress to do better than Drupal below. This should also be useful for anybody who is on the fence about starting a blog (or has a blog that hasn't been updated in a while).
 
 The key issue is really simple: maximize blogging, minimize administrative stuff. It gets a bit more complicated when looking at the details, but that's really the main thing I want from WordPress: let me be efficient about the little administrative things, stop me from tinkering endlessly with stuff, and help me focus on the writing.

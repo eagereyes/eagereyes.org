@@ -1,5 +1,3 @@
-# Edward Tufte's One Day Course: A Review
-
 Last Monday, I got to attend [Edward Tufte’s one-day course](http://www.edwardtufte.com/tufte/courses). I was looking forward to a day of interesting examples, ideas, and discussions, but was disappointed by the amount of rambling and largely historical examples, with little connection to real, current visualization (or presentation) work.
 
 ## The Setting

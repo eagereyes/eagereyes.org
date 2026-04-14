@@ -1,5 +1,3 @@
-# Story Points
-
 I consider presentation and storytelling [the next step in visualization](/papers/paper-storytelling-step-visualization), after most of the focus has been on exploration and analysis so far. An upcoming version of Tableau will include a feature called Story Points, which supports presentation directly in the visualization tool.
 
 ## A Story

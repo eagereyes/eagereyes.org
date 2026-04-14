@@ -1,5 +1,3 @@
-# Review: Alberto Cairo, The Functional Art
-
 When Alberto Cairo first told me about the book he was writing, called *The Functional Art*, he warned me that only a small part of it was going to be about visualization. I have no idea what he was talking about, the book I read was a visualization book from start to finish. It is one of the most interesting and insightful books on the topic I have read in a while.
 
 This book is really three books in one, plus a bunch of video lectures. Two books are obvious from the way it is structured, the third one is the collection of visual examples Cairo uses to illustrate his points.

@@ -1,5 +1,3 @@
-# The Mirrored Line Chart Is A Bad Idea
-
 The mirrored line chart is a pet peeve of mine. It's very common close to elections when there are two parties or candidates: one's gains are at the other's expense. But it becomes even more egregious when there are two categories that have to sum up to 100% by their very definition.
 
 In her coverage of President Obama's State of the Union address, The Guardian finance and economics editor Heidi N. Moore [tweeted the following chart](https://twitter.com/moorehn/status/428382861016576000/), which came from [a report by the National Institute on Retirement Security](http://www.nirsonline.org/index.php?option=com_content&amp;task=view&amp;id=768&amp;Itemid=48) (which, despite its official-sounding name, is a think tank):

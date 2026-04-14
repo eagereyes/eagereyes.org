@@ -1,5 +1,3 @@
-# How to Get Excited About Standard Datasets
-
 It can be hard to get excited about the standard datasets that we keep using to show how visualization and statistics work. But if that's the case for you, it's not the datasets's fault, it's you! Here’s how to keep that spark going!
 
 ## Cars

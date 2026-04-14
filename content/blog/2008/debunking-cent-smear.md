@@ -1,5 +1,3 @@
-# Debunking the Cent Smear
-
 A story is making the rounds recently that the Obama campaign has received many contributions with "odd" amounts (i.e., not whole dollars), which is supposedly proof that Obama was being funded by foreign money. Here is a quick look at the data, which shows some interesting patterns, but no evidence of foreign intervention.
 
 The whole story is of course non-sensical: if people were really charging their foreign credit cards, they would still send whole dollar amounts, since amounts are always specified in the target currency. But the much stronger evidence that the argument is nonsense is in the following image (multiples of 10 are colored blue, multiples of 5 (which are not multiples of 10) are green. Of the more than two million contributions, almost 94% were whole numbers, so the 0 cents case is not shown below.

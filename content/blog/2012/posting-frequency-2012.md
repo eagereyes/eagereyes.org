@@ -1,5 +1,3 @@
-# New Posting Frequency for 2012
-
 In my enthusiasm about [switching to WordPress](/blog/2012/why-i-switched-drupal-wordpress), I made the mistake of tweeting about potentially increasing my posting frequency in 2012. While I have tried to stick to a roughly weekly schedule in the past, there have been weeks when I did not write anything. My hope is to increase the frequency to roughly twice a week and see how that goes. [John Peltier](http://peltiertech.com/WordPress/) and [Jorge Camoes](http://www.excelcharts.com/blog/posts/) are planning on doing the same.
 
 Jorge has been on fire lately with his posting on [Patterns of Knowledge](http://www.excelcharts.com/blog/patterns-of-knowledge/) and his [new series](http://www.excelcharts.com/blog/a-course-for-the-invisible-data-visualization-users/) that is starting with a brilliant basic question: [What is a chart?](http://www.excelcharts.com/blog/data-visualization-excel-users/what-is-chart/)

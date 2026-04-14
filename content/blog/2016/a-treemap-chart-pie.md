@@ -1,5 +1,3 @@
-# A Treemap Chart Pie
-
 After [his recent early chart pie attempts](/blog/2016/ben-shneidermans-chart-pies), Ben Shneiderman has now achieved the ultimate in chart pie baking: a treemap chart pie. 
 
 In case you're wondering about the significance of this momentous achievement: [treemaps were Ben's idea](http://www.cs.umd.edu/hcil/treemap-history/).

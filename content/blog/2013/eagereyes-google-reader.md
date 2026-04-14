@@ -1,5 +1,3 @@
-# How to Keep Following eagereyes After the End of Google Reader
-
 With Google Reader shutting down July 1st, now is the time to find alternative ways to follow your favorite blogs. For this one, you can now get new postings [on Facebook](https://www.facebook.com/eagereyes.org) and through [a dedicated Twitter feed](https://twitter.com/eagereyes_feed), in addition to the RSS feed. See below for some RSS aggregator/reader alternatives to Google Reader.
 
 ## Facebook and Twitter

@@ -1,5 +1,3 @@
-# Spreadsheet Thinking vs. Database Thinking
-
 The shape of a dataset is hugely important to how well it can be handled by different software. The shape defines how it is laid out: wide as in a spreadsheet, or long as in a database table. Each has its use, but it's important to understand their differences and when each is the right choice.
 
 ## Wide and Two-Dimensional: The Spreadsheet

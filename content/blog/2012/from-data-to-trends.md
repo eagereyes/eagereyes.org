@@ -1,5 +1,3 @@
-# From Data to Trends
-
 After [my recent abstraction exercise](/blog/2012/data-need) created some interesting discussion but kind of went off in a slightly wrong direction, here is another experiment.
 
 Let's take the data from [Nigel Holmes' famous Monster chart](/criticism/chart-junk-considered-useful-after-all) and turn that into a simple bar chart. I chose a similarly basic one here as the one in Bateman et al.'s study, but the filled bars are slightly less ugly. The x axis shows years in the 20<sup>th</sup> century, the y axis millions of dollars.

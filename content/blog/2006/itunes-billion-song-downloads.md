@@ -1,5 +1,3 @@
-# iTunes (Music) Store Billion Downloads Visualization
-
 On February 23rd, 2006, Apple's [iTunes Music Store](http://www.apple.com/itunes/) (iTMS, now called the iTunes Store) sold its one billionth song. In the days leading up that event, Apple had a countdown on its webpages, which provided interesting information about the download habits of its customers. This page provides a visualization of the collected data, as well as of data that others collected leading up to the 100 millionth and 500 millionth downloads.
 
 ## The Display

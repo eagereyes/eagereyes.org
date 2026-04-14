@@ -1,5 +1,3 @@
-# EuroVis 2018, Wednesday through Friday
-
 EuroVis raged on through the end of the week with talks, posters, and lots of food. This second part covers papers about visualization evaluation, high-dimensional structures, graph layouts, etc., as well as the capstone and closing (with information about next year).
 
 ## Papers: Visualization Design

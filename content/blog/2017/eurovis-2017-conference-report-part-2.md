@@ -1,5 +1,3 @@
-# EuroVis 2017 Conference Report, Part 2
-
 On the first full day of the main [EuroVis conference](http://eurovis2017.virvig.es), we learned that estimating correlation from scatterplots may not be as great as we thought, saw a number of new ways to show what is and is not in the data, and got some new tools for making browser-based visualization fast.
 
 Before I dive into the papers, I want to make clear that this is a very biased selection of papers, and only covers less than one third of what was shown. I can only be in one place at once, and I go to the presentations that interest me. Given the almost complete silence on Twitter (other than [me shouting into the void](https://twitter.com/search?q=eagereyes%20EuroVis&amp;src=typd)), and the lack of other people who write about conferences, I’m getting a bit concerned that the papers I decide to cover are getting a lot more attention than whatever I leave out.

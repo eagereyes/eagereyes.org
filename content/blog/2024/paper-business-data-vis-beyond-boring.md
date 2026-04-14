@@ -1,5 +1,3 @@
-# Paper: Business Data Visualization, Beyond the Boring
-
 The words _business_ and _data visualization_ probably put you to sleep before you even reach the end of this sentence. But wake up! There's actually a lot of interesting work to be done in this area, if only we give it a chance. I think research has ignored this space for too long, and is missing out not only on more ways to create better applications, but to find really interesting research problems to work on.
 
 In this new paper in CG&amp;A _Visualization Viewpoints_, I cover a range of preconceived ideas that I think keep researchers from wanting to work on business data vis, and point out some interesting research directions. 

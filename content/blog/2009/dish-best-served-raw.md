@@ -1,5 +1,3 @@
-# Data Is A Dish Best Served Raw
-
 The recent opening of [Data.gov](http://data.gov/) has led to a [number of discussions](http://sunlightlabs.com/blog/2009/05/28/what-id-change-about-datagov/) on data formats, feeds, what kinds of data, which agencies are or are not participating, etc. One key aspect that gets overlooked very easily, but that is really essential, is that what is being published is actual data: original, raw, unprocessed, undigested, naked data. Everything else is secondary.
 
 A lot of data comes from tables in reports. It has become something of a custom in recent years for government agencies to publish the tables in their reports as Excel files. I really don't get the point of doing this, as it's the same exact numbers that can be found in the report, anyway. And usually, it's only a handful of numbers per table. Here is a recent example from a [crime report in the UK](http://www.guardian.co.uk/news/datablog/2009/may/21/ukcrime-police):

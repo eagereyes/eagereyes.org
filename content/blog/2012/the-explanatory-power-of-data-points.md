@@ -1,5 +1,3 @@
-# The Explanatory Power of Data Points
-
 As newspaper graphics go, scatterplots are a fairly advanced technique. They tend to show a reasonably large amount of data as single points, and they require the reader to have an idea what to look for. Most newspapers never bother using scatterplots for that reason, which is really too bad. With some explanation, a scatterplot can be a very effective means of displaying data, and in particular to allow the user to drill into the data a little bit.
 
 In 2010, *The New York Times'* Hannah Fairfield and Graham Roberts created a [wonderful interactive visualization of the pay gap between men and women](http://www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html) (requires Flash). While at first it seems like a straightforward scatterplot, there are some simple yet clever additions that make it much more approachable.

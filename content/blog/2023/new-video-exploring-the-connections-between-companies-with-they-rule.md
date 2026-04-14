@@ -1,5 +1,3 @@
-# New video: Exploring the connections between companies with They Rule
-
 [Josh On's *They Rule*](https://theyrule.net) is back, and I've made a video about it.
 
 *They Rule* connects companies through their boards of directors. You can follow these connections between seemingly unrelated companies, and sometimes even competitors.

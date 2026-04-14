@@ -1,5 +1,3 @@
-# Peer Review, Part 1: Quilt Plots
-
 What is peer review? How does it work? And is it really as flawed as people claim it is? In [this little series](/tag/peer-review), I will talk about all that, and then end up arguing that peer review does, in fact, work - at least in visualization. But first an example where it didn’t.
 
 A paper made the rounds last week for its poor quality: [*Quilt Plots: A Simple Tool for the Visualisation of Large Epidemiological Data*](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0085047). It was peer-reviewed and accepted by an editor at PLOS ONE, which is an online science journal (covering all the sciences). PLOS ONE is an open-access online journal with the goal of publishing work faster and without trying to assess importance (which is difficult). That’s not a bad idea in principle, but this example shows that their [rigorous peer review](http://www.plosone.org/static/information) might need some work.

@@ -1,5 +1,3 @@
-# Data Stories Podcast: 2013 in Review, Outlook to 2014
-
 The [Data Stories podcast](http://datastori.es/) starts the new year with [Andy Kirk](http://www.visualisingdata.com) and me as guests. With the hosts, [Enrico Bertini](http://fellinlovewithdata.com) and [Moritz Stefaner](http://stefaner.eu), we discuss the major developments of 2013 and look ahead to what 2014 has in store.
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2014/01/datastories-screencap1-730x422.jpg" alt="Data Stories Screencap 1" width="730" height="422"/></figure>

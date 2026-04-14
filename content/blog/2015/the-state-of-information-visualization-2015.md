@@ -1,5 +1,3 @@
-# The State of Information Visualization, 2015
-
 It seems to be a foregone conclusion that 2014 was not an exciting year in visualization. When we recorded the Data Stories episode looking back at 2014 last week (to be released soon), everybody started out with a bit of a downer. But plenty of things happened, and they point to even more new developments in 2015.
 
 If this was such a boring year, how come Andy Kirk have  [a round-up of the first six months](http://www.visualisingdata.com/index.php/2014/08/10-significant-visualisation-developments-january-to-june-2014/), and [another posting for the second half of the year](http://www.visualisingdata.com/index.php/2014/12/10-significant-visualisation-developments-july-december-2014/) with many good examples? Or how about Nathan Yau's [list of the best data vis projects of the year](http://flowingdata.com/2014/12/19/the-best-data-visualization-projects-of-2014-2/)? So yeah, things happened. New things, even.

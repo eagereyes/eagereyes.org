@@ -1,5 +1,3 @@
-# VIS 2016 – Sunday, Monday: BELIV and Being Contrarian
-
 The early part of IEEE VIS 2016 is already behind us. This includes many workshops, tutorials, as well as the Doctoral Colloquium. It has been an interesting three days (considering Saturday here as well). This posting is less a report as a number of observations from a several discussions and talks.
 
 ## Doctoral Colloquium

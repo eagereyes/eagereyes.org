@@ -1,3 +1,1 @@
-# Data Stories starring Tamara Munzner
-
 [The latest episode of the *Data Stories* podcast](http://datastori.es/data-stories-44/) has [Tamara Munzner](http://www.cs.ubc.ca/~tmm/) as the guest. They talk about [her much-anticipated book](http://www.crcpress.com/product/isbn/9781466508910), visualization taxonomies, and a lot more. It's a great episode, well worth listening to.

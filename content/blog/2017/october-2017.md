@@ -1,5 +1,3 @@
-# Vis Potpourri, October 2017
-
 A potpourri isn't usually structured, since it's supposed to be thrown together and mixed. But this one has a section on reports from this year's VIS conference, plus various miscellaneous items like a tool to explore a brain atlas, some history on spreadsheets, and a celebration of *Archer*, among other things.
 
 ## VIS Reports

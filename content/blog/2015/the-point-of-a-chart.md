@@ -1,5 +1,3 @@
-# The Point Of A Chart
-
 When creating charts, it's important to pick the one that actually fits not just the data, but the task. That can require going outside your comfort zone to use something beyond the four or five most common chart types. Here is an example where the original chart does not support comparison between two different sets of numbers, but it's easy to fix.
 
 On Twitter this morning, [Stephen Hoskins pointed me](https://twitter.com/StephenHoskins/status/636426882775252992) to [this story about Auckland schools in the NZ Herald](http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&amp;objectid=11496657) as a good use of pie charts. It's an interesting case, because individually, these aren't bad pie charts. They show the make-up of the poorest (Decile 1, lowest decile) and richest (Decile 10, highest decile) schools in Auckland.

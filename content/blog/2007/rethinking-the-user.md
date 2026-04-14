@@ -1,5 +1,3 @@
-# Rethinking the User
-
 A discussion at a [seminar in Dagstuhl](http://kathrin.dagstuhl.de/07221/) (Germany) on Information Visualization led to an interesting insight: what if we completely misunderstood who the users are for visualization? Especially in light of the current developments for [broadly usable visualization](/blog/2007/visualization-sets-information-free), we need to rethink the types and levels of expertise that we can expect.
 
 Two presentations in a session about Visual Analytics (by Stephan Diehl and Daniel Keim) presented work that had been based on visualization, but was not in itself visual. Diehl talked about a system for software development that was informed by insights from an exploratory visualization of version control data, and Keim gave a great overview over the problems when trying to "sell" visualization to potential users and funding agencies.

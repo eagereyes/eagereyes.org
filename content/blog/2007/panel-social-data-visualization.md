@@ -1,5 +1,3 @@
-# InfoVis Panel: The Impact of Social Data Visualization
-
 Visualization for the masses is a powerful means of communication, in an age where we have access to incredible amounts of data, but still little understanding based of what it all means. I have argued that [visualization sets information free](/blog/2007/visualization-sets-information-free), I have [criticized Swivel and Many-Eyes](/blog/2007/swivel-vs-many-eyes), and I have argued for [reassessing who our users are](/blog/2007/rethinking-the-user). At Vis/InfoVis, I am organizing a panel with people from Many-Eyes, Swivel, and Gapminder.
 
 The list of speakers is quite impressive (in alphabetical order): Brent Fitzgerald (Swivel), Ola Rosling (Gapminder), Fernanda Viégas (Many-Eyes), and Martin Wattenberg (Many-Eyes, but see below).

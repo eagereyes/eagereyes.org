@@ -1,5 +1,3 @@
-# VisWeek 2012 Digest, Part 3
-
 This final installment of the digest sums up a few more thoughts on this year's VisWeek. Inside: SciVis, BioVis, and parties!
 
 ## Parties

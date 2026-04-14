@@ -1,5 +1,3 @@
-# IEEE VIS 2018, Part 2: Time, Evaluation, Dashboards, The Future of VIS
-
 While [the first part of this report](/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers) covered mostly workshops and other events, it's all papers from now on. Plus a session on the future of the VIS conference. 
 
 ## Time

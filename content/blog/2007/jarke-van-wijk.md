@@ -1,5 +1,3 @@
-# List of Influences: Jarke "Jack" van Wijk
-
 A colleague of mine describes [Jarke van Wijk](http://www.win.tue.nl/~vanwijk/) as "somebody who has not just worked in several areas of visualization, but also written the landmark papers in each of them." His contributions include spot noise and image-based flow visualization, cushion treemaps (with Huub van de Wetering), optimal zooming and panning (with Wim A. A. Nuij), as well as reflections on the value of visualization. His sense of humor is also notable, and his talks are always very enjoyable. Reason enough, therefore, to consider him influential enough to ask him for a [list of things that influenced](/blog/2007/series-introduction) him.
 
 *Here is a list of books that have influenced me. Visualization is a strongly interdisciplinary field, and with my selection I try to bring this forward. Also, this is a very personal list. I do not claim that each book mentioned is the best in its category, some of them I just ran into. But on the other hand, each of them had important lessons and insights for me. The order is more or less chronological, that is, in the order that I read them.*

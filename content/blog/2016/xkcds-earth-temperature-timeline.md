@@ -1,5 +1,3 @@
-# Link: xkcd's Earth Temperature Timeline
-
 Randall Munroe has done it again. His latest xkcd comic is [an enormous timeline of the Earth's temperature](http://xkcd.com/1732/), showing the enormously long time we have temperature estimates for, and how little it has changed until very, very recently.
 
 Munroe has an incredible talent for creating simple and fun explanations for complex topics. I highly recommend his book, *[Thing Explainer](/blog/2015/review-munroes-thing-explainer-and-pinkers-sense-of-style)*.

@@ -1,5 +1,3 @@
-# Affordances
-
 How do we know what we can do with things in the world or in user interfaces? What makes us push buttons, flip switches, or pick up objects that fit our hands? This guidance comes from *affordances*, a clever and intuitive theory that has been around for decades but is often misunderstood.
 
 The term *affordance* was coined by James J. Gibson in his book, *The Ecological Approach to Visual Perception* (Lawrence Erlbaum Associates, 1979). Gibson writes,

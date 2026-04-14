@@ -1,5 +1,3 @@
-# Open Positions at PNNL
-
 [Pacific Northwest National Laboratory (PNNL)](http://www.pnl.gov/) is looking to fill three positions related to visualization and visual analytics. If you are interested, see [their jobs website](http://jobs.pnl.gov/) for more information and to apply. All positions require the ability to obtain a future security clearance, which requires U.S. citizenship. They're all located in Richland, Washington.
 
 ## Chief Scientist, Information Analytics

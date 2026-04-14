@@ -1,5 +1,3 @@
-# Paper: Presentation-Oriented Visualization Techniques
-
 Presentation is often considered a part of visualization, but what does that mean for the kinds of techniques we use? Are they the same as used for analysis? What criteria should we use to pick them? In a new paper, I discuss a class of techniques I call *presentation-only*.
 
 The paper is accordingly titled *[Presentation-Only Visualization Techniques](/publications/Kosara-CGA-2016)*, and it just appeared in the *Visualization Viewpoints* column of the January/February issue of [*IEEE Computer Graphics and Applications*](http://online.qmags.com/CGA0116?pg=86&amp;mode=2#pg82&amp;mode2) (CG&amp;A).

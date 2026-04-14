@@ -1,5 +1,3 @@
-# Review: Jon Schwabish, Better Presentations
-
 Presentations can be dreadful. Badly thought-out slides, boring structure, poorly delivered. I once told a colleague after a practice talk to please shoot me before she’d ever make me sit through such a talk again (to be fair, she had called the talk boring herself before she even began).
 
 Instead of suffering through more bad presentations, [Jon Schwabish](https://policyviz.com) decided to teach people how to make them better with his book, [*Better Presentations*](https://policyviz.com/better-presentations/). And it’s badly needed.

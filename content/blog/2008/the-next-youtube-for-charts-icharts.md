@@ -1,5 +1,3 @@
-# The Next YouTube for Charts: iCharts
-
 There's new competition for Swivel and Many Eyes: [iCharts](http://www.icharts.net/). A good name, to be sure, but will they live up to their promise of being "YouTube for Charts" (a claim Swivel also made in the beginning)? A first look at their website suggests that they likely will not.
 
 iCharts is more similar to Swivel than to [Many Eyes](http://many-eyes.com/), both in their limited choice of charts and because they are an independent start-up (whereas Many Eyes is run by IBM). In comparison to Swivel, their vision is quite limited though ("to bring charts online"), and Swivel also had a clear idea how they would eventually make money from the very beginning. I don't see anything resembling that on iCharts (correction: iCharts wants to offer certain features, like embedding of charts in PDF files, to premium users. That's a start, but I'm not convinced that that will be enough.).

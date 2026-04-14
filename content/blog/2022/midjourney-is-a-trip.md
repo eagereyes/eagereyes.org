@@ -1,5 +1,3 @@
-# Midjourney is a Trip
-
 Of the several AI-powered systems that can create images from text prompts, MidJourney is the most easily accessible one right now. I've had some fun playing with it.
 
 Midjourney produces images from *prompts*, which are basically text descriptions. They don't have to be specific or concrete in any way. "Astronaut riding a horse in space" works just as well as abstract words. In fact, the latter can sometimes produce more interesting images.

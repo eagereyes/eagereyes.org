@@ -1,5 +1,3 @@
-# Want to Make A Chart Memorable? Add Junk
-
 A common criticism of charts is that they are filled with *chart junk,* and that removing the extraneous elements would make the chart better and stronger. That argument works for analytical charts, but not for charts that are used for presentation. The way memory works suggests that chart junk is actually very useful to not only get a point across, but make sure the reader remembers it.
 
 ## Recap: The Chartjunk Paper

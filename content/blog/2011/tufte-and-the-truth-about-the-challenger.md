@@ -1,5 +1,3 @@
-# Tufte and the Truth about the Challenger
-
 Almost exactly 25 years ago, on January 28, 1986, Space Shuttle Challenger disintegrated seconds after lift-off. One of Edward Tufte's most famous examples of bad charts are the ones used by engineers who argued against the launch, and who failed to convince. It's a fascinating story, but it has one major fault: it is not true.
 
 ## The Charge

@@ -1,5 +1,3 @@
-# The Perfect Visualization
-
 There are many rules about how to visualize data. We know how to encode specific types of data, what visual encodings work well, and what does not work so well. But is there such a thing as a perfect visualization for a given set of data?
 
 This is a topic that comes up every now and then. In mathematics and some parts of computer science, an algorithm can be shown to be optimal. That requires a way to measure the outcome, though. Without a metric to optimize, there is no optimization. In algorithms, that is usually time, and sometimes error (for approximate or stochastic algorithms). The better algorithm is the one that produces the more desirable value in the metrics.

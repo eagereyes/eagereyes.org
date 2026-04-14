@@ -1,5 +1,3 @@
-# Ben Shneiderman's Treemap Art
-
 Art imitates life, and sometimes art is inspired by research. Ben Shneiderman’s *[Treemap Art](http://treemapart.wordpress.com/)* is unique in that it is the researcher himself (with [Kazi Minhazur Rahman](http://www.minhazur.com)), rather than an artist, who has created the art pieces.
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/12/treemapart-mondrian-730x557.png" alt="Ben Shneiderman, The Singing Mondrian" width="730" height="557"/></figure>

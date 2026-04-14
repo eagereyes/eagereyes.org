@@ -1,5 +1,3 @@
-# VIS Tutorials and the Industry and Government Experiences Track
-
 The deadline for tutorial proposals for [VIS 2013](http://ieeevis.org) is coming up. There are a few changes from last year. Also, there is a new *Industry and Government Experiences Track* at the conference this year.
 
 ## Tutorials

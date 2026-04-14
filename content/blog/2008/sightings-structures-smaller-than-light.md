@@ -1,5 +1,3 @@
-# Sightings: Structures Smaller than Light
-
 Proteins are inherently three-dimensional, complex structures. To understand them, we need to simplify them to focus their main structural components. Jane Richardson has played a key role in the visual language that we use today when talking about proteins: ribbons and spirals. I interviewed her recently for the *Sightings* column in *American Scientist*.
 
 If the name and work sounds familiar, you may remember her [capstone talk at Vis 2006](http://vis.computer.org/Vis2006/session/capstone.html). Jane Richardson is a [professor at Duke University](http://kinemage.biochem.duke.edu/), where she is now working on visualizing proteins and atom configurations in virtual environments (among many other things).

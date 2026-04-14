@@ -1,5 +1,3 @@
-# Venn Diagrams
-
 Venn diagrams are a great way to visualize the structure of set relationships. They're also an example of a technique that works very well for a particular purpose, but that entirely fails outside its well-defined scope or when the number of sets gets too large.
 
 The idea of the [Venn diagram](http://en.wikipedia.org/wiki/Venn_diagram) is simple: sets are shown as regions, typically circles. The inside of the circle represents elements of a particular set, the outside anything that is not in that set. A set might contain all dogs: anything inside the circle is a dog, anything outside is not a dog.

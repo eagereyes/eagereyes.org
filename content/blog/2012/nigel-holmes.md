@@ -1,5 +1,3 @@
-# List of Influences: Nigel Holmes
-
 Few people have influenced the face of information graphics like Nigel Holmes. I am honored to not only present his very extensive and detailed [list of influences](/blog/2007/series-introduction) here, but also do so on the occasion of his upcoming 70<sup>th</sup> birthday on June 15, 2012.
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/06/holmes-artistic-license.png" alt="" width="300" height="189"/></figure>

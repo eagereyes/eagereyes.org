@@ -1,5 +1,3 @@
-# IEEE VIS 2017: Machine Learning, Diversity, Parties
-
 I've ignored the major new topic this year so far: machine learning. Another new thing this year, though way overdue, was that we finally started to talk about diversity. And then there were the parties.
 
 ## Machine Learning

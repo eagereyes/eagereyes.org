@@ -1,5 +1,3 @@
-# The State of Information Visualization, 2011
-
 Theory in visualization! Swivel disappears! Reappears! Disappears again! Stories told using visualization! A lot happened in [visualization last year](/blog/2010/state-of-infovis-2010), and 2011 shows no signs of things slowing down. The direction will be somewhat different, though.
 
 ## 2010: What Was

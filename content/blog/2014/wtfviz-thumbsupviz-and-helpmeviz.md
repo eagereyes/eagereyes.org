@@ -1,5 +1,3 @@
-# WTFViz, ThumbsUpViz, and HelpMeViz
-
 I have [complained](/blog/2009/a-better-vis-web-community), [repeatedly](/blog/2013/a-lack-of-communication-and-visibility), about the lack of good online resources for visualization; in particular, when it comes to discussion and critical reflection. Also, where can you go to get help with a visualization project? A few recent websites are tackling these issues in different ways.
 
 First, [Drew Skau](https://twitter.com/SeeingStructure) started [WTFViz](http://wtfviz.net), which quickly became hugely popular. It collects small snippets from infographics that are bad in some way: they misrepresent data, they obscure the message, they dress up numbers as if there were more of them, etc. Posting bad examples to laugh about is entertaining and useful, if obviously not always appreciated by the people who created them. But it can be quite educational for people to look through and see if they find things that are similar to their own work there.

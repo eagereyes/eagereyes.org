@@ -1,5 +1,3 @@
-# Understanding Pie Charts
-
 Pie charts are perhaps the most ubiquitous chart type; they can be found in newspapers, business reports, and many other places. But few people actually understand the function of the pie chart and how to use it properly. In addition to issues stemming from using too many categories, the biggest problem is getting the basic premise: that the pie slices sum up to a meaningful whole.
 
 ## The Part-Whole Relationship

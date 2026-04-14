@@ -1,5 +1,3 @@
-# The Visual Display of Relevant Information
-
 When Al Gore talks about [global warming](http://www.climatecrisis.net/), Hans Rosling shows the [relationship between health and wealth](http://www.ted.com/index.php/talks/hans_rosling_shows_the_best_stats_you_ve_ever_seen.html), and the New York Times visualizes [primary results](http://www.nytimes.com/2008/06/04/us/politics/04margins_graphic.html) and [American consumer debt](http://www.nytimes.com/interactive/2008/07/20/business/20debt-trap.html), they communicate visually. But they only use visual representation to get their point across, as a means to an end. When we want to show why visualization is effective, we have to care about the message, too &ndash; not just the method.
 
 When pitching a tool or a project to a customer, one of the first tricks is showing them their own data. That is how they can relate to what the tool will do for them, rather than having to imagine how the presented toy data relates to what they care about. They see through the tool and see what they know. Or better yet, what they didn't know about their own data.

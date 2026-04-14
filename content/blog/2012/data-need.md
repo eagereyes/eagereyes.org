@@ -1,5 +1,3 @@
-# How Much Data Do You Really Need?
-
 One of the many things [Malofiej 20](/journalism/malofiej-20) made me wonder about is how we present data and [what we expect from such a presentation](/journalism/what-does-it-mean-to-inform). Very often, we essentially narrate the process of discovery, but is that really the best way? And how much data do we need to show when making a point? Just because we start out with lots of data does not mean we really need to show it all.
 
 So here is a simple experiment. Let's look at minimum wage data in the U.S. over time. This was inspired by [a very nice interactive infographic on *Inequality in America*](http://visual.ly/vizbox/inequality-in-america/) that EJ Fox of Visual.ly has put together. One of his items shows the difference between the nominal minimum wage (the dollar amount) and the inflation-adjusted value (or buying power).

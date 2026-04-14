@@ -1,5 +1,3 @@
-# Swing States
-
 <figure><img src="https://media.eagereyes.org/media/2008/StateSwing-teaser.png" alt="Swing State Teaser" width="404" height="154"/></figure>
 
 I always wondered how much those [swing states](http://en.wikipedia.org/wiki/Swing_state) actually swing. So I looked at the results of presidential elections over the last 100 years, and it's not easy to determine which states actually are swing states from just looking at their history. Rather, there seems to be a pattern of relative stability for a few election cycles, and then big, sweeping wins for one side.

@@ -1,5 +1,3 @@
-# New eagereyesTV Video and Series: Chart Appreciation
-
 Time to breathe new life into my little YouTube channel, which I'm calling eagereyesTV. I'm doing so with the start of a new series I'm calling *Chart Appreciation*. Each episode will be on one particular visualization, news piece, or interactive. As the first one, I picked Hannah Fairfield's *Driving Safety, in Fits and Starts* from 2012.
 
 This is one of my favorite charts ever and it uses the connected scatterplot, a technique I have a special fondness for. So it seemed like a good starting point for this new series. I put a lot more work into the animations than I have ever before, and have also generally upped my game in terms of editing, as well as video and sound quality. The video is actually in 4K, so if you have the required hardware you can enjoy it at full resolution!

@@ -1,5 +1,3 @@
-# VisWeek 2012 Digest, Part 2
-
 In this second installment, I pick some of the more noteworthy papers and events from Wednesday, Thursday, and Friday at VisWeek 2012. There was some remarkable work, which I think and hope will shape the future of visualization research.
 
 First, an addition to [the first part of the digest](/blog/2012/visweek-2012-digest-part-1): [Luana Micallef](http://www.cs.kent.ac.uk/people/rpg/lm304/) has made a video of her very clear and visual explanation of Bayesian reasoning.

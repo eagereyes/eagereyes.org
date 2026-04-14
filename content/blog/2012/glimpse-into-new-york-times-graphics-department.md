@@ -1,5 +1,3 @@
-# A Glimpse Into the New York Times Graphics Department
-
 How does the New York Times Graphics Department produce the fantastic work that wins so many awards? To get a taste of the secret sauce, all you need to do is track down their Twitter accounts and blogs, where they openly share sketches and talk about process. Here is a guide.
 
 This list is roughly ordered by the amount of material each of the people listed below shares. While a few of them have blogs that link to their pieces on the New York Times website (which is pretty useful in itself, because they can be hard to find), I am more interested in the behind-the-scenes type of blog. I am listing people's roles as far as I am aware of them, though I don't know them all and I may be getting some of them wrong. Please let me know in the comments or [via Twitter](https://twitter.com/eagereyes) and I'll fix things.

@@ -1,5 +1,3 @@
-# Tracking 19,000 Runners Over 1,000km Across Virtual Tennessee
-
 How do you show large numbers of people without losing track of the outliers? How do you keep a chart useful when the maximum values are orders of magnitude higher than the common ones? In [an animated visualization I've built](/app/gvrat-1000k-tracker) of the progress of over 19,000 runners across a virtual 1000km (635mi) race over 123 days, I've tried to solve some of these issues.
 
 The [Great Virtual Race Across Tennessee (GVRAT)](https://vacationwithoutacar.com) is about 1022km or 635mi long, which makes it a 1000K. This is different from a 50K, 100K, or even a 100-mile race in that it's not run as one continuous race, but as daily checkins over four months from May 1st to August 31st. Over 19,000 people (including yours truly), as well as a number of dogs, are taking part.

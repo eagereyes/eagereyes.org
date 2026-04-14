@@ -1,5 +1,3 @@
-# Review: Isabel Meirelles, Design for Information
-
 When I’m asked for a good book about visualization, I usually try to change the subject. There is no book I really love, they all have their issues. But thanks to [Isabel Meirelles](http://isabelmeirelles.com/), I can now give a straight answer: *[Design for Information](http://www.amazon.com/gp/product/1592538061/)*.
 
 In the interest of full disclosure: I was sent a free copy by the publisher to review. However, favorable treatment on this website cannot be bought, and most certainly not for the $40 this book retails for.

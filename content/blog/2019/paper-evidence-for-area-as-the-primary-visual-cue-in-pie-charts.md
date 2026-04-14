@@ -1,5 +1,3 @@
-# Paper: Evidence for Area as the Primary Visual Cue in Pie Charts
-
 How we read pie charts is still an open question: is it angle? Is it area? Is it arc length? In a study I'm presenting as a short paper at the IEEE VIS conference in Vancouver next week, I tried to tease the visual cues apart – using modeling and 3D pie charts.
 
 The big issue with investigating the visual cues used to read pies is that they all encode the value in a linear way. That doesn't allow us to separate them without creating very specialized stimuli for the study, like [Drew Skau and I did back in 2016](/papers/a-pair-of-pie-chart-papers). We found that angle was unlikely to be the visual cue used to read pie charts, but couldn't decide between area and arc.

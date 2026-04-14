@@ -1,5 +1,3 @@
-# A Better Definition of Chart Junk
-
 Maximizing the data-ink ratio sounds like a good idea, but when actually followed to the letter produces terrible and nonsensical results. Here is a more reasonable definition of chart junk that does away with the pretense of a mathematical formula and puts some common sense back into the question of good chart design.
 
 Much has been made of Tufte’s famous data-ink ratio, and many people like to rail, privately and online, against chart junk. In short, the data-ink-ratio defines the amount of information your chart elements (“ink”) are providing, with the goal of maximizing that ratio. Since we can assume that the information is constant, this means we need to minimize the amount of ink. Any ink on your chart that does not convey data is considered junk.

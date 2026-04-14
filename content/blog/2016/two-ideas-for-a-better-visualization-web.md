@@ -1,5 +1,3 @@
-# Two Ideas for a Better Visualization Web
-
 There is a reasonable amount of information about visualization available on the web. There are still huge gaps though, especially when it comes to bridging the gap between academic research and the rest of the world, though. Here are two ideas: one simple, one rather involved.
 
 Ben Shneiderman has recently been talking to a number of people about a resources collection for visualization similar to [KDD Nuggets](http://www.kdnuggets.com/). I'm skeptical about the need for such a thing. Lists of resources need to be kept up to date, and they can lose their utility quite quickly when they go for completeness rather than usefulness (Andy Kirk's [list of everything ever](http://www.visualisingdata.com/resources/) is a good example).

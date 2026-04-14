@@ -1,5 +1,3 @@
-# Memorability, Science, and The Value of Thinking Outside the Box
-
 Stephen Few has written [a long and scathing piece](http://www.perceptualedge.com/articles/visual_business_intelligence/infovis_research_as_pseudo-science.pdf) tearing down a paper presented at VIS earlier this year. While some of his criticism is justified, it is too focused on one of the authors, and it comes from an idea of visualization research that is far too limited.
 
 The paper in question is [*Beyond Memorability: Visualization Recognition and Recall*](http://massvis.mit.edu) by Michelle A. Borkin, Zoya Bylinskii, Nam Wook Kim, Constance May Bainbridge, Chelsea S. Yeh, Daniel Borkin, Hanspeter Pfister, and Aude Oliva.

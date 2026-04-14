@@ -1,5 +1,3 @@
-# The Unrecorded Life is Not Worth Living
-
 It has never been easier to record your daily activities. The data is all well and good, but the real value comes from visualizing it. Why visualize your mundane, boring life? Because it helps you track what you are doing, and provides motivation to get your ass to the gym.
 
 <figure style="float: right; margin-left: 5px;"><img src="https://media.eagereyes.org/media/2009/fitbit.jpg" alt="Fitbit" width="121" height="250" style="float: right; margin-left: 5px;"/>For a little over a month now, I've been carrying a [Fitbit](http://www.fitbit.com/) around with me. It records how much I move around during the day, and how often I wake up at night. It's unobtrusive and easy: I don't have to do anything, the data gets uploaded to the Fitbit servers wirelessly and automatically, so I can look at it at my leisure. The only thing I have to remember is to charge it once a week or so.</figure>

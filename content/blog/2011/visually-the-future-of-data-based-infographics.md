@@ -1,4 +1,3 @@
-# Visual.ly: The Future of Data-Based Infographics
 [Visual.ly](http://visual.ly/)'s launch today made big waves, but a lot of people seemed to be disappointed by what they saw. The problem is that what you can see on the website is not the really exciting part of Visual.ly. What is much more interesting is how they want to turn the creation of data-based graphics from a tedious manual process into something fast and flexible. That has a lot more potential impact than you might realize at first.
 
 ## Exploration, Analysis, Presentation

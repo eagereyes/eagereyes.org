@@ -1,5 +1,3 @@
-# Tableau Papers at IEEE VIS 2015
-
 My colleagues at [Tableau Research](https://research.tableau.com) have three papers at InfoVis next week. They cover guided data exploration, color theory, and data partitioning. Here's a little preview.
 
 <figure><a href="https://research.tableau.com/paper/voyager-exploratory-analysis-faceted-browsing-visualization-recommendations"><img src="https://media.eagereyes.org/wp-content/uploads/2015/10/voyager-pages.jpg" alt="voyager-pages" width="660" height="342"/></a></figure>

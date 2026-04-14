@@ -1,5 +1,3 @@
-# Why Is Metadata So Hard?
-
 The U.S. Department of Education just released [an amazing dataset about the costs of going to college, earnings potential, etc](https://collegescorecard.ed.gov/data/). They're doing so many things right, it's really great. But what is still lacking is the metadata, making analysis harder than it needs to be.
 
 I haven't even looked through all the data, but it looks very promising. There are 18 years of data, and there is a lot of it, broken down by major, etc. There are already [first news stories based on it](http://www.washingtonpost.com/blogs/wonkblog/wp/2015/09/14/this-chart-shows-why-parents-push-their-kids-so-hard-to-get-into-ivy-league-schools/), and I'm sure this will be a great resource going forward (in particular if they update it regularly).

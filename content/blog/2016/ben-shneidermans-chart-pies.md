@@ -1,5 +1,3 @@
-# Ben Shneiderman's Chart Pies
-
 So turns out Ben Shneiderman is into pies! Actual pies that is, but in the form of charts. Rather than, you know, the other way around. Feast your eyes on delicious-looking chart pies!
 
 I'm [pulling a Gelman](http://andrewgelman.com) here by just quoting Ben's email:

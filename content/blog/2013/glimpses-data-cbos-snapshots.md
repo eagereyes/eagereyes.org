@@ -1,5 +1,3 @@
-# Glimpses of Data: The CBO's Snapshots
-
 *Arguments in data visualization are so fierce because the stakes are so low* is a great zinger that I’ve heard a few times recently. But it’s not always true. Data visualization influences important decisions every day. The Congressional Budget Office’s new *snapshots* are but one example.
 
 The role of the [Congressional Budget Office (CBO)](http://www.cbo.gov/) is to provide information to members of the U.S. Congress so they can make better decisions. The usual way of doing this is through reports that are prepared on a variety of topics.

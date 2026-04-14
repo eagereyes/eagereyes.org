@@ -1,5 +1,3 @@
-# Aspect Ratio and Banking to 45 Degrees
-
 The same data can look very different in a line chart depending on its aspect ratio. But what is the perfect shape for a chart? A square? A rectangle? Which rectangle? It depends on the data.
 
 ## Aspect Ratios

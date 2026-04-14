@@ -1,5 +1,3 @@
-# Visualization Potpourri, March 2018
-
 Time to wake up from the eagereyes winter hibernation with an aromatic potpourri! This time, we have news about pies, stippling, colors, sorting algorithms, and a few more. Also a video of my collaborator Noeska singing the praises of medical visualization.
 
 Danielle Albers Szafir was named one of [the *30 under 30* in Science by Forbes](https://www.forbes.com/profile/danielle-szafir/). You might remember her from [my VIS report last year](/blog/2017/ieee-vis-2017-best-papers-keynote-capstone) and [the portrait](/blog/2017/danielle-albers-szafir) I posted as the first (and so far only one…) in my portrait series (more portraits coming, I promise).

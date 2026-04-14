@@ -1,5 +1,3 @@
-# eagereyesTV Episode 3: 3D Pie Charts For Science!
-
 How do we read pie charts? This seems like a straightforward question to answer, but it turns out that most of what you’ve probably heard is wrong. We don’t actually know whether we use angle, area, or arc length. In a short paper at the VIS conference this week I’m presenting a study I ran to answer this question – a study using 3D pie charts!
 
 This is the third eagereyesTV video. Watch it below or [head over to YouTube](https://youtu.be/WF-HWFf-UNc). And please like and subscribe if you thought it was worthwhile, and let me know what you think!

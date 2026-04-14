@@ -1,5 +1,3 @@
-# Data Stories Episode About Data Storytelling
-
 How is it possible that it has taken a podcast called [*Data Stories*](http://well-formed-data.net/archives/1027/worlds-not-stories) 35 episodes to get to the topic of data storytelling? Alberto Cairo and I helped get the topic straightened out, and I think we even convinced Moritz that stories are not the enemy of exploration. It was a fun episode to record, and it touches on many interesting topics.
 
 It all started with [Moritz trolling the Tapestry conference hashtag](https://twitter.com/moritz_stefaner/status/438791035356213250).

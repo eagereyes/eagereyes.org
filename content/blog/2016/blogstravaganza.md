@@ -1,5 +1,3 @@
-# The Ten Years of EagerEyes Blogstravaganza
-
 October 1 marks the ten-year anniversary of this website. Well, it’s really older than that, but the first posting in its modern history is dated October 1, 2006. To celebrate, this week will see a posting every day, so hold on to your hats!
 
 If you’re reading this in a feed reader, you might want to check out the website, because it looks a little different. Not only do I now have a professionally-designed theme, it’s also possible to find your way around and explore much more of the stuff that’s on the site than before. There’s also a new logo.

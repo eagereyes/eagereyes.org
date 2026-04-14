@@ -1,5 +1,3 @@
-# VisWeek Preview: Live Coverage
-
 Like last year, I will be live-blogging and tweeting from [VisWeek](http://vis.computer.org/VisWeek2009/). Here is some information on my plans and links to what others will be doing (that I know of). Feel free to add your links, Twitter handles, etc. in the comments.
 
 I will write short postings (which I call *glimpses*) on this site. Starting Sunday, there will be a box with the latest glimpses on the front page. There will also be a separate RSS feed for these, so they won't appear in the main site feed. Links for that will be posted once this is up.

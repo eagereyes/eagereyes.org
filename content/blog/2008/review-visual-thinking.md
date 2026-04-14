@@ -1,5 +1,3 @@
-# Book Review: Visual Thinking for Design, by Colin Ware
-
 <figure><img src="https://media.eagereyes.org/media/2008/WareVisualThinking.png" width="218" height="266"/></figure>
 
 Colin Ware's latest book [*Visual Thinking for Design*](http://www.amazon.com/Visual-Thinking-Kaufmann-Interactive-Technologies/dp/0123708966/) has a promising subtitle: *active vision, attention, visual queries, gist, visual skills, color, narrative, design*. That's covering quite a bit of ground, and also a lot of things not usually considered in visualization. While this is a book about design, I was interested in what it could teach people in InfoVis, and I review it from that point of view.

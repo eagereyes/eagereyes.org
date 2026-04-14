@@ -1,5 +1,3 @@
-# Can A Timeline Pie Chart Work?
-
 Can you put ranked data into a pie chart that also represents time? This chart tries, and I think it succeeds.
 
 This chart was [posted by Cal Fire](https://twitter.com/CAL_FIRE/status/1436410274408386560) a few days ago on Twitter. It shows the acres burned by the 20 largest wildfires in California.

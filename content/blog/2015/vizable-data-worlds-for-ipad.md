@@ -1,5 +1,3 @@
-# Vizable, data worlds for iPad
-
 Tableau today released a new visualization tool for iPad, called *[Vizable](http://vizable.tableau.com)*. This is a completely new app built specifically for exploring data using touch. It is based on a new approach to visual analysis that focuses on the data and task, rather than providing a chart toolbox.
 
 Vizable is built on the idea of *data worlds*, which depend on the type of data and the kind of question you have. For people who know Tableau, this is a completely different way of doing things. Vizable is not a toolkit to build a myriad of different kinds of visualizations, but focused on looking at particular kinds of data.

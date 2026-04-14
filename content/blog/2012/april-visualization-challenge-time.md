@@ -1,5 +1,3 @@
-# April is Visualization Challenge Time!
-
 While there has been [some criticism of a particular type of visualization challenge recently](http://fellinlovewithdata.com/reflections/vis-marathons), there are many other challenges that are organized well and provide good opportunities for people to work on their skills. Two challenges in particular have caught my attention, and are presented here with the official *EagerEyes Quality Seal and Stamp of Approval*.
 
 ## California Healthcare Foundation Challenge

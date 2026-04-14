@@ -1,5 +1,3 @@
-# To Those We Lost This Year
-
 2010 has not been a kind year for visualization. Three key people who have made a large impact in the field have passed away this year (in decreasing order of age): Jacques Bertin, Jim Thomas, and Dirk Bartz. They will be sorely missed.
 
 ## Jacques Bertin (1918-2010)

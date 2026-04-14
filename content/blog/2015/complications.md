@@ -1,5 +1,3 @@
-# Complications
-
 In watches, a *complication* is anything that goes beyond the basic function of showing the current time: alarm time, moon phase, etc.  I think the term should be adopted in user interface design and visualization.
 
 With their upcoming [Watch](http://www.apple.com/watch/), Apple is clearly playing to [horology](http://en.wikipedia.org/wiki/Horology) and the long history behind the design of classic watches. They use many watch terms, even where they don't really make sense – like *movement* for the watch core CPU (which has no moving parts and does way more than a typical movement that just moves the hands).

@@ -1,5 +1,3 @@
-# The Revolution Will Be Visualized
-
 In the 1970s, it was the protest songs. In the 1980s, it was the anti-war movies. Today, the protest is no longer happening in songs or movies. Today, it’s online, based on data, and using visualization.
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/04/guns.jpg" alt="U.S. Gun Deaths" width="600" height="211"/></figure>

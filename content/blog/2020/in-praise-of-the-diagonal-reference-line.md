@@ -1,5 +1,3 @@
-# In Praise of the Diagonal Reference Line
-
 Annotations are what set visual communication and journalism apart from just visualization. They often consist of text, but some of the most useful annotations are graphical elements, and many of them are very simple. One type I have a particular fondness for is the diagonal reference line, which has been used to provide powerful context in past news pieces, and is making a comeback in the COVID-19 charts.
 
 One of my favorite charts ever is a piece called *[Why Is Her Paycheck Smaller?](https://archive.nytimes.com/www.nytimes.com/interactive/2009/03/01/business/20090301_WageGap.html?_r=0)* by Hannah Fairfield and Graham Roberts. It's a beautiful piece, but since it's from 2010 it's no longer working as an interactive chart (because Flash). The key elements can be seen on a simple screenshot, though.

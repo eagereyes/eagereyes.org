@@ -1,5 +1,3 @@
-# Paper: Readability and Precision in Pictorial Bar Charts
-
 Embellished charts are common in information graphics. But are embellished bar charts actually harder to read than plain ones? In [a short paper to be presented at EuroVis](/publications/Skau-EuroVis-2017) next week, Drew Skau and I present a study that looked into this question.
 
 This is a follow-up to Drew's [earlier paper on embellished bar charts](/papers/evaluation-of-the-impact-of-visual-embellishments-in-bar-charts) that looked only at shape. We used that as the basis to pick only the shapes that turned out to not have a discernible negative effect and then filled those in with designs. The shapes included rectangles, triangles, rounded tops, and flags/t-shapes (similar, perhaps, to lollipops?).

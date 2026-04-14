@@ -1,5 +1,3 @@
-# A Middle Ground
-
 We criticize flashy infographics and bad visualizations, but we also want to attract viewer's attention. We strive for accuracy and efficiency, but we also want to tell stories. We dislike chart junk, but we like beautiful charts. We need to find a middle ground.
 
 ## Available Tools

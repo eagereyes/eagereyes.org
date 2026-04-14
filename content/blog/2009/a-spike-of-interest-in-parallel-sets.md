@@ -1,5 +1,3 @@
-# A Spike of Interest in Parallel Sets
-
 A few days ago, Michael Blastland published a [very interesting little article](http://news.bbc.co.uk/2/hi/uk_news/magazine/7937382.stm) on the BBC Magazine website, in which he showed an image of *Parallel Sets*. He also mentioned my name and even though there was no link or email address, I have seen a spike in traffic on this website and my university page, and have gotten a barrage of emails from people who want to try it out. Here is some information on the technique and a plan for getting the tool out into the world.
 
 The article itself is concerned with the representation of risk, and is really interesting. Parallel Sets only make an appearance further down, as a possible alternative way of representing risk. What is interesting for me is that the image Blastland uses is taken from my entry in the [Design, Vision, and Visualization workshop](http://www.stonesc.com/Vis08_Workshop/) at Vis 2008. I did a redesign of the original ParSets for that, and did not really consider them published. Oh well.

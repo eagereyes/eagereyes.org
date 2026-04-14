@@ -1,5 +1,3 @@
-# VIS 2014 – Monday
-
 IEEE VIS 2014 technically began on Saturday, with the first full day open to all attendees being Sunday. Monday continued the workshops and tutorials, and that is where we join our intrepid reporter.
 
 ## VIS Social Run

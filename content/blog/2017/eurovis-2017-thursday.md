@@ -1,5 +1,3 @@
-# EuroVis 2017 Conference Report, Part 3
-
 Thursday and Friday at EuroVis brought a few papers on storytelling, a new toolkit for running online studies, a better way to put your list of publications online, and a lot more.
 
 ## Visualization Models &amp; Human Computer Interaction

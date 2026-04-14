@@ -1,5 +1,3 @@
-# Peer Review, Part 3: A Taxonomy of Bad Papers
-
 Reviewing is great when you get a good paper where you can make some suggestions to make it even better, and everybody’s happy. Bad papers are much less fun, but they are also much more common. Here are some examples I’ve seen and that I keep seeing.
 
 - **The completely insane.** I once got a paper to review that was two pages long, with the second page not even used completely. There was a table on the second page, and the rest was completely unintelligible writing. Tamara Munzner likes to refer to such papers as “written in crayon” – a mental image I find particularly amusing. The good thing about these is that they don’t usually take much time to spot and reject.

@@ -1,5 +1,3 @@
-# Highlights from EuroVis 2019, Part 1
-
 The EuroVis 2019 conference took place in early June this year in Porto, Portugal. While I enjoyed the city and conference venue, I found the program a bit underwhelming this time around. I’ve kept pushing off writing this report because I found myself griping rather than talking about the content.
 
 So instead of covering most of what I saw, I’m going to only pick some highlights here. If you want to see a more complete picture, James Scott-Brown has put together [a page of links to papers available outside the Eurographics Digital Library](http://oa-eurovis.jamesscottbrown.com/2019/).

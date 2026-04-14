@@ -1,5 +1,3 @@
-# IEEE VIS Pointers and Running
-
 [VIS](http://ieeevis.org) is around the corner, taking place in Baltimore next week. Here are some pointers to a handful of interesting papers, as well as how to catch one of my live performances or attend the blogging and podcasting meetup – plus a reminder to bring your running shoes!
 
 In case this seems familiar: Vis was in Baltimore [in 2006](http://vis.computer.org/vis2006/) – exactly ten years ago! I took the picture you see above back then.

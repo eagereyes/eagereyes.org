@@ -1,5 +1,3 @@
-# Felix Auerbach, Die Graphische Darstellung (Graphical Representation, 1914)
-
 This little book covers a large number of different ways of showing data. There are also some mathematical graphs, but the focus is on representations of data “from all areas of science and practice.” It’s a fascinating look into what was known in the early 1900s, and how people thought about graphical representations as tools.
 
 I’ve been interested in these historical books for a while, especially the lesser-known ones. [Felix Auerbach](https://en.wikipedia.org/wiki/Felix_Auerbach) (1856-1933) was a physicist with a broad set of interests (including the arts, [his German wikipedia page](https://de.wikipedia.org/wiki/Felix_Auerbach) has some more on that, as well as a portrait of him by Edvard Munch). He published a number of books in the 1910s and 1920s, on mathematics, physics (relativity theory in particular), and music.

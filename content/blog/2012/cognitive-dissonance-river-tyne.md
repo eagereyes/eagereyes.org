@@ -1,5 +1,3 @@
-# Cognitive Dissonance on the River Tyne
-
 Moritz Stefaner and Stephan Thiel have created [a visualization of sensor data](http://www.flowmill.org/tyne) acquired by a floating mill on the river Tyne in [Newcastle upon Tyne](http://en.wikipedia.org/wiki/Newcastle_upon_Tyne), Great Britain. Their choice of a flow metaphor for non-flow data creates a cognitive dissonance that makes the visualization difficult to understand.
 
 The mill itself generates power, and there are sensors that measure a few properties of the water flowing through it: oxygen level, acidity, nitrates, salinity, and wheel speed.

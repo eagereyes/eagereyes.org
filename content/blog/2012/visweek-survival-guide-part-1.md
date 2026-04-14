@@ -1,5 +1,3 @@
-# A VisWeek Survival Guide, Part 1
-
 [VisWeek 2012](http://visweek.org) will be held October 14 to 19 in Seattle, WA. The conference keeps growing, and this year is adding a new industry track. If you consider going, you should register by Friday to get the early registration discount.
 
 [The full program has just been posted](http://visweek.org/visweek/2012/calendar/2012-W42) (thought it's still missing a lot of the details), but I do not recommend planning too much beforehand: there will be a lot of interesting sessions, and there is a lot of serendipitous discovery if you check out sessions you might not have thought were interesting. Also, it's generally a good idea to come for the entire week, not hand-pick a few days. VisWeek also encourages this by making one- and two-day registrations way more expensive in comparison to the full week.

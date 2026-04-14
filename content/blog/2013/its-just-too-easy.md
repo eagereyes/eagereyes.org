@@ -1,5 +1,3 @@
-# It's Just Too Easy
-
 Once you’ve seen one visualization book, you’ve seen them all. They tend to all look similar, use the same examples, and don’t provide much depth. Is it too easy to write a book when you can use such compelling images?
 
 I’m reading a visualization book right now, and I’m disappointed. I don’t even blame this particular book, they all kind of look the same: lots of images, many of them full-page and laid out well, but the text doesn’t go very deep or really provides much in addition to the image. Yes, there are exceptions; but the majority of books does exactly that.

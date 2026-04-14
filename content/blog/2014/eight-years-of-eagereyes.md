@@ -1,5 +1,3 @@
-# Eight Years of eagereyes
-
 What is the purpose of blogging about visualization? Is it to make fun of the bad stuff? Is it to point to pretty things? Is it to explain why things are good or bad? Is it to expand the landscape of ideas and break new ground? Or is it to discuss matters at great length that ultimately don't matter all that much?
 
 I criticize things, and I think it's important to do that. I don't regret any of my postings, however strong they may have been, and however mean they may have sounded. It was all done in good faith and with the intent to point out issues and get people to pay attention.

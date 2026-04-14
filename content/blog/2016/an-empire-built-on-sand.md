@@ -1,5 +1,3 @@
-# Paper: An Empire Built On Sand
-
 It's not a secret that I think that we need to ask some harder questions about the foundations that we're building visualization on. In a paper to be presented at [the BELIV workshop](http://beliv.cs.univie.ac.at) at VIS next week, I'm making the case for that more extensively than I have so far. The full title of the paper is [*An Empire Built On Sand: Reexamining What We Think We Know About Visualization*](/publications/Kosara-BELIV-2016).
 
 The paper starts out by talking about [the recent pie charts work](/papers/a-pair-of-pie-chart-papers) where Drew Skau and I showed that the 90-year old belief that we read pie charts by angle does not appear to be correct. I've collected a few more examples, most of which show how a belief turned out to not be true after some further study. Sometimes our beliefs turn out to be correct, of course, and I have one or two examples to show that as well.

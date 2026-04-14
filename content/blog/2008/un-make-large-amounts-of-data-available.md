@@ -1,5 +1,3 @@
-# UN Make Large Amounts of Data Available
-
 Data is being set free: the United Nations have started a new website called [UN Data](http://data.un.org/) to share the data collected by a number of UN agencies. 55 million data records are waiting to be explored and visualized. The search interface is very nice and usable, but still lacks power.
 
 In contrast to many other interfaces (most notably the horrible mess at the [world bank](http://worldbank.org/data/)), their querying is quite good and implemented well. Views update without the need for a page reload, and the interface elements react to what is being displayed. The data can be sorted, filtered, and even pivot tables can be created. It is possible to download the data in four formats: a rather pointless and bloated XML (which just doesn't make sense for tables) and tabular with three different separators (comma, semicolon, or pipe).

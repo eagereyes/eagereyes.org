@@ -1,5 +1,3 @@
-# The Seven Year Itch
-
 Eagereyes.org turned seven years old last week, on October 1st. Seven years is a long time on the web. In dog years, the site is almost fifty years old! Has it lost its edge? Have I gone soft? Where is the bite? Where is the fight?
 
 ## The Establishment

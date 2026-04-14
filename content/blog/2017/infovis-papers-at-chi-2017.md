@@ -1,5 +1,3 @@
-# InfoVis Papers at CHI 2017
-
 The two main conferences in visualization are VIS and EuroVis, but recently [CHI](https://chi2017.acm.org/) has also gotten some very interesting submissions (CHI is technically a conference about human-computer interaction, or HCI). This year looked particularly strong,
 
 I didn’t actually attend the conference this year, so the selection below is based on my trolling the program online and watching some of the Twitter chatter during the conference. I did not include all the visualization-related papers I could find, only the ones I found the most interesting. You can find more in their [searchable program](https://chi2017.acm.org/program/?tab=chi2017-schedule&amp;showAll=true).

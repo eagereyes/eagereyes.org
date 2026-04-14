@@ -1,5 +1,3 @@
-# Video Series: Counting In 2021 with Mechanical Calculators
-
 Mechanical calculators are fascinating. I may have gone down a few rabbit holes on this topic earlier this year, and acquired a few. As a little celebration of the end of this year, and to start the new one, I'm creating a small series of videos about them and releasing one each week.
 
 Here's the teaser for the series, which I'm calling *Counting in 2021* (I've created [a YouTube playlist](https://www.youtube.com/playlist?list=PLbzq0eVw_4DneAHSq24wRJV48dcuEsTfL&amp;playnext=1&amp;index=1) for your convenience, and of course you should [subscribe to my channel](http://youtube.com/c/eagereyes) to be the first to see them when they come out!).

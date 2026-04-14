@@ -1,5 +1,3 @@
-# Visualization: Three Alternate Histories
-
 The academic visualization community largely comes from computer science: most of the professors teach in computer science (or similar) departments, most of the students doing research are computer science students of some flavor or other. It's interesting to consider how the field might be different if visualization had emerged from a different discipline.
 
 The inspiration for this piece comes from an article by Eric Rodenbeck of Stamen Design titled [*What is data visualization for?*](https://hi.stamen.com/what-is-data-visualization-for-83c3a736d568) He makes a number of good points, but one part in particular stood out to me:

@@ -1,5 +1,3 @@
-# IEEE VIS 2018, Part 1: VisComm, VisInPractice, BELIV, Best Papers
-
 The [IEEE VIS conference](https://ieeevis.org/) is the most important outlet for academic research. This year's conference took place in Berlin, Germany. Here is a report on some of the most interesting (to me, anyway) papers, events, and developments, in three parts. 
 
 As usual, I link to paper websites and materials where possible. Luckily, many papers this year had paper or project webpages and code or materials available. While still not entirely a given, the majority of papers have at least something available (even if it’s only the paper manuscript itself).

@@ -1,5 +1,3 @@
-# Follow Me on Twitter!
-
 If you enjoy reading my website, why not [follow me on Twitter](http://twitter.com/eagereyes), too? So click the birdie above to get to my Twitter page!
 
 I've had the link to Twitter in the sidebar of my site for a while, and I'm getting a slow but steady flow of new followers. This is a little experiment to see how many of you are on Twitter and haven't yet realized that you can follow me, too.

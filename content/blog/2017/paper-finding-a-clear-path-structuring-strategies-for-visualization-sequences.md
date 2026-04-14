@@ -1,5 +1,3 @@
-# Paper: Finding a Clear Path: Structuring Strategies for Visualization Sequences
-
 How should you sequence information in a data story so it makes the most sense? Are some sequences better than others? Does time have to move forward or does it not matter? In [a paper to be published at EuroVis next week](/publications/Hullman-EuroVis-2017), with [Jessica Hullman at UW](http://faculty.washington.edu/jhullman/) and my [Tableau Research colleague Heidi Lam](https://research.tableau.com/user/heidi-lam), we report on a pair of studies that looked into this.
 
 There will be three postings this week about EuroVis papers. This one is about the full paper I’m on, and there are also two short papers. Two of these papers (one full and one short) are about storytelling, one of them is about embellished charts. No pie charts this year, though.

@@ -1,5 +1,3 @@
-# Thoughts on Blogging
-
 I was recently asked some questions via email about blogging. Rather than respond via email, I’ve decided to [do a Gelman](http://andrewgelman.com) and post my response here.
 
 ## The Biggest Challenge

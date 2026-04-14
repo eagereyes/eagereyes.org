@@ -1,5 +1,3 @@
-# The Most Iconic Visualizations
-
 I was asked about the most iconic data graphics in the last ten years for [an article on FastCoLabs](http://www.fastcolabs.com/3014911/top-10-iconic-data-graphics) last week (so were [Andy Kirk](http://www.visualisingdata.com/index.php/2013/07/my-selections-for-fastco-labs-top-10-iconic-data-graphics/) and [Matt Stiles](http://thedailyviz.com)). It's an interesting question not only because of the actual choices, but also the criteria to use. Is something iconic because of its unique look and/or shape? Does it have to have impact? What is an iconic visualization?
 
 One of my choices was the [Bikini Chart](/blog/2012/bikini-chart), which is perhaps my favorite bar chart ever. It's simple, clear, easy to read. It's also unique in its shape. I'm not sure if it has had the impact that it was probably meant to have, though.

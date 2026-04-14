@@ -1,5 +1,3 @@
-# EuroVis Coverage and Running
-
 For people not attending [EuroVis](http://www.cs.rug.nl/jbi/eurovis2016/): I will be tweeting from there next week and write postings here, like I have [in the previous years](/tag/eurovis). For people who will be attending: let's meet up and run!
 
 ## EuroVis Coverage

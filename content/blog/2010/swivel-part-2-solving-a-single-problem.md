@@ -1,5 +1,3 @@
-# Swivel, Part 2: Solving A Single Problem
-
 After my [interview with Swivel founders Brian Mulloy and Dmitry Dimov on what happened to Swivel.com](/blog/2010/the-rise-and-fall-of-swivel), I felt there were still many open questions. So I reached out to Halsey Minor, whose (cleverly-named) incubator [Minor Ventures](http://minorventures.com/) had funded Swivel, and who had made the decision to pull the plug. In this interview, he talks about his issues with Swivel, his priorities in developing products, and what it would take to bring Swivel back.
 
 ## Some Background

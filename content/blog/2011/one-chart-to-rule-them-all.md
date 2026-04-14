@@ -1,5 +1,3 @@
-# One Chart To Rule Them All
-
 Finding the right chart for complex data is not an easy task. A reader pointed me to [a presentation (PDF)](http://www.education.nh.gov/instruction/school_improve/documents/presentationtosups_dec2010.pdf) by the [New Hampshire Department of Education](http://www.education.nh.gov/instruction/school_improve/) that illustrates some of the thinking behind choosing a new visual representation. The tool of choice here is the bubble chart.
 
 ## Reading

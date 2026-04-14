@@ -1,5 +1,3 @@
-# Another Metaphor for Visualization: Writing
-
 Andrew Gelman recently wrote a blog posting in which he [draws an interesting comparison between writing styles and graphics styles](http://andrewgelman.com/2012/02/at-some-point-the-graph-is-so-bad-that-it-doesnt-convey-the-information/). I think he's on to something, and the comparison can be taken a bit further to illustrate some common misunderstandings around visualization.
 
 Gelman first describes the different ways in which people used to write, even in the context of scholarly communication. There were storytellers and people who wrote dialog, etc. He talks about this in terms of the 1700s, but I've seen much more recent papers that appear really peculiar through the eyes of somebody who's used to the way we write today (e.g., some of Einstein's papers are like that). Gelman then draws his comparison with graphical communication of data:

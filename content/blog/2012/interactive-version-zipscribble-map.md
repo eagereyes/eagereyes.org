@@ -1,5 +1,3 @@
-# An Interactive Version of the ZIPScribble Map
-
 For more than five years, the [ZIPScribble Map](/zipscribble-maps) and its related pages have been the most popular feature on my website. To freshen things up a bit, I am adding [an interactive version that runs in your browser](/zipscribble-maps/interactive-zipscribble-map). I have also added a few more countries, for a new total of 38.
 
 While I still like the simple aesthetics of the bare map with just the scribble on a white background the best, it's obviously an interesting question to see where a particularly interesting scribble feature is located on a map. It was also a hassle to find particular countries so far, especially if you wanted to find out which ones were even available on the site at all.

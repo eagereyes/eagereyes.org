@@ -1,5 +1,3 @@
-# OpenVis 2016 Talk Videos and Pointers
-
 [The OpenVis Conference](https://openvisconf.com/) had another great selection of talks this year. Here is a list of my favorites, with talk videos and pointers to some additional materials.
 
 The conference venue was the IMAX theater of the Boston Aquarium, which was great. Not only was the huge screen and theater seating a definite plus, but the ticket also included admission to the aquarium. Lots of OpenVis attendees went to see the fish and penguins during the lunch break.

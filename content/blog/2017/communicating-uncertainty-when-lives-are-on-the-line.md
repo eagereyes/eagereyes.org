@@ -1,5 +1,3 @@
-# Communicating Uncertainty When Lives Are on the Line
-
 Showing when and where natural disasters like hurricanes are going to cause damage is not just a question of aesthetics – it is literally a matter of life and death. The traditional way hurricane forecasts are shown has a number of problems, but are the alternatives actually better?
 
 The type of representation most people see is [this one created by the National Oceanic and Atmospheric Administration (NOAA)](http://www.nhc.noaa.gov/refresh/graphics_at1+shtml/030119.shtml?cone#contents), or one that is very closely based on it. This one is for hurricane Irma, which is currently heading towards Florida and has already wreaked havoc on some of the small islands in its path.

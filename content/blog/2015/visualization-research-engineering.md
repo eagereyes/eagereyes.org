@@ -1,5 +1,3 @@
-# Visualization Research, Part I: Engineering
-
 Conventions in visualization can seem arbitrary, and quite a few are. But there is also a vast body of research, and it is growing every day. Just how does visualization research work? How do we learn new things about visualization and how it can and should be used?
 
 There are really just two ways: make a new thing and test a thing. Visualization is not a natural science where we can observe planets or classify bugs. Instead, we make things. The engineering side of visualization is exciting, but it can also be confusing.

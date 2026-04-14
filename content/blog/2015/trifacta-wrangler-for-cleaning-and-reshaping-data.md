@@ -1,5 +1,3 @@
-# Trifacta Wrangler for cleaning and reshaping data
-
 Wrangling data into a shape that can be used to create visualizations is a huge problem with few available tools. [Trifacta Wrangler](http://trifacta.com/trifacta-wrangler) is a powerful new tool that is free to use.
 
 Data comes in all shapes and sizes, and those are often not conducive to working with it right away. Date formats might be weird, columns may need to be split or merged, and there is often the need to unpivot the data (turn columns into rows). This is a particular problem with government data.

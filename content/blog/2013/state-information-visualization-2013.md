@@ -1,5 +1,3 @@
-# The State of Information Visualization, 2013
-
 Well, the world hasn’t ended, so here’s a look back at what happened in visualization in 2012, and a look ahead in case the world is still around a year from now.
 
 ## 2012: What Was

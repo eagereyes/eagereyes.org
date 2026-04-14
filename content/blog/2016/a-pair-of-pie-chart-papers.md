@@ -1,5 +1,3 @@
-# A Pair of Pie Chart Papers
-
 How do we read pie charts? Do they differ from the even more reviled donut charts? What about common pie chart designs like exploded pies? In two papers to be presented at [EuroVis](http://eurovis.org/) next week, Drew Skau and I show that the common wisdom about how we read these charts (by angle) is almost certainly wrong, and that things are much more complicated than we thought.
 
 Pie charts are generally looked down on in visualization, and many people pride themselves on saying mean things about them and the people who use them. [This is not a new phenomenon, either](/blog/2016/ye-olde-pie-chart-debate). Yet they are incredibly common in business settings and information graphics.

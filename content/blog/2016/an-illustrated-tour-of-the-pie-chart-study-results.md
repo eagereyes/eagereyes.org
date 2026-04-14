@@ -1,5 +1,3 @@
-# An Illustrated Tour of the Pie Chart Study Results
-
 In [two papers](/papers/a-pair-of-pie-chart-papers), [Drew Skau](https://twitter.com/seeingstructure) and I recently showed that our idea of how we read pie charts is wrong, that donut charts are no worse than pie charts, and a few more things. Here is a detailed walk-through of the results of the three studies we conducted for this purpose. Let's go on a little journey through some real data and do a little science together!
 
 For my talk at [Information+](http://informationplusconference.com), I redid the figures we had used in the [EuroVis pie chart papers](/papers/a-pair-of-pie-chart-papers), both for the papers themselves and for the presentations. The result is much clearer, I think. I figured I'd share them here since they give a nice walk-through of the study results using the real data, but without too much detail. While the violin plots provide useful information during analysis, they're just too detailed for presentation – I feel like [I should have seen that coming](/papers/presentation-oriented-visualization-techniques).

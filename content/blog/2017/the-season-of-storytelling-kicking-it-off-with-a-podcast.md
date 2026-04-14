@@ -1,5 +1,3 @@
-# The Season of Storytelling: Kicking It Off With A Podcast
-
 It's (almost) Fall – a good time for telling stories! Jon Schwabish invited me to be on his [PolicyViz podcast](https://policyviz.com/podcast/episode-93-robert-kosara/) again to kick off its new season. And I have a long list of things to write about around that topic, too.
 
 But first, the podcast: Jon and I [talked about what it means for something to be a story](https://policyviz.com/podcast/episode-93-robert-kosara/), and how you tell a story about data. Much of it revolved around the ideas in my [EuroVis short paper on argument structure](/papers/paper-an-argument-structure-for-data-stories). It was a fun and interesting conversation, and Jon kept it moving nicely.

@@ -1,5 +1,3 @@
-# Linkstravaganza: Schwabish's Story Links and Andrews' Seeking Minard
-
 I don't normally do link dumps, but since I'm behind on blogging and have been meaning to link to these things for a while… here are some articles for you to check out. The first set is on what storytelling means with data, the second about an interesting discovery around Charles Minard.
 
 ## Schwabish's Sense of Story

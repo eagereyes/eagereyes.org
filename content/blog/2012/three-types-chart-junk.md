@@ -1,5 +1,3 @@
-# The Three Types of Chart Junk
-
 [A recent posting on Dmitry Fadeyev's design blog](http://fadeyev.net/2012/03/02/the-ornament-extreme/) got me thinking about decoration and chart junk again. Fadeyev talks about the Victorian obsession with ornamentation, but he could equally be talking about the way charts and infographics are often decorated. A short excursion to the 1850s might help shed some light on the issue of *chart junk*.
 
 ## Product Design in the Victorian Age

@@ -1,5 +1,3 @@
-# Course on Data Vis Fundamentals and Best Practices
-
 I'm teaching [a short course on data visualization for Observable](https://observablehq.com/@observablehq/datavizcourse?utm_medium=video&amp;utm_campaign=datavizcourse&amp;utm_source=videoembed). It's free, and you should join! Starts March 7.
 
 The course will cover the fundamentals of data visualization, like the key chart types, how they work, when and how to use them. We'll also talk about transformations of data, like binning and smoothing data, and of course interaction.

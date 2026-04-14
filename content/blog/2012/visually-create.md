@@ -1,5 +1,3 @@
-# Visual.ly Create
-
 Information graphics are a big and growing business, but the tools that are used for making them are little better than paper and pencil. That is particularly problematic when it comes to infographics that are heavy on data, which not only require a lot of work, but also many repeating steps that could be handled by a machine. [Visual.ly's recently launched *Create* tool](http://create.visual.ly/) takes care of some of this work to create better and more flexible information graphics.
 
 Infographics today are meticulously made by hand, each one being unique like a precious snowflake. That's perfectly valid, but there are recurring structures,  approaches that have worked well for different kinds of content, etc. There is very little automation to make it easier to reuse ideas and structures, and in particular to work with data. Who wants to draw a bar chart by hand?

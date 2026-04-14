@@ -1,5 +1,3 @@
-# Review: Lupi, Posavec, Dear Data
-
 Giorgia Lupi and Stefanie Posavec have turned their *[Dear Data](http://www.dear-data.com/)* project into a book. It's a great example of the kind of creative work you can do around visualization without computers, entirely by hand. What started with a simple idea turned into an amazing project.
 
 *Dear Data* consisted of Giorgia and Stefanie, who are both visual designers, tracking an aspect of their lives for a week and then drawing a sort of visualization onto a postcard that they'd send to the other. They did that for an entire year.

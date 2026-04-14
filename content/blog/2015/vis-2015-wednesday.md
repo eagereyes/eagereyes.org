@@ -1,5 +1,3 @@
-# VIS 2015 – Wednesday
-
 The second full day of VIS 2015 brought lots of papers on applications and design studies, and also a panel on solved problems in visualization. As [on the first day](/blog/2015/vis-2015-tuesday), I have some observations and thoughts.
 
 Here are two things I keep noticing and it baffles me that so many people don’t seem to be aware of them. One is that many presenters don’t bother linking to more information. When you give me a link to some sort of landing page, no matter how basic, it’s way easier (and more likely) for me to tweet or write about it. It’s not very interesting to tweet about things that you can’t point people to materials for. In this day and age, it should really be a given that any paper has some sort of page, even if it only has the title, abstract, and link to the PDF on it. Make your stuff findable and accessible (or follow [Steve Haroz’s advice on how to hide your work](http://steveharoz.com/blog/2015/tips-for-hiding-your-publications/)).

@@ -1,5 +1,3 @@
-# Various VisWeek Workshops
-
 I want to call your attention to three interesting workshops that will be held at [VisWeek 2010](http://vis.computer.org/VisWeek2010/) in October in Salt Lake City. One is on storytelling in visualization, another on visual analytics in healthcare, and a third one on theory in infovis. The deadlines for two of them are coming up soon.
 
 ## Telling Stories With Data

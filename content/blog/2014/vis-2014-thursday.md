@@ -1,5 +1,3 @@
-# VIS 2014 – Thursday
-
 Thursday was the penultimate day of VIS 2014. I ended up only going to InfoVis sessions, and unfortunately missed a panel I had been planning to see. The papers were a bit more mixed, but there were agains some really good ones.
 
 # InfoVis: Evaluation

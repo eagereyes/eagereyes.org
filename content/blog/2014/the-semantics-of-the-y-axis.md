@@ -1,5 +1,3 @@
-# The Semantics of the Y Axis
-
 The vertical axis is not just important because it embodies one of the most important visual properties, but also because it is much more semantically loaded than the horizontal. Not only does the right choice of mapping help with reading a chart, it can also be confuse people if done wrong.
 
 It's not a coincidence that the vertical is so important for us. An animal that is lying on the ground is dead or sleeping, that's important to know. Vertical movement is also much harder than moving in the other two dimensions, and fast vertical movements can kill us. That is why we overestimate heights: better be scared of a jump that isn't all that dangerous than taking it lightly and getting injured or killed.

@@ -1,5 +1,3 @@
-# The Electoral College and Second Terms
-
 The [Electoral College](http://en.wikipedia.org/wiki/U.S._Electoral_College) is a key aspect of the US presidential elections. Its mechanics and distribution of electors are crucial for presidential campaigns and determine the so-called *battleground states &ndash;* and possibly also distort the will of the people. I was interested this last effect, so I did a little analysis.
 
 A presidential election in the US is essentially 51 separate elections (50 states plus the District of Columbia). All but two states have a winner-takes-all system, with Maine and Nebraska using a slightly more differentiated way of splitting up its delegates between the candidates. There are a number of consequences of this that I don't want to discuss in detail here, but what I was interested in was the boost this system gives to the strongest candidate.

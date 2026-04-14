@@ -1,5 +1,3 @@
-# Conference Report: Tapestry 2013
-
 About 100 attendees, three keynotes, five short talks, demos, discussions, food, music, and a fantastic atmosphere: the [Tapestry conference for storytelling with data](http://tapestryconference.com) took place on February 27 in Nashville, TN. Here is a conference report with links to talk videos, as well as some first news on Tapestry 2014.
 
 ## Setting and Format

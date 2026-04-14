@@ -1,5 +1,3 @@
-# Data: Intent and Primary Interpretation
-
 Take a JPEG image file and a CSV file. Which of these two is data? Is one of them more obviously data than the other? I think the key difference is the intent behind the data and its primary interpretation.
 
 The way we experience different files is governed by the tools we use. Every file browser and operating system these days displays an image as a thumbnail, so we know immediately what it is (and what it’s of). That can make it difficult to appreciate how much goes into transforming the data encoded in the JPEG format into pixels you can see.

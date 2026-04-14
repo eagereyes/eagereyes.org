@@ -1,5 +1,3 @@
-# Goodbye, Academia; Hello (Again), Tableau!
-
 I have decided to quit my job as Associate Professor at UNC Charlotte and join Tableau Software. Monday (September 17) is my first day of work as a full Tableau employee. Why give up the job security of a tenured university professor for the treacherous prospects of a startup? There are many reasons, but here are the main ones.
 
 First, there’s a very simple reason: I like doing stuff, but at the university I spent most of my time telling other people what to do instead of doing things myself. This is called “advising” and “teaching,” and it’s part of the professor job; and I generally enjoy it. But when it takes up almost all my time and leaves me next to none to do things myself, it becomes a problem.

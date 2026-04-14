@@ -1,5 +1,3 @@
-# Trivialization for the Masses
-
 There are thousands of visualizations on Many Eyes, but there is little in terms of further analysis and deeper discussion. There are dozens of visualization websites now that let you upload your data, but they all provide the same few visualization techniques and practically no analysis tools. While visualization for the masses may be here, we're not actually seeing much analysis from those same masses.
 
 This issue came up last week at the [Visual Analytics Consortium Meeting](http://nvac.pnl.gov/meeting_2010/index.stm), in a panel that talked about responses global crises. While it's fairly easy to get people to whip up websites to collect data, there's practically no analysis of the material that gets collected.

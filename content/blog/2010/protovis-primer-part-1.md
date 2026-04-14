@@ -1,5 +1,3 @@
-# A Protovis Primer, Part 1
-
 [Protovis](http://vis.stanford.edu/protovis/docs/) is a very powerful visualization toolkit. Part of what makes it special is that it is written in JavaScript and runs in the browser without the need for any plugins. Its clever use of JavaScript's language features makes it very elegant, but it can also be confusing to people who are not familiar with functional programming concepts and the finer points of JavaScript. This multi-part tutorial shows how to create a visualization (my [interactive Presidents Chart](/blog/2008/presidential-demographics-ii)) in Protovis, and explains the concepts that are involved along the way.
 <!--break-->
 This introduction is based on my experiences with using Protovis in my *Visualization and Visual Communication* class earlier this spring. While the concepts involved are really not that difficult, they are rather foreign to students who have not been exposed to functional programming. And since that is also the case for a lot of hobbyists and people wanting to do visualization who do not have a computer science background, I imagine they run into the same problems.

@@ -1,5 +1,3 @@
-# Averages Are Metadata
-
 When we think of metadata, we tend to think of attributes that describe the data. Where do the numbers come from? What do the values in a categorical column mean? Etc. But there is a type of metadata we rarely even recognize as such: values computed from the data. They're often treated as part of the data, but that's a mistake.
 
 Most metadata is so different from the data itself that it's easy to spot: of course the URL pointing to the source of the data is not part of the data! Even the number of records typically looks different than any of the values (it doesn't have a unit like dollars, for one). The line is much less clear, though, when it comes to values that are derived from the data.

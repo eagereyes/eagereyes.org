@@ -1,5 +1,3 @@
-# When the Wrong Chart Is the Right Choice
-
 We all agree that the direction of the bars in a bar chart should correspond to the direction in which the values grow. Or do we? When it comes to running or audio recording and processing, it turns out that the seemingly wrong choice can be the right one – because a more semantically meaningful representation can help us understand and use the data much more easily.
 
 ## Running Pace

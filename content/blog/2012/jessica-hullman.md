@@ -1,5 +1,3 @@
-# Watchlist: Jessica Hullman
-
 Among the papers that stood out at InfoVis 2011 were two that shared an author, and that were presented in the same session by the same person: [Jessica Hullman](http://www-personal.umich.edu/~jhullman/). These papers were *[Benefitting InfoVis with Visual Difficulties](http://www-personal.umich.edu/~jhullman/hullman_adar_shah_infovis11.pdf)* (with Eytan Adar and Priti Shah) and *[Visualization Rhetoric: Framing Effects in Narrative Visualization](http://www-personal.umich.edu/~jhullman/hullman_diakopoulos_infovis11.pdf)* (with Nicholas Diakopoulos).
 
 Now I admit that I have a particular interest in both topics: cognitive issues in visualization and visual rhetoric/storytelling. But both topics are increasingly recognized as important by others in the field, which explains not only why the papers were accepted, but also the Best Paper Honorable Mention for the *Visual Difficulties* paper.

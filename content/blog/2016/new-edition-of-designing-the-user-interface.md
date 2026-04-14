@@ -1,5 +1,3 @@
-# New Edition of Designing the User Interface
-
 The 6th edition of *[Designing the User Interface](https://www.pearsonhighered.com/program/Shneiderman-Designing-the-User-Interface-Strategies-for-Effective-Human-Computer-Interaction-6th-Edition/PGM327860.html)* just came out. This is one of the central books in HCI. This edition is also notable because it adds a lot of fresh blood to the list of authors.
 
 Ben Shneiderman published the first edition of the book in 1986. Since the third edition, Catherine Plaisant has been his co-author. The newest edition adds four more: Maxine Cohen of Nova Southeastern University, Steven Jacobs of Northern Arizona University, and Niklas Elmqvist and Nicholas Diakopoulos of the University of Maryland.

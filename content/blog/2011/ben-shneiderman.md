@@ -1,5 +1,3 @@
-# List of Influences: Ben Shneiderman
-
 [Ben Shneiderman](http://www.cs.umd.edu/~ben/)’s name has been with me through my entire computing life. In high school, we used to draw [Nassi-Shneiderman diagrams](http://en.wikipedia.org/wiki/Nassi–Shneiderman_diagram) to understand structured programming. In the HCI course at my university, his name was on the papers and book chapters we read. When I got into information visualization, he was still everywhere, with [treemaps](http://www.cs.umd.edu/hcil/treemap-history/), the visual information seeking mantra, and many other greatly influential pieces of work. What follows below is Ben’s list of influences, in his own words.
 
 ## Ben Shneiderman’s List

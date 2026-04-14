@@ -1,5 +1,3 @@
-# The Bits Are Rotting in the State of Data Journalism
-
 News articles are an incredibly important source of historical information. Online media and interactive pieces are much more at risk of breaking or disappearing, at least in theory. Well, it's not just theory. A quick look around shows a number of even fairly recent pieces in major publications that are broken today.
 
 The screenshot above is from [this 2013 piece about the "Obamacare" healthcare exchanges](http://www.washingtonpost.com/wp-srv/special/politics/state-vs-federal-exchanges/). This is what it should look like:

@@ -1,5 +1,3 @@
-# Come To My Talk At UW On Tuesday, February 21
-
 I'm giving a public lecture next Tuesday, February 21, at the University of Washington (UW). This is at the invitation of Professor Karen Cheng at the School of Art + Art History + Design. I will talk about what we know and what we don't know about visualization, and how we can expand our knowledge.
 
 The talk I'm preparing is an extended version of my *[Empire Built On Sand](/papers/an-empire-built-on-sand)* paper and talk from BELIV last year. Here's the abstract:

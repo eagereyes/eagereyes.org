@@ -1,5 +1,3 @@
-# Presidential Demographics as Open-Source, More to Come
-
 The EagerEyes Labs' mission is to provide tools to gain insight into [relevant data](/blog/2008/visual-display-of-relevant-information) to everybody. As part of that, the plan has always been to release the source code. The first piece of code is now published, and more is coming.
 
 I am starting with the most recent, the [Presidential Demographics](/blog/2008/presidential-demographics-ii) applet. It is [available as a project on github](https://github.com/eagereyes/PresidentialDemographics). It's an Eclipse project that you can import directly into Eclipse or use the contained source files with any other Java IDE.

@@ -1,5 +1,3 @@
-# VIS 2015 – Thursday
-
 Between the sessions, parties, discussions, running, and the occasional short sleep break, I fell a bit behind on the blogging about [VIS 2015](http://ieeevis.org). After separate postings for [Tuesday](/blog/2015/vis-2015-tuesday) and [Wednesday](/blog/2015/vis-2015-wednesday), this part covers Thursday. The posting about Friday will be short, but squeezing both days into one felt like a bit too much.
 
 BTW, the headings you see here are the session titles. I ended up only going to InfoVis sessions (and the odd panel), so that's where they are from.

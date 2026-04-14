@@ -1,5 +1,3 @@
-# Taking Visualization to the Next Level
-
 Visualization is the visual communication of information - at least the way the term is understood in computer science. But in many ways, visualization is today mostly technical, empirical, and there is practically no theoretical foundation for what we are doing. There are also obvious connections with psychology, design, art, aesthetics, etc. This website tries to pull them all together and start making connections to push visualization to the next level.
 
 Visualization can of course have many meanings, and part of the idea behind this website is also to explore those. There are many misunderstandings today because of the different uses of the term *visualization* by computer scientists, artists, designers, architects, etc. There is further confusion within those fields, not just between them. Thinking about the many ways of visualizing data or information will be a good start to find out what really makes visualization, and what makes it so interesting.

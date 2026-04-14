@@ -1,5 +1,3 @@
-# Paper: Notebooks for Data Analysis and Visualization
-
 Computational notebooks offer an alternative to the common GUI-based tools used for data visualization and BI today. In this new paper, I talk about what they are, their pros and cons, and how research could fill in some important gaps.
 
 Data visualization research has focused primarily on graphical user interfaces (GUIs) for creating data visualization, and for good reason. But notebooks have been used in data science for a while now, and they offer their own advantages over GUIs: reusability, integration of data analysis and modeling, and – especially – easy collaboration.

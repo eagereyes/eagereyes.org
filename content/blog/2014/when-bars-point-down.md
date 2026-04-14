@@ -1,5 +1,3 @@
-# When Bars Point Down
-
 It's so simple it feels entirely trivial: bars in a bar chart pointing down instead of up. But the effect can be striking. And it's not as obvious when to show downward-pointing bars as it might seem. The pure visualization point of view is that bars point up for positive numbers and down for negative ones (or right and left, respectively, for horizontal bar charts).
 
 But there is more to it than that when we think about what the graphic conveys beyond just the numbers. We are used to bars pointing up, that's what we usually see. Downward-pointing bars are unusual and surprising – in particular, when all or most of them point down, it feels odd and you sense that something's wrong. There are also some interesting metaphorical implications.

@@ -1,5 +1,3 @@
-# Parallel Sets Released!
-
 After [an initial commitment](/blog/2009/a-spike-of-interest-in-parallel-sets), [an announcement](/blog/2009/parallel-sets-release-date), and [a delay](/blog/2009/parsets-delay), we are proud to announce that the [Parallel Sets](/parallel-sets) application has been released! Mac OS X and Windows versions are ready to be downloaded, and the source code is available for your enlightenment and/or entertainment.
 
 This initial release is mostly meant to provide a solid program that works well. It includes a few demo data sets, and it is possible to download additional ones from a repository or import your own. The program needs to pre-process the data and stores it in a local database for flexibility and quick access. While it can import numerical data, it currently only shows categorical data in the visualization.

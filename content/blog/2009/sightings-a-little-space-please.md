@@ -1,5 +1,3 @@
-# Sightings: A Little Space, Please!
-
 "[InfoVis and SciVis face off](http://www.americanscientist.org/issues/pub/2009/3/a-little-space-please)" is how the *American Scientist* homepage teases for my latest *Sightings* column. While the comparison between information visualization (InfoVis) and scientific visualization (SciVis) is part of the discussion, I am also describing work by my colleague Anthony Fodor (who works in bioinformatics) to demonstrate the usefulness of InfoVis in science.
 
 The inspiration for this article came from seeing my colleague's work in studying the microorganisms that live in an environment like a sewage treatment plant. He used a very simple yet highly effective visualization to examine the gathered data and to find interesting structures. As it turns out, we know next to nothing about the microorganisms in our sewage plants (or, for that matter, the oceans or our own bodies). Anthony's paper is [available online](http://aem.asm.org/cgi/content/abstract/AEM.01210-08v1).

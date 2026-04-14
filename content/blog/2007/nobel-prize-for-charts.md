@@ -1,5 +1,3 @@
-# A Nobel Prize for Charts
-
 The recipients of the Nobel Peace Prize 2007 are [Al Gore and the UN Intergovernmental Panel on Climate Change](http://www.nytimes.com/2007/10/13/world/13nobel.html). While the decision is undoubtedly a political one (not unlike this year's Nobel Literature Prize), Gore has made a huge impact with his documentary, *[An Inconvenient Truth](http://www.climatecrisis.net/)*. A large part of that comes from his use of graphs and charts.
 
 The charts and the underlying data have of course been the subject of much scrutiny and ridicule, mostly from people who do not agree with the message of the movie. A thorough critique of these is certainly in order, but the fascinating thing is that these abstract charts help to further his story. Similar to [Hans Rosling's talk](http://video.google.com/videoplay?docid=2670820702819322251) (which I will keep linking to until everybody has watched it at least five times), the visual presentation of abstract data is what gets the message across - even if the representation is itself rather abstract.

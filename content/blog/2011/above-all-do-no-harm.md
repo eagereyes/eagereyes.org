@@ -1,5 +1,3 @@
-# Above All, Do No Harm!
-
 Heatmaps and 3D pie charts are often criticized, and for good reason. But they're not always a bad choice, and can work for simple data presentation. Context is important when criticizing visualizations, especially when there are no obvious improvements that can be made.
 
 ## The Chart

@@ -1,5 +1,3 @@
-# Where are the Visualization Tools?
-
 I got several requests in the last few days about tools for doing visualization and visual analytics. Looking around, I don't see a lot of good, affordable (or free) visualization software. There are lots of papers, but few of those programs are available. And those that are often are of very low quality, very limited in their functionality, and are not being maintained. Please help me collect links to visualization tools that let people with data experience that visualization magic.
 
 There is a demand for visualization software; I was reminded of this when the [Parallel Sets were mentioned on a BBC website](/blog/2009/a-spike-of-interest-in-parallel-sets) without even a link, and I kept (and keep) getting emails from people wanting to try it out. We're still working on releasing the program by the end of the month, and things are looking good so far.

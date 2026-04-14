@@ -1,5 +1,3 @@
-# VIS Running Club 2015
-
 I will organize runs again at [IEEE VIS](http://ieeevis.org) in Chicago two weeks from now. As with previous years, organization will be minimal: just show up ready to run. I will prepare routes in the 3-6mi (5-10km) range.
 
 If you want to know what being organized looks like, check out the [Velo Club de VIS:](http://www.gicentre.net/velo-club-de-vis/) they have a website, a meetup, fancy bikes, a hashtag, and probably a selfie drone or two.

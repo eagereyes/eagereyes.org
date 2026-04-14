@@ -1,5 +1,3 @@
-# The Theory Guide to VisWeek 2010
-
 Theory is a big topic at [VisWeek this year](http://vis.computer.org/VisWeek2010/). You can get through almost the entire conference purely on theory papers. Whether that's a good idea is another question of course, but here's a guide how to do it.
 
 ## Sunday

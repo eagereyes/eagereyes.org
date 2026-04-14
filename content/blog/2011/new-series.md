@@ -1,5 +1,3 @@
-# New Series: Watchlist
-
 Some of the most exciting work in our field is done by up-and-coming doctoral students, post-docs, and junior faculty members. In a new semi-regular series, I will highlight some of the people whose work I find particularly interesting and promising. The goal is to get their names onto people's radars earlier than this would have otherwise happened, in particular for those individuals who don't make a lot of noise about their work.
 
 ## Selection Criteria

@@ -1,5 +1,3 @@
-# The Magic of Indirect Multi-Touch Interaction
-
 Direct multi-touch interaction is all the rage right now on mobile devices like iPhones and iPads. Apple is working on a lesser-known variation that is just as useful, but used in their less glamorous laptop computers. The latest development has been their [Magic Trackpad](http://www.apple.com/magictrackpad/), which brings that type of interaction (with some new twists) to the desktop.
 
 There are also multi-touch tables of course, but I consider those of purely academic interest right now. They are still huge, clunky, and expensive. But there are millions of MacBooks and MacBook Pros out there, and Apple is selling over a million iPads a month (and untold numbers of iPhones). These devices are out there, used by real people in the real world. Touch interaction for these devices is much more interesting simply because it can be made immediately accessible to a lot of people.

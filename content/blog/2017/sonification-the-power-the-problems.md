@@ -1,5 +1,3 @@
-# Sonification: The Power, The Problems
-
 Sonification turns data into sound, just like visualization turns data into pictures. Except it's a lot more complicated and limited. Something about sonification has always bugged me, and I think I've finally figured out what: the crowding on the time axis. I've also recently discovered some of the powers of sonification, though.
 
 The are obviously many differences between images and sound. Images can be static, sound always requires time. Our hearing is very linear, our vision is not. We can zoom into an image, but we can't do that with sound. There are many perceptual effects we understand in vision that don't exist in our hearing, and vice versa.

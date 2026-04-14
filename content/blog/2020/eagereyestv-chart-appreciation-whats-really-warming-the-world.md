@@ -1,5 +1,3 @@
-# eagereyesTV: Chart Appreciation, What's Really Warming the World
-
 Line charts – they're not the most glamorous. And yet, they can be used to tell a compelling story about global warming. In this video, I talk about what I consider a modern classic of data journalism, *[What's Really Warming the World](https://www.bloomberg.com/graphics/2015-whats-warming-the-world/)* by Eric Roston and Blacki Migliozzi: how it works, how it's structured, and why it works so well.
 
 That piece was a key inspiration for a short paper I wrote for EuroVis a few years ago on [argument structure for data stories](/papers/paper-an-argument-structure-for-data-stories). Watch the video here or [head over to YouTube](https://youtu.be/Bjrb_ErvvPs). The latter would be appreciated especially so you can hit the like button, which will help the video get seen by more people.

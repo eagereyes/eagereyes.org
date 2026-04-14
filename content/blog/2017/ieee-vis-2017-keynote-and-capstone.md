@@ -1,5 +1,3 @@
-# IEEE VIS 2017: Keynote and Capstone
-
 Part 2 of my IEEE VIS 2017 report covers the keynote and capstone talks at the conference. They were not just at opposite ends of the conference, but also about as different as they can be in terms of content and delivery.
 
 ## Keynote: Jacqueline H. Chen, Analytics Inspired Visualization: A Holistic In-situ Scientific Workflow at Extreme Scale

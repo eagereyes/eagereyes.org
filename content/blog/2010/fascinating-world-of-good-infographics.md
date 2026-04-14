@@ -1,5 +1,3 @@
-# The Fascinating World of (Good) Infographics
-
 Information graphics (infographics) have gotten a bad rep lately because of a sudden wave of badly designed, uninformative graphics. But when they are done right, infographics can be both highly informative and enjoyable to look at and discover. Here are a few recent examples to demonstrate that.
 
 ## Putting Things in Perspective

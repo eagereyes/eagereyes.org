@@ -1,5 +1,3 @@
-# My Review of Visualize This and Visual Complexity for Science Magazine
-
 I was asked to write a review of two recent visualization books for *Science*: Nathan Yau's *[Visualize This](http://book.flowingdata.com/)* and Manuel Lima's *[Visual Complexity](http://www.visualcomplexity.com/vc/book/)*. The piece appeared in the last issue of 2011, right before Christmas. Below is a link to the review and some additional comments on it and the two books.
 
 Discussing the two books in one review was quite a challenge, because they are so different. *Visualize This* is very hands-on and walks the reader through a number of examples, while *Visual Complexity* is an illustrated guide with a heavy theoretical bent.

@@ -1,5 +1,3 @@
-# Beautiful Visualization
-
 [*Beautiful Visualization*](http://oreilly.com/catalog/0636920000617) is a collection of essays on a wide range of topics in visualization. Don't let the title mislead you: while it has its share of artistic visualization, there is also quite a bit of technical information in there. One of the chapters was written by yours truly.
 
 The chapters cover topics like Wordle, the New York Times News API, the use of color, visualizing Wikipedia, etc. Among the authors are people like Martin Wattenberg and Fernanda Viégas, Moritz Stefaner, Danyel Fisher, etc. All chapters are in the 10-25 page range, which makes for nice bite-sized chunks that can be read one after the other or as you find the time for them.

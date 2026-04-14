@@ -1,5 +1,3 @@
-# New video: Chart Appreciation, Iraq's Bloody Toll by Simon Scarr
-
 How do you make people not just see numbers when looking at a chart, but feel something? This chart of the number of deaths during the Iraq war has always given me a visceral response like no other, and it’s still as powerful as when it was made almost ten years ago. So I made a chart appreciation video to explain what I think is so great about it.
 
 I’ve [written about this chart and other downward-pointing bar charts before](/journalism/when-bars-point-down), but I’ve put a lot of effort into explaining why this is such a great chart in this video. I also talk about recent (accepted but not yet technically published) [research that shows that aligning the chart direction with the emotional valence ](https://osf.io/wj8k2/)(good or bad) of the chart topic actually helps people read them.

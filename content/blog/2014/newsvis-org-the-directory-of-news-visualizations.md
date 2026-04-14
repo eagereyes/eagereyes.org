@@ -1,5 +1,3 @@
-# NewsVis.org, The Directory of News Visualizations
-
 When I was in Portland over the holidays a few weeks ago, I noticed [a visualization](http://newsvis.org/graphic/2013-12-trimets-long-days) in the local newspaper, *The Oregonian*. I had never heard of that before, nor of Mark Friesen, who created it. Wondering how many visualizations I might be missing, I decided to build a website that would collect them all: [newsvis.org](http://newsvis.org/).
 
 There are of course the usual suspects who we all know, and who do a lot of great work: *The New York Times*, *The Washington Post*, etc. But is that it? Are there not many others that create data visualizations for journalism?

@@ -1,5 +1,3 @@
-# Design Workshop Questions
-
 Jeff Heer asked me to talk more about the [Design, Vision, and Visualization](http://www.stonesc.com/Vis08_Workshop/) workshop at VisWeek, so here is a list of questions we came up with. While we were not able to discuss them at great length, I think they're very valid, and might lead to a better understanding about how to connect the design and visualization worlds.
 
 The list is based on my notes and what I remember from the discussion, but I also filled in some additional thoughts. Feel free to add and/or disagree in the comments.

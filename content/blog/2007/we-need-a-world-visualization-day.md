@@ -1,5 +1,3 @@
-# We Need a World Visualization Day!
-
 Visualization is still mostly done by academics, who are notoriously bad at communicating their work to the world. This is why we need a World Visualization Day: to show the world what visualization can do, and to get some attention from the public and the media. If you're attending the Vis/InfoVis conference, come to the BOF meeting (Mon, Oct 29 at 6pm) to discuss further steps!
 
 ## Why A Specific Day?

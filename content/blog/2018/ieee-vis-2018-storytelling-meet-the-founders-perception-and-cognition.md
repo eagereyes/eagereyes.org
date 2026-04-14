@@ -1,5 +1,3 @@
-# IEEE VIS 2018, Part 3: New Approaches, Meet the Founders, Perception and Cognition
-
 The final report from VIS 2018 (see previously [here](/blog/2018/ieee-vis-2018-viscomm-visinpractice-beliv-best-papers) and [here](/blog/2018/ieee-vis-2018-time-evaluation-dashboards-the-future-of-vis)) again covers papers, papers, and more papers. There are new ways to specify visualizations, a panel, perception research, as well as new work on how to deal with uncertainty in data.
 
 ## New Ways to Make Charts

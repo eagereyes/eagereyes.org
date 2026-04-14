@@ -1,5 +1,3 @@
-# Link: The Tapestry YouTube Channel
-
 We recently redesigned the Tapestry website, and unfortunately lost the archive page. It will definitely come back (and better than before), but in the meantime, there's the [Tapestry YouTube Channel](https://www.youtube.com/user/TapestryConference). You can watch all the talks from the last three years. This includes people like [Hannah Fairfield](https://www.youtube.com/watch?v=YOkVGUTinvY), [Alberto Cairo](https://www.youtube.com/watch?v=yro4Sq5A2l4), [Martin Wattenberg and Fernanda Viègas](https://www.youtube.com/watch?v=VRgJnX1lr04), [Kim Rees](https://www.youtube.com/watch?v=0VGARONcLVs), and many more.
 
 If you're inspired and want to attend in March 2016, [now is the time to apply](/blog/2015/tapestry-2016-open-for-applications). And if you apply to speak and you're picked, your talk could soon be among the illustrious crowd.

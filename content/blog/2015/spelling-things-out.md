@@ -1,5 +1,3 @@
-# Spelling Things Out
-
 When visualizing data, we often strive for efficiency: show the data, nothing else. But there can be tremendous value in redundancy to make a point and drive it home. Two recent examples from news graphics illustrate this nicely.
 
 The first is this [animated chart of global temperatures from 1881 to 2014](http://www.bloomberg.com/graphics/2014-hottest-year-on-record/). It shows more data than is really needed. Why show monthly data when talking about the yearly average? Why the animation of all those lines when you could just show a bar chart of the yearly averages?

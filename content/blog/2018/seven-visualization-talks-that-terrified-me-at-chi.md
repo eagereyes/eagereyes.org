@@ -1,5 +1,3 @@
-# Seven Visualization Talks That Terrified Me At CHI
-
 *This is a guest posting by my Tableau Research colleague [Michael Correll](http://correll.io).*
 
 I recently attended [CHI 2018](https://chi2018.acm.org/) in Montréal, QC. Normally conferences leave me excited for the next idea or the next direction (and also physically exhausted). This was one of the first where I was left feeling terrified: A lot of the work did an excellent job of highlighting core problems about our assumptions as visualization researchers, and poked at big intractable issues that I had mostly been ignoring for a long time. There were also exactly 666 accepted papers, which is not a good omen either.

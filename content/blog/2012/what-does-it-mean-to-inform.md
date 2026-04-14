@@ -1,5 +1,3 @@
-# What Does It Mean to Inform?
-
 Information graphics are meant to carry meaning, so that readers can learn something about data, facts, or processes. But what does it mean to inform? And how does the goal of informing in information graphics differ from analytical visualization?
 
 A key idea in visualization is that of externalized memory or externalized thinking: Using pen and paper to multiply large numbers is easier than doing the same thing entirely in one's mind because we don't have to remember all the intermediate results and can thus focus on the actual operations on the numbers. Visualization serves a similar purpose, and goes beyond it by giving us access to amounts of data we could not possibly memorize.

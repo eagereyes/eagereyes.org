@@ -1,5 +1,3 @@
-# Row-Level Thinking vs. Cube Thinking
-
 Our mental model of a dataset changes the way we ask questions. One aspect of that is [the shape of the data (long or wide)](/basics/spreadsheet-thinking-vs-database-thinking); an equally important issue is whether we think of the data as a collection of rows of numbers that we can aggregate bottom-up, or as a complete dataset that we can slice top-down to ask questions.
 
 ## Where It All Starts: Rows

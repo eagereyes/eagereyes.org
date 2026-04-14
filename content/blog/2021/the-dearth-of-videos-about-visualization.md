@@ -1,5 +1,3 @@
-# The Dearth of Videos about Visualization
-
 To appropriate the famous Martin Mull quote, writing about visualization is like dancing about architecture. Why are we using written words, like this blog post, to talk about visualization instead of moving images, like in a video?
 
 It gets weirder, because the impetus for writing this comes from a discussion on *Clubhouse*, the audio-only social media/hangout place that’s all the rage right now. Yes, we were discussing visualization without any access to visuals. I’m just as confused as you are.

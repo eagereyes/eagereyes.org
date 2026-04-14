@@ -1,5 +1,3 @@
-# Visualization Makes Things Real
-
 Vision is the sense we most identify with: it tells us where we are, who we are talking to, what we are doing. It defines our world like no other sense. What we can see is real, for better or worse.
 
 ## Reproductive Cloning

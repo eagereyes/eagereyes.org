@@ -1,5 +1,3 @@
-# Critiquing and Redesigning
-
 Criticizing visualizations is a cottage industry of sorts, and an activity I have indulged in in the past as well. Redesigning those charts is also not uncommon, though it's usually other people's charts, and that [isn't always welcome](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9). Sarah Leo of *The Economist* [has redesigned some of the charts made by that publication](https://medium.economist.com/mistakes-weve-drawn-a-few-8cdd8a42d368), and not only do her redesigns work better, her thoughts around some of the design issues are also very insightful.
 
 This being *The Economist*, the charts Leo picked for redesigns aren't all that egregious to begin with, but her redesigns are clearly an improvement. Two  stood out to me in particular. The first one seems to show a correlation that's a little bit too perfect.

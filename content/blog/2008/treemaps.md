@@ -1,5 +1,3 @@
-# Treemaps
-
 Treemaps are the single most used 'real' InfoVis technique there is. Interestingly, they have proven to be even more useful for unstructured data than for the hierarchies which they were originally developed for. Here is a brief history, discussion of current practical uses, and of the importance of treemaps for the adoption and understanding of information visualization.
 
 Describing treemaps in words is a guarantee for blank stares from my students. The concept behind treemaps, while visually simple and compelling, is actually quite bizarre: recursively slice and dice a rectangle in different directions to represent a (potentially large) hierarchy.

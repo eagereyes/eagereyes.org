@@ -1,5 +1,3 @@
-# Encoding vs. Decoding
-
 Visualization techniques encode data into visual shapes and colors. We assume that what the user of a visualization does is decode those values, but things aren’t that simple.
 
 ## Encoding

@@ -1,5 +1,3 @@
-# EuroVis 2012, Day 2
-
 Day 2 of EuroVis was a long series of paper presentations, occasionally interrupted with copious amounts of food. Here are some of the highlights.
 
 *The Parallel Coordinates Matrix* by Julian Heinrich, John Stasko, and Daniel Weiskopf describes a way of arranging axes in parallel coordinates to show all two-axis combinations without (much) redundancy. Doing this, it is possible to find all the interesting patterns in data without having to try out lots of combinations. The technique doesn’t really produce a matrix, but more of a layered parallel coordinates plot. They also have some good ideas about focus-and-context and interaction, especially when there are lots of axes.

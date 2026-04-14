@@ -1,5 +1,3 @@
-# Introducing eagereyesTV, My New YouTube Channel
-
 After writing about visualization for over a decade, it’s time to mix things up a bit and try a new medium: video. I just uploaded the first video to [my new YouTube channel, which I’m calling *eagereyesTV*](https://m.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ). Take a look and tell me what you think!
 
 If you don’t watch videos because you think they’re all a waste of time, I understand where you’re coming from. I thought so too until recently. The vast majority certainly are. But YouTube is what you make it. If you follow the right people who cover topics that interest you, and who do so in a structured (or at least engaging) way, you will change your mind.

@@ -1,5 +1,3 @@
-# Tapestry 2018, Details and Keynote Speakers
-
 We recently announced the speakers for [Tapestry 2018](http://www.tapestryconference.com), which takes place November 29 and 30 at the University of Miami. It will again be focused on telling stories with data, but we're also making a few changes.
 
 This will be the sixth time we're organizing the conference, so we figured we'd change things up a bit. First, we're moving from a single day to a day and a half. That will give us a bit more time to include things like an unconference part, have more time for breaks and social activities, etc.

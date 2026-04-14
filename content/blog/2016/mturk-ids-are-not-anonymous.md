@@ -1,5 +1,3 @@
-# MTurk IDs Are Not Anonymous
-
 The worker IDs Amazon's [Mechanical Turk](https://www.mturk.com/) gives you may look pretty random and anonymous, but they can reveal personally-identifiable information. They need to be removed from datasets, especially when they are shared or published.
 
 Like many things, I learned this the hard way. Or I would have, had [Steve Haroz](http://steveharoz.com/) not caught it in the data for an upcoming EuroVis paper.

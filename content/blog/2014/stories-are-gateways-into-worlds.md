@@ -1,5 +1,3 @@
-# Stories Are Gateways Into Worlds
-
 Moritz Stefaner recently wrote a posting titled [*Worlds, not stories*](http://well-formed-data.net/archives/1027/worlds-not-stories). He basically argues that while there is a clear role for the designer of a visualization, the result should be a world that users can explore, rather than a story that they’re told. I have a few things to say about this, and will do so in two parts. This is part one.
 
 Moritz views an audience that watches a story as mere consumers, while he wants them to be active. He has also said that [visualizations don’t need punchlines](http://well-formed-data.net/archives/868/look-ma-no-story). I don’t disagree with any of that. However, I think Moritz has a view of what a story is and how it interacts with the visualization that is much too narrow.

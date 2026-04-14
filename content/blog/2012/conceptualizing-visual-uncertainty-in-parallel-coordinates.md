@@ -1,5 +1,3 @@
-# Paper: Conceptualizing Visual Uncertainty in Parallel Coordinates
-
 Visualization is largely defined as the transformation of data into images. Visualization tools don't have a way of assessing their output, though: were there enough pixels to represent all the data? Are there too many overlapping lines? In [a paper to be presented at EuroVis next week](/publications/Dasgupta-EuroVis-2012), Aritra Dasgupta, Min Chen, and I propose a taxonomy of the different sources of uncertainty when working with parallel coordinates.
 
 <figure><img src="https://media.eagereyes.org/wp-content/uploads/2012/05/uncertainty-taxonomy.png" alt="" width="600" height="188"/></figure>

@@ -1,5 +1,3 @@
-# List of Influences: Alan MacEachren
-
 The first time I saw [Alan MacEachren](http://www.geovista.psu.edu/members/maceachren/) speak was as the keynote speaker at the [Diagrams 2000](http://www.cl.cam.ac.uk/Diag2000/) conference in Edinburgh. Because of his background in geography, he was introduced as "a practitioner" of diagrams – a designation which he immediately resisted. His work is clearly much more than that, connecting cartography, information visualization/design, semiotics, and perception. Alan's book [*How Maps Work*](http://www.amazon.com/How-Maps-Work-Representation-Visualization/dp/157230040X) has considerably changed the way representation and communication are understood when it comes to maps.
 
 Alan MacEachren is the director of the [GeoVISTA Center at Penn State](http://www.geovista.psu.edu/index.jsp), and I am too scared to start counting all his awards, funded projects, and publications. I do want to mention the special timing of his list, which I received shortly before the deadline for InfoVis, Vis, and VAST: perhaps the busiest time of the year for people in this field.

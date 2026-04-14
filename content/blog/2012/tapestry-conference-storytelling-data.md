@@ -1,5 +1,3 @@
-# Tapestry, The Conference About Storytelling With Data
-
 [Tapestry](http://www.tapestryconference.com) is a new conference on storytelling with data. While it focuses on visual ways of telling stories in journalism, there will be a broad range of topics, and a line-up of amazing speakers.
 
 ## Keynotes

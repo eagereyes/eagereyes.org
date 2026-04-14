@@ -1,5 +1,3 @@
-# Visualization as a Field Is Still Invisible
-
 A new series by the New York Times is equally exciting and painful: it presents visualizations for discussion in class, but the outside help they are getting is coming from statistics rather than visualization. It’s another reminder of just how far we still have to go to even be noticed as a research field.
 
 The new series is called [*What’s Going On in This Graph?*](https://www.nytimes.com/column/whats-going-on-in-this-graph) and is part of the Times’ [Learning Network](https://www.nytimes.com/section/learning). They publish a chart once a month with much of its context removed (but enough to figure it out), and ask students to interpret what they are seeing. This is done not in collaboration with the visualization community, but with the [American Statistical Association (ASA)](http://www.amstat.org).

@@ -1,5 +1,3 @@
-# The Loneliness of the Visualization Critic
-
 At a panel discussion at [Vis 2006](http://vis.computer.org/vis2006/), we were blasted for raising the question, *Is there Science in Visualization? *A senior visualization researcher said that he was embarrassed that this question was being discussed, and that we were trying to push our way of doing things on the community. The panel was still a success, but this proved just how far we still have to go.
 
 His arguments were not particularly strong: he argued that physicists would never ask that question (when there is a huge divide right now over how scientific [string theory](http://en.wikipedia.org/wiki/String_theory#Problems_and_controversy) really is), and also said that we were just trying to present ourselves as role models (which we did not). But the point he made, and that a handful of people apparently agreed on, was to show how unhappy and uncomfortable some people are with discussing such a fundamental question.

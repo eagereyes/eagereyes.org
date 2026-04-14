@@ -1,5 +1,3 @@
-# Conference Report: CHI 2015
-
 Last week, I had the pleasure of attending the [CHI 2015 conference](http://chi2015.acm.org/) in Seoul, South Korea. *CHI* technically stands for *Computer-Human Interaction*, but it has become a name rather than an acronym in recent years. And CHI’s scope is very broad, it covers many areas that are not strictly part of HCI (*Human-Computer Interaction* – why use one acronym when you can have two?).
 
 Below, I talk about a few papers that I found particularly interesting. CHI has 15 parallel tracks, so there is obviously no way to see them all. I mostly went to the visualization sessions, but even from those I’m only picking out less than half the papers here, to focus on the really interesting ones.

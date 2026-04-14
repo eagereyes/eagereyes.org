@@ -1,5 +1,3 @@
-# Lessons Learned from Live-Blogging VisWeek 2008
-
 [VisWeek 2008](http://vis.computer.org/VisWeek2008/index.html) was an interesting set of conferences again. The live-blog is now archived, and here are a few thoughts on blogging a conference. I had a long summary written up, but it was mostly redundant with the live-blog, so it makes more sense to go there. I will write up further things at greater length over the next few weeks.
 
 This was my first experiment with live-blogging, and it was quite interesting. I knew that Twitter's 140-character limit would be too little, but the postings grew a bit longer than I had originally expected. The Microblog box took up most of the visible frontpage, when it was really meant to only fill the top half on most screens. The postings were still fairly superficial, more pointers than descriptions of what the papers were really about.

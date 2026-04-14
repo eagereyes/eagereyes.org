@@ -1,5 +1,3 @@
-# Hello from Tableau (and Seattle)!
-
 I am spending the entire year 2012 in Seattle, working with [Tableau Software](http://www.tableausoftware.com/). The topics I will be working on include storytelling and Tableau Public, plus some super-secret projects even I don't know yet (mostly because we haven't decided on them).
 
 Being able to do this is one of the perks of being a [university professor](http://cs.uncc.edu/). After you get tenure, most universities will let you take a year off every five years or so. This is typically called a [sabbatical](http://en.wikipedia.org/wiki/Sabbatical), though in North Carolina the term is *reassignment of duties*. There are reasons for this that are bureaucratic and not very interesting, but I dislike the term because it sounds like I'm being punished for something ("Professor X's duties have been reassigned while the investigation into his alleged crimes is ongoing"). Sabbaticals are typically used to write books, conduct research (think archeologist going on a dig for several months), or to (re-)connect with the real world.

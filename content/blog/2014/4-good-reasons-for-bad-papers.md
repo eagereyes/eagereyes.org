@@ -1,5 +1,3 @@
-# Peer Review, Part 4: Good Reasons for Bad Papers
-
 As a reviewer, you might sometimes ask yourself why people write so many bad papers. And why they bother submitting them. I certainly do. But where do they come from? Who submits bad papers? And why? It may come as a surprise, but there are good reasons to submit bad papers for review.
 
 ## To Get Feedback

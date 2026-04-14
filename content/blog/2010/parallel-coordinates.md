@@ -1,5 +1,3 @@
-# Parallel Coordinates
-
 Parallel coordinates are one of the most famous visualization techniques, and among the most common subjects of academic papers in visualization. While initially confusing, they are a very powerful tool for understanding multi-dimensional numerical datasets.
 
 ## The Technique

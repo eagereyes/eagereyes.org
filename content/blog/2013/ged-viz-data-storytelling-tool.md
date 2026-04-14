@@ -1,5 +1,3 @@
-# GED Viz, A Data Storytelling Tool
-
 I had the honor and pleasure to keynote an event in Berlin recently that introduced a new visualization tool to the world, [GED Viz](http://viz.ged-project.de). What makes it stand out from other web-based visualization tools is its focus on particular data, and the ability to create not just individual views, but little stories.
 
 [*GED* stands for Global Economic Dynamics](http://www.ged-project.de/home/), which explains where the motivation for the project actually came from: the need to show the underlying data when explaining global relationships based on the movement of goods, money, and people between countries.

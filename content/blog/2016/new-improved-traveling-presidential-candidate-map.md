@@ -1,5 +1,3 @@
-# New, Improved Traveling Presidential Candidate Map
-
 Many years ago, when this website was still young, I created [a map of all the ZIP codes in the U.S. in numeric order](/zipscribble-maps/united-states) and then wondered about the shortest path through all of them. I dubbed that [*The Traveling Presidential Candidate Map*](/zipscribble-maps/travelling-presidential-candidate-map). Here is an improved version that's interactive and much more efficient than the old one.
 
 Finding the shortest path through a set of points is called the *[Traveling Salesman Problem](https://en.wikipedia.org/wiki/Travelling_salesman_problem)* (hence the pun). There are many applications, like finding the fastest way of moving a robot arm between many different positions where it needs to do work, or laying out traces on a printed circuit board.

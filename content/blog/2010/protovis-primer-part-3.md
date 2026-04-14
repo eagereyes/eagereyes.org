@@ -1,5 +1,3 @@
-# A Protovis Primer, Part 3
-
 After covering some [Protovis](http://protovis.org/) [basics in part 1](/blog/2010/protovis-primer-part-1), and some [more advanced techniques plus data loading in part 2](/blog/2010/protovis-primer-part-2), this part is devoted mostly to using what we've already discussed in a more complex example. We'll also look at some basic interaction.
 
 While Protovis requires more work to set up charts, it pays off when you want to do something beyond the typical chart types, or when you want to add interaction. You are not limited to any fixed set of charts, but can create any combination you want, or even something entirely new.

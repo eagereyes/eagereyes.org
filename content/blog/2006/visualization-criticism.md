@@ -1,5 +1,3 @@
-# Visualization Criticism - A New Way of Thinking about Visualization
-
 The main means of communication in science is the (printed) journal article or conference paper, which only contains text and static images. This limits the way we can illustrate change, interaction, and dynamics. We do not have the appropriate language to effectively describe our work not only in terms of what it shows, but how and why it works. We also lack a means of talking about our own and others' work in ways that critically reflect on what has been done. We need to learn from art criticism, where this is all possible.
 
 Visualization lacks what is overabundant in art: talk. Artists talk, art critics talk, millions of lines are written every year about artists, their work, exhibitions, etc. There are numerous books, journals, and magazines devoted to writing about art, and every major newspaper has an art section.

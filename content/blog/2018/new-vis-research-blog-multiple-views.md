@@ -1,5 +1,3 @@
-# New Vis Research Blog: Multiple Views
-
 While activity on this site has been a bit slow this year, I’ve helped start a new group blog focused on visualization research, called *[Multiple Views](https://medium.com/multiple-views-visualization-research-explained)*. 
 
 Visualization research is difficult to access for most people who aren't academics: you have to find the papers, you have to have access to the digital libraries or know where to find free copies, etc. Many people are curious about what is happening in visualization research, though, and manage to follow the field despite our best efforts.

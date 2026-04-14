@@ -1,5 +1,3 @@
-# Quo Vadis, Many Eyes?
-
 Remember when [visualization for the masses](/blog/2007/infovis-2007-infovis-for-the-masses) was all the rage, back in 2007? We were so young and hopeful. [Many Eyes](http://www-958.ibm.com/software/data/cognos/manyeyes/) and Swivel were the harbingers of a new age of data literacy and well-informed debate. Visualization was [going to be social](/blog/2007/panel-social-data-visualization) and [change the world](/blog/2009/visweek-changing-the-world-with-visualization-panel). Alas, it was not to last. Swivel [is](/criticism/the-rise-and-fall-of-swivel) [gone](/criticism/swivel-part-2-solving-a-single-problem), and Many Eyes clearly seen its best days. This is despite the fact that interest in visualization [is growing](http://blog.visual.ly/why-is-data-visualization-so-hot/), and it turns out that Many Eyes is as busy now as never before. I have scraped some data from the site that shows that despite the lack of updates and new features, people's use of it is still increasing. The data also gives some interesting insights into what people use it for.
 
 ## Signs of Decline

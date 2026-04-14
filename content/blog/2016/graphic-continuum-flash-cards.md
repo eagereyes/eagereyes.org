@@ -1,5 +1,3 @@
-# Graphic Continuum Flash Cards
-
 [Jon Schwabish](http://policyviz.com/) and[ Severino Ribecca](http://www.datavizcatalogue.com) have turned their [Graphic Continuum poster](http://policyviz.com/graphic-continuum/) into a set of cards. They're a good way to expand your visual vocabulary and find new ideas for how to represent your data.
 
 Each card shows one visualization technique as a stylized image on one side and a short definition on the other. They are grouped by color into six sets of related techniques, like ones used for comparing values, distributions, time, part-to-whole, etc.

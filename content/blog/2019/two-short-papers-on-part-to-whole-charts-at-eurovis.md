@@ -1,5 +1,3 @@
-# Two Short Papers on Part-to-Whole Charts at EuroVis
-
 Why do pie charts look the way they do? What makes this particular way of slicing up a circle the preferred way of showing part-to-whole relationships? In two short papers that I’m presenting this week at [EuroVis](https://www.eurovis.org), I looked at the design space of circular part-to-whole charts, including pie charts.
 
 The first paper, titled *[Circular Part-to-Whole Charts Using the Area Visual Cue](/publications/Kosara-EuroVis-2019a)*, was motivated by the designs Drew Skau and I created for [the studies that showed that angle was unlikely to be the cue used to read pie charts](/papers/a-pair-of-pie-chart-papers). It was surprising that the *area-only* condition did as well as the pie chart itself, because the slice showing the data had an irregular shape that changed with the value.

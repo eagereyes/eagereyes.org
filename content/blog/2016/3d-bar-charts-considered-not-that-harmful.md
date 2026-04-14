@@ -1,5 +1,3 @@
-# 3D Bar Charts Considered Not That Harmful
-
 We've turned the understanding of charts into formulas instead of encouraging people to think and ask questions. That doesn't produce better charts, it just gives people ways of feeling superior by parroting something about chart junk or 3D being bad. There is little to no research to back these things up.
 
 ## The Trivapro 3D Bar Chart

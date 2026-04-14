@@ -1,5 +1,3 @@
-# Report: EuroVis 2015
-
 I attended [EuroVis 2015](http://eurovis2015.it) last week in Cagliari, Sardinia. This is the second-most important conference in the academic visualization world, and there were plenty of good sessions to choose from (full and short papers, state-of-the-art reports, and industry sessions).
 
 As usual, this is a highly subjective and incomplete report. I did not see anywhere near all presentations, and I am only describing the papers I really liked (or that I have something meaningful to say about) below. It also helps when authors have something to link to, since that makes mentioning the paper much more valuable.

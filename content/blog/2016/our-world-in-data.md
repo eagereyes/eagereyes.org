@@ -1,5 +1,3 @@
-# Link: Our World in Data
-
 [Our World in Data](https://ourworldindata.org) looks at a wide variety of data about the world: health, population, energy, growth, inequality, etc. [Max Roser](https://twitter.com/MaxCRoser) and his colleagues dig through the vast amounts of open data to find many interesting connections and insights.
 
 As an example, [this recent posting on healthcare spending vs. life expectancy](https://ourworldindata.org/the-link-between-life-expectancy-and-health-spending-us-focus) uses a [connected scatterplot](/blog/2015/the-connected-scatterplot-for-presenting-paired-time-series) to show much of an outlier the U.S. is among OECD countries in both aspects.

@@ -1,5 +1,3 @@
-# Publicize, Don't Just Publish!
-
 What does it mean to publish a paper? Is it just to add a bullet point to your CV, or do you want the world to know about your research? What does it mean to publish today? Here are some thoughts and pointers on how to get the word out about the amazing work you do.
 
 Publishing your results is an integral part of doing science. Why work on figuring out something new if you're not going to tell anybody? Exchanging ideas, critiquing them, building on them, and then publishing new ones is the way science works.

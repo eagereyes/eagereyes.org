@@ -1,5 +1,3 @@
-# New video: Gauges for Data Visualization, The NY Times Election Needle, and Circular Bar Charts
-
 Gauges aren't very popular in visualization, but they have some interesting properties. There is, of course, the infamous NY Times "election needle," but you're probably using gauges every day without giving them too much thought. There's also an interesting connection with circular bar charts, which I think can work well when used as part-to-whole charts. I talk about all of this in my new video.
 
 I really started thinking about this when I realized that gauges aren't just displays of numbers, but also show you where you are on the scale. That's quite useful when you're trying to understand things like how close you are to the maximum RPM in your car, or the range of empty to full on your fuel gauge.

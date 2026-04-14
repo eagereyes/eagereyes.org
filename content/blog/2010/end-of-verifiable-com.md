@@ -1,5 +1,3 @@
-# The End of Verifiable.com
-
 On August 1, 2010, the visualization website Verifiable.com will close. If you don't know Verifiable, I recommend checking them out despite this, it's an interesting site that has explored an important niche of the online visualization (*visualization-as-a-service*, if you will) world. Its demise can teach us a lot about how visualization for the masses works, and what we need to do to actually make it happen.
 
 Verifiable let you upload data and create visualizations. The interface was similar to [Tableau](http://www.tableausoftware.com/), though certainly not as powerful. But it provided a lot of ways of creating interesting visualizations, and was more analytical than [Many Eyes](http://manyeyes.alphaworks.ibm.com/manyeyes/).

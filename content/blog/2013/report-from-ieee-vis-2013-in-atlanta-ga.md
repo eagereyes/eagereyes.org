@@ -1,5 +1,3 @@
-# Report from IEEE VIS 2013 in Atlanta, GA
-
 There were parties, papers, and presentations. The keynote involved ramen, the capstone cited Rams. Lies were told, we watched stories unfold, and stacked bars of gold. The first *IEEE VIS* took place inside a giant alien, and the dinosaurs were particularly memorable.
 
 This was technically [the first IEEE VIS](http://ieeevis.org/year/2013/info/vis-welcome/welcome), though the conference has been around for twenty years. It started as *IEEE Visualization* (or, to its friends, *Vis*), then turned into *VisWeek*, and finally was renamed *VIS.*

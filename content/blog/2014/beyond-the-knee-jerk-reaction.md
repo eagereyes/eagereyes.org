@@ -1,5 +1,3 @@
-# Beyond the Knee-Jerk Reaction
-
 There is a tendency to just reflexively make fun of certain types of charts, in particular pie charts and 3D charts. While that is often justified, there are also exceptions. Not all pie charts are bad, and not all 3D charts are terrible. But to spot those outliers, we have to suppress the knee-jerk reflex and give them a moment of thought before ripping them apart.
 
 ## The Chart

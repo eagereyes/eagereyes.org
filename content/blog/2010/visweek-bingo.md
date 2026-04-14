@@ -1,5 +1,3 @@
-# VisWeek Bingo!
-
 With only just over a week left until [VisWeek 2010](http://vis.computer.org/VisWeek2010/), it's time for VisWeek Bingo!
 
 ## How Does It Work?

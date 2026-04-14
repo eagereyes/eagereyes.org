@@ -1,5 +1,3 @@
-# eagereyesTV Episode 1: The DataSaurus, Anscombe’s Quartet, and why summary statistics need to be taken with a grain of salt
-
 When dealing with large amounts of data, we often use summary statistics like average, median, standard deviation, sum, etc. They’re useful because they actually hide data, they reduce the amount of information we need to look at to give us a sense of the data. But the same averages and can describe datasets that look vastly different.
 
 This is the first video on my new [YouTube channel, *eagereyesTV*](https://m.youtube.com/channel/UCKecjwo5N9YrRyYf_sj72KQ). You can watch it below or click on [this link to be taken to YouTube](https://youtu.be/RbHCeANCbW0).

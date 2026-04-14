@@ -1,5 +1,3 @@
-# VisWeek 2012 Digest, Part 1
-
 I gorged myself on talks, panels, and tutorials last week. And parties, oh the parties. Time to digest all of it and, um, extract the most important bits. Since there is so much to talk about, I have split this up into three parts. Parts 1 and 2 will discuss individual papers and events, part 3 will add some more general observations.
 
 VisWeek has been growing quite steadily over the last years, but this year hit a particularly interesting milestone: more than 1,000 attendees. The final number was 1,058, almost 100 more than last year.

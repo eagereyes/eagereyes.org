@@ -1,5 +1,3 @@
-# Paper: From Jam Session to Recital: Synchronous Communication and Collaboration Around Data in Organizations
-
 Who are the people who use data and visualization as part of their work every day? In particular, how do people use data as part of meetings, to present to others, to discuss their findings and recommendations, etc.? My colleague Matt Brehmer and I ran a pair of studies to find out.
 
 I’ve written [a little blog post about the paper over on the Tableau Engineering Blog](https://engineering.tableau.com/how-do-people-communicate-and-collaborate-with-data-in-organizations-a19154bd25e0), and I will give a brief summary here as well. But in this post, I want to focus on a few quotes and points that I found particularly interesting.
