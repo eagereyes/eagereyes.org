@@ -23,6 +23,12 @@ export const GET: RequestHandler = async () => {
             // fall back to description
         }
 
+        if (post.featuredImage?.render) {
+            const img = post.featuredImage;
+            const sizeAttrs = img.width && img.height ? ` width="${img.width}" height="${img.height}"` : '';
+            content = `<img src="${img.src}" alt="${escapeXml(img.alt ?? '')}"${sizeAttrs} />\n` + content;
+        }
+
         return `    <item>
       <title>${escapeXml(post.title)}</title>
       <link>${url}</link>
