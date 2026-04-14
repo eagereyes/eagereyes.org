@@ -149,6 +149,7 @@
         height: auto;
         display: block;
         border-radius: 4px;
+        background-color: var(--color-bg-2, #e8e8e8);
     }
 
     @media (max-width: 600px) {
