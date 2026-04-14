@@ -38,7 +38,8 @@
     aria-modal="true"
     aria-label="Photo lightbox"
     tabindex="-1"
-    onclick={onclose}
+    onclick={(e) => { if (e.target === e.currentTarget) onclose(); }}
+    onkeydown={(e) => { if (e.key === 'Escape') onclose(); }}
 >
     <button
         class="nav-btn prev"
@@ -47,7 +48,7 @@
         onclick={(e) => { e.stopPropagation(); onprev(); }}
     >&#8249;</button>
 
-    <div class="lightbox-content" onclick={(e) => e.stopPropagation()}>
+    <div class="lightbox-content">
         <img src={photo.src} alt={photo.alt} width={photo.width} height={photo.height} />
     </div>
 

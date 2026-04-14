@@ -34,14 +34,12 @@
             {@const rowPhotos = Array.isArray(row) ? row : [row]}
             <div class="photo-row" class:pair={rowPhotos.length === 2}>
                 {#each rowPhotos as photo}
-                    <figure class="photo-figure"
-                        role="button"
-                        tabindex="0"
+                    <button class="photo-figure"
+                        aria-label="Open {photo.alt || 'photo'} in lightbox"
                         onclick={() => lightboxIndex = flatPhotos.indexOf(photo)}
-                        onkeydown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); lightboxIndex = flatPhotos.indexOf(photo); } }}
                     >
                         <img src={photo.src} alt={photo.alt} loading="lazy" width={photo.width} height={photo.height} />
-                    </figure>
+                    </button>
                 {/each}
             </div>
         {/each}
@@ -139,9 +137,12 @@
 
     .photo-figure {
         margin: 0;
+        padding: 0;
         flex: 1;
         min-width: 0;
         cursor: pointer;
+        background: none;
+        border: none;
     }
 
     .photo-figure img {
