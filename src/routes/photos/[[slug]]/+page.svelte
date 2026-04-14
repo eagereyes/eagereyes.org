@@ -7,15 +7,15 @@
     let { data }: PageProps = $props();
 
     let lightboxIndex = $state(-1);
-    let flatPhotos = $derived<Photo[]>(data.gallery.photos.flatMap(row => Array.isArray(row) ? row : [row]));
+    let flatPhotos = $derived<Photo[]>(data.gallery?.photos.flatMap(row => Array.isArray(row) ? row : [row]) ?? []);
 </script>
 
 <svelte:head>
-{#if data.gallery.title.length}<title>{data.gallery.title} – Photos</title>
+{#if data.gallery}<title>{data.gallery.title} – Photos</title>
 {:else}<title>Photos – eagereyes</title>
 {/if}
-    <meta name="description" content={data.gallery.description} />
-    {#if data.gallery.title.length}
+    <meta name="description" content={data.gallery?.description} />
+    {#if data.gallery}
     <meta property="og:title" content={data.gallery.title} />
     <meta property="og:description" content={data.gallery.description} />
     <meta property="og:type" content="website" />
@@ -24,7 +24,7 @@
     {/if}
 </svelte:head>
 
-{#if data.gallery.title}
+{#if data.gallery}
 <div class="gallery-page">
     <h1>{data.gallery.title}</h1>
     <p class="gallery-description">{data.gallery.description}</p>
