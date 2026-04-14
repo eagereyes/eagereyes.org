@@ -34,6 +34,7 @@ export const load: PageServerLoad = async ({ params }) => {
 
         try {
             content = await readFile(`content/blog/${params.slug}.md`, 'utf-8');
+            content = content.replace(/^#[^\n]*\n+/, '');
             display = PageType.singlePost;
         } catch (err: any) {
             error = String(err);

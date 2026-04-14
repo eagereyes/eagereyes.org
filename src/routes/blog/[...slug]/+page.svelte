@@ -64,6 +64,7 @@
         </aside>
     </div>
 {:else}
+<h1 class="post-title">{data.meta?.title}</h1>
 {#if data.meta?.featuredImage?.render}
 <figure class="post-featured-image">
     <img
@@ -213,18 +214,20 @@
     }
 
     /* Blog post article */
-    article {
+    .post-title {
         max-width: 48rem;
         margin: 2rem auto 0;
         width: 100%;
-    }
-
-    article :global(h1) {
         font-size: 2.6rem;
         font-weight: 700;
         line-height: 1.2;
         letter-spacing: -0.02em;
-        margin-bottom: 1.75rem;
+    }
+
+    article {
+        max-width: 48rem;
+        margin: 1.75rem auto 0;
+        width: 100%;
     }
 
     article :global(h2) {
