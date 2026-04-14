@@ -18,11 +18,3 @@ export interface Gallery {
     photos: (Photo | Photo[])[];
 }
 
-export const blankGallery: Gallery = {
-    slug: '',
-    title: '',
-    description: '',
-    featuredImage: { src: '' },
-    date: '',
-    photos: []
-};
