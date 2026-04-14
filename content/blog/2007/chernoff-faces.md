@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/ChernoffFaces1.png" alt="Chernoff Faces" width="541" height="205"/></figure>
-
 Chernoff Faces are discussed in every information visualization course, and are referenced in many papers that talk about glyphs. Yet the only serious use of faces in visualization is for calibration, not for data display. Faces are so special that we better know their perceptual properties really well before we can use them, which we don't.
 
 Chernoff's [paper from 1973 [1]](#chernoff) proposed simplified face shapes to represent a number of variables in a data set, by mapping numbers to the size and curvature of the face, position of the eyes, length of the nose, position of the mouth, etc. Chernoff claims that up to 18 data dimensions can be displayed with the method, allowing the user to visually cluster the data. These faces are a type of *glyph*, a graphical object whose properties represent data values.

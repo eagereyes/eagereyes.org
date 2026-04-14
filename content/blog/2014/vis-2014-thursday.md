@@ -1,6 +1,6 @@
 Thursday was the penultimate day of VIS 2014. I ended up only going to InfoVis sessions, and unfortunately missed a panel I had been planning to see. The papers were a bit more mixed, but there were agains some really good ones.
 
-# InfoVis: Evaluation
+## InfoVis: Evaluation
 
 Thursday was off to a slow start (partly because of the effects of the party the night before that had the room mostly empty at first), but eventually got interesting.
 

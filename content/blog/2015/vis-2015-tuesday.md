@@ -16,7 +16,7 @@ The keynote speaker this year was [Donna Cox](http://www.ncsa.illinois.edu/Peopl
 
 Cox also showed lots of great pictures from the 1980s, including one of Pat Hanrahan (who was then her colleague at UW Madison) in 1983. Also [this cray picture of her on a Cray](https://twitter.com/misslake/status/659002098269442048).
 
-# InfoVis Opening
+## InfoVis Opening
 
 This year, InfoVis received 178 submissions, of which 38 were accepted, for an acceptance rate of 21.3%. That’s pretty good, and it’s interesting to see the increase in submissions from the previous years. I haven’t seen the numbers for VAST and SciVis, but I’ll eventually update my acceptance rates page here (no link since it’s embarrassingly out of date).
 

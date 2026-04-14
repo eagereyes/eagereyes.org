@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg" alt="The Invisible Gorilla" width="600" height="301"/></figure>
-
 Inattentional and change blindness are two fascinating phenomena that more people should be aware of. *The Invisible Gorilla* describes them as well as some other interesting and surprising psychological research.
 
 This book has been out for over three years, and I’ve been meaning to write a review forever. What brought it back to my attention is a recent news story on [the safety implications of voice-controlled systems in cars](http://www.nytimes.com/2013/06/13/business/voice-activated-in-car-systems-are-called-risky.html). Just because your hands are on the steering wheel and your eyes on the road doesn’t mean your attention is anywhere near.

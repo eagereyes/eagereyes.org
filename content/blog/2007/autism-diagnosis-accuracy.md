@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/Autism-redesign.png" alt="Autism Teaser"/></figure>
-
 Kaiser at [Junk Charts](http://junkcharts.typepad.com/junk_charts/) has posted an interesting [challenge](http://junkcharts.typepad.com/junk_charts/2007/09/a-challenge.html) based on the question how to visualize an Autism diagnosis dataset in a better way (originally posted by Igor Carron at [Nuit Blanche](http://nuit-blanche.blogspot.com/2007/09/on-difficulty-of-autism-diagnosis-can.html)). I'm offering my own redesign of the data below, and discuss my different approach and what it tells us about the visualization of sets in general.
 
 ## The Problem

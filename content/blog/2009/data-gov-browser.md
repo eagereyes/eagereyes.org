@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png" alt="An Explorer for Data.gov" width="540" height="293"/></figure>
-
 [Data.gov](http://www.data.gov/)'s selection of data is slowly growing, but even with less than 300 datasets, it is difficult to keep an overview of what is there. Below is a little Java applet that provides a way to drill down into data.gov's catalog using a variety of categories: reporting agency, geographic coverage, frequency, data type, etc. Besides giving a better idea what is there, it also shows a number of inconsistencies that make finding data more difficult.
 
 The applet is represented by the little box below, which might be white or dark gray, depending on your browser and operating system. Once it says "Done," it has downloaded the catalog and you can open the actual browser by clicking on the button.

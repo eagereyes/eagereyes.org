@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2010/minor-swivel.png" alt="Swivel is about data" width="560" height="232"/></figure>
-
 Earlier this summer, the visualization website Swivel.com disappeared from the internet. To find out what happened, I tracked down and interviewed Swivel's two founders, Brian Mulloy and Dmitry Dimov (I also did [a follow-up with VC Halsey Minor](/blog/2010/swivel-part-2-solving-a-single-problem)).
 
 The following is an edited combination of two interviews I conducted separately with Brian Mulloy (who served as CEO for two years) and Dmitry Dimov (Chief of Product), interspersed with some additional thoughts. My main goal was to learn more about the thinking behind launching Swivel, what went wrong, and what we can learn about commercial visualization (and "visualization-as-a-service") from what happened to the company.

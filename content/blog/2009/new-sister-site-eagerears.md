@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg" alt="EagerEars teaser" width="568" height="424"/></figure>
-
 Music and visualization are two things that fascinate me. I always felt that they had something in common, and I recently figured out what it was: structure. That may not be the correct musical term, but it should be clear what I mean nonetheless: the rhythmic structure of music, with its repeated patterns and variations, is what makes music. And that is also what makes abstract images interesting to look at, and what we look for in visualization. So I decided to start another website for my musings on music: EagerEars.
 
 I really only just started with this, and I'm only dabbling in music and music theory. Two months ago, I got a USB keyboard together with the new GarageBand (part of Apple's iLife), which now includes piano lessons. While I'm making some progress playing, I'm also reading up on music theory, which is fascinating &ndash; but also confusing.

@@ -1638,9 +1638,10 @@
             "eurovis"
         ],
         "featuredImage": {
-            "src": "https://media.eagereyes.org/wp-content/uploads/2017/06/Kosara-EuroVis-2017.jpg",
-            "width": 1440,
-            "height": 466
+            "src": "https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg",
+            "width": 850,
+            "height": 745,
+            "render": true
         }
     },
     {
@@ -4666,7 +4667,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/08/means-teaser.png",
             "width": 902,
-            "height": 514
+            "height": 514,
+            "render": true
         }
     },
     {
@@ -4759,7 +4761,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/wp-content/uploads/2013/06/invisible-gorilla.jpg",
             "width": 600,
-            "height": 301
+            "height": 301,
+            "render": true
         }
     },
     {
@@ -6539,7 +6542,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/minor-swivel.png",
             "width": 560,
-            "height": 232
+            "height": 232,
+            "render": true
         }
     },
     {
@@ -6855,7 +6859,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/acceptance-rates.png",
             "width": 560,
-            "height": 260
+            "height": 260,
+            "render": true
         }
     },
     {
@@ -7065,7 +7070,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2010/iTunes10billion-teaser.png",
             "width": 522,
-            "height": 175
+            "height": 175,
+            "render": true
         }
     },
     {
@@ -7439,7 +7445,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/data-gov-explorer-teaser.png",
             "width": 540,
-            "height": 293
+            "height": 293,
+            "render": true
         }
     },
     {
@@ -7630,7 +7637,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2009/EagerEars-teaser.jpg",
             "width": 568,
-            "height": 424
+            "height": 424,
+            "render": true
         }
     },
     {
@@ -7790,7 +7798,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/StateSwing-teaser.png",
             "width": 404,
-            "height": 154
+            "height": 154,
+            "render": true
         }
     },
     {
@@ -8059,7 +8068,8 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/2008/vizdesigner.jpg",
             "width": 499,
-            "height": 180
+            "height": 180,
+            "render": true
         }
     },
     {
@@ -8228,7 +8238,13 @@
             "criticism",
             "perception"
         ],
-        "featuredImage": null
+        "featuredImage": {
+            "src": "https://media.eagereyes.org/media/2008/WareVisualThinking.png",
+            "width": 218,
+            "height": 266,
+            "alt": "Visual Thinking for Design by Colin Ware",
+            "render": true
+        }
     },
     {
         "slug": "dance-draw",
@@ -8451,7 +8467,9 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/Autism-redesign.png",
             "width": 600,
-            "height": 285
+            "height": 285,
+            "alt": "Autism Teaser",
+            "render": true
         }
     },
     {
@@ -8525,7 +8543,13 @@
         "tags": [
             "criticism"
         ],
-        "featuredImage": null
+        "featuredImage": {
+            "src": "https://media.eagereyes.org/media/attachments/kaboom.jpg",
+            "width": 600,
+            "height": 221,
+            "alt": "Kaboom! by PES",
+            "render": true
+        }
     },
     {
         "slug": "penny-rheingans",
@@ -8632,7 +8656,9 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/ChernoffFaces1.png",
             "width": 541,
-            "height": 205
+            "height": 205,
+            "alt": "Chernoff Faces",
+            "render": true
         }
     },
     {
@@ -8648,7 +8674,9 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/SwivelvsManyEyes.png",
             "width": 560,
-            "height": 211
+            "height": 211,
+            "alt": "Swivel vs. Many Eyes",
+            "render": true
         }
     },
     {
@@ -8842,7 +8870,9 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/SOPOViewShot1.png",
             "width": 555,
-            "height": 341
+            "height": 341,
+            "alt": "SOPOView Screenshot - Peter Messner",
+            "render": true
         }
     },
     {
@@ -8858,7 +8888,9 @@
         "featuredImage": {
             "src": "https://media.eagereyes.org/media/attachments/Skogetal-buses.png",
             "width": 538,
-            "height": 210
+            "height": 210,
+            "alt": "Two bus lines - Skog et al, InfoVis 2003",
+            "render": true
         }
     },
     {

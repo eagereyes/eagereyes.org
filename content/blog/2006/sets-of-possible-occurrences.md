@@ -1,5 +1,3 @@
-<figure><img src="https://media.eagereyes.org/media/attachments/SOPOViewShot1.png" alt="SOPOView Screenshot - Peter Messner" width="555" height="341"/></figure>
-
 Visual representations of time are particularly interesting, because they seem so logical. A point in time is a point in the visualization, an interval is a line. But things are not always that simple: planning and temporal uncertainty require more powerful visual tools. Sets of Possible Occurrences (SOPOs) are an example of a visual representation of time that is very flexible and powerful – and totally unintuitive.
 
 ## The Technique

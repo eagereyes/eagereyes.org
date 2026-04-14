@@ -1,7 +1,3 @@
-<figure><img src="https://media.eagereyes.org/wp-content/uploads/2016/01/pres-oriented-teaser.jpg" width="850" height="745"/></figure>
-
-# Paper: An Argument Structure for Data Stories
-
 There is talk about stories having a beginning, middle, and end, but what does that mean for data stories? How do you create the overall structure for those? In [a paper to be presented at EuroVis next week](/publications/Kosara-EuroVis-2017), I discuss a simple but very useful structure that I have found "in the wild," and that I believe to be useful and generalizable.
 
 Let's face it: most stories are boring. That is especially true of data stories. Many attempts at classifying and categorizing these stories start with the good ones, but then also have to slog through the swamp of terrible, unstructured crap that is out there.
