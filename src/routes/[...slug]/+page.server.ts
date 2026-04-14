@@ -219,10 +219,6 @@ export const load: PageServerLoad = async ({ params }) => {
     if (!title) error(404, 'Not found');
 
     let content = await readFile(`content/${slug}.md`, 'utf-8');
-    if (content.startsWith('---')) {
-        const end = content.indexOf('---', 3);
-        if (end !== -1) content = content.slice(end + 3).trimStart();
-    }
 
     return { slug, title, content };
 };
