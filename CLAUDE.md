@@ -8,7 +8,7 @@ eagereyes.org is a personal website about data visualization and visual communic
 
 ## Workflow
 
-Do not `git push` unless explicitly asked to.
+Do not `git push` unless explicitly asked to. Same with creating commits, only commit changes once given the go-ahead.
 
 ## Commands
 
