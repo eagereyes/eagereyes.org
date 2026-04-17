@@ -34,7 +34,7 @@ Blog content lives outside `src/` in two places:
 - `content/blog/<year>/<slug>+++comments.md` — comments for posts that have them (keyed by `comments > 0` in meta)
 - `content/videos.json` — video metadata (slug, title, description, ytslug, blogpost, date)
 - `content/papers.json` — academic paper metadata (includes `thumbnail` and `preview` as `PaperImage` objects)
-- `content/photos.json` — photo gallery metadata (slug, title, description, featuredImage, date, photos: `(Photo | Photo[])[]`)
+- `content/galleries.json` — photo gallery metadata (slug, title, description, featuredImage, date, photos: `(Photo | Photo[])[]`)
 - `content/apps.json` — app metadata (slug, title, description, image, url)
 
 Blog posts are plain Markdown (no frontmatter). All metadata is in `blog-meta.json`, not the files themselves.
@@ -98,7 +98,7 @@ The `tagNames` map in `src/lib/blog-utils.ts` maps tag slugs to display names. T
 
 ### Image Dimensions
 
-All image objects throughout the site (`FeaturedImage`, `Photo`, `PaperImage`) carry optional `width` and `height` integers. These are passed to `<img>` tags so browsers can reserve space before images load (CSS still controls rendered size). Run `node scripts/fetch-photo-dimensions.mjs` to populate missing dimensions — it handles `content/photos.json` (gallery photos and featuredImages), `content/blog-meta.json` (post featuredImages), and `content/papers.json` (thumbnail and preview images) in one pass, skipping entries that already have dimensions.
+All image objects throughout the site (`FeaturedImage`, `Photo`, `PaperImage`) carry optional `width` and `height` integers. These are passed to `<img>` tags so browsers can reserve space before images load (CSS still controls rendered size). Run `node scripts/fetch-photo-dimensions.mjs` to populate missing dimensions — it handles `content/galleries.json` (gallery photos and featuredImages), `content/blog-meta.json` (post featuredImages), and `content/papers.json` (thumbnail and preview images) in one pass, skipping entries that already have dimensions.
 
 ### FeaturedImage
 
@@ -108,7 +108,7 @@ For blog posts, when `featuredImage.render` is `true`, the single-post page rend
 
 ### Photo Galleries
 
-Photos are stored in `content/photos.json` as an array of `Gallery` objects. Each gallery has a `photos` field typed as `(Photo | Photo[])[]` — a list of rows where a single photo is a plain `{ src, alt, width?, height? }` object and a pair is a two-element array. The gallery detail page normalizes rows with `Array.isArray(row) ? row : [row]` and flattens to `Photo[]` for the lightbox using `flatMap`.
+Photos are stored in `content/galleries.json` as an array of `Gallery` objects. Each gallery has a `photos` field typed as `(Photo | Photo[])[]` — a list of rows where a single photo is a plain `{ src, alt, width?, height? }` object and a pair is a two-element array. The gallery detail page normalizes rows with `Array.isArray(row) ? row : [row]` and flattens to `Photo[]` for the lightbox using `flatMap`.
 
 Each gallery also has a `featuredImage` object (`{ src, width?, height? }`) used by `GalleryList.svelte` for card thumbnails and the OG image meta tag.
 

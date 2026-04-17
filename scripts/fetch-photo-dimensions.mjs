@@ -12,7 +12,7 @@ async function fetchDimensions(url) {
 
 // --- photos.json: gallery photos and featuredImages ---
 
-const photosPath = join(__dirname, '..', 'content', 'photos.json');
+const photosPath = join(__dirname, '..', 'content', 'galleries.json');
 const galleries = JSON.parse(await readFile(photosPath, 'utf-8'));
 let photosUpdated = 0;
 
@@ -44,7 +44,7 @@ for (const gallery of galleries) {
 }
 
 await writeFile(photosPath, JSON.stringify(galleries, null, 4) + '\n');
-console.log(`Updated ${photosUpdated} image(s) in content/photos.json`);
+console.log(`Updated ${photosUpdated} image(s) in content/galleries.json`);
 
 // --- blog-meta.json: featuredImages ---
 

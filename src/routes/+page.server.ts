@@ -3,7 +3,7 @@ import type { PageServerLoad} from './$types';
 import posts from '../../content/blog-meta.json';
 import videos from '../../content/videos.json';
 import apps from '../../content/apps.json';
-import galleries from '../../content/photos.json';
+import galleries from '../../content/galleries.json';
 
 import type { BlogPost } from '$lib/blog-utils';
 import type { Video } from '$lib/video-utils';

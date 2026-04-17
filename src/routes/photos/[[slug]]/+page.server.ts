@@ -3,7 +3,7 @@ import { error } from '@sveltejs/kit';
 
 import type { Gallery } from '$lib/photo-utils';
 
-import galleries from '../../../../content/photos.json';
+import galleries from '../../../../content/galleries.json';
 
 export const entries: EntryGenerator = () => {
     return [

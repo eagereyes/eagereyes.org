@@ -1,5 +1,5 @@
 import type { RequestHandler } from './$types';
-import galleries from '../../../../content/photos.json';
+import galleries from '../../../../content/galleries.json';
 import type { Gallery } from '$lib/photo-utils';
 
 export const prerender = true;
