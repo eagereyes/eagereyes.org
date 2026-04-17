@@ -28,7 +28,7 @@
         if (!query) return;
 
         const [posts, bodyData] = await Promise.all([
-            fetch('/blog-meta.json').then(r => r.json()),
+            fetch('/posts.json').then(r => r.json()),
             fetch('/search-data.json').then(r => r.json()),
         ]);
 

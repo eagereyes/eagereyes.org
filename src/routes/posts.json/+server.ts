@@ -1,5 +1,5 @@
 import { json } from '@sveltejs/kit';
-import blogMeta from '../../../content/blog-meta.json';
+import blogMeta from '../../../content/posts.json';
 
 export const prerender = true;
 

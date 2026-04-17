@@ -1,5 +1,5 @@
 import type { RequestHandler } from './$types';
-import posts from '../../../content/blog-meta.json';
+import posts from '../../../content/posts.json';
 import galleries from '../../../content/galleries.json';
 import type { BlogPost } from '$lib/blog-utils';
 import type { Gallery } from '$lib/photo-utils';

@@ -5,7 +5,7 @@ import probe from 'probe-image-size';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
-const blogMetaPath = join(root, 'content', 'blog-meta.json');
+const blogMetaPath = join(root, 'content', 'posts.json');
 const posts = JSON.parse(await readFile(blogMetaPath, 'utf-8'));
 const bySlug = new Map(posts.map((p, i) => [p.slug, i]));
 

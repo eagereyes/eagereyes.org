@@ -5,7 +5,7 @@ import { dirname, join } from 'node:path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
 
-const posts = JSON.parse(await readFile(join(root, 'content', 'blog-meta.json'), 'utf-8'));
+const posts = JSON.parse(await readFile(join(root, 'content', 'posts.json'), 'utf-8'));
 const renderPosts = posts.filter(p => p.featuredImage?.render);
 
 const FIGURE_RE = /^\s*<figure>[\s\S]*?<\/figure>\s*/;

@@ -17,7 +17,7 @@ const files = [
     'content/blog/2013/review-chabris-simons-invisible-gorilla.md',
 ];
 
-const metaPath = join(root, 'content/blog-meta.json');
+const metaPath = join(root, 'content/posts.json');
 const meta = JSON.parse(await readFile(metaPath, 'utf-8'));
 
 let updated = 0;

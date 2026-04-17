@@ -46,9 +46,9 @@ for (const gallery of galleries) {
 await writeFile(photosPath, JSON.stringify(galleries, null, 4) + '\n');
 console.log(`Updated ${photosUpdated} image(s) in content/galleries.json`);
 
-// --- blog-meta.json: featuredImages ---
+// --- posts.json: featuredImages ---
 
-const blogMetaPath = join(__dirname, '..', 'content', 'blog-meta.json');
+const blogMetaPath = join(__dirname, '..', 'content', 'posts.json');
 const posts = JSON.parse(await readFile(blogMetaPath, 'utf-8'));
 let blogUpdated = 0;
 
@@ -69,7 +69,7 @@ for (const post of posts) {
 }
 
 await writeFile(blogMetaPath, JSON.stringify(posts, null, 4) + '\n');
-console.log(`Updated ${blogUpdated} image(s) in content/blog-meta.json`);
+console.log(`Updated ${blogUpdated} image(s) in content/posts.json`);
 
 // --- papers.json: thumbnail and preview images ---
 

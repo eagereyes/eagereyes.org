@@ -5,7 +5,7 @@ import { dirname, join } from 'node:path';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const root = join(__dirname, '..');
 
-const blogMetaPath = join(root, 'content', 'blog-meta.json');
+const blogMetaPath = join(root, 'content', 'posts.json');
 const posts = JSON.parse(await readFile(blogMetaPath, 'utf-8'));
 
 // Build slug → meta index map

@@ -1,7 +1,7 @@
 import type { RequestHandler } from './$types';
 import { readFile } from 'node:fs/promises';
 import { parse } from 'marked';
-import posts from '../../../content/blog-meta.json';
+import posts from '../../../content/posts.json';
 import type { BlogPost } from '$lib/blog-utils';
 
 export const prerender = true;

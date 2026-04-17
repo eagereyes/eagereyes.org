@@ -246,8 +246,8 @@ async function handleSend(event: APIGatewayProxyEventV2): Promise<APIGatewayProx
     let postFeaturedImage: string | undefined;
 
     if (body.auto) {
-        // Fetch blog-meta.json from the live site
-        const metaRes = await fetch(`${SITE_URL}/blog-meta.json`);
+        // Fetch posts.json from the live site
+        const metaRes = await fetch(`${SITE_URL}/posts.json`);
         if (!metaRes.ok) return jsonResponse(500, { error: 'Failed to fetch blog metadata' });
         const posts = await metaRes.json() as Array<{ slug: string; title: string; description: string; date: string; archived: boolean; featuredImage?: string }>;
         const latest = posts.find(p => !p.archived);
@@ -267,7 +267,7 @@ async function handleSend(event: APIGatewayProxyEventV2): Promise<APIGatewayProx
         postFeaturedImage = latest.featuredImage;
     } else if (body.slug) {
         // Manual send for a specific slug (format: "2026/post-slug")
-        const metaRes = await fetch(`${SITE_URL}/blog-meta.json`);
+        const metaRes = await fetch(`${SITE_URL}/posts.json`);
         if (!metaRes.ok) return jsonResponse(500, { error: 'Failed to fetch blog metadata' });
         const posts = await metaRes.json() as Array<{ slug: string; title: string; description: string; date: string; archived: boolean; featuredImage?: string }>;
         const slugPart = body.slug.split('/').pop();

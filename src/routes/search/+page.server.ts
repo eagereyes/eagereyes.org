@@ -1,4 +1,4 @@
-import blogMeta from '../../../content/blog-meta.json';
+import blogMeta from '../../../content/posts.json';
 import type { BlogPost } from '$lib/blog-utils';
 import { readFile } from 'node:fs/promises';
 

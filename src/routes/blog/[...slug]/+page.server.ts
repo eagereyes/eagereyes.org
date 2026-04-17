@@ -3,7 +3,7 @@ import { readFile } from 'node:fs/promises';
 import { PageType } from '$lib/blog-utils';
 import type { BlogPost } from '$lib/blog-utils';
 
-import posts from '../../../../content/blog-meta.json';
+import posts from '../../../../content/posts.json';
 
 export const entries: EntryGenerator = () => {
     const allPosts = posts as Array<BlogPost>;

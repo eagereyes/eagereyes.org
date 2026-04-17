@@ -1,6 +1,6 @@
 import type { PageServerLoad} from './$types';
 
-import posts from '../../content/blog-meta.json';
+import posts from '../../content/posts.json';
 import videos from '../../content/videos.json';
 import apps from '../../content/apps.json';
 import galleries from '../../content/galleries.json';

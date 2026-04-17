@@ -3,7 +3,7 @@ import type { BlogPost } from '$lib/blog-utils';
 import { tagNames } from '$lib/blog-utils';
 import { redirect } from '@sveltejs/kit';
 
-import posts from '../../../../content/blog-meta.json';
+import posts from '../../../../content/posts.json';
 
 const TAG_REDIRECTS: Record<string, string> = {
     'applications': '/tag/application',

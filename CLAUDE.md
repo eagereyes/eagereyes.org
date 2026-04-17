@@ -29,7 +29,7 @@ This is a **SvelteKit static site** using `adapter-static`. All pages are preren
 
 Blog content lives outside `src/` in two places:
 
-- `content/blog-meta.json` — metadata array for all posts (slug, title, description, date, tags, featuredImage, archived, comments count)
+- `content/posts.json` — metadata array for all posts (slug, title, description, date, tags, featuredImage, archived, comments count)
 - `content/blog/<year>/<slug>.md` — full Markdown content for each post
 - `content/blog/<year>/<slug>+++comments.md` — comments for posts that have them (keyed by `comments > 0` in meta)
 - `content/videos.json` — video metadata (slug, title, description, ytslug, blogpost, date)
@@ -37,7 +37,7 @@ Blog content lives outside `src/` in two places:
 - `content/galleries.json` — photo gallery metadata (slug, title, description, featuredImage, date, photos: `(Photo | Photo[])[]`)
 - `content/apps.json` — app metadata (slug, title, description, image, url)
 
-Blog posts are plain Markdown (no frontmatter). All metadata is in `blog-meta.json`, not the files themselves.
+Blog posts are plain Markdown (no frontmatter). All metadata is in `posts.json`, not the files themselves.
 
 Static content pages (about, contact, license, pie-charts, subscribe) live in `content/<slug>.md`. Some have YAML frontmatter that is stripped before rendering.
 
@@ -98,13 +98,13 @@ The `tagNames` map in `src/lib/blog-utils.ts` maps tag slugs to display names. T
 
 ### Image Dimensions
 
-All image objects throughout the site (`FeaturedImage`, `Photo`, `PaperImage`) carry optional `width` and `height` integers. These are passed to `<img>` tags so browsers can reserve space before images load (CSS still controls rendered size). Run `node scripts/fetch-photo-dimensions.mjs` to populate missing dimensions — it handles `content/galleries.json` (gallery photos and featuredImages), `content/blog-meta.json` (post featuredImages), and `content/papers.json` (thumbnail and preview images) in one pass, skipping entries that already have dimensions.
+All image objects throughout the site (`FeaturedImage`, `Photo`, `PaperImage`) carry optional `width` and `height` integers. These are passed to `<img>` tags so browsers can reserve space before images load (CSS still controls rendered size). Run `node scripts/fetch-photo-dimensions.mjs` to populate missing dimensions — it handles `content/galleries.json` (gallery photos and featuredImages), `content/posts.json` (post featuredImages), and `content/papers.json` (thumbnail and preview images) in one pass, skipping entries that already have dimensions.
 
 ### FeaturedImage
 
 `FeaturedImage` is defined in `src/lib/blog-utils.ts` and `src/lib/photo-utils.ts` (same shape: `{ src, width?, height?, alt?, render? }`). It is used by `BlogPost`, `Gallery`, and (as `PaperImage`) `Paper`.
 
-For blog posts, when `featuredImage.render` is `true`, the single-post page renders the image above the article body via `.post-featured-image`. The markdown source no longer contains a leading `<figure>` in these cases — it was stripped during a migration. When adding a new post with a leading image, set `"render": true` on the featuredImage in `blog-meta.json` instead of embedding a `<figure>` in the markdown.
+For blog posts, when `featuredImage.render` is `true`, the single-post page renders the image above the article body via `.post-featured-image`. The markdown source no longer contains a leading `<figure>` in these cases — it was stripped during a migration. When adding a new post with a leading image, set `"render": true` on the featuredImage in `posts.json` instead of embedding a `<figure>` in the markdown.
 
 ### Photo Galleries
 
@@ -155,7 +155,7 @@ Subscribers are stored in DynamoDB (`eagereyes-subscribers` table, PK: `email`, 
 - `POST /subscribe` — honeypot + 3s timing check, writes unconfirmed record, sends confirmation email via SES
 - `GET /confirm?token=` — marks confirmed, redirects to `/subscribe/confirmed`
 - `GET /unsubscribe?token=` — marks unsubscribed, returns inline HTML page
-- `POST /send` — protected by `X-Send-Key` header; if `auto:true` fetches `/blog-meta.json` from the live site, skips if same slug as `_last_sent`; sends HTML email to all confirmed subscribers
+- `POST /send` — protected by `X-Send-Key` header; if `auto:true` fetches `/posts.json` from the live site, skips if same slug as `_last_sent`; sends HTML email to all confirmed subscribers
 
 CORS must be configured at the API Gateway level. `SES_FROM` supports display names: `"eagereyes news <newsletter@eagereyes.org>"`.
 

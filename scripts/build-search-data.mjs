@@ -1,6 +1,6 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
-const blogMeta = JSON.parse(await readFile('content/blog-meta.json', 'utf-8'));
+const blogMeta = JSON.parse(await readFile('content/posts.json', 'utf-8'));
 
 function stripMarkdown(md) {
 	return md
