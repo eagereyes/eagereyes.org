@@ -1,7 +1,3 @@
----
-description: A guide to understanding and using pie charts.
----
-
 # Understanding Pie Charts
 
 Pie charts are extremely common, but people are also commonly mocked for using them. There are many ways to get them wrong, and there are many bad examples out there. But understanding pie charts and how to use them isn't that difficult, and the research shows that they're often not a bad choice.
