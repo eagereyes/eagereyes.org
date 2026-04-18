@@ -39,7 +39,7 @@
 
 <svelte:head>
     <title>{data.title}</title>
-    <meta name="description" content={data.title} />
+    <meta name="description" content={data.description ?? data.title} />
 </svelte:head>
 
 <div class="text-column" bind:this={container}>

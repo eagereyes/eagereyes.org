@@ -2,6 +2,15 @@ import type { PageServerLoad, EntryGenerator } from './$types';
 import { readFile } from 'node:fs/promises';
 import { error, redirect } from '@sveltejs/kit';
 
+function parseFrontmatter(raw: string): { title?: string; description?: string; content: string } {
+    const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
+    if (!match) return { content: raw };
+    const fm = match[1];
+    const content = match[2];
+    const get = (key: string) => fm.match(new RegExp(`^${key}:\\s*(.+)$`, 'm'))?.[1]?.trim();
+    return { title: get('title'), description: get('description'), content };
+}
+
 const CONTENT_PAGES: Record<string, string> = {
     about: 'About EagerEyes',
     'pie-charts': 'Understanding Pie Charts',
@@ -218,7 +227,8 @@ export const load: PageServerLoad = async ({ params }) => {
     const title = CONTENT_PAGES[slug];
     if (!title) error(404, 'Not found');
 
-    let content = await readFile(`content/${slug}.md`, 'utf-8');
+    const raw = await readFile(`content/${slug}.md`, 'utf-8');
+    const { title: fmTitle, description, content } = parseFrontmatter(raw);
 
-    return { slug, title, content };
+    return { slug, title: fmTitle ?? title, description: description ?? null, content };
 };
