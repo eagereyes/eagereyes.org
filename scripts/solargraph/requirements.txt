@@ -1,0 +1,7 @@
+requests
+pandas
+ephem
+pvlib
+numpy
+Pillow
+python-dotenv
