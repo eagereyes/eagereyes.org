@@ -2,7 +2,22 @@
 	import SolargraphCanvas from '$lib/solargraph/SolargraphCanvas.svelte';
 	import { getDateRange } from '$lib/solargraph/solstice.js';
 
-	// Copied from scripts/solargraph/config.json — update here when adding new periods
+	// Copied from scripts/solargraph/config.json — update here when adding new cities/periods
+	const CITIES: { name: string; label: string }[] = [
+		{ name: 'miami',       label: 'Miami, FL' },
+		{ name: 'austin',      label: 'Austin, TX' },
+		{ name: 'phoenix',     label: 'Phoenix, AZ' },
+		{ name: 'los-angeles', label: 'Los Angeles, CA' },
+		{ name: 'atlanta',     label: 'Atlanta, GA' },
+		{ name: 'denver',      label: 'Denver, CO' },
+		{ name: 'new-york',    label: 'New York, NY' },
+		{ name: 'chicago',     label: 'Chicago, IL' },
+		{ name: 'minneapolis', label: 'Minneapolis, MN' },
+		{ name: 'portland',    label: 'Portland, OR' },
+		{ name: 'seattle',     label: 'Seattle, WA' },
+		{ name: 'forks',       label: 'Forks, WA' },
+	];
+
 	const PERIODS = [
 		'summer2020', 'winter2020',
 		'summer2021', 'winter2021',
@@ -13,6 +28,7 @@
 
 	const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
+	let city          = $state('seattle');
 	let period        = $state('summer2024');
 	let splatScalePct = $state(100);
 	let exposureEV    = $state(0);
@@ -59,9 +75,9 @@
 		rafHandle = requestAnimationFrame(tick);
 	}
 
-	// Reset playback when period changes
+	// Reset playback when city or period changes
 	$effect(() => {
-		period;
+		city; period;
 		stopPlay();
 		totalInstances = 0;
 		playHour = 0;
@@ -96,6 +112,11 @@
 <div class="solargraph-page">
 	<div class="toolbar">
 		<div class="toolbar-left">
+			<select bind:value={city} aria-label="Select city">
+				{#each CITIES as c}
+					<option value={c.name}>{c.label}</option>
+				{/each}
+			</select>
 			<select bind:value={period} aria-label="Select period">
 				{#each PERIODS as p}
 					<option value={p}>{formatPeriod(p)}</option>
@@ -115,7 +136,7 @@
 		<span class="range-label">{rangeLabel}</span>
 	</div>
 	<div class="canvas-container">
-		<SolargraphCanvas {period} splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)}
+		<SolargraphCanvas {period} {city} splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)}
 			{maxInstances} onsplatsloaded={onSplatsLoaded} />
 	</div>
 	<div class="playback">

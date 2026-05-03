@@ -3,13 +3,14 @@
 fetch_data.py — Download NSRDB solar irradiance data for a solstice-to-solstice period.
 
 Usage:
-  python fetch_data.py --period summer2023          # single period
-  python fetch_data.py                              # all periods in config.json
-  python fetch_data.py --location-name seattle      # use name in filenames
-  python fetch_data.py --period winter2023 --config /path/to/config.json
+  python fetch_data.py                              # all cities × all periods in config.json
+  python fetch_data.py --period summer2023          # all cities, one period
+  python fetch_data.py --location-name seattle      # one city (by name), all periods
+  python fetch_data.py --period winter2023 --location-name seattle
+  python fetch_data.py --config /path/to/config.json
   python fetch_data.py --out /path/to/output/
 
-Writes one CSV + .bin per period to the output directory.
+Writes one .bin per (period, city) to the output directory.
 Install deps: pip install -r requirements.txt
 """
 
@@ -55,9 +56,6 @@ def load_config(path: Path) -> dict:
             f"Missing credentials: {missing}\n"
             f"Add NREL_API_KEY and NREL_EMAIL to {ENV_FILE}"
         )
-    cfg.setdefault("latitude", 47.6)
-    cfg.setdefault("longitude", -122.3)
-    cfg.setdefault("altitude", 50)
     cfg.setdefault("interval", 5)
     return cfg
 
@@ -66,7 +64,6 @@ def load_config(path: Path) -> dict:
 
 def get_solstice(year: int, which: str) -> datetime:
     """Return the UTC datetime of the summer or winter solstice for the given year."""
-    # Search from a date that's guaranteed to precede the target solstice
     search_from = f"{year}/6/1" if which == "summer" else f"{year}/12/1"
     ephem_dt = ephem.next_solstice(search_from)
     return ephem_dt.datetime().replace(tzinfo=timezone.utc)
@@ -92,10 +89,10 @@ def parse_period(period_str: str) -> tuple[datetime, datetime]:
 
 # ── NSRDB fetch ───────────────────────────────────────────────────────────────
 
-def fetch_year(year: int, cfg: dict) -> pd.DataFrame:
+def fetch_year(year: int, cfg: dict, city: dict) -> pd.DataFrame:
     """Download one calendar year of NSRDB data and return as a DataFrame."""
     params = {
-        "wkt": f"POINT({cfg['longitude']} {cfg['latitude']})",
+        "wkt": f"POINT({city['longitude']} {city['latitude']})",
         "attributes": ATTRIBUTES,
         "names": str(year),
         "interval": str(cfg["interval"]),
@@ -144,20 +141,18 @@ def fetch_year(year: int, cfg: dict) -> pd.DataFrame:
     return df
 
 
-def fetch_period(start: datetime, end: datetime, cfg: dict) -> pd.DataFrame:
+def fetch_period(start: datetime, end: datetime, cfg: dict, city: dict) -> pd.DataFrame:
     """Fetch all calendar years that overlap [start, end) and trim to range."""
     years = list(range(start.year, end.year + 1))
-    frames = [fetch_year(y, cfg) for y in years]
+    frames = [fetch_year(y, cfg, city) for y in years]
     combined = pd.concat(frames).sort_index()
-
-    # Inclusive start, exclusive end (end is the exact moment of next solstice)
     trimmed = combined[(combined.index >= start) & (combined.index < end)]
     return trimmed
 
 
 # ── Binary export ─────────────────────────────────────────────────────────────
 
-def to_binary(df: pd.DataFrame, cfg: dict, bin_path: Path) -> None:
+def to_binary(df: pd.DataFrame, cfg: dict, city: dict, bin_path: Path) -> None:
     """
     Compute sun position, filter to above-horizon daylight samples, and write
     a packed float16 binary: [azimuth_deg, apparent_elevation_deg, dni_Wm2]
@@ -166,20 +161,15 @@ def to_binary(df: pd.DataFrame, cfg: dict, bin_path: Path) -> None:
     print("  Computing sun position (pvlib)...", end=" ", flush=True)
     solpos = pvlib.solarposition.get_solarposition(
         time=df.index,
-        latitude=cfg["latitude"],
-        longitude=cfg["longitude"],
-        altitude=cfg["altitude"],
+        latitude=city["latitude"],
+        longitude=city["longitude"],
+        altitude=city.get("altitude", 0),
     )
 
-    # Normalise NSRDB column names: "DNI", "Clearsky DNI", "Solar Zenith Angle"
-    # → lowercase with underscores so we can reference them reliably.
     df = df.rename(columns=lambda c: c.lower().replace(" ", "_"))
-
     df["azimuth"]            = solpos["azimuth"]
     df["apparent_elevation"] = solpos["apparent_elevation"]
 
-    # Cloud filtering: keep samples where clearsky ratio >= threshold
-    # A ratio < threshold means the sun disk is too obscured to contribute.
     threshold = cfg.get("clearsky_threshold", 0.15)
     with np.errstate(divide="ignore", invalid="ignore"):
         clearsky_ratio = np.where(
@@ -188,14 +178,15 @@ def to_binary(df: pd.DataFrame, cfg: dict, bin_path: Path) -> None:
             0.0,
         )
 
-    mask    = (df["apparent_elevation"] > 0) & (df["dni"] > 0) & (clearsky_ratio >= threshold)
-    kept    = df.loc[mask, ["azimuth", "apparent_elevation", "dni"]]
-    cloudy  = ((df["apparent_elevation"] > 0) & (df["dni"] > 0) & (clearsky_ratio < threshold)).sum()
+    mask   = (df["apparent_elevation"] > 0) & (df["dni"] > 0) & (clearsky_ratio >= threshold)
+    kept   = df.loc[mask, ["azimuth", "apparent_elevation", "dni"]]
+    cloudy = ((df["apparent_elevation"] > 0) & (df["dni"] > 0) & (clearsky_ratio < threshold)).sum()
     dropped = (~mask).sum() - cloudy
 
     print(f"{len(kept):,} samples kept, {cloudy:,} cloudy filtered, {dropped:,} below-horizon/night dropped")
 
     data = kept.values.astype(np.float16)  # shape (N, 3)
+    bin_path.parent.mkdir(parents=True, exist_ok=True)
     data.tofile(bin_path)
     kb = bin_path.stat().st_size / 1024
     print(f"  Wrote {len(kept):,} × 3 float16 → {bin_path} ({kb:.0f} KB)")
@@ -203,36 +194,28 @@ def to_binary(df: pd.DataFrame, cfg: dict, bin_path: Path) -> None:
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 
-def run_period(period: str, cfg: dict, out_dir: Path, loc_str: str) -> None:
+def run_period(period: str, cfg: dict, city: dict, out_dir: Path) -> None:
     start, end = parse_period(period)
     print(f"\nPeriod : {period}")
     print(f"Range  : {start.isoformat()} → {end.isoformat()}")
 
-    df = fetch_period(start, end, cfg)
-
-    out_path = out_dir / f"{period}_{loc_str}.csv"
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    df.to_csv(out_path)
-    print(f"Wrote {len(df):,} rows → {out_path}")
-
-    bin_path = out_path.with_suffix(".bin")
-    print("Converting to float16 binary...")
-    to_binary(df, cfg, bin_path)
+    df = fetch_period(start, end, cfg, city)
+    bin_path = out_dir / f"{city['name']}_{period}.bin"
+    to_binary(df, cfg, city, bin_path)
 
 
 def main():
     parser = argparse.ArgumentParser(description="Fetch NSRDB data for a solstice-to-solstice period.")
     parser.add_argument("--period", default=None, metavar="PERIOD",
-                        help="e.g. winter2023 (Dec→Jun) or summer2023 (Jun→Dec); "
-                             "omit to run all periods listed in config.json")
+                        help="e.g. winter2023 or summer2023; omit to run all periods in config.json")
+    parser.add_argument("--location-name", default=None, metavar="NAME",
+                        help="City name from config cities list; omit to run all cities")
     parser.add_argument("--config", default="config.json", metavar="PATH",
                         help="Config JSON file (default: config.json next to this script)")
-    parser.add_argument("--out", default=str(Path(__file__).parent / "data"), metavar="DIR",
-                        help="Output directory (default: data/ next to this script)")
+    parser.add_argument("--out", default=str(REPO_ROOT / "static" / "solargraph-data"), metavar="DIR",
+                        help="Output directory (default: static/solargraph-data/ in repo root)")
     parser.add_argument("--threshold", type=float, default=None, metavar="RATIO",
                         help="Clearsky ratio threshold (default: 0.15); 0=keep all, 1=clear-sky only")
-    parser.add_argument("--location-name", default=None, metavar="NAME",
-                        help="Location label used in output filename instead of lat/lon (e.g. seattle)")
     args = parser.parse_args()
 
     script_dir = Path(__file__).parent
@@ -241,27 +224,27 @@ def main():
     if args.threshold is not None:
         cfg["clearsky_threshold"] = args.threshold
 
-    location_name = args.location_name or cfg.get("location_name")
-    if location_name:
-        loc_str = location_name
-    else:
-        lat_str = f"{cfg['latitude']}N" if cfg['latitude'] >= 0 else f"{abs(cfg['latitude'])}S"
-        lon_str = f"{abs(cfg['longitude'])}W" if cfg['longitude'] < 0 else f"{cfg['longitude']}E"
-        loc_str = f"{lat_str}_{lon_str}"
+    cities = cfg.get("cities")
+    if not cities:
+        sys.exit("No 'cities' list found in config.json")
 
-    print(f"Location: {cfg['latitude']}°N, {cfg['longitude']}°E")
+    if args.location_name:
+        cities = [c for c in cities if c["name"] == args.location_name]
+        if not cities:
+            sys.exit(f"City '{args.location_name}' not found in config.json")
+
+    periods = [args.period] if args.period else cfg.get("periods")
+    if not periods:
+        sys.exit("No --period given and no 'periods' list found in config.json")
 
     out_dir = Path(args.out)
-    if args.period:
-        periods = [args.period]
-    else:
-        periods = cfg.get("periods")
-        if not periods:
-            sys.exit("No --period given and no 'periods' list found in config.json")
-        print(f"Running {len(periods)} periods from config: {', '.join(periods)}")
+    print(f"Running {len(periods)} period(s) × {len(cities)} city/cities")
 
-    for period in periods:
-        run_period(period, cfg, out_dir, loc_str)
+    for city in cities:
+        print(f"\n{'═' * 60}")
+        print(f"City: {city['name']}  ({city['latitude']}°N, {city['longitude']}°E)")
+        for period in periods:
+            run_period(period, cfg, city, out_dir)
 
 
 if __name__ == "__main__":

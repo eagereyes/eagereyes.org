@@ -1,11 +1,7 @@
 <script lang="ts">
 	// @ts-nocheck
 
-	let { period, splatScale = 1.0, exposureScale = 1.0, maxInstances = Infinity, onsplatsloaded } = $props();
-
-	const LAT = 47.6;
-	const LON = -122.3;
-	const MAX_ELEV_DEG = 66;
+	let { period, city = 'seattle', splatScale = 1.0, exposureScale = 1.0, maxInstances = Infinity, onsplatsloaded } = $props();
 
 	// Azimuth projection window: 270° centered on South (180°)
 	const AZ_MIN   = 45;   // NE
@@ -44,8 +40,7 @@
 		(K_LUX / C_CALIB) /
 		MAX_DNI;
 
-	const BASE_URL      = '/solargraph-data';
-	const LOCATION_NAME = 'seattle';
+	const BASE_URL = '/solargraph-data';
 
 	// Reserve 5% of vertical space above the highest arc
 	const TOP_PADDING = 0.05;
@@ -55,8 +50,7 @@
 	// Instanced Gaussian splat.
 	// Per-vertex (divisor 0): a_quad — unit quad [-1..1]
 	// Per-instance (divisor 1): a_instance — vec4(azNorm, elevNorm, dniNorm, elevLinear)
-	//   elevLinear = el_deg / MAX_ELEV_DEG, projection-independent, used for airmass color
-	const MAX_EL_RAD = (MAX_ELEV_DEG * Math.PI / 180).toFixed(6);
+	//   elevLinear = el_rad (elevation in radians), used for airmass color
 	const SPLAT_VERT = `#version 300 es
 in vec2 a_quad;
 in vec4 a_instance;
@@ -70,7 +64,7 @@ void main() {
     v_dni = a_instance.z;
 
     // Horizon reddening: airmass = 1/sin(el), clamped to [1,10]
-    float el_rad = a_instance.w * ${MAX_EL_RAD};
+    float el_rad = a_instance.w;
     float airmass = clamp(1.0 / max(sin(el_rad), 0.001), 1.0, 10.0);
     float t = (airmass - 1.0) / 9.0;
     // Interpolate from white (high sun) to deep orange-red (near horizon)
@@ -223,33 +217,38 @@ void main() {
 	// ── Binary data loading ───────────────────────────────────────────────────
 
 	function binUrl(p: string): string {
-		return `${BASE_URL}/${p}_${LOCATION_NAME}.bin`;
+		return `${BASE_URL}/${city}_${p}.bin`;
 	}
-
-	const TAN_MAX_ELEV = Math.tan(MAX_ELEV_DEG * Math.PI / 180);
 
 	// Each 5-min sample is expanded to 5 splats (1 original + 4 interpolated).
 	// Intensity is divided by 5 to preserve total accumulated energy.
 	const INTERP_STEPS = 5;
 
-	/**
+/**
 	 * Decode Float16Array triplets [az_deg, el_deg, dni_Wm2], interpolate to
-	 * 1-minute resolution, and return Float32Array of [azNorm, elevNorm, dniNorm, elevLinear]
+	 * 1-minute resolution, and return Float32Array of [azNorm, elevNorm, dniNorm, el_rad]
 	 * quads for the GPU. Samples outside the azimuth window are discarded.
-	 * Cylindrical projection: elevNorm = tan(el) / tan(MAX_ELEV_DEG) (can-camera film height).
+	 * Elevation capped at 75° so tan() stays well-behaved for near-overhead cities.
 	 */
 	function processRawData(raw: Float16Array): Float32Array {
 		const pts: number[] = [];
 		const n = Math.floor(raw.length / 3);
 
+		let maxElSeen = 0;
+		for (let i = 0; i < n; i++) if (raw[i * 3 + 1] > maxElSeen) maxElSeen = raw[i * 3 + 1];
+		const maxElevDeg = maxElSeen || 66;
+		maxElevDegState = maxElevDeg;
+		const tanMaxElev = Math.tan(maxElevDeg * Math.PI / 180);
+
 		function pushPoint(az: number, el: number, dni: number) {
 			if (az < AZ_MIN || az > AZ_MAX) return;
-			const elClamped = Math.min(el, MAX_ELEV_DEG);
+			const elClamped = Math.min(el, maxElevDeg);
+			const elRad = elClamped * Math.PI / 180;
 			pts.push(
 				(az - AZ_MIN) / AZ_RANGE,
-				Math.tan(elClamped * Math.PI / 180) / TAN_MAX_ELEV * (1 - TOP_PADDING),
+				Math.tan(elRad) / tanMaxElev * (1 - TOP_PADDING),
 				dni / MAX_DNI / INTERP_STEPS,
-				elClamped / MAX_ELEV_DEG,
+				elRad,
 			);
 		}
 
@@ -291,7 +290,6 @@ void main() {
 
 		// Physical blur sigma for cylindrical film of radius P.
 		// Arc length of our 270° window = AZ_RANGE * π/180 * P metres.
-		// pixels_per_metre = w / that arc length.
 		const pixelsPerMetre = w / ((AZ_RANGE * Math.PI / 180) * P);
 		const sigmaPhysical  = R_TOTAL * pixelsPerMetre;
 		const sigma          = Math.max(1.5, sigmaPhysical) * splatScale;
@@ -347,8 +345,9 @@ void main() {
 	// splatCache is reactive so the render effect re-runs when it changes.
 	let rawData: Float16Array | null = null;
 	let rawKey = '';
-	let splatCache = $state<Float32Array | null>(null);
-	let loadingMsg = $state<string | null>(null);
+	let splatCache    = $state<Float32Array | null>(null);
+	let loadingMsg    = $state<string | null>(null);
+	let maxElevDegState = $state(66);
 
 	$effect(() => {
 		if (!container) return;
@@ -361,13 +360,15 @@ void main() {
 		return () => observer.disconnect();
 	});
 
-	// Fetch effect: re-runs on period change.
+	// Fetch effect: re-runs on period or city change.
 	// rawData is plain so reading it here creates no reactive dependency.
 	$effect(() => {
 		const p = period;
+		const c = city;
+		const key = `${c}_${p}`;
 		const ac = new AbortController();
 
-		if (p !== rawKey) {
+		if (key !== rawKey) {
 			loadingMsg = 'Loading…';
 			splatCache = null;
 
@@ -376,7 +377,7 @@ void main() {
 					const resp = await fetch(binUrl(p), { signal: ac.signal });
 					if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
 					rawData    = new Float16Array(await resp.arrayBuffer());
-					rawKey     = p;
+					rawKey     = key;
 					splatCache = processRawData(rawData);
 					onsplatsloaded?.(splatCache.length / 4);
 					loadingMsg = null;
@@ -433,6 +434,15 @@ void main() {
 			<text x={c.x} y="96.5%" text-anchor={c.anchor}
 				font-size="11" font-family="system-ui, sans-serif"
 				fill="rgba(255,255,255,0.4)">{c.label}</text>
+		{/each}
+		{#each Array.from({ length: Math.floor(maxElevDegState / 10) }, (_, i) => (i + 1) * 10) as el}
+			{@const yNorm = Math.tan(el * Math.PI / 180) / Math.tan(maxElevDegState * Math.PI / 180) * (1 - TOP_PADDING)}
+			{@const yPct = (1 - yNorm) * 100}
+			<line x1="95%" y1="{yPct}%" x2="100%" y2="{yPct}%"
+				stroke="rgba(255,255,255,0.25)" stroke-width="1"/>
+			<text x="94.5%" y="{yPct}%" text-anchor="end" dominant-baseline="middle"
+				font-size="10" font-family="system-ui, sans-serif"
+				fill="rgba(255,255,255,0.35)">{el}°</text>
 		{/each}
 		{#if loadingMsg}
 			<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
