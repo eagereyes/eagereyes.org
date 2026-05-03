@@ -1,7 +1,7 @@
 <script lang="ts">
 	// @ts-nocheck
 
-	let { period, splatScale = 1.0, exposureScale = 1.0 } = $props();
+	let { period, splatScale = 1.0, exposureScale = 1.0, maxInstances = Infinity, onsplatsloaded } = $props();
 
 	const LAT = 47.6;
 	const LON = -122.3;
@@ -285,7 +285,7 @@ void main() {
 
 	// ── Render ────────────────────────────────────────────────────────────────
 
-	function renderFrame(state, w, h, splatData) {
+	function renderFrame(state, w, h, splatData, maxInstances = Infinity) {
 		const { gl, splatProg, tmProg, instanceVBO, splatVAO, quadVAO,
 		        accumTex, fbo, uCanvas, uRadius, uSigma, uIntensityScale, uAccum, uScale } = state;
 
@@ -315,7 +315,7 @@ void main() {
 		gl.uniform1f(uSigma,  sigma);
 		gl.uniform1f(uIntensityScale, INTENSITY_SCALE * exposureScale);
 
-		gl.drawArraysInstanced(gl.TRIANGLES, 0, 6, splatData.length / 4);
+		gl.drawArraysInstanced(gl.TRIANGLES, 0, 6, Math.min(splatData.length / 4, maxInstances));
 
 		// Pass 2 — log tone-map + warm colorize to screen
 		gl.bindFramebuffer(gl.FRAMEBUFFER, null);
@@ -378,6 +378,7 @@ void main() {
 					rawData    = new Float16Array(await resp.arrayBuffer());
 					rawKey     = p;
 					splatCache = processRawData(rawData);
+					onsplatsloaded?.(splatCache.length / 4);
 					loadingMsg = null;
 				} catch (err) {
 					if ((err as Error).name === 'AbortError') return;
@@ -392,9 +393,9 @@ void main() {
 		return () => ac.abort();
 	});
 
-	// Renderer: re-runs on canvas size, splatScale, exposureScale, or when splatCache changes
+	// Renderer: re-runs on canvas size, splatScale, exposureScale, maxInstances, or splatCache
 	$effect(() => {
-		const w = width, h = height, sc = splatScale, es = exposureScale;
+		const w = width, h = height, sc = splatScale, es = exposureScale, mi = maxInstances;
 		const data = splatCache;
 		if (!canvas || w === 0 || h === 0) return;
 
@@ -405,7 +406,7 @@ void main() {
 		resizeAccumTexture(glState, w, h);
 
 		if (data && data.length > 0) {
-			renderFrame(glState, w, h, data);
+			renderFrame(glState, w, h, data, mi);
 		} else {
 			const { gl } = glState;
 			gl.viewport(0, 0, w, h);
@@ -445,7 +446,6 @@ void main() {
 	.canvas-wrap {
 		aspect-ratio: 2 / 1;
 		width: 100%;
-		max-height: 100%;
 		position: relative;
 		background: #0d1526;
 	}

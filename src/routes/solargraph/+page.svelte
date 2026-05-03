@@ -17,6 +17,56 @@
 	let splatScalePct = $state(100);
 	let exposureEV    = $state(0);
 
+	// Playback — 60 processed quads ≈ 1 daylight hour (1-min interpolation)
+	const QUADS_PER_HOUR = 60;
+	let totalInstances = $state(0);
+	let playHour       = $state(0);
+	let isPlaying      = $state(false);
+	let rafHandle: number | null = null;
+
+	const totalHours   = $derived(Math.ceil(totalInstances / QUADS_PER_HOUR));
+	const maxInstances = $derived(playHour >= totalHours ? Infinity : playHour * QUADS_PER_HOUR);
+
+	function onSplatsLoaded(total: number) {
+		totalInstances = total;
+		playHour = 0;
+		startPlay();
+	}
+
+	function stopPlay() {
+		if (rafHandle !== null) { cancelAnimationFrame(rafHandle); rafHandle = null; }
+		isPlaying = false;
+	}
+
+	function startPlay() {
+		stopPlay();
+		isPlaying = true;
+		// Reset to beginning only if already at the end
+		if (playHour >= totalHours) playHour = 0;
+		const startHour = playHour;
+		const remainingFraction = 1 - startHour / totalHours;
+		const startTime = performance.now();
+		function tick(now: number) {
+			const t = Math.min((now - startTime) / (5000 * remainingFraction), 1);
+			playHour = Math.round(startHour + t * (totalHours - startHour));
+			if (t < 1) {
+				rafHandle = requestAnimationFrame(tick);
+			} else {
+				isPlaying = false;
+				rafHandle = null;
+			}
+		}
+		rafHandle = requestAnimationFrame(tick);
+	}
+
+	// Reset playback when period changes
+	$effect(() => {
+		period;
+		stopPlay();
+		totalInstances = 0;
+		playHour = 0;
+	});
+
 	function parsePeriod(p: string): { year: number; season: 'summer' | 'winter' } {
 		const season = p.startsWith('summer') ? 'summer' : 'winter';
 		const year = parseInt(p.replace(/^(summer|winter)/, ''));
@@ -65,15 +115,25 @@
 		<span class="range-label">{rangeLabel}</span>
 	</div>
 	<div class="canvas-container">
-		<SolargraphCanvas {period} splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)} />
+		<SolargraphCanvas {period} splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)}
+			{maxInstances} onsplatsloaded={onSplatsLoaded} />
 	</div>
+	<div class="playback">
+		<button onclick={isPlaying ? stopPlay : startPlay} disabled={totalInstances === 0}
+			aria-label={isPlaying ? 'Stop' : 'Play'}>
+			{isPlaying ? '⏹' : '▶'}
+		</button>
+		<input type="range" min="0" max={totalHours} step="1" bind:value={playHour}
+			disabled={totalInstances === 0} />
+	</div>
+	<p class="attribution">Solar irradiance data from the <a href="https://nsrdb.nrel.gov/" target="_blank" rel="noopener">NREL National Solar Radiation Database (NSRDB)</a></p>
 </div>
 
 <style>
 	.solargraph-page {
 		display: flex;
 		flex-direction: column;
-		height: calc(100vh - 80px);
+		min-height: calc(100vh - 80px);
 	}
 
 	.toolbar {
@@ -94,12 +154,41 @@
 		opacity: 0.5;
 	}
 
-	.canvas-container {
-		flex: 1;
-		min-height: 0;
+	.attribution {
+		font-size: 0.75rem;
+		opacity: 0.45;
+		margin: 0;
+		padding: 0.25rem 1rem 0;
+	}
+
+	.playback {
 		display: flex;
-		justify-content: center;
 		align-items: center;
+		gap: 0.75rem;
+		padding: 0.4rem 1rem;
+	}
+
+	.playback input[type='range'] {
+		flex: 1;
+	}
+
+	.playback button {
+		padding: 0.2rem 0.6rem;
+		font-size: 0.85rem;
+		border: 1px solid var(--color-border);
+		border-radius: 5px;
+		background: transparent;
+		color: var(--color-text);
+		cursor: pointer;
+	}
+
+	.playback button:disabled {
+		opacity: 0.35;
+		cursor: default;
+	}
+
+	.canvas-container {
+		width: 100%;
 	}
 
 	select {
