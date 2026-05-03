@@ -1,8 +1,7 @@
 <script lang="ts">
 	// @ts-nocheck
-	import { getDateRange } from './solstice.js';
 
-	let { year, season, projection = 'cylindrical', splatScale = 1.0, exposureScale = 1.0 } = $props();
+	let { period, splatScale = 1.0, exposureScale = 1.0 } = $props();
 
 	const LAT = 47.6;
 	const LON = -122.3;
@@ -43,24 +42,38 @@
 		(K_LUX / C_CALIB) /
 		MAX_DNI;
 
-	const BASE_URL     = '/solargraph-data';
+	const BASE_URL      = '/solargraph-data';
 	const LOCATION_NAME = 'seattle';
+
+	// Reserve 5% of vertical space above the highest arc
+	const TOP_PADDING = 0.05;
 
 	// ── Shaders ───────────────────────────────────────────────────────────────
 
 	// Instanced Gaussian splat.
 	// Per-vertex (divisor 0): a_quad — unit quad [-1..1]
-	// Per-instance (divisor 1): a_instance — vec3(azNorm, elevNorm, dniNorm)
+	// Per-instance (divisor 1): a_instance — vec4(azNorm, elevNorm, dniNorm, elevLinear)
+	//   elevLinear = el_deg / MAX_ELEV_DEG, projection-independent, used for airmass color
+	const MAX_EL_RAD = (MAX_ELEV_DEG * Math.PI / 180).toFixed(6);
 	const SPLAT_VERT = `#version 300 es
 in vec2 a_quad;
-in vec3 a_instance;
+in vec4 a_instance;
 uniform vec2 u_canvas;
 uniform float u_radius;
 out vec2 v_offset_px;
 out float v_dni;
+out vec3 v_color;
 void main() {
     v_offset_px = a_quad * u_radius;
     v_dni = a_instance.z;
+
+    // Horizon reddening: airmass = 1/sin(el), clamped to [1,10]
+    float el_rad = a_instance.w * ${MAX_EL_RAD};
+    float airmass = clamp(1.0 / max(sin(el_rad), 0.001), 1.0, 10.0);
+    float t = (airmass - 1.0) / 9.0;
+    // Interpolate from white (high sun) to deep orange-red (near horizon)
+    v_color = mix(vec3(1.0, 1.0, 1.0), vec3(1.0, 0.5, 0.1), t);
+
     vec2 center_clip = a_instance.xy * 2.0 - 1.0;
     vec2 offset_clip = v_offset_px / (u_canvas * 0.5);
     gl_Position = vec4(center_clip + offset_clip, 0.0, 1.0);
@@ -70,12 +83,14 @@ void main() {
 precision highp float;
 in vec2 v_offset_px;
 in float v_dni;
+in vec3 v_color;
 uniform float u_sigma;
 uniform float u_intensity_scale;
-out float outValue;
+out vec4 outValue;
 void main() {
     float r2 = dot(v_offset_px, v_offset_px);
-    outValue = u_intensity_scale * v_dni * exp(-r2 / (2.0 * u_sigma * u_sigma));
+    float energy = u_intensity_scale * v_dni * exp(-r2 / (2.0 * u_sigma * u_sigma));
+    outValue = vec4(v_color * energy, 0.0);
 }`;
 
 	const QUAD_VERT = `#version 300 es
@@ -86,7 +101,8 @@ void main() {
     gl_Position = vec4(a_pos, 0.0, 1.0);
 }`;
 
-	// Warm tint: r=1.0, g=0.784, b=0.314 (≈ rgba(255,200,80))
+	// Tone map using R as luminance (R ≥ G ≥ B always, since color mixes preserve this).
+	// Color ratios G/R and B/R are preserved through the tone-map curve.
 	const TONEMAP_FRAG = `#version 300 es
 precision highp float;
 uniform sampler2D u_accum;
@@ -94,10 +110,18 @@ uniform float u_scale;
 in vec2 v_uv;
 out vec4 outColor;
 void main() {
-    float v = texture(u_accum, v_uv).r;
-    float mapped = log(1.0 + v * u_scale) / log(1.0 + u_scale);
-    float g = pow(max(mapped, 0.0), 1.0 / 2.2);
-    outColor = vec4(g, g * 0.784, g * 0.314, 1.0);
+    vec3 accum = texture(u_accum, v_uv).rgb;
+    float lum = accum.r;
+    if (lum <= 0.0) {
+        outColor = vec4(0.0, 0.0, 0.0, 0.0);
+        return;
+    }
+    float mapped = log(1.0 + lum * u_scale) / log(1.0 + u_scale);
+    float bright = pow(max(mapped, 0.0), 1.0 / 2.2);
+    // Premultiplied alpha: rgb already scaled by bright, alpha=bright.
+    // Browser composites: canvas_rgb + bg * (1 - bright), so dim areas
+    // blend with the CSS dark blue background instead of appearing black.
+    outColor = vec4(bright, bright * accum.g / lum, bright * accum.b / lum, bright);
 }`;
 
 	// ── WebGL init ────────────────────────────────────────────────────────────
@@ -122,7 +146,7 @@ void main() {
 	}
 
 	function initGL(canvas) {
-		const gl = canvas.getContext('webgl2', { antialias: false, premultipliedAlpha: false });
+		const gl = canvas.getContext('webgl2', { antialias: false, premultipliedAlpha: true });
 		if (!gl) throw new Error('WebGL2 not available');
 
 		try { gl.drawingBufferColorSpace = 'display-p3'; } catch (_) {}
@@ -137,7 +161,7 @@ void main() {
 			gl.STATIC_DRAW);
 
 		// Splat program + instanced VAO
-		// a_quad (vec2, divisor 0) + a_instance (vec3, divisor 1)
+		// a_quad (vec2, divisor 0) + a_instance (vec4, divisor 1)
 		const splatProg   = createProgram(gl, SPLAT_VERT, SPLAT_FRAG);
 		const instanceVBO = gl.createBuffer();
 		const splatVAO    = gl.createVertexArray();
@@ -150,7 +174,7 @@ void main() {
 		gl.bindBuffer(gl.ARRAY_BUFFER, instanceVBO);
 		const instLoc = gl.getAttribLocation(splatProg, 'a_instance');
 		gl.enableVertexAttribArray(instLoc);
-		gl.vertexAttribPointer(instLoc, 3, gl.FLOAT, false, 0, 0);
+		gl.vertexAttribPointer(instLoc, 4, gl.FLOAT, false, 0, 0);
 		gl.vertexAttribDivisor(instLoc, 1);
 		gl.bindVertexArray(null);
 
@@ -181,7 +205,7 @@ void main() {
 		if (state.texW === w && state.texH === h) return;
 		const { gl, accumTex, fbo } = state;
 		gl.bindTexture(gl.TEXTURE_2D, accumTex);
-		gl.texImage2D(gl.TEXTURE_2D, 0, gl.R32F, w, h, 0, gl.RED, gl.FLOAT, null);
+		gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGBA32F, w, h, 0, gl.RGBA, gl.FLOAT, null);
 		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.NEAREST);
 		gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.NEAREST);
 		gl.bindTexture(gl.TEXTURE_2D, null);
@@ -194,8 +218,8 @@ void main() {
 
 	// ── Binary data loading ───────────────────────────────────────────────────
 
-	function binUrl(y: number, s: string): string {
-		return `${BASE_URL}/${s}${y}_${LOCATION_NAME}.bin`;
+	function binUrl(p: string): string {
+		return `${BASE_URL}/${p}_${LOCATION_NAME}.bin`;
 	}
 
 	const TAN_MAX_ELEV = Math.tan(MAX_ELEV_DEG * Math.PI / 180);
@@ -206,26 +230,22 @@ void main() {
 
 	/**
 	 * Decode Float16Array triplets [az_deg, el_deg, dni_Wm2], interpolate to
-	 * 1-minute resolution, and return Float32Array of [azNorm, elevNorm, dniNorm]
-	 * triplets for the GPU. Samples outside the azimuth window are discarded.
-	 *
-	 * Planar:      elevNorm = el / MAX_ELEV_DEG  (equirectangular)
-	 * Cylindrical: elevNorm = tan(el) / tan(MAX_ELEV_DEG)  (can-camera film height)
+	 * 1-minute resolution, and return Float32Array of [azNorm, elevNorm, dniNorm, elevLinear]
+	 * quads for the GPU. Samples outside the azimuth window are discarded.
+	 * Cylindrical projection: elevNorm = tan(el) / tan(MAX_ELEV_DEG) (can-camera film height).
 	 */
-	function processRawData(raw: Float16Array, proj: string): Float32Array {
+	function processRawData(raw: Float16Array): Float32Array {
 		const pts: number[] = [];
 		const n = Math.floor(raw.length / 3);
 
 		function pushPoint(az: number, el: number, dni: number) {
 			if (az < AZ_MIN || az > AZ_MAX) return;
 			const elClamped = Math.min(el, MAX_ELEV_DEG);
-			const elevNorm = proj === 'cylindrical'
-				? Math.tan(elClamped * Math.PI / 180) / TAN_MAX_ELEV
-				: elClamped / MAX_ELEV_DEG;
 			pts.push(
 				(az - AZ_MIN) / AZ_RANGE,
-				elevNorm,
+				Math.tan(elClamped * Math.PI / 180) / TAN_MAX_ELEV * (1 - TOP_PADDING),
 				dni / MAX_DNI / INTERP_STEPS,
+				elClamped / MAX_ELEV_DEG,
 			);
 		}
 
@@ -291,12 +311,12 @@ void main() {
 		gl.uniform1f(uSigma,  sigma);
 		gl.uniform1f(uIntensityScale, INTENSITY_SCALE * exposureScale);
 
-		gl.drawArraysInstanced(gl.TRIANGLES, 0, 6, splatData.length / 3);
+		gl.drawArraysInstanced(gl.TRIANGLES, 0, 6, splatData.length / 4);
 
 		// Pass 2 — log tone-map + warm colorize to screen
 		gl.bindFramebuffer(gl.FRAMEBUFFER, null);
 		gl.disable(gl.BLEND);
-		gl.clearColor(0.031, 0.031, 0.059, 1); // #08080f
+		gl.clearColor(0.0, 0.0, 0.0, 0.0);
 		gl.clear(gl.COLOR_BUFFER_BIT);
 
 		gl.useProgram(tmProg);
@@ -337,24 +357,23 @@ void main() {
 		return () => observer.disconnect();
 	});
 
-	// Fetch effect: re-runs on year/season change; re-projects on projection change.
+	// Fetch effect: re-runs on period change.
 	// rawData is plain so reading it here creates no reactive dependency.
 	$effect(() => {
-		const y = year, s = season, proj = projection;
-		const key = `${y}-${s}`;
+		const p = period;
 		const ac = new AbortController();
 
-		if (key !== rawKey) {
+		if (p !== rawKey) {
 			loadingMsg = 'Loading…';
 			splatCache = null;
 
 			(async () => {
 				try {
-					const resp = await fetch(binUrl(y, s), { signal: ac.signal });
+					const resp = await fetch(binUrl(p), { signal: ac.signal });
 					if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
 					rawData    = new Float16Array(await resp.arrayBuffer());
-					rawKey     = key;
-					splatCache = processRawData(rawData, proj);
+					rawKey     = p;
+					splatCache = processRawData(rawData);
 					loadingMsg = null;
 				} catch (err) {
 					if ((err as Error).name === 'AbortError') return;
@@ -364,9 +383,6 @@ void main() {
 					rawKey     = '';
 				}
 			})();
-		} else if (rawData) {
-			// Same period, projection changed: reprocess without fetching
-			splatCache = processRawData(rawData, proj);
 		}
 
 		return () => ac.abort();
@@ -423,10 +439,11 @@ void main() {
 
 <style>
 	.canvas-wrap {
+		aspect-ratio: 2 / 1;
 		width: 100%;
-		height: 100%;
+		max-height: 100%;
 		position: relative;
-		background: #08080f;
+		background: #0d1526;
 	}
 
 	canvas {

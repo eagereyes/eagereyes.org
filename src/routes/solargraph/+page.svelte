@@ -2,20 +2,39 @@
 	import SolargraphCanvas from '$lib/solargraph/SolargraphCanvas.svelte';
 	import { getDateRange } from '$lib/solargraph/solstice.js';
 
-	const YEARS = Array.from({ length: 11 }, (_, i) => 2016 + i);
+	// Copied from scripts/solargraph/config.json — update here when adding new periods
+	const PERIODS = [
+		'summer2020', 'winter2020',
+		'summer2021', 'winter2021',
+		'summer2022', 'winter2022',
+		'summer2023', 'winter2023',
+		'summer2024',
+	];
+
 	const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
-	let year = $state(2026);
-	let season = $state<'summer' | 'winter'>('summer');
-	let projection = $state<'planar' | 'cylindrical'>('cylindrical');
-	let splatScalePct = $state(100); // 50–200%
-	let exposureEV = $state(0);     // −2 to +2 stops
+	let period        = $state('summer2024');
+	let splatScalePct = $state(100);
+	let exposureEV    = $state(0);
 
 	const exposureLabel = $derived(
 		exposureEV === 0 ? '0 EV' : `${exposureEV > 0 ? '+' : ''}${exposureEV} EV`
 	);
 
+	function parsePeriod(p: string): { year: number; season: 'summer' | 'winter' } {
+		const season = p.startsWith('summer') ? 'summer' : 'winter';
+		const year = parseInt(p.replace(/^(summer|winter)/, ''));
+		return { year, season };
+	}
+
+	function formatPeriod(p: string): string {
+		const { year, season } = parsePeriod(p);
+		if (season === 'summer') return `Summer/Fall ${year}`;
+		return `Winter/Spring ${year}–${String(year + 1).slice(2)}`;
+	}
+
 	const rangeLabel = $derived.by(() => {
+		const { year, season } = parsePeriod(period);
 		const { start, end } = getDateRange(year, season);
 		return `${fmt.format(start)} → ${fmt.format(end)}`;
 	});
@@ -31,19 +50,11 @@
 <div class="solargraph-page">
 	<div class="toolbar">
 		<div class="toolbar-left">
-			<select bind:value={year} aria-label="Select year">
-				{#each YEARS as y}
-					<option value={y}>{y}</option>
+			<select bind:value={period} aria-label="Select period">
+				{#each PERIODS as p}
+					<option value={p}>{formatPeriod(p)}</option>
 				{/each}
 			</select>
-			<div class="season-toggle">
-				<button onclick={() => season = 'summer'} class:active={season === 'summer'}>Summer</button>
-				<button onclick={() => season = 'winter'} class:active={season === 'winter'}>Winter</button>
-			</div>
-			<div class="season-toggle">
-				<button onclick={() => projection = 'planar'} class:active={projection === 'planar'}>Planar</button>
-				<button onclick={() => projection = 'cylindrical'} class:active={projection === 'cylindrical'}>Cylindrical</button>
-			</div>
 			<label class="splat-size">
 				<span>Size {splatScalePct}%</span>
 				<input type="range" min="50" max="200" step="5" bind:value={splatScalePct} />
@@ -56,7 +67,7 @@
 		<span class="range-label">{rangeLabel}</span>
 	</div>
 	<div class="canvas-container">
-		<SolargraphCanvas {year} {season} {projection} splatScale={splatScalePct / 100} exposureScale={Math.pow(2, exposureEV)} />
+		<SolargraphCanvas {period} splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)} />
 	</div>
 </div>
 
@@ -80,20 +91,6 @@
 		gap: 0.75rem;
 	}
 
-	.season-toggle {
-		display: flex;
-		gap: 0;
-	}
-
-	.season-toggle button:first-child {
-		border-radius: 5px 0 0 5px;
-	}
-
-	.season-toggle button:last-child {
-		border-radius: 0 5px 5px 0;
-		border-left: none;
-	}
-
 	.splat-size {
 		display: flex;
 		align-items: center;
@@ -114,6 +111,9 @@
 	.canvas-container {
 		flex: 1;
 		min-height: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 
 	select {
@@ -126,25 +126,5 @@
 		cursor: pointer;
 	}
 
-	button {
-		padding: 0.3rem 0.7rem;
-		font-size: 0.85rem;
-		border: 1px solid var(--color-border);
-		background: transparent;
-		color: var(--color-text);
-		cursor: pointer;
-		transition: background-color 0.15s, color 0.15s;
-	}
 
-	button:hover {
-		background-color: color-mix(in srgb, var(--color-theme-1) 10%, transparent);
-		color: var(--color-theme-1);
-		border-color: var(--color-theme-1);
-	}
-
-	button.active {
-		background-color: color-mix(in srgb, var(--color-theme-1) 15%, transparent);
-		color: var(--color-theme-1);
-		border-color: var(--color-theme-1);
-	}
 </style>
