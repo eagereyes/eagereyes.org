@@ -2,7 +2,7 @@
 	// @ts-nocheck
 	import { getDateRange } from './solstice.js';
 
-	let { year, season, splatScale = 1.0 } = $props();
+	let { year, season, projection = 'cylindrical', splatScale = 1.0, exposureScale = 1.0 } = $props();
 
 	const LAT = 47.6;
 	const LON = -122.3;
@@ -198,24 +198,64 @@ void main() {
 		return `${BASE_URL}/${s}${y}_${LOCATION_NAME}.bin`;
 	}
 
+	const TAN_MAX_ELEV = Math.tan(MAX_ELEV_DEG * Math.PI / 180);
+
+	// Each 5-min sample is expanded to 5 splats (1 original + 4 interpolated).
+	// Intensity is divided by 5 to preserve total accumulated energy.
+	const INTERP_STEPS = 5;
+
 	/**
-	 * Decode Float16Array triplets [az_deg, el_deg, dni_Wm2] and return
-	 * Float32Array of [azNorm, elevNorm, dniNorm] triplets for the GPU.
-	 * Samples outside the azimuth window are discarded.
+	 * Decode Float16Array triplets [az_deg, el_deg, dni_Wm2], interpolate to
+	 * 1-minute resolution, and return Float32Array of [azNorm, elevNorm, dniNorm]
+	 * triplets for the GPU. Samples outside the azimuth window are discarded.
+	 *
+	 * Planar:      elevNorm = el / MAX_ELEV_DEG  (equirectangular)
+	 * Cylindrical: elevNorm = tan(el) / tan(MAX_ELEV_DEG)  (can-camera film height)
 	 */
-	function processRawData(raw: Float16Array): Float32Array {
+	function processRawData(raw: Float16Array, proj: string): Float32Array {
 		const pts: number[] = [];
-		for (let i = 0; i < raw.length - 2; i += 3) {
-			const az  = raw[i];
-			const el  = raw[i + 1];
-			const dni = raw[i + 2];
-			if (az < AZ_MIN || az > AZ_MAX) continue;
+		const n = Math.floor(raw.length / 3);
+
+		function pushPoint(az: number, el: number, dni: number) {
+			if (az < AZ_MIN || az > AZ_MAX) return;
+			const elClamped = Math.min(el, MAX_ELEV_DEG);
+			const elevNorm = proj === 'cylindrical'
+				? Math.tan(elClamped * Math.PI / 180) / TAN_MAX_ELEV
+				: elClamped / MAX_ELEV_DEG;
 			pts.push(
 				(az - AZ_MIN) / AZ_RANGE,
-				Math.min(el, MAX_ELEV_DEG) / MAX_ELEV_DEG,
-				dni / MAX_DNI,
+				elevNorm,
+				dni / MAX_DNI / INTERP_STEPS,
 			);
 		}
+
+		for (let i = 0; i < n; i++) {
+			const az1  = raw[i * 3];
+			const el1  = raw[i * 3 + 1];
+			const dni1 = raw[i * 3 + 2];
+
+			pushPoint(az1, el1, dni1);
+
+			if (i < n - 1) {
+				const az2  = raw[(i + 1) * 3];
+				const el2  = raw[(i + 1) * 3 + 1];
+				const dni2 = raw[(i + 1) * 3 + 2];
+
+				// Skip interpolation across day boundaries and cloud gaps:
+				// consecutive 5-min samples never jump more than ~10° in azimuth.
+				if (Math.abs(az2 - az1) < 15) {
+					for (let t = 1; t < INTERP_STEPS; t++) {
+						const f = t / INTERP_STEPS;
+						pushPoint(
+							az1 + f * (az2 - az1),
+							el1 + f * (el2 - el1),
+							dni1 + f * (dni2 - dni1),
+						);
+					}
+				}
+			}
+		}
+
 		return new Float32Array(pts);
 	}
 
@@ -249,7 +289,7 @@ void main() {
 		gl.uniform2f(uCanvas, w, h);
 		gl.uniform1f(uRadius, radius);
 		gl.uniform1f(uSigma,  sigma);
-		gl.uniform1f(uIntensityScale, INTENSITY_SCALE);
+		gl.uniform1f(uIntensityScale, INTENSITY_SCALE * exposureScale);
 
 		gl.drawArraysInstanced(gl.TRIANGLES, 0, 6, splatData.length / 3);
 
@@ -277,10 +317,13 @@ void main() {
 	let width     = $state(0);
 	let height    = $state(0);
 
-	let glState:    ReturnType<typeof initGL> | null = null;
-	let splatCache: Float32Array | null = null;
-	let cacheKey = '';
+	let glState: ReturnType<typeof initGL> | null = null;
 
+	// rawData is plain (not reactive) — only used as input to processRawData.
+	// splatCache is reactive so the render effect re-runs when it changes.
+	let rawData: Float16Array | null = null;
+	let rawKey = '';
+	let splatCache = $state<Float32Array | null>(null);
 	let loadingMsg = $state<string | null>(null);
 
 	$effect(() => {
@@ -294,40 +337,45 @@ void main() {
 		return () => observer.disconnect();
 	});
 
-	// Data loader: cancels any in-flight fetch when year/season changes
+	// Fetch effect: re-runs on year/season change; re-projects on projection change.
+	// rawData is plain so reading it here creates no reactive dependency.
 	$effect(() => {
-		const y = year, s = season;
+		const y = year, s = season, proj = projection;
 		const key = `${y}-${s}`;
-		if (key === cacheKey) return;
-
 		const ac = new AbortController();
-		loadingMsg = 'Loading…';
 
-		(async () => {
-			try {
-				const resp = await fetch(binUrl(y, s), { signal: ac.signal });
-				if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-				const buf = await resp.arrayBuffer();
-				const f16 = new Float16Array(buf);
-				splatCache = processRawData(f16);
-				cacheKey   = key;
-				loadingMsg = null;
-			} catch (err) {
-				if ((err as Error).name === 'AbortError') return;
-				console.error('Solargraph fetch failed:', err);
-				loadingMsg = `Failed to load data`;
-				splatCache = null;
-				cacheKey   = '';
-			}
-		})();
+		if (key !== rawKey) {
+			loadingMsg = 'Loading…';
+			splatCache = null;
+
+			(async () => {
+				try {
+					const resp = await fetch(binUrl(y, s), { signal: ac.signal });
+					if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+					rawData    = new Float16Array(await resp.arrayBuffer());
+					rawKey     = key;
+					splatCache = processRawData(rawData, proj);
+					loadingMsg = null;
+				} catch (err) {
+					if ((err as Error).name === 'AbortError') return;
+					console.error('Solargraph fetch failed:', err);
+					loadingMsg = 'Failed to load data';
+					rawData    = null;
+					rawKey     = '';
+				}
+			})();
+		} else if (rawData) {
+			// Same period, projection changed: reprocess without fetching
+			splatCache = processRawData(rawData, proj);
+		}
 
 		return () => ac.abort();
 	});
 
-	// Renderer: re-runs on size, splatScale, or when new data arrives
+	// Renderer: re-runs on canvas size, splatScale, exposureScale, or when splatCache changes
 	$effect(() => {
-		const w = width, h = height, sc = splatScale;
-		void loadingMsg; // depend on loading state so we re-render when data arrives
+		const w = width, h = height, sc = splatScale, es = exposureScale;
+		const data = splatCache;
 		if (!canvas || w === 0 || h === 0) return;
 
 		canvas.width  = w;
@@ -336,8 +384,8 @@ void main() {
 		if (!glState) glState = initGL(canvas);
 		resizeAccumTexture(glState, w, h);
 
-		if (splatCache && splatCache.length > 0) {
-			renderFrame(glState, w, h, splatCache);
+		if (data && data.length > 0) {
+			renderFrame(glState, w, h, data);
 		} else {
 			const { gl } = glState;
 			gl.viewport(0, 0, w, h);

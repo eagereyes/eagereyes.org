@@ -7,7 +7,13 @@
 
 	let year = $state(2026);
 	let season = $state<'summer' | 'winter'>('summer');
+	let projection = $state<'planar' | 'cylindrical'>('cylindrical');
 	let splatScalePct = $state(100); // 50–200%
+	let exposureEV = $state(0);     // −2 to +2 stops
+
+	const exposureLabel = $derived(
+		exposureEV === 0 ? '0 EV' : `${exposureEV > 0 ? '+' : ''}${exposureEV} EV`
+	);
 
 	const rangeLabel = $derived.by(() => {
 		const { start, end } = getDateRange(year, season);
@@ -34,15 +40,23 @@
 				<button onclick={() => season = 'summer'} class:active={season === 'summer'}>Summer</button>
 				<button onclick={() => season = 'winter'} class:active={season === 'winter'}>Winter</button>
 			</div>
+			<div class="season-toggle">
+				<button onclick={() => projection = 'planar'} class:active={projection === 'planar'}>Planar</button>
+				<button onclick={() => projection = 'cylindrical'} class:active={projection === 'cylindrical'}>Cylindrical</button>
+			</div>
 			<label class="splat-size">
 				<span>Size {splatScalePct}%</span>
 				<input type="range" min="50" max="200" step="5" bind:value={splatScalePct} />
+			</label>
+			<label class="splat-size">
+				<span>Exp {exposureLabel}</span>
+				<input type="range" min="-2" max="2" step="0.25" bind:value={exposureEV} />
 			</label>
 		</div>
 		<span class="range-label">{rangeLabel}</span>
 	</div>
 	<div class="canvas-container">
-		<SolargraphCanvas {year} {season} splatScale={splatScalePct / 100} />
+		<SolargraphCanvas {year} {season} {projection} splatScale={splatScalePct / 100} exposureScale={Math.pow(2, exposureEV)} />
 	</div>
 </div>
 
