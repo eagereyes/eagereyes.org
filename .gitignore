@@ -12,7 +12,7 @@ node_modules
 
 # Python and solargraph
 .venv
-/scripts/solargraph/data/*.csv
+/scripts/solargraph/data/
 
 .DS_Store
 .playwright-mcp

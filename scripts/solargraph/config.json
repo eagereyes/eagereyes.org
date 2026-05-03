@@ -1,6 +1,12 @@
 {
   "latitude": 47.6,
   "longitude": -122.3,
+  "location_name": "seattle",
   "altitude": 50,
-  "interval": 5
+  "interval": 5,
+  "periods": ["summer2020", "winter2020",
+              "summer2021", "winter2021",
+              "summer2022", "winter2022",
+              "summer2023", "winter2023",
+              "summer2024"]
 }
