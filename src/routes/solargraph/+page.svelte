@@ -17,10 +17,6 @@
 	let splatScalePct = $state(100);
 	let exposureEV    = $state(0);
 
-	const exposureLabel = $derived(
-		exposureEV === 0 ? '0 EV' : `${exposureEV > 0 ? '+' : ''}${exposureEV} EV`
-	);
-
 	function parsePeriod(p: string): { year: number; season: 'summer' | 'winter' } {
 		const season = p.startsWith('summer') ? 'summer' : 'winter';
 		const year = parseInt(p.replace(/^(summer|winter)/, ''));
@@ -55,14 +51,16 @@
 					<option value={p}>{formatPeriod(p)}</option>
 				{/each}
 			</select>
-			<label class="splat-size">
-				<span>Size {splatScalePct}%</span>
-				<input type="range" min="50" max="200" step="5" bind:value={splatScalePct} />
-			</label>
-			<label class="splat-size">
-				<span>Exp {exposureLabel}</span>
-				<input type="range" min="-2" max="2" step="0.25" bind:value={exposureEV} />
-			</label>
+			<select bind:value={splatScalePct} aria-label="Splat size">
+				{#each [50, 100, 150, 200] as pct}
+					<option value={pct}>Size {pct}%</option>
+				{/each}
+			</select>
+			<select bind:value={exposureEV} aria-label="Exposure">
+				{#each [-2, -1, 0, 1, 2] as ev}
+					<option value={ev}>{ev > 0 ? '+' : ''}{ev} EV</option>
+				{/each}
+			</select>
 		</div>
 		<span class="range-label">{rangeLabel}</span>
 	</div>
@@ -89,18 +87,6 @@
 		display: flex;
 		align-items: center;
 		gap: 0.75rem;
-	}
-
-	.splat-size {
-		display: flex;
-		align-items: center;
-		gap: 0.4rem;
-		font-size: 0.85rem;
-		color: var(--color-text);
-	}
-
-	.splat-size span {
-		min-width: 5.5ch;
 	}
 
 	.range-label {

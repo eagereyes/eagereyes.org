@@ -12,7 +12,9 @@
 	const AZ_MAX   = 315;  // NW
 	const AZ_RANGE = AZ_MAX - AZ_MIN;
 
-	const TONE_SCALE = 1000.0;
+	// Exponential tone-map scale. Physical lum values peak around 0.005–0.01,
+	// so scale=200 puts the "half-life" (mapped=0.63) right at the expected peak.
+	const TONE_SCALE = 200.0;
 
 	// ── Physical camera model ─────────────────────────────────────────────────
 	// (Section 4 of SOLARGRAPH_SPEC.md)
@@ -116,7 +118,9 @@ void main() {
         outColor = vec4(0.0, 0.0, 0.0, 0.0);
         return;
     }
-    float mapped = log(1.0 + lum * u_scale) / log(1.0 + u_scale);
+    // Exponential tone-map: reaches display-white for physically-small lum values.
+    // Log curve would need lum≈1 to reach output 1.0, but actual peaks are ~0.005–0.01.
+    float mapped = 1.0 - exp(-lum * u_scale);
     float bright = pow(max(mapped, 0.0), 1.0 / 2.2);
     // Premultiplied alpha: rgb already scaled by bright, alpha=bright.
     // Browser composites: canvas_rgb + bg * (1 - bright), so dim areas
