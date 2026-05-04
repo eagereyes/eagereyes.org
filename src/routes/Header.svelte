@@ -44,6 +44,7 @@
 				<button class="dropdown-toggle" aria-haspopup="true">More ▾</button>
 				<ul class="dropdown-menu">
 					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
+					<li><a href="/app/solargraph">Solargraph</a></li>
 					<li><a href="/video/">Videos</a></li>
 					<li><a href="/photos/">Photos</a></li>
 					<li><a href="/publications/">Papers</a></li>
@@ -54,6 +55,7 @@
 				<button class="dropdown-toggle" aria-haspopup="true">Apps ▾</button>
 				<ul class="dropdown-menu">
 					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
+					<li><a href="/app/solargraph">Solargraph</a></li>
 				</ul>
 			</li>
 			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>
