@@ -58,6 +58,7 @@ Static content pages (about, contact, license, pie-charts, subscribe) live in `c
 | `/photos/<slug>` | Single gallery with lightbox |
 | `/photos/feed` | RSS feed for galleries |
 | `/app/zipscribble-map` | Interactive ZIPScribble map |
+| `/solargraph` | Interactive solargraph simulation |
 | `/search` | Full-text search |
 | `/<slug>` or `/<prefix>/<slug>` | Catch-all: serves content pages or 301 redirects |
 
@@ -172,6 +173,38 @@ All scripts load env vars from `lambda-newsletter/.env`. See `lambda-newsletter/
 **Site**: `src/lib/SubscribeForm.svelte` (hidden when `VITE_SUBSCRIBE_LAMBDA_URL` is unset), `src/routes/subscribe/+page.svelte`, `src/routes/subscribe/confirmed/+page.svelte`. Form is also embedded in the blog post sidebar (`src/lib/Sidebar.svelte`) and home page right column (`src/routes/+page.svelte`).
 
 Auto-newsletter: `.github/workflows/deploy.yml` has a `notify` job that runs after deploy and calls `POST /send` with `{"auto": true}`.
+
+### Solargraph
+
+The interactive solargraph lives at `/solargraph` (`src/routes/solargraph/`) and `src/lib/solargraph/`.
+
+- `+page.svelte` — city/period selectors, playback controls, passes `lat`/`lon` to canvas
+- `SolargraphCanvas.svelte` — WebGL2 renderer; two-pass Gaussian splat accumulation into RGBA32F FBO, then exponential tone-map to screen
+- `solarPosition.ts` — NOAA solar position algorithm (~0.01° accuracy, 2000–2050); returns azimuth (N=0°, clockwise) and refraction-corrected elevation
+
+**Binary data format** (`static/solargraph-data/<city>_<period>.bin`):
+```
+Bytes 0–3   : uint32 LE — period start (Unix seconds, at solstice)
+Bytes 4–7   : uint32 LE — N (sample count)
+Bytes 8..   : uint16 LE × N — sample offsets in 5-min units from period start
+Bytes 8+2N..: float16 LE × N — DNI values (W/m²)
+```
+Sun position is **not stored** — it is computed analytically in the browser from the timestamp. This avoids float16 quantization noise (~0.125° azimuth).
+
+**Regenerating binary files** (requires NREL API key in repo-root `.env`):
+```bash
+cd scripts/solargraph
+python fetch_data.py                                   # all 12 cities × 9 periods
+python fetch_data.py --location-name seattle --period summer2024
+```
+The script uses `ephem` for solstice dates and `pvlib` for the above-horizon elevation filter only. The pandas timestamp conversion uses `(index - pd.Timestamp("1970-01-01", tz="UTC")) // pd.Timedelta("1s")` — `astype("int64") // 10**9` is wrong on pandas 3.0+ (returns microseconds, not nanoseconds).
+
+**Rendering pipeline in `SolargraphCanvas.svelte`:**
+1. Fetch effect downloads `.bin` on city/period change, sets `rawData` (plain) + `rawKey` ($state trigger)
+2. Process effect runs on `rawKey`, `width`, or `splatScale` change — calls `processRawData()` which computes solar positions, applies adaptive sub-step interpolation (gap-aware, sigma-calibrated), and builds a `Float32Array` of `[azNorm, elevNorm, dniNorm, el_rad]` quads
+3. Render effect uploads instance data to GPU and draws
+
+**Adding cities or periods:** update `config.json` in `scripts/solargraph/`, re-run `fetch_data.py`, and mirror the cities/periods arrays in `src/routes/solargraph/+page.svelte`.
 
 ### ZIPScribble App
 
