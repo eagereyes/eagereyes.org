@@ -3,19 +3,19 @@
 	import { getDateRange } from '$lib/solargraph/solstice.js';
 
 	// Copied from scripts/solargraph/config.json — update here when adding new cities/periods
-	const CITIES: { name: string; label: string }[] = [
-		{ name: 'miami',       label: 'Miami, FL' },
-		{ name: 'austin',      label: 'Austin, TX' },
-		{ name: 'phoenix',     label: 'Phoenix, AZ' },
-		{ name: 'los-angeles', label: 'Los Angeles, CA' },
-		{ name: 'atlanta',     label: 'Atlanta, GA' },
-		{ name: 'denver',      label: 'Denver, CO' },
-		{ name: 'new-york',    label: 'New York, NY' },
-		{ name: 'chicago',     label: 'Chicago, IL' },
-		{ name: 'minneapolis', label: 'Minneapolis, MN' },
-		{ name: 'portland',    label: 'Portland, OR' },
-		{ name: 'seattle',     label: 'Seattle, WA' },
-		{ name: 'forks',       label: 'Forks, WA' },
+	const CITIES: { name: string; label: string; lat: number; lon: number }[] = [
+		{ name: 'atlanta',     label: 'Atlanta, GA',      lat:  33.75, lon:  -84.39 },
+		{ name: 'austin',      label: 'Austin, TX',       lat:  30.27, lon:  -97.74 },
+		{ name: 'chicago',     label: 'Chicago, IL',      lat:  41.85, lon:  -87.65 },
+		{ name: 'denver',      label: 'Denver, CO',       lat:  39.74, lon: -104.98 },
+		{ name: 'forks',       label: 'Forks, WA',        lat:  47.94, lon: -124.39 },
+		{ name: 'los-angeles', label: 'Los Angeles, CA',  lat:  34.05, lon: -118.24 },
+		{ name: 'miami',       label: 'Miami, FL',        lat:  25.77, lon:  -80.19 },
+		{ name: 'minneapolis', label: 'Minneapolis, MN',  lat:  44.98, lon:  -93.27 },
+		{ name: 'new-york',    label: 'New York, NY',     lat:  40.71, lon:  -74.01 },
+		{ name: 'phoenix',     label: 'Phoenix, AZ',      lat:  33.45, lon: -112.07 },
+		{ name: 'portland',    label: 'Portland, OR',     lat:  45.52, lon: -122.68 },
+		{ name: 'seattle',     label: 'Seattle, WA',      lat:  47.60, lon: -122.30 },
 	];
 
 	const PERIODS = [
@@ -29,6 +29,7 @@
 	const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
 	let city          = $state('seattle');
+	const selectedCity = $derived(CITIES.find(c => c.name === city) ?? CITIES[11]);
 	let period        = $state('summer2024');
 	let splatScalePct = $state(100);
 	let exposureEV    = $state(0);
@@ -136,7 +137,8 @@
 		<span class="range-label">{rangeLabel}</span>
 	</div>
 	<div class="canvas-container">
-		<SolargraphCanvas {period} {city} splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)}
+		<SolargraphCanvas {period} {city} lat={selectedCity.lat} lon={selectedCity.lon}
+			splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)}
 			{maxInstances} onsplatsloaded={onSplatsLoaded} />
 	</div>
 	<div class="playback">

@@ -1,7 +1,9 @@
 <script lang="ts">
 	// @ts-nocheck
+	import { untrack } from 'svelte';
+	import { solarPosition } from '$lib/solargraph/solarPosition.js';
 
-	let { period, city = 'seattle', splatScale = 1.0, exposureScale = 1.0, maxInstances = Infinity, onsplatsloaded } = $props();
+	let { period, city = 'seattle', lat = 47.6, lon = -122.3, splatScale = 1.0, exposureScale = 1.0, maxInstances = Infinity, onsplatsloaded } = $props();
 
 	// Azimuth projection window: 270° centered on South (180°)
 	const AZ_MIN   = 45;   // NE
@@ -220,61 +222,93 @@ void main() {
 		return `${BASE_URL}/${city}_${p}.bin`;
 	}
 
-	// Each 5-min sample is expanded to 5 splats (1 original + 4 interpolated).
-	// Intensity is divided by 5 to preserve total accumulated energy.
-	const INTERP_STEPS = 5;
+	// 5-minute NSRDB data: minimum sub-steps per interval (= 1 min resolution).
+	const STEPS_PER_INTERVAL = 5;
+	// Treat consecutive samples as a gap when sky angular separation exceeds this.
+	// Max real sun movement in 5 min ≈ 1.25°; 4° catches day-boundary and cloud gaps.
+	const GAP_THRESHOLD_DEG = 4;
+	// Secondary gap guard for near-zenith cities (e.g. Miami): sky angular separation
+	// stays tiny across short cloud gaps there, so also check azimuth difference.
+	// Max genuine 5-min azimuth change ≈ 28° (Miami near solstice); 40° gives margin.
+	const AZ_GAP_THRESHOLD = 40;
+	// 5-minute interval in seconds
+	const INTERVAL_SEC = 5 * 60;
 
-/**
-	 * Decode Float16Array triplets [az_deg, el_deg, dni_Wm2], interpolate to
-	 * 1-minute resolution, and return Float32Array of [azNorm, elevNorm, dniNorm, el_rad]
-	 * quads for the GPU. Samples outside the azimuth window are discarded.
-	 * Elevation capped at 75° so tan() stays well-behaved for near-overhead cities.
+	/** Great-circle angular separation between two sun positions (degrees). */
+	function skyAngSep(az1: number, el1: number, az2: number, el2: number): number {
+		const r = Math.PI / 180;
+		const dot = Math.sin(el1*r)*Math.sin(el2*r) + Math.cos(el1*r)*Math.cos(el2*r)*Math.cos((az2-az1)*r);
+		return Math.acos(Math.min(1, Math.max(-1, dot))) / r;
+	}
+
+	/**
+	 * Decode the binary buffer (header + uint16 offsets + float16 DNIs), compute sun
+	 * positions analytically at full float64 precision, and return Float32Array of
+	 * [azNorm, elevNorm, dniNorm, el_rad] quads for the GPU.
+	 * Sub-step positions are computed from the actual solar ephemeris — no interpolation
+	 * artifacts from float16 quantization.
 	 */
-	function processRawData(raw: Float16Array): Float32Array {
-		const pts: number[] = [];
-		const n = Math.floor(raw.length / 3);
+	function processRawData(buf: ArrayBuffer, sigmaAzDeg: number): Float32Array {
+		const view     = new DataView(buf);
+		const startSec = view.getUint32(0, true);
+		const n        = view.getUint32(4, true);
+		const offsets  = new Uint16Array(buf, 8, n);
+		const dnis     = new Float16Array(buf, 8 + n * 2, n);
+
+		// Compute all sample positions upfront (float64, no quantization noise)
+		const azs = new Float64Array(n);
+		const els = new Float64Array(n);
+		for (let i = 0; i < n; i++) {
+			const pos = solarPosition(startSec + offsets[i] * INTERVAL_SEC, lat, lon);
+			azs[i] = pos.az;
+			els[i] = pos.el;
+		}
 
 		let maxElSeen = 0;
-		for (let i = 0; i < n; i++) if (raw[i * 3 + 1] > maxElSeen) maxElSeen = raw[i * 3 + 1];
+		for (let i = 0; i < n; i++) if (els[i] > maxElSeen) maxElSeen = els[i];
 		const maxElevDeg = maxElSeen || 66;
 		maxElevDegState = maxElevDeg;
 		const tanMaxElev = Math.tan(maxElevDeg * Math.PI / 180);
 
-		function pushPoint(az: number, el: number, dni: number) {
+		const pts: number[] = [];
+
+		function pushPoint(az: number, el: number, dniScaled: number) {
 			if (az < AZ_MIN || az > AZ_MAX) return;
 			const elClamped = Math.min(el, maxElevDeg);
 			const elRad = elClamped * Math.PI / 180;
 			pts.push(
 				(az - AZ_MIN) / AZ_RANGE,
 				Math.tan(elRad) / tanMaxElev * (1 - TOP_PADDING),
-				dni / MAX_DNI / INTERP_STEPS,
+				dniScaled,
 				elRad,
 			);
 		}
 
 		for (let i = 0; i < n; i++) {
-			const az1  = raw[i * 3];
-			const el1  = raw[i * 3 + 1];
-			const dni1 = raw[i * 3 + 2];
+			const az1 = azs[i], el1 = els[i], dni1 = dnis[i];
 
-			pushPoint(az1, el1, dni1);
+			let doInterp = false;
+			let az2 = 0, el2 = 0, dni2 = 0;
 
 			if (i < n - 1) {
-				const az2  = raw[(i + 1) * 3];
-				const el2  = raw[(i + 1) * 3 + 1];
-				const dni2 = raw[(i + 1) * 3 + 2];
+				az2 = azs[i + 1]; el2 = els[i + 1]; dni2 = dnis[i + 1];
+				doInterp = skyAngSep(az1, el1, az2, el2) < GAP_THRESHOLD_DEG
+				        && Math.abs(az2 - az1) < AZ_GAP_THRESHOLD;
+			}
 
-				// Skip interpolation across day boundaries and cloud gaps:
-				// consecutive 5-min samples never jump more than ~10° in azimuth.
-				if (Math.abs(az2 - az1) < 15) {
-					for (let t = 1; t < INTERP_STEPS; t++) {
-						const f = t / INTERP_STEPS;
-						pushPoint(
-							az1 + f * (az2 - az1),
-							el1 + f * (el2 - el1),
-							dni1 + f * (dni2 - dni1),
-						);
-					}
+			const steps = doInterp
+				? Math.max(STEPS_PER_INTERVAL, Math.ceil(Math.abs(az2 - az1) / (2 * sigmaAzDeg)))
+				: STEPS_PER_INTERVAL;
+
+			pushPoint(az1, el1, dni1 / MAX_DNI / steps);
+
+			if (doInterp) {
+				// Sub-step positions from the solar ephemeris — smooth and quantization-free.
+				const offsetDiff = offsets[i + 1] - offsets[i];
+				for (let t = 1; t < steps; t++) {
+					const f   = t / steps;
+					const pos = solarPosition(startSec + (offsets[i] + f * offsetDiff) * INTERVAL_SEC, lat, lon);
+					pushPoint(pos.az, pos.el, (dni1 + f * (dni2 - dni1)) / MAX_DNI / steps);
 				}
 			}
 		}
@@ -343,8 +377,8 @@ void main() {
 
 	// rawData is plain (not reactive) — only used as input to processRawData.
 	// splatCache is reactive so the render effect re-runs when it changes.
-	let rawData: Float16Array | null = null;
-	let rawKey = '';
+	let rawData: ArrayBuffer | null = null;
+	let rawKey = $state('');
 	let splatCache    = $state<Float32Array | null>(null);
 	let loadingMsg    = $state<string | null>(null);
 	let maxElevDegState = $state(66);
@@ -365,33 +399,46 @@ void main() {
 	$effect(() => {
 		const p = period;
 		const c = city;
-		const key = `${c}_${p}`;
 		const ac = new AbortController();
 
-		if (key !== rawKey) {
-			loadingMsg = 'Loading…';
-			splatCache = null;
+		loadingMsg = 'Loading…';
+		splatCache = null;
+		rawData    = null;
 
-			(async () => {
-				try {
-					const resp = await fetch(binUrl(p), { signal: ac.signal });
-					if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-					rawData    = new Float16Array(await resp.arrayBuffer());
-					rawKey     = key;
-					splatCache = processRawData(rawData);
-					onsplatsloaded?.(splatCache.length / 4);
-					loadingMsg = null;
-				} catch (err) {
-					if ((err as Error).name === 'AbortError') return;
-					console.error('Solargraph fetch failed:', err);
-					loadingMsg = 'Failed to load data';
-					rawData    = null;
-					rawKey     = '';
-				}
-			})();
-		}
+		(async () => {
+			try {
+				const resp = await fetch(binUrl(p), { signal: ac.signal });
+				if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+				rawData = await resp.arrayBuffer();
+				rawKey  = `${c}_${p}`;  // reactive trigger → fires process effect
+			} catch (err) {
+				if ((err as Error).name === 'AbortError') return;
+				console.error('Solargraph fetch failed:', err);
+				loadingMsg = 'Failed to load data';
+			}
+		})();
 
 		return () => ac.abort();
+	});
+
+	// Process effect: re-runs when new data arrives (rawKey), canvas resizes (width),
+	// or splatScale changes — so adaptive step count stays calibrated to rendering params.
+	$effect(() => {
+		const key = rawKey;
+		const w   = width;
+		const cs  = splatScale;
+
+		if (!rawData || w === 0) return;
+
+		// Sigma in azimuth-degrees: how wide one splat is in the projected space.
+		// pixPerMetre → sigma_px (before splatScale) → sigma_px * cs → degrees via /w*AZ_RANGE
+		const pixPerMetre = w / ((AZ_RANGE * Math.PI / 180) * P);
+		const sigmaAzDeg  = Math.max(1.5, R_TOTAL * pixPerMetre) * cs / w * AZ_RANGE;
+
+		const processed = processRawData(rawData, sigmaAzDeg);
+		splatCache = processed;
+		untrack(() => onsplatsloaded?.(processed.length / 4));
+		loadingMsg = null;
 	});
 
 	// Renderer: re-runs on canvas size, splatScale, exposureScale, maxInstances, or splatCache

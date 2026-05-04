@@ -152,13 +152,18 @@ def fetch_period(start: datetime, end: datetime, cfg: dict, city: dict) -> pd.Da
 
 # ── Binary export ─────────────────────────────────────────────────────────────
 
-def to_binary(df: pd.DataFrame, cfg: dict, city: dict, bin_path: Path) -> None:
+def to_binary(df: pd.DataFrame, cfg: dict, city: dict, bin_path: Path, period_start: datetime) -> None:
     """
-    Compute sun position, filter to above-horizon daylight samples, and write
-    a packed float16 binary: [azimuth_deg, apparent_elevation_deg, dni_Wm2]
-    per sample, row-major.  Readable in the browser as Float16Array.
+    Filter to above-horizon, above-threshold daylight samples and write a compact binary:
+      Header : [uint32 period_start_unix_sec] [uint32 N]
+      Offsets: uint16[N]  — sample index from period_start in 5-min units
+      DNI    : float16[N] — direct normal irradiance (W/m²)
+
+    Sun position is NOT stored; the browser recomputes it analytically per sample.
     """
-    print("  Computing sun position (pvlib)...", end=" ", flush=True)
+    print("  Filtering samples...", end=" ", flush=True)
+
+    # Need apparent elevation to filter night/horizon — still compute solpos for masking only.
     solpos = pvlib.solarposition.get_solarposition(
         time=df.index,
         latitude=city["latitude"],
@@ -167,7 +172,6 @@ def to_binary(df: pd.DataFrame, cfg: dict, city: dict, bin_path: Path) -> None:
     )
 
     df = df.rename(columns=lambda c: c.lower().replace(" ", "_"))
-    df["azimuth"]            = solpos["azimuth"]
     df["apparent_elevation"] = solpos["apparent_elevation"]
 
     threshold = cfg.get("clearsky_threshold", 0.15)
@@ -179,17 +183,27 @@ def to_binary(df: pd.DataFrame, cfg: dict, city: dict, bin_path: Path) -> None:
         )
 
     mask   = (df["apparent_elevation"] > 0) & (df["dni"] > 0) & (clearsky_ratio >= threshold)
-    kept   = df.loc[mask, ["azimuth", "apparent_elevation", "dni"]]
+    kept   = df.loc[mask, ["dni"]]
     cloudy = ((df["apparent_elevation"] > 0) & (df["dni"] > 0) & (clearsky_ratio < threshold)).sum()
     dropped = (~mask).sum() - cloudy
-
     print(f"{len(kept):,} samples kept, {cloudy:,} cloudy filtered, {dropped:,} below-horizon/night dropped")
 
-    data = kept.values.astype(np.float16)  # shape (N, 3)
+    # Compute 5-min slot offsets from period_start
+    interval_sec = cfg.get("interval", 5) * 60
+    start_unix   = int(period_start.timestamp())
+    sample_unix  = ((kept.index - pd.Timestamp("1970-01-01", tz="UTC")) // pd.Timedelta("1s")).values
+    offsets      = np.round((sample_unix - start_unix) / interval_sec).astype(np.int32).astype(np.uint16)
+    dnis         = kept["dni"].values.astype(np.float16)
+
+    n = len(offsets)
     bin_path.parent.mkdir(parents=True, exist_ok=True)
-    data.tofile(bin_path)
+    with open(bin_path, "wb") as f:
+        np.array([start_unix, n], dtype="<u4").tofile(f)  # 8-byte header
+        offsets.tofile(f)                                   # N × 2 bytes
+        dnis.tofile(f)                                      # N × 2 bytes
+
     kb = bin_path.stat().st_size / 1024
-    print(f"  Wrote {len(kept):,} × 3 float16 → {bin_path} ({kb:.0f} KB)")
+    print(f"  Wrote header + {n:,} × (uint16 offset + float16 DNI) → {bin_path} ({kb:.0f} KB)")
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
@@ -201,7 +215,7 @@ def run_period(period: str, cfg: dict, city: dict, out_dir: Path) -> None:
 
     df = fetch_period(start, end, cfg, city)
     bin_path = out_dir / f"{city['name']}_{period}.bin"
-    to_binary(df, cfg, city, bin_path)
+    to_binary(df, cfg, city, bin_path, period_start=start)
 
 
 def main():
