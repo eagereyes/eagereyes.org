@@ -58,7 +58,7 @@ Static content pages (about, contact, license, pie-charts, subscribe) live in `c
 | `/photos/<slug>` | Single gallery with lightbox |
 | `/photos/feed` | RSS feed for galleries |
 | `/app/zipscribble-map` | Interactive ZIPScribble map |
-| `/solargraph` | Interactive solargraph simulation |
+| `/app/solargraph` | Interactive solargraph simulation |
 | `/search` | Full-text search |
 | `/<slug>` or `/<prefix>/<slug>` | Catch-all: serves content pages or 301 redirects |
 
@@ -176,7 +176,7 @@ Auto-newsletter: `.github/workflows/deploy.yml` has a `notify` job that runs aft
 
 ### Solargraph
 
-The interactive solargraph lives at `/solargraph` (`src/routes/solargraph/`) and `src/lib/solargraph/`.
+The interactive solargraph lives at `/app/solargraph` (`src/routes/app/solargraph/`) and `src/lib/solargraph/`.
 
 - `+page.svelte` — city/period selectors, playback controls, passes `lat`/`lon` to canvas
 - `SolargraphCanvas.svelte` — WebGL2 renderer; two-pass Gaussian splat accumulation into RGBA32F FBO, then exponential tone-map to screen
