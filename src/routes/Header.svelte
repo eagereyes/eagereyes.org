@@ -54,8 +54,8 @@
 			<li class="dropdown desktop-only" aria-current={page.url.pathname.startsWith('/app') ? 'page' : undefined}>
 				<button class="dropdown-toggle" aria-haspopup="true">Apps ▾</button>
 				<ul class="dropdown-menu">
-					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
 					<li><a href="/app/solargraph">Solargraph</a></li>
+					<li><a href="/app/zipscribble-map">ZIPScribble Map</a></li>
 				</ul>
 			</li>
 			<li class="desktop-only" aria-current={page.url.pathname.startsWith('/video') ? 'page' : undefined}>

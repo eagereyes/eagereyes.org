@@ -40,14 +40,18 @@
 	let playHour       = $state(0);
 	let isPlaying      = $state(false);
 	let rafHandle: number | null = null;
+	let shouldAutoplay = false;
 
 	const totalHours   = $derived(Math.ceil(totalInstances / QUADS_PER_HOUR));
 	const maxInstances = $derived(playHour >= totalHours ? Infinity : playHour * QUADS_PER_HOUR);
 
 	function onSplatsLoaded(total: number) {
 		totalInstances = total;
-		playHour = 0;
-		startPlay();
+		if (shouldAutoplay) {
+			shouldAutoplay = false;
+			playHour = 0;
+			startPlay();
+		}
 	}
 
 	function stopPlay() {
@@ -82,6 +86,7 @@
 		stopPlay();
 		totalInstances = 0;
 		playHour = 0;
+		shouldAutoplay = true;
 	});
 
 	function parsePeriod(p: string): { year: number; season: 'summer' | 'winter' } {
@@ -109,6 +114,8 @@
 </svelte:head>
 
 <h1>Solargraph</h1>
+
+<p>Simulated, interactive solargraph showing the sun's path across the sky from solstice to solstice.</p>
 
 <div class="solargraph-page">
 	<div class="toolbar">

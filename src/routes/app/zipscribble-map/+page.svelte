@@ -158,7 +158,7 @@
 		color: white;
 	}
 
-.map-container {
+	.map-container {
 		flex: 1;
 		min-height: 0;
 	}
