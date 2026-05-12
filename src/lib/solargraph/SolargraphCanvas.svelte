@@ -418,13 +418,13 @@ void main() {
 			const pos = solarPosition(ts, lat, lon);
 			const dni = dnis[i];
 
-			// Skip night, zero irradiance, and very low DNI
-			// Use high DNI threshold to select only the clearest, best-quality observations
-			if (pos.el <= 0 || dni < 300) continue;
-
-			// Keep the sample closest to :30 (middle of hour) for this day:hour
-			const existing = bestByHour.get(hourKey);
+			// Reject nighttime or samples more than one 5-min interval from :30.
+			// Natural data alignment always lands within 2–3 min of :30; anything
+			// farther means the sun rises/sets within this UTC hour, so that day:hour
+			// is omitted rather than contributing an off-curve sunrise/sunset position.
 			const minuteDist = Math.abs(minute - 30);
+			if (pos.el <= 0 || minuteDist > 4) continue;
+			const existing = bestByHour.get(hourKey);
 			const existingMinuteDist = existing ? Math.abs((existing.ts % 3600) / 60 - 30) : Infinity;
 			if (!existing || minuteDist < existingMinuteDist) {
 				bestByHour.set(hourKey, { ts, az: pos.az, el: pos.el, dni });
