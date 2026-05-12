@@ -3,7 +3,7 @@
 	import { untrack } from 'svelte';
 	import { solarPosition } from '$lib/solargraph/solarPosition.js';
 
-	let { period, city = 'seattle', lat = 47.6, lon = -122.3, splatScale = 1.0, exposureScale = 1.0, maxInstances = Infinity, onsplatsloaded } = $props();
+	let { summerPeriod, winterPeriod = null, city = 'seattle', lat = 47.6, lon = -122.3, splatScale = 1.0, exposureScale = 1.0, maxInstances = Infinity, showAnalemma = false, onsplatsloaded } = $props();
 
 	// Azimuth projection window: 270° centered on South (180°)
 	const AZ_MIN   = 45;   // NE
@@ -222,6 +222,55 @@ void main() {
 		return `${BASE_URL}/${city}_${p}.bin`;
 	}
 
+	/**
+	 * Combine two binary datasets (summer + winter) into a single buffer.
+	 * Assumes both buffers have the same structure and appends winter samples to summer.
+	 */
+	function combineBinaryData(sumBuf: ArrayBuffer, winBuf: ArrayBuffer): ArrayBuffer {
+		const sumView = new DataView(sumBuf);
+		const winView = new DataView(winBuf);
+		const sumStartSec = sumView.getUint32(0, true);
+		const sumN = sumView.getUint32(4, true);
+		const winStartSec = winView.getUint32(0, true);
+		const winN = winView.getUint32(4, true);
+
+		// Combined: summer header + summer data + winter header + winter data
+		// Use Uint32 for offsets to avoid overflow when combining ~365 days of data
+		// New header: start from summer, combine all N values
+		const combinedN = sumN + winN;
+		const combinedSize = 8 + combinedN * 4 + combinedN * 2;  // header (8) + offsets (N*4 as Uint32) + dnis (N*2)
+		const combined = new ArrayBuffer(combinedSize);
+		const combinedView = new DataView(combined);
+
+		// Write combined header
+		combinedView.setUint32(0, sumStartSec, true);  // Use summer start time
+		combinedView.setUint32(4, combinedN, true);
+
+		// Copy summer offsets (promoted to Uint32) and DNIs
+		const sumOffsets = new Uint16Array(sumBuf, 8, sumN);
+		const sumDnis = new Float16Array(sumBuf, 8 + sumN * 2, sumN);
+		const combinedOffsets = new Uint32Array(combined, 8, combinedN);
+		const combinedDnis = new Float16Array(combined, 8 + combinedN * 4, combinedN);
+
+		// Promote summer offsets from Uint16 to Uint32
+		for (let i = 0; i < sumN; i++) {
+			combinedOffsets[i] = sumOffsets[i];
+		}
+		combinedDnis.set(sumDnis);
+
+		// Copy winter offsets (adjusted for winter start time) and DNIs
+		const winOffsets = new Uint16Array(winBuf, 8, winN);
+		const winDnis = new Float16Array(winBuf, 8 + winN * 2, winN);
+		const offsetDiff = Math.round((winStartSec - sumStartSec) / INTERVAL_SEC);
+
+		for (let i = 0; i < winN; i++) {
+			combinedOffsets[sumN + i] = winOffsets[i] + offsetDiff;
+			combinedDnis[sumN + i] = winDnis[i];
+		}
+
+		return combined;
+	}
+
 	// 5-minute NSRDB data: minimum sub-steps per interval (= 1 min resolution).
 	const STEPS_PER_INTERVAL = 5;
 	// Treat consecutive samples as a gap when sky angular separation exceeds this.
@@ -241,10 +290,23 @@ void main() {
 		return Math.acos(Math.min(1, Math.max(-1, dot))) / r;
 	}
 
+	function pushPoint(az: number, el: number, dniScaled: number, maxElevDeg: number, tanMaxElev: number, out: number[]) {
+		if (az < AZ_MIN || az > AZ_MAX) return;
+		const elClamped = Math.min(el, maxElevDeg);
+		const elRad = elClamped * Math.PI / 180;
+		out.push(
+			(az - AZ_MIN) / AZ_RANGE,
+			Math.tan(elRad) / tanMaxElev * (1 - TOP_PADDING),
+			dniScaled,
+			elRad,
+		);
+	}
+
 	/**
-	 * Decode the binary buffer (header + uint16 offsets + float16 DNIs), compute sun
+	 * Decode the binary buffer (header + offsets + float16 DNIs), compute sun
 	 * positions analytically at full float64 precision, and return Float32Array of
 	 * [azNorm, elevNorm, dniNorm, el_rad] quads for the GPU.
+	 * Handles both Uint16 offsets (single period) and Uint32 offsets (combined period).
 	 * Sub-step positions are computed from the actual solar ephemeris — no interpolation
 	 * artifacts from float16 quantization.
 	 */
@@ -252,8 +314,17 @@ void main() {
 		const view     = new DataView(buf);
 		const startSec = view.getUint32(0, true);
 		const n        = view.getUint32(4, true);
-		const offsets  = new Uint16Array(buf, 8, n);
-		const dnis     = new Float16Array(buf, 8 + n * 2, n);
+
+		// Detect offset format: Uint16 (single) or Uint32 (combined)
+		// Single: 8 + n*2 + n*2 = 8 + 4n bytes
+		// Combined: 8 + n*4 + n*2 = 8 + 6n bytes
+		const isUint32 = buf.byteLength === 8 + n * 6;
+		const offsets = isUint32
+			? new Uint32Array(buf, 8, n)
+			: new Uint16Array(buf, 8, n);
+		const dnis = isUint32
+			? new Float16Array(buf, 8 + n * 4, n)
+			: new Float16Array(buf, 8 + n * 2, n);
 
 		// Compute all sample positions upfront (float64, no quantization noise)
 		const azs = new Float64Array(n);
@@ -272,18 +343,6 @@ void main() {
 
 		const pts: number[] = [];
 
-		function pushPoint(az: number, el: number, dniScaled: number) {
-			if (az < AZ_MIN || az > AZ_MAX) return;
-			const elClamped = Math.min(el, maxElevDeg);
-			const elRad = elClamped * Math.PI / 180;
-			pts.push(
-				(az - AZ_MIN) / AZ_RANGE,
-				Math.tan(elRad) / tanMaxElev * (1 - TOP_PADDING),
-				dniScaled,
-				elRad,
-			);
-		}
-
 		for (let i = 0; i < n; i++) {
 			const az1 = azs[i], el1 = els[i], dni1 = dnis[i];
 
@@ -300,7 +359,7 @@ void main() {
 				? Math.max(STEPS_PER_INTERVAL, Math.ceil(Math.abs(az2 - az1) / (2 * sigmaAzDeg)))
 				: STEPS_PER_INTERVAL;
 
-			pushPoint(az1, el1, dni1 / MAX_DNI / steps);
+			pushPoint(az1, el1, dni1 / MAX_DNI / steps, maxElevDeg, tanMaxElev, pts);
 
 			if (doInterp) {
 				// Sub-step positions from the solar ephemeris — smooth and quantization-free.
@@ -308,9 +367,74 @@ void main() {
 				for (let t = 1; t < steps; t++) {
 					const f   = t / steps;
 					const pos = solarPosition(startSec + (offsets[i] + f * offsetDiff) * INTERVAL_SEC, lat, lon);
-					pushPoint(pos.az, pos.el, (dni1 + f * (dni2 - dni1)) / MAX_DNI / steps);
+					pushPoint(pos.az, pos.el, (dni1 + f * (dni2 - dni1)) / MAX_DNI / steps, maxElevDeg, tanMaxElev, pts);
 				}
 			}
+		}
+
+		return new Float32Array(pts);
+	}
+
+	/**
+	 * Extract analemma points: one point per whole hour (00:00, 01:00, etc) per calendar day.
+	 * Skips points with no sun (el <= 0) or zero irradiance.
+	 */
+	function processAnalemmaData(buf: ArrayBuffer): Float32Array {
+		const view     = new DataView(buf);
+		const startSec = view.getUint32(0, true);
+		const n        = view.getUint32(4, true);
+
+		// Detect offset format: Uint16 (single) or Uint32 (combined)
+		const isUint32 = buf.byteLength === 8 + n * 6;
+		const offsets = isUint32
+			? new Uint32Array(buf, 8, n)
+			: new Uint16Array(buf, 8, n);
+		const dnis = isUint32
+			? new Float16Array(buf, 8 + n * 4, n)
+			: new Float16Array(buf, 8 + n * 2, n);
+
+		// Find max elevation
+		let maxElSeen = 0;
+		for (let i = 0; i < n; i++) {
+			const pos = solarPosition(startSec + offsets[i] * INTERVAL_SEC, lat, lon);
+			if (pos.el > maxElSeen) maxElSeen = pos.el;
+		}
+		const maxElevDeg = maxElSeen || 66;
+		maxElevDegState = maxElevDeg;
+		const tanMaxElev = Math.tan(maxElevDeg * Math.PI / 180);
+
+		// Map of day:hour → { ts, az, el, dni } — keep the sample closest to mid-hour for each day:hour
+		const bestByHour = new Map<string, { ts: number; az: number; el: number; dni: number }>();
+
+		// First pass: collect all valid samples, prefer those close to the middle of the hour
+		for (let i = 0; i < n; i++) {
+			const ts = startSec + offsets[i] * INTERVAL_SEC;
+			const d = new Date(ts * 1000);
+			const dayStr = d.toISOString().slice(0, 10);  // YYYY-MM-DD
+			const hour = d.getUTCHours();
+			const minute = d.getUTCMinutes();
+			const hourKey = `${dayStr}:${hour}`;
+
+			const pos = solarPosition(ts, lat, lon);
+			const dni = dnis[i];
+
+			// Skip night, zero irradiance, and very low DNI
+			// Use high DNI threshold to select only the clearest, best-quality observations
+			if (pos.el <= 0 || dni < 300) continue;
+
+			// Keep the sample closest to :30 (middle of hour) for this day:hour
+			const existing = bestByHour.get(hourKey);
+			const minuteDist = Math.abs(minute - 30);
+			const existingMinuteDist = existing ? Math.abs((existing.ts % 3600) / 60 - 30) : Infinity;
+			if (!existing || minuteDist < existingMinuteDist) {
+				bestByHour.set(hourKey, { ts, az: pos.az, el: pos.el, dni });
+			}
+		}
+
+		// Second pass: emit the sample for each day:hour
+		const pts: number[] = [];
+		for (const { az, el, dni } of bestByHour.values()) {
+			pushPoint(az, el, dni / MAX_DNI, maxElevDeg, tanMaxElev, pts);
 		}
 
 		return new Float32Array(pts);
@@ -394,10 +518,11 @@ void main() {
 		return () => observer.disconnect();
 	});
 
-	// Fetch effect: re-runs on period or city change.
-	// rawData is plain so reading it here creates no reactive dependency.
+	// Fetch effect: re-runs on period pair or city change.
+	// Loads summer, and optionally winter dataset and combines them.
 	$effect(() => {
-		const p = period;
+		const sp = summerPeriod;
+		const wp = winterPeriod;
 		const c = city;
 		const ac = new AbortController();
 
@@ -407,10 +532,25 @@ void main() {
 
 		(async () => {
 			try {
-				const resp = await fetch(binUrl(p), { signal: ac.signal });
-				if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
-				rawData = await resp.arrayBuffer();
-				rawKey  = `${c}_${p}`;  // reactive trigger → fires process effect
+				if (wp === null) {
+					// Load only summer period
+					const respSum = await fetch(binUrl(sp), { signal: ac.signal });
+					if (!respSum.ok) throw new Error(`HTTP ${respSum.status}`);
+					rawData = await respSum.arrayBuffer();
+				} else {
+					// Load both summer and winter, combine them
+					const [respSum, respWin] = await Promise.all([
+						fetch(binUrl(sp), { signal: ac.signal }),
+						fetch(binUrl(wp), { signal: ac.signal }),
+					]);
+					if (!respSum.ok) throw new Error(`HTTP ${respSum.status} (summer)`);
+					if (!respWin.ok) throw new Error(`HTTP ${respWin.status} (winter)`);
+
+					const sumData = await respSum.arrayBuffer();
+					const winData = await respWin.arrayBuffer();
+					rawData = combineBinaryData(sumData, winData);
+				}
+				rawKey = `${c}_${sp}_${wp}`;  // reactive trigger → fires process effect
 			} catch (err) {
 				if ((err as Error).name === 'AbortError') return;
 				console.error('Solargraph fetch failed:', err);
@@ -422,7 +562,7 @@ void main() {
 	});
 
 	// Process effect: re-runs when new data arrives (rawKey), canvas resizes (width),
-	// or splatScale changes — so adaptive step count stays calibrated to rendering params.
+	// or splatScale changes — so adaptive step count stays calibrated.
 	$effect(() => {
 		const key = rawKey;
 		const w   = width;
@@ -430,14 +570,26 @@ void main() {
 
 		if (!rawData || w === 0) return;
 
+		// Only process when not in analemma mode; analemma uses the same splatCache
+		if (showAnalemma) return;
+
 		// Sigma in azimuth-degrees: how wide one splat is in the projected space.
 		// pixPerMetre → sigma_px (before splatScale) → sigma_px * cs → degrees via /w*AZ_RANGE
 		const pixPerMetre = w / ((AZ_RANGE * Math.PI / 180) * P);
 		const sigmaAzDeg  = Math.max(1.5, R_TOTAL * pixPerMetre) * cs / w * AZ_RANGE;
-
 		const processed = processRawData(rawData, sigmaAzDeg);
 		splatCache = processed;
 		untrack(() => onsplatsloaded?.(processed.length / 4));
+		loadingMsg = null;
+	});
+
+	// Analemma rendering effect: separate from normal processing to avoid resetting playback
+	$effect(() => {
+		const ana = showAnalemma;
+		if (!rawData || !ana) return;
+
+		const processed = processAnalemmaData(rawData);
+		splatCache = processed;
 		loadingMsg = null;
 	});
 

@@ -18,21 +18,33 @@
 		{ name: 'seattle',     label: 'Seattle, WA',      lat:  47.60, lon: -122.30 },
 	];
 
-	const PERIODS = [
-		'summer2020', 'winter2020',
-		'summer2021', 'winter2021',
-		'summer2022', 'winter2022',
-		'summer2023', 'winter2023',
-		'summer2024',
+	const PERIOD_PAIRS = [
+		{ key: '2020-21', summer: 'summer2020', winter: 'winter2020' },
+		{ key: '2021-22', summer: 'summer2021', winter: 'winter2021' },
+		{ key: '2022-23', summer: 'summer2022', winter: 'winter2022' },
+		{ key: '2023-24', summer: 'summer2023', winter: 'winter2023' },
 	];
 
 	const fmt = new Intl.DateTimeFormat('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
 
 	let city          = $state('seattle');
 	const selectedCity = $derived(CITIES.find(c => c.name === city) ?? CITIES[11]);
-	let period        = $state('summer2024');
+	let periodPair    = $state('2023-24');
+	let periodType    = $state('full');  // 'full' for year pair, 'summer' or 'winter' for 6-month
 	let splatScalePct = $state(100);
 	let exposureEV    = $state(0);
+	let showAnalemma  = $state(false);
+
+	const selectedPeriodPair = $derived(PERIOD_PAIRS.find(p => p.key === periodPair) ?? PERIOD_PAIRS[PERIOD_PAIRS.length - 1]);
+
+	// Determine which periods to use based on periodType
+	// Note: Canvas always loads summerPeriod; winterPeriod is optional for combining.
+	// When periodType='winter', we pass winter data as summerPeriod with winterPeriod=null
+	const activeSummerPeriod = $derived.by(() => {
+		if (periodType === 'winter') return selectedPeriodPair.winter;
+		return selectedPeriodPair.summer;
+	});
+	const activeWinterPeriod = $derived(periodType === 'full' ? selectedPeriodPair.winter : null);
 
 	// Playback — 60 processed quads ≈ 1 daylight hour (1-min interpolation)
 	const QUADS_PER_HOUR = 60;
@@ -82,29 +94,29 @@
 
 	// Reset playback when city or period changes
 	$effect(() => {
-		city; period;
+		city; periodPair;
 		stopPlay();
 		totalInstances = 0;
 		playHour = 0;
 		shouldAutoplay = true;
 	});
 
-	function parsePeriod(p: string): { year: number; season: 'summer' | 'winter' } {
-		const season = p.startsWith('summer') ? 'summer' : 'winter';
-		const year = parseInt(p.replace(/^(summer|winter)/, ''));
-		return { year, season };
-	}
-
-	function formatPeriod(p: string): string {
-		const { year, season } = parsePeriod(p);
-		if (season === 'summer') return `Summer/Fall ${year}`;
-		return `Winter/Spring ${year}–${String(year + 1).slice(2)}`;
-	}
-
 	const rangeLabel = $derived.by(() => {
-		const { year, season } = parsePeriod(period);
-		const { start, end } = getDateRange(year, season);
-		return `${fmt.format(start)} → ${fmt.format(end)}`;
+		const pp = selectedPeriodPair;
+		const summerYear = parseInt(pp.summer.slice(6));
+		if (periodType === 'full') {
+			const summerStart = getDateRange(summerYear, 'summer').start;
+			const winterYear = parseInt(pp.winter.slice(6));
+			const winterEnd = getDateRange(winterYear, 'winter').end;
+			return `${fmt.format(summerStart)} → ${fmt.format(winterEnd)}`;
+		} else if (periodType === 'summer') {
+			const { start, end } = getDateRange(summerYear, 'summer');
+			return `${fmt.format(start)} → ${fmt.format(end)}`;
+		} else {
+			const winterYear = parseInt(pp.winter.slice(6));
+			const { start, end } = getDateRange(winterYear, 'winter');
+			return `${fmt.format(start)} → ${fmt.format(end)}`;
+		}
 	});
 </script>
 
@@ -125,10 +137,15 @@
 					<option value={c.name}>{c.label}</option>
 				{/each}
 			</select>
-			<select bind:value={period} aria-label="Select period">
-				{#each PERIODS as p}
-					<option value={p}>{formatPeriod(p)}</option>
+			<select bind:value={periodPair} aria-label="Select period">
+				{#each PERIOD_PAIRS as pp}
+					<option value={pp.key}>{pp.key}</option>
 				{/each}
+			</select>
+			<select bind:value={periodType} aria-label="Select period type" disabled={showAnalemma}>
+				<option value="full">Full Year</option>
+				<option value="summer">Summer/Fall</option>
+				<option value="winter">Winter/Spring</option>
 			</select>
 			<select bind:value={splatScalePct} aria-label="Splat size">
 				{#each [50, 100, 150, 200] as pct}
@@ -140,13 +157,20 @@
 					<option value={ev}>{ev > 0 ? '+' : ''}{ev} EV</option>
 				{/each}
 			</select>
+			<label class="analemma-toggle">
+				<input type="checkbox" bind:checked={showAnalemma} />
+				Analemma
+			</label>
 		</div>
 		<span class="range-label">{rangeLabel}</span>
 	</div>
 	<div class="canvas-container">
-		<SolargraphCanvas {period} {city} lat={selectedCity.lat} lon={selectedCity.lon}
+		<SolargraphCanvas
+			summerPeriod={activeSummerPeriod}
+			winterPeriod={activeWinterPeriod}
+			{city} lat={selectedCity.lat} lon={selectedCity.lon}
 			splatScale={splatScalePct / 200} exposureScale={Math.pow(2, exposureEV)}
-			{maxInstances} onsplatsloaded={onSplatsLoaded} />
+			{maxInstances} {showAnalemma} onsplatsloaded={onSplatsLoaded} />
 	</div>
 	<div class="playback">
 		<button onclick={isPlaying ? stopPlay : startPlay} disabled={totalInstances === 0}
@@ -231,5 +255,16 @@
 		cursor: pointer;
 	}
 
+	.analemma-toggle {
+		display: flex;
+		align-items: center;
+		gap: 0.4em;
+		cursor: pointer;
+		font-size: 0.85rem;
+	}
+
+	.analemma-toggle input[type='checkbox'] {
+		cursor: pointer;
+	}
 
 </style>
