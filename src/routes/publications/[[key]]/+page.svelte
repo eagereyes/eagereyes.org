@@ -9,6 +9,18 @@
 		return key.split(':').at(-1)!.slice(0, 4);
 	}
 
+	let paperSchema = $derived(currentPaper.title.length ? {
+		'@context': 'https://schema.org',
+		'@type': 'ScholarlyArticle',
+		headline: currentPaper.title,
+		...(currentPaper.abstract ? { description: currentPaper.abstract } : {}),
+		author: currentPaper.author.split(' and ').map(a => ({ '@type': 'Person', name: a.trim() })),
+		datePublished: year(currentPaper._key),
+		isPartOf: { '@type': 'Periodical', name: currentPaper.venue },
+		url: `https://eagereyes.org/publications/${currentPaper._key.replaceAll(':', '-')}`,
+		...(currentPaper.doi ? { identifier: `https://doi.org/${currentPaper.doi}` } : {})
+	} : null);
+
 	function authors(author: string) {
 		return author.split(' and ').join(', ');
 	}
@@ -113,6 +125,7 @@
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://eagereyes.org/publications/" />
 {/if}
+{#if paperSchema}{@html `<script type="application/ld+json">${JSON.stringify(paperSchema)}</script>`}{/if}
 </svelte:head>
 
 {#if currentPaper.title.length}
