@@ -8,9 +8,11 @@
 	let { data } = $props();
 	const posts: BlogPost[] = $derived(data.posts);
 	const pages: SearchPage[] = $derived(data.pages);
+	const totalCount = $derived(posts.length + pages.length);
 
 	let query = $state('');
 	let results: SearchResult[] = $state([]);
+	let searched = $state(false);
 	let index: any;
 
 	onMount(async () => {
@@ -42,9 +44,31 @@
 		}
 	});
 
+	function escapeHtml(text: string): string {
+		return text
+			.replace(/&/g, '&amp;')
+			.replace(/</g, '&lt;')
+			.replace(/>/g, '&gt;')
+			.replace(/"/g, '&quot;');
+	}
+
+	function escapeRegex(s: string): string {
+		return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+	}
+
+	function highlight(text: string, q: string): string {
+		const safe = escapeHtml(text);
+		const terms = q.trim().split(/\s+/).filter(Boolean).map(escapeRegex);
+		if (!terms.length) return safe;
+		const pattern = new RegExp(`(${terms.join('|')})`, 'gi');
+		return safe.replace(pattern, '<mark>$1</mark>');
+	}
+
 	function runSearch() {
+		searched = true;
 		if (!query.trim() || !index) {
 			results = [];
+			searched = false;
 			return;
 		}
 		const raw = index.search(query, { enrich: true });
@@ -81,19 +105,22 @@
 	/>
 
 	{#if results.length > 0}
+		<p class="result-count">{results.length} result{results.length !== 1 ? 's' : ''} for "<em>{query}</em>"</p>
 		<ul>
 			{#each results as result}
 				<li>
-					<a href={resultUrl(result)}>{result.title}</a>
+					<a href={resultUrl(result)}>{@html highlight(result.title, query)}</a>
 					{#if result.date}<span class="date">{result.date.slice(0, 10)}</span>{/if}
 					{#if result.description}
-						<p>{result.description}</p>
+						<p>{@html highlight(result.description, query)}</p>
 					{/if}
 				</li>
 			{/each}
 		</ul>
-	{:else if query.trim()}
-		<p class="no-results">No results for "{query}"</p>
+	{:else if searched && query.trim()}
+		<p class="empty-state">No results for "<em>{query}</em>" — try different keywords or check your spelling.</p>
+	{:else if !query.trim()}
+		<p class="empty-state">Search across {totalCount} posts and pages.</p>
 	{/if}
 </div>
 
@@ -112,6 +139,12 @@
 		background: var(--color-bg-1);
 		color: var(--color-text);
 		margin-bottom: 1.5rem;
+	}
+
+	.result-count {
+		font-size: 0.9rem;
+		opacity: 0.65;
+		margin-bottom: 1rem;
 	}
 
 	ul {
@@ -140,7 +173,14 @@
 		font-size: 0.9rem;
 	}
 
-	.no-results {
+	.empty-state {
 		opacity: 0.6;
+	}
+
+	:global(mark) {
+		background: color-mix(in srgb, var(--color-theme-1) 25%, transparent);
+		color: inherit;
+		border-radius: 2px;
+		padding: 0 1px;
 	}
 </style>
