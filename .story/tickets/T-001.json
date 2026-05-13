@@ -1,0 +1,12 @@
+{
+  "blockedBy": [],
+  "completedDate": "2026-05-13",
+  "createdDate": "2026-05-13",
+  "description": "",
+  "id": "T-001",
+  "order": 10,
+  "phase": "p4",
+  "status": "complete",
+  "title": "Audit and add missing Open Graph / meta description tags across all page types",
+  "type": "chore"
+}

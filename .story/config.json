@@ -1,0 +1,21 @@
+{
+  "features": {
+    "handovers": true,
+    "issues": true,
+    "reviews": true,
+    "roadmap": true,
+    "tickets": true
+  },
+  "language": "typescript",
+  "project": "eagereyes",
+  "type": "webapp",
+  "version": 2,
+  "recipeOverrides": {
+    "maxTicketsPerSession": 10,
+    "handoverInterval": 3,
+    "reviewBackends": [
+      "lenses",
+      "agent"
+    ]
+  }
+}

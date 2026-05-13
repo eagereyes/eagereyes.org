@@ -1,0 +1,12 @@
+{
+  "blockedBy": [],
+  "completedDate": null,
+  "createdDate": "2026-05-13",
+  "description": "",
+  "id": "T-005",
+  "order": 50,
+  "phase": "p4",
+  "status": "open",
+  "title": "Improve search UX: highlight matched terms, better empty-state messaging",
+  "type": "task"
+}
