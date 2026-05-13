@@ -178,7 +178,7 @@ Auto-newsletter: `.github/workflows/deploy.yml` has a `notify` job that runs aft
 
 The interactive solargraph lives at `/app/solargraph` (`src/routes/app/solargraph/`) and `src/lib/solargraph/`.
 
-- `+page.svelte` — city/period selectors, playback controls, passes `lat`/`lon` to canvas
+- `+page.svelte` — city/period selectors (CITIES, PERIOD_PAIRS), period-type toggle (full/summer/winter), playback controls, analemma checkbox; passes `lat`/`lon` to canvas
 - `SolargraphCanvas.svelte` — WebGL2 renderer; two-pass Gaussian splat accumulation into RGBA32F FBO, then exponential tone-map to screen
 - `solarPosition.ts` — NOAA solar position algorithm (~0.01° accuracy, 2000–2050); returns azimuth (N=0°, clockwise) and refraction-corrected elevation
 
@@ -191,6 +191,15 @@ Bytes 8+2N..: float16 LE × N — DNI values (W/m²)
 ```
 Sun position is **not stored** — it is computed analytically in the browser from the timestamp. This avoids float16 quantization noise (~0.125° azimuth).
 
+**Combined (full-year) binary format** — produced in-browser by `combineBinaryData()` when both summer and winter periods are loaded. Uses **Uint32** for offsets (not Uint16) because the winter offset relative to the summer start exceeds 65 535:
+```
+Bytes 0–3       : uint32 LE — summer period start (Unix seconds)
+Bytes 4–7       : uint32 LE — combined N (sumN + winN)
+Bytes 8..       : uint32 LE × N — sample offsets (5-min units from summer start)
+Bytes 8+4N..    : float16 LE × N — DNI values
+```
+`processRawData` and `processAnalemmaData` auto-detect the format: `buf.byteLength === 8 + N*6` → Uint32 offsets; `=== 8 + N*4` → Uint16 offsets.
+
 **Regenerating binary files** (requires NREL API key in repo-root `.env`):
 ```bash
 cd scripts/solargraph
@@ -200,11 +209,20 @@ python fetch_data.py --location-name seattle --period summer2024
 The script uses `ephem` for solstice dates and `pvlib` for the above-horizon elevation filter only. The pandas timestamp conversion uses `(index - pd.Timestamp("1970-01-01", tz="UTC")) // pd.Timedelta("1s")` — `astype("int64") // 10**9` is wrong on pandas 3.0+ (returns microseconds, not nanoseconds).
 
 **Rendering pipeline in `SolargraphCanvas.svelte`:**
-1. Fetch effect downloads `.bin` on city/period change, sets `rawData` (plain) + `rawKey` ($state trigger)
-2. Process effect runs on `rawKey`, `width`, or `splatScale` change — calls `processRawData()` which computes solar positions, applies adaptive sub-step interpolation (gap-aware, sigma-calibrated), and builds a `Float32Array` of `[azNorm, elevNorm, dniNorm, el_rad]` quads
-3. Render effect uploads instance data to GPU and draws
+1. Fetch effect downloads `.bin` on city/period change; when `winterPeriod` is set, both files are fetched and merged by `combineBinaryData()`. Result stored in `rawData` (plain) + `rawKey` ($state trigger).
+2. Normal process effect runs on `rawKey`, `width`, or `splatScale` change — calls `processRawData()` which computes solar positions, applies adaptive sub-step interpolation (gap-aware, sigma-calibrated), and builds a `Float32Array` of `[azNorm, elevNorm, dniNorm, el_rad]` quads.
+3. Analemma process effect runs when `showAnalemma` is true — calls `processAnalemmaData()` (see below).
+4. Render effect uploads instance data to GPU and draws.
 
-**Adding cities or periods:** update `config.json` in `scripts/solargraph/`, re-run `fetch_data.py`, and mirror the cities/periods arrays in `src/routes/solargraph/+page.svelte`.
+**Analemma mode** (`showAnalemma` prop / checkbox in `+page.svelte`):
+
+`processAnalemmaData` selects one point per UTC-hour per calendar day, forming figure-8 analemma curves. Key design decisions:
+- **Reference time**: position is computed at exactly **H:30:00 UTC** (`tsRef = Math.floor(ts/3600)*3600 + 1800`), not at the sample's actual timestamp. This guarantees all emitted points are at an identical clock time each day and eliminates sunrise/sunset azimuth artifacts (on transitional days when the sun rises just after the sample slot, the reference position is below the horizon and the day is cleanly excluded).
+- **Sample selection**: among all samples within 4 minutes of :30 for a given day:hour, keep the one closest to :30. Its DNI is used for brightness; its timestamp is used only to compute `tsRef`.
+- **No DNI filtering**: brightness encodes cloud cover naturally — cloudy points render dim and appear as gaps. Do not add a DNI threshold; it causes off-curve fallback samples to appear when the :30 sample is filtered.
+- **`minuteDist > 4` gate**: only samples within 4 minutes of :30 are candidates. Natural 5-min data alignment always places the closest sample within 2–3 min of :30; anything farther means the sun rises/sets within that UTC hour and the reference-position check would exclude it anyway, but the gate is a cheap early exit.
+
+**Adding cities or periods:** update `config.json` in `scripts/solargraph/`, re-run `fetch_data.py`, and mirror the CITIES/PERIOD_PAIRS arrays in `src/routes/app/solargraph/+page.svelte`.
 
 ### ZIPScribble App
 

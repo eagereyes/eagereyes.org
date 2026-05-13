@@ -34,6 +34,7 @@
 	let splatScalePct = $state(100);
 	let exposureEV    = $state(0);
 	let showAnalemma  = $state(false);
+	let savedPeriodType = 'full';  // remembers periodType before analemma was enabled
 
 	const selectedPeriodPair = $derived(PERIOD_PAIRS.find(p => p.key === periodPair) ?? PERIOD_PAIRS[PERIOD_PAIRS.length - 1]);
 
@@ -158,7 +159,16 @@
 				{/each}
 			</select>
 			<label class="analemma-toggle">
-				<input type="checkbox" bind:checked={showAnalemma} />
+				<input type="checkbox" checked={showAnalemma} onchange={(e) => {
+					const checked = e.currentTarget.checked;
+					if (checked) {
+						savedPeriodType = periodType;
+						periodType = 'full';
+					} else {
+						periodType = savedPeriodType;
+					}
+					showAnalemma = checked;
+				}} />
 				Analemma
 			</label>
 		</div>

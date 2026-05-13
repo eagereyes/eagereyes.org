@@ -592,6 +592,7 @@ void main() {
 
 	// Analemma rendering effect: separate from normal processing to avoid resetting playback
 	$effect(() => {
+		const _key = rawKey;  // re-run when city/period data changes
 		const ana = showAnalemma;
 		if (!rawData || !ana) return;
 
