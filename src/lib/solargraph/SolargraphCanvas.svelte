@@ -415,19 +415,26 @@ void main() {
 			const minute = d.getUTCMinutes();
 			const hourKey = `${dayStr}:${hour}`;
 
-			const pos = solarPosition(ts, lat, lon);
-			const dni = dnis[i];
-
-			// Reject nighttime or samples more than one 5-min interval from :30.
-			// Natural data alignment always lands within 2–3 min of :30; anything
-			// farther means the sun rises/sets within this UTC hour, so that day:hour
-			// is omitted rather than contributing an off-curve sunrise/sunset position.
+		// Reject samples far from :30 before any solar computation
 			const minuteDist = Math.abs(minute - 30);
-			if (pos.el <= 0 || minuteDist > 4) continue;
+			if (minuteDist > 4) continue;
+
+			// Compute position at exactly H:30:00 UTC — the same reference time every day.
+			// Using this reference (not the sample's actual timestamp) ensures all emitted
+			// points lie on the true analemma curve. Sunrise/sunset transition samples
+			// can't slip through at the wrong azimuth: if the sun is below the horizon
+			// at :30, the day is excluded even if it rises a minute or two later.
+			const tsRef = Math.floor(ts / 3600) * 3600 + 1800;
+			const posRef = solarPosition(tsRef, lat, lon);
+			const dni = dnis[i];
+			if (posRef.el <= 0) continue;
+
+			// Keep the sample closest to :30 for its DNI (brightness); store the
+			// reference az/el so every output position is at the exact :30 mark.
 			const existing = bestByHour.get(hourKey);
 			const existingMinuteDist = existing ? Math.abs((existing.ts % 3600) / 60 - 30) : Infinity;
 			if (!existing || minuteDist < existingMinuteDist) {
-				bestByHour.set(hourKey, { ts, az: pos.az, el: pos.el, dni });
+				bestByHour.set(hourKey, { ts, az: posRef.az, el: posRef.el, dni });
 			}
 		}
 
