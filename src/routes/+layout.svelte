@@ -7,6 +7,7 @@
 
 <svelte:head>
 	<link rel="sitemap" type="application/xml" href="/sitemap.xml">
+	<meta property="og:site_name" content="eagereyes" />
 </svelte:head>
 
 <div class="app">

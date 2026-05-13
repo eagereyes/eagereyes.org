@@ -40,6 +40,9 @@
 <svelte:head>
     <title>{data.title}</title>
     <meta name="description" content={data.description ?? data.title} />
+    <meta property="og:title" content={data.title} />
+    <meta property="og:description" content={data.description ?? data.title} />
+    <meta property="og:type" content="website" />
 </svelte:head>
 
 <div class="text-column" bind:this={container}>

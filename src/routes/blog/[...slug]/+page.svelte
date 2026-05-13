@@ -26,6 +26,7 @@
     <meta property="og:title" content="{data.meta.title} – eagereyes" />
     <meta property="og:description" content={data.meta.description} />
     <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://eagereyes.org/blog/{data.meta.date.substring(0, 4)}/{data.meta.slug}" />
     {#if data.meta.featuredImage}
     <meta property="og:image" content={data.meta.featuredImage.src} />
     {/if}
