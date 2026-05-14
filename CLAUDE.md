@@ -151,7 +151,7 @@ Next Author says…
 
 Subscribers are stored in DynamoDB (`eagereyes-subscribers` table, PK: `email`, GSI: `token-index` on `token`). Each record has `confirmed` (bool), `unsubscribed` (bool), and `token` (UUID used for confirm/unsubscribe links). A special `_last_sent` record tracks the last newsletter slug to prevent duplicate sends.
 
-**Lambda** (`lambda-newsletter/`): same TypeScript/ESM/Node 22.x pattern as the comment Lambda. Single handler with path-based routing:
+**Lambda** (`lambda-newsletter/`): same TypeScript/ESM/Node 22.x pattern as the comment Lambda. After a newsletter send completes, it fires a Pushover push notification (requires `PUSHOVER_TOKEN` and `PUSHOVER_USER` env vars; silently skipped if unset). Single handler with path-based routing:
 - `POST /subscribe` — honeypot + 3s timing check, writes unconfirmed record, sends confirmation email via SES
 - `GET /confirm?token=` — marks confirmed, redirects to `/subscribe/confirmed`
 - `GET /unsubscribe?token=` — marks unsubscribed, returns inline HTML page
