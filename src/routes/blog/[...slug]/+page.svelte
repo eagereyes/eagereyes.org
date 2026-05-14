@@ -14,6 +14,17 @@
     let currentYear = $derived(data.display === PageType.oneYear ? data.allPosts[0]?.date.substring(0, 4) : undefined);
     let archivedCount = $derived(currentYear ? data.allPosts.length - (data.yearCounts[currentYear] ?? 0) : 0);
     let showArchived = $state(false);
+
+    let blogSchema = $derived(data.display === PageType.singlePost && data.meta ? {
+        '@context': 'https://schema.org',
+        '@type': 'BlogPosting',
+        headline: data.meta.title,
+        description: data.meta.description,
+        datePublished: data.meta.date,
+        author: { '@type': 'Person', name: 'Robert Kosara', url: 'https://eagereyes.org/about' },
+        url: `https://eagereyes.org/blog/${data.meta.date.substring(0, 4)}/${data.meta.slug}`,
+        ...(data.meta.featuredImage ? { image: data.meta.featuredImage.src } : {})
+    } : null);
 </script>
 
 <svelte:head>
@@ -26,10 +37,12 @@
     <meta property="og:title" content="{data.meta.title} – eagereyes" />
     <meta property="og:description" content={data.meta.description} />
     <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://eagereyes.org/blog/{data.meta.date.substring(0, 4)}/{data.meta.slug}" />
     {#if data.meta.featuredImage}
     <meta property="og:image" content={data.meta.featuredImage.src} />
     {/if}
 {/if}
+{#if blogSchema}{@html `<script type="application/ld+json">${JSON.stringify(blogSchema)}</script>`}{/if}
 </svelte:head>
 
 {#if data.display === PageType.allPosts || data.display === PageType.oneYear}

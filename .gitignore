@@ -21,3 +21,8 @@ static/search-data.json
 
 function.zip
 emails*.txt
+
+# Storybloq
+.story/snapshots/
+.story/sessions/
+.story/status.json

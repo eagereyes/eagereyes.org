@@ -15,6 +15,10 @@ let { data }: PageProps = $props();
 <svelte:head>
 	<title>eagereyes.org – Visualization and Visual Communication</title>
 	<meta name="description" content="eagereyes – Visualization and Visual Communication" />
+	<meta property="og:title" content="eagereyes – Visualization and Visual Communication" />
+	<meta property="og:description" content="eagereyes – Visualization and Visual Communication" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://eagereyes.org/" />
 </svelte:head>
 
 <main>

@@ -8,6 +8,10 @@
 
 <svelte:head>
     <title>{data.tagName} – eagereyes</title>
+    <meta name="description" content="Blog posts about {data.tagName} on eagereyes." />
+    <meta property="og:title" content="{data.tagName} – eagereyes" />
+    <meta property="og:description" content="Blog posts about {data.tagName} on eagereyes." />
+    <meta property="og:type" content="website" />
 </svelte:head>
 
 <div class="blog-layout">

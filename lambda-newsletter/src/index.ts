@@ -13,6 +13,8 @@ const ALLOWED_ORIGIN = process.env.ALLOWED_ORIGIN ?? '';
 const GA_PROPERTY_ID = process.env.GA_PROPERTY_ID ?? '';
 const GA_SERVICE_ACCOUNT_KEY = process.env.GA_SERVICE_ACCOUNT_KEY ?? '';
 const REPORT_TO = process.env.REPORT_TO ?? '';
+const PUSHOVER_TOKEN = process.env.PUSHOVER_TOKEN ?? '';
+const PUSHOVER_USER = process.env.PUSHOVER_USER ?? '';
 const MIN_SUBMIT_MS = 3000;
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -98,6 +100,19 @@ function simplePage(title: string, message: string): string {
 <h1 style="color:#8e68a0">${title}</h1><p>${message}</p>
 <p><a href="${SITE_URL}" style="color:#8e68a0">← eagereyes.org</a></p>
 </body></html>`;
+}
+
+async function sendPushover(title: string, message: string): Promise<void> {
+    if (!PUSHOVER_TOKEN || !PUSHOVER_USER) return;
+    try {
+        await fetch('https://api.pushover.net/1/messages.json', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ token: PUSHOVER_TOKEN, user: PUSHOVER_USER, title, message }),
+        });
+    } catch (err) {
+        console.error('Pushover notification failed:', err);
+    }
 }
 
 // --- Handlers ---
@@ -328,6 +343,8 @@ async function handleSend(event: APIGatewayProxyEventV2): Promise<APIGatewayProx
         TableName: TABLE,
         Item: { email: '_last_sent', slug: postSlug, sent_at: new Date().toISOString() },
     }));
+
+    await sendPushover('eagereyes newsletter sent', `"${postTitle}" sent to ${sent} subscriber${sent === 1 ? '' : 's'}`);
 
     return jsonResponse(200, { ok: true, sent });
 }

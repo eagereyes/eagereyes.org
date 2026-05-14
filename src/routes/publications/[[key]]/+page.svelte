@@ -9,6 +9,18 @@
 		return key.split(':').at(-1)!.slice(0, 4);
 	}
 
+	let paperSchema = $derived(currentPaper.title.length ? {
+		'@context': 'https://schema.org',
+		'@type': 'ScholarlyArticle',
+		headline: currentPaper.title,
+		...(currentPaper.abstract ? { description: currentPaper.abstract } : {}),
+		author: currentPaper.author.split(' and ').map(a => ({ '@type': 'Person', name: a.trim() })),
+		datePublished: year(currentPaper._key),
+		isPartOf: { '@type': 'Periodical', name: currentPaper.venue },
+		url: `https://eagereyes.org/publications/${currentPaper._key.replaceAll(':', '-')}`,
+		...(currentPaper.doi ? { identifier: `https://doi.org/${currentPaper.doi}` } : {})
+	} : null);
+
 	function authors(author: string) {
 		return author.split(' and ').join(', ');
 	}
@@ -95,10 +107,25 @@
 </script>
 
 <svelte:head>
-{#if currentPaper.title.length}<title>Paper: {currentPaper.title} – eagereyes</title>
-{:else}<title>Robert Kosara's Publications – eagereyes</title>
+{#if currentPaper.title.length}
+    <title>Paper: {currentPaper.title} – eagereyes</title>
+    <meta name="description" content={currentPaper.abstract ? truncate(currentPaper.abstract, 200) : currentPaper.title} />
+    <meta property="og:title" content="{currentPaper.title} – eagereyes" />
+    <meta property="og:description" content={currentPaper.abstract ? truncate(currentPaper.abstract, 200) : currentPaper.title} />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://eagereyes.org/publications/{currentPaper._key.replaceAll(':', '-')}" />
+    {#if currentPaper._pdf !== 'no' && currentPaper.preview?.src}
+    <meta property="og:image" content={currentPaper.preview.src} />
+    {/if}
+{:else}
+    <title>Robert Kosara's Publications – eagereyes</title>
+    <meta name="description" content="Academic papers and publications by Robert Kosara on data visualization and visual communication." />
+    <meta property="og:title" content="Robert Kosara's Publications – eagereyes" />
+    <meta property="og:description" content="Academic papers and publications by Robert Kosara on data visualization and visual communication." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://eagereyes.org/publications/" />
 {/if}
-    <!-- <meta name="description" content={data.description} /> -->
+{#if paperSchema}{@html `<script type="application/ld+json">${JSON.stringify(paperSchema)}</script>`}{/if}
 </svelte:head>
 
 {#if currentPaper.title.length}
